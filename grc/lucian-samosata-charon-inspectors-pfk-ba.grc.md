@@ -5,6 +5,7 @@ author: Lucian of Samosata
 eul_wid: pfk-ba
 eul_aid: pfk
 canonical: "https://eulogikon.org/works/lucian-samosata-charon-inspectors-pfk-ba"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lucian of Samosata
 
 **eul_wid:** `pfk-ba` · [HTML page](https://eulogikon.org/works/lucian-samosata-charon-inspectors-pfk-ba)
-
-Charon or Inspectors is a satirical dialogue by the 2nd-century CE author Lucian of Samosata. A prime example of Menippean satire, the work blends prose with humor and philosophical critique. The narrative centers on the mythological ferryman of the dead, Charon, who temporarily leaves the Underworld. Driven by curiosity about mortal existence, he ascends to a lofty vantage point upon the shoulders of giants stacked on Mount Olympus. From this detached perspective, he observes the frantic and foolish pursuits of humanity, mocking their wars, ambitions, and greed. Through episodic conversations with the god Hermes, the dialogue systematically highlights the ultimate meaninglessness of these endeavors when viewed from the sobering standpoint of death. Modern scholars interpret the work as a sharp critique of human vanity and a reflection of Cynic or Skeptical ideals advocating tranquil detachment from worldly affairs. Composed for an educated, Greek-speaking audience within the Roman Empire, the text parodies mythological figures to deliver its cynical wit. The complete dialogue, structured in 25 sections, has been preserved through a robust tradition of Byzantine manuscripts transmitting Lucian's collected works.
 
 ## Text
 

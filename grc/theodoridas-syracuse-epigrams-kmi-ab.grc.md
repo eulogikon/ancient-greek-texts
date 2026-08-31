@@ -5,6 +5,7 @@ author: Theodoridas of Syracuse
 eul_wid: kmi-ab
 eul_aid: kmi
 canonical: "https://eulogikon.org/works/theodoridas-syracuse-epigrams-kmi-ab"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: Poetry
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Theodoridas of Syracuse
 
 **eul_wid:** `kmi-ab` · [HTML page](https://eulogikon.org/works/theodoridas-syracuse-epigrams-kmi-ab)
-
-The Epigrams of Theodoridas of Syracuse constitute a collection of short poems attributed to the Hellenistic poet, who was active in the 3rd century BCE. The collection as it exists today is not a single, unified book from antiquity but a modern assemblage of 84 passages ascribed to him. These poems survive exclusively through their inclusion in the much later Byzantine compilation known as the Greek Anthology. They are written in a literary Greek dialect and encompass the traditional thematic range of the epigrammatic genre, including dedicatory verses that describe offerings made to gods, sepulchral epitaphs intended for tombs, and erotic verses concerning love and desire.
-
-The work’s preservation is entirely indirect. The poems were initially gathered by the anthologist Meleager of Gadara around 100 BCE and were subsequently incorporated into the expanding corpus of the Greek Anthology. No independent manuscript of Theodoridas’s epigrams exists; some of the attributed passages are merely single lines or fragments cited by other ancient authors. Modern scholarship interprets Theodoridas’s output as a reflection of the Hellenistic period, during which the epigram evolved from a practical inscription into a sophisticated literary form cultivated by educated circles. His poems are considered exemplary of the era’s self-conscious artistry, characterized by polished description and refined expression.
 
 ## Text
 

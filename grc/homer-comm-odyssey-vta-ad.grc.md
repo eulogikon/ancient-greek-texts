@@ -5,6 +5,7 @@ author: Homer Commentary
 eul_wid: vta-ad
 eul_aid: vta
 canonical: "https://eulogikon.org/works/homer-comm-odyssey-vta-ad"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Grammar
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Homer Commentary
 
 **eul_wid:** `vta-ad` · [HTML page](https://eulogikon.org/works/homer-comm-odyssey-vta-ad)
-
-The Scholia to the Odyssey are a vast collection of ancient and medieval notes preserved in the margins of manuscripts of Homer’s epic poem. They are not a single work but a compilation assembled by many anonymous Byzantine editors, primarily during the 9th and 10th centuries CE. Their content, however, is a layered archive of much older scholarship, preserving fragments of commentary from Hellenistic, Roman, and Late Antique grammarians and critics.
-
-The scholia function as a detailed companion to the Odyssey. Each note is tied to a specific line or word, offering explanations on textual variants, difficult grammar, obscure vocabulary, mythology, geography, and literary style. Modern scholars view this corpus as an invaluable window into how ancient readers interpreted Homer, showing a tradition of meticulous scholarship that began with famous Alexandrian librarians like Aristarchus of Samothrace in the 3rd century BCE. The notes served a pedagogical purpose, designed to aid students and teachers in navigating the epic.
-
-The text survives primarily through medieval manuscripts, the most important being the 10th-century manuscript known as Laurentianus Plut. 32.24. The transmission is fragmentary; the surviving scholia are selective excerpts from fuller, now-lost commentaries. The compilation process over centuries involved repeated copying and abbreviation, making the original contributions of specific ancient scholars difficult to disentangle. Nonetheless, this tradition remains a fundamental resource for understanding the history of Homeric text and interpretation.
 
 ## Text
 

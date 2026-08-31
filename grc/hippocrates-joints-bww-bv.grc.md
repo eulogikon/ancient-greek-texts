@@ -5,6 +5,7 @@ author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-bv
 eul_aid: bww
 canonical: "https://eulogikon.org/works/hippocrates-joints-bww-bv"
+lang: grc
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hippocrates and the Hippocratic Corpus
 
 **eul_wid:** `bww-bv` · [HTML page](https://eulogikon.org/works/hippocrates-joints-bww-bv)
-
-On Joints is a surgical treatise from the Hippocratic Corpus, the collection of ancient Greek medical works traditionally attributed to Hippocrates of Cos. Composed in Ionic Greek around 400 BCE, this practical manual provides a systematic account of the diagnosis and treatment of dislocations and fractures, with particular focus on the shoulder, hip, knee, and jaw. Its 85 sections describe hands-on reduction techniques and the application of mechanical devices, most famously the Hippocratic bench, for applying traction. The text is distinguished by its empirical methodology and candid acknowledgment of therapeutic limits, explicitly stating when certain injuries, such as dislocations of the hip, were considered virtually incurable.
-
-Intended for practicing physicians, the treatise exemplifies the development of rational, experience-based medicine in Classical Greece. It is closely associated with two other Hippocratic surgical texts, On Fractures and On Instruments of Reduction, and may have originally constituted part of a larger orthopedic manual. The work survives substantially intact through medieval Greek manuscripts. Although its authorship remains uncertain and it was likely composed by a practitioner within the broader Hippocratic school, On Joints became a foundational text for orthopedic surgery, exerting a profound influence on medical practice from antiquity through the early modern period.
 
 ## Text
 

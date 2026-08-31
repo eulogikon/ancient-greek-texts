@@ -5,6 +5,7 @@ author: Epic Work  Anonymous
 eul_wid: kjq-ab
 eul_aid: kjq
 canonical: "https://eulogikon.org/works/epic-anon-creator-world-hermopolis-kjq-ab"
+lang: grc
 period: Hellenistic
 dialect: Epic (Homeric) (frg)
 domain: Epic
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Epic Work  Anonymous
 
 **eul_wid:** `kjq-ab` · [HTML page](https://eulogikon.org/works/epic-anon-creator-world-hermopolis-kjq-ab)
-
-Mercury the Creator of the World and Hermopolis Magna is an anonymous Greek epic poem that narrates the cosmogonic and theogonic actions of the god Hermes. The work, structured in 32 passages, centers on Hermes in his role as a demiurge, or world-creator, and explores his association with the major Egyptian cult center of Hermopolis Magna. This thematic focus indicates a narrative deeply engaged in religious syncretism, explicitly identifying the Greek Hermes with the Egyptian god Thoth, a deity of wisdom, writing, and magic. The poem likely incorporates a foundation myth for the city, detailing its religious significance within this fused theological framework. While the specific episodes, characters, and manuscript tradition of the work remain unattested in standard references, its subject matter strongly suggests a composition date in the Hellenistic or Imperial Roman period, when such cultural and theological syntheses between Greek and Egyptian traditions were particularly prevalent. The poem stands as a direct literary example of interpretatio graeca, the Hellenic practice of equating foreign gods with their own, here recasting a fundamental Egyptian religious concept through the lens of epic poetry.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Anaxarchus of Abdera
 eul_wid: fhs-ab
 eul_aid: fhs
 canonical: "https://eulogikon.org/works/anaxarchus-abdera-kingship-wisdom-fhs-ab"
+lang: grc
 period: Classical
 dialect: "Attic (phi, frg)"
 domain: Philosophy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Anaxarchus of Abdera
 
 **eul_wid:** `fhs-ab` · [HTML page](https://eulogikon.org/works/anaxarchus-abdera-kingship-wisdom-fhs-ab)
-
-On Kingship and Wisdom is a collection of philosophical fragments attributed to Anaxarchus of Abdera, a Greek philosopher of the late 4th century BCE. The work, which belongs to the domain of ethical and political philosophy, does not survive as a complete treatise but is reconstructed from quotations preserved by later authors such as Clement of Alexandria, Stobaeus, and Aelian. These fragments collectively explore the nature of true wisdom and its relationship to political power, particularly kingship.
-
-The central theme concerns the distinction between mere extensive learning and genuine understanding. The text argues that polymathy, or much learning, can be both a great benefit and a great harm; it aids the discerning individual but injures one who speaks thoughtlessly in any public forum. True wisdom is defined not by the volume of knowledge but by the critical ability to judge the right moment and measure in speech and action. A key passage asserts that those who speak skillfully but outside the proper occasion, even if their words are clever, are not counted as wise but are instead deemed responsible for their own folly. This ethical framework is applied to the context of rulership, with one fragment noting the difficulty of amassing wealth and the even greater challenge of providing for its security.
-
-The collection is best known for anecdotes concerning Anaxarchus's association with Alexander the Great, whom he accompanied on his campaigns. While the direct narrative of these encounters is not contained in the extant Greek passages provided, the philosophical principles they embody clearly inform the famous tradition, recorded elsewhere, of Anaxarchus advising Alexander that a king could kill a wise man but could not truly harm him. The fragments thus present wisdom as an inner virtue and self-sufficiency that transcends external political fortune. These protreptic teachings, directed at an elite audience within the Hellenistic world, contributed to later philosophical developments, particularly influencing Stoic and Skeptical ideas concerning the sage's independence and equanimity.
 
 ## Text
 

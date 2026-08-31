@@ -5,6 +5,7 @@ author: Timocles B Comic Poet
 eul_wid: hcq-ab
 eul_aid: hcq
 canonical: "https://eulogikon.org/works/timocles-comic-demagogues-hcq-ab"
+lang: grc
 period: Classical
 dialect: Mixed Dialects (frg)
 domain: Comedy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Timocles B Comic Poet
 
 **eul_wid:** `hcq-ab` · [HTML page](https://eulogikon.org/works/timocles-comic-demagogues-hcq-ab)
-
-The Comic Fragments on Demagogues is a modern compilation of 172 short passages attributed to the Athenian comic poet Timocles, who was active during the late 4th and early 3rd centuries BCE. Operating within the genre of Middle Comedy during the Hellenistic period, Timocles composed works that satirized contemporary Athenian politicians and popular leaders. The fragments, written in Attic Greek verse, are not excerpts from a single play but are thematically grouped quotations from his various lost comedies. They offer a window into the political and social critiques of an era when Athens had lost its political independence and was adjusting to Macedonian hegemony.
-
-The complete texts of Timocles's plays have not survived. What remains are brief citations preserved by later authors, most notably Athenaeus in his Deipnosophistae, who referenced them primarily for their commentary on social customs and dining habits. Scholars value these fragments as important evidence for the evolution of Athenian comedy, marking a transition from the overtly political satire of the 5th century to the more generalized social observation and character types that characterized later periods. As such, they provide significant insight into the language, political concerns, and public figures of early Hellenistic Athens.
 
 ## Text
 

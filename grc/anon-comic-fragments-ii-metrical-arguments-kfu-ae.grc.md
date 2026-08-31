@@ -5,6 +5,7 @@ author: Comic Fragments Anonymous II
 eul_wid: kfu-ae
 eul_aid: kfu
 canonical: "https://eulogikon.org/works/anon-comic-fragments-ii-metrical-arguments-kfu-ae"
+lang: grc
 period: Hellenistic
 dialect: Mixed Dialects
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Comic Fragments Anonymous II
 
 **eul_wid:** `kfu-ae` · [HTML page](https://eulogikon.org/works/anon-comic-fragments-ii-metrical-arguments-kfu-ae)
-
-The work known as Metrical Arguments, attributed to Comic Fragments Anonymous II, is a collection presented as consisting of ten verse passages. Its title suggests a focus on the analysis of poetic meters drawn from comic fragments, indicating it may function either as an ancient treatise on metrical structure or as a modern scholarly compilation examining the formal properties of lost comedies. The content would logically involve the study of specific comic meters, such as the trimeter or tetrameter, and an exploration of how these rhythmic patterns interact with diction and humor within the fragmentary texts. Such a work might also engage in principles of textual criticism, employing metrical rules to propose reconstructions of damaged or incomplete lines. The details of its manuscript tradition and preservation are undocumented; if ancient, its transmission history remains unknown, while a modern origin would imply circulation through academic publications. While metrical analysis is a cornerstone for understanding comic verse, reconstructing plots, and tracing the development of Greek philology, the specific influence and scholarly reception of this particular compilation are not recorded.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Damascius of Damascus
 eul_wid: uyg-aa
 eul_aid: uyg
 canonical: "https://eulogikon.org/works/damascius-damascus-life-of-isidore-uyg-aa"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Damascius of Damascus
 
 **eul_wid:** `uyg-aa` · [HTML page](https://eulogikon.org/works/damascius-damascus-life-of-isidore-uyg-aa)
-
-The Life of Isidore, also known as the Philosophical History, is a biographical treatise by the Neoplatonist philosopher Damascius of Damascus. Composed in the early sixth century CE, shortly after the closure of the Platonic Academy in Athens, the work is structured as a collection of anecdotes and sketches. Its central figure is Damascius’s teacher, Isidore of Alexandria, but its scope extends to encompass numerous other contemporary philosophers, effectively providing a history of the late Athenian and Alexandrian Neoplatonic schools. The text functions as a spirited defense of pagan Hellenic philosophy and religious practice, particularly theurgy, against the rising dominance of Christianity in the late antique world. It portrays the ideal philosophical life as one of intellectual rigor and asceticism, offering critiques of contemporaries deemed insufficiently committed or overly concerned with rhetorical display. The work also details philosophical succession and the transmission of wisdom, while including reports of miracles and divine signs that validate the pagan philosophical path, in a manner paralleling contemporary Christian hagiography. The Life of Isidore survives only in fragments, preserved primarily within the Bibliotheca of the ninth-century patriarch Photius and the tenth-century Byzantine encyclopedia known as the Suda. These excerpts were later assembled into modern critical editions. As an eyewitness account from a leading pagan intellectual, the text provides invaluable insight into the intellectual debates and religious tensions characterizing the final phase of Athenian Neoplatonism, offering historians a rare and vital non-Christian perspective on the cultural transformations of late antiquity.
 
 ## Text
 

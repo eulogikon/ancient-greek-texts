@@ -5,6 +5,7 @@ author: Aristotle
 eul_wid: hgw-bz
 eul_aid: hgw
 canonical: "https://eulogikon.org/works/aristotle-politics-hgw-bz"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristotle
 
 **eul_wid:** `hgw-bz` · [HTML page](https://eulogikon.org/works/aristotle-politics-hgw-bz)
-
-Aristotle's Politics is a foundational treatise of political philosophy composed in the mid-4th century BCE. The work systematically investigates the nature, purpose, and organization of the city-state, or polis, which Aristotle posits as the natural and highest form of human community. He famously defines man as a political animal, arguing that human flourishing and the attainment of the good life are possible only within this political framework. The treatise begins with an analysis of the basic components of the state, examining the structure of the household, including the relationships of master and slave, husband and wife, and parent and child. Aristotle then critiques the political theories of his predecessors, such as Plato, before embarking on his own detailed classification of constitutions. He distinguishes between three correct forms of government—kingship, aristocracy, and polity—which aim at the common good, and their three deviant counterparts—tyranny, oligarchy, and democracy—which serve only the rulers' interests. Much of the work is devoted to practical political science, analyzing the causes of revolution and the methods for preserving various types of constitutions. The later books shift to constructing the framework for an ideal state, discussing its population, territory, citizenship, and most importantly, the system of education required to cultivate virtuous citizens.
-
-The text of the Politics has survived complete through medieval manuscripts, with the standard modern reference stemming from the 1831 Bekker edition. Scholarly consensus holds that the eight books were composed during Aristotle's final period in Athens, though their original coherence and order remain subjects of debate; some modern editors have questioned the placement of the books concerning the ideal state. The treatise is notable for its empirical method, drawing upon Aristotle's own collection and analysis of over 150 historical Greek constitutions. Written as the traditional Greek polis was being eclipsed by the rising hegemony of Macedon, the work was likely intended for his students and educated civic leaders. Its profound and enduring influence shaped subsequent political thought across diverse traditions, including medieval Islamic philosophy, Scholasticism, the Renaissance, and the foundations of modern republicanism and constitutional theory.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Hymnic Collection  Anonymous
 eul_wid: upu-ak
 eul_aid: upu
 canonical: "https://eulogikon.org/works/hymnic-anon-aphrodite-upu-ak"
+lang: grc
 period: Classical
 dialect: Epic (Homeric)
 domain: Poetry
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hymnic Collection  Anonymous
 
 **eul_wid:** `upu-ak` · [HTML page](https://eulogikon.org/works/hymnic-anon-aphrodite-upu-ak)
-
-The Homeric Hymn to Aphrodite is a substantial poetic composition of 293 lines, preserved in its entirety within the anonymous collection of Homeric Hymns. Composed in the dactylic hexameter of epic poetry, it dates to approximately the seventh or sixth century BCE. The hymn narrates the goddess Aphrodite's seduction of the mortal Anchises, a Trojan shepherd dwelling on Mount Ida. Disguising herself as a mortal maiden, Aphrodite orchestrates their encounter and union. Following this, she reveals her true divine nature, prophesies the birth of their son, the hero Aeneas, and sternly warns Anchises against boasting of his liaison with a goddess.
-
-As one of the major hymns in the collection, it likely functioned as a prelude to the recitation of longer epic poetry. The work is a sophisticated mythological narrative that explores the dynamics of divine and mortal realms. It presents a notable inversion of typical power structures, depicting a goddess herself subjected to the compelling force of desire for a mortal man, thereby revealing a moment of divine vulnerability. The hymn stands as the earliest and most complete literary source for the myth of Aeneas, providing the foundational story that would later become central to Roman myth and Virgil's epic, the Aeneid.
 
 ## Text
 

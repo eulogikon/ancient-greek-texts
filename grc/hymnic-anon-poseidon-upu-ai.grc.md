@@ -5,6 +5,7 @@ author: Hymnic Collection  Anonymous
 eul_wid: upu-ai
 eul_aid: upu
 canonical: "https://eulogikon.org/works/hymnic-anon-poseidon-upu-ai"
+lang: grc
 period: Classical
 dialect: Epic (Homeric)
 domain: Poetry
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hymnic Collection  Anonymous
 
 **eul_wid:** `upu-ai` · [HTML page](https://eulogikon.org/works/hymnic-anon-poseidon-upu-ai)
-
-Hymn 22 to Poseidon is a brief religious poem belonging to the collection traditionally called the Homeric Hymns. While ancient tradition ascribed these works to Homer, modern scholarship attributes them to various anonymous poets of the Greek Archaic period, dating approximately from the seventh to the sixth centuries BCE. Composed in the epic dialect and dactylic hexameter verse, this hymn is the shortest in the collection, consisting of only seven lines. It opens with a direct invocation to Poseidon, celebrating his dual domains as the shaker of the earth and the lord of the barren sea. The poem praises his specific functions as the tamer of horses and the savior of ships, concluding with a conventional prayer for his goodwill and protection.
-
-The hymn survives intact through medieval manuscript transmission. Scholars generally interpret these hymns not as independent liturgical texts but as preludes, likely recited by performing poets at religious festivals to honor a deity before the recitation of longer epic poetry. The extreme concision of this hymn exemplifies that introductory function. Its condensed yet comprehensive praise reflects the fundamental importance of Poseidon in ancient Greek life as a deity central to maritime navigation, horsemanship, and the seismic forces of the natural world.
 
 ## Text
 

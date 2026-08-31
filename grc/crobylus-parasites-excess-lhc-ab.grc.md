@@ -5,6 +5,7 @@ author: Crobylus the Comic Poet
 eul_wid: lhc-ab
 eul_aid: lhc
 canonical: "https://eulogikon.org/works/crobylus-parasites-excess-lhc-ab"
+lang: grc
 period: Hellenistic
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Crobylus the Comic Poet
 
 **eul_wid:** `lhc-ab` · [HTML page](https://eulogikon.org/works/crobylus-parasites-excess-lhc-ab)
-
-The Fragments on Parasites and Excess are a collection of thirty verse passages attributed to the 4th-century BCE comic poet Crobylus, a figure associated with the tradition of Middle Comedy. The work survives only in these fragmentary excerpts, likely extracted from one or more of his lost comedies, and no complete plot or dramatic structure has been preserved. The content engages with the characteristic satirical themes of its period, focusing on the social role and strategies of the parasitic flatterer, the excesses of gluttony and drunkenness, and the dynamics of patronage and hypocrisy in Athenian society. The fragments are preserved exclusively through quotation by later ancient authors, most notably the lexicographer and anthologist Athenaeus in his Deipnosophistae, who cited them for their illustrative and linguistic value. These excerpts contribute to the scholarly understanding of Middle Comedy as a transitional phase between the political satire of Old Comedy and the domestic, typological focus of New Comedy. Their detailed portrayal of social types like the cunning parasite illustrates thematic continuities that were developed further by later Greek dramatists and exerted a significant influence on Roman comic playwrights such as Plautus and Terence.
 
 ## Text
 

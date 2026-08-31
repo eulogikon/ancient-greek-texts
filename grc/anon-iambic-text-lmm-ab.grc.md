@@ -5,6 +5,7 @@ author: Iambic Work Anonymous
 eul_wid: lmm-ab
 eul_aid: lmm
 canonical: "https://eulogikon.org/works/anon-iambic-text-lmm-ab"
+lang: grc
 period: Hellenistic
 dialect: Koine (frg)
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Iambic Work Anonymous
 
 **eul_wid:** `lmm-ab` · [HTML page](https://eulogikon.org/works/anon-iambic-text-lmm-ab)
-
-The Anonymous Iambics are a collection of fourteen short passages of Greek iambic poetry, preserved exclusively in the Anthology of the 5th-century CE compiler Stobaeus. The work comprises moralizing, gnomic verses offering ethical instruction and practical wisdom on life, character, virtue, and vice. The author is unknown, and the excerpts lack a unifying narrative, being linked primarily by their iambic meter and sententious content. The work survives solely as excerpts quoted by Stobaeus in the third book of his Anthology, which is dedicated to ethical topics. There is no independent manuscript tradition; the text is reconstructed entirely from Stobaean manuscripts. These passages are considered fragmentary, likely drawn from a larger, lost body of iambic verse or from separate anonymous sources that were grouped together by the compiler. While their direct literary influence is untraceable, the iambics are significant for their preservation within Stobaeus’s anthology, a major conduit for the transmission of Greek literature. As part of this collection, they contributed to the perpetuation of Greek ethical thought in a popular and accessible poetic form.
 
 ## Text
 

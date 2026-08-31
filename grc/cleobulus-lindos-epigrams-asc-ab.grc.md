@@ -5,6 +5,7 @@ author: Cleobulus of Lindos II
 eul_wid: asc-ab
 eul_aid: asc
 canonical: "https://eulogikon.org/works/cleobulus-lindos-epigrams-asc-ab"
+lang: grc
 period: Archaic
 dialect: Doric (frg)
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Cleobulus of Lindos II
 
 **eul_wid:** `asc-ab` · [HTML page](https://eulogikon.org/works/cleobulus-lindos-epigrams-asc-ab)
-
-The Epigrams constitute a collection of short, elegiac verse attributed to Cleobulus of Lindos, one of the Seven Sages of Greece. As gnomic poetry, these epigrams offered concise moral and practical advice, aligning with the tradition of archaic wisdom literature through maxims on virtue, moderation, and social conduct. The work survives only as a title and through possible fragments; the notation of eight passages refers to testimonia collected from later sources rather than a continuous, preserved text. No independent manuscript tradition exists for Cleobulus’s epigrams. Any surviving lines are preserved doxographically within the broader tradition of the Sayings of the Seven Sages, quoted by later authors such as Plato and Diogenes Laertius. As part of the Seven Sages corpus, the reputed epigrams contributed to the foundation of Greek ethical thought. This tradition of concise, memorable wisdom was extensively reproduced and debated, ensuring its profound influence on subsequent philosophy and literature.
 
 ## Text
 

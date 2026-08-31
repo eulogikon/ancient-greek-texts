@@ -5,6 +5,7 @@ author: Aristides the Orator
 eul_wid: qwm-bg
 eul_aid: qwm
 canonical: "https://eulogikon.org/works/aristides-orator-sacred-words-qwm-bg"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristides the Orator
 
 **eul_wid:** `qwm-bg` · [HTML page](https://eulogikon.org/works/aristides-orator-sacred-words-qwm-bg)
-
-The Sacred Words Fifth, also known as the Fifth Sacred Tale, is an autobiographical oration by the second-century CE Greek orator Aelius Aristides. Composed in Attic Greek around 170–171 CE, it stands as the longest of his six Sacred Tales, a series detailing his protracted illness and the healing interventions of the god Asclepius. Structured in fifteen sections as a prose hymn, the work recounts a specific sequence of dreams, oracles, and divine prescriptions Aristides received, primarily during his residence at the god’s sanctuary in Pergamum. It merges a detailed personal medical history with expressions of religious devotion, cataloging his symptoms and the god's often demanding commands, which included acts such as bathing in icy rivers during winter, all of which the orator meticulously obeyed.
-
-The text survives in its entirety through medieval manuscripts that preserved Aristides’ complete works, owing to his enduring reputation as a canonical model of classical rhetoric. Modern scholarship regards the Fifth Sacred Tale as a sophisticated artifact of religious testimony from the Second Sophistic period. Crafted for a literate and cultured audience, it serves as a unique source on ancient therapeutic practices, particularly the ritual of incubation, or healing sleep within a sanctuary. The oration provides an unparalleled firsthand narrative illuminating the intersection of elite rhetorical culture, the experience of chronic illness, and personal piety in the high Roman Empire.
 
 ## Text
 

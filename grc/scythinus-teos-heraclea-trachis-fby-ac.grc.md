@@ -5,6 +5,7 @@ author: Scythinus of Teos II
 eul_wid: fby-ac
 eul_aid: fby
 canonical: "https://eulogikon.org/works/scythinus-teos-heraclea-trachis-fby-ac"
+lang: grc
 period: Classical
 dialect: Ionic Iambic
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Scythinus of Teos II
 
 **eul_wid:** `fby-ac` · [HTML page](https://eulogikon.org/works/scythinus-teos-heraclea-trachis-fby-ac)
-
-The work On the Heraclea of Trachis is an excerpt from a longer poem on the deeds of Heracles composed by the iambic poet Scythinus of Teos. It survives only as a single iambic trimeter line preserved in the ancient scholarly notes on Apollonius Rhodius’s Argonautica. The fragment recounts that Heracles, after breaking off a horn from the river-god Achelous during their contest for the hand of Deianeira, gave it to nymphs who transformed it into the Cornucopia, or Horn of Plenty. This provides an aetiological narrative for that symbol and represents a specific poetic variation on a widespread myth. The complete poem is lost, and this line is transmitted exclusively through the scholia to Apollonius Rhodius, indicating the work was known to and consulted by Alexandrian commentators. Its preservation demonstrates that Scythinus’s Heraclea served as a source for mythological variants in Hellenistic scholarship and confirms the poem’s engagement with the Trachinian cycle of myths surrounding Heracles.
 
 ## Text
 

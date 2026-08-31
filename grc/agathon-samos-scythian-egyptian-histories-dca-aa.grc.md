@@ -5,6 +5,7 @@ author: Agathon of Samos
 eul_wid: dca-aa
 eul_aid: dca
 canonical: "https://eulogikon.org/works/agathon-samos-scythian-egyptian-histories-dca-aa"
+lang: grc
 period: Classical
 dialect: Ionic (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Agathon of Samos
 
 **eul_wid:** `dca-aa` · [HTML page](https://eulogikon.org/works/agathon-samos-scythian-egyptian-histories-dca-aa)
-
-The Scythian and Egyptian Histories, attributed to the otherwise unattested Agathon of Samos, is a lost prose work of historiography or ethnography. Its Greek title, Apospasmata, meaning "Extracts" or "Selections," indicates it was likely a compilation of notes concerning the Scythians and Egyptians. Based on its title and genre, the work presumably addressed standard ethnographic themes such as descriptions of geography, customs, laws, and the origins and history of these two prominent cultures, often framing them in comparison to Greek norms. The work is not recorded in standard catalogs of fragmentary Greek historians and survives only as a title or through very limited references; an uncorroborated notation of "five passages" may hint at the extent of any surviving fragments. As an ethnographic compilation, it would have contributed to the Greek understanding of major "barbarian" peoples, and its apparent format as a collection of extracts reflects a scholarly practice of creating concise digests from larger works for an audience interested in foreign customs.
 
 ## Text
 

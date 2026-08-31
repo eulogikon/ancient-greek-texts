@@ -5,6 +5,7 @@ author: Galen of Pergamon
 eul_wid: qmm-bx
 eul_aid: qmm
 canonical: "https://eulogikon.org/works/galen-pergamon-differences-symptoms-qmm-bx"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Galen of Pergamon
 
 **eul_wid:** `qmm-bx` · [HTML page](https://eulogikon.org/works/galen-pergamon-differences-symptoms-qmm-bx)
-
-On the Differences of Symptoms is a medical treatise by the Roman-era Greek physician Galen of Pergamon, composed likely in the latter half of the second century CE. The work constitutes a systematic and philosophical investigation into symptomatology, aiming to perfect the theoretical account of all abnormal bodily conditions. Galen establishes a foundational tripartite division: a bodily condition departing from nature is either a disease itself, a cause of disease, or a symptom of a disease. He notes that while some physicians use the term "epigenema" for symptom, the more common Greek usage encompasses "symptoma," "pathema," and "pathos." The treatise meticulously differentiates these categories, defining disease specifically as an abnormal constitution that primarily impairs a bodily function.
-
-Proceeding from these definitions, the text methodically classifies symptoms according to their origin, location, and nature, creating a logical diagnostic framework. It is structured as a detailed, point-by-point exposition, divided into 43 sections. Written during a period of intense debate among medical sects, the treatise advances Galen's project of establishing medicine as a rational science grounded in Hippocratic observation and Aristotelian logic. It was intended for advanced students and practicing physicians, providing them with a precise technical vocabulary for diagnosis. The complete work was preserved through Byzantine Greek manuscripts and later Arabic and Latin translations, ensuring its profound influence on medical theory in both the Islamic world and medieval Europe for centuries.
 
 ## Text
 

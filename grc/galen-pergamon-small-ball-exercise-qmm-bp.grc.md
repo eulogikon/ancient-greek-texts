@@ -5,6 +5,7 @@ author: Galen of Pergamon
 eul_wid: qmm-bp
 eul_aid: qmm
 canonical: "https://eulogikon.org/works/galen-pergamon-small-ball-exercise-qmm-bp"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Galen of Pergamon
 
 **eul_wid:** `qmm-bp` · [HTML page](https://eulogikon.org/works/galen-pergamon-small-ball-exercise-qmm-bp)
-
-On the Exercise of the Small Ball is a medical treatise by the physician Galen of Pergamon, composed in Greek during the late second century CE. In this concise work, Galen advocates for a specific regimen of physical training involving coordinated exercises with a small ball. He presents a systematic argument for its superiority over more strenuous athletic pursuits or heavy gymnastics, contending that it offers a balanced, full-body workout conducive to health while minimizing the risk of injury. The treatise details the physiological benefits and the precise movements involved, positioning the activity as an ideal element within a preventive healthcare program.
-
-Written during Galen's service as an imperial physician in Rome, the text is structured as a comparative analysis of various forms of exercise. Modern scholarship interprets it as part of Galen's broader project to assert medicine, rather than athletic coaching, as the proper authority on bodily maintenance. It reflects a contemporary critique of professional sports, which Galen viewed as detrimental to holistic well-being. The treatise has been transmitted continuously since antiquity, surviving intact in Greek manuscripts and later translated into Arabic and Latin. It remains a significant early text on the philosophy and practice of therapeutic exercise within the history of medicine.
 
 ## Text
 

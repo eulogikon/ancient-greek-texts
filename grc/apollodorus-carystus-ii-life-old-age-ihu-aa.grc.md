@@ -5,6 +5,7 @@ author: Apollodorus of Carystus II
 eul_wid: ihu-aa
 eul_aid: ihu
 canonical: "https://eulogikon.org/works/apollodorus-carystus-ii-life-old-age-ihu-aa"
+lang: grc
 period: Hellenistic
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Apollodorus of Carystus II
 
 **eul_wid:** `ihu-aa` · [HTML page](https://eulogikon.org/works/apollodorus-carystus-ii-life-old-age-ihu-aa)
-
-Fragments on Life and Old Age is a lost comedy attributed to the New Comedy playwright Apollodorus of Carystus, who was active in early 3rd-century BCE Athens. The work is known solely by its title and a report of fifty-four surviving fragments, with no description of its plot or characters preserved. The title indicates it treated themes of life and aging, consistent with New Comedy's focus on domestic and social situations. The extant fragments suggest the play explored life stages and generational differences, the social and familial duties of the elderly, and the trials and comedies of aging. The play is not listed among Apollodorus's known works in standard ancient sources like the Suda, and its fragments presumably survived through quotations in later authors. While its direct influence is untraceable, Apollodorus's comedies were adapted by Roman playwrights like Terence, transmitting New Comedy conventions into the Western tradition. This work exemplifies the genre's enduring engagement with universal social themes.
 
 ## Text
 

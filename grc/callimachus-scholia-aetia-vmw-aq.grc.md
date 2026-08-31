@@ -5,6 +5,7 @@ author: Callimachus Scholia
 eul_wid: vmw-aq
 eul_aid: vmw
 canonical: "https://eulogikon.org/works/callimachus-scholia-aetia-vmw-aq"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: Grammar
@@ -19,22 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Callimachus Scholia
 
 **eul_wid:** `vmw-aq` · [HTML page](https://eulogikon.org/works/callimachus-scholia-aetia-vmw-aq)
-
-Overview This work is an ancient prose scholium, or explanatory note, on the first book of Callimachus’s Aetia. Scholia are commentaries that elucidate difficult words, references, and passages in a primary text. Callimachus’s Aetia (c. 310–240 BCE) is a learned, allusive elegiac poem collecting mythical and historical origin stories. The scholia to his works form a corpus of ancient scholarship essential for interpreting his dense poetry.
-
-Content As a commentary, its content is determined by the Callimachean passage it explicates. Its focus typically involves:
-
-Exegesis: Explaining mythological, historical, or geographical references.
-
-Lexicography: Defining rare or archaic words.
-
-Textual Criticism: Noting variant readings or discussing textual authenticity.
-
-Literary Analysis: Commenting on poetic style, meter, or literary allusions.
-
-Transmission The scholia are preserved in the margins of medieval manuscripts containing Callimachus’s works. The principal witness for the Aetia and its scholia is the 13th-century CE manuscript Laurentianus Conventi soppressi 627. These scholia are compilations drawing on earlier Hellenistic scholarship, such as the lost commentary by the grammarian Theon.
-
-Significance The scholia are indispensable for modern scholarship on the fragmentary Aetia, providing narrative context for reconstruction. They preserve fragments of lost works, historical details, and are a primary witness to ancient literary criticism and the reception of Hellenistic poetry.
 
 ## Text
 

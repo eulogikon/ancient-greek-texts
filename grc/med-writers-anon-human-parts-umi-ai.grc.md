@@ -5,6 +5,7 @@ author: Medical Writers Anonymous
 eul_wid: umi-ai
 eul_aid: umi
 canonical: "https://eulogikon.org/works/med-writers-anon-human-parts-umi-ai"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Medical Writers Anonymous
 
 **eul_wid:** `umi-ai` · [HTML page](https://eulogikon.org/works/med-writers-anon-human-parts-umi-ai)
-
-The work Names of Human Parts is a medical glossary traditionally, though spuriously, attributed to Galen and thus classified among the Pseudo-Galenic writings. It functions as a systematic anatomical lexicon, with the extant portion designated as Book 1 containing seventy-two entries. Each entry typically presents a Greek anatomical term followed by a concise definition or explanatory synonym. The text opens with a prologue that justifies its purpose through analogy to other disciplines, arguing that just as a musician must learn the names of strings or a geometer must define a line or circle, so too must a medical student first learn the correct names for each part of the body. This introductory rationale explicitly links the work to the pedagogical tradition, framing it as an essential primer for the study of medicine.
-
-Transmitted within the medieval manuscript tradition of the Galenic corpus, its survival was secured by its inclusion among Galen's works, a common fate for useful educational texts. The glossary represents a specific strand of Greek medical lexicography from the Roman Imperial period or Late Antiquity, dedicated to clarifying and codifying the technical vocabulary found in earlier Hippocratic and Hellenistic medical literature. Its significance lies primarily in its pedagogical utility, serving as a reference tool that contributed to the standardization and transmission of anatomical terminology through Greco-Roman, Byzantine, and subsequent scholarly traditions.
 
 ## Text
 

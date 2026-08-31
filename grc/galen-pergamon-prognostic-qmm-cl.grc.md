@@ -5,6 +5,7 @@ author: Galen of Pergamon
 eul_wid: qmm-cl
 eul_aid: qmm
 canonical: "https://eulogikon.org/works/galen-pergamon-prognostic-qmm-cl"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Galen of Pergamon
 
 **eul_wid:** `qmm-cl` · [HTML page](https://eulogikon.org/works/galen-pergamon-prognostic-qmm-cl)
-
-On Hippocrates' Prognostic is a comprehensive commentary by the physician Galen of Pergamon on the Hippocratic treatise Prognostic. Structured as a meticulous, line-by-line exegesis of 316 passages from the original work, Galen's treatise systematically explains and defends Hippocratic methods for predicting the course, outcome, and duration of disease. Composed in the 2nd century CE, the work champions prognosis as a fundamental rational skill, integrating anatomical theory with detailed clinical observation to interpret bodily signs. A central theme is the vigorous establishment of Hippocrates as the supreme medical authority and the defense of logical, semeiotic interpretation against rival medical sects, particularly the Empiricists and Methodists. Galen also applies careful philological exegesis to address textual variants within the Hippocratic source material. The complete text survives in Greek manuscripts and was later translated into Arabic during the 9th-century Abbasid translation movement, followed by Latin versions. These translations ensured its preservation and widespread dissemination in both Islamic and medieval European medical traditions. The commentary was instrumental in cementing the combined authority of Hippocrates and Galen as the foundational pillars of Western medicine for over a millennium, systematically reinforcing prognosis as a central discipline of academic medicine. It remains a crucial source for understanding Galen's interpretive methods and the practice of clinical medicine in the Roman era.
 
 ## Text
 
@@ -1090,7 +1089,7 @@ On Hippocrates' Prognostic is a comprehensive commentary by the physician Galen 
 
 ### 18b 268
 
-τούτων δ’ ἐφεξῆς οἱ μὴ δυσπνοοῦντες μέν, ὀδυνώμενοι δὲ σφόδρα μετὰ τοῦ συνεξῇρθαι μὲν αὐτοῖς τὸν τράχηλον, ἐρυθροτέραν δὲ φαίνεσθαι τὴν φάρυγγα. τρίτοι δ’ ἐπ’ αὐτοῖς εἰσι, περὶ ὧν κατὰ τὴν προκειμένην ῥῆσιν ὁ Ἱπποκράτης διῆλθεν, οἱ μήτ’ ὀδυνώμενοι μήτε δυσπνοοῦντες σφοδρῶς ἀπαθοῦς μὲν αὐτοῦ διαμένοντος τοῦ λάρυγγος ἤτοι δ’ εἰς τὴν φάρυγγα τοῦ ῥεύματος ἢ εἰς τὸν τράχηλον ἢ εἰς ἄμφω ταῦτα τραπέντος. ἔστι δὲ τοὐπίπαν τὸ ῥεῦμα τοῦτο χολωδέστερον, ὡς ἤτοι γε ἄντικρυς ἐρυσίπελας ἢ φλεγμονὴν ἐρυσιπελατώδη ποιεῖν, ὅθεν καὶ αὐτὸς ἔφη ἢν μὴ παλινδρομέῃ τὸ ἐρυσίπελας εἴς ω. φλεγματῶδες δὲ εἴ ποτ’ αὐτοῖς γένοιτο τὸ οἴδημα, τάχιστα θεραπεύεται κατὰ τὴν ἀρχήν. οὐδὲ γὰρ τῶν ὀξέων εἰσὶ τὰ τοιαῦτα παθήματα. τὰ δ’ ἄλλα τῆς ῥήσεως δῆλα. Ἢν δὲ μήτε ἐν ἡμέρῃσι κρισίμοισιν ἀφανίζηται τὸ ἐρύθημα μήτε φύματος συστραφέντος ἐν τῷ ἔξω χωρίῳ μήτε πῦον ῥηϊδίως ἀποβήcc ῃ , ἀπόνως δ ’ ἔχειν δοκέ ῃ , θάνατον σημαίνει ἢ ὑποστροφὴν τοῦ ἐρυθήματο c . [12]
+τούτων δ’ ἐφεξῆς οἱ μὴ δυσπνοοῦντες μέν, ὀδυνώμενοι δὲ σφόδρα μετὰ τοῦ συνεξῇρθαι μὲν αὐτοῖς τὸν τράχηλον, ἐρυθροτέραν δὲ φαίνεσθαι τὴν φάρυγγα. τρίτοι δ’ ἐπ’ αὐτοῖς εἰσι, περὶ ὧν κατὰ τὴν προκειμένην ῥῆσιν ὁ Ἱπποκράτης διῆλθεν, οἱ μήτ’ ὀδυνώμενοι μήτε δυσπνοοῦντες σφοδρῶς ἀπαθοῦς μὲν αὐτοῦ διαμένοντος τοῦ λάρυγγος ἤτοι δ’ εἰς τὴν φάρυγγα τοῦ ῥεύματος ἢ εἰς τὸν τράχηλον ἢ εἰς ἄμφω ταῦτα τραπέντος. ἔστι δὲ τοὐπίπαν τὸ ῥεῦμα τοῦτο χολωδέστερον, ὡς ἤτοι γε ἄντικρυς ἐρυσίπελας ἢ φλεγμονὴν ἐρυσιπελατώδη ποιεῖν, ὅθεν καὶ αὐτὸς ἔφη ἢν μὴ παλινδρομέῃ τὸ ἐρυσίπελας εἴς ω. φλεγματῶδες δὲ εἴ ποτ’ αὐτοῖς γένοιτο τὸ οἴδημα, τάχιστα θεραπεύεται κατὰ τὴν ἀρχήν. οὐδὲ γὰρ τῶν ὀξέων εἰσὶ τὰ τοιαῦτα παθήματα. τὰ δ’ ἄλλα τῆς ῥήσεως δῆλα. Ἢν δὲ μήτε ἐν ἡμέρῃσι κρισίμοισιν ἀφανίζηται τὸ ἐρύθημα μήτε φύματος συστραφέντος ἐν τῷ ἔξω χωρίῳ μήτε πῦον ῥηϊδίως ἀποβήσσ ῃ , ἀπόνως δ ’ ἔχειν δοκέ ῃ , θάνατον σημαίνει ἢ ὑποστροφὴν τοῦ ἐρυθήματο c . [12]
 
 ### 18b 269
 
@@ -1202,7 +1201,7 @@ On Hippocrates' Prognostic is a comprehensive commentary by the physician Galen 
 
 ### 18b 296
 
-Καὶ τοῦτο καθάπερ καὶ τὸ πρότερον ἔγραψεν ὁ Ἱπποκράτης ἀπομαντευσάμενος τῆς ἀμελείας τε ἅμα καὶ προπετείας τῶν ἀναγνωσομένων αὐτοῦ τὰ βιβλία καὶ ζητησόντων ὅπως ἂν ἐν αὐτῷ μνημονεύῃ τεσσαρακοστῆς τε καὶ ἑξηκοστῆς ἡμέρας, ἐμπύων τε καὶ ὑδερικῶν καὶ τεταρταίων πυρετῶν. ὅπου γὰρ καὶ γράφαντος αὐτοῦ σαφῶς ὅτι μὴ περὶ μόνων τῶν ὀξέων, ἀλλὰ καὶ τῶν ἐκ μεταπτώσεως τούτων εἰς χρόνου μῆκος ἐκτεινομένων ὁ λόγος ἐν τῷ βιβλίῳ γέγονεν, ὅμως τοιαῦτα ζητοῦσι. τί ποτε ἔπραξαν ἄν, εἰ μηδὲ τοῦτο ἐποίησεν; Χρὴ δὲ τὸν μέλλοντα ὀρθῶς προγινώσκειν τούς τε περιεσομένους καὶ ἀποθανουμένου c , οἷσι τε μέλλει τὸ νόσημα πλείονας ἡμέρας παραμένειν καὶ οἷσιν ἂν ἐλάσσονα c , τὰ σημεῖα ἐκμανθάνοντα πάντα κρίνειν ἐκλογιζόμενον τὰς δυνάμεις αὐτῶν πρὸς ἀλλήλα c , ὥσπερ διαγέγραπται περί τε τῶν ἄλλων καὶ τῶν οὔρων καὶ τῶν πτυέλω ν , ὅταν ὁμοῦ τε πῦον καὶ χολὴν ἀναβήcc ῃ . [5]
+Καὶ τοῦτο καθάπερ καὶ τὸ πρότερον ἔγραψεν ὁ Ἱπποκράτης ἀπομαντευσάμενος τῆς ἀμελείας τε ἅμα καὶ προπετείας τῶν ἀναγνωσομένων αὐτοῦ τὰ βιβλία καὶ ζητησόντων ὅπως ἂν ἐν αὐτῷ μνημονεύῃ τεσσαρακοστῆς τε καὶ ἑξηκοστῆς ἡμέρας, ἐμπύων τε καὶ ὑδερικῶν καὶ τεταρταίων πυρετῶν. ὅπου γὰρ καὶ γράφαντος αὐτοῦ σαφῶς ὅτι μὴ περὶ μόνων τῶν ὀξέων, ἀλλὰ καὶ τῶν ἐκ μεταπτώσεως τούτων εἰς χρόνου μῆκος ἐκτεινομένων ὁ λόγος ἐν τῷ βιβλίῳ γέγονεν, ὅμως τοιαῦτα ζητοῦσι. τί ποτε ἔπραξαν ἄν, εἰ μηδὲ τοῦτο ἐποίησεν; Χρὴ δὲ τὸν μέλλοντα ὀρθῶς προγινώσκειν τούς τε περιεσομένους καὶ ἀποθανουμένου c , οἷσι τε μέλλει τὸ νόσημα πλείονας ἡμέρας παραμένειν καὶ οἷσιν ἂν ἐλάσσονα c , τὰ σημεῖα ἐκμανθάνοντα πάντα κρίνειν ἐκλογιζόμενον τὰς δυνάμεις αὐτῶν πρὸς ἀλλήλα c , ὥσπερ διαγέγραπται περί τε τῶν ἄλλων καὶ τῶν οὔρων καὶ τῶν πτυέλω ν , ὅταν ὁμοῦ τε πῦον καὶ χολὴν ἀναβήσσ ῃ . [5]
 
 ### 18b 297
 

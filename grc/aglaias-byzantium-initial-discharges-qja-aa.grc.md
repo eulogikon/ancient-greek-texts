@@ -5,6 +5,7 @@ author: Aglaias of Byzantium
 eul_wid: qja-aa
 eul_aid: qja
 canonical: "https://eulogikon.org/works/aglaias-byzantium-initial-discharges-qja-aa"
+lang: grc
 period: Roman
 dialect: Koine (frg)
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aglaias of Byzantium
 
 **eul_wid:** `qja-aa` · [HTML page](https://eulogikon.org/works/aglaias-byzantium-initial-discharges-qja-aa)
-
-To the Initial Discharges is a poetic work attributed to Aglaias of Byzantium. The precise meaning of its title remains obscure, with the Greek terms suggesting a reference to initial outpourings or emissions. The poem is structured in three passages and presents itself as a didactic verse concerning medicinal recipes. The speaker addresses a fellow healer and poet, presenting the work as a gift discovered through his own diligent effort, claiming it will be a distinguished remedy for afflictions and a lasting benefit. The bulk of the text consists of detailed pharmaceutical instructions, specifying ingredients, their measures, and methods of combination. These ingredients include various minerals, botanicals, and other compounds, such as a five-obol weight of copper bloom, a round object baked with fire, and substances associated with Gallic lands, yellow-flowered plants, and mares. The poem meticulously notes weights in obols, drachmas, and staters, prescribing the mixture of these elements with thirty-two drachmas of a salt drawn from a spring. The work's survival status is unknown, as it is not attested in major digital or print repositories of classical texts, and its provenance remains unclear. Its complete absence from standard reference works and philological collections renders it an obscure entry in the corpus of Greek poetry, and its historical and literary significance cannot be assessed.
 
 ## Text
 

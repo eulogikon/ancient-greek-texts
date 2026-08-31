@@ -5,6 +5,7 @@ author: Charondas the Lawgiver
 eul_wid: azk-aa
 eul_aid: azk
 canonical: "https://eulogikon.org/works/charondas-preambles-laws-azk-aa"
+lang: grc
 period: Archaic
 dialect: Ionic (frg)
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Charondas the Lawgiver
 
 **eul_wid:** `azk-aa` · [HTML page](https://eulogikon.org/works/charondas-preambles-laws-azk-aa)
-
-The Preambles to the Laws is a collection of four fragments attributed to the semi-legendary lawgiver Charondas of Catana. These passages represent the hortatory introductions to his legal code, aiming to persuade citizens of the laws’ underlying rationale to encourage voluntary compliance, though the specific laws they preceded do not survive. Modern scholarship generally views these fragments as later, likely Hellenistic, compositions pseudepigraphically assigned to Charondas. The extant text emphasizes key themes of archaic legal thought, including the use of rational persuasion alongside coercive force, the orientation of law toward the common good and stability of the polis, the educative function of legislation, and the potential divine sanction underlying justice. The work survives only indirectly through quotation in later anthologies, principally the Anthologion of Stobaeus. While the fragments’ authenticity is disputed, they exemplify the philosophical concept of the legal preamble, later elaborated by Plato in his Laws, and the figure of Charondas remained influential as a model lawgiver in antiquity and later political thought.
 
 ## Text
 

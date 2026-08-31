@@ -5,6 +5,7 @@ author: Alchemist I
 eul_wid: rrg-ca
 eul_aid: rrg
 canonical: "https://eulogikon.org/works/alchemist-i-goldsmiths-rrg-ca"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alchemist I
 
 **eul_wid:** `rrg-ca` · [HTML page](https://eulogikon.org/works/alchemist-i-goldsmiths-rrg-ca)
-
-The Names of Goldsmiths is a brief technical treatise from the early Greek alchemical tradition, composed in Koine Greek around the first century CE. Its anonymous author wrote under the pseudonym Democritus and is conventionally designated by modern scholars as Alchemist I. The work consists of three short passages that enumerate a series of practitioners, termed chrysopoioi or goldsmiths, accompanied by succinct notes on their methods. These names, which include figures such as Plato, Aristotle, Hermes, and Cleopatra, are not considered historical but are interpreted as nomina mystica—mystical names that covertly signify alchemical substances, processes, or legendary founders of the art. The treatise survives intact within larger compilations of Greek alchemical writings, most notably in the tenth- or eleventh-century Byzantine manuscript Marcianus graecus 299. It represents one of the earliest strata of alchemical literature, emerging from the synthesis of Egyptian craft knowledge, Greek philosophy, and Near Eastern traditions in the workshops of the Roman Imperial period. Scholars regard the work as a foundational document that helped establish a secretive, genealogical history for alchemy, instructing initiates in its coded terminology while claiming the authoritative lineage of an ancient philosopher like Democritus.
 
 ## Text
 

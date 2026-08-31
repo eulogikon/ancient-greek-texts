@@ -5,6 +5,7 @@ author: Iambic Fragments Anonymous
 eul_wid: ajq-aa
 eul_aid: ajq
 canonical: "https://eulogikon.org/works/iambic-fragments-anon-geography-ajq-aa"
+lang: grc
 period: Archaic
 dialect: Mixed Dialects (frg)
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Iambic Fragments Anonymous
 
 **eul_wid:** `ajq-aa` · [HTML page](https://eulogikon.org/works/iambic-fragments-anon-geography-ajq-aa)
-
-The Fragments on Geography is a collection of fifty-five iambic passages on geographical subjects, transmitted under the name of an anonymous author conventionally labeled Iambic Fragments Anonymous. The verses describe places, peoples, and natural phenomena, employing a didactic poetic meter consistent with a tradition of rendering technical knowledge in verse. The extant text is not a continuous work but a series of excerpts, likely compiled from a larger, lost original. The fragments cover descriptions of geographical regions and specific locations, ethnographical observations on various peoples and their customs, and accounts of natural features. The work survives only in this fragmentary collection, indicating it was excerpted and preserved in later anthologies or scholarly compilations. While its direct influence is not documented, the collection serves as a source for understanding the methods of ancient geographical poetry and the processes by which such knowledge was preserved in fragmentary form for later scholarly use.
 
 ## Text
 

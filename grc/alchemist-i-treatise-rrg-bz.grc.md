@@ -5,6 +5,7 @@ author: Alchemist I
 eul_wid: rrg-bz
 eul_aid: rrg
 canonical: "https://eulogikon.org/works/alchemist-i-treatise-rrg-bz"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alchemist I
 
 **eul_wid:** `rrg-bz` · [HTML page](https://eulogikon.org/works/alchemist-i-treatise-rrg-bz)
-
-The Chemical Treatise is a foundational manual of Greco-Egyptian alchemy, spuriously attributed to the philosopher Democritus and now associated with an anonymous author known as Pseudo-Democritus. Composed in Koine Greek around the second or third century CE, likely in Roman Egypt, the work is a practical guide focused on the dyeing and coloring of metals to imitate gold and silver. Its structure, as preserved in later sources, consists of numerous discrete passages that provide technical recipes. These detail laboratory procedures using substances like sulfur and mercury, describe specialized equipment, and stress the need for operations to be conducted under favorable astrological conditions. The text uniquely blends this hands-on craft with mystical philosophy, suggesting the art required both divine favor and secret knowledge.
-
-The original Greek text is lost and known only through fragments. Modern scholars interpret the work as a product of Alexandria, where Greek philosophy, Egyptian metallurgy, and Babylonian astrology merged. Its false attribution to Democritus was a common strategy to lend ancient authority to its contents. The treatise is thought to have been written for a community of early practitioners who saw the transformation of matter as both a technical and a spiritual pursuit. It was profoundly influential, cited by later alchemists like Zosimus of Panopolis, and its translations into Syriac and Arabic helped transmit core alchemical concepts into the Islamic world and, eventually, medieval Europe.
 
 ## Text
 

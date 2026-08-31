@@ -5,6 +5,7 @@ author: Erotic Narrative Anonymous
 eul_wid: skw-aa
 eul_aid: skw
 canonical: "https://eulogikon.org/works/erotica-anon-chione-ninus-skw-aa"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: Fiction
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Erotic Narrative Anonymous
 
 **eul_wid:** `skw-aa` · [HTML page](https://eulogikon.org/works/erotica-anon-chione-ninus-skw-aa)
-
-The Fragments Possibly Part of Chione or Ninus are three prose passages preserved on a single second-century CE papyrus, designated P.Oxy. 2466, discovered at Oxyrhynchus and published in 1962. The modern editorial title is a scholarly conjecture based on the romantic nature of the content, as the names of the protagonists are lost. The narrative centers on a young couple, depicting the woman’s beauty through conventional literary tropes and the man’s subsequent lovesick torment. A dialogue of declaration and response between the characters advances the emotional plot, illustrating core themes of erotic love and courtship typical of the ancient Greek novel. The speculation that these fragments belong to the known Ninus romance or the lost novel Chione stems from this thematic alignment. The text survives only in this papyrus, with no medieval manuscript tradition. Its significance is primarily scholarly, offering valuable evidence for the narrative techniques and thematic preoccupations of early Greek prose fiction, a genre that would later influence Byzantine and early modern European romance.
 
 ## Text
 

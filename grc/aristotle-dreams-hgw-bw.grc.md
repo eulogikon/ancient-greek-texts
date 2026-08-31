@@ -5,6 +5,7 @@ author: Aristotle
 eul_wid: hgw-bw
 eul_aid: hgw
 canonical: "https://eulogikon.org/works/aristotle-dreams-hgw-bw"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristotle
 
 **eul_wid:** `hgw-bw` · [HTML page](https://eulogikon.org/works/aristotle-dreams-hgw-bw)
-
-On Dreams is a philosophical treatise by Aristotle, forming part of his collected investigations into life sciences known as the Parva Naturalia. Composed in the mid-4th century BCE, the work systematically analyzes the phenomenon of dreaming from a naturalistic and psychological perspective. Aristotle begins by establishing that dreaming is an activity of the perceptual faculty of the soul, not of the intellect or of opinion, as it occurs during sleep when external sensation is dormant. He argues that dream images are residual movements or impressions left by actual sense perceptions experienced while awake. These impressions, which are faint and often distorted, become perceptible in the quietude of sleep when stronger external stimuli are absent.
-
-The treatise then elaborates on the mechanics of how these sensory remnants are processed, comparing the dream state to the after-images seen by waking eyes. Aristotle further addresses the contentious issue of prophetic dreams, seeking to demystify them. He acknowledges that some dreams appear to predict future events but attributes this largely to coincidence, the heightened internal awareness of subtle bodily changes during sleep, or the mind's unconscious sorting of probabilities. In doing so, he deliberately rejects supernatural or divine explanations, positioning dreaming as a subject for scientific inquiry into the soul's organic functions. The work stands as a foundational text in the history of psychology, exemplifying Aristotle's method of applying rational principles to explain seemingly mysterious natural phenomena.
 
 ## Text
 

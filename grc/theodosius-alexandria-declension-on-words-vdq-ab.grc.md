@@ -1,10 +1,11 @@
 ---
 title: On the Declension of Words Ending in -on
 title_greek: Περὶ κλίσεως τῶν εἰς ων βαρυτόνων
-author: "Theodosius of Alexandria "
+author: Theodosius of Alexandria
 eul_wid: vdq-ab
 eul_aid: vdq
 canonical: "https://eulogikon.org/works/theodosius-alexandria-declension-on-words-vdq-ab"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Grammar
@@ -16,13 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Περὶ κλίσεως τῶν εἰς ων βαρυτόνων*
 
-**Author:** Theodosius of Alexandria 
+**Author:** Theodosius of Alexandria
 
 **eul_wid:** `vdq-ab` · [HTML page](https://eulogikon.org/works/theodosius-alexandria-declension-on-words-vdq-ab)
-
-On the Declension of Words Ending in -on is a concise grammatical treatise by the late antique scholar Theodosius of Alexandria, who was active around the 4th or 5th century CE. The work provides a systematic set of rules for correctly declining a specific class of Greek nouns: those ending in "-ōn" that bear a non-final, or barytone, accent. Its primary focus is the formation of the genitive singular and other case forms, which generally follow the patterns of the third declension. The treatise is structured around seven principal rules, categorizing nouns by their specific endings and meanings, such as patronymics, comparatives, diminutives, and pure barytone forms. It illustrates these rules with examples drawn from classical literature, including Homeric epic, thereby anchoring its prescriptions in authoritative usage.
-
-Preserved within the larger corpus of Theodosius's grammatical writings, the treatise exemplifies the Alexandrian scholarly tradition of systematizing language for pedagogical purposes. Composed during a period when mastery of classical Attic Greek was a cornerstone of education and cultural literacy, it functioned as a practical manual for advanced students and teachers. Its highly technical focus on a single morphological category aimed to prevent common errors and to standardize usage according to the revered classical model, reflecting the late antique effort to codify and preserve the intricacies of the Greek language.
 
 ## Text
 

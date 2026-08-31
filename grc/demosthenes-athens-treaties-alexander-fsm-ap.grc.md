@@ -5,6 +5,7 @@ author: Demosthenes of Athens
 eul_wid: fsm-ap
 eul_aid: fsm
 canonical: "https://eulogikon.org/works/demosthenes-athens-treaties-alexander-fsm-ap"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Demosthenes of Athens
 
 **eul_wid:** `fsm-ap` · [HTML page](https://eulogikon.org/works/demosthenes-athens-treaties-alexander-fsm-ap)
-
-On the Treaties with Alexander is a deliberative oration, traditionally ascribed to the Athenian statesman Demosthenes, delivered to the Athenian Assembly around 331–330 BCE. The speech constitutes a vehement argument against ratifying a series of treaties presented by Alexander the Great of Macedon. Framed within the political reality following the destruction of Thebes and the binding constraints of the League of Corinth, the oration portrays these proposed agreements as fundamentally unjust and dishonorable, designed to erode Athenian sovereignty and reduce the city to a subordinate state. The speaker implores the citizen body to reject the treaties as a necessary assertion of their freedom and dignity, warning that acceptance would constitute a betrayal of their democratic principles and historical legacy.
-
-Rhetorically, the speech is a masterful deployment of deliberative strategy, structured in 27 concise sections. It opens by establishing the paramount importance of justice and good faith in international agreements for a democracy, then systematically argues that the Macedonian proposals violate these very principles. The orator contrasts the hollow words of the treaties with the aggressive actions of Alexander, attempting to galvanize Athenian pride by invoking past glories and the grave consequences of submission. The work provides critical insight into the fierce internal debate between pro-Macedonian accommodationists and the faction advocating for resistance, capturing the precarious political atmosphere of Athens in the early Hellenistic period.
-
-While preserved in the medieval manuscript tradition of Demosthenes' works, the authenticity of the oration has been questioned by many modern scholars. Some argue its style and content suggest it is a later composition, perhaps from the early Hellenistic era, artificially incorporated into the Demosthenic corpus. Regardless of its authorship, the speech survives as a complete text and remains a significant historical document. It offers a direct window into the potent anti-Macedonian rhetoric of the period and serves as a compelling artifact of the ideological struggles surrounding Athenian autonomy in the age of Alexander.
 
 ## Text
 

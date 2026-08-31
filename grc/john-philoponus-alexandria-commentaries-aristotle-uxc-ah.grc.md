@@ -5,6 +5,7 @@ author: John Philoponus of Alexandria
 eul_wid: uxc-ah
 eul_aid: uxc
 canonical: "https://eulogikon.org/works/john-philoponus-alexandria-commentaries-aristotle-uxc-ah"
+lang: grc
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** John Philoponus of Alexandria
 
 **eul_wid:** `uxc-ah` · [HTML page](https://eulogikon.org/works/john-philoponus-alexandria-commentaries-aristotle-uxc-ah)
-
-John Philoponus of Alexandria’s Commentary on Aristotle’s Generation of Animals is a philosophical treatise from the early sixth century CE. Written in Greek, it exemplifies the scholarly commentary tradition central to the late antique Alexandrian school where Philoponus was active. The work proceeds through 249 lemmata, or passages, from Aristotle’s biological text, each followed by Philoponus’s detailed exegesis and analysis. It systematically addresses Aristotle’s theories on animal reproduction, embryology, and heredity, exploring concepts such as the respective contributions of male and female principles in conception, the formation and development of the embryo, and the function of pneuma, or vital spirit. Philoponus combines meticulous textual explanation with original philosophical critique, engaging deeply with Aristotelian notions of formal, material, and final causation in the natural world. Modern scholarship places this commentary among his early academic works, composed for an advanced readership. Its purpose was not only to elucidate Aristotle’s challenging treatise but also to subject its doctrines to critical scrutiny, at times informed by Philoponus’s own Christian Neoplatonist viewpoint. The commentary is often seen as containing preliminary formulations of the more extensive critiques of Aristotelian natural philosophy for which he later became renowned. The complete text survives, primarily through a thirteenth-century manuscript, and it exerted considerable influence within the Byzantine intellectual tradition. Its arguments also circulated indirectly, helping to shape subsequent scientific debates in medieval Islamic and Latin European thought.
 
 ## Text
 

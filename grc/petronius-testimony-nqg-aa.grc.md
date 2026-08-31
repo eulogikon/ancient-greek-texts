@@ -5,6 +5,7 @@ author: Petronius Arbiter
 eul_wid: nqg-aa
 eul_aid: nqg
 canonical: "https://eulogikon.org/works/petronius-testimony-nqg-aa"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Petronius Arbiter
 
 **eul_wid:** `nqg-aa` · [HTML page](https://eulogikon.org/works/petronius-testimony-nqg-aa)
-
-The Testimony is a fragmentary philosophical passage attributed to Petronius Arbiter, the first-century CE Roman author of the novel Satyricon. The work exists only as a single excerpt preserved in later Greek sources, and its title is notably Greek, contrasting with Petronius's primary Latin literary output. The surviving fragment discusses cosmological theory, specifically enumerating worlds arranged in a triangular formation. It attributes this doctrine to a certain Petronius of Himera, a detail that has led to significant scholarly debate regarding the work's authenticity and origin. No ancient sources or major reference works corroborate Petronius Arbiter as the author of a Greek philosophical collection, making it probable that the attribution results from a confusion of names with this earlier Sicilian figure. Consequently, the Testimony is generally considered a spurious attribution, though it is sometimes discussed as a potential, albeit tenuous, artifact reflecting the intellectual climate of Nero's court, where the historical Petronius served. The work's value lies primarily in its preservation of an otherwise lost cosmological idea.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Chaldean Oracular Poet Anonymous
 eul_wid: qpo-aa
 eul_aid: qpo
 canonical: "https://eulogikon.org/works/chaldean-oracles-text-qpo-aa"
+lang: grc
 period: Roman
 dialect: "Koine (phi, frg)"
 domain: Theology
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Chaldean Oracular Poet Anonymous
 
 **eul_wid:** `qpo-aa` · [HTML page](https://eulogikon.org/works/chaldean-oracles-text-qpo-aa)
-
-The Chaldean Oracles is a collection of fragmentary theological poetry composed in Greek hexameter verse during the late second century CE. Although later tradition attributes the work to Julian the Chaldean and his son, Julian the Theurgist, the author remains essentially anonymous. The text survives not as a continuous whole but as a series of over two hundred revelatory utterances, preserved exclusively through quotations by later Neoplatonic philosophers such as Porphyry, Iamblichus, and Proclus from the third to the sixth centuries CE; no independent manuscript of the original work exists. These fragments present a complex cosmology outlining a hierarchy of divine principles, descending from a supreme and ineffable Father through a series of creative powers and cosmic gods. The oracles also explore the nature of the soul, detailing its descent into the material world and its potential ascent back to the divine, while endorsing the ritual practices of theurgy as the means for achieving this union. Modern scholarship interprets the work as a revealed sacred text intended for a philosophically literate audience, functioning as a ritual and mystical complement to Platonic rationalism. Its purported Chaldean origin was likely intended to lend it an aura of ancient, foreign wisdom, drawing upon the Hellenistic reputation of Chaldea for astrology and arcane knowledge.
 
 ## Text
 

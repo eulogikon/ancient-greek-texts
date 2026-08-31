@@ -5,6 +5,7 @@ author: Teles of Megara
 eul_wid: kkk-ah
 eul_aid: kkk
 canonical: "https://eulogikon.org/works/teles-megara-flight-kkk-ah"
+lang: grc
 period: Hellenistic
 dialect: "Koine (phi, frg)"
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Teles of Megara
 
 **eul_wid:** `kkk-ah` · [HTML page](https://eulogikon.org/works/teles-megara-flight-kkk-ah)
-
-On Flight is a philosophical dialogue by the 3rd-century BCE Cynic teacher Teles of Megara. The work addresses the subject of exile, arguing that being compelled to leave one's homeland does not constitute a genuine evil. This position is consistent with fundamental Cynic doctrine, which holds that virtue and happiness derive from inner character and self-sufficiency rather than from external circumstances such as social standing or geographic location. Composed in Koine Greek, the dialogue is considered a form of popular moral instruction or consolation, likely intended for students and a general audience during the politically turbulent Hellenistic period.
-
-The complete text of On Flight has not survived and is known only through two fragmentary passages preserved in the 5th-century CE anthology of Stobaeus. These excerpts are believed to reflect Teles's characteristically simple and hortatory prose style. Scholars regard the work as a significant example of the diatribe, an informal lecture format used for ethical teaching, and as an important document in the development of Cynic and later Stoic thought concerning resilience, self-mastery, and cosmopolitanism.
 
 ## Text
 

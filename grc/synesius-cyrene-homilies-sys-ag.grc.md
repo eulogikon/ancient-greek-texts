@@ -5,6 +5,7 @@ author: Synesius of Cyrene
 eul_wid: sys-ag
 eul_aid: sys
 canonical: "https://eulogikon.org/works/synesius-cyrene-homilies-sys-ag"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Synesius of Cyrene
 
 **eul_wid:** `sys-ag` · [HTML page](https://eulogikon.org/works/synesius-cyrene-homilies-sys-ag)
-
-The Homilies of Synesius of Cyrene constitute a collection of sermons delivered during his service as Bishop of Ptolemais in the early fifth century. These works document his pastoral activity and exemplify his distinctive intellectual project of synthesizing deep Neoplatonic philosophical commitments with Christian theological doctrine. The extant homilies, preserved within the Byzantine manuscript tradition and included in collections such as the Patrologia Graeca, engage with themes central to Synesius's thought. These include the soul's journey under divine providence, the allegorical interpretation of scripture through a lens informed by both Neoplatonic and patristic exegesis, practical pastoral care and ethical instruction for his congregation, and a reasoned defense of the value of traditional Hellenic education within Christian life. As a body of work, the Homilies stand as a prime example of the late antique "philosopher-bishop" model, illustrating a significant cultural transition where Hellenic intellectual traditions were actively integrated into the framework of early Christian practice and pastoral leadership.
 
 ## Text
 

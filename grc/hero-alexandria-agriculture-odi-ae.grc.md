@@ -1,10 +1,11 @@
 ---
 title: Book of Agriculture
 title_greek: Γεωπονικόν
-author: "Hero of Alexandria "
+author: Hero of Alexandria
 eul_wid: odi-ae
 eul_aid: odi
 canonical: "https://eulogikon.org/works/hero-alexandria-agriculture-odi-ae"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Γεωπονικόν*
 
-**Author:** Hero of Alexandria 
+**Author:** Hero of Alexandria
 
 **eul_wid:** `odi-ae` · [HTML page](https://eulogikon.org/works/hero-alexandria-agriculture-odi-ae)
-
-The Geoponika, also known as the Book of Agriculture, is a comprehensive Byzantine agricultural encyclopedia compiled during the 10th century under the patronage of Emperor Constantine VII Porphyrogennetos. Although sometimes erroneously attributed to the ancient mathematician Hero of Alexandria, the work is a systematic compilation drawing upon a wide range of earlier Greek and Roman agricultural writers. It is organized into twenty books covering the full spectrum of ancient agronomic knowledge. Its contents include detailed instructions on practical husbandry, such as soil preparation, viticulture, and the cultivation of trees like olives, figs, and pomegranates. The treatise also addresses animal husbandry and veterinary care for livestock, poultry, bees, and horses, and incorporates related folklore concerning weather prediction and astrological guidance for planting and harvesting. The text survives in full through Greek manuscripts from the Byzantine period, and its enduring practical value is demonstrated by its translation into Arabic, Syriac, Armenian, Latin, and later into various European vernacular languages. As one of the most influential agricultural manuals of the Middle Ages, the Geoponika was instrumental in disseminating classical farming techniques across the Mediterranean world and Europe. It remains an indispensable primary source for historians studying ancient agricultural practices and the transmission of technical knowledge within the Byzantine scholarly tradition.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Aelian of Praeneste
 eul_wid: ria-ad
 eul_aid: ria
 canonical: "https://eulogikon.org/works/aelian-praeneste-excerpts-ria-ad"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aelian of Praeneste
 
 **eul_wid:** `ria-ad` · [HTML page](https://eulogikon.org/works/aelian-praeneste-excerpts-ria-ad)
-
-The Excerpts is a collection of 233 short rhetorical passages attributed to Aelian of Praeneste, the sophist and author also known as Claudius Aelianus, who was active during the late second and early third centuries CE. It is not a continuous oration but a compilation of model declamations designed as a pedagogical tool to illustrate rhetorical technique. The work primarily demonstrates formal skill in argumentation and prose style, treating common moral and philosophical themes typical of epideictic and deliberative oratory, such as virtue, fortune, and historical exempla. As a technical handbook, it embodies the Second Sophistic ideal of paideia, promoting mastery of classical Greek models for students of rhetoric. The collection survives intact within the manuscript tradition of Aelian’s collected works and is included in modern critical editions, its transmission being part of the complex manuscript history of his broader corpus. While Aelian enjoyed a high literary reputation in antiquity, the specific influence of this discrete compilation is not detailed in the sources, though it contributed to the rhetorical curriculum of the later Roman Empire by perpetuating Greek models.
 
 ## Text
 

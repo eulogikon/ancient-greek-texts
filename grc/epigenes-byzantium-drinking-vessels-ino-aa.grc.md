@@ -5,6 +5,7 @@ author: Epigenes of Byzantium
 eul_wid: ino-aa
 eul_aid: ino
 canonical: "https://eulogikon.org/works/epigenes-byzantium-drinking-vessels-ino-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine (frg)
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Epigenes of Byzantium
 
 **eul_wid:** `ino-aa` · [HTML page](https://eulogikon.org/works/epigenes-byzantium-drinking-vessels-ino-aa)
-
-The Fragments on Drinking Vessels by Epigenes of Byzantium is a lost comic verse work, surviving only through a single citation in the Deipnosophistae of Athenaeus of Naucratis. Athenaeus quotes one line from it concerning the kissybion, a cup named for the ivy from which it was traditionally made. The title, as recorded by Athenaeus, indicates it was a collection of twenty-three passages describing various drinking vessels, blending etymological detail with learned humor centered on the material culture of the Greek symposium. Its content would have encompassed descriptions and origins of specific cups and bowls, alongside a comic treatment of the social practices and paraphernalia associated with the drinking party. The work’s transmission is entirely dependent on its preservation within Athenaeus’s late second- or early third-century CE compilation, which serves as the sole source for both its title and the count of its passages. These fragments exemplify a minor genre of Hellenistic learned comedy that repurposed technical and antiquarian knowledge for poetic amusement, and their survival illustrates how later scholarly encyclopedias acted as vital conduits for otherwise lost specialized works.
 
 ## Text
 

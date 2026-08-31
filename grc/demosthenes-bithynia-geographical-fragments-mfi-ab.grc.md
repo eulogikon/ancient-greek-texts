@@ -5,6 +5,7 @@ author: Demosthenes of Bithynia
 eul_wid: mfi-ab
 eul_aid: mfi
 canonical: "https://eulogikon.org/works/demosthenes-bithynia-geographical-fragments-mfi-ab"
+lang: grc
 period: Hellenistic
 dialect: Epic (Homeric) (frg)
 domain: Epic
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Demosthenes of Bithynia
 
 **eul_wid:** `mfi-ab` · [HTML page](https://eulogikon.org/works/demosthenes-bithynia-geographical-fragments-mfi-ab)
-
-The Geographical Fragments of Bithynia is a lost verse work attributed to Demosthenes of Bithynia, surviving only in brief citations preserved within the Ethnika, a sixth-century CE geographical lexicon compiled by the Byzantine scholar Stephanus of Byzantium. The extant fragments, numbering forty-seven, provide scattered information on the topography, city names, and local lore of the historical region of Bithynia in northwest Anatolia. The content indicated by these citations suggests the original work treated the physical landscape of Bithynia, included foundation myths for its cities, offered etymologies for place names and their associated ethnics, and integrated local historical anecdotes within its geographical descriptions. As a regional study composed in epic verse, the work represents a niche within the tradition of didactic poetry. Its principal historical significance lies in its utility as a source for later lexicography; Stephanus of Byzantium’s excerpts preserved these fragments of local Bithynian knowledge, which are collected in modern editions such as Fragmenta der griechischen Historiker.
 
 ## Text
 

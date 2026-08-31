@@ -5,6 +5,7 @@ author: Euclid of Alexandria
 eul_wid: iaw-ab
 eul_aid: iaw
 canonical: "https://eulogikon.org/works/euclid-alexandria-catoptrics-iaw-ab"
+lang: grc
 period: Hellenistic
 dialect: Technical Koine
 domain: Mathematics
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Euclid of Alexandria
 
 **eul_wid:** `iaw-ab` · [HTML page](https://eulogikon.org/works/euclid-alexandria-catoptrics-iaw-ab)
-
-The Catoptrics is an ancient Greek treatise on the mathematical theory of mirrors, traditionally attributed to the mathematician Euclid of Alexandria from around 300 BCE. Written as a deductive geometric work in the style of Euclid's Elements, it consists of 32 propositions applying mathematical principles to the physics of light and vision. The text operates on the emission theory of vision, which posits that the eye emits visual rays traveling in straight lines. Its core achievement is establishing the fundamental law of reflection—that the angle of incidence equals the angle of reflection—and systematically applying this law to analyze plane, convex, and concave mirrors. The work also examines practical optical phenomena, such as the apparent displacement of objects seen in water.
-
-The complete text survives through medieval Greek manuscripts, the oldest dating from the 9th century CE. It was later translated into Arabic and Latin, becoming a foundational text for the study of optics in the medieval Islamic world and Europe. Modern scholars interpret the work as a key Hellenistic attempt to subordinate physical phenomena to geometric proof. While its traditional attribution to Euclid is longstanding, the authorship has been questioned since antiquity. Some scholars suggest it may have been written by a later member of his school or edited by figures such as Theon of Alexandria in the 4th century CE. Despite these doubts, the content is considered authentically representative of early mathematical optics.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Erotic Narrative Anonymous
 eul_wid: skw-ae
 eul_aid: skw
 canonical: "https://eulogikon.org/works/erotica-anon-metiochus-parthenope-skw-ae"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: Fiction
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Erotic Narrative Anonymous
 
 **eul_wid:** `skw-ae` · [HTML page](https://eulogikon.org/works/erotica-anon-metiochus-parthenope-skw-ae)
-
-Metiochus and Parthenope is a fragmentary ancient Greek erotic novel whose plot centers on the romance between Metiochus, son of the Athenian general Miltiades, and Parthenope, a figure traditionally associated with Naples. The narrative, typical of the genre, involves travel, separation, and trials that test the lovers' fidelity, driven by the central force of Eros and the common novelistic theme of Fortune's reversals. The Greek text is almost entirely lost, surviving only in a scant second-century CE papyrus fragment and a brief summary in the ninth-century lexicon of Photius. The plot is best known from an eleventh-century Persian epic, Vāmiq u ʿAdhrā by ʿUnṣurī, which adapted a lost Middle Persian translation of the Greek original. This cross-cultural transmission demonstrates the wide reach of Hellenistic fiction into the Persian literary world. The fragments are of significant scholarly importance for understanding the early development of the Greek novel, with estimates for its composition ranging from the first century BCE to the second century CE.
 
 ## Text
 

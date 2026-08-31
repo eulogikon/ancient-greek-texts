@@ -5,6 +5,7 @@ author: Synesius of Cyrene
 eul_wid: sys-aj
 eul_aid: sys
 canonical: "https://eulogikon.org/works/synesius-cyrene-dion-sys-aj"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Synesius of Cyrene
 
 **eul_wid:** `sys-aj` · [HTML page](https://eulogikon.org/works/synesius-cyrene-dion-sys-aj)
-
-_Dion_ is a philosophical treatise by Synesius of Cyrene, written as a defense and encomium of the first-century CE orator Dio Chrysostom. The work survives intact within the medieval Byzantine manuscript tradition of Synesius’s writings. It advocates for a model of the philosophical life that synthesizes intellectual contemplation with active political engagement, presenting the ideal of the philosopher-statesman who applies wisdom to civic governance. The treatise mounts a defense of classical Greek education when guided by philosophical principle and employs the metaphorical narrative of Dio Chrysostom’s exile and return to explore the philosopher’s complex relationship to public life. It also includes a critique of contemporary philosophical schools, particularly certain strands of Cynicism, which Synesius viewed as socially unconstructive. Composed during the author’s own transition from a student of Neoplatonism to a Christian bishop, _Dion_ is a significant document for understanding how late antique intellectuals sought to reconcile and fuse traditional Hellenic ideals of virtue and public service with emerging Christian contexts, illustrating the enduring reception of Second Sophistic models in later centuries.
 
 ## Text
 

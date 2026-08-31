@@ -5,6 +5,7 @@ author: Aristophanes of Byzantium
 eul_wid: klo-ak
 eul_aid: klo
 canonical: "https://eulogikon.org/works/aristophanes-byzantium-courtesans-names-klo-ak"
+lang: grc
 period: Hellenistic
 dialect: Technical Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristophanes of Byzantium
 
 **eul_wid:** `klo-ak` · [HTML page](https://eulogikon.org/works/aristophanes-byzantium-courtesans-names-klo-ak)
-
-On Courtesans and Their Names is a lost scholarly compilation attributed to Aristophanes of Byzantium, the head librarian of the Library of Alexandria in the late third and early second centuries BCE. The work exists only in fragments, preserved primarily through later Byzantine sources such as the tenth-century encyclopedia known as the Suda. It represents a specialized reference text within the Alexandrian tradition of philology, systematically cataloging the names of courtesans, or hetairai, as they appear in earlier Greek literature, particularly the comedies of playwrights like Aristophanes, Eupolis, and Menander. Each entry typically cites the poet, the specific play, and often includes a short quotation or a grammatical note explaining the origin or meaning of the courtesan's name. Compiled for an academic audience, the work served as a glossary to clarify obscure terms and cultural references in classical Athenian comedy. Modern scholars value the surviving fragments both for the incidental light they shed on otherwise lost literary works and as a concrete example of Hellenistic scholarly practices aimed at systematizing the linguistic and cultural details of Greece's literary heritage.
 
 ## Text
 

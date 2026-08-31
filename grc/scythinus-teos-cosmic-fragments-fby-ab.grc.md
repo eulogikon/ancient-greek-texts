@@ -5,6 +5,7 @@ author: Scythinus of Teos II
 eul_wid: fby-ab
 eul_aid: fby
 canonical: "https://eulogikon.org/works/scythinus-teos-cosmic-fragments-fby-ab"
+lang: grc
 period: Classical
 dialect: Ionic Iambic
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Scythinus of Teos II
 
 **eul_wid:** `fby-ab` · [HTML page](https://eulogikon.org/works/scythinus-teos-cosmic-fragments-fby-ab)
-
-No work titled Cosmic Fragments on Apollo attributed to Scythinus of Teos is attested in extant ancient sources. The poet Scythinus is known only for having rendered the philosophy of Heraclitus into verse. The works of Scythinus are lost, and he is mentioned solely in testimonia by later authors such as Diogenes Laertius and the Suda. While the specific themes of the purported Cosmic Fragments on Apollo are unknown, Scythinus’s known activity suggests any work by him would involve the poetic exposition of Heraclitean doctrine. Given Heraclitus’s own statements identifying Apollo with key concepts like the oracle and the logos, a work on this god could potentially align with such philosophical themes. No fragments of the Cosmic Fragments survive in standard collections. Scythinus represents a minor strand in the reception of Pre-Socratic thought, illustrating an attempt to disseminate Heraclitus’s complex ideas through didactic poetry. His non-extant verses remain a historical footnote with no traceable influence on later traditions.
 
 ## Text
 

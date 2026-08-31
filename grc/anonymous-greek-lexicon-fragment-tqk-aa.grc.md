@@ -5,6 +5,7 @@ author: Anonymous Greek Lexicon
 eul_wid: tqk-aa
 eul_aid: tqk
 canonical: "https://eulogikon.org/works/anonymous-greek-lexicon-fragment-tqk-aa"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Anonymous Greek Lexicon
 
 **eul_wid:** `tqk-aa` · [HTML page](https://eulogikon.org/works/anonymous-greek-lexicon-fragment-tqk-aa)
-
-The Lexicon Fragment is an anonymous lexicographic treatise surviving from antiquity. It consists of 155 discrete entries, representing a preserved portion of a larger, now lost, reference work compiled for the purpose of explaining Greek vocabulary. The entries engage with core philological themes, including the clarification of word meanings and usage, the investigation of word origins, and the potential notation of terms specific to dialects such as Homeric or Attic Greek. The work may also contain glosses on difficult terms from classical literary texts. It survives in its current fragmentary form, likely preserved through indirect transmission such as excerpting within a later manuscript or glossary, suggesting compilation or selection by a later scholar or copyist. While the specific influence of this anonymous fragment is unrecorded, it exemplifies the lexicographic tradition vital for preserving the Greek language and literature. Such works were foundational tools for philologists, commentators, and educators from later antiquity through the Renaissance.
 
 ## Text
 

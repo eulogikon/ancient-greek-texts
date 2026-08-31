@@ -5,6 +5,7 @@ author: Medical Writers Anonymous
 eul_wid: umi-an
 eul_aid: umi
 canonical: "https://eulogikon.org/works/med-writers-anon-foods-power-umi-an"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Medical Writers Anonymous
 
 **eul_wid:** `umi-an` · [HTML page](https://eulogikon.org/works/med-writers-anon-foods-power-umi-an)
-
-On the Power of Foods is a concise, anonymous medical treatise from the late antique or early Byzantine period. Written in Greek, this practical dietary guide classifies various foods—including meats, grains, and vegetables—according to their perceived qualities within the framework of humoral theory. The work systematically describes foods as heating, cooling, moistening, or drying, and advises on their use to maintain or restore the body's balance of the four humors. Its methodology is explicitly rooted in sensory evaluation, opening with the proposition that the natural power of foods is known through taste, which it divides into eight categories: sweet, bitter, salty, pungent, oily, astringent, insipid, and dissolving. Each taste is associated with specific thermal and moist qualities and corresponding physiological effects on different bodily constitutions.
-
-Although medieval manuscripts traditionally ascribed the work to Galen, modern scholarship regards it as spurious, considering it a later compilation from within the broader Galenic tradition. It functions as a handy reference, likely intended for students or practitioners, that summarizes established dietary knowledge rather than advancing new theory. The treatise survives in its complete form primarily because it was preserved within the larger corpus of works transmitted under Galen’s name, offering a clear example of the enduring practical application of classical medical principles in later periods.
 
 ## Text
 

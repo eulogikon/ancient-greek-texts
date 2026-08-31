@@ -5,6 +5,7 @@ author: Theopompus the Comic Poet
 eul_wid: efg-aa
 eul_aid: efg
 canonical: "https://eulogikon.org/works/theopompus-comic-food-feasting-efg-aa"
+lang: grc
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Theopompus the Comic Poet
 
 **eul_wid:** `efg-aa` · [HTML page](https://eulogikon.org/works/theopompus-comic-food-feasting-efg-aa)
-
-_Comic Fragments on Food and Feasting_ is a modern scholarly compilation of 151 passages attributed to the Athenian comic poet Theopompus, a contemporary of Aristophanes active from the late fifth to the early fourth century BCE. These excerpts, drawn from his lost comedies, are united by their thematic focus on culinary culture and the rituals of feasting. They survive not as a continuous text but as quotations—varying in length from isolated words to several lines—preserved primarily within the works of later antiquarians, most notably Athenaeus of Naucratis in his _Deipnosophistae_.
-
-The collected fragments illuminate several characteristic preoccupations of Old Comedy. They feature satire of gluttony and excessive consumption, often embodied by insatiable comic characters. The social rituals of the drinking party, or symposium, are frequently depicted, revealing dynamics of hospitality, conversation, and competition. Specific foods and luxurious ingredients—such as fine breads, seafood, and exotic condiments—serve as markers of social status, wealth, or pretension, while more mundane references to ingredients and cooking methods provide incidental evidence for ancient Greek diet and culinary practice. The genre’s penchant for mythological parody is also evident, with traditional stories involving banquets or divine hospitality subjected to comic treatment.
-
-These fragments survive entirely through indirect transmission, quoted by later Greek and Roman grammarians and scholars; the standard modern critical edition is found in _Poetae Comici Graeci_. As a corpus, they are of significant historical and literary value. They aid in reconstructing the broader landscape of Old Comedy beyond the extant plays of Aristophanes, demonstrating the genre’s engagement with social customs, its linguistic inventiveness, and its satirical edge. Furthermore, they offer a unique window into Athenian daily life and foodways, capturing elements of the genre’s evolution toward the less overtly political and more socially observational style characteristic of Middle Comedy.
 
 ## Text
 

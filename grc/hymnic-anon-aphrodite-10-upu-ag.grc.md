@@ -5,6 +5,7 @@ author: Hymnic Collection  Anonymous
 eul_wid: upu-ag
 eul_aid: upu
 canonical: "https://eulogikon.org/works/hymnic-anon-aphrodite-10-upu-ag"
+lang: grc
 period: Classical
 dialect: Epic (Homeric)
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hymnic Collection  Anonymous
 
 **eul_wid:** `upu-ag` · [HTML page](https://eulogikon.org/works/hymnic-anon-aphrodite-10-upu-ag)
-
-Homeric Hymn 10 to Aphrodite is a brief, six-line poem composed in dactylic hexameter, the meter of Greek epic. It belongs to the anonymous collection known as the Homeric Hymns, works attributed by scholars to various poets of the Archaic period, approximately the seventh and sixth centuries BCE. The hymn invokes Aphrodite with the epithet Cyprian, connecting her to the island of Cyprus, a principal site of her cult. It celebrates her as the bestower of gifts and the possessor of beguiling charms, recognizing her dominion over love, persuasion, and desire. The poem concludes with a direct appeal for the goddess to grant the singer victory and to steer his song in a poetic competition. Preserved in medieval manuscripts, this short hymn is believed to have functioned as a prelude to longer epic performances at religious festivals, serving both to honor the deity and to secure her favor for the performer's success. It stands as a succinct exemplar of early Greek religious poetry, illustrating the practical and performative role such hymns played within their cultural setting.
 
 ## Text
 

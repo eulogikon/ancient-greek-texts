@@ -5,6 +5,7 @@ author: Galen of Pergamon
 eul_wid: qmm-dy
 eul_aid: qmm
 canonical: "https://eulogikon.org/works/galen-pergamon-antidotes-qmm-dy"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Galen of Pergamon
 
 **eul_wid:** `qmm-dy` · [HTML page](https://eulogikon.org/works/galen-pergamon-antidotes-qmm-dy)
-
-On Antidotes is a pharmacological treatise by the Roman physician Galen of Pergamon. The work provides a systematic compilation detailing the ingredients, preparation, and purported efficacy of complex compound drugs, with a primary focus on universal antidotes known as theriacs and mithridatiums. Galen opens by defining antidotes as healing powers that work from within the body rather than being applied externally, categorizing them into three types: those for deadly poisons, those for venomous animal bites, and those for ailments arising from poor regimen. He gives particular attention to the celebrated Theriac of Andromachus, which he notes superseded an earlier formula attributed to King Mithridates, and critiques these earlier recipes based on his own empirical investigations.
-
-The treatise represents the zenith of complex drug preparation in ancient medicine. It methodically covers the composition of theriac, which was explored as a universal panacea believed to counteract poisons and treat a wide spectrum of diseases. Galen adopts an empirical approach to pharmacology, testing and modifying traditional recipes, and in doing so asserts his medical authority through detailed engagement with and criticism of predecessors like Andromachus and Damocrates. The text offers extensive guidance on the intricate compounding, long-term storage, and clinical application of these sophisticated medicines, which often contained dozens of ingredients including opium, viper's flesh, and numerous herbs and spices.
-
-Preserved within the Galenic corpus in Greek manuscripts and later translated into Arabic and Latin, the treatise ensured its profound influence on subsequent medical practice. On Antidotes served as a foundational toxicological and pharmaceutical text for over a millennium. It was instrumental in standardizing the recipe for theriac, cementing its status as the most famous drug in Western medicine, one that was still being publicly compounded in European cities well into the 18th century. Its detailed formulas remained essential references for apothecaries until the eventual decline of Galenic humoral theory.
 
 ## Text
 

@@ -1,10 +1,11 @@
 ---
 title: Fragments on Scythian Geography
 title_greek: Ἀποσπάσματα περὶ τῆς Σκυθικῆς Γεωγραφίας
-author: "Timonax "
+author: Timonax
 eul_wid: hus-aa
 eul_aid: hus
 canonical: "https://eulogikon.org/works/timonax-scythian-geography-hus-aa"
+lang: grc
 period: Hellenistic
 dialect: Attic
 domain: History
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀποσπάσματα περὶ τῆς Σκυθικῆς Γεωγραφίας*
 
-**Author:** Timonax 
+**Author:** Timonax
 
 **eul_wid:** `hus-aa` · [HTML page](https://eulogikon.org/works/timonax-scythian-geography-hus-aa)
-
-Fragments on Scythian Geography is a lost prose work by the Greek author Timonax, known only through a handful of brief quotations preserved by later writers. These fragments offer glimpses into a geographical and ethnographic account of Scythia, the region north of the Black Sea. The surviving passages describe specific locations and peoples, such as the plain of Laurium in Scythia and the fifty tribes Timonax reportedly cataloged. One fragment details the bifurcation of the Ister river in the land of the Sindi, with one branch flowing into the Adriatic Sea and another into the Black Sea. Other quotations reference mythological geography, noting places in Colchis associated with Jason and Medea, including so-called Jasonian gardens, gymnasia, and temples. Another fragment mentions the alternative name Apsyrtus for Phaethon. The work represents a contribution to the Hellenic tradition of cataloging the peoples and landscapes of the Pontic region, reflecting the Greek colonial and intellectual engagement with this area. The fragments are transmitted through scholia on Apollonius of Rhodes's Argonautica and possibly a work titled Sicelica or Scythica, with the modern title being a descriptive reconstruction.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Calliphon and Democedes of Croton
 eul_wid: bae-aa
 eul_aid: bae
 canonical: "https://eulogikon.org/works/calliphon-democrates-croton-testimonies-bae-aa"
+lang: grc
 period: Archaic
 dialect: Doric
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Calliphon and Democedes of Croton
 
 **eul_wid:** `bae-aa` · [HTML page](https://eulogikon.org/works/calliphon-democrates-croton-testimonies-bae-aa)
-
-The Testimonies is a minor and obscure collection of six medical case histories attributed to the physicians Calliphon and Democedes of Croton. No detailed description of its content survives, and it is absent from standard accounts of the principal surviving works and textual transmission of early Greek medicine. Its status remains unclear, though the specification of six passages suggests it may represent a small collection of excerpts preserved indirectly. The historical figure of Democedes is well-documented; the 5th-century historian Herodotus records his service to Polycrates of Samos and later to the Persian king Darius I, praising his exceptional skill. Calliphon, by contrast, is an otherwise unattested and obscure figure. The pairing of their names on this collection is unique and not corroborated by other sources, rendering the work a bibliographical curiosity with no attested influence on the medical tradition.
 
 ## Text
 

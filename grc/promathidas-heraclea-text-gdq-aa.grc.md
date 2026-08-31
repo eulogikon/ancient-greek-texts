@@ -5,6 +5,7 @@ author: Promathidas of Heraclea
 eul_wid: gdq-aa
 eul_aid: gdq
 canonical: "https://eulogikon.org/works/promathidas-heraclea-text-gdq-aa"
+lang: grc
 period: Classical
 dialect: Koine
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Promathidas of Heraclea
 
 **eul_wid:** `gdq-aa` · [HTML page](https://eulogikon.org/works/promathidas-heraclea-text-gdq-aa)
-
-_On Heraclea_ is a lost historical work by Promathidas of Heraclea, a local historian of Heraclea Pontica on the Black Sea. The work is known only through a handful of prose fragments preserved as quotations by later authors, most notably the scholar Athenaeus in his _Deipnosophistae_. These excerpts indicate it was a detailed local history, chronicling the city's foundation, myths, and prominent citizens. The fragments reference figures such as the seer Idmon, who was ordained by the Delphic oracle as the city's divine protector during its colonization by Megarians and Boeotians, and the tomb of Sthenelus, a companion of Heracles. Other surviving passages, also from Athenaeus, shift focus to the city's social history, describing the luxurious banquets of the tyrant Clearchus and anecdotes about notable citizens like the philosopher Heraclides Ponticus. With no independent manuscript tradition, the work survives entirely through these secondary citations. As a fragmentary source, _On Heraclea_ provides valuable, if limited, insights into the cultural and social history of a major Pontic Greek city, contributing to the broader corpus of Greek local historiography.
 
 ## Text
 

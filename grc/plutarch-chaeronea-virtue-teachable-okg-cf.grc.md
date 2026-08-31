@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-cf
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-virtue-teachable-okg-cf"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-cf` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-virtue-teachable-okg-cf)
-
-Whether Virtue Is Teachable is a philosophical essay by Plutarch of Chaeronea, composed in Greek around 100 CE and forming part of his extensive ethical corpus, the Moralia. The work addresses a central and enduring question of classical ethics: whether human virtue, encompassing moral wisdom, just action, and the good life, can be transmitted through formal instruction. Plutarch structures his examination in six parts, systematically engaging with the famous paradox presented in Plato’s Meno, which highlights the apparent absence of recognized teachers of virtue as an argument against its teachability. The essay contrasts the abundance of skilled practitioners in technical arts like rhetoric, navigation, and building with the perceived scarcity of demonstrably virtuous individuals, questioning why the most important art of living well should seem innate or accidental rather than learned.
-
-Written during the early Roman Empire for a cultivated audience of Greek and Roman elites, the treatise reflects Plutarch’s characteristic approach of applying philosophical inquiry to practical moral education within the family and civic life. He does not treat the question as a purely abstract dialectical exercise but explores the implications for how character is formed. While presenting arguments on both sides of the debate, Plutarch ultimately advocates for a synthetic view, acknowledging the roles of natural disposition, habitual practice, and rational teaching in the cultivation of excellence. The complete text has been preserved through the medieval manuscript tradition of the Moralia, transmitted by Byzantine scholars and remaining integral to the study of later Platonic ethical thought.
 
 ## Text
 

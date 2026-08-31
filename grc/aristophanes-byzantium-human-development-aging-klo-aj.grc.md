@@ -5,6 +5,7 @@ author: Aristophanes of Byzantium
 eul_wid: klo-aj
 eul_aid: klo
 canonical: "https://eulogikon.org/works/aristophanes-byzantium-human-development-aging-klo-aj"
+lang: grc
 period: Hellenistic
 dialect: Technical Koine
 domain: Grammar
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristophanes of Byzantium
 
 **eul_wid:** `klo-aj` · [HTML page](https://eulogikon.org/works/aristophanes-byzantium-human-development-aging-klo-aj)
-
-On Human Development and Aging is a lost grammatical treatise attributed to the Alexandrian scholar Aristophanes of Byzantium, who served as head of the Library of Alexandria in the early second century BCE. The work is known only through later citations, primarily in the etymological and lexicographical writings of authors such as Eustathius. These fragments reveal it to have been a systematic study of the Greek vocabulary used to describe the stages of human life, from infancy to extreme old age. The treatise meticulously distinguished between terms for similar life stages, such as the nuanced differences between words for an old man: geron, presbytes, and probebekos.
-
-It provided a detailed chronological schema, beginning with brephos for a newborn, progressing through terms for a nursing child (paidion), a toddler beginning to speak (paidarion), and a youth in subsequent phases often called pallax, boupaida, or mellephebos. The sequence continued with ephebos (adolescent), noting regional variants like triakadios in Cyrene and apodromos in Crete, followed by meirakion or meirax (young man), neaniskos, neanias, aner mesos (middle-aged man), probebekos (advanced in years), geron, presbytes, and finally eschatogerōs (extremely aged). The work’s method involved citing illustrative passages from earlier Greek poetry and prose to anchor these definitions in literary usage, reflecting the Alexandrian scholarly practice of creating authoritative reference tools through the collection and classification of philological data. As such, it functioned less as a continuous discourse and more as a specialized lexical study or scholarly handbook, compiling examples of how the human lifespan was linguistically and culturally demarcated in classical literature.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Zosimus of Panopolis
 eul_wid: tyc-ck
 eul_aid: tyc
 canonical: "https://eulogikon.org/works/zosimus-panopolis-weights-tyc-ck"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Zosimus of Panopolis
 
 **eul_wid:** `tyc-ck` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-weights-tyc-ck)
-
-On Weights is a concise technical treatise by the alchemist Zosimus of Panopolis, composed in Greek around 300 CE. The work presents three passages of practical instruction concerning the specific weights and measures required for ingredients in alchemical operations. It forms a significant component of the oldest surviving corpus of Greek alchemical literature, illustrating the discipline's foundation in hands-on workshop practices such as metallurgy, dyeing, and alloy production. The text underscores the necessity of precise measurement to ensure the accurate replication of recipes, reflecting the experimental character of Greco-Egyptian alchemy, which combined practical craft with philosophical speculation. Zosimus wrote in Panopolis, Egypt, a major center where Greek, Egyptian, and Hermetic intellectual traditions converged. Scholars interpret the treatise as a practitioner's manual, detailing the standardized tools essential for processes aimed at transmuting base metals or imitating precious materials. The work survives through later Greek manuscript copies, most notably within the 10th- or 11th-century Codex Marcianus Graecus 299. As the author of the earliest extant Greek alchemical texts, Zosimus's writings, including On Weights, became foundational for subsequent alchemical traditions in both the Byzantine and Islamic worlds.
 
 ## Text
 

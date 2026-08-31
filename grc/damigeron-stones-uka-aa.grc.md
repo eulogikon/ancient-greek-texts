@@ -5,6 +5,7 @@ author: Damigeron the Magus
 eul_wid: uka-aa
 eul_aid: uka
 canonical: "https://eulogikon.org/works/damigeron-stones-uka-aa"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Damigeron the Magus
 
 **eul_wid:** `uka-aa` · [HTML page](https://eulogikon.org/works/damigeron-stones-uka-aa)
-
-On Stones is an ancient lapidary treatise attributed to Damigeron, a figure also known as Evax and associated with magical traditions. The original Greek text is lost, and the work survives primarily through a Latin translation that was widely circulated during the medieval period. Operating within the Hellenistic and Roman tradition of occult scientific writing, the text systematically details the magical and medicinal properties attributed to various precious stones. The surviving Latin version is organized into chapters, each dedicated to a specific stone such as agate, diamond, or emerald. These entries describe each stone’s physical appearance, geographical origins, and its purported powers, which range from healing diseases and offering protection to influencing emotions and guaranteeing success in endeavors. The treatise opens with a preface presenting the work as a letter from "Evax, King of the Arabs," to the Roman emperor Tiberius, a common pseudepigraphic device used in technical and magical texts to lend antiquity and authority. Preserved in multiple Latin manuscript versions, the text was frequently copied alongside or incorporated into other medieval lapidaries, and its complex textual history shows significant variations between different manuscript families. This Latin translation served as the primary vehicle through which the work's concepts influenced later European tradition. Damigeron’s On Stones was a foundational text for the medieval lapidary genre. Its descriptions were directly transmitted to and expanded upon by later writers, most notably Marbode of Rennes in his influential Liber Lapidum. The work played a significant role in shaping medieval practices in medicine, magic, and jewelry by preserving and disseminating ancient mineral lore as a body of authoritative secret knowledge.
 
 ## Text
 

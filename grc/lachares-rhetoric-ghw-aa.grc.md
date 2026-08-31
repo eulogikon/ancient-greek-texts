@@ -5,6 +5,7 @@ author: Lachares the Sophist
 eul_wid: ghw-aa
 eul_aid: ghw
 canonical: "https://eulogikon.org/works/lachares-rhetoric-ghw-aa"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lachares the Sophist
 
 **eul_wid:** `ghw-aa` · [HTML page](https://eulogikon.org/works/lachares-rhetoric-ghw-aa)
-
-The Rhetoric is a lost treatise on oratory attributed to the sophist Lachares, a pupil of the renowned rhetorician Herodes Atticus. Its existence is recorded solely by a brief entry in the 10th-century Byzantine encyclopedia known as the Suda, which provides the work's title but no direct quotations. Consequently, no fragments of the text survive, and its specific arguments and structure remain entirely unknown. Given its title and the author's profession as a sophist active during the Second Sophistic movement of the 2nd century CE, the work would have dealt with the art and technique of persuasive public speaking. Its mention in the Suda indicates Lachares was remembered within the later Greek rhetorical tradition, but the complete loss of the treatise precludes any meaningful assessment of its content or influence.
 
 ## Text
 

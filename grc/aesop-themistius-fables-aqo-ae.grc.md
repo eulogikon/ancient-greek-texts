@@ -5,6 +5,7 @@ author: Aesop the Fabulist
 eul_wid: aqo-ae
 eul_aid: aqo
 canonical: "https://eulogikon.org/works/aesop-themistius-fables-aqo-ae"
+lang: grc
 period: Archaic
 dialect: Mixed Dialects
 domain: Fiction
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aesop the Fabulist
 
 **eul_wid:** `aqo-ae` · [HTML page](https://eulogikon.org/works/aesop-themistius-fables-aqo-ae)
-
-The Fables of Themistius the Rhetorician is a minor collection of prose fables attributed to Aesop but transmitted under the name of the fourth-century rhetorician and philosopher Themistius. The Byzantine Suda encyclopedia records that Themistius composed Aesopic fables in prose. This small work, consisting of only two extant passages, forms part of the larger and complex Aesopic corpus and is included in the standard modern edition, the Corpus Fabularum Aesopicarum. The fables adhere to the traditional conventions of the genre, offering moral instruction and social criticism through brief narratives followed by an epimythium, or moral. They survive within medieval manuscripts that collect Greek fables, their transmission subsumed within the broader history of the Aesopic tradition. While the collection's specific influence is not individually distinguished, it exemplifies the common practice among rhetoricians of compiling or adapting Aesopic material for educational purposes, particularly in teaching rhetoric and practical ethics. Its significance lies in its contribution to the vast and enduring Aesopic tradition that influenced education and literature from antiquity onward.
 
 ## Text
 

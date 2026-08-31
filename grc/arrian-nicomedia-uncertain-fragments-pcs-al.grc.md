@@ -5,6 +5,7 @@ author: Arrian of Nicomedia
 eul_wid: pcs-al
 eul_aid: pcs
 canonical: "https://eulogikon.org/works/arrian-nicomedia-uncertain-fragments-pcs-al"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Arrian of Nicomedia
 
 **eul_wid:** `pcs-al` · [HTML page](https://eulogikon.org/works/arrian-nicomedia-uncertain-fragments-pcs-al)
-
-The Uncertain Fragments is a collection of 28 passages attributed to Arrian of Nicomedia, the 2nd-century CE historian and philosopher. This work is not attested in any standard biographical or bibliographical records of Arrian’s known corpus, which is dominated by his historical writings, most notably the Anabasis of Alexander, and his philosophical compilations of the teachings of Epictetus. The title implies a collection of philosophical excerpts, but its content, provenance, and authenticity remain entirely unverified. No specific themes from the fragments are documented, in stark contrast to Arrian’s authenticated philosophical works, which clearly transmit core Stoic doctrines concerning moral agency, virtue, and living in accordance with nature.
-
-There exists no recorded manuscript tradition or preservation history for a work bearing this title. The transmission of Arrian’s major works is itself complex; for instance, his compilation of Epictetus’s Discourses survives only in part, with four of an original eight books extant. Arrian’s significant historical and philosophical influence rests entirely on his authenticated writings. His Anabasis is considered the most authoritative account of Alexander the Great’s campaigns, while his records of Epictetus’s teachings have had a profound and enduring impact on Stoic and moral thought. The Uncertain Fragments hold no established place within this legacy and remain a bibliographical curiosity of uncertain origin.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Hephaestion of Alexandria
 eul_wid: oqa-ac
 eul_aid: oqa
 canonical: "https://eulogikon.org/works/hephaestion-alexandria-handbook-meters-oqa-ac"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Grammar
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hephaestion of Alexandria
 
 **eul_wid:** `oqa-ac` · [HTML page](https://eulogikon.org/works/hephaestion-alexandria-handbook-meters-oqa-ac)
-
-The Handbook on Meters is a systematic treatise on Greek poetic meter composed in the 2nd century CE by the Alexandrian grammarian Hephaestion. Written in Koine Greek as a practical textbook, this concise manual methodically classifies and describes the meters employed in Greek poetry, ranging from the epic hexameter to the complex lyric meters of poets such as Pindar. Structured in forty-eight chapters, the work provides clear definitions, illustrates its points with quoted examples from classical poets, and analyzes how metrical units combine to form verse lines. A key feature of the treatise is its critical engagement with the theories of earlier scholars, situating itself within a long philological tradition.
-
-Modern scholarship interprets the handbook as a product of advanced Greco-Roman education, created to preserve and systematize the technical analysis of the classical literary canon. Hephaestion lived and worked in Alexandria during a peak period of scholarly activity, and his work reflects the Alexandrian tradition of meticulous philology. The Handbook survives in its entirety, transmitted through medieval manuscripts that frequently include ancient commentaries, a testament to its enduring use as a standard textbook. It became the foundational authority for the study of Greek meter, exerting a profound influence on Byzantine, Renaissance, and even modern metrical analysis.
 
 ## Text
 

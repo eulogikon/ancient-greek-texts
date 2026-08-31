@@ -5,6 +5,7 @@ author: Plato of Athens
 eul_wid: ffk-bm
 eul_aid: ffk
 canonical: "https://eulogikon.org/works/plato-laws-ffk-bm"
+lang: grc
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plato of Athens
 
 **eul_wid:** `ffk-bm` · [HTML page](https://eulogikon.org/works/plato-laws-ffk-bm)
-
-Plato's Laws is the final and most extensive work of the Athenian philosopher, composed in the last decade of his life, approximately between 360 and 347 BCE. This dialogue in Attic Greek presents a comprehensive legal and political blueprint for a hypothetical new colony on Crete named Magnesia. The discussion is led by an anonymous Athenian Stranger, who is joined by two elder statesmen, a Spartan named Megillus and a Cretan named Clinias. Their conversation, which unfolds during a long walk to a sacred cave, systematically constructs the city's entire social order, including its constitution, detailed legislation, educational curriculum, religious observances, and governing institutions. Departing from the purely idealistic model of the Republic, the Laws aims to establish a practical and attainable "second-best" state, one that blends monarchic, aristocratic, and democratic principles to ensure stability and virtue.
-
-The work survives complete and is traditionally divided into twelve books. Ancient sources report that Plato left the manuscript unrevised on wax tablets at his death, and that his student Philip of Opus subsequently prepared it for publication. The dialogue represents Plato's mature effort to ground philosophical principles in the concrete realities of lawgiving, addressing an audience of potential legislators and reformers. Its central themes include the conception of law as the embodiment of divine reason and a check against arbitrary power, the role of lifelong education in cultivating civic virtue, and the necessity of a supreme philosophical oversight body, known as the Nocturnal Council, to guide the state. Through its detailed exploration of jurisprudence, ethics, and political theory, the Laws has exerted a profound and lasting influence on Western thought, informing the works of Aristotle, inspiring Renaissance political writers, and continuing to resonate in modern legal and philosophical discourse.
 
 ## Text
 

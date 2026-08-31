@@ -5,6 +5,7 @@ author: Theocritus of Syracuse
 eul_wid: izc-ab
 eul_aid: izc
 canonical: "https://eulogikon.org/works/theocritus-syracuse-epigrams-izc-ab"
+lang: grc
 period: Hellenistic
 dialect: Doric Bucolic
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Theocritus of Syracuse
 
 **eul_wid:** `izc-ab` · [HTML page](https://eulogikon.org/works/theocritus-syracuse-epigrams-izc-ab)
-
-The Epigrams constitute a collection of short poems attributed to Theocritus of Syracuse, the foundational poet of the pastoral genre who flourished in the 3rd century BCE. Composed in the elegiac couplets conventional for the form, these 124 pieces engage with traditional epigrammatic themes, including votive dedications to deities, funerary epitaphs, expressions of erotic sentiment, and commentary on art and literature. A handful exhibit the pastoral motifs for which Theocritus is most celebrated, providing a thematic link to his Idylls. The collection survives not as an independent ancient volume but through its incorporation into later comprehensive anthologies, principally the Palatine Anthology and the Planudean Anthology. The authenticity of the entire corpus remains a subject of scholarly contention; while certain epigrams are generally accepted as genuine, others are considered likely to be later attributions. These concise and artful verses were likely composed for the literate circles of Hellenistic courts, such as those in Alexandria and Syracuse, intended either for actual inscription or for circulation as sophisticated literary exercises.
 
 ## Text
 

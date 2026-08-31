@@ -5,6 +5,7 @@ author: Hieronymus of Rhodes
 eul_wid: ilq-aa
 eul_aid: ilq
 canonical: "https://eulogikon.org/works/hieronymus-rhodes-supreme-good-happiness-ilq-aa"
+lang: grc
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hieronymus of Rhodes
 
 **eul_wid:** `ilq-aa` · [HTML page](https://eulogikon.org/works/hieronymus-rhodes-supreme-good-happiness-ilq-aa)
-
-_On the Supreme Good and Happiness_ is a lost ethical treatise written in the third century BCE by the Hellenistic philosopher Hieronymus of Rhodes. A member of the Peripatetic school, Hieronymus composed this work to address the central philosophical question of the highest good and the nature of human happiness. The complete text has not survived and is known only through fragments, primarily from thirty-six passages quoted by the later compiler Stobaeus, who preserved them under the title _Apospasmata_ ("Extracts"). From these fragments, scholars reconstruct that Hieronymus defined the supreme goal of life as freedom from disturbance. He argued that happiness consists in the active use of virtue but also depends on the presence of bodily health and external goods, making it somewhat vulnerable to fortune. This distinctive position represented an attempt to engage with and bridge ideas from both Aristotelian and contemporary Cyrenaic philosophy. Modern interpreters view it as a characteristic Peripatetic response to the intense ethical debates among Stoics, Epicureans, and Skeptics during the Hellenistic period. The work was later discussed and criticized by authors such as Cicero, who contrasted its views with Stoic doctrine.
 
 ## Text
 

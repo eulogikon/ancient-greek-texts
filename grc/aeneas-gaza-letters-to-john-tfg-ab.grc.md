@@ -5,6 +5,7 @@ author: Aeneas of Gaza
 eul_wid: tfg-ab
 eul_aid: tfg
 canonical: "https://eulogikon.org/works/aeneas-gaza-letters-to-john-tfg-ab"
+lang: grc
 period: Late Antique
 dialect: Christian Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aeneas of Gaza
 
 **eul_wid:** `tfg-ab` · [HTML page](https://eulogikon.org/works/aeneas-gaza-letters-to-john-tfg-ab)
-
-The Letters to John is a collection of twenty-six philosophical epistles composed in Attic Greek by the Christian philosopher Aeneas of Gaza around 485 CE. Addressed to a correspondent named John, likely a fellow intellectual, the work employs the epistolary format prevalent in late antiquity to conduct theological debate. Its arguments synthesize Platonic philosophy with Christian doctrine, primarily to refute contemporary Neoplatonic positions. Central themes include a critique of the Neoplatonic doctrines concerning the eternity of the world and the transmigration of souls, coupled with a defense of the Christian concepts of creation from nothing and the immortality of the individual soul. The complete text survives and is typically transmitted in manuscripts alongside Aeneas’s more famous dialogue, Theophrastus. Modern scholarship interprets the letters as a significant artifact of the intellectual climate in educated Christian circles in Gaza, reflecting the vigorous contest of ideas following the decline of pagan philosophical schools. The work represents an important, though less systematic, precursor to the later and more comprehensive Christian philosophical critiques of Neoplatonism.
 
 ## Text
 

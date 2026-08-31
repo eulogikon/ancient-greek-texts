@@ -1,10 +1,11 @@
 ---
 title: Description of the World
 title_greek: Περιγραφὴ τοῦ Κόσμου
-author: "Dionysius of Alexandria "
+author: Dionysius of Alexandria
 eul_wid: rna-ab
 eul_aid: rna
 canonical: "https://eulogikon.org/works/dionysius-alexandria-world-description-rna-ab"
+lang: grc
 period: Roman
 dialect: Christian Koine
 domain: Geography
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Περιγραφὴ τοῦ Κόσμου*
 
-**Author:** Dionysius of Alexandria 
+**Author:** Dionysius of Alexandria
 
 **eul_wid:** `rna-ab` · [HTML page](https://eulogikon.org/works/dionysius-alexandria-world-description-rna-ab)
-
-The Description of the World is a geographical prose treatise attributed to Dionysius of Alexandria. This work, comprising 54 passages, offers a systematic description of the inhabited world, beginning with an invocation to sing of the earth, the wide sea, rivers, cities, and the countless tribes of men. It opens with a cosmographic view of the earth as an island surrounded by the stream of Oceanus, then divides this landmass into the three traditional continents of Libya, Europe, and Asia, delineating their boundaries. The text proceeds to describe major geographical features, including the Nile River, the Tanais River which separates Europe from Asia, and the isthmus between the Caspian and Euxine Seas. The authorship remains uncertain, as the work is not listed among the known writings of major historical figures named Dionysius of Alexandria, such as the third-century bishop or the second-century didactic poet Dionysius Periegetes. The manuscript tradition and preservation history of this specific text are not documented in standard reference sources. As an unattributed geographical work from antiquity, its significance lies in its contribution to the broader corpus of Greek descriptive geography, though its precise place and influence remain unclear due to the lack of surviving contextual evidence.
 
 ## Text
 

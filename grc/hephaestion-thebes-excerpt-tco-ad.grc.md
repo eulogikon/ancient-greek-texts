@@ -5,6 +5,7 @@ author: Hephaestion of Thebes
 eul_wid: tco-ad
 eul_aid: tco
 canonical: "https://eulogikon.org/works/hephaestion-thebes-excerpt-tco-ad"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hephaestion of Thebes
 
 **eul_wid:** `tco-ad` · [HTML page](https://eulogikon.org/works/hephaestion-thebes-excerpt-tco-ad)
-
-The Eklogē, or Selection, is an astrological treatise composed in Greek by Hephaestion of Thebes around 415 CE. This late antique handbook serves as a practical manual for casting horoscopes and predicting life events based on celestial configurations. It functions as a systematic compendium, synthesizing the influential mathematical framework of Claudius Ptolemy with the earlier poetic tradition of Dorotheus of Sidon. The work survives in full through Greek manuscripts and is structured as a methodical guide, interpreted by modern scholars as a key pedagogical text for students and practitioners seeking clarity in complex astrological doctrine. Its enduring significance lies in its role as a critical bridge between classical and medieval astrological knowledge. Translated into Arabic in the 9th century and later into Latin, the Eklogē was instrumental in transmitting Greek astrological techniques to the Islamic world and subsequently to medieval Europe.
 
 ## Text
 

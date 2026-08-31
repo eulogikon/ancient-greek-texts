@@ -5,6 +5,7 @@ author: Aristides of Miletus the Novelist
 eul_wid: mlm-aa
 eul_aid: mlm
 canonical: "https://eulogikon.org/works/aristides-miletus-historical-fragments-mlm-aa"
+lang: grc
 period: Hellenistic
 dialect: Ionic (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristides of Miletus the Novelist
 
 **eul_wid:** `mlm-aa` · [HTML page](https://eulogikon.org/works/aristides-miletus-historical-fragments-mlm-aa)
-
-The Italica, or Historical Fragments, is a work spuriously attributed to Aristides of Miletus, the novelist. No historical work of this title is attested for Aristides, who is known exclusively as the author of the Milesiaka, a lost collection of erotic and adventurous prose fiction considered foundational to the ancient novel. The fragments preserved under the name Italica are not from Aristides’s own hand but are later excerpts, likely from a historical compiler, that cite him as a source for specific anecdotes. These fragments, as transmitted, recount legendary episodes from early Roman history. One describes how the Gallic king Atepromarus, during a war with Rome, demanded Roman women for his pleasure before withdrawing. The Romans, advised by a slave woman named Rhetana, sent their female slaves instead; the Gauls, exhausted by the encounter, fell asleep, allowing Rhetana to signal the consuls and secure a Roman victory, an event later commemorated by a festival for slave-women. Another fragment tells of the Etruscan king Porsenna besieging Rome and intercepting its grain supply. A Roman noble named Mucius, disguised, crossed the river and mistakenly killed the king’s quartermaster, believing him to be Porsenna. The actual content and themes of Aristides’s genuine work, the Milesiaka, are known only from references by later authors, who describe it as consisting of licentious and sensational narratives of love and adventure. The Milesiaka itself survives only in fragments and later summaries; it was reportedly translated into Latin by Lucius Cornelius Sisenna in the first century BCE, a version now also lost. Its significance lies in giving its name to a genre of “Milesian tales” and in its considerable influence on subsequent prose fiction, underscored by its noted popularity in the ancient world.
 
 ## Text
 

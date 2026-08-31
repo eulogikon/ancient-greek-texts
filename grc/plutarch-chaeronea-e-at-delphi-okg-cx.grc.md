@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-cx
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-e-at-delphi-okg-cx"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-cx` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-e-at-delphi-okg-cx)
-
-On the E at Delphi is a philosophical dialogue by Plutarch of Chaeronea, composed around 100 CE. It examines the significance of the enigmatic letter E inscribed upon the temple of Apollo at Delphi, a symbol placed alongside the more famous Delphic maxims "Know thyself" and "Nothing in excess." The text is presented as a conversation among a group of learned friends, including Plutarch's own teacher Ammonius, who propose and debate a series of interpretations. Over the course of the dialogue, the discussion progresses from straightforward conjectures to profound philosophical exegesis. Using the simple symbol as a launching point, the participants explore core Platonic and Pythagorean doctrines concerning the nature of divinity, true being, and the harmony of the cosmos.
-
-The work survives intact within the corpus of Plutarch's miscellaneous essays known as the Moralia, preserved through medieval manuscript tradition. Plutarch himself served as a priest at the Delphic sanctuary, and the dialogue is informed by his deep personal commitment to its religious life. Modern scholarship views the text as a sophisticated endeavor to harmonize traditional Greek religious practice with contemporary philosophical inquiry. It demonstrates how ancient cultic symbols could be understood to embody complex metaphysical truths, an interpretation aimed at an educated Greco-Roman audience seeking to reconcile piety with reason.
 
 ## Text
 

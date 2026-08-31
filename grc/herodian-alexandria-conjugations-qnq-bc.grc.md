@@ -5,6 +5,7 @@ author: Herodian of Alexandria
 eul_wid: qnq-bc
 eul_aid: qnq
 canonical: "https://eulogikon.org/works/herodian-alexandria-conjugations-qnq-bc"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Herodian of Alexandria
 
 **eul_wid:** `qnq-bc` · [HTML page](https://eulogikon.org/works/herodian-alexandria-conjugations-qnq-bc)
-
-_On Conjugations_ is a lost grammatical treatise by the 2nd-century CE Alexandrian grammarian Herodian. The work systematically classified Greek verbs according to their inflectional patterns. Although the original text does not survive intact, its content is known through fragments and citations preserved in later Byzantine scholarship. The treatise analyzed verb morphology, including the classification of verbs into conjugations, the patterns of tense stems, moods, and personal endings, and the rules for correct inflection. The work survives only in fragments, primarily through quotations in the 12th-century Byzantine encyclopedia _Etymologicum Magnum_ and in scholia on classical authors such as Homer. Herodian’s systematic analysis of conjugations was foundational for the Byzantine grammatical tradition. His rules were absorbed into later reference works and educational systems, shaping the teaching of Greek morphology for centuries.
 
 ## Text
 

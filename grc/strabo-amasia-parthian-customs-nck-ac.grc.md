@@ -5,6 +5,7 @@ author: Strabo of Amasia
 eul_wid: nck-ac
 eul_aid: nck
 canonical: "https://eulogikon.org/works/strabo-amasia-parthian-customs-nck-ac"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: Geography
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Strabo of Amasia
 
 **eul_wid:** `nck-ac` · [HTML page](https://eulogikon.org/works/strabo-amasia-parthian-customs-nck-ac)
-
-The Fragments on Parthian Customs is a modern scholarly compilation of nineteen excerpts concerning the Parthian Empire, drawn from Strabo’s Geographica. This encyclopedic work, completed around 23 CE, systematically describes the known world, integrating Strabo’s observations on Parthia throughout, particularly in Books 11 and 16, where he synthesizes his own travels with earlier Greek sources. The assembled fragments cover key aspects of Parthian civilization, including its political and social organization, such as the structure of kingship and the power of noble families. They detail military practices, notably the famed cavalry of horse-archers and heavily armored cataphracts, and describe cultural and religious customs involving dress, marriage, and rites, often contrasted with Greco-Roman norms. The excerpts also provide geographical and economic information on regions, key cities like Ctesiphon, and resources, alongside a historical narrative of Parthia within the context of the Seleucid successor states and its relations with Rome. The text survives solely as part of the manuscript tradition of the Geographica, preserved in Byzantine copies with key manuscripts, such as the Codex Parisinus gr. 1397, dating from the 10th century onward. There are no independent manuscripts of this collected title. Strabo’s account provided the Greco-Roman world with a systematic ethnography of its eastern rival, becoming a foundational source for later historians and remaining indispensable for modern study of the Parthian Empire, as it offers crucial geographical and cultural details often absent from other records.
 
 ## Text
 

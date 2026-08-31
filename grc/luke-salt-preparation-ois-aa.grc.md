@@ -5,6 +5,7 @@ author: Gospel of Luke
 eul_wid: ois-aa
 eul_aid: ois
 canonical: "https://eulogikon.org/works/luke-salt-preparation-ois-aa"
+lang: grc
 period: Roman
 dialect: Christian Koine
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Gospel of Luke
 
 **eul_wid:** `ois-aa` · [HTML page](https://eulogikon.org/works/luke-salt-preparation-ois-aa)
-
-The Preparation of Salt is a concise Greek alchemical recipe attributed to an author identified as the Gospel of Luke, a figure distinct from the Christian evangelist and likely a later Byzantine practitioner. Preserved within larger collections of Greco-Egyptian alchemical texts, the work provides detailed instructions for compounding a medicinal salt. The text opens by listing numerous therapeutic virtues attributed to the preparation, including preserving eyesight into old age, preventing phlegm in the chest, curing eye ailments, stopping hair loss, purging bile, dissolving bodily humors, halting spasms, and strengthening loose teeth. It then proceeds to a precise formula, specifying exact quantities of ingredients such as Cretan hyssop, lichen, cumin, thyme, various types of pepper, and several kinds of salt including rock salt and ammoniac salt. The final directive instructs the user to grind all components together and to employ the mixture daily, either by consuming it directly or by dipping food into it. The work survives as part of the corpus of Greek alchemical texts transmitted through Byzantine manuscripts, most notably the Codex Marcianus graecus 299 from the 10th or 11th century. As a minor but representative component of this technical tradition, it exemplifies the practical, recipe-based laboratory techniques common in late antique and medieval alchemy. Collectively, such texts were instrumental in preserving and transmitting ancient chemical and pharmacological knowledge into later Arabic and Latin scholarly traditions.
 
 ## Text
 

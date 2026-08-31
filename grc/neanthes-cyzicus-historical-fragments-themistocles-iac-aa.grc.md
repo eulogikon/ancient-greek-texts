@@ -5,6 +5,7 @@ author: Neanthes of Cyzicus
 eul_wid: iac-aa
 eul_aid: iac
 canonical: "https://eulogikon.org/works/neanthes-cyzicus-historical-fragments-themistocles-iac-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Neanthes of Cyzicus
 
 **eul_wid:** `iac-aa` · [HTML page](https://eulogikon.org/works/neanthes-cyzicus-historical-fragments-themistocles-iac-aa)
-
-The Historical Fragments on Themistocles by the Hellenistic historian Neanthes of Cyzicus is a lost biographical work known only through a collection of excerpts preserved by later authors. These fragments, detailing episodes from the life of the Athenian statesman Themistocles, illustrate the work's focus on biographical anecdotes highlighting his character and cunning, as well as variant historical traditions about his life. The fragments also preserve cultural details, such as references to ancient dining habits. The complete text is lost, with the material surviving primarily through quotations in Athenaeus's Deipnosophistae and Plutarch's Life of Themistocles, and they are collected in modern editions of the Fragmenta Historicorum Graecorum and Die Fragmente der griechischen Historiker. While its direct influence is difficult to trace, the work's preservation shows it served as a source for biographical material in antiquity. Modern scholarship uses these fragments to study the Hellenistic reception of Themistocles and the biographical methods of historians like Neanthes.
 
 ## Text
 

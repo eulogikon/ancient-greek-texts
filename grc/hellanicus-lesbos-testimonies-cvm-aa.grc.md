@@ -5,6 +5,7 @@ author: Hellanicus of Lesbos
 eul_wid: cvm-aa
 eul_aid: cvm
 canonical: "https://eulogikon.org/works/hellanicus-lesbos-testimonies-cvm-aa"
+lang: grc
 period: Classical
 dialect: Aeolic (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hellanicus of Lesbos
 
 **eul_wid:** `cvm-aa` · [HTML page](https://eulogikon.org/works/hellanicus-lesbos-testimonies-cvm-aa)
-
-The Testimonies is a lost work of the pioneering Greek logographer Hellanicus of Lesbos, a contemporary of Herodotus active in the fifth century BCE. Known only through fragments cited by later lexicographers, scholiasts, and historians, it belonged to the genre of early historiography concerned with systematizing mythological and genealogical traditions. The work almost certainly contained authoritative accounts of heroic genealogies, foundation myths for various cities, and compilations of local legends, serving to establish chronological and narrative order for the Greek past. As with his other works, Hellanicus’s aim in the Testimonies was to collect and reconcile disparate local traditions into a coherent Panhellenic framework. Though later historians like Thucydides criticized his chronological methods, Hellanicus’s scholarship, including the material preserved from the Testimonies, remained a vital source for mythographers and antiquarians for centuries, representing a crucial step in the transition from myth to structured historical inquiry.
 
 ## Text
 

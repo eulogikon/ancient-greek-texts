@@ -5,6 +5,7 @@ author: Prodicus of Ceos
 eul_wid: dpw-ab
 eul_aid: dpw
 canonical: "https://eulogikon.org/works/prodicus-ceos-herakles-crossroads-dpw-ab"
+lang: grc
 period: Classical
 dialect: "Attic (phi, frg)"
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Prodicus of Ceos
 
 **eul_wid:** `dpw-ab` · [HTML page](https://eulogikon.org/works/prodicus-ceos-herakles-crossroads-dpw-ab)
-
-"Heracles at the Crossroads" is a celebrated philosophical allegory by the Sophist Prodicus of Ceos, composed in the late fifth century BCE. Though originally part of a larger, now-lost oration or lecture, the episode achieved independent fame for its vivid dramatization of an ethical dilemma. The narrative presents the young hero Heracles at a critical juncture in his life, where he is approached at a literal and metaphorical crossroads by two personified women: Virtue and Vice. Each delivers a persuasive oration advocating her respective way of life. Virtue describes a steep and arduous path requiring discipline and toil but promising genuine honor and lasting satisfaction. Vice, by contrast, outlines a smooth and pleasant road of immediate gratification that ultimately leads to disgrace and ruin. After hearing both appeals, Heracles elects to follow the path of Virtue.
-
-The original text by Prodicus does not survive independently but is preserved as a fragment within the works of later authors. The most complete version is found in Xenophon's Memorabilia, where Socrates recounts the story as a moral exemplum. The allegory stands as a quintessential Sophistic production, employing sophisticated rhetoric to explore core themes of human agency, the nature of happiness, and the rewards of labor versus the perils of hedonism. It served clear educational and protreptic aims, designed to persuade its audience toward a life of ethical excellence and effort. The powerful and enduring imagery of the two paths established this allegory as a profoundly influential motif in subsequent Western art, literature, and moral philosophy.
 
 ## Text
 

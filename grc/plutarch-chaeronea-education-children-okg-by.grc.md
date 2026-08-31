@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-by
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-education-children-okg-by"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-by` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-education-children-okg-by)
-
-On the Education of Children is an ancient Greek prose treatise traditionally attributed to the philosopher and biographer Plutarch, composed around 100 CE. As a work of ethical advice literature, it provides comprehensive guidance on the moral and intellectual upbringing of children from the elite class. The text is structured as a series of didactic passages that systematically address the entire process of child-rearing. It begins with considerations for selecting a virtuous spouse and mother, emphasizing the importance of good lineage, and proceeds to outline the exemplary role parents must play. The treatise advocates for a rigorous liberal education, detailing effective methods of instruction, the proper use of praise and punishment, and the critical importance of selecting suitable companions and tutors to shield the young from corrupting influences. Its central philosophical argument is that a virtuous life is built upon the triad of natural talent, sound teaching, and disciplined practice, with education serving as the indispensable foundation.
-
-Composed during the early Roman Empire, the work reflects the preoccupations of aristocratic Greek families seeking to maintain their cultural identity and social standing under Roman rule. Modern scholars often interpret it as a protreptic, or exhortation, directed at fathers, reminding them of their paramount duty to cultivate their sons into capable and ethical citizens. Its ethical framework is eclectic, blending Platonic, Aristotelian, and Stoic ideas characteristic of the Middle Platonist period. The full text has been preserved through medieval manuscripts as part of Plutarch's collected ethical works, known as the Moralia. However, its authenticity has been debated by scholars since the Renaissance, with some noting stylistic and doctrinal inconsistencies that suggest it may be the work of a later imitator. Despite these questions, it remains a significant document for understanding ancient pedagogical theory and the social values of the Greco-Roman elite.
 
 ## Text
 

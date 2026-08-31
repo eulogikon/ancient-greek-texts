@@ -5,6 +5,7 @@ author: Greek Lyric Fragments Anonymous
 eul_wid: dgg-aa
 eul_aid: dgg
 canonical: "https://eulogikon.org/works/anon-greek-lyric-fragments-dgg-aa"
+lang: grc
 period: Classical
 dialect: Mixed Dialects (frg)
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Greek Lyric Fragments Anonymous
 
 **eul_wid:** `dgg-aa` · [HTML page](https://eulogikon.org/works/anon-greek-lyric-fragments-dgg-aa)
-
-The Greek Lyric Fragments Anonymous is a modern scholarly compilation of 181 fragmentary passages attributed to unknown poets of the Greek lyric tradition. These fragments, drawn from indirect citations in later authors such as Athenaeus, Plutarch, and Stobaeus, represent the surviving anonymous material distinct from the corpora of major figures like Sappho or Pindar. The collection encompasses personal monody, choral song, and cult hymns from the Archaic and Classical periods. The fragments range from single lines to short stanzas and reflect the thematic diversity of lyric poetry, including mythological narratives of gods and heroes, gnomic wisdom and reflections on life, expressions of erotic desire and personal emotion, poetry for sympotic contexts, and elements related to cult and ritual practice. Their preservation is entirely indirect, reliant on the manuscript traditions of the later prose authors who quoted them, and they are often linguistically corrupt or truncated. The standard modern editions are Poetae Melici Graeci and its successor, Poetarum Melicorum Graecorum Fragmenta. Collectively, the fragments are crucial for reconstructing the scope and variety of the Greek lyric tradition beyond the canonical poets. They provide essential evidence for dialectology, meter, and poetic diction, while offering historians valuable glimpses into social values, daily life, and religious practices in the ancient Greek world.
 
 ## Text
 

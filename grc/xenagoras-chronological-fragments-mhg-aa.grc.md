@@ -5,6 +5,7 @@ author: Xenagoras the Historian
 eul_wid: mhg-aa
 eul_aid: mhg
 canonical: "https://eulogikon.org/works/xenagoras-chronological-fragments-mhg-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: Geography
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Xenagoras the Historian
 
 **eul_wid:** `mhg-aa` · [HTML page](https://eulogikon.org/works/xenagoras-chronological-fragments-mhg-aa)
-
-The Chronological Fragments by Xenagoras is a lost Hellenistic work of chronography and historical geography, surviving only through quotations in later authors. The extant fragments, preserved by scholars such as the scholiast on Apollonius Rhodius, Macrobius, and Harpocration, indicate a work that blended mythological traditions with chronological and geographical data. One fragment records the claim that the Egyptians were the most ancient people and that the city of Thebes was the first to be founded in Egypt, a view Xenagoras shared with other historians. Another discusses the origins of astronomical knowledge, attributing the discovery of the lunar cycles to Endymion or, according to Xenagoras, to Atlas. Further fragments touch upon local cultic practices, such as a Sicilian sacrifice to a hero named Pediocrates for agricultural fertility, and clarify geographical nomenclature, like the location of Kraugallion in Phocis. The work's structure, suggested to have been at least four books, is a modern reconstruction from these disparate citations. The fragments collectively illustrate the Hellenistic scholarly endeavor to systematize and quantify the world, integrating myth, chronology, and geography. Later geographers and compilers cited Xenagoras as an authority, demonstrating the work's perceived utility within the technical traditions of ancient scholarship despite its eventual loss as an independent text.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Proclus the Successor
 eul_wid: uqy-ab
 eul_aid: uqy
 canonical: "https://eulogikon.org/works/proclus-euclid-elements-commentary-uqy-ab"
+lang: grc
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Proclus the Successor
 
 **eul_wid:** `uqy-ab` · [HTML page](https://eulogikon.org/works/proclus-euclid-elements-commentary-uqy-ab)
-
-Proclus's Commentary on the First Book of Euclid's Elements is a philosophical and mathematical treatise composed in the 5th century CE by Proclus Lycaeus, the head of the Platonic Academy in Athens. The work offers a meticulous, line-by-line analysis of the definitions, postulates, and propositions from the first book of Euclid's foundational geometry text. Its structure consists of a general prologue on the nature of mathematics, followed by a detailed commentary on Euclid's specific content. Far from being a mere technical guide, the commentary interprets geometry through a Neoplatonic philosophical framework. Proclus posits that mathematical study functions as a crucial spiritual exercise, training the soul to ascend from the contemplation of physical objects to the understanding of eternal, immaterial truths. He situates mathematical entities as occupying a median ontological status between indivisible, simple realities and the divisible, composite forms found in matter. Modern scholars regard the work as both a defense of mathematics' intrinsic value within philosophy and a vital historical source for Greek mathematics, as Proclus preserves significant insights and fragments from earlier commentators whose own works are now lost. The complete text survives through Byzantine manuscript transmission and was later translated into Latin during the Renaissance, where it exerted a considerable influence on early modern philosophers and scientists.
 
 ## Text
 

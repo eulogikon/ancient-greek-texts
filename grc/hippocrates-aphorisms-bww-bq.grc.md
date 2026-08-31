@@ -5,6 +5,7 @@ author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-bq
 eul_aid: bww
 canonical: "https://eulogikon.org/works/hippocrates-aphorisms-bww-bq"
+lang: grc
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hippocrates and the Hippocratic Corpus
 
 **eul_wid:** `bww-bq` · [HTML page](https://eulogikon.org/works/hippocrates-aphorisms-bww-bq)
-
-The Aphorisms is a seminal medical treatise from the Hippocratic Corpus, the collection of works traditionally attributed to Hippocrates of Cos but composed by multiple authors. Written in Ionic Greek around the late fifth or early fourth century BCE, the text comprises 212 concise, authoritative propositions organized into seven sections. It opens with the celebrated declaration: "Life is short, the Art long, opportunity fleeting, experiment treacherous, judgment difficult." This succinct style characterizes the entire work, which distills extensive clinical observation into practical, memorable rules for medical practice.
-
-The content encompasses a broad spectrum of medical knowledge, systematically addressing the influence of seasons, geography, and patient age on health. It details the symptoms and progression of various diseases, including fevers and consumption, outlines the critical days in an illness, and enumerates signs indicative of recovery or fatal decline. The aphorisms function as a diagnostic and prognostic guide, emphasizing the importance of environmental factors and the balance of bodily humors, thereby reflecting the period's movement toward a medicine based on natural causation and empirical observation rather than supernatural intervention.
-
-As one of the most completely preserved works within the Hippocratic Corpus, the Aphorisms enjoyed exceptional longevity and influence. Translated into Latin, Syriac, and Arabic, it became a central textbook in medical education for over a millennium. Its authority was reinforced by extensive commentaries from later physicians, most notably Galen, and it remained a foundational reference through the Middle Ages and the Renaissance, shaping the theory and practice of Western medicine.
 
 ## Text
 

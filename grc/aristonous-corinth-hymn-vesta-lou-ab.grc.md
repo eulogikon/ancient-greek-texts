@@ -5,6 +5,7 @@ author: Aristonous of Corinth
 eul_wid: lou-ab
 eul_aid: lou
 canonical: "https://eulogikon.org/works/aristonous-corinth-hymn-vesta-lou-ab"
+lang: grc
 period: Hellenistic
 dialect: Literary Doric
 domain: Poetry
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristonous of Corinth
 
 **eul_wid:** `lou-ab` · [HTML page](https://eulogikon.org/works/aristonous-corinth-hymn-vesta-lou-ab)
-
-The Hymn to Vesta by Aristonous of Corinth is a cult hymn preserved on a marble stele discovered at Delphi. This inscription contains the complete poetic text, a dedicatory statement, and, most significantly, the ancient Greek musical notation written above the verses, making it one of the very few surviving examples of notated ancient Greek music. The stele bypasses the medieval manuscript tradition, offering an unaltered text and musical score from antiquity. The inscription indicates it was dedicated to Apollo by Aristonous, likely as a votive offering for performance at the sanctuary, and the artifact is now housed in the Delphi Archaeological Museum.
-
-The hymn is a ritual invocation to Hestia, goddess of the hearth. It opens with praise for the goddess, describing her sacred domain over Olympus and the earth and her presence at Delphi, where she rejoices in the oracular tripods. The text emphasizes her ritual primacy and honors her as the daughter of Cronus and Rhea, the sole attendant of the immortal altars of fire. The poet presents the musical and poetic composition itself as an act of piety, a prayer for the favor that will allow the worshippers to continue dancing around her gleaming altar.
-
-The hymn’s primary importance is musicological. As a complete notated piece, it serves as a crucial primary source for understanding ancient Greek musical scales, rhythm, and the performance practice of cult song, particularly for the singer-lyre player. Its value lies in providing direct evidence for the actual sound of Greek religious music.
 
 ## Text
 

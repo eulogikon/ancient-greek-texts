@@ -5,6 +5,7 @@ author: Eriphus the Comic Poet
 eul_wid: eyc-aa
 eul_aid: eyc
 canonical: "https://eulogikon.org/works/eriphus-golden-apples-eyc-aa"
+lang: grc
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Eriphus the Comic Poet
 
 **eul_wid:** `eyc-aa` · [HTML page](https://eulogikon.org/works/eriphus-golden-apples-eyc-aa)
-
-The Fragments on Golden Apples is a modern descriptive title for a collection of twenty-six passages attributed to the comic poet Eriphus. These excerpts, preserved primarily by the scholar Athenaeus in his work The Deipnosophists, do not constitute a single coherent play. They are instead drawn from one or more of his comedies that featured the term "golden apples," a phrase which in antiquity could denote prized fruits such as quinces or citrons and often symbolized luxury or erotic gifts. The extant fragments focus on themes characteristic of the Middle Comedy period, including discussions of rare and expensive foods, scenes of banqueting and social life, and likely elements of mythological parody. Comedies parodying myths involving golden apples, such as the apples of the Hesperides or the Apple of Discord, were common in this era. The fragments survive solely through quotation by later authors, chiefly Athenaeus, and are collected in modern standard editions. They provide valuable insight into the daily life, social customs, and culinary habits of fourth-century BCE Athens, exemplifying Middle Comedy's shift away from direct political satire toward more generalized themes of domestic and social life, a development that contributed to the evolution of comic theater toward the New Comedy of Menander.
 
 ## Text
 

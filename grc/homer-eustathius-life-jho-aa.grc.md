@@ -5,6 +5,7 @@ author: Homer Life-anonymous
 eul_wid: jho-aa
 eul_aid: jho
 canonical: "https://eulogikon.org/works/homer-eustathius-life-jho-aa"
+lang: grc
 period: Hellenistic
 dialect: Mixed Dialects
 domain: Biography
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Homer Life-anonymous
 
 **eul_wid:** `jho-aa` · [HTML page](https://eulogikon.org/works/homer-eustathius-life-jho-aa)
-
-The Life of Eustathius is a brief, anonymous prose biography or hagiography concerning a figure named Eustathius. Transmitted within the corpus of pseudepigraphical works spuriously attributed to Homer, it survives as a single, short passage. The specific identity of its subject, whether Eustathius of Antioch, Eustathius of Thessalonica, or another, remains undetermined. The text provides a biographical sketch of its subject and exemplifies the practice of pseudepigraphy through its false attribution to the epic poet. Preserved as a minor text within the larger tradition of Homeric spuria, it is cataloged in modern digital libraries of ancient Greek texts, indicating its transmission through medieval manuscript traditions. This short work is primarily significant as an example of the pseudepigraphical practice of attaching famous authorial names to anonymous works to enhance their authority. It illustrates the breadth of material transmitted under the Homeric name and contributes to the study of minor biographical and hagiographical notes in Greek literature.
 
 ## Text
 

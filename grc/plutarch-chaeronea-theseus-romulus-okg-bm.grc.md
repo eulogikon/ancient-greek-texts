@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-bm
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-theseus-romulus-okg-bm"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-bm` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-theseus-romulus-okg-bm)
-
-The Comparison of Theseus and Romulus is a concluding essay by the Greek biographer and philosopher Plutarch, composed in Attic Greek around the early second century CE. It functions as the final chapter to the paired biographies of Theseus, the mythical founder of Athens, and Romulus, the legendary founder of Rome, within Plutarch's larger series, Parallel Lives. Structured as a formal prose synkrisis, or comparison, the text systematically analyzes the two heroes across a series of distinct points. It examines their origins, motivations, political achievements, personal virtues and vices, and the often ambiguous nature of their rule, drawing explicit parallels between Greek and Roman foundational myths. Fully preserved within the manuscript tradition of the Lives, the essay was composed for an educated Greco-Roman audience during the early Roman Empire. Its purpose is fundamentally moral and philosophical, using historical and legendary example to illustrate ethical principles. Modern scholarship interprets the comparison as a sophisticated exploration of shared cultural values between Greece and Rome during the period of the Pax Romana, assuming the reader's prior familiarity with the detailed narratives of the preceding individual biographies.
 
 ## Text
 

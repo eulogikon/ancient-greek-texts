@@ -5,6 +5,7 @@ author: Menander of Athens
 eul_wid: hps-bn
 eul_aid: hps
 canonical: "https://eulogikon.org/works/menander-athens-georgus-hps-bn"
+lang: grc
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Menander of Athens
 
 **eul_wid:** `hps-bn` · [HTML page](https://eulogikon.org/works/menander-athens-georgus-hps-bn)
-
-Georgus (The Farmer) is a verse comedy by the Athenian playwright Menander, composed in the late 4th or early 3rd century BCE. A representative work of New Comedy, it shifts focus from the political satire of earlier Athenian comedy to domestic and romantic entanglements. The play survives only in fragments, its partial text recovered primarily from a 20th-century papyrus discovery. The plot revolves around a virtuous and impoverished farmer, likely named Gorgias, who acts as protector to a young woman in his household. Their rustic life is disrupted when a wealthy young man from the city falls in love with the girl, setting up a conflict between urban and rural values. Following a conventional New Comedy structure, the narrative progresses toward the revelation of the young woman's true identity as a citizen of free birth, which in turn enables a legitimizing marriage that resolves the social tensions. The surviving portions, amounting to roughly 132 fragments, derive mainly from a single papyrus codex copied long after Menander's death. These fragments allow for a tentative reconstruction of the storyline, though significant gaps in the narrative remain. The portrayal of the farmer is often interpreted by modern scholars as reflecting contemporary philosophical interest in innate virtue and the moral integrity associated with a simple life. As with much of Menander's work, Georgus played a role in shaping the comic traditions that would profoundly influence later Roman dramatists such as Plautus and Terence.
 
 ## Text
 

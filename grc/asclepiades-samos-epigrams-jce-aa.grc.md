@@ -5,6 +5,7 @@ author: Asclepiades of Samos
 eul_wid: jce-aa
 eul_aid: jce
 canonical: "https://eulogikon.org/works/asclepiades-samos-epigrams-jce-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: Poetry
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Asclepiades of Samos
 
 **eul_wid:** `jce-aa` · [HTML page](https://eulogikon.org/works/asclepiades-samos-epigrams-jce-aa)
-
-The Epigrams of Asclepiades of Samos constitute a seminal collection of short lyric poems from the early Hellenistic period, dating to approximately the first quarter of the third century BCE. Composed primarily in elegiac couplets, these works represent a pivotal evolution in the epigrammatic form, elevating it from its traditional role as a simple inscription into a refined literary vehicle for personal and emotional expression. The poems are characterized by their polished concision, clever wit, and vivid, often domestic, imagery. Their dominant themes explore the vicissitudes of erotic desire, the convivial pleasures of wine and friendship within the symposium setting, and a poignant awareness of youth and beauty as transient commodities.
-
-No independent manuscript of Asclepiades’s original poetic collection survives. His work is preserved exclusively through its inclusion in later anthologies, most notably the Greek Anthology. Approximately forty epigrams are securely attributed to him within these major compilations, with a handful of additional fragments known from quotations by later authors. A larger figure sometimes cited, encompassing over two hundred passages, reflects the total number of poems ever attributed to Asclepiades across all ancient sources; the precise size and contents of his own authored volume remain unknown.
-
-Asclepiades is regarded by modern scholarship as a foundational architect of the literary erotic epigram. Believed to have been active in both Samos and the intellectual milieu of Alexandria, he moved in circles associated with poets such as Posidippus and Callimachus. His epigrams were crafted for a sophisticated, literate audience, and their emphasis on subjective emotion, psychological insight, and technical artistry established core conventions that would profoundly influence subsequent generations of Greek epigrammatists and, later, Roman poets including Catullus and the authors of the Augustan love elegy.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Aristotle
 eul_wid: hgw-ap
 eul_aid: hgw
 canonical: "https://eulogikon.org/works/aristotle-sense-sensibles-hgw-ap"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristotle
 
 **eul_wid:** `hgw-ap` · [HTML page](https://eulogikon.org/works/aristotle-sense-sensibles-hgw-ap)
-
-On Sense and Sensibles is a philosophical treatise by Aristotle, forming the introductory work to his series of shorter studies on life known as the Parva Naturalia. Composed in the mid-4th century BCE, it provides a systematic investigation of the five senses—sight, hearing, smell, taste, and touch—and their respective objects, such as color, sound, and flavor. The treatise explicitly builds upon the psychological framework established in Aristotle's On the Soul, examining the physical media and bodily organs necessary for perception. It advances detailed theories, particularly concerning color and vision, and makes a foundational distinction between objects proper to a single sense and "common sensibles," like motion and number, which are perceivable by more than one sense.
-
-Structured in 27 chapters, the work methodically analyzes the mechanisms and conditions of sensory experience, integrating Aristotle's core principles of form and matter into a naturalistic account of living beings. Intended for use within his school, the Lyceum, the treatise represents a critical application of his philosophical system to empirical phenomena. Its rigorous analysis of perception proved highly influential, shaping philosophical and scientific discourse on the senses from antiquity through the Middle Ages and into the early modern period, establishing it as a foundational text in the history of psychology and epistemology.
 
 ## Text
 

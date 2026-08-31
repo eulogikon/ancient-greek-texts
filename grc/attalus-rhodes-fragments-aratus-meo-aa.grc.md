@@ -5,6 +5,7 @@ author: Attalus of Rhodes
 eul_wid: meo-aa
 eul_aid: meo
 canonical: "https://eulogikon.org/works/attalus-rhodes-fragments-aratus-meo-aa"
+lang: grc
 period: Hellenistic
 dialect: Technical Koine
 domain: Science
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Attalus of Rhodes
 
 **eul_wid:** `meo-aa` · [HTML page](https://eulogikon.org/works/attalus-rhodes-fragments-aratus-meo-aa)
-
-The Fragments of Aratus is a lost treatise by the Stoic philosopher and astronomer Attalus of Rhodes, composed in Koine Greek during the latter half of the second century BCE. It functioned as a critical commentary on the widely read astronomical poem Phaenomena by Aratus of Soli. Attalus’s work, which does not survive as a continuous text, was structured as a series of explanatory and corrective notes addressing approximately thirty specific passages in Aratus’s poem. Its primary aim was to reconcile the poetic descriptions of celestial phenomena with the precise observational data of Hellenistic astronomy, a task Attalus claimed to have accomplished for nearly every statement in the original work save for one or two exceptions. The treatise represents a significant example of the Hellenistic scholarly tradition in which technical experts produced guides to elucidate influential but sometimes imprecise poetic works for an educated audience interested in the confluence of literature, natural philosophy, and empirical science. The content of Attalus’s commentary is known almost entirely through its preservation in later astronomical texts, most notably in the extensive Commentary on the Phaenomena of Aratus and Eudoxus by Hipparchus of Nicaea, who frequently quoted and rigorously debated Attalus’s interpretations.
 
 ## Text
 

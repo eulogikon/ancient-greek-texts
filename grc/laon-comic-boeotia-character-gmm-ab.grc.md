@@ -5,6 +5,7 @@ author: Laon the Comic Poet
 eul_wid: gmm-ab
 eul_aid: gmm
 canonical: "https://eulogikon.org/works/laon-comic-boeotia-character-gmm-ab"
+lang: grc
 period: Classical
 dialect: Koine
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Laon the Comic Poet
 
 **eul_wid:** `gmm-ab` · [HTML page](https://eulogikon.org/works/laon-comic-boeotia-character-gmm-ab)
-
-On Boeotia and Character, attributed to the comic poet Laon, is a lost work known only by its title and the designation that it was a collection of excerpts, as indicated by the Greek term for its genre meaning "Extracts." The work consisted of five poetic passages and, as a comedy, presumably treated its subjects with humor or satire. Its dual title suggests it engaged with the region of Boeotia in central Greece and with questions of character, likely satirizing the Boeotian regional stereotypes that were a common trope in Attic comedy. No fragments or manuscript tradition of the work survives, and its existence is attested merely by its listing in ancient sources. It stands as a minor attestation of comic poetry focused on regional characterization, reinforcing the documented popularity of Boeotian themes as a subject for humor in the Greek literary tradition, though its specific content and any influence it may have had are entirely lost.
 
 ## Text
 

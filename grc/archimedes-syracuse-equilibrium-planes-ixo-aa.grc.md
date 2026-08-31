@@ -5,6 +5,7 @@ author: Archimedes of Syracuse
 eul_wid: ixo-aa
 eul_aid: ixo
 canonical: "https://eulogikon.org/works/archimedes-syracuse-equilibrium-planes-ixo-aa"
+lang: grc
 period: Hellenistic
 dialect: Doric
 domain: Mathematics
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Archimedes of Syracuse
 
 **eul_wid:** `ixo-aa` · [HTML page](https://eulogikon.org/works/archimedes-syracuse-equilibrium-planes-ixo-aa)
-
-On the Equilibrium of Planes is a foundational mathematical treatise written by the Greek scientist Archimedes of Syracuse around 250 BCE. Composed in Attic Greek, the work established the core principles of statics, the study of balance and equilibrium. It is structured in two books containing a total of 45 propositions. Book I begins with a set of postulates concerning equal and unequal weights on a lever and proceeds to prove the law of the lever—that weights balance at distances inversely proportional to their magnitudes—using a rigorous geometric style reminiscent of Euclid. Book II applies these mechanical principles to solve a complex geometric problem: finding the center of gravity of a parabolic segment. The treatise is a purely theoretical work, intended for a scholarly audience versed in advanced geometry. Modern scholars regard it as a key example of Archimedes’ method of using mechanical concepts, such as balance and centers of gravity, to discover and then rigorously prove geometric results. The complete text has survived through the medieval manuscript tradition. Its most important witness is the Archimedes Palimpsest, a 10th-century Byzantine manuscript recovered in the modern era, which has been instrumental in confirming and correcting the transmitted Greek text.
 
 ## Text
 

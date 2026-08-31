@@ -5,6 +5,7 @@ author: Aratus of Soli
 eul_wid: hte-ad
 eul_aid: hte
 canonical: "https://eulogikon.org/works/aratus-soli-solar-transits-hte-ad"
+lang: grc
 period: Hellenistic
 dialect: Epic (Homeric)
 domain: Science
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aratus of Soli
 
 **eul_wid:** `hte-ad` · [HTML page](https://eulogikon.org/works/aratus-soli-solar-transits-hte-ad)
-
-On Solar Zodiacal Transits is a short astronomical treatise by the Hellenistic poet Aratus of Soli, composed around 275 BCE. Distinct from his famous longer work, the Phaenomena, this text focuses specifically on the sun’s annual journey through the constellations of the zodiac. It provides a method for calculating the sun’s entry into each zodiacal sign, beginning from a specific date, and for determining which constellations rise and set during the daylight and nighttime hours on any given day. The work presents this technical, calendrical information in a straightforward, instructional prose style. It was written during a period of significant advancement in mathematical astronomy and is thought to have been composed for a literate audience interested in practical celestial knowledge. Modern scholars view it as part of Aratus’s broader project to communicate astronomical data, serving as a focused summary on a specific celestial phenomenon. While its direct influence is overshadowed by the immensely popular Phaenomena, On Solar Zodiacal Transits remains a genuine example of Hellenistic scientific writing.
 
 ## Text
 

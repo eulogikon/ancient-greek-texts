@@ -5,6 +5,7 @@ author: Dionysius of Halicarnassus
 eul_wid: ndy-al
 eul_aid: ndy
 canonical: "https://eulogikon.org/works/dionysius-halicarnassus-roman-antiquities-ndy-al"
+lang: grc
 period: Hellenistic
 dialect: Attic
 domain: History
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Dionysius of Halicarnassus
 
 **eul_wid:** `ndy-al` · [HTML page](https://eulogikon.org/works/dionysius-halicarnassus-roman-antiquities-ndy-al)
-
-The Roman Antiquities is a twenty-book history of Rome composed in Attic Greek by Dionysius of Halicarnassus, a Greek rhetorician and historian who resided in Rome during the Augustan era. Written between approximately 30 and 8 BCE, the work presents a comprehensive narrative from the city's mythical origins, tracing its foundation to Greek colonists, through to the eve of the First Punic War in 264 BCE. Its structure combines an annalistic year-by-year chronicle with extended rhetorical set-pieces, including elaborate speeches and extensive digressions on Roman customs, laws, and political institutions.
-
-The complete text has not survived antiquity. The first eleven books, which cover the period from the arrival of Aeneas in Italy to the year 441 BCE, remain largely intact. Books twelve through twenty are lost, with their content known only through fragments and excerpts preserved in later Byzantine epitomes and historical collections. Modern scholarship interprets the Roman Antiquities not merely as a record of events but as a sophisticated work of historical persuasion, crafted primarily for a Greek-speaking audience. Dionysius advances a central argument that the Romans were originally Greek in origin, and he attributes their political and military success to inherent national virtues and the excellence of their mixed constitution. His overarching aim was to foster reconciliation between Greeks and Romans by demonstrating the legitimacy, stability, and beneficent nature of Roman rule, thereby justifying its acceptance by the conquered Hellenistic world.
-
-The transmission of the text relied on medieval manuscripts, the oldest of which for the first ten books dates to the tenth century. The fragments of the later books were recovered from Byzantine compilations. The editio princeps, or first printed edition, was published in 1546.
 
 ## Text
 

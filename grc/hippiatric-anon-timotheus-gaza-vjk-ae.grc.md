@@ -5,6 +5,7 @@ author: Hippiatric Compilation Anonymous
 eul_wid: vjk-ae
 eul_aid: vjk
 canonical: "https://eulogikon.org/works/hippiatric-anon-timotheus-gaza-vjk-ae"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hippiatric Compilation Anonymous
 
 **eul_wid:** `vjk-ae` · [HTML page](https://eulogikon.org/works/hippiatric-anon-timotheus-gaza-vjk-ae)
-
-The Fragments of Timotheus of Gaza consist of twelve excerpts preserved from a larger, now-lost zoological treatise composed in Greek around 500 CE. Their author, Timotheus of Gaza, was a Christian grammarian and advocate who wrote a comprehensive work On Animals for the Byzantine Emperor Anastasius I. The surviving passages focus exclusively on equine medicine, offering technical diagnoses and therapeutic prescriptions rooted in the Greco-Roman medical tradition. These fragments were not transmitted independently but were selectively copied for their practical utility into later Byzantine compilations on horse care, known collectively as the Corpus hippiatricorum Graecorum. The original, more expansive treatise is believed to have synthesized classical natural history, such as the works of Aristotle, with contemporary observations of exotic fauna available in the imperial capital. The preservation of these specific passages underscores the enduring practical importance of veterinary knowledge in the Byzantine world, particularly for maintaining the health of military and ceremonial horses. While Timotheus's complete zoological work was referenced by later encyclopedists, these fragments constitute its only direct remains.
 
 ## Text
 

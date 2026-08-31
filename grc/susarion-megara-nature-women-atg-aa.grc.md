@@ -5,6 +5,7 @@ author: Susarion of Megara
 eul_wid: atg-aa
 eul_aid: atg
 canonical: "https://eulogikon.org/works/susarion-megara-nature-women-atg-aa"
+lang: grc
 period: Archaic
 dialect: Doric (frg)
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Susarion of Megara
 
 **eul_wid:** `atg-aa` · [HTML page](https://eulogikon.org/works/susarion-megara-nature-women-atg-aa)
-
-On the Nature of Women is a fragment of Greek comic verse attributed to Susarion of Megara, a semi-legendary figure traditionally considered the founder of comic performances in Attica. Composed in iambic trimeter, the single surviving passage presents a piece of humorous invective lamenting the troubles caused by women, famously declaring that a woman is a pleasure only on her wedding day and the day of her funeral. The fragment is framed as a paradoxical justification for marriage, employing a common misogynistic trope found in early Greek literature. Preserved solely through quotation by the 5th-century CE anthologist John Stobaeus, the work's date of composition is highly uncertain. Although traditionally ascribed to around 580 BCE, modern scholarship widely questions both the authenticity of the fragment and the historical existence of Susarion. It is generally considered a later reconstruction, possibly from the 4th century BCE, invented to provide Athenian comedy with a foundational origin story in the 6th century. The text's primary historical significance lies in this etiological role, as ancient sources used it to establish a legendary beginning for comic theater, thereby linking the genre to earlier traditions of iambic poetry.
 
 ## Text
 

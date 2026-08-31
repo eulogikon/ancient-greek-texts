@@ -5,6 +5,7 @@ author: Euclid of Alexandria
 eul_wid: iaw-ae
 eul_aid: iaw
 canonical: "https://eulogikon.org/works/euclid-alexandria-phenomena-b-iaw-ae"
+lang: grc
 period: Hellenistic
 dialect: Technical Koine
 domain: Mathematics
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Euclid of Alexandria
 
 **eul_wid:** `iaw-ae` · [HTML page](https://eulogikon.org/works/euclid-alexandria-phenomena-b-iaw-ae)
-
-The Phenomena is a treatise on mathematical astronomy traditionally attributed to the Greek mathematician Euclid of Alexandria. It applies the principles of spherical geometry to explain the apparent motions of the fixed stars as observed from Earth, systematically addressing phenomena such as the rising and setting times of constellations and the variation in the length of daylight. The work is structured as a series of formal geometric propositions, mirroring the axiomatic method of Euclid's Elements, though it confines its analysis to the celestial sphere and does not treat planetary motion.
-
-The textual history of the Phenomena is complex, with the version known as Recension B representing a later revised form of the original Euclidean work. This recension is believed to have been edited, possibly by later scholars such as Theon of Alexandria, and may reflect alterations to the original structure and content. Surviving as an educational text, it provided students with a foundational application of geometry to astronomy, illustrating how spherical models could describe observable celestial patterns. The work stands as an early and influential synthesis of geometry and observational astronomy, paving the way for subsequent advances by figures like Hipparchus and Ptolemy.
 
 ## Text
 

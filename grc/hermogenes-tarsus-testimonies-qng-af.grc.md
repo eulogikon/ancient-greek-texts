@@ -5,6 +5,7 @@ author: Hermogenes of Tarsus
 eul_wid: qng-af
 eul_aid: qng
 canonical: "https://eulogikon.org/works/hermogenes-tarsus-testimonies-qng-af"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hermogenes of Tarsus
 
 **eul_wid:** `qng-af` · [HTML page](https://eulogikon.org/works/hermogenes-tarsus-testimonies-qng-af)
-
-The Testimonies is a concise rhetorical handbook composed in Greek by Hermogenes of Tarsus around 180 CE. It functions as one of the preliminary exercises, or progymnasmata, intended to instruct students in the foundational techniques of oratory. This specific exercise trains students in the composition of a "testimony" or "confirmation," a form of persuasive proof designed to support a given narrative or argument. The method employs techniques such as appeals to logical probability, historical parallels, and mythical exempla. Created as a textbook for the advanced Greek educational curriculum of the Roman Empire, the work belongs to the cultural milieu of the Second Sophistic, a period that emphasized the revival of classical Attic style. It was likely intended for students preparing for careers in law, politics, and public declamation. The Testimonies survives as a component of a larger collection of Hermogenes' Progymnasmata. While the authenticity of certain works attributed to him remains contested, this collection is widely accepted as genuine. Transmitted through medieval manuscripts, it became a standard school text in the Byzantine Empire and subsequently exerted a significant influence on Renaissance rhetorical education, shaping the pedagogy of classical rhetoric for centuries.
 
 ## Text
 

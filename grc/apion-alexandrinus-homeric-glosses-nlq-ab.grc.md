@@ -5,6 +5,7 @@ author: Apion Alexandrinus
 eul_wid: nlq-ab
 eul_aid: nlq
 canonical: "https://eulogikon.org/works/apion-alexandrinus-homeric-glosses-nlq-ab"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Apion Alexandrinus
 
 **eul_wid:** `nlq-ab` · [HTML page](https://eulogikon.org/works/apion-alexandrinus-homeric-glosses-nlq-ab)
-
-The Fragments-Homeric Glosses is a philological glossary attributed to the first-century CE grammarian Apion of Alexandria. It survives only in fragments, comprising 158 identified passages that explain difficult vocabulary in the Homeric epics through meaning, etymology, and usage. Operating within the Alexandrian scholarly tradition of textual criticism and Homeric exegesis, the work systematically addresses obscure Homeric words, analyzes variant readings to establish the text, and provides commentary that continues the established philological method. The treatise is preserved indirectly through quotations in later works, primarily the Homeric Lexicon of Apollonius Sophista, with additional fragments found in later grammatical texts and Homeric scholia, having been absorbed into the subsequent scholarly tradition. Apion’s glosses contributed directly to the tradition of Homeric lexicography, being cited by later grammarians like Herodian and influencing Byzantine and Renaissance scholarship. The fragments provide key insight into the methods of Homeric study during the early Roman Empire.
 
 ## Text
 

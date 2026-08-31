@@ -5,6 +5,7 @@ author: Iamblichus the Novelist
 eul_wid: qqs-aa
 eul_aid: qqs
 canonical: "https://eulogikon.org/works/iamblichus-babyloniaca-qqs-aa"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Fiction
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Iamblichus the Novelist
 
 **eul_wid:** `qqs-aa` · [HTML page](https://eulogikon.org/works/iamblichus-babyloniaca-qqs-aa)
-
-The Babyloniaca, also known as the Babylonian Story, is an ancient Greek prose romance composed by the Syrian author Iamblichus during the 2nd century CE, under the reign of the Roman emperor Marcus Aurelius. The complete text of the novel is lost, but its intricate plot is preserved through a detailed summary by the 9th-century Byzantine scholar Photius. Photius records that the original work was of exceptional length, comprising 39 books. The narrative centers on the adventurous love story of Rhodanes and Sinonis, who flee across the Middle East to escape the Babylonian king Garmus, who desires Sinonis. Their journey involves encounters with bandits, periods of enslavement, cases of mistaken identity, and miraculous escapes, culminating in the defeat of the tyrant and the lovers' ascent to power.
-
-Composed during the cultural movement known as the Second Sophistic, a period of revived Greek literary culture within the Roman Empire, the Babyloniaca represents a significant development within the genre of the ancient novel. Modern scholarship interprets Iamblichus's work as a notable example of the incorporation of Eastern settings and mystical elements into the Greek romance tradition, a feature often attributed to the author's own Syrian heritage. The survival of the story depends almost entirely on Photius's summary in his Bibliotheca; only a handful of possible papyrus fragments of the original Greek text are extant. This mode of transmission renders the Babyloniaca a crucial source for understanding the diversity and cross-cultural character of ancient novelistic fiction.
 
 ## Text
 

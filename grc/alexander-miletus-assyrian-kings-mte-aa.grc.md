@@ -1,10 +1,11 @@
 ---
 title: Fragments on Assyrian Kings
 title_greek: Ἀποσπάσματα περὶ τῶν Ἀσσυρίων Βασιλέων
-author: "Alexander of Miletus "
+author: Alexander of Miletus
 eul_wid: mte-aa
 eul_aid: mte
 canonical: "https://eulogikon.org/works/alexander-miletus-assyrian-kings-mte-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine (frg)
 domain: Grammar
@@ -16,15 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀποσπάσματα περὶ τῶν Ἀσσυρίων Βασιλέων*
 
-**Author:** Alexander of Miletus 
+**Author:** Alexander of Miletus
 
 **eul_wid:** `mte-aa` · [HTML page](https://eulogikon.org/works/alexander-miletus-assyrian-kings-mte-aa)
-
-The Fragments on Assyrian Kings is a lost historical compilation attributed to Alexander of Miletus, a Greek scholar of the first century BCE also known as Alexander Polyhistor. Written in Koine Greek, the original treatise formed part of his larger encyclopedic project to synthesize Near Eastern and Greek historical traditions for a Hellenistic audience. The work compiled chronologies, king lists, and legendary narratives concerning Assyrian rulers, drawing from earlier sources including the Babylonian historian Berossus.
-
-The complete text has not survived. Modern knowledge of the work derives from fragments preserved by later authors, most notably the ninth-century Byzantine scholar Photius. These excerpts indicate the original was structured as a chronological survey, blending mythical figures such as Ninus and Semiramis with later historical kings. It traced the Assyrian monarchy from its legendary founders through a line of successors until the reign of Sardanapalus, noting the legendary transition of power to a gardener named Belitaras. Scholars regard the compilation as a significant example of Hellenistic cultural translation, representing a systematic attempt to organize and present Mesopotamian history within a framework accessible to the Greek-speaking world.
-
-The work’s transmission is entirely indirect. After Alexander’s death, his compilation served as a sourcebook for important subsequent historians, including Josephus and the Christian chronographer Eusebius of Caesarea. Through these later works, his Assyrian chronology exerted a lasting influence on Byzantine and early Christian conceptions of world history. Today, the fragments are valued primarily for preserving echoes of otherwise lost historical sources, offering a filtered but crucial insight into how the Greek intellectual world perceived and interpreted the ancient Mesopotamian past.
 
 ## Text
 

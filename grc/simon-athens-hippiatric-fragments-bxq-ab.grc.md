@@ -5,6 +5,7 @@ author: Simon of Athens
 eul_wid: bxq-ab
 eul_aid: bxq
 canonical: "https://eulogikon.org/works/simon-athens-hippiatric-fragments-bxq-ab"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Simon of Athens
 
 **eul_wid:** `bxq-ab` · [HTML page](https://eulogikon.org/works/simon-athens-hippiatric-fragments-bxq-ab)
-
-The Fragments on Hippiatric Medicine is a lost veterinary treatise attributed to Simon of Athens. Known solely through nine brief passages preserved within later Byzantine compilations on horse medicine, the work represents a technical and empirical guide to the practical diagnosis and treatment of equine ailments. The extant fragments offer specific veterinary guidance, including a method for examining a horse's mouth by having it bite on wood to detect pain or loose teeth, and recipes for medicinal preparations such as a warm poultice made from linseed and barley meal. The original treatise is lost, and its content survives only as excerpts embedded in encyclopedic Byzantine manuscripts, where they were copied alongside material from other hippiatric authors. The preservation of Simon's fragments within this later tradition indicates his work was considered a useful and authoritative source, contributing to the continuity of specialized technical knowledge on equine medicine from antiquity into the Byzantine period.
 
 ## Text
 

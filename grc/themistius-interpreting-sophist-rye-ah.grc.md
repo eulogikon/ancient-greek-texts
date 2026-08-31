@@ -5,6 +5,7 @@ author: Themistius the Philosopher
 eul_wid: rye-ah
 eul_aid: rye
 canonical: "https://eulogikon.org/works/themistius-interpreting-sophist-rye-ah"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Themistius the Philosopher
 
 **eul_wid:** `rye-ah` · [HTML page](https://eulogikon.org/works/themistius-interpreting-sophist-rye-ah)
-
-The oration To Those Not Correctly Interpreting the Sophist by the fourth-century philosopher Themistius is a detailed polemical defense of a specific interpretation of Plato's dialogue of the same name. Structured in eighteen passages, the work systematically critiques rival commentators on the Sophist, focusing on its investigation into the nature of the sophist, the statesman, and the philosopher, and its central methodological tool of definition by division. Themistius argues for a correct exegesis of the dialogue, engaging deeply with the Platonic method of division to analyze the definition and ontological status of the sophist while refuting competing scholarly readings. The oration survives intact within the corpus of Themistius's rhetorical works and is preserved in modern critical editions. As a witness to fourth-century Platonic scholarship, it exemplifies the vigorous intra-school debates of late antiquity, reflecting Themistius's dual role as a public orator and a technical philosopher and contributing significantly to our understanding of the reception and interpretation of Plato's dialogues in the post-Plotinian era.
 
 ## Text
 

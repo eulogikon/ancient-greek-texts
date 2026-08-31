@@ -5,6 +5,7 @@ author: Astronomical Work Anonymous I
 eul_wid: oxi-aa
 eul_aid: oxi
 canonical: "https://eulogikon.org/works/anon-astronomical-i-orestes-stasimon-oxi-aa"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Astronomical Work Anonymous I
 
 **eul_wid:** `oxi-aa` · [HTML page](https://eulogikon.org/works/anon-astronomical-i-orestes-stasimon-oxi-aa)
-
-The anonymous astronomical treatise From Orestes' Stasimon I interprets celestial imagery from the first choral ode of Euripides' Orestes. It exemplifies a common Byzantine scholarly practice of producing commentaries that explicate scientific references within classical poetry. The single surviving passage functions as an explanatory note on the ode's description of cosmic disorder, offering an exegesis of the poetic motif of stars straying from their paths. The work explains such mythological or poetic celestial references using contemporary astronomical knowledge, demonstrating the use of dramatic text as a vehicle for scientific instruction. The treatise is listed in the Catalogus Codicum Astrologorum Graecorum. Its precise content and length are unspecified, but such minor treatises typically survive in Byzantine manuscripts containing astronomical collections or marginal scholia on Euripides. While its direct influence is unrecorded, this work represents the broader Byzantine tradition of preserving and transmitting ancient Greek astronomical knowledge through the framework of literary commentary, a key mechanism for mediating classical learning.
 
 ## Text
 

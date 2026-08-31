@@ -5,6 +5,7 @@ author: Ameipsias the Comic Poet
 eul_wid: dwa-ab
 eul_aid: dwa
 canonical: "https://eulogikon.org/works/ameipsias-comic-fragments-dwa-ab"
+lang: grc
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Ameipsias the Comic Poet
 
 **eul_wid:** `dwa-ab` · [HTML page](https://eulogikon.org/works/ameipsias-comic-fragments-dwa-ab)
-
-The Comic Fragments on Socrates constitute a modern scholarly assemblage of surviving verses from the comedies of Ameipsias, a contemporary and rival of Aristophanes in late fifth-century BCE Athens. These thirty-seven fragments, composed in Attic Greek verse, derive chiefly from his play Konnos, which was staged at the City Dionysia in 423 BCE. The lines preserve jokes and caricatures of the philosopher Socrates, lampooning his notorious poverty, austere lifestyle, and the intellectual company he kept. The complete texts of Ameipsias's plays are lost; these passages survive only because they were quoted by later authors such as Athenaeus and Diogenes Laertius, who referenced them for their anecdotal or linguistic value.
-
-These comic fragments offer vital historical evidence that Aristophanes' celebrated portrayal of Socrates in The Clouds was not an isolated phenomenon but part of a wider pattern of philosophical satire within Athenian Old Comedy. Modern scholarship utilizes these remnants to gauge the popular perception of Socrates in his own lifetime, a perception that may have informed the public sentiment culminating in his eventual trial and execution. As such, they serve as a crucial source for reconstructing the "comic Socrates" stereotype and for illuminating the competitive landscape of Athenian comic theater beyond the works of its most famous practitioner.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Menander of Athens
 eul_wid: hps-ag
 eul_aid: hps
 canonical: "https://eulogikon.org/works/menander-athens-georgus-fragments-hps-ag"
+lang: grc
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Menander of Athens
 
 **eul_wid:** `hps-ag` · [HTML page](https://eulogikon.org/works/menander-athens-georgus-fragments-hps-ag)
-
-Georgos (The Farmer) is a comedy by the Athenian playwright Menander, believed to have been written around 316 BCE. As a work of New Comedy, it represents a shift from the political satire of earlier Athenian comedy toward narratives focused on domestic and romantic intrigues within private households. The plot likely centered on generational conflict between a traditional, rustic father and his son, with themes of love, marriage, and a probable discovery of a character's true identity providing the resolution typical of the genre. The extant fragments feature dialogue that critiques social attitudes toward poverty and justice, with one character advising another to endure wrongs with self-control rather than bitter anger, while another scene hints at a silent lover missing his chance at marriage.
-
-The complete text of the play is lost. It is known today only through approximately twenty-four disconnected fragments of dialogue and monologue. These passages survive via quotations in the works of later ancient authors and fragments of papyrus discovered in Egypt. While they offer valuable glimpses into Menander's characterizations and witty, sententious style, they are insufficient for a full reconstruction of the presumed five-act plot. Modern scholarship often interprets the titular farmer as an embodiment of traditional rustic values, with the humor and dramatic tension arising from his conflicts with more modern or urban perspectives.
-
-Despite its fragmentary state, Georgos, like Menander's other comedies, exercised considerable influence. The play's realistic character types and complex, plot-driven scenarios were extensively adapted by Roman comic playwrights, notably Plautus and Terence. Through these Latin adaptations, the conventions of Menandrean New Comedy fundamentally shaped the subsequent development of Western comic drama.
 
 ## Text
 

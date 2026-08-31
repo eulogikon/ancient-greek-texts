@@ -5,6 +5,7 @@ author: Theophrastus of Eresus
 eul_wid: ljk-am
 eul_aid: ljk
 canonical: "https://eulogikon.org/works/theophrastus-eresus-characters-ljk-am"
+lang: grc
 period: Hellenistic
 dialect: Attic Philosophical
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Theophrastus of Eresus
 
 **eul_wid:** `ljk-am` · [HTML page](https://eulogikon.org/works/theophrastus-eresus-characters-ljk-am)
-
-The Characters is a treatise by Theophrastus of Eresus, the successor to Aristotle, composed in Attic Greek around 319 BCE in early Hellenistic Athens. It presents thirty concise and satirical sketches of undesirable personality types, such as the Flatterer, the Talker, and the Penny-Pincher. Each character study begins with a brief definition followed by a series of typical, often humorous, behaviors drawn from the public and private social life of contemporary Athens. The complete text survives through medieval manuscript transmission, though significant textual variations exist across more than fifty known copies, and the authenticity of its introductory prologue is frequently debated by scholars. The core set of character portraits, however, is widely accepted as genuine.
-
-The work is a product of the Peripatetic school's methodological interest in ethics and the empirical observation of human nature. It functions as a protreptic, or instructive guide, employing vivid negative examples to steer educated readers toward social virtue and self-improvement. Its sketches focus on petty vices and breaches of decorum, providing a valuable window into the everyday social norms and expectations of its time. The Characters established the literary genre of the character book and exerted a profound influence on later European literature, particularly during its 17th-century revival in the Renaissance.
 
 ## Text
 

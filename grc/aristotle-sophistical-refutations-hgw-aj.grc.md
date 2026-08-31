@@ -5,6 +5,7 @@ author: Aristotle
 eul_wid: hgw-aj
 eul_aid: hgw
 canonical: "https://eulogikon.org/works/aristotle-sophistical-refutations-hgw-aj"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristotle
 
 **eul_wid:** `hgw-aj` · [HTML page](https://eulogikon.org/works/aristotle-sophistical-refutations-hgw-aj)
-
-On Sophistical Refutations is a treatise by Aristotle, forming the concluding section of his logical works known as the Organon. Composed in Attic Greek during his later period leading the Lyceum in Athens around the mid-4th century BCE, the work provides a systematic analysis of deceptive arguments, which Aristotle defines as sophistical refutations—apparent refutations that are in fact fallacious. The treatise is structured to first classify and examine thirteen distinct types of logical fallacies, including equivocation, amphiboly, and begging the question. It subsequently offers methods for resolving these deceptive arguments and discusses the pedagogical importance of such study for students engaged in dialectical debate. Surviving intact through medieval manuscript traditions, the text functions as a practical manual for distinguishing sound reasoning from the specious techniques employed by the professional rhetoricians known as sophists. Aristotle’s meticulous taxonomy of fallacies established a foundational framework for the study of logic, rhetoric, and critical thinking, influencing philosophical and educational traditions from antiquity to the modern era.
 
 ## Text
 

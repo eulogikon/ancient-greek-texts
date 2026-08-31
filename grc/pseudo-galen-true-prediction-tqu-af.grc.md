@@ -5,6 +5,7 @@ author: Pseudo-Galen
 eul_wid: tqu-af
 eul_aid: tqu
 canonical: "https://eulogikon.org/works/pseudo-galen-true-prediction-tqu-af"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Pseudo-Galen
 
 **eul_wid:** `tqu-af` · [HTML page](https://eulogikon.org/works/pseudo-galen-true-prediction-tqu-af)
-
-The Entirely True and Experienced Prediction is an anonymous Greek medical treatise known only by its title, which is preserved in the tenth-century Byzantine encyclopedia known as the Suda. Listed there among works attributed to the physician Magnos of Philadelphia, the text itself is no longer extant. As a prognostic handbook, its content would have fallen within a well-established genre of Greek medical literature dedicated to forecasting the course and outcome of disease. Such works typically provided physicians with empirical guidelines based on the systematic observation of clinical signs, including the patient's pulse, fever patterns, sweats, and general demeanor. The treatise's reported structure of seven chapters suggests an organized approach to this practical knowledge. Its significance is primarily bibliographical, serving as a testament to the enduring production and transmission of specialized prognostic literature within the Greek medical tradition from the Hellenistic or Roman imperial period into the Byzantine era. The attribution to Magnos, however tenuous, further situates it within the broader network of medical writing and practice from that time.
 
 ## Text
 

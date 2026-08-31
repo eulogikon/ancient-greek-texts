@@ -5,6 +5,7 @@ author: Suda
 eul_wid: wus-ax
 eul_aid: wus
 canonical: "https://eulogikon.org/works/suda-omega-wus-ax"
+lang: grc
 period: Byzantine
 domain: Grammar
 format: Collection
@@ -18,12 +19,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Suda
 
 **eul_wid:** `wus-ax` · [HTML page](https://eulogikon.org/works/suda-omega-wus-ax)
-
-The Ω section of the Suda contains 295 entries covering Greek words, proper names, and dialect forms beginning with omega. Entries range from brief glosses—such as ω 3, which records the Doric future ὠατοθήσω for ἀκούσομαι—to longer encyclopedic notices, including the biblical figure Ὤγ, king of Bashan, described with his iron bed of nine cubits' length.
-
-Several entries illuminate ancient philological practice: ω 5 explains the term ὠβέλισται and the critical sign ὀβελός used in manuscripts to mark spurious or rejected passages. The entry on Ὥρα (ω 149) traces the word's range from physical beauty to temporal season to the concept of care (φροντίς), citing Plato and Aelian.
-
-The section is useful for studies in Doric morphology, Byzantine biblical reception, manuscript criticism, and the lexicography of later Greek prose authors such as Aelian, whose Περὶ θείων ἐναργειῶν is quoted near the letter's close.
 
 ## Text
 

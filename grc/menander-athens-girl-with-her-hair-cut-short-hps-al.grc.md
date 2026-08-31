@@ -5,6 +5,7 @@ author: Menander of Athens
 eul_wid: hps-al
 eul_aid: hps
 canonical: "https://eulogikon.org/works/menander-athens-girl-with-her-hair-cut-short-hps-al"
+lang: grc
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Menander of Athens
 
 **eul_wid:** `hps-al` · [HTML page](https://eulogikon.org/works/menander-athens-girl-with-her-hair-cut-short-hps-al)
-
-The Girl with Her Hair Cut Short is a comedy by the Athenian playwright Menander, composed in verse around 314–310 BCE. A work of New Comedy, it centers on domestic and romantic intrigue. The plot follows a young woman, Philoumene, whose hair is cut short, presumably as a disguise. This act triggers a series of mistaken identities involving a young man named Moschion, who becomes enamored with her. The narrative employs conventional devices of the genre, including a cunning slave, tokens of recognition, and a climactic revelation that establishes the heroine's citizen birth, thereby permitting a lawful marriage.
-
-The play survives only in fragmentary form, reconstructed from 564 pieces of text. These fragments derive chiefly from papyrus discoveries, with the most substantial portions preserved in a document known as the Papyrus Didotiana, which contains large sections of the final acts. Scholars view the comedy as a product of early Hellenistic Athens, mirroring contemporary preoccupations with social status, citizenship, and the capricious role of fortune in human life. It was likely staged for an audience navigating the societal uncertainties in the wake of Alexander the Great's death.
-
-Although not one of Menander's most celebrated works in antiquity, its recovery from papyri has proven invaluable for illuminating the typical structure and denouement of New Comedy. The play's orchestration of disguise, discovery, and romantic resolution exerted a clear influence on subsequent Roman comedy and, through it, on the wider European comic tradition.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Andron of Alexandria
 eul_wid: mps-aa
 eul_aid: mps
 canonical: "https://eulogikon.org/works/andron-alexandria-education-mps-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Andron of Alexandria
 
 **eul_wid:** `mps-aa` · [HTML page](https://eulogikon.org/works/andron-alexandria-education-mps-aa)
-
-Fragments on Alexandrian Education is a lost antiquarian work by Andron of Alexandria, known only through two later quotations. These fragments offer a glimpse into the educational and philosophical culture of Hellenistic Alexandria. The first, preserved by the 5th-century Neoplatonist Proclus, outlines a standard curriculum in which students studied mathematics before progressing to Platonic philosophy. The second, recorded by the 9th-century scholar Photius, notes that the philosopher Eubulus, a student of Plato, taught in Alexandria and was responsible for arranging the Platonic dialogues into trilogies. The work's content, now lost entirely, is known solely through these fragmentary citations in Proclus's Commentary on Plato's Timaeus and Photius's Bibliotheca. Though minor, the fragments provide valuable evidence for the history of Platonic scholarship outside Athens and the structure of Alexandrian education. Proclus invoked Andron's authority to validate traditional curricular models, while the notice concerning Eubulus contributes to the historical record of Plato's early successors.
 
 ## Text
 

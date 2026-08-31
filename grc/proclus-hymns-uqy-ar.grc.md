@@ -5,6 +5,7 @@ author: Proclus the Successor
 eul_wid: uqy-ar
 eul_aid: uqy
 canonical: "https://eulogikon.org/works/proclus-hymns-uqy-ar"
+lang: grc
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Proclus the Successor
 
 **eul_wid:** `uqy-ar` · [HTML page](https://eulogikon.org/works/proclus-hymns-uqy-ar)
-
-The Hymns are a collection of seven devotional poems by the 5th-century Neoplatonist philosopher Proclus. Composed in a literary Greek style that deliberately echoes Homeric epic, each hymn is addressed to a distinct deity or cosmic principle: the Sun, Aphrodite, the Muses, all the gods collectively, the Lycian Aphrodite, Hecate and Janus, and Athena. These works artfully blend traditional forms of invocation and praise with personal supplication, giving poetic expression to core Neoplatonic doctrines. They present the gods as benevolent, providential forces operating within a carefully ordered, hierarchical universe. As the head of the Platonic Academy in Athens, Proclus wrote these hymns as acts of personal piety, reflecting the late Neoplatonic theurgical belief that ritual and prayer could assist in the soul's ascent toward the divine. Scholars view the collection as a conscious effort to systematize and revitalize traditional Greco-Roman religious practice during an era of increasing Christian influence. The complete set of hymns survives intact through Byzantine manuscripts that transmitted them alongside Proclus's philosophical treatises. Although they enjoyed limited circulation in antiquity, the hymns gained significant traction during the Renaissance, where they served as an important model for philosophically infused religious poetry.
 
 ## Text
 

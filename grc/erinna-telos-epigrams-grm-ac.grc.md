@@ -5,6 +5,7 @@ author: Erinna of Telos
 eul_wid: grm-ac
 eul_aid: grm
 canonical: "https://eulogikon.org/works/erinna-telos-epigrams-grm-ac"
+lang: grc
 period: Classical
 dialect: Doric (frg)
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Erinna of Telos
 
 **eul_wid:** `grm-ac` · [HTML page](https://eulogikon.org/works/erinna-telos-epigrams-grm-ac)
-
-The Epigrams attributed to Erinna of Telos, a Greek poet of the fourth century BCE, represent a poignant though fragmentary body of work. Her most celebrated composition is the Distaff, a hexameter lament of approximately three hundred lines composed in memory of her childhood friend Baucis. Only about fifty-four lines of this poem survive, primarily on papyrus. The surviving fragments depict a deeply personal world of female friendship and domestic life, uniquely blending the formal diction of epic with intimate, lyrical subject matter focused on the experiences of young girls. Other extant pieces include a brief, four-line epitaph for Baucis, preserved in later anthologies. Erinna's poetry, though scant, was highly regarded in antiquity, where she was frequently compared to Sappho. Her work appears designed for a literate Hellenistic audience conversant with both epic tradition and personal lyric. The primary sources for her fragments are papyri for the Distaff and the Byzantine compilation known as the Greek Anthology for the shorter epigrams.
 
 ## Text
 

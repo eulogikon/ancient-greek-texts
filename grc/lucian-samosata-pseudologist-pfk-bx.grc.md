@@ -5,6 +5,7 @@ author: Lucian of Samosata
 eul_wid: pfk-bx
 eul_aid: pfk
 canonical: "https://eulogikon.org/works/lucian-samosata-pseudologist-pfk-bx"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lucian of Samosata
 
 **eul_wid:** `pfk-bx` · [HTML page](https://eulogikon.org/works/lucian-samosata-pseudologist-pfk-bx)
-
-The Pseudologistes, or "The Lover of Lies," is a satirical dialogue by Lucian of Samosata. It features a conversation in which the skeptical narrator, Tychiades, disputes supernatural claims with a group of friends gathered at the home of the philosopher Eucrates. They attempt to overcome his disbelief by recounting a series of increasingly incredible personal anecdotes involving ghosts, demons, and magical encounters. The dialogue culminates in Eucrates' own elaborate tale of the wizard Pancrates. The work functions as a critical engagement with credulity and popular superstition among the educated classes, highlighting the hypocrisy of philosophers who propagate such irrational tales. It parodies the forms of philosophical dialogue and paradoxography to expose the deceptive power of storytelling. The text survives intact within the Lucianic corpus, transmitted through numerous Byzantine manuscripts and included in all standard modern editions. A prime example of ancient skeptical satire, the Pseudologistes is considered a precursor to later story-cycle literature. It provides valuable insight into second-century beliefs about the supernatural while reflecting a sustained rationalist critique of credulity and philosophical authority.
 
 ## Text
 

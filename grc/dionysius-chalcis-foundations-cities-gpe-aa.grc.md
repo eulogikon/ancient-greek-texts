@@ -5,6 +5,7 @@ author: Dionysius of Chalcis
 eul_wid: gpe-aa
 eul_aid: gpe
 canonical: "https://eulogikon.org/works/dionysius-chalcis-foundations-cities-gpe-aa"
+lang: grc
 period: Classical
 dialect: Attic (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Dionysius of Chalcis
 
 **eul_wid:** `gpe-aa` · [HTML page](https://eulogikon.org/works/dionysius-chalcis-foundations-cities-gpe-aa)
-
-The Foundations of Cities is a fragmentary prose work of early Hellenistic historical geography and mythography attributed to Dionysius of Chalcis. It compiles brief accounts of the mythical and historical foundations of Greek cities, categorizing it within the genre of foundation literature known as ktiseis. The work is entirely lost and survives only through quotations preserved by later grammarians, scholiasts, and lexicographers, with the Byzantine scholar Stephanus of Byzantium being a principal source. The extant fragments indicate the work systematized local traditions, with narratives typically involving foundational acts by mythological heroes, colonization stories detailing departure from a mother-city, and etiological explanations for city names, cults, and customs. Dionysius’s compilation served as a key reference for later antiquarians and geographers, influencing the medieval and early modern reception of Greek foundation legends. It represents the broader Hellenistic scholarly effort to catalog and standardize disparate local civic traditions into a more cohesive historical framework.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Aristophanes Scholia
 eul_wid: mlw-al
 eul_aid: mlw
 canonical: "https://eulogikon.org/works/aristophanes-scholia-frogs-mlw-al"
+lang: grc
 period: Hellenistic
 dialect: Technical Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristophanes Scholia
 
 **eul_wid:** `mlw-al` · [HTML page](https://eulogikon.org/works/aristophanes-scholia-frogs-mlw-al)
-
-The anonymous ancient commentary on Aristophanes' comedy The Frogs is a collection of scholia, or explanatory notes, preserved in the margins of medieval manuscripts. These prose notes form an integral part of the scholarly tradition surrounding Old Comedy, offering crucial insights for interpretation. The commentary provides glosses on difficult vocabulary, explanations of Attic idioms and grammatical constructions, and identifies historical, mythological, and literary references within the play. It also includes notes on textual variants, proposed emendations, and observations on comic technique, parody, and metrical structure. Transmitted through a composite tradition that condenses the work of Hellenistic scholars like Aristarchus with later Byzantine compilations, the scholia are primarily found in manuscripts dating from the 10th century CE onward. As a repository of otherwise lost ancient scholarship, this collection remains an indispensable tool for philological and historical study, furnishing the essential contextual framework for all modern engagement with Aristophanes' work.
 
 ## Text
 

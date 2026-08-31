@@ -5,6 +5,7 @@ author: Lucian of Samosata
 eul_wid: pfk-bj
 eul_aid: pfk
 canonical: "https://eulogikon.org/works/lucian-samosata-hesiod-pfk-bj"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lucian of Samosata
 
 **eul_wid:** `pfk-bj` · [HTML page](https://eulogikon.org/works/lucian-samosata-hesiod-pfk-bj)
-
-The Dialogue to Hesiod is a short rhetorical work by the second-century CE satirist Lucian of Samosata. Structured as a direct address to the archaic poet Hesiod, the text subjects the mythological narratives of Hesiod’s Theogony to logical and ethical scrutiny. Lucian employs a characteristically ironic and combative tone, questioning the plausibility of the poet’s accounts and the moral character of the gods depicted within them. The work blends satire with serious rhetorical argument, focusing its critique on the perceived inconsistency in Hesiod’s poetic mission. Lucian notes that while Hesiod claimed his divine gift was for singing of both past and future events, his extant poetry elaborates only on the past, entirely neglecting the prophecy of future matters that would have been of greater practical use to humanity.
-
-A product of the Second Sophistic, a period marked by a revival of classical Greek culture and sophisticated rhetorical performance, the Dialogue is widely interpreted by modern scholars as a progymnasma, or rhetorical exercise. It was intended for an educated audience intimately familiar with both Hesiod’s canonical poetry and the conventions of contemporary Atticizing rhetoric. The work exemplifies the era’s intellectual practice of re-evaluating foundational literary texts through the lenses of logical analysis and philosophical inquiry. The Dialogue to Hesiod survives intact, transmitted through the extensive Byzantine manuscript tradition of Lucian’s complete works.
 
 ## Text
 

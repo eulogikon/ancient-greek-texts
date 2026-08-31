@@ -5,6 +5,7 @@ author: Alchemist I
 eul_wid: rrg-bt
 eul_aid: rrg
 canonical: "https://eulogikon.org/works/alchemist-i-fragment-rrg-bt"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alchemist I
 
 **eul_wid:** `rrg-bt` · [HTML page](https://eulogikon.org/works/alchemist-i-fragment-rrg-bt)
-
-The Alchemical Fragment is a text attributed to an anonymous author conventionally designated as Alchemist I within modern scholarship. The designation follows cataloging practices for pseudonymous or anonymous works in the Greek alchemical corpus. The surviving portion of the text consists of a practical recipe detailing a process for the treatment of gold. It instructs the practitioner to take sharp vinegar and combine it with specific measured quantities of common salt, split alum, and litharge. This mixture is to be ground with the vinegar for three days, after which it is used. The recipe then directs the addition of copper sulfate, misy, copper ore, iron oxide, and common and Cappadocian salt to the vinegar. The operator is to make a thin sheet of metal, heat it until red-hot, and quench it three times until the sheet cracks. The fragments are then collected for what is described as the extraction of the gold. A second, incomplete procedure begins with taking a measured amount of gold to make a sheet, quenching it in copper sulfate ground with water, and then using a dry form of the substance, alternating between the wet and dry mixtures to draw out a substance described as its "poison" or essence.
-
-The fragment’s specific transmission history is not recorded, but it is typical of the Greek alchemical tradition preserved primarily in Byzantine manuscripts. These texts often survive as excerpts within later compilations, with their original authorship and form obscured by pseudepigraphy and editorial revision. While this particular fragment’s individual influence cannot be traced, the Greek alchemical corpus collectively provided the foundational concepts, technical vocabulary, and symbolic language later transmitted to the Islamic world and medieval Latin Europe, thereby shaping the Western alchemical tradition.
 
 ## Text
 

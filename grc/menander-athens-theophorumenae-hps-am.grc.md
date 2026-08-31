@@ -5,6 +5,7 @@ author: Menander of Athens
 eul_wid: hps-am
 eul_aid: hps
 canonical: "https://eulogikon.org/works/menander-athens-theophorumenae-hps-am"
+lang: grc
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Menander of Athens
 
 **eul_wid:** `hps-am` · [HTML page](https://eulogikon.org/works/menander-athens-theophorumenae-hps-am)
-
-The Dubious Theophorumenae Fragment consists of two passages traditionally ascribed to Menander’s lost comedy Theophoroumene, or "The Possessed Girl." The play’s title points to a central theme of divine possession or inspiration, a conventional comic device often employed to generate plots involving mistaken identity or to satirize religious behavior. The fragment’s classification as dubious reflects significant scholarly uncertainty concerning both its authenticity and its precise place within the Menandrian corpus. The preserved text invokes a Phrygian goddess with ecstatic language, references to tympana and cymbals, and calls for ritual cries, suggesting a scene depicting or parodying fervent cultic worship.
-
-Transmitted indirectly through later grammarians or anthologists, these excerpts lack the corroboration of papyrus fragments securely identified as belonging to Theophoroumene, distinguishing its preservation from that of Menander’s more substantially recovered plays. Although the fragment’s direct literary influence is untraceable, the thematic concept of a possessed character, as implied by the title, contributed to enduring comic archetypes such as the false prophet or religious enthusiast. Furthermore, Menander’s overarching focus on domestic and romantic intrigue within a framework of social satire helped establish the foundational conventions for subsequent comedy of manners in Western drama.
 
 ## Text
 

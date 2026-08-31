@@ -5,6 +5,7 @@ author: Philo of Alexandria
 eul_wid: lgi-aw
 eul_aid: lgi
 canonical: "https://eulogikon.org/works/philo-alexandria-creation-world-lgi-aw"
+lang: grc
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philo of Alexandria
 
 **eul_wid:** `lgi-aw` · [HTML page](https://eulogikon.org/works/philo-alexandria-creation-world-lgi-aw)
-
-On the Creation of the World is the inaugural treatise in the extensive allegorical commentary on the Pentateuch by the Hellenistic Jewish philosopher Philo of Alexandria. This work provides a systematic philosophical exposition of the creation narrative found in Genesis, specifically chapters one through two, verse three. Philo’s primary aim is to demonstrate that the Mosaic account represents not myth but profound philosophical truth, achieved through a sophisticated synthesis of the biblical text with contemporary Platonic and Stoic thought. He opens by contrasting the straightforward or myth-laden approaches of other lawgivers with that of Moses, whose laws begin with the majestic and wondrous story of the world’s creation, establishing a fundamental harmony between the cosmos, the law, and the virtuous individual who aligns his actions with the will of nature.
-
-Philo’s interpretation is deeply informed by Platonic metaphysics. He posits that God first conceived an intelligible world, a perfect and immaterial paradigm, before using it as the model to fashion the physical cosmos. The instrument of this creation is the divine Logos, a rational principle that orders and structures matter. Through this framework, Philo explores several key themes: the absolute transcendence and benevolence of the Creator, the inherent goodness of the created order, the special status of humanity as created in the divine image—a concept he links directly to human rationality—and the theological significance of the Sabbath, which he elevates from a mere ritual observance to a cosmic and numerical principle of harmony and completion. The treatise was preserved for posterity by the early Christian Church, which found immense value in Philo’s Logos theology and his allegorical method of scriptural interpretation. Its full text survives in medieval Greek manuscripts and it stands as a work of profound historical significance, directly influencing the development of early Christian theology, particularly among Alexandrian thinkers such as Clement and Origen. It provided a crucial model for reconciling scriptural revelation with Greek philosophical reason, thereby shaping subsequent Platonic and theological discourse on creation.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Straton Comicus
 eul_wid: evu-ab
 eul_aid: evu
 canonical: "https://eulogikon.org/works/straton-comicus-confused-dinner-guest-evu-ab"
+lang: grc
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Straton Comicus
 
 **eul_wid:** `evu-ab` · [HTML page](https://eulogikon.org/works/straton-comicus-confused-dinner-guest-evu-ab)
-
-_The Confused Dinner Guest_ is a comedy by the poet Straton, a figure of Middle Comedy whose work survives only in fragments. The play’s title, which translates as “Fragment” or “Extract,” directly acknowledges its incomplete state of preservation. Based on the surviving text, the plot appears to center on a comic misunderstanding at a symposium, a typical setting for comedies of this period. The fragment depicts a host bewildered by his guest’s use of obscure, elevated language; the guest inquires about the number of “mortals” invited, asks whether the host is sacrificing a “broad-browed ox” or “sheep,” and employs other poetic or riddling terms that the plainspoken host fails to comprehend. This generates a comedy of manners built on social awkwardness and the clash between intellectual pretension and conventional hospitality. The work is entirely lost as a complete play and is known only through quotations preserved by later grammarians and authors, most notably Athenaeus and the Byzantine encyclopedia known as the Suda. As an example of Middle Comedy, Straton’s play participates in the theatrical evolution that bridged the political satire of Old Comedy and the domestic, character-driven plots of New Comedy, which would profoundly influence Roman comedy. The theme of the confused or socially inept guest, illustrated here, has remained a durable staple of comic narrative across literary traditions.
 
 ## Text
 

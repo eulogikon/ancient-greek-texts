@@ -5,6 +5,7 @@ author: Aretaeus the Cappadocian
 eul_wid: qao-ad
 eul_aid: qao
 canonical: "https://eulogikon.org/works/aretaeus-cappadocian-acute-diseases-qao-ad"
+lang: grc
 period: Roman
 dialect: Ionic
 domain: Medicine
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aretaeus the Cappadocian
 
 **eul_wid:** `qao-ad` · [HTML page](https://eulogikon.org/works/aretaeus-cappadocian-acute-diseases-qao-ad)
-
-The Treatment of Acute Diseases is a medical treatise composed in Ionic Greek by the physician Aretaeus of Cappadocia, who is believed to have practiced during the 1st century CE. It serves as the practical therapeutic companion to his other major work, On the Causes and Symptoms of Acute and Chronic Diseases. Structured in 15 chapters, the manual systematically details curative regimens for serious, fast-onset illnesses. It covers a range of conditions including various fevers, pneumonia, pleurisy, brain inflammation (phrenitis), epilepsy, tetanus, and acute abdominal diseases. The work is distinguished by its vivid, first-hand clinical descriptions of symptoms and disease progression, which are noted for their precision and clarity.
-
-Modern scholarship places the treatise within the context of the Roman Imperial period, identifying it as a synthesis of a strong Hippocratic foundation with influences from the "Pneumatist" school of thought, which emphasized the role of pneuma, or vital spirit, in physiology and pathology. Written as a direct guide for medical practitioners, it focuses on curative management, detailing dietary regimens, complex pharmacological preparations, and therapeutic procedures such as bloodletting. The text was preserved through the Byzantine scholarly tradition and survives in complete form due to a single 10th-century manuscript, which later formed the basis for the first printed edition in 1552. Following its rediscovery in the Renaissance, Aretaeus's acute observations were highly praised; his description of the "celiac affection" is recognized as the first clear clinical account of what is now known as celiac disease.
 
 ## Text
 

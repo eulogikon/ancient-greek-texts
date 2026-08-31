@@ -5,6 +5,7 @@ author: Demosthenes of Athens
 eul_wid: fsm-aa
 eul_aid: fsm
 canonical: "https://eulogikon.org/works/demosthenes-athens-aphobus-phanus-false-testimony-fsm-aa"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Demosthenes of Athens
 
 **eul_wid:** `fsm-aa` · [HTML page](https://eulogikon.org/works/demosthenes-athens-aphobus-phanus-false-testimony-fsm-aa)
-
-To Aphobus—On Behalf of Phanus for False Testimony, Part 3 is a forensic oration by Demosthenes of Athens, constituting a prosecution for false testimony brought by the speaker on behalf of a client named Phanus against a man named Aphobus. The speech systematically attacks the credibility of Aphobus’s testimony given in an earlier legal suit between Phanus and a third party, Onetor, by highlighting its alleged inconsistencies and factual improbabilities. The case is deeply enmeshed with Demosthenes’s personal history, as Aphobus was his former guardian, whom Demosthenes had previously sued successfully for the mismanagement of his substantial inheritance. This personal feud forms a critical backdrop to the rhetorical strategy of the speech.
-
-The oration details the Athenian legal procedure for prosecuting false witness testimony, dissecting the specific claims made by Aphobus to argue their internal contradictions and implausibility. Preserved within the Demosthenic corpus and transmitted in full through the medieval manuscript tradition, the work is considered a genuine product of Demosthenes’s early career as a logographer, or speechwriter for hire. As a specimen of Attic forensic rhetoric, it provides valuable evidence for the practical conduct of private lawsuits in classical Athens, illustrating the strategic use of a suit for false testimony as a legal weapon. Beyond its rhetorical interest, the speech offers crucial historical insight into Athenian legal history and the biographical details of Demosthenes’s early professional and personal conflicts.
 
 ## Text
 

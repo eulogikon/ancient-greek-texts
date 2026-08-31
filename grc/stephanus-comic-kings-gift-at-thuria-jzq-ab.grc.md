@@ -5,6 +5,7 @@ author: Stephanus the Comic Poet
 eul_wid: jzq-ab
 eul_aid: jzq
 canonical: "https://eulogikon.org/works/stephanus-comic-kings-gift-at-thuria-jzq-ab"
+lang: grc
 period: Hellenistic
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Stephanus the Comic Poet
 
 **eul_wid:** `jzq-ab` · [HTML page](https://eulogikon.org/works/stephanus-comic-kings-gift-at-thuria-jzq-ab)
-
-The King's Gift at Thuria is a lost comedy by the obscure poet Stephanus, known only by its title. The work is preserved solely as a name mentioned in the Suda lexicon's entry for the city of Thuria, which provides no further details about its plot or content. The title suggests a narrative concerning a royal benefaction connected to Thuria, a city in Laconia. As a work known only by name, it serves as a minimal data point for the corpus of fragmentary Greek comedy and illustrates the limits of modern knowledge of the genre, while its mention of Thuria offers a minor geographical reference for potential comic satire.
 
 ## Text
 

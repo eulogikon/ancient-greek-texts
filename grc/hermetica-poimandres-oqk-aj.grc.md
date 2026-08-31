@@ -1,10 +1,11 @@
 ---
 title: Poimandres of Hermes Trismegistus
 title_greek: Ποιμάνδρης
-author: "Hermetica "
+author: Hermetica
 eul_wid: oqk-aj
 eul_aid: oqk
 canonical: "https://eulogikon.org/works/hermetica-poimandres-oqk-aj"
+lang: grc
 period: Roman
 dialect: Philosophical Koine
 domain: Philosophy
@@ -16,13 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ποιμάνδρης*
 
-**Author:** Hermetica 
+**Author:** Hermetica
 
 **eul_wid:** `oqk-aj` · [HTML page](https://eulogikon.org/works/hermetica-poimandres-oqk-aj)
-
-The Poimandres is the inaugural and most renowned treatise of the Corpus Hermeticum, a body of Greek philosophical works ascribed to the mythical figure Hermes Trismegistus. Composed in Koine Greek, most probably in Roman Egypt between the 1st and 3rd centuries CE, the text presents itself as a 24-part revelatory dialogue. It begins with the narrator recounting a visionary encounter with a vast divine entity named Poimandres, who proceeds to disclose the fundamental nature of existence. This revelation includes a cosmogony in which the universe emanates from a primal divine light and a creative Word or Logos. The narrative further describes the descent of a celestial archetype, the Primal Man, into the material realm and his subsequent entanglement with it, symbolizing the human condition. The treatise culminates by charting the soul’s redemptive journey of ascent through the celestial spheres, a process of purification and enlightenment that leads to its ultimate reunion with the divine source.
-
-Scholarly analysis identifies the work as a sophisticated synthesis, blending elements of Greek philosophical traditions—notably Platonism and Stoicism—with Egyptian religious concepts. It appears intended for a literate audience pursuing personal spiritual insight, or gnosis, which it posits as the essential means of salvation. The complete text of the Poimandres survives as an integral part of the Corpus Hermeticum, transmitted chiefly through Byzantine manuscripts such as the 14th-century Parisinus Graecus 1220. Its translation into Latin during the Renaissance period exerted a significant and lasting influence on the development of Western esoteric thought and philosophical speculation.
 
 ## Text
 

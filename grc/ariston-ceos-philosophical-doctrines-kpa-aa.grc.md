@@ -5,6 +5,7 @@ author: Ariston of Ceos
 eul_wid: kpa-aa
 eul_aid: kpa
 canonical: "https://eulogikon.org/works/ariston-ceos-philosophical-doctrines-kpa-aa"
+lang: grc
 period: Hellenistic
 dialect: "Attic (phi, frg)"
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Ariston of Ceos
 
 **eul_wid:** `kpa-aa` · [HTML page](https://eulogikon.org/works/ariston-ceos-philosophical-doctrines-kpa-aa)
-
-The Fragments on Philosophical Doctrines is a lost doxographical treatise by the Peripatetic scholarch Ariston of Ceos. Its content is known only from a limited number of fragments preserved through quotation by later authors, principally Diogenes Laertius in his Lives and Opinions of Eminent Philosophers. The work served as a source for the doctrines of the Peripatetic school, particularly concerning Theophrastus and other successors of Aristotle. The surviving fragments indicate the work reported philosophical opinions on several themes, including the intellectual lineages and biographical details of Peripatetic philosophers, ethical doctrines such as views on the chief good, and physical and theological theories concerning the natural world and the divine. The treatise survives solely as excerpts embedded in the works of others, with no independent manuscript tradition, and is therefore filtered through the editorial purposes of transmitters like Diogenes Laertius. Ariston’s work was a reputable source on Peripatetic history and doctrine in antiquity. Through its incorporation into Laertius’s widely read compendium, it significantly shaped the later understanding of the early Peripatetic school. Modern scholars rely on these fragments as crucial evidence for reconstructing the doctrines of Aristotle’s immediate successors.
 
 ## Text
 

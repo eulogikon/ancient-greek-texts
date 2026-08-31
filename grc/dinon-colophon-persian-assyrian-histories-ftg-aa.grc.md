@@ -5,6 +5,7 @@ author: Dinon of Colophon
 eul_wid: ftg-aa
 eul_aid: ftg
 canonical: "https://eulogikon.org/works/dinon-colophon-persian-assyrian-histories-ftg-aa"
+lang: grc
 period: Classical
 dialect: Ionic (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Dinon of Colophon
 
 **eul_wid:** `ftg-aa` · [HTML page](https://eulogikon.org/works/dinon-colophon-persian-assyrian-histories-ftg-aa)
-
-The Persian and Assyrian Histories was a prose history of the Achaemenid Persian Empire, composed in Greek by Dinon of Colophon in the fourth century BCE. The work is now lost, and its content is known only through thirty-one fragments preserved as quotations in later classical authors. These excerpts indicate that Dinon’s narrative centered on the Persian royal court, with particular attention to the reign of King Artaxerxes II, and included detailed accounts of court ceremonies, social customs, and religious practices. Some fragments also suggest that the history incorporated earlier Assyrian material, providing a broader background on Near Eastern civilization. Dinon’s work belongs to the Greek "Persica" tradition, which sought to interpret the powerful eastern empire for a Hellenic readership. As a native of Ionia, a region long under Persian political and cultural influence, Dinon likely had access to local informants familiar with court life. His history appears to have blended factual narrative with entertaining anecdotes and descriptions of marvels, a stylistic approach common in ancient ethnography. Later writers, such as Plutarch, used Dinon’s work as a source, but the complete text was lost in later antiquity. Today, it is reconstructed solely from excerpts found in the works of authors including Athenaeus, Aelian, and Plutarch.
 
 ## Text
 

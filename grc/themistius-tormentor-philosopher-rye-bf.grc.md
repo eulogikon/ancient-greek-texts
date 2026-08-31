@@ -5,6 +5,7 @@ author: Themistius the Philosopher
 eul_wid: rye-bf
 eul_aid: rye
 canonical: "https://eulogikon.org/works/themistius-tormentor-philosopher-rye-bf"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Themistius the Philosopher
 
 **eul_wid:** `rye-bf` · [HTML page](https://eulogikon.org/works/themistius-tormentor-philosopher-rye-bf)
-
-The oration Tormentor or Philosopher is a work by the fourth-century statesman and philosopher Themistius. Structured as a rhetorical discourse, it explores the fundamental contrast between coercion and rational persuasion, using the figures of the torturer and the philosopher to examine the proper methods of influence and the nature of the philosophical life within late antique society. The speech opens with the orator addressing an audience gathered in a theater of the Muses, questioning their apparent astonishment at seeing a man deemed worthy of philosophy’s name adopting the theatrical and combative posture of a sophist. Themistius immediately distances himself from such performative excess, asserting that this spectacle is not his creation but that of those who have misapplied the philosopher’s title to him. He instead claims lineage from a noble and genuine philosophical father, while explicitly denying that he himself is, or is considered to be, a true philosopher.
-
-Through this rhetorical framework, the work delves into the ethical responsibilities of the public intellectual, the moral character required for governance, and the defense of rhetoric and philosophy as complementary tools for statecraft. It argues against the use of force and intimidation, championing instead the power of reasoned discourse to guide both the citizen and the ruler. The oration survives through the medieval manuscript tradition of Themistius’s speeches, which preserves over thirty of his orations. As a component of this corpus, its transmission history is consistent with the broader body of his work. The speech is significant for its contribution to Themistius’s overarching political philosophy, which sought to harmonize the contemplative life with active civic duty and to advocate for a monarchy guided by philosophical principles. This synthesis of philosophy and practical governance exerted a lasting influence on later antique and Byzantine political thought and, through subsequent Arabic translations, on the development of Islamic political theory concerning the ideal of the philosopher-advisor.
 
 ## Text
 

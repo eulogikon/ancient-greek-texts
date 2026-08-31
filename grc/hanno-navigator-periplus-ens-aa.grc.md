@@ -5,6 +5,7 @@ author: Voyage of Hanno the Navigator
 eul_wid: ens-aa
 eul_aid: ens
 canonical: "https://eulogikon.org/works/hanno-navigator-periplus-ens-aa"
+lang: grc
 period: Classical
 dialect: Technical Koine
 domain: Geography
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Voyage of Hanno the Navigator
 
 **eul_wid:** `ens-aa` · [HTML page](https://eulogikon.org/works/hanno-navigator-periplus-ens-aa)
-
-The Periplus of Hanno is a concise Greek prose account of a maritime expedition led by the Carthaginian magistrate Hanno along the Atlantic coast of northwest Africa, likely undertaken in the sixth or fifth century BCE. Presented as an official colonial report, the text details a state-sponsored voyage to establish settlements beyond the Pillars of Hercules. It records sailing directions, distances, and the founding of colonies with names such as Thymiaterion and Cariconticos. The narrative proceeds in a factual, navigational style, describing encounters with indigenous peoples and notable geographical features, including a large river, a lake filled with reeds and elephants, and a volcanic phenomenon described as a "great fire" called the Chariot of the Gods. The account concludes with a dramatic encounter with a group termed the Gorillai, whom the crew were unable to capture.
-
-The complete text survives only in a later Greek version, which is presumed to be a translation or adaptation of a lost Punic original that may have been publicly displayed in Carthage. It is preserved in a single Byzantine manuscript dating from the ninth or tenth century CE. Scholars regard the work as a crucial document of Carthaginian colonial ambition and geographical knowledge, which later fascinated Greek audiences. While its core historical authenticity is generally accepted, the precise extent of Hanno's voyage remains debated, with interpretations of the described landmarks ranging from the coast of Morocco to as far south as the Gulf of Guinea.
 
 ## Text
 

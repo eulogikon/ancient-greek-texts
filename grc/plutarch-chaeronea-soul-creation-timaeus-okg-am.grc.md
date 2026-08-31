@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-am
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-soul-creation-timaeus-okg-am"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-am` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-soul-creation-timaeus-okg-am)
-
-The Summary of the Soul's Creation in the Timaeus is a concise exposition by Plutarch of Chaeronea on Plato's account of the World Soul in the Timaeus. It systematically presents the mathematical ratios and harmonic intervals that structure the soul, distilling his exegetical arguments from a larger, now lost work. The summary outlines the metaphysical composition of the World Soul from Indivisible and Divisible Being, Sameness, and Difference. It details the soul's mathematical harmony, expressed through specific numerical ratios and intervals that represent the fundamental order of the cosmos. A central feature of the text is its clear advocacy for a literal interpretation of the soul's temporal creation by the Demiurge, a stance that positioned Plutarch against contemporary allegorical readings. The work survives fragmentarily through excerpts preserved in the anthology compiled by the Byzantine scholar John Stobaeus. As a key witness to Middle Platonist debates, the summary is particularly significant for its definitive statement of Plutarch's literalist position on cosmic generation, a view that was later noted and often criticized by Neoplatonist commentators like Proclus.
 
 ## Text
 

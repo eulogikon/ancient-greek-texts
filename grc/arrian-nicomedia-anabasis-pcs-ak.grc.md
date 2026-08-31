@@ -5,6 +5,7 @@ author: Arrian of Nicomedia
 eul_wid: pcs-ak
 eul_aid: pcs
 canonical: "https://eulogikon.org/works/arrian-nicomedia-anabasis-pcs-ak"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Arrian of Nicomedia
 
 **eul_wid:** `pcs-ak` · [HTML page](https://eulogikon.org/works/arrian-nicomedia-anabasis-pcs-ak)
-
-The Anabasis of Alexander is a historical account of the campaigns of Alexander the Great, composed in Greek by the Roman official and historian Arrian of Nicomedia in the early 2nd century CE. Arrian structured his narrative in seven books, chronicling Alexander's military expeditions from his accession in 336 BCE to his death in 323 BCE. He explicitly modeled his clear Attic prose on the earlier historian Xenophon and declared his intention to provide a definitive record based on what he considered the most reliable eyewitness sources, namely Ptolemy and Aristobulus. The work focuses primarily on military strategy, major battles, and Alexander's leadership, while also incorporating significant geographical and ethnographic details. Modern scholarship interprets the Anabasis as a product of the Second Sophistic, a period of renewed cultural interest in the Greek past within the Roman Empire, and it reflects Arrian's own experience as a military commander. The text survives complete through a direct manuscript tradition, with the oldest important copy dating from the 10th or 11th century. Its generally excellent state of preservation has established it as the most reliable and authoritative ancient source for the history of Alexander's campaigns.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Archippus the Comic Poet
 eul_wid: ebk-aa
 eul_aid: ebk
 canonical: "https://eulogikon.org/works/archippus-comic-feast-ebk-aa"
+lang: grc
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Archippus the Comic Poet
 
 **eul_wid:** `ebk-aa` · [HTML page](https://eulogikon.org/works/archippus-comic-feast-ebk-aa)
-
-"Fragments of a Comic Feast" is the conventional modern title for the scant remains of a lost Athenian comedy by the playwright Archippus, who was active in the late 5th century BCE. The original title of the work is unknown. As a play of Old Comedy, it would have been performed at an Athenian festival and featured the genre's characteristic blend of political satire, mythological parody, and scenes from contemporary life. The modern title, derived from the content of the surviving lines, suggests the plot likely revolved around a humorous banquet scene, a common setting for exploring themes of gluttony, social behavior, and excess. The work is known only through 83 fragmentary passages, often comprising just single lines, which were quoted by later Greek authors and grammarians primarily for their unusual vocabulary or references to food and customs rather than for their narrative content. Written in Attic Greek verse, these fragments depict a lavish and absurd feast, mentioning items such as snouts, wine cups, tables laden with delicacies, and a wide array of seafood and meats. The dialogue includes comic exchanges about fish serving as oracles and references to a herald and a priest, elements typical of the genre's satirical and fantastical style. Modern scholars interpret these fragments as evidence that the play satirized culinary luxury and contemporary Athenian society, consistent with the sharp, personal comedy of the Peloponnesian War era. The complete play has not survived, and our understanding of it depends entirely on these later, decontextualized quotations.
 
 ## Text
 

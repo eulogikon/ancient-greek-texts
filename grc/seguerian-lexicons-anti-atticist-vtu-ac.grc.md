@@ -5,6 +5,7 @@ author: Seguerian Lexicons
 eul_wid: vtu-ac
 eul_aid: vtu
 canonical: "https://eulogikon.org/works/seguerian-lexicons-anti-atticist-vtu-ac"
+lang: grc
 period: Late Antique
 dialect: Mixed Dialects
 domain: Grammar
@@ -19,20 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Seguerian Lexicons
 
 **eul_wid:** `vtu-ac` · [HTML page](https://eulogikon.org/works/seguerian-lexicons-anti-atticist-vtu-ac)
-
-Overview The Anonymous Anti-Atticist is a fragmentary lexicographical work that critically responds to the Atticist movement of the Roman imperial period. It defends the use of words condemned by Atticist purists by providing counter-examples from a broad canon of reputable authors, including Herodotus, tragedians, and Hellenistic writers. The surviving text consists of 63 passages, structured as entries that cite and then refute Atticist prohibitions.
-
-Content
-
-Critique of Linguistic Purism: The work argues against the restrictive Atticist model, advocating for a more eclectic linguistic standard.
-
-Method of Authoritative Citation: Its primary method is to invalidate Atticist rules by demonstrating the condemned usage in canonical literature.
-
-Scholarly Polemic: It is a technical contribution to the debates on proper Greek usage during the Second Sophistic.
-
-Transmission The work survives indirectly through excerpts in later Byzantine lexicographical compilations, most notably the Lexicon of Photius (9th century CE) and the Suda (10th century CE). The original scope and structure remain uncertain due to this fragmentary preservation.
-
-Significance The text is a crucial source for understanding the Atticist controversy. Its preservation in major Byzantine reference works disseminated its arguments and citations, influencing later lexicography and providing modern scholars with evidence of the period's linguistic debates and fragments of lost texts.
 
 ## Text
 

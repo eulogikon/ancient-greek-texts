@@ -5,6 +5,7 @@ author: Lucian of Samosata
 eul_wid: pfk-bc
 eul_aid: pfk
 canonical: "https://eulogikon.org/works/lucian-samosata-judgment-gods-pfk-bc"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lucian of Samosata
 
 **eul_wid:** `pfk-bc` · [HTML page](https://eulogikon.org/works/lucian-samosata-judgment-gods-pfk-bc)
-
-The Judgment of the Gods is a satirical prose oration by the second-century CE author Lucian of Samosata. Written in Attic Greek, the work stages a mock trial on Mount Olympus in which Alexander the Great, following his death, is prosecuted for his hubristic claim to divine status. The case is argued before an assembly of gods, with the prosecution led by a Cynic philosopher and the defense undertaken by a rhetorician. This framework allows Lucian to parody the conventions of judicial oratory while satirizing the intellectual posturing of both philosophical and rhetorical schools. A product of the Second Sophistic, a period characterized by a revival of classical Greek rhetoric and literary forms, the piece exemplifies Lucian's characteristic blend of satire and rhetorical exercise. Through its divine courtroom setting and the absurdity of its proceedings, the work critiques contemporary themes of hero-worship, philosophical pretension, and the perceived frivolity of traditional mythology. The text survives in full through medieval manuscripts as part of the established Lucianic corpus and is widely accepted by scholars as genuine.
 
 ## Text
 

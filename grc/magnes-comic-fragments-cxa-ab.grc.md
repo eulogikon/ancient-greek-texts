@@ -5,6 +5,7 @@ author: Magnes Comicus
 eul_wid: cxa-ab
 eul_aid: cxa
 canonical: "https://eulogikon.org/works/magnes-comic-fragments-cxa-ab"
+lang: grc
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Magnes Comicus
 
 **eul_wid:** `cxa-ab` · [HTML page](https://eulogikon.org/works/magnes-comic-fragments-cxa-ab)
-
-The Comic Fragments on Daily Life is a modern compilation of nine brief passages attributed to the Athenian comic poet Magnes, who was active during the fifth century BCE. As a successful early practitioner of Old Comedy, Magnes was a prize-winning competitor at the City Dionysia. The fragments do not originate from a single play but are excerpts from various lost comedies, thematically grouped by modern editors for their apparent references to quotidian Athenian experiences. Preserved only through citation by later authors such as Athenaeus, these snippets touch upon subjects like specific foods, musical modes, and popular songs. Each surviving fragment is exceedingly short, often comprising merely a phrase or a line, and no complete play or extended scene exists. Scholars interpret these remnants as evidence that Magnes’s comedies incorporated parody, musical performance, and humor drawn from common life, characteristics further developed by his successors. Ancient sources record that he was particularly noted for comedies featuring choruses costumed as animals, such as birds or frogs, a theatrical innovation that likely influenced later playwrights including Aristophanes. The collection’s principal value is historical, offering a glimpse into the formative techniques and themes of early Athenian comic theater.
 
 ## Text
 

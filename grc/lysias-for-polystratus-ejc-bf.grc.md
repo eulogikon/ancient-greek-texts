@@ -5,6 +5,7 @@ author: Lysias the Orator
 eul_wid: ejc-bf
 eul_aid: ejc
 canonical: "https://eulogikon.org/works/lysias-for-polystratus-ejc-bf"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lysias the Orator
 
 **eul_wid:** `ejc-bf` · [HTML page](https://eulogikon.org/works/lysias-for-polystratus-ejc-bf)
-
-"For Polystratus" is a forensic oration composed by the Athenian logographer Lysias around 410 BCE. The speech serves as a defense for Polystratus, who was prosecuted for his involvement with the oligarchic regime known as the Four Hundred after the restoration of democracy in Athens. Delivered by one of the defendant's sons due to Polystratus's advanced age and infirmity, the argument strategically minimizes his role within the oligarchy. It presents him not as an ideological supporter but as a reluctant and minor functionary who acted under compulsion. The core of the defense pivots to highlight his extensive and commendable military service to the city as both a hoplite and a cavalryman, portraying him as an aged patriot ensnared by circumstances rather than a committed oligarch.
-
-Transmitted in full within the Lysianic corpus, the oration provides a window into the politically charged climate of the Athenian accountability trials. It exemplifies the legal rhetoric employed in the aftermath of the oligarchy's collapse, where defendants sought to distance themselves from the regime's most controversial actions and appeal to the democratic jury's values of loyalty and public service. The speech remains a significant document for understanding the personal and political tensions that followed this turbulent period in Athenian history.
 
 ## Text
 

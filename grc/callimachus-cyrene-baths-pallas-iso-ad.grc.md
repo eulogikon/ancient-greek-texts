@@ -5,6 +5,7 @@ author: Callimachus of Cyrene the Poet and Scholar
 eul_wid: iso-ad
 eul_aid: iso
 canonical: "https://eulogikon.org/works/callimachus-cyrene-baths-pallas-iso-ad"
+lang: grc
 period: Hellenistic
 dialect: Literary Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Callimachus of Cyrene the Poet and Scholar
 
 **eul_wid:** `iso-ad` · [HTML page](https://eulogikon.org/works/callimachus-cyrene-baths-pallas-iso-ad)
-
-"To the Baths of Pallas" is a fragmentary Greek hymn composed by the poet and scholar Callimachus in the 3rd century BCE. Also known as his "Fifth Hymn," it is a learned, poetic recreation of an actual religious ritual. The poem describes the annual ceremony in Argos where women would wash the cult statue of the goddess Athena. Written in a literary Doric dialect to evoke an archaic, ritual feeling, it focuses on themes of ritual purity, secrecy, and the exclusive role of women in this sacred act. The surviving text opens with a call for the attendants of the bath to come forth, as the goddess approaches. It details Athena's own legendary practices of purification, emphasizing that she never washes herself thoroughly until she has first cleaned the dust from her horses, nor did she cleanse her blood-stained armor immediately after the battle with the Giants, but first unyoked her team and washed away their sweat in the streams of Oceanus. The hymn instructs the women not to bring perfumes or alabaster vessels to the goddess, for Athena does not love mixed ointments, nor even a mirror, for her own eye is ever beautiful. It contrasts her divine indifference to such adornment with the vanity of Aphrodite at the judgment of Paris. Only part of the text survives today. It is not preserved in a complete manuscript but is known through fragments quoted by later ancient grammarians and scholars, such as Hesychius of Alexandria and Eustathius of Thessalonica, who referenced it to explain rare words. Modern scholars interpret this hymn as a characteristic example of Callimachus's work: highly refined, allusive, and designed for an educated audience. It is thought to have been written to display poetic erudition by integrating a specific local religious practice into the cosmopolitan literary culture of Hellenistic Alexandria.
 
 ## Text
 

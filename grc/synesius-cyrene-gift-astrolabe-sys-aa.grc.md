@@ -5,6 +5,7 @@ author: Synesius of Cyrene
 eul_wid: sys-aa
 eul_aid: sys
 canonical: "https://eulogikon.org/works/synesius-cyrene-gift-astrolabe-sys-aa"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Synesius of Cyrene
 
 **eul_wid:** `sys-aa` · [HTML page](https://eulogikon.org/works/synesius-cyrene-gift-astrolabe-sys-aa)
-
-To Paeonius—the Gift of the Astrolabe is a philosophical treatise composed around 405 CE by Synesius of Cyrene, the Neoplatonist philosopher who would later become a Christian bishop. Written in Greek and structured as an extended letter in seven sections, the work formally accompanies the gift of a silver astrolabe, an instrument for celestial observation which Synesius himself designed. The text seamlessly merges personal correspondence with detailed technical instruction, providing the recipient, Paeonius, with the knowledge required to construct the device and use it for plotting constellations and telling time.
-
-Transcending a simple technical manual, the treatise presents the astrolabe as an "image of the heavens" and a "temple of the cosmic gods." This characterization reflects Synesius's profound Neoplatonic philosophy, in which the physical cosmos is understood as a mirror of divine, intellectual principles. The crafted instrument thus becomes a tangible embodiment of celestial order and harmony. Modern scholarship regards the work as a prime example of the late antique ideal of unifying theory with practical application, demonstrating how mathematical astronomy could produce a physical object that incarnated philosophical truth. The act of giving the astrolabe and its accompanying treatise is further interpreted as a meaningful gesture of intellectual friendship, operating within the elite educated networks of the period. The complete text has been reliably preserved through medieval manuscripts transmitted alongside Synesius's other writings.
 
 ## Text
 

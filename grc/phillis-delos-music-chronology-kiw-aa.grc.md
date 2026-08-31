@@ -1,10 +1,11 @@
 ---
 title: On Music and Chronology
 title_greek: Ἀποσπάσματα
-author: "Phillis of Delos "
+author: Phillis of Delos
 eul_wid: kiw-aa
 eul_aid: kiw
 canonical: "https://eulogikon.org/works/phillis-delos-music-chronology-kiw-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀποσπάσματα*
 
-**Author:** Phillis of Delos 
+**Author:** Phillis of Delos
 
 **eul_wid:** `kiw-aa` · [HTML page](https://eulogikon.org/works/phillis-delos-music-chronology-kiw-aa)
-
-On Music and Chronology is a lost prose work attributed to Phillis of Delos, an otherwise unknown author. The Greek title, meaning "Extracts," indicates the text was likely a compilation or anthology. It is known only from a handful of brief citations in later authors, which provide the sole evidence for its existence. These fragments suggest the work covered two distinct subjects: the chronology of early Greek history and the technical details of ancient music. One fragment, preserved by Athenaeus, quotes Phillis on the distinctions between various ancient stringed instruments, such as the pēktis, magadis, and sambykē, and describes their use in musical performance. Another citation references his chronological claims, placing the introduction of the Phoenician alphabet by Danaos prior to the time of Cadmus. While the work itself does not survive, its proposed Delian origin and its combination of musical and historical inquiry point to its potential value for understanding local traditions and intellectual interests in the Hellenistic period.
 
 ## Text
 

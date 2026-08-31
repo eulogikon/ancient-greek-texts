@@ -5,6 +5,7 @@ author: Lyric Poets Anonymous
 eul_wid: gya-aa
 eul_aid: gya
 canonical: "https://eulogikon.org/works/lyric-anon-fragments-gya-aa"
+lang: grc
 period: Classical
 dialect: Mixed Dialects
 domain: Poetry
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lyric Poets Anonymous
 
 **eul_wid:** `gya-aa` · [HTML page](https://eulogikon.org/works/lyric-anon-fragments-gya-aa)
-
-The Lyric Fragments constitute a modern scholarly compilation of 217 anonymous passages of Greek lyric poetry. These fragments originate from various unknown poets of the Archaic and Classical periods, spanning the seventh to the fifth centuries BCE. They survive exclusively through indirect transmission, preserved only as quotations within the works of later prose authors such as grammarians, historians, and philosophers, or recovered from damaged papyrus rolls. Their assembly into a single collection represents a contemporary editorial effort to reconstitute elements of the vast and largely lost lyric corpus, a genre originally performed with musical accompaniment.
-
-Thematically, the fragments collectively reflect the standard scope of Greek lyric poetry. They encompass expressions of intense personal emotion, including love, longing, grief, and jealousy, often conveyed with direct and vivid imagery. Other fragments present mythological narratives and exempla, offer ethical and gnomic wisdom, serve as public celebrations of gods, heroes, or athletic victors, or contain pointed political commentary. While the authorship and original performance contexts of these pieces are irrecoverable, they remain crucial for understanding the breadth and technical diversity of the lyric genre beyond the major named poets like Sappho or Pindar. They provide essential, if fragmentary, evidence for poetic dialect, metrical innovation, and the varied cultural and social practices of antiquity.
 
 ## Text
 

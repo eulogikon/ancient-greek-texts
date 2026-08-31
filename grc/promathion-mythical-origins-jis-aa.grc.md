@@ -5,6 +5,7 @@ author: Promathion the Historian
 eul_wid: jis-aa
 eul_aid: jis
 canonical: "https://eulogikon.org/works/promathion-mythical-origins-jis-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Promathion the Historian
 
 **eul_wid:** `jis-aa` · [HTML page](https://eulogikon.org/works/promathion-mythical-origins-jis-aa)
-
-The Fragments on Mythical Origins by Promathion the Historian is a lost mythographic text known only from two later citations, belonging to the genre of Hellenistic mythography and local history. The two surviving fragments provide alternative Greek foundation myths for Italian sites. One, preserved by the Byzantine scholar John Tzetzes, details the origins of Praeneste, linking it to either Odysseus and Telemachus or the hero Caeculus. The other, cited by the Roman grammarian Servius, offers an etiology for Rome’s Palatine Hill, deriving its name from a legendary Arcadian king, Pallas. The work survives exclusively through this indirect transmission in much later commentaries, with no independent manuscript tradition. Promathion’s fragments exemplify the Hellenistic practice of syncretism, grafting Greek heroic genealogy onto Italian geography. While obscure, his work served as a minor source for later scholars, with Servius ensuring its entry into the Western antiquarian tradition. It represents a typical thread of mythographic writing that informed Roman and later understandings of mythical prehistory.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Eudoxus of Cnidus
 eul_wid: feq-aa
 eul_aid: feq
 canonical: "https://eulogikon.org/works/eudoxus-cnidus-astronomical-art-feq-aa"
+lang: grc
 period: Classical
 dialect: Attic (frg)
 domain: Science
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Eudoxus of Cnidus
 
 **eul_wid:** `feq-aa` · [HTML page](https://eulogikon.org/works/eudoxus-cnidus-astronomical-art-feq-aa)
-
-The Astronomical Art is a lost scientific treatise by the Greek mathematician and astronomer Eudoxus of Cnidus, written around the middle of the fourth century BCE. No continuous text of the work survives; our knowledge of it derives entirely from approximately twenty-six testimonia and fragments preserved by later authors, most importantly in the sixth-century CE commentary on Aristotle's De caelo by Simplicius. It was a foundational text in the history of mathematical astronomy, most famous for introducing the first known geometric model of the cosmos. This model employed a system of nested, homocentric spheres, each rotating on its own axis and at its own uniform speed, to explain the apparent irregular motions of the planets, including the perplexing phenomenon of retrograde motion, using only combinations of perfect circular motions.
-
-The treatise presented a rigorously quantitative and geometrical approach to celestial phenomena. Its core themes were the application of spherical geometry to model planetary paths and the philosophical principle that complex observed motions must be resolved into simpler, uniform circular components. This established the core methodological goal of Greek mathematical astronomy: to "save the phenomena" by constructing a geometrical model consistent with observational data. The work is entirely lost and known only indirectly. Simplicius provides the most detailed descriptions and quotations of Eudoxus's system, while Aristotle discusses and adopts the model in his own cosmological works, the Metaphysics and De caelo, though without direct quotation from the original treatise.
-
-Eudoxus's concentric sphere model established the fundamental paradigm of using mathematical models in Western astronomy. Aristotle's subsequent incorporation of a more physical, adapted version of this system into his natural philosophy ensured its central place in scientific thought for centuries. While later astronomers, most notably Hipparchus and Ptolemy, developed more accurate predictive systems using devices like epicycles and eccentrics, they operated entirely within the Eudoxian framework of explaining celestial motion through combinations of circular motions, a paradigm that would dominate until the Renaissance.
 
 ## Text
 

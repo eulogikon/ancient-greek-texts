@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-ai
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-agis-cleomenes-gracchi-okg-ai"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-ai` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-agis-cleomenes-gracchi-okg-ai)
-
-The Comparison of Agis and Cleomenes and the Gracchi is a concluding essay by the Greek biographer Plutarch, composed in the early second century CE as the final section of his paired biographies of two Spartan kings and two Roman tribunes. This synkrisis, or formal comparison, follows the individual lives of Agis IV and Cleomenes III of Sparta and Tiberius and Gaius Gracchus of Rome. Plutarch systematically evaluates these four figures, each of whom championed radical programs of land redistribution and debt relief in their respective republics and met violent deaths as a consequence. The comparison examines their noble birth, education, eloquence, political motivations, personal virtues, and the circumstances of their downfalls.
-
-Writing for a cultivated Greco-Roman audience under the Roman Empire, Plutarch employs historical parallelism to extract ethical and political insights. While acknowledging the exceptional natural talent and privileged upbringing of the Gracchi, he ultimately judges the Spartan kings as superior in character and purpose. Plutarch contends that Agis and Cleomenes demonstrated greater courage and moderation, acting from a purer devotion to the common good despite being raised in a corrupt Spartan society. In contrast, he suggests the Gracchi, though personally incorruptible, were driven more by personal ambition and a competitive desire to uphold their family's political legacy, exploiting a Rome already at the height of its power. The work has been preserved intact through the medieval manuscript tradition of Plutarch's Parallel Lives, transmitted as an integral component of the biographical pair.
 
 ## Text
 

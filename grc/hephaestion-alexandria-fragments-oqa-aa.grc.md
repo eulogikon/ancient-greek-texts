@@ -5,6 +5,7 @@ author: Hephaestion of Alexandria
 eul_wid: oqa-aa
 eul_aid: oqa
 canonical: "https://eulogikon.org/works/hephaestion-alexandria-fragments-oqa-aa"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hephaestion of Alexandria
 
 **eul_wid:** `oqa-aa` · [HTML page](https://eulogikon.org/works/hephaestion-alexandria-fragments-oqa-aa)
-
-The Hephaestion Fragments, also known as the Apospasmata, consist of excerpts from the Encheiridion, a comprehensive handbook on Greek poetic meter authored by the grammarian Hephaestion of Alexandria in the 2nd century CE. Written in Koine Greek, the original treatise provides a systematic definition and classification of metrical forms, illustrating its principles with examples drawn from earlier Greek lyric and dramatic poetry. The passages that constitute these fragments are considered key sections selected from the larger manual for pedagogical use. Hephaestion worked during the period known as the Second Sophistic, a time of revived scholarly interest in classical Greek culture within the Roman Empire. His handbook served an explicit educational purpose for advanced students and scholars, offering a standardized reference for the analysis and composition of poetry. Modern scholarship regards the work as part of the enduring tradition of Alexandrian grammatical study. The Encheiridion itself survives almost completely through medieval manuscripts and Byzantine commentaries. The designation "Fragments" does not imply a fragmentary original text but rather denotes a curated compilation drawn from the complete work. Hephaestion's treatise became the definitive textbook on Greek meter for subsequent centuries, maintaining its authoritative influence throughout the Byzantine era and into the foundation of modern classical philology.
 
 ## Text
 

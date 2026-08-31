@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-eu
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-pompeius-okg-eu"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-eu` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-pompeius-okg-eu)
-
-The Life of Pompey is a biography by the Greek historian and moralist Plutarch, written in Attic Greek during the early second century CE. It belongs to his celebrated series of Parallel Lives, which pairs illustrious Greek and Roman figures for comparative moral analysis; Pompey is juxtaposed with the Spartan king Agesilaus II. The narrative traces the full arc of the Roman general Gnaeus Pompeius Magnus’s career, from his early military exploits under his father’s shadow and his rapid ascent to earn the cognomen “the Great,” through his complex political maneuvers, including the formation of the First Triumvirate with Julius Caesar and Marcus Licinius Crassus, to his final rupture with Caesar, defeat in the civil war, and murder in Egypt in 48 BCE. Comprising 327 narrative sections, a standard length in Plutarch’s corpus, the work interweaves historical events with personal anecdotes and ethical reflection. Plutarch’s principal aim is understood to be didactic, using the examples of great men to explore virtues, vices, and the caprices of fortune rather than to provide a strictly chronological historical record. The biography was composed for a cultured, Hellenized audience within the Roman Empire. The text has survived in its entirety through a robust medieval manuscript tradition, with no substantial lacunae.
 
 ## Text
 

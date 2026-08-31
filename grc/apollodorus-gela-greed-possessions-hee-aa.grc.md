@@ -5,6 +5,7 @@ author: Apollodorus of Gela
 eul_wid: hee-aa
 eul_aid: hee
 canonical: "https://eulogikon.org/works/apollodorus-gela-greed-possessions-hee-aa"
+lang: grc
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Apollodorus of Gela
 
 **eul_wid:** `hee-aa` · [HTML page](https://eulogikon.org/works/apollodorus-gela-greed-possessions-hee-aa)
-
-The comedic work Fragments on Greed and Possessions by Apollodorus of Gela is known only by its title and a brief entry in the Byzantine encyclopedia known as the Suda, which records that it consisted of twelve passages. No direct quotations from the text survive. As a comedy, it would have treated its titular themes—the excessive desire for wealth and material possessions—through the satire and social critique characteristic of the period of Middle and New Comedy. The title itself clearly indicates the work's focus on greed and property, suggesting a critique of avarice and wealth-related behaviors. The notation of "twelve passages" in the Suda implies the work may have been a later compilation of extracts rather than a single, continuous play. While these specific fragments are lost, Apollodorus of Gela was an influential figure in the transition from Greek to Roman comedy. The Roman playwright Terence adapted Apollodorus's play Epidikazomenos for his own Phormio, demonstrating the transmission of his comedic plots, which frequently involved similar themes of property, inheritance, and social ambition.
 
 ## Text
 

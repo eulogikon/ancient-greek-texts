@@ -5,6 +5,7 @@ author: Anacharsis the Scythian
 eul_wid: ars-aa
 eul_aid: ars
 canonical: "https://eulogikon.org/works/anacharsis-scythian-barbarians-greeks-ars-aa"
+lang: grc
 period: Archaic
 dialect: Mixed Dialects (frg)
 format: Epistle
@@ -18,10 +19,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Anacharsis the Scythian
 
 **eul_wid:** `ars-aa` · [HTML page](https://eulogikon.org/works/anacharsis-scythian-barbarians-greeks-ars-aa)
-
-The Fragments on Barbarians and Greeks is a collection of sayings and epistles attributed to the semi-legendary Scythian sage Anacharsis, who was said to have traveled to Greece in the early sixth century BCE. Preserved through quotation by later authors such as Diogenes Laertius and Lucian, these fragments present concise, critical observations contrasting Scythian and Greek customs from an outsider’s perspective. They survive not as a continuous text but as scattered apophthegms and epistles, the most famous of which is addressed to the Athenians. In it, the persona of Anacharsis chides his hosts for mocking his imperfect Greek, arguing that men are distinguished not by speech but by their thoughts and deeds, just as Greeks are distinguished from other Greeks. He points out that the Spartans, though not eloquent Attic speakers, are renowned for their actions, and that the Athenians themselves pragmatically employ Egyptian doctors and Phoenician pilots without regard for their language. The fragments collectively deploy this critical voice to challenge Greek ethnocentrism, often promoting the superiority of so-called natural Scythian simplicity over complex Greek laws and luxury, while espousing proto-Cynic values like self-sufficiency and freedom of speech.
-
-The corpus is entirely pseudepigraphical and fragmentary, with no independent manuscript tradition. The sayings and approximately ten epistles are scattered in later Greek and Roman sources, primarily from the Hellenistic period onward, where they were preserved for their utility in Cynic philosophical argument. Their significance lies in the enduring literary persona they created. Anacharsis became a canonical model of natural virtue and cultural skepticism for the Cynic and Stoic traditions, and his inclusion among the Seven Sages cemented this status. The trope of the wise barbarian critic that he embodies profoundly influenced later Greco-Roman literature and, much later, Enlightenment-era social commentary.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Epimenides of Crete
 eul_wid: aqy-ae
 eul_aid: aqy
 canonical: "https://eulogikon.org/works/epimenides-crete-glaucus-aqy-ae"
+lang: grc
 period: Archaic
 dialect: Epic (Homeric)
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Epimenides of Crete
 
 **eul_wid:** `aqy-ae` · [HTML page](https://eulogikon.org/works/epimenides-crete-glaucus-aqy-ae)
-
-The Fragments on Glaucus is a lost work attributed to the semi-legendary Archaic seer and poet Epimenides of Crete. Known only by title from later testimonia, the work is not listed among the author's writings by ancient doxographers such as Diogenes Laertius, and no direct quotations from it survive. The "Glaucus" referenced in the title is likely the prophetic sea-deity, a figure consistent with Epimenides's known interests in theology and ritual purification. While its precise content remains speculative, the work would have contained theological or mythological material related to this figure, potentially exploring themes of divine mythology and ritual practice. As a lost text, its direct influence is untraceable, but any work circulating under the name of Epimenides would have contributed to his enduring posthumous authority in matters of myth and ritual, a reputation later evidenced by his citation in the works of both Plato and the Apostle Paul.
 
 ## Text
 

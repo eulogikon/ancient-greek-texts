@@ -5,6 +5,7 @@ author: John Philoponus of Alexandria
 eul_wid: uxc-am
 eul_aid: uxc
 canonical: "https://eulogikon.org/works/john-philoponus-alexandria-creation-world-uxc-am"
+lang: grc
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** John Philoponus of Alexandria
 
 **eul_wid:** `uxc-am` · [HTML page](https://eulogikon.org/works/john-philoponus-alexandria-creation-world-uxc-am)
-
-On the Creation of the World is a philosophical and theological treatise by the sixth-century Alexandrian scholar John Philoponus. Composed between 529 and 534 CE, the work presents a detailed exegesis of the biblical six days of creation from the Book of Genesis. Its central purpose is a robust defense of the Christian doctrine of creatio ex nihilo—that God created the universe out of nothing with a definitive beginning in time. This stance is deployed as a direct refutation of the prevailing Greek philosophical position, particularly as articulated by the Neoplatonist philosopher Proclus, which held the cosmos to be eternal and uncreated.
-
-The treatise is systematically organized into six books, each corresponding to one of the days of creation, and survives complete in 308 sections. Philoponus meticulously dismantles Proclus's arguments for the world's eternity, employing the logical tools and principles of Aristotelian physics to undergird his theological conclusions. This methodology represents a deliberate synthesis of faith and reason, aiming to provide a philosophically rigorous foundation for Christian belief and to engage the intellectual debates of late antique Alexandria. The arguments advanced in the work proved highly influential, finding a significant reception within Eastern Christian thought and later within Islamic philosophical traditions, where its case for a temporal creation was widely studied and disseminated.
 
 ## Text
 

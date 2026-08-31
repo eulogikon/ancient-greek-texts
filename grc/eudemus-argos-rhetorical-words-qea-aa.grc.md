@@ -5,6 +5,7 @@ author: Eudemus of Argos
 eul_wid: qea-aa
 eul_aid: qea
 canonical: "https://eulogikon.org/works/eudemus-argos-rhetorical-words-qea-aa"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Eudemus of Argos
 
 **eul_wid:** `qea-aa` · [HTML page](https://eulogikon.org/works/eudemus-argos-rhetorical-words-qea-aa)
-
-On Rhetorical Words is a lost rhetorical treatise attributed to the obscure figure Eudemus of Argos. Its existence is known solely from a brief entry in the 10th-century Byzantine encyclopedia known as the Suda, which lists Eudemus as its author and notes it comprised fourteen passages. The title indicates a focus on diction and style within the art of oratory. Based on this, the work likely addressed technical aspects of rhetorical composition, such as the selection of vocabulary and the analysis of stylistic elements pertinent to effective speech. As a lost work by an otherwise unknown author, its direct influence is untraceable, but its record confirms it was part of the broader ancient tradition of specialized rhetorical manuals, many of which did not survive into the later literary canon.
 
 ## Text
 

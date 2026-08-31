@@ -5,6 +5,7 @@ author: Suda
 eul_wid: wus-aa
 eul_aid: wus
 canonical: "https://eulogikon.org/works/suda-alpha-wus-aa"
+lang: grc
 period: Byzantine
 domain: Grammar
 format: Collection
@@ -18,12 +19,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Suda
 
 **eul_wid:** `wus-aa` · [HTML page](https://eulogikon.org/works/suda-alpha-wus-aa)
-
-The alpha section of the Suda (Σοῦδα, Στοιχεῖον Α) contains 5,137 entries ranging from bare glosses to extended lexicographical notes. The prefatory material names earlier lexicographers whose work the Suda absorbed, including Helladios under Theodosius II and Zosimos of Gaza. Early entries such as Ἀαγές ('unbroken, strong') and Ἀαδεῖν ('to trouble, to be at a loss') illustrate the compilers' interest in rare or archaic vocabulary.
-
-Later entries cite Aristophanes for the exclamation ἂ ἄ and offer metrical and accentual analysis, while the αι-subsection includes Homeric glosses on αἶψα ('swiftly'), with quotations from the Odyssey and from an epigram attributed to Leonidas. A Menander fragment appears under Ἀνορωρυγμένον, demonstrating the letter's value for fragmentary comic texts.
-
-Scholars use this letter to reconstruct lost lexica, to trace the transmission of Attic and epic vocabulary, and to locate quotations from authors whose works do not otherwise survive independently.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Erotic Narrative Anonymous
 eul_wid: skw-an
 eul_aid: skw
 canonical: "https://eulogikon.org/works/erotica-anon-nile-canopus-skw-an"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: Fiction
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Erotic Narrative Anonymous
 
 **eul_wid:** `skw-an` · [HTML page](https://eulogikon.org/works/erotica-anon-nile-canopus-skw-an)
-
-Fragments on the Nile and Canopus is the modern title given to an anonymous and fragmentary Greek prose text. The work is preserved only in two brief passages, and no manuscript tradition or specific preservation history for it has been identified. The title derives from the content of the surviving fragments, which concern the Nile River and the Egyptian city of Canopus, a major port in the Nile Delta. The extant text describes the Nile's flooding, its role in fertilizing the land, and the geographical formation of the Canopic region. While the complete scope of the original work is unknown, its focus places it within the broader Greco-Roman tradition of geographical and paradoxographical writing on Egypt, reflecting a perennial fascination with the Nile's mysterious sources, its vital flooding cycle, and the notable cultural landmarks of its delta, such as the city of Canopus, which was renowned both as a religious center and a site of leisure.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Pseudo-Galen
 eul_wid: tqu-ab
 eul_aid: tqu
 canonical: "https://eulogikon.org/works/pseudo-galen-kidney-affections-tqu-ab"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Pseudo-Galen
 
 **eul_wid:** `tqu-ab` · [HTML page](https://eulogikon.org/works/pseudo-galen-kidney-affections-tqu-ab)
-
-_On the Diagnosis and Treatment of Affections Residing in the Kidneys_ is an anonymous Greek medical treatise focused on urology. Structured as a series of fifty-six brief passages, it provides a systematic and practical guide for diagnosing renal and urinary tract diseases. Diagnosis is based primarily on the interpretation of physical signs, with particular emphasis on the color, clarity, and sediment of a patient's urine, as well as the nature and location of pain. Following diagnosis, the work offers therapeutic recommendations that rely heavily on complex compound drugs, specific dietary regimens, and other interventions. The text is preserved within the manuscript tradition of the Galenic corpus, though it is spurious and not a work of Galen himself. Its standard modern edition appears in the _Corpus Medicorum Graecorum_. As a specialized practical handbook, the treatise illustrates the advanced level of specialization and the detailed pharmacological approaches characteristic of later ancient Greek medicine, providing valuable historical insight into antique urological theory and practice.
 
 ## Text
 

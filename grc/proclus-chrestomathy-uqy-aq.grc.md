@@ -5,6 +5,7 @@ author: Proclus the Successor
 eul_wid: uqy-aq
 eul_aid: uqy
 canonical: "https://eulogikon.org/works/proclus-chrestomathy-uqy-aq"
+lang: grc
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Proclus the Successor
 
 **eul_wid:** `uqy-aq` · [HTML page](https://eulogikon.org/works/proclus-chrestomathy-uqy-aq)
-
-The Chrestomathy, a work whose title signifies "useful learning," is a scholarly compendium authored in Attic Greek by the 5th-century Neoplatonic philosopher Proclus. Although Proclus is primarily renowned for his intricate metaphysical writings, this text functioned as a critical digest of earlier Greek epic poetry. Its most significant surviving contribution consists of detailed synopses of the poems belonging to the Epic Cycle, a collection of archaic epics that narrated the complete story of the Trojan War and its aftermath. These poems, including the Cypria and the Sack of Troy, are otherwise almost entirely lost to history. Beyond the Epic Cycle, the Chrestomathy also contained summaries of other epic poets and discussed various genres of epic poetry, showcasing a systematic and scholarly approach to literary history.
-
-The original work is not extant and is known only through indirect transmission via later excerpts. The most crucial source is the 9th-century patriarch Photius, who preserved substantial portions within his own review, the Bibliotheca. Additional fragments are found scattered throughout Byzantine lexicons and dictionaries. This mode of transmission renders the Chrestomathy a fragmentary yet indispensable source for classical scholarship. Modern researchers depend upon it as the foundational text for reconstructing the narratives of the non-Homeric epics surrounding the Trojan War. It is generally believed to have been composed for educational purposes within Proclus's philosophical school in Athens, reflecting the late antique tradition of preserving, summarizing, and systematizing classical knowledge for pedagogical use.
 
 ## Text
 

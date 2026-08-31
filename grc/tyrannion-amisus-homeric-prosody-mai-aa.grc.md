@@ -5,6 +5,7 @@ author: Tyrannion of Amisus
 eul_wid: mai-aa
 eul_aid: mai
 canonical: "https://eulogikon.org/works/tyrannion-amisus-homeric-prosody-mai-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Tyrannion of Amisus
 
 **eul_wid:** `mai-aa` · [HTML page](https://eulogikon.org/works/tyrannion-amisus-homeric-prosody-mai-aa)
-
-Fragments on Homeric Prosody is a lost grammatical treatise by the Hellenistic scholar Tyrannion of Amisus. The work survives only in sixty-one fragmentary passages, which are preserved through quotations in later grammatical texts and within the marginal commentaries, or scholia, on Homer. As its title suggests, the treatise was a technical analysis focused on the prosody of Homeric poetry, examining details of accentuation, pronunciation, and meter for a specialist audience. The extant fragments demonstrate a deep engagement with core themes of Alexandrian philology, including detailed linguistic analysis of Homeric verse, the application of grammatical rules to establish or defend specific textual readings, and the broader tradition of investigating Homeric problems. Composed in Rome during the late Republican period, the work reflects the intense Roman engagement with Greek scholarly traditions. While its direct influence is traceable primarily through these later citations, the fragments collectively exemplify the highly specialized grammatical scholarship that formed the foundation of ancient Homeric criticism and education.
 
 ## Text
 

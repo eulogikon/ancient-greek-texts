@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-bf
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-agesilaus-pompey-okg-bf"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-bf` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-agesilaus-pompey-okg-bf)
-
-The Comparison of Agesilaus and Pompey is a concise prose essay by the biographer Plutarch, composed in Attic Greek around 100–120 CE. It serves as the concluding section to his paired biographies of the Spartan king Agesilaus II and the Roman general Pompey the Great, forming an integral part of his larger work, Parallel Lives. The complete text is structured into sixteen succinct passages that systematically evaluate the two leaders across shared categories, including military command, political judgment, personal ambition, and moral character. Plutarch employs a framework contrasting virtue with fortune, analyzing the extent to which their successes and failures resulted from their own qualities versus external circumstances.
-
-Modern scholarship interprets this comparison as more than historical analysis; it functions as ethical instruction for a literate Greco-Roman audience, using these prominent figures to explore enduring themes of power, adaptability, and the limits of ambition. The pairing is considered particularly apt, as both commanders achieved immense fame and military success but also experienced significant political decline and ultimately died away from their homelands. As a component of the Parallel Lives, the essay has been transmitted through medieval Byzantine manuscripts alongside the main biographies. The work exemplifies Plutarch’s influential biographical method and his contribution to moral philosophy, demonstrating his technique of drawing cross-cultural lessons from historical exempla to illuminate universal human virtues and failings.
 
 ## Text
 

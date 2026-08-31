@@ -5,6 +5,7 @@ author: Alchemist I
 eul_wid: rrg-bi
 eul_aid: rrg
 canonical: "https://eulogikon.org/works/alchemist-i-oath-philosopher-rrg-bi"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alchemist I
 
 **eul_wid:** `rrg-bi` · [HTML page](https://eulogikon.org/works/alchemist-i-oath-philosopher-rrg-bi)
-
-The Oath of the Philosopher is a brief pseudepigraphical alchemical treatise attributed to the pseudonymous author known as Alchemist I. Preserved within the Byzantine manuscript tradition, most notably in the 10th- or 11th-century compilation Marcianus graecus 299, the text is structured as a solemn vow. It outlines the ethical and practical principles governing the practice of alchemy, framing the art as a sacred and spiritually transformative discipline. The oath emphasizes the imperative to conceal esoteric knowledge from the unworthy and underscores the necessity of moral virtue and ritual purity for the practitioner. It advocates for the guarded transmission of knowledge within a master-disciple relationship, treating alchemical work as a divine mystery revealed only to the initiated. As a representative piece of late antique Greco-Egyptian alchemical literature, the treatise exemplifies the para-technical ethical framework that blended practical craft with philosophical and spiritual speculation. Its core themes of secrecy, initiation, and moral qualification became influential tropes that were later absorbed and developed within the alchemical traditions of the Islamic world and medieval Europe.
 
 ## Text
 

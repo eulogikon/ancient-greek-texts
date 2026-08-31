@@ -5,6 +5,7 @@ author: Dio Cassius of Nicaea
 eul_wid: rhq-ac
 eul_aid: rhq
 canonical: "https://eulogikon.org/works/dio-cassius-nicaea-roman-histories-rhq-ac"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: History
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Dio Cassius of Nicaea
 
 **eul_wid:** `rhq-ac` · [HTML page](https://eulogikon.org/works/dio-cassius-nicaea-roman-histories-rhq-ac)
-
-The Roman Histories, Constantinian Excerpts with Dion's Words is a modern editorial compilation of selected passages from the Byzantine Excerpta Constantiniana, which themselves preserve fragments of the Roman History by the Greco-Roman historian Dio Cassius. Dio’s original work, composed in Greek during the early third century CE, was an ambitious eighty-book narrative covering Roman history from its mythical foundations to the author’s own time. Written from the perspective of a senator who participated in imperial governance, it provides a detailed analysis of Rome’s political institutions and the transition from republic to autocratic rule. The complete text is only partially extant, with substantial portions known through later epitomes and excerpt collections.
-
-The excerpts in this compilation derive from a tenth-century Byzantine project commissioned by Emperor Constantine VII Porphyrogennetos. His scholars systematically dismantled classical historical texts, including Dio’s, to create vast thematic anthologies intended for the moral and administrative education of the imperial bureaucracy. Passages were categorized under headings such as “On Virtues and Vices” or “On Embassies,” stripping them of their original narrative context to serve as standalone exempla. The excerpts referenced here, such as those noting Mark Antony’s enslavement to Cleopatra or the innate cowardice of Emperor Macrinus, are characteristic of this moralizing and utilitarian approach to history. As a collection, these fragments offer critical insights into both Dio’s historiographical method—which emphasized character and political analysis—and the Byzantine reception of classical texts, where historical detail was preserved primarily for its perceived instructional value in statecraft.
 
 ## Text
 

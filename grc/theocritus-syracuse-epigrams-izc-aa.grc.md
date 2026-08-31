@@ -5,6 +5,7 @@ author: Theocritus of Syracuse
 eul_wid: izc-aa
 eul_aid: izc
 canonical: "https://eulogikon.org/works/theocritus-syracuse-epigrams-izc-aa"
+lang: grc
 period: Hellenistic
 dialect: Doric Bucolic
 domain: Poetry
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Theocritus of Syracuse
 
 **eul_wid:** `izc-aa` · [HTML page](https://eulogikon.org/works/theocritus-syracuse-epigrams-izc-aa)
-
-The Epigrams are a collection of twenty-eight short Greek poems attributed to Theocritus of Syracuse, a principal poet of the third-century BCE Hellenistic period. While Theocritus is most celebrated for his pastoral Idylls, these Epigrams exemplify his mastery of a concise and distinct literary form. Composed primarily in elegiac couplets and the Doric Greek dialect, the poems engage with conventional epigrammatic subjects, including dedicatory verses for offerings to deities such as Pan and Dionysus, sepulchral inscriptions lamenting the dead, and display pieces exploring themes of love, mythology, and the poet's own artistic vocation.
-
-The collection survives not as an independent volume but as a constituent part of the later, expansive compilation known as the Greek Anthology, preserved in medieval manuscripts such as the tenth-century Palatine Anthology. This indirect transmission through an anthology complicates questions of authorship, rendering the authenticity of all twenty-eight poems uncertain. Modern scholarship generally regards a portion of them as genuine works of Theocritus, often identifying their vivid, frequently rustic imagery and thematic connections to his other poetry. Others within the group may be accomplished imitations or later misattributions that accrued to his renowned name. Composed as sophisticated literary exercises for a cultured readership, the Epigrams reflect the Hellenistic era's refined appreciation for brevity, polished wit, and concentrated emotional depth.
 
 ## Text
 

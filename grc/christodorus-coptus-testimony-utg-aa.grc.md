@@ -5,6 +5,7 @@ author: Christodorus of Coptus
 eul_wid: utg-aa
 eul_aid: utg
 canonical: "https://eulogikon.org/works/christodorus-coptus-testimony-utg-aa"
+lang: grc
 period: Late Antique
 dialect: Epic (Homeric)
 domain: Epic
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Christodorus of Coptus
 
 **eul_wid:** `utg-aa` · [HTML page](https://eulogikon.org/works/christodorus-coptus-testimony-utg-aa)
-
-The Testimony is a lost epic poem by the late antique Greek poet Christodorus of Coptus, who was active during the reign of Emperor Anastasius I in the early sixth century CE. The work is recorded in a tenth-century Byzantine encyclopedia, which notes it was composed in six books of Homeric-style verse. While the title translates to "witness" or "testimony," the poem's specific subject matter remains entirely unknown, as no fragments or quotations from it survive. Christodorus is better known for his preserved Ekphrasis on statues in Constantinople, and his other attested works suggest a focus on historical and classical themes. Based on this, scholars have speculated that the Testimony may have been a narrative epic, but its content, structure, and influence are otherwise a complete mystery, known only from a single bibliographic entry.
 
 ## Text
 

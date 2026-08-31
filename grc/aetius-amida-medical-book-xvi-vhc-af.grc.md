@@ -5,6 +5,7 @@ author: Aëtius of Amida
 eul_wid: vhc-af
 eul_aid: vhc
 canonical: "https://eulogikon.org/works/aetius-amida-medical-book-xvi-vhc-af"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aëtius of Amida
 
 **eul_wid:** `vhc-af` · [HTML page](https://eulogikon.org/works/aetius-amida-medical-book-xvi-vhc-af)
-
-Medical Book XVI constitutes the concluding volume of the Tetrabiblos, a comprehensive medical encyclopedia compiled in Greek by the 6th-century Byzantine physician Aëtius of Amida. This final book is a specialized compendium dedicated to women's and children's health, systematically presenting 179 chapters on gynecology, obstetrics, and pediatrics. Its scope encompasses female anatomy, fertility, pregnancy, childbirth, associated diseases, and the care of newborns. The work is not an original treatise but a meticulously organized synthesis of knowledge drawn from earlier Roman and Hellenistic authorities, most notably Soranus of Ephesus and Galen. Modern scholarship interprets it as a practical handbook intended for physicians, exemplifying the late antique tradition of preserving and systematizing classical medical learning. It is believed to have been composed in Constantinople, where Aëtius served in the court of Emperor Justinian I. The complete Tetrabiblos survives in numerous Greek manuscripts, attesting to its enduring utility through the Byzantine and Renaissance periods. Book XVI is preserved as an integral part of this corpus. Its detailed conservation of earlier gynecological and obstetric doctrines renders it a crucial source for understanding ancient medical traditions that might otherwise have been lost.
 
 ## Text
 

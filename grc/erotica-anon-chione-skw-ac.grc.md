@@ -5,6 +5,7 @@ author: Erotic Narrative Anonymous
 eul_wid: skw-ac
 eul_aid: skw
 canonical: "https://eulogikon.org/works/erotica-anon-chione-skw-ac"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: Fiction
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Erotic Narrative Anonymous
 
 **eul_wid:** `skw-ac` · [HTML page](https://eulogikon.org/works/erotica-anon-chione-skw-ac)
-
-_Chione_ is an anonymous ancient Greek prose narrative, an erotic story centered on its eponymous female character. The work is structured in three passages but remains unattested within standard catalogs, major digital libraries, and the principal reference works for classical texts. It has no known manuscript tradition or documented preservation history in scholarly sources. Its complete absence from the major repositories and encyclopedias of classical literature indicates that _Chione_ is either an exceedingly minor work or a fragment not covered by any extant references, rendering it an obscure text within the corpus of ancient Greek fiction.
 
 ## Text
 

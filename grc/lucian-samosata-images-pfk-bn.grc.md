@@ -5,6 +5,7 @@ author: Lucian of Samosata
 eul_wid: pfk-bn
 eul_aid: pfk
 canonical: "https://eulogikon.org/works/lucian-samosata-images-pfk-bn"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lucian of Samosata
 
 **eul_wid:** `pfk-bn` · [HTML page](https://eulogikon.org/works/lucian-samosata-images-pfk-bn)
-
-Images is an encomiastic oration composed in Attic Greek by the Syrian-born satirist Lucian of Samosata, dating to approximately 160–180 CE. The work, comprising thirty sections, presents a defense of the author's choice to compose a detailed verbal portrait, or ekphrasis, of a beautiful and learned married woman, traditionally identified as the mistress of the emperor Lucius Verus. Its introductory argument establishes the intellectual respectability and inherent superiority of literary description over visual arts such as painting and sculpture. The central portion of the oration delivers the portrait itself, constructing an idealized, composite figure through a series of comparisons between the woman's physical and intellectual attributes and those of various goddesses and mythological personages, including Aphrodite, Athena, and the Muses. A brief concluding section completes the speech, which is humorously complemented by a separate sequel, Defense of the 'Images'.
-
-A product of the Second Sophistic, a period marked by a revival of Greek rhetorical culture, the oration is a sophisticated display of epideictic oratory intended for an educated audience. Modern scholarship interprets it as a work of Lucianic irony that playfully yet seriously explores the rivalry between the arts, examines the ethical complexities involved in praising a living subject, and serves as a showcase of advanced rhetorical technique. The complete text survives intact through medieval manuscripts transmitting Lucian's collected works.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Appian of Alexandria
 eul_wid: pdc-aq
 eul_aid: pdc
 canonical: "https://eulogikon.org/works/appian-alexandria-libyan-pdc-aq"
+lang: grc
 period: Roman
 dialect: Koine
 domain: History
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Appian of Alexandria
 
 **eul_wid:** `pdc-aq` · [HTML page](https://eulogikon.org/works/appian-alexandria-libyan-pdc-aq)
-
-The Libyan, also known as the Libyca or Punica, constitutes the eighth book of the Roman History by Appian of Alexandria, composed in Greek during the middle of the second century CE. Organized according to Appian’s distinctive geographic principle, the book provides a continuous narrative of Rome’s three conflicts with Carthage, collectively known as the Punic Wars. While it covers the First and Second Punic Wars in a relatively summary fashion, its primary focus is a detailed, nearly annalistic account of the Third Punic War. This culminates in the protracted siege and ultimate annihilation of Carthage in 146 BCE, events to which Appian devotes the majority of his text. The work, comprising 534 sections in modern editions, opens with the legendary foundation of Carthage, including the tale of Dido and the ruse of the ox-hide, before systematically tracing the city’s rise and fatal rivalry with Rome.
-
-Appian, a Greek from Alexandria who attained high Roman office, wrote for an educated, Greek-speaking audience within the empire. His detailed portrayal of Carthage’s destruction is generally interpreted by modern scholars as a deliberate case study, intended to illustrate the mechanisms and perceived inevitability of Roman imperial expansion. The narrative consistently adopts a pro-Roman perspective, frequently recording the diplomatic justifications for war and emphasizing the stark consequences of defeat, including mass enslavement and the formal annexation of territory as the province of Africa.
-
-The text of the Libyan survives intact as part of the complete manuscript tradition of Appian’s history. It is preserved primarily in Byzantine codices, the most important being the eleventh-century Codex Vaticanus Graecus 141. Despite exhibiting certain biases and occasional chronological imprecisions, Appian’s Libyan remains an indispensable historical source, offering the most comprehensive surviving continuous narrative of the Third Punic War and providing crucial details about the final years of Carthage.
 
 ## Text
 

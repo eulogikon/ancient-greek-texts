@@ -5,6 +5,7 @@ author: Isocrates of Athens
 eul_wid: ffu-aj
 eul_aid: ffu
 canonical: "https://eulogikon.org/works/isocrates-athens-alexander-ffu-aj"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Isocrates of Athens
 
 **eul_wid:** `ffu-aj` · [HTML page](https://eulogikon.org/works/isocrates-athens-alexander-ffu-aj)
-
-To Alexander is a brief open letter composed around 342 BCE by the Athenian orator and teacher Isocrates. Addressed to the young prince Alexander, son of King Philip II of Macedon, it congratulates him on an Olympic victory and offers political and personal counsel. The work urges Alexander to cultivate his innate excellence through the study of philosophy and rhetoric, arguing that such an education would prepare him to become a wise leader worthy of his heroic lineage and capable of uniting the Greek states. Written near the end of Isocrates' long life during the ascendancy of Macedonian power, the letter is interpreted by modern scholars not as private correspondence but as a published epistolary oration intended for public circulation. It represents the culmination of Isocrates' enduring hope for Panhellenic unity under an enlightened Macedonian ruler, extending the political project he had earlier directed at Alexander's father, Philip. The text survives in full within Isocrates' reliably transmitted corpus. Though a minor work, it provides valuable insight into the educational ideals and political climate surrounding the youth of the future Alexander the Great.
 
 ## Text
 

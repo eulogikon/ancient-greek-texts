@@ -5,6 +5,7 @@ author: Simonides of Ceos
 eul_wid: big-ad
 eul_aid: big
 canonical: "https://eulogikon.org/works/simonides-ceos-testimony-big-ad"
+lang: grc
 period: Archaic
 dialect: Koine
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Simonides of Ceos
 
 **eul_wid:** `big-ad` · [HTML page](https://eulogikon.org/works/simonides-ceos-testimony-big-ad)
-
-Testimony is a short epigram attributed to the Greek lyric poet Simonides of Ceos, who was active from approximately 556 to 468 BCE. It is not a separate book but a modern designation for a concise poem that likely functioned as a commemorative record, perhaps for a monument, tomb, or dedication. Simonides was renowned for such poignant epigrams, often commissioned to memorialize events like battles or to honor the deceased, and his style typically blended the literary Doric and Ionic dialects common in choral lyric. Only fragments of his extensive work survive, with pieces like this one preserved through later quotations by ancient authors, inclusion in Byzantine anthologies, or occasional archaeological inscriptions. Modern scholarship views these epigrams as vehicles for immortalizing memory and virtue, reflecting on themes of human excellence, divine favor, and mortality. The transmission of such works is complex, as the authorship of individual epigrams is often uncertain due to the ancient practice of attributing anonymous verses to celebrated poets like Simonides.
 
 ## Text
 

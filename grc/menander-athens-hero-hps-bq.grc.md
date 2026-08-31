@@ -5,6 +5,7 @@ author: Menander of Athens
 eul_wid: hps-bq
 eul_aid: hps
 canonical: "https://eulogikon.org/works/menander-athens-hero-hps-bq"
+lang: grc
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Menander of Athens
 
 **eul_wid:** `hps-bq` · [HTML page](https://eulogikon.org/works/menander-athens-hero-hps-bq)
-
-_Hero_ is a lost comedy by the Athenian playwright Menander, composed in verse during the late 4th or early 3rd century BCE. As a representative work of New Comedy, it eschewed the political satire of earlier Athenian comedy in favor of universal domestic and romantic scenarios. The complete plot is unrecoverable, as the text survives only in approximately 116 fragments. These passages are not preserved in a continuous manuscript but are instead quotations embedded within the works of later Greek authors, who valued them for their aphoristic wit or moral sentiment.
-
-From these fragments and the established conventions of Menander’s oeuvre, scholars deduce that the play likely centered on characteristic themes such as romantic complications, familial strife, and cases of mistaken identity, often orchestrated or resolved by clever slaves. The narrative probably culminated in a fortunate discovery or recognition scene. The title _Hero_ is thought to refer to a deified ancestor or a protective spirit, a motif sometimes employed in New Comedy, which may have played a role in the plot’s resolution. Written during the Hellenistic period under Macedonian hegemony, the play was intended for performance at Athenian public festivals. Although the work itself exists only in pieces, Menander’s comedic style, transmitted and adapted by Roman playwrights Plautus and Terence, exerted a profound and lasting influence on the subsequent development of Western comic drama.
 
 ## Text
 

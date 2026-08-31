@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-ag
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-comparison-aristophanes-menander-okg-ag"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-ag` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-comparison-aristophanes-menander-okg-ag)
-
-The Epitome of Comparison of Aristophanes and Menander is a concise prose summary attributed to Plutarch of Chaeronea, preserving the core arguments of a longer, now-lost comparative essay on the two great Athenian comic playwrights. Transmitted fragmentarily within the medieval manuscript tradition of Plutarch's Moralia, the text structures its critique across ten distinct passages, systematically contrasting Aristophanes, the master of Old Comedy, with Menander, the leading figure of New Comedy. The epitome declares a clear preference for Menander on general principle, then proceeds to a detailed point-by-point analysis. It criticizes Aristophanes for a style deemed vulgar, theatrical, and crude, arguing that his reliance on rhetorical devices like antithesis, homoeoteleuton, and paronomasia is often excessive, inopportune, and frigid, appealing more to the uneducated than the cultivated reader. In contrast, Menander is praised for his refined and natural Attic diction.
-
-The comparison extends to character portrayal, contrasting Aristophanes' exaggerated, politically engaged caricatures with Menander's psychologically nuanced depictions of private individuals in realistic social situations. A central criterion is moral utility, evaluating the ethical value and educational usefulness inherent in each poet's body of work. This critique is framed within an understanding of their respective cultural contexts: Aristophanes is seen as a product of the robust, democratic public life of classical Athens, while Menander reflects the more private, cosmopolitan concerns of the Hellenistic period. Although preserved within the Plutarchan corpus, the work's direct authorship is debated by scholars, and it is often classified among the dubia or spuria. Nevertheless, its significance as a key document of ancient literary criticism is considerable. The epitome was instrumental in shaping later perceptions of the comic genres, cementing Aristophanes' reputation as a poet of formidable political wit and Menander's as a model of elegant, humane observation, and its comparative framework exerted a lasting influence on Byzantine and Renaissance scholarship.
 
 ## Text
 

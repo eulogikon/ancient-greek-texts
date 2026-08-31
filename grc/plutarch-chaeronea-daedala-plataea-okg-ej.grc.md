@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-ej
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-daedala-plataea-okg-ej"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-ej` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-daedala-plataea-okg-ej)
-
-_On the Daedala at Plataea_ is a lost antiquarian and religious treatise by Plutarch of Chaeronea. It concerned the Daedala, a Boeotian festival celebrated at Plataea that involved wooden images and a ritual dramatizing the reconciliation of Hera and Zeus. The work is listed in the ancient Lamprias Catalogue, but only two fragments survive, preserved by later Christian authors. One is quoted by Eusebius of Caesarea in his Praeparatio Evangelica, and the other by John Philoponus in his treatise Against Proclus on the Eternity of the World. These fragments indicate that Plutarch’s work combined a description of the local ritual with philosophical and theological speculation. The extant passages contain a critique of the Stoic conception of God as a corporeal being blended with matter, arguing instead for divine transcendence. They assert that God is not contained by space or material substance and employ the analogy of the soul’s relationship to the body to illustrate God’s fundamental separation from the cosmos. The fragments are significant for demonstrating Plutarch’s integration of detailed Boeotian antiquarianism with Middle Platonic philosophy. Their preservation by Christian writers underscores the value later theologians found in their arguments for an immaterial deity, contributing to the modern understanding of Plutarch’s intellectual range and the complex interplay between regional religious practice and philosophical discourse in the Imperial era.
 
 ## Text
 

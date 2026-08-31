@@ -5,6 +5,7 @@ author: Chamaeleon of Heraclea Pontica
 eul_wid: gww-aa
 eul_aid: gww
 canonical: "https://eulogikon.org/works/chamaeleon-heraclea-music-maxims-gww-aa"
+lang: grc
 period: Classical
 dialect: "Attic (phi, frg)"
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Chamaeleon of Heraclea Pontica
 
 **eul_wid:** `gww-aa` · [HTML page](https://eulogikon.org/works/chamaeleon-heraclea-music-maxims-gww-aa)
-
-The Fragments on Music and Maxims is a modern reconstruction of excerpts attributed to the Peripatetic philosopher Chamaeleon of Heraclea Pontica, a student of Aristotle active in the late fourth and early third centuries BCE. The original treatise is lost, and its contents are known only through quotations preserved by later authors, most notably the encyclopedist Athenaeus in his Deipnosophistae. The assembled fragments reflect two interconnected scholarly interests characteristic of early Hellenistic Peripatetic thought: the systematic study of music—a term encompassing poetry, melody, and performance—and the collection of proverbial wisdom from poets and sages. The musical discussions examine technical aspects such as modes and instruments, while also exploring the ethical power of music to educate character and soothe turbulent emotions. Alongside these analyses are investigations into the origins and meanings of famous maxims, including the Delphic injunction "know thyself," which Chamaeleon attributed to the sage Thales. As a whole, these fragments represent a scholarly effort to document and derive philosophical principles from the artistic and intellectual heritage of earlier Greek culture, serving both educational and ethical aims within the Aristotelian tradition.
 
 ## Text
 

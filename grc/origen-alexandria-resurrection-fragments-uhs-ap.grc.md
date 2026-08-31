@@ -5,6 +5,7 @@ author: Origen of Alexandria
 eul_wid: uhs-ap
 eul_aid: uhs
 canonical: "https://eulogikon.org/works/origen-alexandria-resurrection-fragments-uhs-ap"
+lang: grc
 period: Late Antique
 dialect: Christian Koine
 domain: Theology
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Origen of Alexandria
 
 **eul_wid:** `uhs-ap` · [HTML page](https://eulogikon.org/works/origen-alexandria-resurrection-fragments-uhs-ap)
-
-On the Resurrection is a theological treatise by the early Christian scholar Origen of Alexandria, composed in Koine Greek likely between approximately 218 and 230 CE. The original work, structured in two books, is now lost in its complete form. Its contents survive only through fragments and summaries preserved by later authors, both defenders and critics of Origen's thought. The treatise constituted a detailed apologetic defense of the Christian doctrine of the resurrection of the body, addressing objections from contemporary pagan philosophers and engaging with internal debates within the Christian community.
-
-The core of the work focused on explicating the nature of the resurrected body. Drawing upon scriptural passages such as the parable of Lazarus and the rich man and Paul's discourse in 1 Corinthians 15, Origen argued for a genuine resurrection and the continuity of personal identity. His nuanced position emphasized a transformation of the physical, corruptible body into a spiritual, incorruptible, and glorious form suited for eternal life. This interpretation, which sought to reconcile the concept of resurrection with philosophical notions of incorporeality, later proved highly controversial. Critics accused Origen of effectively denying a physical resurrection in favor of a purely spiritual one. Despite its fragmentary survival, the treatise was profoundly influential, rigorously articulating a key philosophical problem for Christian doctrine and helping to establish the framework for centuries of subsequent theological debate on the subject, ultimately contributing to the complex Origenist controversies of later centuries.
 
 ## Text
 

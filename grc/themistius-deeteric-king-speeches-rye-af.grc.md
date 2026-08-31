@@ -5,6 +5,7 @@ author: Themistius the Philosopher
 eul_wid: rye-af
 eul_aid: rye
 canonical: "https://eulogikon.org/works/themistius-deeteric-king-speeches-rye-af"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Themistius the Philosopher
 
 **eul_wid:** `rye-af` · [HTML page](https://eulogikon.org/works/themistius-deeteric-king-speeches-rye-af)
-
-The Deceteric or On Appropriate Speeches to the King is a political oration by the fourth-century philosopher and statesman Themistius. Composed in Attic Greek and delivered around 368–369 CE for Emperor Valens on the tenth anniversary of his rule, the work is a philosophical panegyric that artfully blends encomium with direct counsel. Its central thesis posits that genuine kingship requires the guiding principles of philosophy, arguing that just as certain material adornments are reserved solely for the emperor, so too are specific forms of speech—those of philosophical truth and virtuous advice—uniquely appropriate for the sovereign. The oration makes a notable plea for imperial mercy and clemency, a theme widely interpreted as a direct response to the severe punishments meted out following the conspiracy of Theodorus.
-
-Surviving in its entirety within Themistius’s collected works, where it is conventionally numbered as Oration 8, the speech unfolds across 43 distinct passages. Modern scholarship views it as a strategic diplomatic document. Themistius, a leading pagan intellectual, sought to bridge the divide between the Christian imperial court and the traditional educated elite of the empire. The oration defends the indispensable utility of philosophy and philosophical rhetoric in the art of governance, while simultaneously aiming to shield his fellow intellectuals from further political persecution. As such, it stands as a crucial text for understanding the adaptation and persistence of classical philosophical ideals within the evolving political and religious landscape of the late Roman Empire.
 
 ## Text
 

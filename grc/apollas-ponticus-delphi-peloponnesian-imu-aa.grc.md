@@ -5,6 +5,7 @@ author: Apollas Ponticus
 eul_wid: imu-aa
 eul_aid: imu
 canonical: "https://eulogikon.org/works/apollas-ponticus-delphi-peloponnesian-imu-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Apollas Ponticus
 
 **eul_wid:** `imu-aa` · [HTML page](https://eulogikon.org/works/apollas-ponticus-delphi-peloponnesian-imu-aa)
-
-The work On Delphi and Peloponnesian Cities is a lost historical treatise attributed to the Hellenistic author Apollas Ponticus. Its existence is recorded solely in the tenth-century Byzantine encyclopedia known as the Suda, which lists it among his writings. No direct quotations, fragments, or manuscripts of the text survive. Based on its title and the antiquarian interests typical of the period, the work likely compiled local histories, traditions, and religious customs. It would have encompassed foundation myths of Peloponnesian cities, details of religious rituals and oracular traditions associated with Delphi, and regional heroic genealogies and geography. The treatise exemplifies the Hellenistic scholarly practice of systematizing local lore, and its loss, while typical for this genre of writing, attests to the breadth of antiquarian research that informed later geographical and historical compilations.
 
 ## Text
 

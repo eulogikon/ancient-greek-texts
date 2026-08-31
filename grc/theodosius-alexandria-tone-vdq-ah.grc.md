@@ -1,10 +1,11 @@
 ---
 title: On Tone
 title_greek: Περὶ τόνου
-author: "Theodosius of Alexandria "
+author: Theodosius of Alexandria
 eul_wid: vdq-ah
 eul_aid: vdq
 canonical: "https://eulogikon.org/works/theodosius-alexandria-tone-vdq-ah"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Grammar
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Περὶ τόνου*
 
-**Author:** Theodosius of Alexandria 
+**Author:** Theodosius of Alexandria
 
 **eul_wid:** `vdq-ah` · [HTML page](https://eulogikon.org/works/theodosius-alexandria-tone-vdq-ah)
-
-On Tone is a grammatical treatise by the 4th-century CE Alexandrian grammarian Theodosius. A specialized work focusing on the rules of Greek accentuation, it is distinct from his more comprehensive and influential textbook, the Canons, which systematically detailed Greek inflection. The treatise exemplifies the methodical, pedagogical approach characteristic of late antique grammatical scholarship, providing specific rules and examples for accent placement. Extant through the Byzantine manuscript tradition, the work was preserved alongside other grammatical texts. While the specific manuscript history of On Tone is less documented, Theodosius's grammatical works collectively were copied and studied for centuries. His writings, particularly the Canons, became standard educational texts in the Byzantine world. Within this framework, On Tone contributed to the detailed study of Greek prosody, supporting the preservation and systematic teaching of the language's accentual system.
 
 ## Text
 

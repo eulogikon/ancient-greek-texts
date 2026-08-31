@@ -5,6 +5,7 @@ author: Akesandros the Historian
 eul_wid: nhu-ab
 eul_aid: nhu
 canonical: "https://eulogikon.org/works/akesandros-cyrenean-myths-nhu-ab"
+lang: grc
 period: Hellenistic
 dialect: Koine (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Akesandros the Historian
 
 **eul_wid:** `nhu-ab` · [HTML page](https://eulogikon.org/works/akesandros-cyrenean-myths-nhu-ab)
-
-The work known as the Fragments on Cyrenean Myths is a lost text by the historian Akesandros, surviving only in two brief excerpts preserved by later authors. These fragments deal with mythological figures connected to the foundation and early history of the Greek colony of Cyrene in North Africa. The first fragment, preserved by Pseudo-Plutarch in his work On Rivers, discusses the river Lathon and provides a mythological explanation for its name. The second fragment, transmitted by the grammarian Herodian, concerns the nymph Cyrene, the city's eponymous heroine, and engages with the genealogical lore central to the colony's identity. The text is a representative example of Hellenistic local history and mythography, focusing on etiological narratives tied to Cyrene's origins and its physical landscape. As a source for specifically Cyrenean legends, Akesandros's work was consulted by later antiquarians and mythographers. The surviving fragments are now primarily valuable to scholars for studying the construction of local civic identity in the Hellenistic world and the complex interplay between local traditions and the broader corpus of Panhellenic myth.
 
 ## Text
 

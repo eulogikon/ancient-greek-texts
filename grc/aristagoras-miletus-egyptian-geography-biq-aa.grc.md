@@ -5,6 +5,7 @@ author: Aristagoras the Tyrant of Miletus
 eul_wid: biq-aa
 eul_aid: biq
 canonical: "https://eulogikon.org/works/aristagoras-miletus-egyptian-geography-biq-aa"
+lang: grc
 period: Archaic
 dialect: Ionic
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristagoras the Tyrant of Miletus
 
 **eul_wid:** `biq-aa` · [HTML page](https://eulogikon.org/works/aristagoras-miletus-egyptian-geography-biq-aa)
-
-The Egyptian Geographical Fragments is a prose work attributed to Aristagoras, the tyrant of Miletus who instigated the Ionian Revolt against Persia in 499 BCE. This attribution is historically problematic, as no contemporary sources record Aristagoras as an author, and he is known solely for his political and military actions. The work survives only in nine brief passages cited by later authors, primarily the geographer Stephanus of Byzantium. These fragments suggest a focus on the topography and ethnography of Egypt and its border regions, mentioning specific locations such as the village of Takompsos on the frontier with Ethiopia and the districts within Memphis known as the Hellenikon and Karikon. One fragment offers an etymological explanation for the name of a city called Gynaikopolis. The work's transmission is obscure, with no surviving manuscript tradition or clear documentation of the sources from which the excerpts were drawn. Its significance lies almost entirely in the question of its authorship; if genuine, it would represent an unexpected literary dimension to a figure otherwise documented exclusively as a political actor. As it stands, the work remains a minor bibliographical curiosity, unattested in the main streams of ancient geographical or historical writing.
 
 ## Text
 

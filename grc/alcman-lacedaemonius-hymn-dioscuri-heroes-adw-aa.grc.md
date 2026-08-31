@@ -5,6 +5,7 @@ author: Alcman Lacedaemonius
 eul_wid: adw-aa
 eul_aid: adw
 canonical: "https://eulogikon.org/works/alcman-lacedaemonius-hymn-dioscuri-heroes-adw-aa"
+lang: grc
 period: Archaic
 dialect: Doric
 domain: Poetry
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alcman Lacedaemonius
 
 **eul_wid:** `adw-aa` · [HTML page](https://eulogikon.org/works/alcman-lacedaemonius-hymn-dioscuri-heroes-adw-aa)
-
-The Hymn to the Dioscuri and Heroes is a modern collective title for the fragmentary remains of poetry by Alcman, a choral lyric poet of seventh-century BCE Sparta. The corpus consists of 329 excerpts, traditionally referred to as Apospásmata, which represent the surviving evidence of his work. Composed in the Doric dialect for musical performance by choruses at public festivals, these fragments encompass a variety of genres and themes. They include hymns to deities, most notably the Spartan hero-gods Castor and Polydeuces, the Dioscuri, as well as mythological narratives, vivid depictions of the natural world, and meditations on beauty, desire, and mortality.
-
-The fragments survive indirectly through quotations in later ancient authors, grammatical scholia, and papyrus discoveries in Egypt. A particularly significant papyrus contains a substantial portion of a Partheneion, or maiden-song, which, while not the hymn to the Dioscuri per se, is instrumental for understanding Alcman’s poetic technique and performative context. Scholarly interpretation positions this poetry within the framework of Spartan religious and civic ritual, where it functioned to honor the gods and solidify communal identity during a formative period in the city-state’s history. As the earliest known practitioner of choral lyric, Alcman’s fragments provide an invaluable window into early Spartan culture and the performance traditions of archaic Greek poetry.
 
 ## Text
 
@@ -870,9 +867,13 @@ The fragments survive indirectly through quotations in later ancient authors, gr
 
 πολλοῖς ἥμενος μάκαρς ἀνήρ οὐκ ἦς ἀνὴρ ἀγρεῖος οὐ‐ [para]δὲ σκαιὸς οὐδὲ παρὰ σοφοῖ‐ [para]σιν οὐδὲ Θεσσαλὸς γένος, Ἐρυσιχαῖος οὐδὲ ποιμήν,[ln_5]ἀλλὰ Σαρδίων ἀπ’ ἀκρᾶν καί ποκά τοι δώσω
 
+*[crux: παρὰ σοφοῖ‐ [para]σιν]*
+
 ### book 1.3
 
 τρίποδος κύτος ὦκἐνιλεα Γειρης ἀλλ’ ἔτι νῦν γ’ ἄπυρος, τάχα δὲ πλέος ἔτνεος, οἷον ὁ παμφάγος Ἀλκμὰν[ln_5]ἠράσθη
+
+*[crux: ὦκἐνιλεα Γειρης]*
 
 ### book 1.4
 
@@ -885,6 +886,8 @@ The fragments survive indirectly through quotations in later ancient authors, gr
 ### book 1.6
 
 τροπάς· οὔτι γὰρ οὐ τετυμμένον ἔσθει, ἀλλὰ τὰ κοινὰ γάρ, ὥπερ ὁ δᾶμος, ζατεύει κλίναι μὲν ἑπτὰ καὶ τόσαι
+
+*[crux: οὐ τετυμμένον]*
 
 ### book 1.7
 
@@ -901,6 +904,8 @@ The fragments survive indirectly through quotations in later ancient authors, gr
 ### book 1.10
 
 πελίχναις πεδεστε χρυσοκόλλα.
+
+*[crux: πεδεστε]*
 
 ### book 1.1
 
@@ -965,6 +970,8 @@ The fragments survive indirectly through quotations in later ancient authors, gr
 ### book 1.5
 
 Φοῖβον ὄνειρον εἶδον ἐμὲ Λατοΐδα τέο δ’ αχοσχορον πρόσθ’ Ἀπόλλωνος Λυκήω
+
+*[crux: δ’ αχοσχορον]*
 
 ### book a
 
@@ -1042,9 +1049,13 @@ The fragments survive indirectly through quotations in later ancient authors, gr
 
 τε, Εὐνομίας 〈τε〉 καὶ Πειθῶς ἀδελφὰ καὶ Προμαθήας θυγάτηρ οἵεθεν πάλως ἔπαλε δαιμονάς τ’ ἐδάσσατο· δουρὶ δὲ ξυστῶι μέμανεν Αἶας αἱματῆι
 
+*[crux: οἵεθεν]*
+
 ### book 1.6
 
 τε Μέμνων. με δ’ αὖτε φαίδιμος Αἴας
+
+*[crux: με δ’ αὖτε]*
 
 ### book a
 
@@ -1061,6 +1072,10 @@ The fragments survive indirectly through quotations in later ancient authors, gr
 ### book 1.1
 
 ὁπότε ὑπὸ τοῦ Ἱππολόχου κλέος δ’ ἔβαλλον οὐ νῦν ὑπεστάντων ἦσκέ τις Καφεὺς ϝανάσσων· Δύσπαρις Αἰνόπαρις κακὸν Ἑλλάδι βωτιανείραι. Περίηρς· ὅπως ἀνὴρ δ’ ἐν ἀσμένοισιν ἀλιτηρὸς ἧστ’ ἐπὶ θάκας κατὰ πέτρας ὁρέων μὲν οὐδὲν δοκέων δέ καί ποκ’ Ὀδυσσῆος
+
+*[crux: ὁπότε ὑπὸ τοῦ Ἱππολόχου κλέος δ’ ἔβαλλον οὐ νῦν ὑπεστάντων]*
+
+*[crux: ὅπως ἀνὴρ δ’ ἐν ἀσμένοισιν ἀλιτηρὸς ἧστ’ ἐπὶ θάκας κατὰ πέτρας ὁρέων μὲν οὐδὲν δοκέων δέ]*
 
 ### book 1.2
 
@@ -1081,6 +1096,8 @@ The fragments survive indirectly through quotations in later ancient authors, gr
 ### book b
 
 σφεὰ δὲ ποτὶ γούνατα πίπτω
+
+*[crux: ποτὶ]*
 
 ### book 1
 
@@ -1109,6 +1126,8 @@ The fragments survive indirectly through quotations in later ancient authors, gr
 ### book e
 
 ἄρχοι μὲν γὰρ κοθρασιων
+
+*[crux: κοθρασιων]*
 
 ### book 1.1
 
@@ -1162,9 +1181,13 @@ The fragments survive indirectly through quotations in later ancient authors, gr
 
 οἶνον δ’ Οἰνουντιάδα ἢ Δένθιν ἢ Καρύστιον ἢ Ὄνογλιν ἢ Σταθμίταν
 
+*[crux: οἶνον δ’ Οἰνουντιάδα ἢ Δένθιν ἢ Καρύστιον ἢ Ὄνογλιν ἢ Σταθμίταν]*
+
 ### book 1.1
 
 καὶ ποικίλον ἶκα τὸν ὀφθαλμῶν ἀμπέλων ὀλετῆρα. θριδακίσκας
+
+*[crux: ἀμπέλων]*
 
 ### book 1.2
 
@@ -1210,21 +1233,39 @@ The fragments survive indirectly through quotations in later ancient authors, gr
 
 παιᾶνα κατάρχην. μεῖον ἢ κοδύμαλον. μάγαδιν δ’ ἀποθέσθαι λεπτὰ δ’ ἀταρπὸς ἀνηλὴς δ’ ἀνάγκα, τὰ ϝὰ κάδεα τίς ἂν τίς
 
+*[crux: ἀνηλὴς]*
+
+*[crux: δ’]*
+
+*[crux: τίς]*
+
 ### book 1.8
 
 ποκα ῥὰι ἄλλα νόον ἀνδρὸς ἐπίσποι νικῶι δ’ ὁ κάρρων. ϝείπατέ μοι τάδε φῦλα βροτήσια. Πολλαλέγων ὄνυμ’ ἀνδρί, γυναικὶ δὲ Πασιχάρηα.
+
+*[crux: νικῶι]*
 
 ### book 1.1
 
 ἁλμυρὸν τὸ γειτόνημα. Σάμβας καὶ Ἄδων καὶ Τῆλος, οἶκας μὲν ὡραίωι λίνωι, ἀβάλε καὶ νοέοντα· ταυσία
 
+*[crux: ταυσία]*
+
 ### book 1.2
 
 παλλακίω. μελισκόνα τὸν ἀμόρη καὶ Κέρκυρος ἁγήται, ὅκκα δὴ γυνὰ εἴην ἔχει μ’ ἄχος ὦ ὀλὲ δαῖμον. λᾶδος ϝημένα καλόν, ἔστι
 
+*[crux: μελισκόνα]*
+
+*[crux: καὶ]*
+
 ### book 1.3
 
 παρέντων μνᾶστιν ἐπιθέσθαι, ταῦτα μὲν ὥς κεν ὁ δᾶμος ἅπας τῶι δὲ σηομυνθια κατ’ αν κάρραν μάβως ἐπίαζε καὶ χεῖμα πῦρ
+
+*[crux: ἐπιθέσθαι]*
+
+*[crux: σηομυνθια κατ’ αν κάρραν μάβως]*
 
 ### book 1.4
 
@@ -1234,6 +1275,8 @@ The fragments survive indirectly through quotations in later ancient authors, gr
 
 τῶ ἐν Θεσσαλίωι κλήτει μέγα γείτονι γείτων. πάρ τ’ ἱαρὸν
 
+*[crux: τῶ ἐν]*
+
 ### book 1.2
 
 σκόπελον
@@ -1241,6 +1284,8 @@ The fragments survive indirectly through quotations in later ancient authors, gr
 ### book 1.3
 
 παρά τε Ψύρα ⟦τὸν Διόνυσον ἄγοντες,⟧ πῆρά τοι μαθήσιος ἀρχά. Φρύγιον αὔλησε μέλος τὸ Κερβήσιον, ἀάνθα· ἀγίσδεο αὐτὸν ἀγᾶ, γέργυρα γέρρον· δοάν δόρκον ζάτραφα ϝαδυμέστατον ἠτί κ(αὶ) δ’ αὖ με .[ καρχάραισι
+
+*[crux: ἀγᾶ,]*
 
 ### book 1.4
 

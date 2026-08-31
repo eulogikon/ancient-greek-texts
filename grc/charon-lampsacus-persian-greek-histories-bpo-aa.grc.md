@@ -5,6 +5,7 @@ author: Charon of Lampsacus
 eul_wid: bpo-aa
 eul_aid: bpo
 canonical: "https://eulogikon.org/works/charon-lampsacus-persian-greek-histories-bpo-aa"
+lang: grc
 period: Archaic
 dialect: Ionic (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Charon of Lampsacus
 
 **eul_wid:** `bpo-aa` · [HTML page](https://eulogikon.org/works/charon-lampsacus-persian-greek-histories-bpo-aa)
-
-The Persian and Greek Histories is a fragmentary work of early Greek historiography attributed to Charon of Lampsacus, a near-contemporary of Herodotus active in the fifth century BCE. Written in Ionic Greek prose, it belongs to the genre of local history and originally covered a range of topics concerning Persian history, royal biographies, and the conflicts and interactions between Persia and the Greek world. As a writer from a Greek city within the Persian sphere of influence, Charon provided a distinctive early perspective on these events for a Greek audience. The work does not survive as a complete text but is known only through approximately fifteen fragments—quotations and references preserved by later authors such as Plutarch and Strabo. The title itself, which translates as "Extracts" or "Selections," suggests it may have been circulated in antiquity primarily as excerpts. These surviving passages indicate the work included themes of Persian customs, stories of Greek city foundations in Asia Minor, and accounts of the Greco-Persian Wars, offering a valuable, if limited, glimpse into pre-Herodotean historical writing.
 
 ## Text
 

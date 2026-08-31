@@ -5,6 +5,7 @@ author: Philon of Byblos
 eul_wid: oow-aa
 eul_aid: oow
 canonical: "https://eulogikon.org/works/philon-byblos-proper-expression-oow-aa"
+lang: grc
 period: Roman
 dialect: Koine (frg)
 domain: Grammar
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philon of Byblos
 
 **eul_wid:** `oow-aa` · [HTML page](https://eulogikon.org/works/philon-byblos-proper-expression-oow-aa)
-
-On Proper Expression, an epitome circulating under the name Herennius Philo, is a lost grammatical treatise attributed to Philon of Byblos, a grammarian and historian active during the early Roman Imperial period, approximately from 64 to 141 CE. Composed in Koine Greek, this work functioned as a concise summary dedicated to the principle of kyriolexia, or the correct and literal use of words. It served as a practical manual for writers and orators, firmly situated within the Atticist movement that advocated for a return to the classical vocabulary and style of fifth- and fourth-century BCE Athenian Greek.
-
-The original text does not survive, and our knowledge of it derives entirely from later quotations and references in other authors. These fragments indicate the epitome was organized into twenty-five sections. Under his Romanized name, Herennius Philo, the author produced a range of scholarly works, and this particular text was evidently intended for an educated audience immersed in the literary culture of the Greek-speaking world. The surviving excerpts illustrate its content, offering precise distinctions in word usage, such as differentiating the cries of various animals, clarifying correct verb forms, and explaining the proper application of terms like "Sicel" for an indigenous inhabitant of Sicily versus "Siceliote" for a Greek colonist. Modern scholarship interprets the work as a significant contribution to the lexicographical tradition, playing a role in standardizing the instruction and preservation of the Greek language throughout the Roman and later Byzantine periods.
 
 ## Text
 

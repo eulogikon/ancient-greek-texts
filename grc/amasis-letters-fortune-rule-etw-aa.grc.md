@@ -5,6 +5,7 @@ author: Amasis Letters
 eul_wid: etw-aa
 eul_aid: etw
 canonical: "https://eulogikon.org/works/amasis-letters-fortune-rule-etw-aa"
+lang: grc
 period: Classical
 dialect: Koine
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Amasis Letters
 
 **eul_wid:** `etw-aa` · [HTML page](https://eulogikon.org/works/amasis-letters-fortune-rule-etw-aa)
-
-The work known as Amasis on Fortune and Rule is a pseudepigraphical text attributed to the 26th Dynasty Egyptian pharaoh Amasis. It survives only in two brief fragments quoted by the 6th-century CE Byzantine historian John the Lydian in his antiquarian treatise De magistratibus. Presented as excerpts from letters, one fragment offers a meditation on the inconstant and potentially envious nature of divine fortune, advising the recipient to deliberately sacrifice a valued possession to avert future catastrophe. The other fragment presents a king seeking counsel on a matter of statecraft. Modern scholarship considers these letters a Hellenistic or later fabrication, part of a broader literary tradition that ascribed political and philosophical wisdom to legendary Eastern rulers as a means of authorizing common Greco-Roman ethical themes. The work has no independent manuscript tradition and is transmitted solely through its incidental preservation in John the Lydian's text. While its direct influence is untraceable, the fragments exemplify the pseudepigraphical attribution of political advice to ancient monarchs, a practice that helped transmit and legitimize Hellenistic ideas about fortune and kingship into the Roman and Byzantine periods, as evidenced by John the Lydian's reuse of the material for his own bureaucratic context.
 
 ## Text
 

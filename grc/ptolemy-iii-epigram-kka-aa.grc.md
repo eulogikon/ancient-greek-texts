@@ -5,6 +5,7 @@ author: Ptolemy III Euergetes King of Egypt
 eul_wid: kka-aa
 eul_aid: kka
 canonical: "https://eulogikon.org/works/ptolemy-iii-epigram-kka-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Ptolemy III Euergetes King of Egypt
 
 **eul_wid:** `kka-aa` · [HTML page](https://eulogikon.org/works/ptolemy-iii-epigram-kka-aa)
-
-The dedicatory epigram attributed to Ptolemy III Euergetes, a Hellenistic king of Egypt who reigned from 246 to 222 BCE, is a short poem composed in Greek elegiac couplets. It celebrates the king’s military achievements during the Third Syrian War, adopting the royal voice to enumerate the extensive territories conquered, which spanned from Asia Minor to Mesopotamia. The poem concludes with a formal dedication of the spoils to the gods, thereby intertwining assertions of political power with demonstrations of piety. The work survives only as a fragmentary inscription, preserved not through medieval manuscript tradition but as an archaeological artifact. Its primary text derives from a damaged marble stele originally discovered at Adulis and later transcribed by a sixth-century traveler. Modern scholarship interprets the epigram as a sophisticated instrument of royal propaganda, designed for public display, likely at a major temple, to broadcast the king’s military prowess, divine sanction, and the vast extent of his empire to both his subjects and rival states.
 
 ## Text
 

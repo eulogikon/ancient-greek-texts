@@ -5,6 +5,7 @@ author: Pancrates of Egypt
 eul_wid: pge-aa
 eul_aid: pge
 canonical: "https://eulogikon.org/works/pancrates-egypt-antinous-hadrian-pge-aa"
+lang: grc
 period: Roman
 dialect: Epic (Homeric)
 domain: Epic
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Pancrates of Egypt
 
 **eul_wid:** `pge-aa` · [HTML page](https://eulogikon.org/works/pancrates-egypt-antinous-hadrian-pge-aa)
-
-The Fragments on Antinous and Hadrian constitute the surviving portions of an epic poem composed in Greek dactylic hexameter by Pancrates, an Egyptian poet and priest, during the reign of the Roman Emperor Hadrian, likely between 130 and 138 CE. The work was crafted as a panegyric to honor Hadrian and his beloved companion, Antinous, whose death in 130 CE profoundly affected the emperor. The narrative centers on a legendary hunting expedition in the Libyan desert, where Hadrian and Antinous confront a formidable lion. In a pivotal miraculous event, interpreted within the poem as a divine sign from the god Poseidon, the lion is transformed into a magnificent fish, which Antinous then spears. This blending of historical framework with mythological metamorphosis served to glorify the imperial patrons, contributing to the early deification of Antinous and the promotion of his cult.
-
-The complete poem is lost; modern knowledge of it derives entirely from 31 fragmentary passages preserved through quotation by the later author Athenaeus in his work The Learned Banqueters. These excerpts primarily describe the dramatic hunt and the ensuing transformation. Scholars interpret the fragments as a deliberate political encomium, employing the formal diction and heroic conventions of Homeric epic to elevate Hadrian's reign, mythologize the circumstances of Antinous's death, and provide a foundational narrative supporting the establishment of the city Antinoöpolis.
 
 ## Text
 

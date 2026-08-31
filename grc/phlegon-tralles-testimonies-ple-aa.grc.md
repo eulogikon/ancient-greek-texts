@@ -5,6 +5,7 @@ author: Phlegon of Tralles
 eul_wid: ple-aa
 eul_aid: ple
 canonical: "https://eulogikon.org/works/phlegon-tralles-testimonies-ple-aa"
+lang: grc
 period: Roman
 dialect: Koine
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Phlegon of Tralles
 
 **eul_wid:** `ple-aa` · [HTML page](https://eulogikon.org/works/phlegon-tralles-testimonies-ple-aa)
-
-The Testimonies is a paradoxographical work compiled in the second century CE by Phlegon of Tralles, a freedman of the emperor Hadrian. Written in Koine Greek, the collection consists of brief accounts documenting extraordinary and supernatural events, including reports of ghosts, monstrous births, and other marvels presented as factual witness testimonies. The work exemplifies a popular literary genre of the period that catered to Roman elite interest in historical curiosities and the boundaries of the natural world. As an imperial freedman, Phlegon likely had access to extensive archives and libraries, which he mined for these sensational anecdotes. The original text does not survive intact; knowledge of it derives from four fragmentary passages preserved through citations by later authors and medieval anthologies. These fragments indicate a work that blended folklore with a pseudo-historical framework, aiming to record and authenticate the bizarre within a documented past.
 
 ## Text
 

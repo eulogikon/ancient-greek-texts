@@ -5,6 +5,7 @@ author: Pancrates of Arcadia
 eul_wid: jqu-ab
 eul_aid: jqu
 canonical: "https://eulogikon.org/works/pancrates-arcadia-epigrams-jqu-ab"
+lang: grc
 period: Hellenistic
 dialect: Epic (Homeric) (frg)
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Pancrates of Arcadia
 
 **eul_wid:** `jqu-ab` · [HTML page](https://eulogikon.org/works/pancrates-arcadia-epigrams-jqu-ab)
-
-The Epigrams of Pancrates of Arcadia constitute a collection of twelve short poems preserved within the Greek Anthology. Attributed to Pancrates in the manuscript headings, they are considered Hellenistic in date based on their style and content. The poems are concise, polished examples of the literary epigram, exhibiting the learned and allusive style characteristic of the period. They cover typical Hellenistic themes, including erotic desire addressed to male youths, dedicatory verse for a statue of the lyric poet Anacreon, playful observation of a cicada, and sepulchral commemoration for a man named Chairippus. The poems survive exclusively within the anthological tradition, primarily in the tenth-century Palatine Anthology and the later Planudean Anthology, with no independent manuscript tradition; their preservation is due entirely to the editorial choices of later Byzantine compilers. As a minor figure, Pancrates's direct influence is untraceable, but his work contributes to the collective body of Hellenistic epigrammatic poetry. Preserved in the Greek Anthology, his epigrams helped transmit Hellenistic poetic sensibilities to Byzantine and later European Renaissance audiences.
 
 ## Text
 

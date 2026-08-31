@@ -5,6 +5,7 @@ author: Crates the Comic Poet
 eul_wid: dac-ad
 eul_aid: dac
 canonical: "https://eulogikon.org/works/crates-comic-eratosthenes-fragments-dac-ad"
+lang: grc
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Crates the Comic Poet
 
 **eul_wid:** `dac-ad` · [HTML page](https://eulogikon.org/works/crates-comic-eratosthenes-fragments-dac-ad)
-
-The Fragments on Eratosthenes consist of two brief passages from an Old Comedy play by the Athenian poet Crates, who was active during the mid-to-late fifth century BCE. Preserved in Attic Greek verse, these excerpts are quoted by the later scholar Athenaeus in his work Deipnosophistae; no manuscript of the original play survives. The fragments employ personal invective to mock a figure named Eratosthenes, almost certainly the Athenian general and oligarch Eratosthenes of Oe. This politician participated in the oligarchic regime of the Four Hundred in 411 BCE and was later prosecuted for murder, placing the comedy within the politically charged atmosphere of the Peloponnesian War. The work exemplifies how festival comedy used satire to entertain audiences while commenting on contemporary public figures and events. Although these fragments showcase traditional personal mockery, ancient testimonies regard Crates as a significant transitional figure in the evolution of Athenian comedy, crediting him with developing more coherent, universal plots and moving the genre toward structured narrative.
 
 ## Text
 

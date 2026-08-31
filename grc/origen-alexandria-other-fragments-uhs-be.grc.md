@@ -5,6 +5,7 @@ author: Origen of Alexandria
 eul_wid: uhs-be
 eul_aid: uhs
 canonical: "https://eulogikon.org/works/origen-alexandria-other-fragments-uhs-be"
+lang: grc
 period: Late Antique
 dialect: Christian Koine
 domain: Theology
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Origen of Alexandria
 
 **eul_wid:** `uhs-be` · [HTML page](https://eulogikon.org/works/origen-alexandria-other-fragments-uhs-be)
-
-The entry "Other Fragments-Principles" refers to Greek fragments attributed to Origen of Alexandria's foundational treatise, On First Principles. Composed in Alexandria between 220 and 230 CE, this systematic work aimed to establish a coherent rule of faith and philosophical framework for Christian doctrine. The original Greek text is lost, surviving primarily through later translations and excerpts; these "Other Fragments" constitute Greek passages preserved in anthologies, catenae, or patristic writings outside the major transmitted versions. The fragments address the treatise's core themes, including the apostolic rule of faith as a doctrinal foundation, a threefold method of scriptural interpretation encompassing literal, moral, and allegorical senses, and the nature of God, Christ as the Logos, and the Holy Spirit. They also engage with cosmology, the pre-existence of souls, and the ultimate restoration of all rational beings, a doctrine known as apokatastasis, alongside the central role of free will in creation and the problem of evil.
-
-The original Greek survives only fragmentarily. Primary transmission relies on a controversial Latin translation by Rufinus of Aquileia, produced around 397 CE, which altered problematic passages, and a more literal, fragmentary translation by Jerome. Greek excerpts are preserved in the fourth-century anthology known as the Philocalia and in later compilations, the category to which these "Other Fragments" belong. On First Principles was the first comprehensive attempt to systematize Christian theology using philosophical tools, profoundly shaping subsequent doctrinal debate and biblical exegesis. Its speculative teachings on universal restoration were formally condemned in 553 CE, but its influence persisted through later theologians such as Evagrius Ponticus, and it remains a central text for understanding the development of early Christian thought.
 
 ## Text
 

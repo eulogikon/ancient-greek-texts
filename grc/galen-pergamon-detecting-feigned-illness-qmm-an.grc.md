@@ -5,6 +5,7 @@ author: Galen of Pergamon
 eul_wid: qmm-an
 eul_aid: qmm
 canonical: "https://eulogikon.org/works/galen-pergamon-detecting-feigned-illness-qmm-an"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Galen of Pergamon
 
 **eul_wid:** `qmm-an` · [HTML page](https://eulogikon.org/works/galen-pergamon-detecting-feigned-illness-qmm-an)
-
-How Those Feigning Illnesses Should Be Detected is a concise, practical treatise by the physician Galen of Pergamon. It offers a systematic guide for doctors to identify patients who are simulating illness, typically to avoid military conscription or other civic obligations. The work is structured around nine specific scenarios of feigned conditions, such as blindness, lameness, or the coughing up of blood. Galen’s methodology relies on logical deduction and empirical observation, instructing physicians to apply tests that reveal inconsistencies between a patient’s reported symptoms and the known behavior of genuine pathologies. He emphasizes the physician’s duty to act as an objective investigator, serving both medical integrity and the interests of the state. The text survives as an authentic part of the Galenic corpus, preserved in the standard critical editions of the Corpus Medicorum Graecorum and in Kühn’s Claudii Galeni Opera Omnia. This treatise illustrates the applied, forensic aspect of Galen’s practice, linking medical expertise directly to social accountability. It represents a significant contribution to the enduring medico-legal discourse on the verification of illness and is frequently cited in studies concerning conscription and the social history of medicine in the Roman world.
 
 ## Text
 

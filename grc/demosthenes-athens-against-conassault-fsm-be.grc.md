@@ -5,6 +5,7 @@ author: Demosthenes of Athens
 eul_wid: fsm-be
 eul_aid: fsm
 canonical: "https://eulogikon.org/works/demosthenes-athens-against-conassault-fsm-be"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Demosthenes of Athens
 
 **eul_wid:** `fsm-be` · [HTML page](https://eulogikon.org/works/demosthenes-athens-against-conassault-fsm-be)
-
-Against Conon is a private forensic oration composed by Demosthenes for a client named Ariston in a mid-fourth-century BCE Athenian lawsuit for assault. The speech accuses a man named Conon and his sons of a violent and humiliating physical attack, which the plaintiff argues was not a simple brawl but a premeditated act of wanton insult against his civic honor. The complete, forty-one-section speech survives within the Demosthenic corpus. Its narrative details a campaign of harassment that culminated in Ariston being beaten, stripped, and covered in mud, with supporting evidence cited from a treating physician. The core rhetorical strategy contrasts the plaintiff’s portrayal of his own moderate character with vivid depictions of the defendants as dissolute and hubristic, their behavior likened to that of corrupt wartime camp followers. The argument illustrates the Athenian legal mechanisms by which citizens sought public redress for personal wrongs, effectively elevating a case of physical battery into a matter of civic import. Transmitted as a genuine work of Demosthenes through medieval Byzantine manuscripts, with an archetype dating to the ninth or tenth century CE, the oration is studied as a model of Attic forensic rhetoric. It provides valuable evidence for Athenian legal practice, social conflict, and the persuasive strategies used to characterize violence and dishonor in the courts.
 
 ## Text
 

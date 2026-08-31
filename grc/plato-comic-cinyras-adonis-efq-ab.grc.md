@@ -1,10 +1,11 @@
 ---
 title: Fragments on Cinyras and Adonis
 title_greek: Ἀποσπάσματα περὶ Κινύρου καὶ Ἄδωνιδος
-author: "Plato the Comic Poet "
+author: Plato the Comic Poet
 eul_wid: efq-ab
 eul_aid: efq
 canonical: "https://eulogikon.org/works/plato-comic-cinyras-adonis-efq-ab"
+lang: grc
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀποσπάσματα περὶ Κινύρου καὶ Ἄδωνιδος*
 
-**Author:** Plato the Comic Poet 
+**Author:** Plato the Comic Poet
 
 **eul_wid:** `efq-ab` · [HTML page](https://eulogikon.org/works/plato-comic-cinyras-adonis-efq-ab)
-
-The Fragments on Cinyras and Adonis is a lost comedy by Plato the Comic Poet, a contemporary of Aristophanes who was active in the late 5th and early 4th centuries BCE. The work is known solely by its title, which is preserved in ancient catalogues such as the Suda, and no verbatim fragments from it survive. The title indicates it was a mythological burlesque treating the Cypriot king Cinyras and the youth Adonis, the lover of Aphrodite. Based on the conventions of Old Comedy, the play likely satirized familiar subjects, including the Adonia festival and women’s associated ritual behavior, the myth of Aphrodite and Adonis itself, and themes of eastern luxury and excess through the figure of the wealthy Cinyras. The comedy is attested only as a title in ancient sources; the figure of 311 fragments sometimes associated with it refers to the total number of fragments from Plato’s entire corpus in modern editions, not to this specific play. While the work’s direct influence is untraceable, its subject matter illustrates the range of Old Comedy beyond contemporary Athenian politics, engaging instead with popular myth and cult practice. Its existence contributes to the broader understanding of Plato Comicus’s literary output and thematic diversity.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Themistius the Philosopher
 eul_wid: rye-ay
 eul_aid: rye
 canonical: "https://eulogikon.org/works/themistius-embassy-theodosius-rye-ay"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Themistius the Philosopher
 
 **eul_wid:** `rye-ay` · [HTML page](https://eulogikon.org/works/themistius-embassy-theodosius-rye-ay)
-
-The Embassy to Emperor Theodosius is a formal oration delivered by the philosopher and statesman Themistius to Emperor Theodosius I in Constantinople around 384 CE. Composed in refined Attic Greek, the speech functions as a panegyric, employing a fourteen-section structure to extol the emperor's virtues while advancing a distinct political philosophy. Themistius articulates a vision of the ideal ruler as a philosopher-king who governs through wisdom, mercy, and persuasion rather than coercion. A central and recurring theme is the concept of philanthropia, or love for humanity, which the orator explicitly connects to Theodosius's policy of religious tolerance toward non-Nicene Christians and traditional polytheists during the early 380s. Modern scholarship interprets the oration as serving a dual purpose: it is both a public defense of the emperor's moderate religious stance and a sophisticated justification for the continuing role of a Hellenic philosopher as an advisor to a Christian monarch. The complete text of the oration survives intact through medieval manuscript transmission, with no significant lacunae. It remains a crucial document for illuminating the intricate interplay between late Roman imperial authority, enduring Greek philosophical ideals, and the formulation of religious policy in the fourth century.
 
 ## Text
 

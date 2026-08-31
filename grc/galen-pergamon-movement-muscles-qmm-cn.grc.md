@@ -5,6 +5,7 @@ author: Galen of Pergamon
 eul_wid: qmm-cn
 eul_aid: qmm
 canonical: "https://eulogikon.org/works/galen-pergamon-movement-muscles-qmm-cn"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Galen of Pergamon
 
 **eul_wid:** `qmm-cn` · [HTML page](https://eulogikon.org/works/galen-pergamon-movement-muscles-qmm-cn)
-
-On the Movement of Muscles is a medical treatise by the Roman physician Galen of Pergamon, composed in Greek likely between 170 and 192 CE. The work presents a detailed physiological investigation into the cause of voluntary muscular motion. Galen systematically refutes the prevailing theory that movement was caused by a fluid-like spirit, or pneuma, inflating the muscles through hollow nerves. He argues instead that a psychic faculty originates in the brain and is transmitted through the solid substance of the nerves to induce muscular contraction. The treatise is structured as a logical demonstration, progressing from anatomical observation to experimental proof and culminating in the refutation of rival theories. The complete text survives, organized into 97 discrete passages that reflect its detailed and rigorously argumentative format.
-
-Modern scholarship regards this work as a cornerstone of Galen’s project to establish a unified, teleological theory of living functions, integrating empirical anatomy with a Platonic and Aristotelian philosophical framework. Written for an audience of fellow physicians and philosophers in the competitive intellectual milieu of Rome, the treatise frequently appeals to public demonstrations and observable facts. It was foundational for the history of neurology, establishing the brain-centered model of motor control that dominated Western medicine for centuries. Translated into Arabic and later into Latin, the work exerted a profound and lasting influence throughout the medieval and Renaissance periods.
 
 ## Text
 

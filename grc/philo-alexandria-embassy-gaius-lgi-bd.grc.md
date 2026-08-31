@@ -5,6 +5,7 @@ author: Philo of Alexandria
 eul_wid: lgi-bd
 eul_aid: lgi
 canonical: "https://eulogikon.org/works/philo-alexandria-embassy-gaius-lgi-bd"
+lang: grc
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philo of Alexandria
 
 **eul_wid:** `lgi-bd` · [HTML page](https://eulogikon.org/works/philo-alexandria-embassy-gaius-lgi-bd)
-
-The Embassy to Gaius is a historical and political treatise by the Jewish philosopher Philo of Alexandria. Composed in Koine Greek, it recounts his experience leading an embassy of Jewish elders to the Roman emperor Caligula in 39–40 CE. The delegation sought to address two critical issues: the violent persecution of Jews in Alexandria following communal riots and the emperor’s command to install a statue of himself in the Temple at Jerusalem, an act that would have constituted a profound desecration. Structured as a first-person narrative, the work details the confrontations with the emperor and presents the competing arguments of the Jewish and opposing Greek Alexandrian delegations. Modern scholarship generally regards it as a sequel to Philo’s earlier work, Against Flaccus, with the two treatises together forming an apologetic defense of the Jewish community’s legal rights and political loyalty.
-
-The treatise was likely written after Caligula’s assassination in 41 CE and before approximately 53 CE, though its precise date remains uncertain. The surviving text is incomplete, breaking off abruptly before the narrative’s conclusion; modern editions present it in 295 discrete sections. Philo appears to have written for a dual audience: for his fellow Jews, as a record of their leaders’ courageous defense, and for a broader Greco-Roman readership, to demonstrate Jewish fidelity to the empire while offering a philosophical critique of tyrannical rule. As a primary source, the Embassy to Gaius is invaluable for understanding Jewish-Roman relations, the reign of Caligula, and the intersection of Hellenistic philosophy with contemporary political events.
 
 ## Text
 

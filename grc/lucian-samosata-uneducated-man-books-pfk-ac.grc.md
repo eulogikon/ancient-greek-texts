@@ -5,6 +5,7 @@ author: Lucian of Samosata
 eul_wid: pfk-ac
 eul_aid: pfk
 canonical: "https://eulogikon.org/works/lucian-samosata-uneducated-man-books-pfk-ac"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lucian of Samosata
 
 **eul_wid:** `pfk-ac` · [HTML page](https://eulogikon.org/works/lucian-samosata-uneducated-man-books-pfk-ac)
-
-To the Uneducated Man Buying Many Books is a satirical oration by the 2nd-century CE author Lucian of Samosata. Written as a direct and humorous diatribe, it critiques a wealthy individual who amasses an expensive library of fine editions not for intellectual engagement but solely to cultivate an appearance of cultivated learning. Lucian systematically dismantles this pretension, arguing that possessing books without reading or understanding them is as useless as owning a shield without martial skill or a flute without musical ability. He further mocks the buyer’s lack of discernment, suggesting he is easily duped by booksellers and false praise into acquiring inferior volumes, rendering his costly collection a mere facade.
-
-The work is a pointed product of the Second Sophistic, a cultural movement in the Roman Empire where fluency in Greek rhetoric and classical literature was a paramount marker of elite status. Lucian’s satire exposes the tension between the genuine cultivation of knowledge, or paideia, and its superficial performance for social advancement. It offers a valuable window into ancient book culture, literacy, and the commodification of learning among the affluent, Greek-speaking circles of the imperial era. The complete text, organized into 28 succinct sections, survives within the traditional Lucianic corpus and is widely accepted as authentic.
 
 ## Text
 

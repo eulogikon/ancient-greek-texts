@@ -5,6 +5,7 @@ author: Diogenes of Apollonia
 eul_wid: bze-aa
 eul_aid: bze
 canonical: "https://eulogikon.org/works/diogenes-apollonia-testimonies-bze-aa"
+lang: grc
 period: Classical
 dialect: Ionic
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Diogenes of Apollonia
 
 **eul_wid:** `bze-aa` · [HTML page](https://eulogikon.org/works/diogenes-apollonia-testimonies-bze-aa)
-
-The Testimonies is a modern scholarly compilation of the extant philosophical doctrines attributed to Diogenes of Apollonia, a Pre-Socratic thinker active in the fifth century BCE. None of Diogenes’s original works survive; the collection consists of thirty-six fragments preserved as quotations or reports within the texts of later Greek authors, written in the Ionic dialect. These passages collectively delineate a philosophical system in which air is posited as the fundamental, divine arche, or first principle, of the cosmos. Diogenes argued that this air, possessing intelligence, ordered all things for the best and served as the physical basis for life and cognition in animals and humans. His synthesis is viewed by modern historians of philosophy as a conscious effort to merge traditional Ionian materialist cosmology with emerging concepts of a purposive cosmic intelligence. Diogenes was active in Athens, and his theories were sufficiently prominent to be satirized by the comic playwright Aristophanes in his comedy The Clouds in 423 BCE. The preservation of his ideas relies entirely on later sources, most significantly the sixth-century CE commentator Simplicius, who quoted extensively from Diogenes’s lost treatise On Nature. Other vital sources include Aristotle, the doxographer Theophrastus, and the physician Galen. The standard critical edition of these fragments remains the compilation by Hermann Diels and Walther Kranz in their foundational work, Fragmente der Vorsokratiker.
 
 ## Text
 

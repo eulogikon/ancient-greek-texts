@@ -5,6 +5,7 @@ author: Philo of Alexandria
 eul_wid: lgi-bm
 eul_aid: lgi
 canonical: "https://eulogikon.org/works/philo-alexandria-joseph-lgi-bm"
+lang: grc
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philo of Alexandria
 
 **eul_wid:** `lgi-bm` · [HTML page](https://eulogikon.org/works/philo-alexandria-joseph-lgi-bm)
-
-On Joseph is a philosophical treatise by Philo of Alexandria, a first-century Jewish philosopher of the Hellenistic diaspora. The work presents an allegorical interpretation of the biblical Joseph narrative from Genesis, recasting his life as the archetype of the political man. Philo frames Joseph not merely as a historical figure but as the embodiment of the active, political life, which he contrasts with the superior contemplative lives of other patriarchs. The treatise systematically explores the nature of practical statecraft through Joseph’s experiences—his dreams, betrayal, rise to power in Egypt, and administrative rule—examining themes of governance, foreign service, and the application of virtue in the public sphere. Written for an audience versed in Greek philosophy, the work aims to demonstrate the profound philosophical truths embedded within Jewish scripture. It reflects the concerns of the Jewish community in Alexandria under Roman rule, particularly regarding identity, leadership, and the ethical exercise of power. The complete text survives through a manuscript tradition preserved by Christian scholars who valued Philo’s allegorical method. As a continuous prose treatise, it forms part of Philo’s larger exegetical project to harmonize biblical revelation with Hellenistic thought.
 
 ## Text
 

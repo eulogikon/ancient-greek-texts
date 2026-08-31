@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-du
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-themistocles-okg-du"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-du` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-themistocles-okg-du)
-
-Plutarch’s Life of Themistocles is a biography of the Athenian statesman and naval commander whose strategic genius was instrumental in securing the Greek victory over Persia during the early fifth century BCE. Composed in Attic Greek around 100 CE, it is part of Plutarch’s Parallel Lives, a series of paired biographies comparing notable Greek and Roman figures; Themistocles is paired with the Roman leader Camillus. The work is structured as a chronological narrative, divided into 147 sections, and survives in its entirety.
-
-The biography traces Themistocles from his politically modest origins and early career through his pivotal role in the Persian Wars, emphasizing his cunning leadership at the Battle of Salamis and his subsequent efforts to rebuild and fortify Athens. It then details his later ostracism, defection to the Persian court, and eventual death in exile. Plutarch’s approach is not that of a strict historian but of a moral philosopher; he selects and arranges episodes from sources like Herodotus and Thucydides to craft a portrait of character, illustrating Themistocles’ formidable ambition, intelligence, and political acumen, which ultimately led to his downfall through the envy of his rivals. The work is fundamentally an examination of virtue, leadership, and fortune, intended for the ethical reflection of an educated Greco-Roman audience under the early Roman Empire.
-
-The text has been fully preserved through medieval manuscripts dating from the tenth century onward. It enjoyed significant popularity during the Renaissance, where its portrayal of political brilliance and civic virtue influenced subsequent European thought on statesmanship and the complexities of public life.
 
 ## Text
 

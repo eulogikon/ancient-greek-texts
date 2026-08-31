@@ -5,6 +5,7 @@ author: Bolus of Mendes
 eul_wid: kzk-af
 eul_aid: kzk
 canonical: "https://eulogikon.org/works/bolus-mendes-testimonies-2-kzk-af"
+lang: grc
 period: Hellenistic
 dialect: Koine (frg)
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Bolus of Mendes
 
 **eul_wid:** `kzk-af` · [HTML page](https://eulogikon.org/works/bolus-mendes-testimonies-2-kzk-af)
-
-Testimonies 2 is a lost technical or medical collection attributed to the Hellenistic writer Bolus of Mendes, who was active around 200 BCE. Known only by its title and its position within the author's larger corpus, the work is presumed to have been a compilation of observations or proofs concerning the properties of natural substances, medical remedies, or occult phenomena. Bolus is a significant figure in the pseudepigraphic tradition, with many of his works circulated under the name of the pre-Socratic philosopher Democritus to lend them authority. His known writings synthesize natural philosophy, early alchemical thought, and pharmacology, often exploring concepts of hidden sympathies and antipathies within the natural world. Testimonies 2 would thus have been a practical resource for contemporary practitioners of these applied sciences. The work does not survive as an independent text but exists only in fragmentary form, preserved through later citations in the works of authors such as Pliny the Elder within the traditions of alchemy, medicine, and natural history.
 
 ## Text
 

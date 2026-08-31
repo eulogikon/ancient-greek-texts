@@ -5,6 +5,7 @@ author: Pherecydes of Athens
 eul_wid: bvi-aa
 eul_aid: bvi
 canonical: "https://eulogikon.org/works/pherecydes-athens-dionysus-bvi-aa"
+lang: grc
 period: Classical
 dialect: Attic (frg)
 domain: History
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Pherecydes of Athens
 
 **eul_wid:** `bvi-aa` · [HTML page](https://eulogikon.org/works/pherecydes-athens-dionysus-bvi-aa)
-
-The Fragments on Dionysus constitutes a modern scholarly assemblage of excerpts attributed to the lost works of the 5th-century BCE Athenian mythographer Pherecydes. Active during the Classical period, Pherecydes was a prose writer who systematically recorded and organized Greek myths and heroic genealogies. The collection, comprising 196 individual passages, does not derive from a single surviving manuscript but is reconstructed from quotations preserved by later ancient and Byzantine commentators, including grammarians, scholiasts, and the patriarch Photius. These fragments treat central myths concerning the god Dionysus, detailing narratives of his birth, his journeys to disseminate viticulture and his religious cult, and his various interactions with heroes and adversaries.
-
-The original work is entirely lost, surviving only through this indirect transmission. Modern interpretation places Pherecydes’s endeavor within a significant 5th-century movement to transcribe and systematize oral poetic traditions into prose, thereby offering an Athenian perspective on Panhellenic mythology. The compilation is believed to have been intended for an educated audience keenly interested in the origins and local variations of their religious stories. The specific focus on Dionysus holds particular cultural relevance, reflecting the god’s elevated importance within Athenian festival life and the emerging dramatic arts during Pherecydes’s own lifetime.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Dinarchus the Orator
 eul_wid: hqm-aa
 eul_aid: hqm
 canonical: "https://eulogikon.org/works/dinarchus-uncertain-fragments-hqm-aa"
+lang: grc
 period: Hellenistic
 dialect: Attic
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Dinarchus the Orator
 
 **eul_wid:** `hqm-aa` · [HTML page](https://eulogikon.org/works/dinarchus-uncertain-fragments-hqm-aa)
-
-The Fragments of Uncertain Placement constitute a collection of twenty-nine passages attributed to the Attic orator Dinarchus, a Corinthian logographer active in Athens during the late fourth and early third centuries BCE. These fragments, which cannot be assigned to any of his known orations, represent a significant portion of the surviving remnants of his lost works. They are preserved primarily through the critical writings of later authors, most notably Dionysius of Halicarnassus, as well as in the works of Plutarch and the Byzantine encyclopedia known as the Suda. The fragments are believed to originate from forensic speeches, engaging with the central themes of Dinarchus’s known corpus and Athenian legal oratory more broadly. These include the construction of legal arguments and prosecution rhetoric, accusations of political corruption such as bribery and embezzlement, the use of character assassination against opponents, and appeals to Athenian patriotism and the public good. As a member of the later Canon of Ten Attic Orators, Dinarchus’s style was studied by later rhetoricians as a model of forceful argumentation. Although these fragments lack specific contextual information, they remain valuable for understanding his rhetorical techniques and the contentious political climate of early Hellenistic Athens following the death of Alexander the Great.
 
 ## Text
 

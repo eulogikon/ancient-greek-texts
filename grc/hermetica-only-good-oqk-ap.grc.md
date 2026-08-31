@@ -1,10 +1,11 @@
 ---
 title: Only in God is the Good
 title_greek: "Ὅτι ἐν μόνῳ τῷ θεῷ τὸ ἀγαθόν ἐστιν, ἀλλαχόθι δὲ"
-author: "Hermetica "
+author: Hermetica
 eul_wid: oqk-ap
 eul_aid: oqk
 canonical: "https://eulogikon.org/works/hermetica-only-good-oqk-ap"
+lang: grc
 period: Roman
 dialect: Philosophical Koine
 domain: Philosophy
@@ -16,13 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ὅτι ἐν μόνῳ τῷ θεῷ τὸ ἀγαθόν ἐστιν, ἀλλαχόθι δὲ*
 
-**Author:** Hermetica 
+**Author:** Hermetica
 
 **eul_wid:** `oqk-ap` · [HTML page](https://eulogikon.org/works/hermetica-only-good-oqk-ap)
-
-"Only in God is the Good" is the sixth treatise of the Corpus Hermeticum, a collection of Greek philosophical and theological texts attributed to the mythical sage Hermes Trismegistus. Composed in Koine Greek in Roman Egypt, likely between the first and third centuries CE, it presents a concise, seven-part discourse advancing a singular and radical proposition: the absolute Good is identical with God alone and is entirely absent from the created cosmos. The treatise systematically argues that what is conventionally termed good in the material world—such as beauty, pleasure, or human intellectual activity—constitutes merely a deceptive imitation or shadow. In the stark dualism of the text, all corporeal existence, including the human body and the realm of sense perception, is characterized as "evil," defined not as active malice but as the fundamental privation of the true, divine Good.
-
-The work is preserved in its complete form, primarily through a fourteenth-century manuscript tradition. Scholars classify it among the "philosophical" Hermetica, texts directed toward educated individuals engaged in spiritual pursuit. Its purpose is explicitly didactic, aiming to reorient the reader's understanding and desire away from attachment to transient, material phenomena and toward the knowledge and contemplation of the divine. This reorientation is presented as the sole legitimate aim of human life. The treatise's arguments demonstrate a characteristic syncretism of the period, weaving together Platonic concepts of the Good and the inferiority of the material realm with Stoic-influenced logic regarding self-sufficiency and impassibility to construct its portrait of a perfect, unitary deity who is the sole source and substance of all goodness.
 
 ## Text
 

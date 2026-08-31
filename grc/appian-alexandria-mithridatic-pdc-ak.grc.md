@@ -5,6 +5,7 @@ author: Appian of Alexandria
 eul_wid: pdc-ak
 eul_aid: pdc
 canonical: "https://eulogikon.org/works/appian-alexandria-mithridatic-pdc-ak"
+lang: grc
 period: Roman
 dialect: Koine
 domain: History
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Appian of Alexandria
 
 **eul_wid:** `pdc-ak` · [HTML page](https://eulogikon.org/works/appian-alexandria-mithridatic-pdc-ak)
-
-The Mithridatic is a historical monograph by the Greco-Roman author Appian of Alexandria, composed in Greek around the middle of the 2nd century CE. It constitutes a single, self-contained book within his larger 24-book work, the Roman History, which was organized ethnographically and geographically rather than strictly chronologically. This book provides a continuous narrative account of the three Mithridatic Wars, the protracted series of conflicts fought between the Roman Republic and Mithridates VI Eupator, the ambitious king of Pontus, between 88 and 63 BCE. Appian’s narrative traces the origins of the conflict, detailing Mithridates' consolidation of power in Asia Minor and his orchestration of a mass killing of Roman and Italian citizens, an event that precipitated the First Mithridatic War. It proceeds through the major military campaigns, including the operations of the Roman generals Sulla, Lucullus, and finally Pompey, whose decisive victory ended the wars. The account culminates in the death of Mithridates and the subsequent reorganization of the eastern territories by Pompey, which significantly extended Roman administrative control in the region.
-
-As a Greek intellectual who rose to high equestrian office within the Roman imperial administration, Appian writes from a distinctive perspective, aiming to explain and justify the rise of Roman power to a Greek-speaking audience. His work is a vital surviving source for these wars, preserving details from earlier, now-lost historians. However, modern scholarship notes that Appian often prioritizes thematic cohesion and dramatic narrative over precise chronological sequencing, and his account can reflect a pro-Roman interpretation of events. The text survives in full through medieval manuscript traditions and is typically divided into 123 chapters in modern editions. It remains a foundational narrative for understanding this critical period of Roman expansion and the complex integration of the Hellenistic East into the Roman world.
 
 ## Text
 

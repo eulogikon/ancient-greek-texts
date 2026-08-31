@@ -5,6 +5,7 @@ author: Aeschylus Scholia
 eul_wid: tro-an
 eul_aid: tro
 canonical: "https://eulogikon.org/works/aeschylus-scholia-persians-tro-an"
+lang: grc
 period: Late Antique
 dialect: Byzantine Greek
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aeschylus Scholia
 
 **eul_wid:** `tro-an` · [HTML page](https://eulogikon.org/works/aeschylus-scholia-persians-tro-an)
-
-The Scholia on the Persians is an extensive collection of ancient and Byzantine annotations on Aeschylus's tragedy The Persians. Transmitted primarily through the 10th-century Medicean Codex, the oldest surviving manuscript of Aeschylus's plays, this compilation of 1402 individual notes represents the accumulated philological work of scholars over many centuries. The scholia provide a detailed, line-by-line commentary that elucidates textual, linguistic, historical, and mythological points within the drama. Their content includes historical explanations of events like the Battle of Salamis and Persian institutions, notes on textual variants and problematic lines, glosses on archaic vocabulary and grammar, and clarifications of mythological and cultural references. Occasionally, they also comment on dramatic technique and staging. The text in the Medicean manuscript is often abbreviated or corrupt, requiring careful reconstruction in modern critical editions. These scholia are indispensable for the modern textual criticism and interpretation of Aeschylus, preserving fragments of lost scholarship and revealing how the play was studied in antiquity. They form the foundational material for all contemporary commentaries and were directly influential in the Renaissance recovery of Aeschylus, serving as the basis for the first printed edition of his works in 1518.
 
 ## Text
 

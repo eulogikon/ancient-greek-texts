@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-ed
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-colotes-okg-ed"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-ed` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-colotes-okg-ed)
-
-To Colotes is a polemical treatise by Plutarch of Chaeronea, constituting a detailed refutation of a lost work by the Epicurean philosopher Colotes. Colotes' original treatise, addressed to King Ptolemy Philadelphus, was provocatively titled "On the Point that it is Impossible to Live According to the Doctrines of the Other Philosophers." Plutarch's response systematically counters Colotes' attacks on a wide range of philosophers, including Democritus, Parmenides, Empedocles, Socrates, and Plato. The work is structured as a point-by-point rebuttal, defending the coherence and practicality of these earlier schools while mounting a sustained critique of Epicurean epistemology, physics, and ethics. Plutarch argues that it is, in fact, Epicureanism that renders a consistent and virtuous life impossible, culminating in a robust defense of Platonism as a superior and livable philosophical system. The treatise survives complete within the manuscript tradition of Plutarch's Moralia, preserved in both the Maxima and Planudean collections. Its significance is twofold: it is a vital source for reconstructing Epicurean polemical strategies and the arguments of minor figures like Colotes, and it serves as a prime example of Middle Platonist methodology in defending the classical philosophical tradition against materialist critique during the early Imperial period.
 
 ## Text
 

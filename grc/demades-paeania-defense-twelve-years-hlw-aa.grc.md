@@ -5,6 +5,7 @@ author: Demades of Paeania
 eul_wid: hlw-aa
 eul_aid: hlw
 canonical: "https://eulogikon.org/works/demades-paeania-defense-twelve-years-hlw-aa"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Demades of Paeania
 
 **eul_wid:** `hlw-aa` · [HTML page](https://eulogikon.org/works/demades-paeania-defense-twelve-years-hlw-aa)
-
-In Defense of the Twelve Years is a collection of 148 short passages attributed to the Athenian orator Demades, composed in Attic Greek around 322–319 BCE. The work is not a continuous oration but a compilation of fragments, likely assembled from various speeches or rhetorical exercises. Its central purpose is to defend the twelve-year period of Macedonian hegemony imposed on Athens following its defeat in the Lamian War, advocating for a pragmatic acceptance of the terms dictated by the Macedonian regent Antipater as essential for the city's preservation. The collection mounts a sustained critique of the failed anti-Macedonian policies championed by Demosthenes and other leaders, presenting political accommodation not as a betrayal but as a necessary and realistic strategy for survival. Modern scholarship is divided on the authenticity of the text, with many viewing it as a mixture of genuine fragments from Demades' oratory and later rhetorical compositions crafted in his style. The work survives only in this excerpted form, transmitted primarily through a Byzantine anthology compiled by Maximus Planudes. It provides a valuable, if contested, perspective on the intense political conflicts in Athens at the close of the Classical era and significantly contributed to Demades' posthumous reputation as an eloquent and pragmatic political realist.
 
 ## Text
 

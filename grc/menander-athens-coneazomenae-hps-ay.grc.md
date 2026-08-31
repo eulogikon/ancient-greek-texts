@@ -5,6 +5,7 @@ author: Menander of Athens
 eul_wid: hps-ay
 eul_aid: hps
 canonical: "https://eulogikon.org/works/menander-athens-coneazomenae-hps-ay"
+lang: grc
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Menander of Athens
 
 **eul_wid:** `hps-ay` · [HTML page](https://eulogikon.org/works/menander-athens-coneazomenae-hps-ay)
-
-Coneazomenae, meaning “Women at Breakfast,” is a lost comedy by the Athenian playwright Menander. Surviving only in fragments, with twenty-eight lines preserved through quotation by later ancient authors such as the lexicographer Pollux, the play belongs to the tradition of New Comedy. Its plot would have centered on the domestic and romantic intrigues of ordinary citizens, culminating in a happy resolution. The title suggests a scene involving women at a meal, a common setting for dialogue in Menander’s works. Probable themes, consistent with the playwright’s extant comedies, include love and romance, family and social relationships, misunderstandings and recognitions, and the roles and agency of women in Athenian society. While no papyrus fragments of the play have been identified among major discoveries of Menander’s texts, the extant lines are collected in modern scholarly editions. Although the specific influence of Coneazomenae is untraceable, Menander’s comic style, characterized by realistic portrayal of character and domestic situations, fundamentally shaped Western comedy through Roman adapters like Plautus and Terence, becoming a cornerstone of later comic theater.
 
 ## Text
 

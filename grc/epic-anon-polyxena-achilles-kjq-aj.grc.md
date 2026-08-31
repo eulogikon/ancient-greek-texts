@@ -5,6 +5,7 @@ author: Epic Work  Anonymous
 eul_wid: kjq-aj
 eul_aid: kjq
 canonical: "https://eulogikon.org/works/epic-anon-polyxena-achilles-kjq-aj"
+lang: grc
 period: Hellenistic
 dialect: Epic (Homeric) (frg)
 domain: Epic
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Epic Work  Anonymous
 
 **eul_wid:** `kjq-aj` · [HTML page](https://eulogikon.org/works/epic-anon-polyxena-achilles-kjq-aj)
-
-The anonymous epic fragment Polyxena and Achilles survives as four hexameter lines preserved by the second-century CE grammarian Aelius Herodianus in his work On Peculiar Diction. The fragment describes the ghost of Achilles rising from his tomb to demand the sacrifice of the Trojan princess Polyxena before the Greek fleet can depart from Troy. It depicts a key episode from the end of the Trojan War cycle, showing the apparition of Achilles' ghost halting the Achaean army and his demand for Polyxena's sacrifice at his tomb. This narrative aligns with the known mythic tradition, most famously treated in Euripides' tragedy Hecuba. The work exists solely as a citation within the grammatical tradition, transmitted indirectly through excerpts of Herodianus's work in later sources like the Suda. It has no independent manuscript tradition and is cataloged as fragment 1 of the Poetae Epici Graeci. The fragment represents a hexameter epic version of the Polyxena myth, contributing to the corpus of post-Homeric cyclic poetry. While its direct literary influence is untraceable, the story itself was widely influential in antiquity. Its modern scholarly value lies in its contribution to the study of fragmentary Greek epic and the reception of Trojan War narratives.
 
 ## Text
 

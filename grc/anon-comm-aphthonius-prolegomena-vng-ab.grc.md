@@ -5,6 +5,7 @@ author: Anonymous Commentary on Aphthonius
 eul_wid: vng-ab
 eul_aid: vng
 canonical: "https://eulogikon.org/works/anon-comm-aphthonius-prolegomena-vng-ab"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Oratory
@@ -19,20 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Anonymous Commentary on Aphthonius
 
 **eul_wid:** `vng-ab` · [HTML page](https://eulogikon.org/works/anon-comm-aphthonius-prolegomena-vng-ab)
-
-Overview The Prolegomena to Progymnasmata (Προλεγόμενα εἰς Προγυμνάσματα) is an anonymous rhetorical commentary serving as an introduction to the Progymnasmata of Aphthonius of Antioch. As prolegomena, it provides introductory remarks on the purpose and place of the preliminary exercises (progymnasmata) within the rhetorical curriculum. The work is structured as an oration comprising eight passages.
-
-Content Consistent with the genre, the commentary’s themes likely include:
-
-The definition, utility, and canonical divisions of rhetoric.
-
-The educational purpose and sequence of the fourteen standard progymnasmata exercises.
-
-The relationship between rhetorical theory and practical composition.
-
-Transmission The text is part of the vast Byzantine exegetical tradition on Aphthonius’s manual. It survives within medieval manuscripts preserving the main text alongside scholia and commentaries, a testament to the continuity of rhetorical education.
-
-Significance This anonymous prolegomena contributed to the standardized pedagogical tradition that made Aphthonius’s Progymnasmata a cornerstone of Byzantine and later Renaissance education. By systematizing the introductory framework for these exercises, such works helped perpetuate a foundational rhetorical curriculum.
 
 ## Text
 

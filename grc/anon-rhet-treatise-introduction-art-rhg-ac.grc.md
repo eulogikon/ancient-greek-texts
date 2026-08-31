@@ -5,6 +5,7 @@ author: Rhetorical Treatise Anonymous
 eul_wid: rhg-ac
 eul_aid: rhg
 canonical: "https://eulogikon.org/works/anon-rhet-treatise-introduction-art-rhg-ac"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Rhetorical Treatise Anonymous
 
 **eul_wid:** `rhg-ac` · [HTML page](https://eulogikon.org/works/anon-rhet-treatise-introduction-art-rhg-ac)
-
-The Introduction to the Art of Rhetoric is an anonymous Greek rhetorical treatise, a type of work known as a prolegomenon, which functioned as an introductory handbook for students. Structured in twenty-six passages, it systematically outlines the core principles of the discipline. Such texts were standard pedagogical tools in later antiquity and the Byzantine period, designed to provide a foundational framework for rhetorical study. Following the conventions of its genre, the work addresses standard topics including the definition, purpose, and subject matter of rhetoric; its three species of judicial, deliberative, and epideictic oratory; the traditional parts of a speech such as the proem and narration; and the virtues of style alongside the relationship of rhetoric to philosophy. The treatise survives within the larger corpus of Greek rhetorical texts, preserved in Byzantine manuscripts alongside works by canonical authors. As a representative example of rhetorical prolegomena, the text illustrates the methods used to transmit and standardize classical rhetorical doctrine. Collectively, such handbooks were instrumental in preserving Aristotelian and Hermogenean frameworks through the Byzantine era and into the Renaissance.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Aëtius of Amida
 eul_wid: vhc-ak
 eul_aid: vhc
 canonical: "https://eulogikon.org/works/aetius-amida-medical-book-xi-vhc-ak"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aëtius of Amida
 
 **eul_wid:** `vhc-ak` · [HTML page](https://eulogikon.org/works/aetius-amida-medical-book-xi-vhc-ak)
-
-Medical Book XI constitutes the eleventh volume of the Tetrabiblos, a sixteen-book medical compendium compiled in Greek by the Byzantine physician Aëtius of Amida during the sixth century. Designed as a practical handbook for practitioners, this volume systematically addresses pathologies of the abdominal and urinary systems, including the stomach, intestines, kidneys, and bladder. Its fifty-one chapters cover a range of common conditions such as colic, dysentery, kidney stones, and various urinary disorders, providing detailed therapeutic recipes for medicines, plasters, and other treatments. The content is largely a compilation, meticulously drawn from the works of earlier authorities like Galen and Dioscorides, rather than an original treatise.
-
-The work exemplifies the late antique scholarly effort to preserve and systematize classical medical knowledge. Its organizational framework is rooted in humoral theory, while its structure reflects a focus on localized pathology, methodically arranging diseases according to the affected organ system. The complete Tetrabiblos survives in numerous Greek manuscripts and proved highly influential, later being translated into Arabic and Latin. For modern scholars, it serves as a crucial source for understanding the transmission of ancient medical texts, preserving excerpts and doctrines from many works that are now otherwise lost.
 
 ## Text
 

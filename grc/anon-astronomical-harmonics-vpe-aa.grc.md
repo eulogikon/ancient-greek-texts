@@ -5,6 +5,7 @@ author: Astronomical Work  Anonymous
 eul_wid: vpe-aa
 eul_aid: vpe
 canonical: "https://eulogikon.org/works/anon-astronomical-harmonics-vpe-aa"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Astronomical Work  Anonymous
 
 **eul_wid:** `vpe-aa` · [HTML page](https://eulogikon.org/works/anon-astronomical-harmonics-vpe-aa)
-
-The Εἰσαγωγὴ εἰς τὰ Ἁρμονικά (Introduction to Harmonics) is an anonymous ancient Greek treatise on music theory. Written in Koine Greek, it serves as a primer on harmonics, the mathematical study of musical scales and intervals. The work systematically defines foundational terms like "note," "interval," and "scale." A central theme is its comparison of the two major schools of ancient musical thought: the Pythagorean approach, based on mathematical ratios, and the Aristoxenian approach, which emphasized perceptual criteria and the judgment of the ear.
-
-Only part of the text survives today, preserved as 24 fragments quoted within a much later commentary by the philosopher Porphyry (3rd century CE). Consequently, the original full length and structure of the work are unknown. The date of its composition is uncertain, but scholars place it in the Hellenistic or early Roman Imperial period. It is thought to have been written as a student guide or a doxographic survey cataloging the ideas of earlier theorists. Modern scholars have interpreted its survival within Porphyry's work as evidence that it was considered a valuable historical source for the discipline by late antiquity. While a later Byzantine source mentions a female theorist named Ptolemaïs of Cyrene, the attribution of this specific text to her remains speculative and unverified.
 
 ## Text
 

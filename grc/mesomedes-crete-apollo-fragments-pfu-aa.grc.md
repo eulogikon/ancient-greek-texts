@@ -5,6 +5,7 @@ author: Mesomedes of Crete
 eul_wid: pfu-aa
 eul_aid: pfu
 canonical: "https://eulogikon.org/works/mesomedes-crete-apollo-fragments-pfu-aa"
+lang: grc
 period: Roman
 dialect: Literary Koine
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Mesomedes of Crete
 
 **eul_wid:** `pfu-aa` · [HTML page](https://eulogikon.org/works/mesomedes-crete-apollo-fragments-pfu-aa)
-
-The Fragments on Apollo is a collection of poetic passages attributed to Mesomedes of Crete, a Greek lyric poet and composer active in the 2nd century CE. As a freedman and court musician to Emperor Hadrian, Mesomedes composed hymns for performance within the imperial Roman court, an environment where Greek artistic traditions continued to be esteemed. The work comprises short lyric poems that exalt Apollo, celebrating his divine domains of music, light, prophecy, and healing. The collection's precise structure remains ambiguous in the historical record and may represent a later compilation of his Apollo-themed verses. Several of his complete hymns survive independently, composed in a range of Greek meters such as anapaestic and dactylic. Of exceptional importance is the survival of musical notation for three of his hymns in a Byzantine manuscript, the Codex Palatinus graecus 281, copied in the 13th or 14th century. These notated pieces provide rare and invaluable insight into the actual sound of ancient Greek music. His poems were also preserved in literary anthologies like the Palatine Anthology. Modern scholarship values these hymns both as poetry and as exceptional documentary evidence for musical practice during the Roman imperial period.
 
 ## Text
 

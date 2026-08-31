@@ -5,6 +5,7 @@ author: Nicomachus of Gerasa
 eul_wid: owy-ab
 eul_aid: owy
 canonical: "https://eulogikon.org/works/nicomachus-gerasa-theological-arithmetic-owy-ab"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Mathematics
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Nicomachus of Gerasa
 
 **eul_wid:** `owy-ab` · [HTML page](https://eulogikon.org/works/nicomachus-gerasa-theological-arithmetic-owy-ab)
-
-The Theological Arithmetic is a lost treatise attributed to the Neopythagorean mathematician Nicomachus of Gerasa, who flourished around 100 CE. No fragments of the work survive directly; its existence is known solely from a reference by the 4th-century Neoplatonist philosopher Iamblichus. Based on its title and the character of Nicomachus's extant works, it is understood to have explored the mystical and theological properties of numbers within the Pythagorean tradition. The treatise would have examined the divine and symbolic significance of numbers as cosmological principles, investigating their ontological role as fundamental archetypes of reality. Its content likely included detailed analysis of the attributes of specific numbers, such as the monad, dyad, and decad. The work is not preserved in any manuscript tradition, and knowledge of it derives entirely from such later testimonia. Iamblichus cites it as a source in his own writings on Pythagorean number theory. Although lost, the treatise represents a significant strand of Neopythagorean thought that deeply intertwined mathematics with metaphysics. Through Iamblichus's citation, its conceptual framework contributed to the enduring tradition of arithmology, influencing Neoplatonic and later medieval philosophical speculation on the symbolic nature of number.
 
 ## Text
 

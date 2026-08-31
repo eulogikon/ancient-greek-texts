@@ -5,6 +5,7 @@ author: Dioscorides of Anazarbus
 eul_wid: nyi-ac
 eul_aid: nyi
 canonical: "https://eulogikon.org/works/dioscorides-anazarbus-medical-material-nyi-ac"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Medicine
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Dioscorides of Anazarbus
 
 **eul_wid:** `nyi-ac` · [HTML page](https://eulogikon.org/works/dioscorides-anazarbus-medical-material-nyi-ac)
-
-On Medical Material, commonly known by its Latin title De Materia Medica, is a foundational pharmacological treatise composed by the Greek physician Pedanius Dioscorides of Anazarbus around 50–70 CE. Written in five books, it systematically describes approximately 725 medicinal substances derived from plants, animals, and minerals. Dioscorides organized these entries not alphabetically but according to their pharmacological properties and therapeutic effects, grouping together remedies with similar uses. This innovative, practical system was designed for direct application by physicians and compounders of drugs.
-
-The work was compiled during the early Roman Empire, a period of extensive trade and military expansion. Dioscorides, who likely traveled with the Roman army, thereby gained access to specimens from across the known world. In his preface, he emphasizes firsthand observation and practical experience over abstract theoretical systems, positioning the text as a reliable manual for identifying, preparing, and applying remedies for a vast array of ailments. Modern scholarship regards it as a critical synthesis of Hellenistic medical knowledge, distinguished by its empirical approach and functional organization.
-
-The text has survived nearly in its entirety through a rich manuscript tradition. The oldest complete Greek copies date from around the 5th century CE onward, and the work was subsequently translated into Latin and Arabic. Its enduring authority established it as the central pharmacological reference in the Byzantine, Islamic, and medieval European worlds for over 1,500 years, setting the standard for all subsequent herbals and pharmacopoeias.
 
 ## Text
 

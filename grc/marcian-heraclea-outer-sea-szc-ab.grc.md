@@ -5,6 +5,7 @@ author: Marcian of Heraclea
 eul_wid: szc-ab
 eul_aid: szc
 canonical: "https://eulogikon.org/works/marcian-heraclea-outer-sea-szc-ab"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Geography
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Marcian of Heraclea
 
 **eul_wid:** `szc-ab` · [HTML page](https://eulogikon.org/works/marcian-heraclea-outer-sea-szc-ab)
-
-The Periplus of the Outer Sea is a geographical treatise composed in Greek by Marcian of Heraclea, likely in the late fourth or early fifth century CE. It functions as a systematic navigational guide to the coastlines of the world ocean beyond the Mediterranean, which contemporary geography termed the Outer Sea. The work is organized into two books, with the first dedicated to the Atlantic Ocean and its adjacent shores, including western Europe and Africa. The second book details the Indian Ocean, methodically describing the littoral regions from the Red Sea and Persian Gulf eastward to the Indian subcontinent. Following the conventions of the ancient periplous genre, it catalogs ports, coastal landmarks, and the sailing distances between them measured in stades.
-
-The complete text does not survive independently but is known through fragments and excerpts preserved in later Byzantine compilations, such as the geographical lexicon of Stephanus of Byzantium and the Bibliotheca of Photius. Scholarly analysis indicates that Marcian’s work was not based on personal travel but was rather a scholarly synthesis, meticulously compiling and condensing geographical data from earlier authorities, most notably Ptolemy and Artemidorus of Ephesus. It is generally understood to have been conceived as a companion volume to Marcian’s treatise on the Mediterranean, thereby forming a comprehensive two-part geographical handbook intended for an educated late Roman readership, possibly for reference or pedagogical purposes.
 
 ## Text
 

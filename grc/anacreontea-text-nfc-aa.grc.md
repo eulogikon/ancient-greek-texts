@@ -1,10 +1,11 @@
 ---
 title: Anacreontea
 title_greek: Ἀνακρεόντεια
-author: "Anacreontea "
+author: Anacreontea
 eul_wid: nfc-aa
 eul_aid: nfc
 canonical: "https://eulogikon.org/works/anacreontea-text-nfc-aa"
+lang: grc
 period: Hellenistic
 dialect: Mixed Dialects
 domain: Poetry
@@ -16,13 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνακρεόντεια*
 
-**Author:** Anacreontea 
+**Author:** Anacreontea
 
 **eul_wid:** `nfc-aa` · [HTML page](https://eulogikon.org/works/anacreontea-text-nfc-aa)
-
-The Anacreontea is a collection of approximately sixty short Greek lyric poems composed by various anonymous authors in imitation of the style of the archaic poet Anacreon. The poems were written over an extensive period, likely spanning from the 1st century BCE to the 6th century CE. They consistently celebrate the classic Anacreontic themes of wine, playful eroticism, and the carpe diem pursuit of pleasure in defiance of old age and mortality. The works are brief, typically between eight and twenty lines, and employ metrical forms associated with this imitative tradition, most notably the verse pattern that later became definitively known as "anacreontics."
-
-The entire corpus survives due to its inclusion in a single 10th-century Byzantine manuscript, the Palatine Anthology, which also preserves the bulk of the Greek Anthology. No earlier papyrus fragments of these specific poems are known, rendering this late manuscript the sole textual source. Modern scholarship regards the collection not as the genuine work of the historical Anacreon but as a sophisticated literary exercise by later poets writing for educated, elite audiences. The poems were likely composed for, or deliberately evoke, the context of the symposium, or aristocratic drinking party. Their preservation within a scholastic anthology indicates they were valued for centuries as exemplary models of a light and graceful style. The Renaissance publication of these poems, erroneously attributed to Anacreon himself, ignited a major European fashion for "Anacreontic" poetry, which centered on themes of refined and lighthearted hedonism.
 
 ## Text
 
@@ -170,6 +167,8 @@ The entire corpus survives due to its inclusion in a single 10th-century Byzanti
 
 ποίει Διὸς γόνον, Βάκχον Εὔιον ἡμῖν. μύστις νάματος ἦι Κύπρις ὑμεναίους κροτοῦσα· χάρασς’ Ἔρωτας ἀνόπλους[ln_15]καὶ Χάριτας γελώσας ὑπ’ ἄμπελον εὐπέταλον εὐβότρυον κομῶσαν· σύναπτε κούρους εὐπρεπεῖς ἀν μη Φοῖβος ἀθύρηι.
 
+*[crux: ἀν μη]*
+
 ### book 6.1
 
 Στέφος
@@ -249,6 +248,8 @@ The entire corpus survives due to its inclusion in a single 10th-century Byzanti
 ### book 10.2
 
 ποιήσω, τί σοι, λάλευ χελιδόν; τὰ ταρσά σευ τὰ κοῦφα θέλεις λαβὼν
+
+*[crux: λάλευ]*
 
 ### book 10.3
 
@@ -814,9 +815,13 @@ The entire corpus survives due to its inclusion in a single 10th-century Byzanti
 
 τεῖρεν ἱδρώς· κραδίη δὲ ῥινὸς ἄχρις ἀνέβαινε, κἂν ἀπέσβην. ὁ δ’ Ἔρως μέτωπα
 
+*[crux: μέτωπα]*
+
 ### book 31.7
 
 σείων[ln_10]ἁπαλοῖς
+
+*[crux: [ln_10]ἁπαλοῖς]*
 
 ### book 31.8
 
@@ -914,6 +919,8 @@ The entire corpus survives due to its inclusion in a single 10th-century Byzanti
 
 πεπωκώς βασιλεὺς ὅπως ἀείδεις.[ln_5]σὰ γάρ ἐστι κεῖνα πάντα, ὁπόσα βλέπεις ἐν ἀγροῖς κοπόσα φέρουσιν ὗλαι. σὺ δὲ φείδεαι γεωργῶν, ἀπὸ μηδενός
 
+*[crux: κοπόσα]*
+
 ### book 34.4
 
 τι βλάπτων·[ln_10]σὺ δὲ τίμιος βροτοῖσιν, θέρεος γλυκὺς
@@ -981,6 +988,8 @@ The entire corpus survives due to its inclusion in a single 10th-century Byzanti
 ### book 36.4
 
 φυλάττων, ἵν’ ασθενεῖν ἐπέλη[ln_5]λάβηι
+
+*[crux: ασθενεῖν ἐπέλη]*
 
 ### book 36.5
 
@@ -1065,6 +1074,8 @@ The entire corpus survives due to its inclusion in a single 10th-century Byzanti
 ### book 40.3
 
 παρῆλθον, ὃν δ’ ἔχω δραμεῖν οὐκ οἶδα.[ln_5]μέθετέ με
+
+*[crux: μέθετέ]*
 
 ### book 40.4
 
@@ -1210,13 +1221,23 @@ The entire corpus survives due to its inclusion in a single 10th-century Byzanti
 
 σκιαὶ δονοῦνται, τὰ βροτῶν δ’ ἔλαμψεν ἔργα,[ln_10]καρποῖσι γαῖα
 
+*[crux: καρποῖσι]*
+
 ### book 46.5
 
 προκύπτει, καρπὸς ἐλαίας προκύπτει· Βρομίου
 
+*[crux: προκύπτει·]*
+
 ### book 46.6
 
 στέφεται νᾶμα κατὰ φύλλον κατακλόνον καθελων ἤνθισε καρπός.
+
+*[crux: νᾶμα]*
+
+*[crux: κατακλόνον]*
+
+*[crux: ἤνθισε]*
 
 ### book 47.1
 
@@ -1374,6 +1395,8 @@ The entire corpus survives due to its inclusion in a single 10th-century Byzanti
 
 Στεφανηφόρου μετ’ ἦρος μέλομαι ῥόδον τέρεινον σὺνεταιρεῖ ἀύξει μέλπειν. τόδε γὰρ θεῶν ἄημα,[ln_5]τόδε καὶ βροτοῖσι χάρμα, Χάρισίν τ’ ἄγαλμ’ ἐν ὥραις
 
+*[crux: σὺνεταιρεῖ ἀύξει]*
+
 ### book 55.2
 
 πολυανθέων Ἐρώτων, ἀφροδίσιόν τ’ ἄθυρμα· τόδε καὶ μέλημα μύθοις[ln_10]χαρίεν
@@ -1453,6 +1476,8 @@ The entire corpus survives due to its inclusion in a single 10th-century Byzanti
 ### book 57.3
 
 πρῶτα τέμνει[ln_20]μέσον αὔλακος δὲ Κύπρις κρίνον ὣς ἴοις ἑλιχθέν διαφαίνεται γαλήνας. ὑπερἀργύρωι δ’ ὀχοῦνται ἐπὶ δελφῖσι
+
+*[crux: ὑπερἀργύρωι]*
 
 ### book 57.4
 
@@ -1549,6 +1574,10 @@ The entire corpus survives due to its inclusion in a single 10th-century Byzanti
 ### book 58.6
 
 φρεσὶν πάροικος·[ln_35]ἀχὰν δέασ ὀρίνοις αἴγλαν τε λαμπρύνοις.
+
+*[crux: δέασ]*
+
+*[crux: τε λαμπρύνοις]*
 
 ### book 59.1
 
@@ -1649,6 +1678,8 @@ The entire corpus survives due to its inclusion in a single 10th-century Byzanti
 ### book 60.1
 
 [ln_18]φύσεως δ’ ἄμειψε μορφήν, φυτὸν εὐθαλὲς δ’ ἐπήχθη.[ln_20]ὁ δὲ Φοῖβος ἠὲ Φοῖβος κρατέειν κόρην νομίζων, χλοερὸν δρέπων δὲ φύλλον ἐδόκει
+
+*[crux: ἠὲ Φοῖβος]*
 
 ### book 60.2
 

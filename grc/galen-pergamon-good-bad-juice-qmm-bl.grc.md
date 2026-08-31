@@ -5,6 +5,7 @@ author: Galen of Pergamon
 eul_wid: qmm-bl
 eul_aid: qmm
 canonical: "https://eulogikon.org/works/galen-pergamon-good-bad-juice-qmm-bl"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Galen of Pergamon
 
 **eul_wid:** `qmm-bl` · [HTML page](https://eulogikon.org/works/galen-pergamon-good-bad-juice-qmm-bl)
-
-_On Substances of Good and Bad Juice_ is a medical treatise by the physician Galen of Pergamon. The work examines the material causes that produce beneficial or harmful bodily juices, or humors, a topic central to Galenic humoral theory. It analyzes the substances that generate the fundamental humors, detailing the processes of digestion and nutrition by which food is transformed into either healthy or pathological bodily fluids. A significant portion of the treatise is devoted to explaining disease causation through the generation of these corrupt humors, a concept Galen illustrates with observations from prolonged famines, where populations forced to consume poor-quality foods suffered widespread illness. The treatise is extant and appears in the standard modern edition of Galen's works. Preserved within the broader corpus of Galenic manuscripts transmitted through Byzantine, Arabic, and Latin traditions, it contributed to the medieval and Renaissance understanding of humoral physiology. Its concepts were integrated into the dominant Galenic medical framework that persisted in Western and Islamic medicine for centuries.
 
 ## Text
 

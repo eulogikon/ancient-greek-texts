@@ -5,6 +5,7 @@ author: Pseudo-Galen
 eul_wid: tqu-al
 eul_aid: tqu
 canonical: "https://eulogikon.org/works/pseudo-galen-introduction-tqu-al"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Pseudo-Galen
 
 **eul_wid:** `tqu-al` · [HTML page](https://eulogikon.org/works/pseudo-galen-introduction-tqu-al)
-
-The Introduction or Physician is an anonymous medical treatise belonging to the Hippocratic Corpus, a collection of foundational Greek medical texts composed between the late fifth century BCE and the second century CE. Structured as a series of 124 distinct passages, the work functions as an instructional primer. Its content, as suggested by the title, likely addresses the definition and role of the physician, foundational medical principles and methodologies, professional ethics, and descriptions of basic medical concepts and treatments. The treatise opens by recounting the mythological origins of medicine, attributing its discovery to Asclepius, who learned it from Apollo, and noting the pre-technical herbal knowledge of figures like the centaur Chiron. It further acknowledges the early pharmacological traditions of the Egyptians and suggests that surgical knowledge was gained from the dissection of bodies prepared for mummification. The text survives through the medieval manuscript tradition of the Hippocratic Corpus and is documented in modern scholarly resources. As an introductory component of the corpus, it contributed to the educational framework that shaped medical theory and practice in the Greco-Roman world and beyond.
 
 ## Text
 

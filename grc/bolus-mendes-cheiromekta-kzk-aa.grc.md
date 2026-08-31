@@ -5,6 +5,7 @@ author: Bolus of Mendes
 eul_wid: kzk-aa
 eul_aid: kzk
 canonical: "https://eulogikon.org/works/bolus-mendes-cheiromekta-kzk-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine (frg)
 domain: Medicine
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Bolus of Mendes
 
 **eul_wid:** `kzk-aa` · [HTML page](https://eulogikon.org/works/bolus-mendes-cheiromekta-kzk-aa)
-
-The treatise On the Cheiromekta is attributed to Bolus of Mendes, an Egyptian Greek writer of the Ptolemaic period, likely active in the 3rd or 2nd century BCE. He is closely associated with the pseudepigraphical tradition that ascribed various works on natural philosophy and craft to the pre-Socratic philosopher Democritus. The title refers to "cheiromekta," meaning "hand-lengths," a unit of linear measurement. While the specific content of the treatise is not preserved in full, its title and its placement within the Bolus-Democritus corpus strongly indicate a focus on the precise measurements required for compounding drugs or preparing alchemical substances. This would involve the standardization of measures and the practical application of quantitative proportions to achieve qualitative transformations in matter, a central concern in early technical and proto-scientific writing.
-
-The work is attested as part of the influential Bolus-Democritus corpus, which was transmitted through the later alchemical tradition. The original Greek text likely survives only as a title or in fragmentary form within Byzantine manuscripts that compiled various alchemical and technical works. As a component of this corpus, which famously blended Democritean atomistic philosophy with Egyptian practical knowledge, On the Cheiromekta would have contributed to the technical foundation of Greco-Egyptian alchemy. A treatise dedicated to measurement standards was of fundamental importance for the procedures of early pharmacy and chrysopoeia, the art of gold-making, ensuring the repeatability and perceived efficacy of complex recipes.
 
 ## Text
 

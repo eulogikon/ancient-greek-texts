@@ -5,6 +5,7 @@ author: Timotheus of Gaza
 eul_wid: usw-aa
 eul_aid: usw
 canonical: "https://eulogikon.org/works/timotheus-gaza-excerpts-animals-usw-aa"
+lang: grc
 period: Late Antique
 dialect: Christian Koine
 domain: Grammar
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Timotheus of Gaza
 
 **eul_wid:** `usw-aa` · [HTML page](https://eulogikon.org/works/timotheus-gaza-excerpts-animals-usw-aa)
-
-The Excerpts from Books-Animals is a zoological compilation by the grammarian Timotheus of Gaza, composed in Greek during the reign of the Byzantine Emperor Anastasius I, approximately between 491 and 518 CE. Commissioned for the emperor, the original treatise spanned four books and encompassed descriptions of a broad spectrum of animals. Its scope ranged from familiar fauna of the Mediterranean world to exotic creatures such as elephants, giraffes, and tigers, knowledge of which was derived from diplomatic gifts received at the imperial court. Timotheus synthesized material from earlier Greek authorities with his own direct observations of these living specimens.
-
-The complete four-book work is no longer extant. What survives is an epitome, or condensed summary, preserved within a single 13th-century manuscript. This epitome consists of 54 discrete passages, each detailing the characteristics and lore associated with specific animals. The content reflects the late antique scholarly tradition of blending established book learning with empirical reportage. Modern scholarship regards the compilation as a significant conduit for the transmission of ancient Greek zoological knowledge into the medieval period, where it influenced later translations and encyclopedic works.
 
 ## Text
 

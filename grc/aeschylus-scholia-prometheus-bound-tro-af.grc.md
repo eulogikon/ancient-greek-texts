@@ -5,6 +5,7 @@ author: Aeschylus Scholia
 eul_wid: tro-af
 eul_aid: tro
 canonical: "https://eulogikon.org/works/aeschylus-scholia-prometheus-bound-tro-af"
+lang: grc
 period: Late Antique
 dialect: Byzantine Greek
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aeschylus Scholia
 
 **eul_wid:** `tro-af` · [HTML page](https://eulogikon.org/works/aeschylus-scholia-prometheus-bound-tro-af)
-
-The Scholia on Prometheus Bound constitute a corpus of ancient and Byzantine marginal annotations on the Aeschylean tragedy. These 221 discrete notes represent a composite exegetical tradition, compiling the work of Hellenistic scholars such as Aristophanes of Byzantium with the contributions of later Byzantine grammarians. Preserved within medieval manuscripts of the play, the scholia functioned primarily as an educational aid for the advanced study of Attic drama. Their content encompasses textual criticism, including discussions of variant readings and editorial emendations; linguistic explanation through glosses of rare words and grammatical analysis; and the identification of mythological and historical allusions. Further notes provide literary analysis on meter, style, and rhetorical devices, alongside interpretive commentary on plot and character. The scholia survive indirectly within the medieval manuscript tradition of Aeschylus, notably the tenth-century Mediceus codex, forming layered palimpsests of exegesis from different eras. While modern scholarship frequently disputes the authorship of Prometheus Bound, the ancient scholiasts uniformly treated it as authentically Aeschylean. As the principal vehicle for transmitting ancient scholarly criticism on Aeschylus, the scholia are indispensable to modern philology, offering crucial insights into the historical understanding and pedagogical treatment of the text and directly informing contemporary critical editions and interpretations of the play.
 
 ## Text
 

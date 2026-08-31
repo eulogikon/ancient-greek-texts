@@ -5,6 +5,7 @@ author: Theophrastus of Eresus
 eul_wid: ljk-af
 eul_aid: ljk
 canonical: "https://eulogikon.org/works/theophrastus-eresus-metaphysics-ljk-af"
+lang: grc
 period: Hellenistic
 dialect: Attic Philosophical
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Theophrastus of Eresus
 
 **eul_wid:** `ljk-af` · [HTML page](https://eulogikon.org/works/theophrastus-eresus-metaphysics-ljk-af)
-
-The Metaphysics, also known as On First Principles, is a philosophical treatise by Theophrastus of Eresus, the immediate successor to Aristotle as head of the Peripatetic school. Composed in the late fourth or early third century BCE, this concise work consists of sixteen chapters of critical discussion rather than a systematic exposition. It focuses on identifying conceptual difficulties within the Aristotelian framework, particularly concerning the nature of the prime mover, the relationship between the celestial and sublunary realms, and the universal applicability of final causation in natural phenomena. The text survives in full within the medieval manuscript tradition of Aristotle's works. Scholars regard it as an internal school document that reveals the early evolution of Peripatetic thought, showcasing Theophrastus's rigorous interrogation of his master's system. His aporetic method questions whether a single first principle can adequately account for the observed complexity and opposition in the natural world. This critical style made the treatise influential for later ancient philosophers and, following its rediscovery during the Renaissance, for early modern interpretations of Aristotelian doctrine.
 
 ## Text
 

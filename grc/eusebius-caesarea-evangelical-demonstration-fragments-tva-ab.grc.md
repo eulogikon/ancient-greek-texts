@@ -5,6 +5,7 @@ author: Eusebius of Caesarea
 eul_wid: tva-ab
 eul_aid: tva
 canonical: "https://eulogikon.org/works/eusebius-caesarea-evangelical-demonstration-fragments-tva-ab"
+lang: grc
 period: Late Antique
 dialect: Christian Koine
 domain: Theology
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Eusebius of Caesarea
 
 **eul_wid:** `tva-ab` · [HTML page](https://eulogikon.org/works/eusebius-caesarea-evangelical-demonstration-fragments-tva-ab)
-
-The Evangelical Demonstration is a major apologetic treatise in Greek by the early Christian scholar Eusebius of Caesarea, composed approximately between 314 and 324 CE. It constitutes the second half of a two-part defense of Christianity, complementing his earlier Preparation for the Gospel. Whereas the Preparation argued for the philosophical superiority of Christian doctrine over Hellenic thought, the Demonstration is dedicated to proving from the Hebrew scriptures that Jesus of Nazareth is the promised Messiah and that the Christian community represents the true continuation of God's covenant people. The complete work originally comprised twenty books, but only a portion survives today. The first ten books are preserved intact, while the latter ten are largely lost, with the extant fragments of Book XV representing some of the few remnants from the treatise's second half.
-
-The work is structured as a systematic theological argument, marshaling Old Testament prophecies which Eusebius interprets as precise prefigurations of Christ's life, mission, and the establishment of his church. In the surviving passages, such as those from Book XV, his method is evident as he draws detailed parallels between prophetic visions. He compares, for instance, the prophet Daniel's vision of four beasts and ten horns with King Nebuchadnezzar's dream of a great statue composed of four metals, arguing both symbolically foretell the same sequence of earthly kingdoms ultimately superseded by God's eternal reign. This typological exegesis forms the core of his apologetic, seeking to demonstrate a coherent divine plan across both testaments.
-
-Composed in the brief period of peace following the Diocletianic persecution and preceding the Edict of Milan, the Demonstration reflects a pivotal moment in Christian history. It was likely intended to provide a robust intellectual foundation for educated converts and to counter Jewish polemical arguments against Christian interpretations of scripture. Its principal themes include the fulfillment of prophecy in the person of Jesus, the christological reading of the Hebrew Bible, and the theological claim of ecclesiastical succession to Israel's covenantal promises. The loss of much of the text, particularly its later books, leaves a considerable gap in understanding the full scope of Eusebius's apologetic system. Nevertheless, the surviving portions, including these fragments, remain crucial for illuminating the sophisticated scriptural and theological debates that characterized early fourth-century Christianity.
 
 ## Text
 

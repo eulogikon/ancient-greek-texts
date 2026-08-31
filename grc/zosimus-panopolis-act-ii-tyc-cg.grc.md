@@ -5,6 +5,7 @@ author: Zosimus of Panopolis
 eul_wid: tyc-cg
 eul_aid: tyc
 canonical: "https://eulogikon.org/works/zosimus-panopolis-act-ii-tyc-cg"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Zosimus of Panopolis
 
 **eul_wid:** `tyc-cg` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-act-ii-tyc-cg)
-
-Act II is an alchemical treatise written in Greek by Zosimus of Panopolis around 300 CE. It forms part of his larger, mostly lost corpus known as the Authentic Memoirs. The work is structured in five passages and blends precise technical instructions with spiritual allegory. It details practical laboratory operations such as distillation and the use of specific apparatus, while also expounding foundational alchemical theories, including the composition of metals from sulfur and mercury. A central theme is the pursuit of the "divine water" or philosopher's stone, conceived as the ultimate agent of material and spiritual transformation.
-
-Composed in late Roman Egypt, a period of significant religious and philosophical syncretism, the treatise synthesizes earlier craft knowledge with Gnostic and Platonic thought. Zosimus frames the purification and transmutation of metals as a direct analogy for the purification and liberation of the human soul, elevating the technical art into a spiritual discipline. The original Greek text does not survive intact. It is known only through fragments and excerpts preserved in later Byzantine manuscript compilations dating from the 7th or 8th century onward, as well as through Syriac and Arabic translations that transmitted his ideas into the Islamic world and subsequently to medieval Latin Europe.
 
 ## Text
 

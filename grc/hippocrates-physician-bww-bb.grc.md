@@ -5,6 +5,7 @@ author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-bb
 eul_aid: bww
 canonical: "https://eulogikon.org/works/hippocrates-physician-bww-bb"
+lang: grc
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hippocrates and the Hippocratic Corpus
 
 **eul_wid:** `bww-bb` · [HTML page](https://eulogikon.org/works/hippocrates-physician-bww-bb)
-
-On the Physician is a concise treatise from the Hippocratic Corpus, the collection of medical works attributed to Hippocrates of Cos and his school, composed in Ionic Greek during the fifth or fourth century BCE. The work consists of eleven brief passages and departs from technical medical instruction to focus exclusively on the professional conduct and personal bearing of the physician. It offers detailed guidance on maintaining a respectable appearance, advising clean nails, modest dress, and the use of subtle scents. More significantly, it prescribes an ideal demeanor for the practitioner: he must be orderly, composed, and dignified, exhibiting a balance between solemnity and kindness to inspire the trust and confidence of patients. The text emphasizes that such self-presentation is not merely a matter of etiquette but is fundamental to the therapeutic relationship and the public reputation of the healer.
-
-This treatise reflects a pivotal effort within classical Greek medicine to define and professionalize the art, distinguishing the learned physician from other types of healers. Scholars interpret it as a practical manual for medical students or practitioners, aimed at standardizing a trustworthy professional image and establishing medicine as a reputable craft based on ethical conduct and social decorum. The full text survives through medieval manuscript traditions, including a notable tenth-century copy in Venice. While its direct authorship by Hippocrates is uncertain, it is considered an authentic product of the early Hippocratic milieu and a valuable document for understanding the social dimensions of ancient medical practice.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Aristides the Orator
 eul_wid: qwm-cb
 eul_aid: qwm
 canonical: "https://eulogikon.org/works/aristides-orator-herakles-qwm-cb"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristides the Orator
 
 **eul_wid:** `qwm-cb` · [HTML page](https://eulogikon.org/works/aristides-orator-herakles-qwm-cb)
-
-The oration "Heracles," also known as the "Isthmian Oration to Poseidon," is a display speech by the celebrated Greek orator Aelius Aristides. Composed in Attic Greek likely between 150 and 170 CE, it stands as a prime example of epideictic oratory from the Second Sophistic period, a cultural movement marked by a revival of Greek rhetorical arts under Roman imperial rule. The speech was crafted for public performance at the Isthmian Games, a major Panhellenic festival held near Corinth in honor of the god Poseidon. Structured in six parts, the work functions as a sophisticated piece of public praise, celebrating Poseidon as the patron of the festival and the Isthmus while simultaneously honoring the legendary hero Heracles. Modern scholarship interprets the oration as a skillful blend of religious piety and cultural commentary, using the ceremonial occasion to reinforce a shared Greek identity, the values of elite education, and the continuity of Hellenic tradition for an audience comprising both Greek and Roman elites. The complete text survives through medieval manuscripts and is included in modern critical editions of Aristides' extensive body of work.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Dio Cassius of Nicaea
 eul_wid: rhq-ao
 eul_aid: rhq
 canonical: "https://eulogikon.org/works/dio-cassius-nicaea-uncertain-remains-rhq-ao"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Dio Cassius of Nicaea
 
 **eul_wid:** `rhq-ao` · [HTML page](https://eulogikon.org/works/dio-cassius-nicaea-uncertain-remains-rhq-ao)
-
-The Remains of Uncertain Position is a modern editorial designation for a collection of twenty fragmentary passages attributed to the historian Cassius Dio. These excerpts, whose original location within the narrative sequence of Dio’s monumental Roman History cannot be determined, are preserved through Byzantine scholarly traditions. The fragments derive from later excerpting projects, such as the epitome by John Xiphilinus and the historical compilations commissioned by Emperor Constantine VII Porphyrogennetos, where their original chronological context was lost. As surviving pieces of Dio’s lost books, their content reflects the core themes of his history, including the political transition from republic to principate, analyses of imperial character and governance, the role of fortune in human affairs, and the military and administrative narrative of Roman power. These uncertain remains are of significant scholarly value, as Cassius Dio’s work is a principal source for Roman history, particularly for periods where other major accounts are fragmentary. They provide critical, albeit disjointed, evidence for reconstructing the historian’s perspectives and for recovering information about the first and second centuries CE from the lost portions of his history.
 
 ## Text
 

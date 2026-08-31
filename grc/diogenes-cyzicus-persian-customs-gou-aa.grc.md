@@ -5,6 +5,7 @@ author: Diogenes of Cyzicus
 eul_wid: gou-aa
 eul_aid: gou
 canonical: "https://eulogikon.org/works/diogenes-cyzicus-persian-customs-gou-aa"
+lang: grc
 period: Classical
 dialect: Koine
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Diogenes of Cyzicus
 
 **eul_wid:** `gou-aa` · [HTML page](https://eulogikon.org/works/diogenes-cyzicus-persian-customs-gou-aa)
-
-The work On Cyzicus and Persian Customs is a lost Hellenistic text attributed to the local historian Diogenes of Cyzicus. According to the Suda lexicon, it comprised five volumes. Surviving only in fragments, primarily through quotations by Athenaeus in his Deipnosophistae, the work was a prose history and ethnography. Its content appears to have been divided between two principal subjects: the foundation myths and historical traditions of the Greek city of Cyzicus, and descriptive accounts of Persian laws, customs, and court rituals. The fragments, cataloged in modern collections of Greek historians, are transmitted almost exclusively through the citations of later compilers like Athenaeus, who wrote in the late second or early third century CE. As a representative of Hellenistic local history and ethnography, the work exemplifies the Greek intellectual interest in the specific histories of cities and the customs of neighboring peoples. Its scattered remains provide valuable, if isolated, data for reconstructing aspects of Cyzican civic tradition and contemporary Greek perceptions of Persian culture.
 
 ## Text
 

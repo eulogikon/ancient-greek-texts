@@ -5,6 +5,7 @@ author: Maximus the Confessor
 eul_wid: vzo-aa
 eul_aid: vzo
 canonical: "https://eulogikon.org/works/maximus-confessor-book-fragment-vzo-aa"
+lang: grc
 period: Byzantine
 domain: Philosophy
 format: Prose

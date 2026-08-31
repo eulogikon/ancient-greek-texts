@@ -5,6 +5,7 @@ author: Epitaph of Abercius
 eul_wid: rcq-aa
 eul_aid: rcq
 canonical: "https://eulogikon.org/works/epitaph-abercius-text-rcq-aa"
+lang: grc
 period: Roman
 dialect: Christian Koine
 domain: Poetry
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Epitaph of Abercius
 
 **eul_wid:** `rcq-aa` · [HTML page](https://eulogikon.org/works/epitaph-abercius-text-rcq-aa)
-
-The Epitaph of Abercius is a twenty-two line Greek verse inscription, carved on a marble tombstone in the late second century CE. Its author, Abercius, identified as the Bishop of Hieropolis in Phrygia, composed the poem as his own funerary monument. The text presents a first-person account of his life and faith, describing his spiritual education under a "pure Shepherd" and his extensive travels to Rome and across Syria. These journeys, which included crossing the Euphrates to Nisibis, are presented not merely as personal biography but as a testament to the universal fellowship he encountered, symbolized by having "Paul" as a companion. The inscription is celebrated as one of the oldest and most significant surviving Christian texts from this period.
-
-The work employs a symbolic and allusive vocabulary characteristic of a time when Christian expression required discretion. It describes the Eucharist through the metaphor of a "fish from the spring, pure and huge," a clear reference to the early Christian ichthys symbol for Jesus Christ, which a "holy virgin" presents to the faithful alongside wine and bread. This coded language functioned as a public declaration of faith intelligible to fellow Christians while avoiding overtly provocative terminology. The stone was originally erected in Hieropolis but was later lost, its full text preserved only within a Byzantine hagiographical work, the Life of St. Abercius. In 1883, archaeological excavations recovered fragments of the original marble, which confirmed the accuracy of the transmitted literary copy. The reassembled inscription is now housed in the Vatican Museums. As both a literary composition and an archaeological artifact, it provides invaluable evidence for the liturgy, communal identity, and geographical reach of the early Christian church.
 
 ## Text
 

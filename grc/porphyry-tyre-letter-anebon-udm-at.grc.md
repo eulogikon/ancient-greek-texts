@@ -5,6 +5,7 @@ author: Porphyry of Tyre
 eul_wid: udm-at
 eul_aid: udm
 canonical: "https://eulogikon.org/works/porphyry-tyre-letter-anebon-udm-at"
+lang: grc
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Porphyry of Tyre
 
 **eul_wid:** `udm-at` · [HTML page](https://eulogikon.org/works/porphyry-tyre-letter-anebon-udm-at)
-
-The Letter to Anebon is a philosophical epistle composed in Greek by the Neoplatonist philosopher Porphyry of Tyre, addressed to an Egyptian priest of that name. Written around 263 CE, the work constitutes a rigorous critique of Egyptian theological doctrines and ritual practices from a rationalist philosophical perspective. Porphyry systematically interrogates the nature of the gods, the logic and purpose of cultic acts such as animal sacrifice, and the internal coherence of the religious system as presented to him. The text survives only in fragmentary form, primarily through extensive quotations preserved by the 4th-century Christian apologist Eusebius of Caesarea, who employed them in his own polemical writings against pagan belief. Scholarly analysis positions the letter as an early and polemical work within Porphyry's corpus, demonstrating his application of Neoplatonic principles to evaluate traditional piety. It is considered a product of ongoing intellectual debate prior to his more systematic treatises on religion and philosophy. As such, the fragments provide significant insight into the critical engagement between Hellenistic philosophy and ancient religious traditions during the later Roman Empire.
 
 ## Text
 

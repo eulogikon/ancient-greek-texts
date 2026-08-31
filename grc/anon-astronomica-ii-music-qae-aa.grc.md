@@ -5,6 +5,7 @@ author: Astronomical Work Anonymous II
 eul_wid: qae-aa
 eul_aid: qae
 canonical: "https://eulogikon.org/works/anon-astronomica-ii-music-qae-aa"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Astronomical Work Anonymous II
 
 **eul_wid:** `qae-aa` · [HTML page](https://eulogikon.org/works/anon-astronomica-ii-music-qae-aa)
-
-The Introduction to Music is an anonymous ancient Greek treatise on music theory, conventionally designated by modern scholars as Anonymous II or the Anonymous of Bellermann after its nineteenth-century editor. Likely composed in late antiquity, perhaps between the second and fourth centuries CE, the work is a systematic instructional manual written in Koine Greek and consisting of sixty-five concise passages. It opens by defining music as a science perfected from its three most essential components: harmonics, rhythmics, and metrics. The treatise proceeds as a compendium of core harmonic theory, methodically treating the seven parts of the harmonized aspect of music: notes, intervals, scale systems, genera, tones, modulations, and melody-making itself. Its clear, didactic structure, which includes an exposition of the fifteen traditional modes or tonoi beginning with the Lydian, indicates it was designed for pedagogical use, probably within the standard educational curriculum of its era. The text survives complete through medieval manuscript transmission, most importantly in Codex Parisinus graecus 3600. It remains a valuable scholarly resource for understanding the systematization and pedagogical transmission of Greek musical theory in the late Roman world.
 
 ## Text
 

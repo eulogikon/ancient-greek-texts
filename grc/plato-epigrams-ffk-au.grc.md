@@ -5,6 +5,7 @@ author: Plato of Athens
 eul_wid: ffk-au
 eul_aid: ffk
 canonical: "https://eulogikon.org/works/plato-epigrams-ffk-au"
+lang: grc
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plato of Athens
 
 **eul_wid:** `ffk-au` · [HTML page](https://eulogikon.org/works/plato-epigrams-ffk-au)
-
-The Epigrams are a collection of ninety-three short Greek poems, traditionally ascribed to the philosopher Plato. Composed primarily in elegiac couplets, they encompass a diverse range of subjects, including epitaphs for the dead, such as the celebrated lines commemorating the Spartans who fell at Thermopylae, dedicatory verses to deities like Pan, expressions of love and desire, and philosophical meditations on life and mortality. The date of their composition is uncertain, and their authenticity has been contested since antiquity. Modern scholarship largely regards the majority as spurious, likely products of later imitators seeking the prestige of Plato's name. Any genuine pieces among them may represent Plato's early poetic endeavors prior to his philosophical career. The collection's transmission history contributes significantly to the doubts surrounding its authorship; it does not appear in the medieval manuscripts preserving Plato's philosophical dialogues but survives through later anthologies, most notably the Greek Anthology, and in the biographical accounts of Diogenes Laertius. Despite questions of origin, these epigrams have exerted a lasting influence, helping to cement Plato's posthumous reputation as a master of concise and evocative verse.
 
 ## Text
 

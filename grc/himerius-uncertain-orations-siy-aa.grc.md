@@ -5,6 +5,7 @@ author: Himerius the Sophist
 eul_wid: siy-aa
 eul_aid: siy
 canonical: "https://eulogikon.org/works/himerius-uncertain-orations-siy-aa"
+lang: grc
 period: Late Antique
 dialect: Atticizing Literary
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Himerius the Sophist
 
 **eul_wid:** `siy-aa` · [HTML page](https://eulogikon.org/works/himerius-uncertain-orations-siy-aa)
-
-The Fragments from Uncertain Orations comprises fifteen surviving excerpts from the oratorical works of Himerius, a sophist who taught rhetoric in Athens during the fourth century CE. These passages represent the epideictic branch of oratory, encompassing ceremonial forms such as panegyrics and funeral orations, though their original titles and complete contexts are unknown. Preserved through later sources, including a Byzantine encyclopedia and an Egyptian papyrus, the fragments exemplify Himerius's highly ornate Attic prose, characterized by poetic diction, mythological allusions, and a deliberate display of rhetorical artistry. As a prominent supporter of Emperor Julian and a defender of classical paideia, Himerius composed these works for performance before students and public audiences, celebrating individuals, commemorating events, and affirming the cultural values of the Hellenic tradition during a period of increasing Christian dominance in the later Roman Empire. The fragments thus serve as significant, though partial, witnesses to the stylistic preoccupations and ideological concerns of the pagan intellectual elite in an age of religious transition.
 
 ## Text
 

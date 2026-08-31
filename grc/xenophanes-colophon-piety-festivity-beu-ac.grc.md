@@ -5,6 +5,7 @@ author: Xenophanes of Colophon
 eul_wid: beu-ac
 eul_aid: beu
 canonical: "https://eulogikon.org/works/xenophanes-colophon-piety-festivity-beu-ac"
+lang: grc
 period: Archaic
 dialect: Ionic (frg)
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Xenophanes of Colophon
 
 **eul_wid:** `beu-ac` · [HTML page](https://eulogikon.org/works/xenophanes-colophon-piety-festivity-beu-ac)
-
-On Piety and Festivity is a modern designation for a collection of poetic fragments attributed to the early Greek philosopher and poet Xenophanes of Colophon. Composed in epic verse, these surviving passages constitute a foundational critique of traditional Greek religion as depicted in the works of Homer and Hesiod. Xenophanes argues forcefully against the anthropomorphic conception of the gods, condemning the attribution of human vices—such as theft, adultery, and deceit—to divine figures as morally unworthy. In a radical departure from convention, he posits a single, supreme deity that is non-anthropomorphic, unchanging, and perceives the cosmos as a whole without physical effort. The fragments further prescribe a model of proper religious observance, advocating for purity, sober hymns, and moderate behavior during symposia and festivals, in contrast to the recitation of what he deemed impious and violent mythological tales. Preserved only through quotation by later ancient authors, these fragments represent the remnants of a larger body of work through which Xenophanes, a traveling poet-thinker, sought to reform religious understanding during a period of intellectual transition. His noted observation that different peoples fashion gods in their own likeness is often regarded as an early articulation of cultural relativism concerning religious belief.
 
 ## Text
 

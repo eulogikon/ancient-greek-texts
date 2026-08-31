@@ -5,6 +5,7 @@ author: Aristophanes Scholia
 eul_wid: mlw-ag
 eul_aid: mlw
 canonical: "https://eulogikon.org/works/aristophanes-scholia-clouds-mlw-ag"
+lang: grc
 period: Hellenistic
 dialect: Technical Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristophanes Scholia
 
 **eul_wid:** `mlw-ag` · [HTML page](https://eulogikon.org/works/aristophanes-scholia-clouds-mlw-ag)
-
-The Commentary on the Clouds by Aristophanes Scholia is an extensive corpus of ancient explanatory notes, or scholia, compiled in the margins of manuscripts containing Aristophanes' comedy The Clouds. This is not a unified work by a single author but rather a cumulative compilation of annotations produced anonymously by generations of scholars, teachers, and scribes from approximately the 2nd century BCE to the 6th century CE. Written in Greek, the surviving collection comprises roughly 2,452 individual notes that elucidate the play's complex language, historical allusions, Athenian social customs, and its philosophical satire. The scholia function as a detailed exegetical guide, offering glosses on obscure vocabulary, identifying contemporary persons and events, and analyzing comic structure and meter. They are of particular historical importance for contextualizing the play's famous caricature of Socrates, shedding light on its critique of intellectual trends in late 5th-century Athens. Modern scholarship views this corpus as a multi-layered palimpsest, preserving fragments of earlier, more expansive Hellenistic and Roman-era commentaries that were subsequently copied, condensed, and reorganized by Byzantine scribes. Only this condensed version of the original, much larger tradition of scholarship survives today, primarily transmitted through two key Byzantine manuscripts dating from the 10th and 11th centuries. The scholia remain an indispensable resource for the textual criticism of Aristophanes, as well as for the study of ancient Athenian culture and the history of classical scholarship.
 
 ## Text
 

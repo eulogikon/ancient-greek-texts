@@ -5,6 +5,7 @@ author: Pittacus Letters
 eul_wid: lta-aa
 eul_aid: lta
 canonical: "https://eulogikon.org/works/pittacus-croesus-lta-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Pittacus Letters
 
 **eul_wid:** `lta-aa` · [HTML page](https://eulogikon.org/works/pittacus-croesus-lta-aa)
-
-The Letter to Croesus is a brief epistle of political and ethical counsel attributed to Pittacus of Mytilene, one of the traditional Seven Sages of Greece. It survives exclusively through two quotations in the biographical compilation of Diogenes Laertius, written in the 3rd century CE. Diogenes presents the letter as Pittacus's reply to an invitation from Croesus, the famously wealthy king of Lydia, to visit his court at Sardis. In his response, Pittacus declines the lavish invitation, stating that he has no need for gold and is content with what he has among his own companions. He nevertheless agrees to visit, not to marvel at Croesus's riches, but to offer the king his companionship as a guest-friend.
-
-The work's central themes concern the superiority of age, experience, and wise judgment over mere material wealth. Pittacus's reply serves as an implicit critique of excess and promotes the ideals of moderation and self-sufficiency. It contrasts political and monetary power with the enduring authority of philosophical counsel, aligning with core Greek ethical concepts like sophrosyne, or self-restraint. The letter's authenticity as a genuine work of the 6th century BCE is often questioned by scholars, who frequently view such sage-king correspondence as a later Hellenistic literary construction that retrojects philosophical dialogues onto legendary figures. Its significance lies primarily as an artifact of the Seven Sages tradition, preserved by Diogenes Laertius as part of the foundational lore of Greek philosophy transmitted to later antiquity and beyond.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Dionysius the Voyager  of Alexandria
 eul_wid: pbe-aa
 eul_aid: pbe
 canonical: "https://eulogikon.org/works/dionysius-alexandria-geographical-fragments-pbe-aa"
+lang: grc
 period: Roman
 dialect: Epic (Homeric)
 domain: Epic
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Dionysius the Voyager  of Alexandria
 
 **eul_wid:** `pbe-aa` · [HTML page](https://eulogikon.org/works/dionysius-alexandria-geographical-fragments-pbe-aa)
-
-The Geographical Fragments of Asia Minor is a collection of 140 fragmentary passages attributed to the Alexandrian poet Dionysius Periegetes. These excerpts are believed to originate from a larger, now-lost geographical poem dedicated specifically to Asia Minor, distinct from his surviving hexameter work, the Periegesis of the Inhabited World. The fragments likely represent either a separate, detailed composition on the region or extensive scholia from his main poem that were later excerpted, as they maintain his characteristic style of descriptive geography in epic verse. The content catalogues the region’s geographical and ethnographic features, including its cities, rivers, and mountains, the characteristics of its various tribes and inhabitants, and mythological associations linking landscapes to heroic legends. While the main Periegesis survived intact through numerous medieval manuscripts and translations, the transmission of these specific fragments is less clear; they are preserved as excerpts, possibly within later geographical compilations, scholia, or epitomes. Dionysius’s geographical poetry served as a standard educational text in antiquity and the Byzantine period, widely commented upon and influential for later geographers. These fragments demonstrate the ongoing scholarly engagement with his work and the enduring poetic tradition of blending literary form with factual description.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Polyzelus the Comic Poet
 eul_wid: eew-ab
 eul_aid: eew
 canonical: "https://eulogikon.org/works/polyzelus-theramenes-tyranny-eew-ab"
+lang: grc
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Polyzelus the Comic Poet
 
 **eul_wid:** `eew-ab` · [HTML page](https://eulogikon.org/works/polyzelus-theramenes-tyranny-eew-ab)
-
-_Fragments on Theramenes and Tyranny_ is a modern compilation of fourteen verse passages attributed to the Athenian comic poet Polyzelus. These excerpts, drawn from one or more of his lost Old Comedies, survive exclusively through quotation by later lexicographers and commentators, such as Harpocration and various scholiasts, who preserved them for their linguistic or historical value. The fragments engage with the turbulent Athenian politics of the late fifth century BCE, offering satirical commentary on the controversial politician Theramenes and the nature of tyrannical rule. Theramenes, infamous for his shifting allegiances during the oligarchic coups of the Four Hundred and the Thirty Tyrants, is a central target. The surviving lines critique political inconstancy and oligarchic excess, reflecting broader comedic scrutiny of power and civic life in the traumatic aftermath of the Peloponnesian War. As no complete play by Polyzelus survives, these fragments, cataloged in modern standard editions like Poetae Comici Graeci, provide valuable evidence for how poets beyond the major surviving figures of Old Comedy participated in the sharp political discourse of their time, capturing popular perceptions of a deeply divisive historical figure and his era.
 
 ## Text
 

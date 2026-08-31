@@ -5,6 +5,7 @@ author: Dorotheus of Sidon
 eul_wid: oho-ad
 eul_aid: oho
 canonical: "https://eulogikon.org/works/dorotheus-sidon-planets-oho-ad"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Dorotheus of Sidon
 
 **eul_wid:** `oho-ad` · [HTML page](https://eulogikon.org/works/dorotheus-sidon-planets-oho-ad)
-
-The Fragments on the Planets consists of two Greek hexameter passages attributed to the astrological poet Dorotheus of Sidon. These fragments, which concern the influences and significations of the planets, are preserved within the later Carmen Astrologicum of Hephaistio of Thebes, written around 380 CE. They originate from Dorotheus’s major, but now lost, five-book astrological poem. The text outlines core doctrines of Hellenistic astrology, including the inherent influences and characteristics of the seven planets and methods for astrological prediction based on their positions. It also exemplifies the use of poetic verse as a medium for technical instruction, as seen in its personification of celestial bodies and their assigned effects on human nature and emotion.
-
-Dorotheus’s primary work is lost in its original Greek. Its content is known principally through a ninth-century Arabic translation and quotations in later Greek compilations. These specific planetary fragments survive via their inclusion in Hephaistio’s anthology. Dorotheus was a foundational authority in the astrological tradition, frequently cited by earlier practitioners like Vettius Valens. His influence extended into medieval Islamic astrology through Arabic translations of his work. The preservation of these fragments within later compendia underscores his enduring status, particularly for his technical contributions concerning time-lord systems and the calculation of planetary periods.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Nicander of Colophon II
 eul_wid: moy-aa
 eul_aid: moy
 canonical: "https://eulogikon.org/works/nicander-colophon-peripeteiai-moy-aa"
+lang: grc
 period: Hellenistic
 dialect: Epic (Homeric)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Nicander of Colophon II
 
 **eul_wid:** `moy-aa` · [HTML page](https://eulogikon.org/works/nicander-colophon-peripeteiai-moy-aa)
-
-The Peripeteiai, or Reversals, is a lost historical work attributed to the Hellenistic historian Nicander of Colophon, a figure distinct from the earlier poet of the same name. Known only through later testimonia, the work’s title indicates a thematic focus on sudden and dramatic changes of fortune in human affairs, a concept central to both historical narrative and dramatic theory. Later sources, such as Athenaeus, preserve fragments that reference the work in the context of anecdotes about figures like King Prusias of Bithynia, noted for his decadence, and other tales of unexpected events, including bizarre personal attachments. These scant references suggest the Peripeteiai belonged to a genre of Hellenistic historiography preoccupied with the role of chance and the ironic twists of fate in political and personal life. While no direct quotations survive, the work remains significant as an illustration of the period’s intellectual interest in narrative reversals and the precarious nature of power and prosperity.
 
 ## Text
 

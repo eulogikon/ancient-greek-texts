@@ -5,6 +5,7 @@ author: Epicharmus of Syracuse
 eul_wid: bhm-ag
 eul_aid: bhm
 canonical: "https://eulogikon.org/works/epicharmus-syracuse-gnomic-comic-wisdom-bhm-ag"
+lang: grc
 period: Archaic
 dialect: Doric
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Epicharmus of Syracuse
 
 **eul_wid:** `bhm-ag` · [HTML page](https://eulogikon.org/works/epicharmus-syracuse-gnomic-comic-wisdom-bhm-ag)
-
-The Gnomic and Comic Wisdom Fragments, also known by the Greek title Apospasmata, constitute a collection of 77 short prose passages attributed to Epicharmus of Syracuse, a foundational figure in the development of Greek comedy during the early fifth century BCE. Composed in Doric Greek, the compilation assembles pithy, often witty maxims addressing a broad range of topics including ethics, practical daily life, health, human nature, and the divine. These fragments stand apart from Epicharmus's lost comedies, presenting not dramatic dialogue but concise, self-contained pieces of philosophical and pragmatic advice. The work survives only in part, transmitted indirectly through later anthologies and quotations by other authors. Its current form as a prose collection is not original to Epicharmus's era but is considered a later compilation, likely assembled long after his death from sentiments either extracted from his plays or invented under the authority of his name. Modern scholarship interprets this collection as a significant artifact of Epicharmus's posthumous reputation, which evolved from that of a comic playwright to a revered sage. His association with philosophical circles in Sicily bolstered this transformation, leading later philosophers to cite him as a source of moral wisdom. While the authenticity of individual sayings remains uncertain, the collection stands as an important testament to the preservation and reinterpretation of his intellectual legacy in antiquity.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Atticus the Philosopher
 eul_wid: rai-aa
 eul_aid: rai
 canonical: "https://eulogikon.org/works/atticus-divisions-philosophy-rai-aa"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Atticus the Philosopher
 
 **eul_wid:** `rai-aa` · [HTML page](https://eulogikon.org/works/atticus-divisions-philosophy-rai-aa)
-
-On the Divisions of Philosophy is a lost philosophical treatise composed in Attic Greek by the second-century Platonist philosopher Atticus. The work survives only in 69 fragments preserved by the fourth-century Christian apologist Eusebius of Caesarea, who quoted them extensively in his own writings. These excerpts indicate that the treatise was a systematic and polemical defense of a dogmatic, purist interpretation of Plato’s philosophy. Its central argument vigorously opposed the contemporary trend of synthesizing Platonic and Aristotelian thought, a practice Atticus sought to discredit. The extant fragments address core philosophical themes including the nature of God, the soul, providence, and ethics, consistently framing them as contrasts between authentic Platonic doctrine and what Atticus viewed as the inferior positions of Aristotle.
-
-The original structure and full scope of the treatise are irrecoverable. Scholars classify it as a significant document of Middle Platonism, exemplifying an anti-syncretic strand of thought aimed at a learned audience of philosophers and advanced students. Its historical importance derives largely from its preservation by Eusebius, who appropriated Atticus’s critiques of Aristotle to bolster his own Christian theological arguments. Consequently, the fragments provide invaluable evidence for the intense doctrinal debates that characterized the Platonic schools during the Roman Imperial period.
 
 ## Text
 

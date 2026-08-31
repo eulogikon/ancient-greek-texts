@@ -5,6 +5,7 @@ author: Origen of Alexandria
 eul_wid: uhs-bo
 eul_aid: uhs
 canonical: "https://eulogikon.org/works/origen-alexandria-genesis-commentary-uhs-bo"
+lang: grc
 period: Late Antique
 dialect: Christian Koine
 domain: Theology
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Origen of Alexandria
 
 **eul_wid:** `uhs-bo` · [HTML page](https://eulogikon.org/works/origen-alexandria-genesis-commentary-uhs-bo)
-
-The Commentaries on Genesis is a biblical exegesis by Origen of Alexandria, composed early in his career, likely during the reign of Emperor Caracalla around 211 to 217 CE. This twelve-book work, dedicated to his patron Ambrose, provided a detailed, verse-by-verse interpretation of the first twenty-five chapters of Genesis based on the Greek Septuagint text. It represents Origen’s initial foray into systematic scriptural commentary, employing an incipient form of allegorical interpretation to uncover spiritual meaning within the narrative. As one of his earliest exegetical undertakings, it predates his more advanced Hebrew textual studies. The commentary is almost entirely lost, surviving only in fragments preserved within later catenae and a brief Latin translation concerning Genesis 1:14, possibly by Rufinus. Despite its fragmentary state, the work holds significant historical importance as it marks the beginning of Origen’s foundational project of scholarly biblical commentary within Christianity, with the exegetical methods explored here being developed more fully in his later and more systematic works.
 
 ## Text
 

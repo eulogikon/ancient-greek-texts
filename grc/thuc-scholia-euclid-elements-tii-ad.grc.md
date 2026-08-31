@@ -5,6 +5,7 @@ author: Thucydides Scholia
 eul_wid: tii-ad
 eul_aid: tii
 canonical: "https://eulogikon.org/works/thuc-scholia-euclid-elements-tii-ad"
+lang: grc
 period: Late Antique
 dialect: Byzantine Technical
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Thucydides Scholia
 
 **eul_wid:** `tii-ad` · [HTML page](https://eulogikon.org/works/thuc-scholia-euclid-elements-tii-ad)
-
-The Scholia on Euclid's Elements is a significant collection of marginal and interlinear commentaries on Euclid's foundational geometric treatise. Unusually attributed to a scholiast named Thucydides, this compilation forms part of the extensive exegetical tradition that grew around the Elements. The scholia encompass numerous individual notes that serve a variety of scholarly functions, including textual criticism, the clarification of difficult passages, the provision of alternative proofs for Euclidean propositions, and historical references to other mathematicians. They also engage in philosophical discussion concerning the work's foundational concepts. Transmitted within the medieval manuscript tradition of the Elements, these commentaries were copied into the margins of Greek codices over centuries. Their precise manuscript lineage and the identity of the compiler named Thucydides remain subjects of scholarly inquiry. As a component of the broader corpus of Euclidean exegesis, these scholia were instrumental for pedagogical purposes and for preserving geometric knowledge through late antiquity and the Byzantine period, thereby exerting a lasting influence on subsequent mathematical thought.
 
 ## Text
 

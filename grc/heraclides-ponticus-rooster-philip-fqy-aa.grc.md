@@ -5,6 +5,7 @@ author: Heraclides Ponticus
 eul_wid: fqy-aa
 eul_aid: fqy
 canonical: "https://eulogikon.org/works/heraclides-ponticus-rooster-philip-fqy-aa"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Heraclides Ponticus
 
 **eul_wid:** `fqy-aa` · [HTML page](https://eulogikon.org/works/heraclides-ponticus-rooster-philip-fqy-aa)
-
-On the Rooster of Philip is a lost philosophical dialogue by Heraclides Ponticus, known only from its title and listings in ancient catalogs such as that of Diogenes Laertius. The work featured a talking rooster, likely named for King Philip II of Macedon, as a character in a philosophical discussion. Heraclides’ writings were often described as half-dramatic and half-historical, and this dialogue belongs to the tradition of using imaginative narratives to explore philosophical ideas. The device of a talking animal interlocutor was typical of satire or allegory, and the reference to Philip may indicate themes of political or ethical satire, possibly addressing the Macedonian monarchy or concepts of tyranny. While the work is completely lost and left no manuscript tradition, it exemplifies Heraclides’ literary style, which blended serious philosophy with dramatic narrative. This approach contributed to the development of later Hellenistic philosophical and biographical literature.
 
 ## Text
 

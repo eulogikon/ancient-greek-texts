@@ -5,6 +5,7 @@ author: Aristotle
 eul_wid: hgw-cd
 eul_aid: hgw
 canonical: "https://eulogikon.org/works/aristotle-topics-hgw-cd"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristotle
 
 **eul_wid:** `hgw-cd` · [HTML page](https://eulogikon.org/works/aristotle-topics-hgw-cd)
-
-Aristotle's Topics is a philosophical treatise on logic composed in the mid-to-late fourth century BCE. It constitutes a central component of his logical works, the Organon, and is dedicated to the art of dialectic. This method involves constructing and critiquing arguments based on reputable opinions rather than on indemonstrable scientific first principles. The treatise is fundamentally pedagogical, designed to train students in the rigorous practice of philosophical debate. Its stated purpose is to discover a method by which one can reason deductively about any proposed problem from generally accepted premises, while oneself avoiding contradiction.
-
-The work is systematically organized into eight books. The initial seven books elaborate Aristotle's method for discovering arguments, which is centered on the concept of "topics." These topics are general lines of argument or strategic "places" where one may look for premises suitable to a given question. A foundational element of this system is the classification of the possible relations between a subject and a predicate, known as the four predicables: definition, property, genus, and accident. The eighth and final book shifts from theory to practice, offering detailed advice on the procedural conduct of a dialectical discussion, including techniques for effective questioning and responding.
-
-The Topics has been transmitted in its entirety through a tradition of medieval manuscripts derived from earlier Byzantine copies. Modern scholarship interprets the work as a foundational textbook for Aristotle's students, providing the essential logical tools for defending positions, testing hypotheses, and engaging in the structured disputations that characterized philosophical activity in his era. Its composition is generally associated with Aristotle's tenure at and departure from Plato's Academy, reflecting the dialectical practices cultivated within that intellectual milieu.
 
 ## Text
 

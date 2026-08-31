@@ -5,6 +5,7 @@ author: Suda
 eul_wid: wus-ac
 eul_aid: wus
 canonical: "https://eulogikon.org/works/suda-gamma-wus-ac"
+lang: grc
 period: Byzantine
 domain: Grammar
 format: Collection
@@ -18,12 +19,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Suda
 
 **eul_wid:** `wus-ac` · [HTML page](https://eulogikon.org/works/suda-gamma-wus-ac)
-
-The gamma section of the Suda (Σοῦδα, Στοιχεῖον Γ) spans 511 entries covering proper names, geographical designations, mythological figures, and common vocabulary. Early entries treat biblical and Roman names — Γαβριήλ, Γαβίνιος — alongside place-names such as Γαβαώ and Γάγγρα, and the medical term γάγγραινα (gangrene). The mythological entry for Γηρυόνης draws on Aristophanes and interprets the giant's epithet τετράπτιλος as an allusion to the triple-crested helmet of Lamachus.
-
-Later entries illuminate Homeric diction — γυρός is glossed with an Odyssey passage describing Odysseus — and include epigram citations for γυρόν and γυρῶν. The proverbial phrase Γύργαθον φυσᾷς, meaning to labour in vain, illustrates the Suda's interest in preserving idiomatic Greek alongside lexical definitions.
-
-The letter is useful for researchers tracing the Suda's source texts in comedy, epic, and medical writing, and for those studying Byzantine transmission of classical and biblical nomenclature.
 
 ## Text
 

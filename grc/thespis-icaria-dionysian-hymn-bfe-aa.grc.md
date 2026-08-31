@@ -5,6 +5,7 @@ author: Thespis of Icaria
 eul_wid: bfe-aa
 eul_aid: bfe
 canonical: "https://eulogikon.org/works/thespis-icaria-dionysian-hymn-bfe-aa"
+lang: grc
 period: Archaic
 dialect: Attic Drama
 domain: Drama
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Thespis of Icaria
 
 **eul_wid:** `bfe-aa` · [HTML page](https://eulogikon.org/works/thespis-icaria-dionysian-hymn-bfe-aa)
-
-The Fragments of a Dionysian Hymn comprise a collection of ten brief passages traditionally ascribed to Thespis of Icaria, a semi-legendary figure of the sixth century BCE often regarded as the originator of tragedy. Preserved not as a continuous poem but as isolated words and short phrases quoted by Roman-era grammarians and lexicographers, the work is a hymn, most likely a dithyramb, composed in verse and probably in the Attic dialect. The surviving content is sparse and frequently obscure, containing enigmatic references to ritual objects and actions. The hymn was almost certainly composed for performance at religious festivals such as the City Dionysia in Athens, where its primary function would have been to praise and invoke the god Dionysus through ecstatic choral song. Modern scholarship interprets these fragments as rare textual evidence for the pre-tragic, ritual origins of Greek drama. Thespis holds particular historical significance due to ancient testimonies, notably from Aristotle, which credit him with introducing a separate actor to converse with the chorus, thereby transforming choral lyric into dramatic dialogue. Consequently, these fragments are seen as representative of the formative, cultic stage from which Athenian tragedy later evolved. Their transmission is entirely indirect, preserved fortuitously in the works of later scholars interested in archaic vocabulary, and the attribution to Thespis himself, while traditional, remains unverifiable.
 
 ## Text
 

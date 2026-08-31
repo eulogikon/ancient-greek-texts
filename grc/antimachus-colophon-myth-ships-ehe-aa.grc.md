@@ -5,6 +5,7 @@ author: Antimachus of Colophon
 eul_wid: ehe-aa
 eul_aid: ehe
 canonical: "https://eulogikon.org/works/antimachus-colophon-myth-ships-ehe-aa"
+lang: grc
 period: Classical
 dialect: Epic (Homeric) (frg)
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Antimachus of Colophon
 
 **eul_wid:** `ehe-aa` · [HTML page](https://eulogikon.org/works/antimachus-colophon-myth-ships-ehe-aa)
-
-The Fragments on Myth and Ships is a modern descriptive title for a collection of eighteen surviving excerpts attributed to the poet Antimachus of Colophon. Preserved through citations by later Greek authors, most notably the grammarian Athenaeus in his Deipnosophistae, these fragments treat mythological narratives and contain precise, technical descriptions of maritime subjects, particularly ship construction. They exemplify the poet’s characteristically learned, allusive, and sometimes obscure style, and may originate from a larger, now-lost epic or a scholarly poetic compilation. The fragments display a deep engagement with Homeric material, elaborating on its themes and style while infusing the epic form with erudition. Antimachus was a pivotal figure in adapting epic poetry to scholarly tastes; though his difficult style drew early criticism, he later became a major model for Hellenistic poets like Callimachus and Apollonius Rhodius, who saw in him a precursor to their own learned aesthetic. His dual legacy as both a poet and an early textual critic of Homer secured his enduring importance in the history of philology as well as poetry. The standard modern edition of these fragments is found in the work of V.J. Matthews, Antimachus of Colophon: Text and Commentary (1996).
 
 ## Text
 

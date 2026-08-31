@@ -5,6 +5,7 @@ author: Stephen of Byzantium
 eul_wid: uua-ab
 eul_aid: uua
 canonical: "https://eulogikon.org/works/stephanus-byzantium-epigram-uua-ab"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Stephen of Byzantium
 
 **eul_wid:** `uua-ab` · [HTML page](https://eulogikon.org/works/stephanus-byzantium-epigram-uua-ab)
-
-The Epigram is a dedicatory preface poem by the sixth-century CE grammarian Stephen of Byzantium. Composed in Koine Greek, it functioned as the introductory verse to his principal scholarly achievement, the Ethnika, an extensive geographical lexicon. The poem is structured in seven passages and is formally dedicated to Emperor Justinian I, extolling his rule and connecting the imperial patronage to the creation of this comprehensive reference work. The Ethnika itself was an alphabetically organized encyclopedia of place names from the Greek-speaking world, detailing their etymologies, historical significance, and providing citations from earlier literary and historical authorities. Modern scholarship situates Stephen's endeavor within a broader sixth-century Byzantine intellectual movement dedicated to the compilation and preservation of classical Greek knowledge. The original, complete text of the Ethnika has not survived, existing today only in a later abridged version produced by a scholar named Hermolaus and in fragments preserved within other Byzantine compilations. The Epigram, however, survives intact within the manuscript tradition of this epitome. The work proved highly influential, serving as a critical source for subsequent Byzantine reference works such as the Suda, and it remains an invaluable resource for contemporary studies in ancient historical geography and the reconstruction of lost literary sources.
 
 ## Text
 

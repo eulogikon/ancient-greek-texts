@@ -5,6 +5,7 @@ author: Callimachus Scholia
 eul_wid: vmw-an
 eul_aid: vmw
 canonical: "https://eulogikon.org/works/callimachus-scholia-hecale-vmw-an"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: Grammar
@@ -19,22 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Callimachus Scholia
 
 **eul_wid:** `vmw-an` · [HTML page](https://eulogikon.org/works/callimachus-scholia-hecale-vmw-an)
-
-Overview The Argument of Hecale (Προοίμιον Ἑκάλης) is a prose hypothesis, or summary, of Callimachus’s lost hexameter poem, the Hecale. Preserved within ancient scholia, it outlines the plot of the original epyllion, which narrated how the hero Theseus, en route to confront the Marathonian Bull, received hospitality from the elderly peasant woman Hecale. After his victory, Theseus found her deceased and established an Attic deme and cult in her honor.
-
-Content The argument summarizes the poem’s core narrative and themes:
-
-Xenia (Hospitality): The central episode of Hecale’s generous reception of Theseus.
-
-Heroism and the Mundane: The contrast between Theseus’s heroic labor and the detailed depiction of humble domestic life.
-
-Aetiology: The poem’s explanation for the origin of the deme Hecale and its cults.
-
-Literary Innovation: The Hecale exemplified Callimachus’s preference for refined, small-scale epic (the “slender Muse”) over traditional lengthy forms.
-
-Transmission Callimachus’s Hecale survives only in fragments from quotations, papyri, and scholarly commentaries. This prose argument was transmitted within the scholiastic tradition, serving as a reader’s aid and attesting to the poem’s status as a studied classic.
-
-Significance The Hecale was profoundly influential despite its fragmentary survival. Its model of the intimate, learned epyllion shaped later Roman poetry, including works by Catullus and Ovid. Its innovative focus on a non-heroic, domestic character and its aetiological interests were widely admired and emulated.
 
 ## Text
 

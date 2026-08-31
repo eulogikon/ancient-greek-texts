@@ -5,6 +5,7 @@ author: Crateuas the Rhizotomist
 eul_wid: mqm-aa
 eul_aid: mqm
 canonical: "https://eulogikon.org/works/crateuas-rhizotomist-botanical-medicinal-mqm-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine (frg)
 domain: Medicine
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Crateuas the Rhizotomist
 
 **eul_wid:** `mqm-aa` · [HTML page](https://eulogikon.org/works/crateuas-rhizotomist-botanical-medicinal-mqm-aa)
-
-The Botanical and Medicinal Fragments are surviving excerpts from an illustrated herbal written by Crateuas, a rhizotomist and physician active in the early 1st century BCE. The original treatise, composed in Koine Greek, served as a systematic guide describing various plants, their habitats, and their medicinal applications, with a particular focus on remedies and antidotes. Crateuas served as the personal physician to King Mithridates VI of Pontus, whose notorious preoccupation with poisons likely influenced the work's practical orientation for use by medical practitioners and the royal court. Its most significant innovation was the incorporation of painted illustrations alongside the descriptive text to ensure accurate botanical identification.
-
-The complete work is lost, with knowledge of it dependent on nine principal fragments preserved through quotation by later pharmacologists, most notably Pedanius Dioscorides in the 1st century CE. The extant passages detail specific therapeutic uses for plants, such as varieties of birthwort for treating snakebites, expelling embryos, and alleviating ailments like asthma and spleen disorders, and yarrow for staunching hemorrhages and healing old ulcers. Scholars posit that certain plant illustrations found in later Byzantine manuscripts may derive, however distantly, from the original paintings in Crateuas's herbal. His pioneering model of a direct, illustrated botanical reference work exerted a profound influence on Dioscorides, whose own comprehensive pharmacopeia became the standard medical text for over a millennium, thereby cementing Crateuas's legacy in the history of botany and pharmaceutical science.
 
 ## Text
 

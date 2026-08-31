@@ -5,6 +5,7 @@ author: Dio Cassius of Nicaea
 eul_wid: rhq-ak
 eul_aid: rhq
 canonical: "https://eulogikon.org/works/dio-cassius-nicaea-roman-histories-3-1-rhq-ak"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: History
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Dio Cassius of Nicaea
 
 **eul_wid:** `rhq-ak` · [HTML page](https://eulogikon.org/works/dio-cassius-nicaea-roman-histories-3-1-rhq-ak)
-
-Cassius Dio's Roman Histories is an eighty-book history of Rome composed in Attic Greek during the early third century CE. Authored by a Roman senator of Greek origin, the work chronicles Rome's development from its legendary foundations through to the author's own lifetime, concluding in 229 CE. It is structured annalistically, presenting events according to the consular year. The complete text has not survived; books thirty-six through sixty, covering the period from approximately 68 BCE to 46 CE, are preserved nearly in full. For the remaining portions, including the vital early republican and later imperial narratives, reliance is placed on later epitomes and excerpts, most significantly those produced by the Byzantine scholars John Xiphilinus and John Zonaras.
-
-Dio wrote from the privileged perspective of a political insider who served under multiple emperors, and his history is fundamentally shaped by a senatorial viewpoint on Rome's transition from a republic to an imperial monarchy. Modern analysis interprets the work as emphasizing the cyclical nature of political constitutions and offering a critical examination of the causes and consequences of one-man rule. It was composed for the educated elite of the Roman world, blending detailed historical narrative with discursive observations on statecraft, political stability, and the role of divine providence in human affairs. Despite its fragmentary transmission, Dio's history remains an indispensable source for the political and military history of the late Roman Republic and the early Principate.
 
 ## Text
 

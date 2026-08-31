@@ -5,6 +5,7 @@ author: Dionysius the Thracian
 eul_wid: mui-ad
 eul_aid: mui
 canonical: "https://eulogikon.org/works/dionysius-thrace-foundation-tarsus-mui-ad"
+lang: grc
 period: Hellenistic
 dialect: Attic
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Dionysius the Thracian
 
 **eul_wid:** `mui-ad` · [HTML page](https://eulogikon.org/works/dionysius-thrace-foundation-tarsus-mui-ad)
-
-The work On the Foundation of Tarsus is a brief fragment attributed to the grammarian Dionysius Thrax. Its title indicates it concerned the mythological or historical origins of the city of Tarsus in Cilicia. The text is preserved only as a self-contained excerpt, likely derived from a larger, now lost work. Its content focused on the city's founding, with the surviving citation referencing an etymology connecting the city's name to the Greek word for the flat of the foot, a link to the myth of Bellerophon's lameness. The work is not attested in standard biographical sources on Dionysius, and its attribution and existence are known solely from later fragmentary citations, which confirm its status as a preserved excerpt. While the fragment itself holds no documented independent influence, its subject matter aligns with the broader scholarly practices of Alexandrian grammarians like Dionysius, who frequently engaged in historical, geographical, and etymological commentary to elucidate classical texts.
 
 ## Text
 

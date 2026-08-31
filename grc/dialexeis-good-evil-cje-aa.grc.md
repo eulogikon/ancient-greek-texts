@@ -1,10 +1,11 @@
 ---
 title: On Good and Evil
 title_greek: Ἀποσπάσματα
-author: "Dialexeis "
+author: Dialexeis
 eul_wid: cje-aa
 eul_aid: cje
 canonical: "https://eulogikon.org/works/dialexeis-good-evil-cje-aa"
+lang: grc
 period: Classical
 dialect: Literary Doric
 domain: Philosophy
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀποσπάσματα*
 
-**Author:** Dialexeis 
+**Author:** Dialexeis
 
 **eul_wid:** `cje-aa` · [HTML page](https://eulogikon.org/works/dialexeis-good-evil-cje-aa)
-
-On Good and Evil is a philosophical work in verse attributed to an author named Dialexeis. The text, which also bears the title Apospasmata, meaning Excerpts, suggests it may be a compilation or summary of doctrines rather than a continuous original treatise. It consists of eleven poetic passages that explore the nature of good and evil. The work presents two opposing arguments current among Greek philosophers: one that good and evil are fundamentally distinct, and another that they are the same thing, appearing as good to some and evil to others, or even as good at one time and evil at another to the same person. The author aligns with the latter view, illustrating it with examples from human life concerning food, drink, and sexual pleasure, which are evils for the sick but goods for the healthy and needy. Further examples demonstrate this relativity: intemperance is an evil for the intemperate but a good for those who sell such pleasures; disease is an evil for the sick but a good for physicians; death is an evil for the dying but a good for undertakers and coffin-makers; a bountiful harvest is a good for farmers but an evil for merchants; and the wreckage of a merchant ship is an evil for the shipowner but a good for ship-breakers. The manuscript tradition and preservation status of the work are unrecorded. The authorial name Dialexeis is unattested in major reference works and may be a descriptor meaning discussions that has been mistaken for a proper name, leaving the work's provenance unclear. Consequently, the text remains an obscure entry in the corpus of Greek philosophical fragments, noted for its existence but with its content, context, and influence otherwise undocumented in standard scholarly sources.
 
 ## Text
 

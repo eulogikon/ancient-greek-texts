@@ -5,6 +5,7 @@ author: Proclus the Successor
 eul_wid: uqy-at
 eul_aid: uqy
 canonical: "https://eulogikon.org/works/proclus-epigrams-uqy-at"
+lang: grc
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Proclus the Successor
 
 **eul_wid:** `uqy-at` · [HTML page](https://eulogikon.org/works/proclus-epigrams-uqy-at)
-
-This brief philosophical epigram is attributed to the 5th-century Neoplatonist philosopher Proclus. Composed in Greek elegiac couplets, the four-line poem is preserved within the Byzantine compilation known as the Greek Anthology, where it is presented as the philosopher's self-composed epitaph. The work articulates a core Platonic dichotomy between the immortal soul and the mortal body, employing a traditional pun that equates the Greek words for "body" and "tomb." It thus expresses the Neoplatonic conception of death as the soul's liberation and ascent from its corporeal prison.
-
-As the leading scholar of the Platonic Academy in Athens, Proclus was renowned for his extensive and complex philosophical commentaries. This epigram is regarded by scholars as a rare and succinct poetic distillation of his fundamental doctrines, crafted for an audience conversant with both philosophical tradition and literary convention. The poem's survival is owed entirely to its inclusion in the Greek Anthology, which rescued it from oblivion. It is now appreciated as a lucid example of how late antique philosophers skillfully merged poetic artistry with doctrinal exposition.
 
 ## Text
 

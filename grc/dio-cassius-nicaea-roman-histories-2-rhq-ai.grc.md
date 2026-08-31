@@ -5,6 +5,7 @@ author: Dio Cassius of Nicaea
 eul_wid: rhq-ai
 eul_aid: rhq
 canonical: "https://eulogikon.org/works/dio-cassius-nicaea-roman-histories-2-rhq-ai"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: History
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Dio Cassius of Nicaea
 
 **eul_wid:** `rhq-ai` · [HTML page](https://eulogikon.org/works/dio-cassius-nicaea-roman-histories-2-rhq-ai)
-
-The Roman Histories is a comprehensive history of Rome composed in Greek by the senator and historian Cassius Dio in the early third century CE. Originally comprising eighty books, the work chronicles Rome's story from its mythical foundation through to the author's own time, concluding with the reign of Emperor Alexander Severus in 229 CE. Dio structured his narrative annalistically, organizing events according to the traditional consular years. The history is distinguished by its detailed accounts of political and military affairs, as well as by the lengthy, crafted speeches attributed to key historical figures. These elements provide a valuable perspective from a high-ranking insider of the Severan imperial court.
-
-The text survives in a highly fragmentary condition. Only Books 36 through 54, covering the late Republican period and the reign of Augustus, exist in a nearly complete state. For the remainder of the work, including much of the Republican era and the later Empire, knowledge of Dio's history depends on later excerpts, epitomes, and a single medieval manuscript. Modern reconstructions rely on a synthesis of these sources, particularly tenth-century Byzantine excerpts and an eleventh-century epitome. As a senior statesman, Dio wrote from a pronounced senatorial viewpoint. His work is often interpreted as an analysis of Rome's political transformation from a republic to an autocratic monarchy, frequently emphasizing the role of fortune and the character of individual rulers in shaping historical outcomes.
 
 ## Text
 

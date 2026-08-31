@@ -5,6 +5,7 @@ author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-am
 eul_aid: bww
 canonical: "https://eulogikon.org/works/hippocrates-nature-bones-bww-am"
+lang: grc
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hippocrates and the Hippocratic Corpus
 
 **eul_wid:** `bww-am` · [HTML page](https://eulogikon.org/works/hippocrates-nature-bones-bww-am)
-
-On the Nature of Bones is a concise anatomical treatise from the Hippocratic Corpus, the collection of ancient Greek medical works associated with the name of Hippocrates but composed by various authors. Written in Ionic Greek during the 5th or 4th century BCE, the work offers a systematic, head-to-toe survey of the human skeletal system. It begins with a detailed enumeration of bones, starting with the skull and its sutures, proceeding through the vertebrae and ribs, and meticulously describing the bones of the upper and lower limbs, including the scapula and the innominate bone. The text, structured in eighteen brief passages, exemplifies the empirical methodology of early Greek medicine in its pursuit of naturalistic explanations for bodily structure. Its anatomical precision is variable when judged by contemporary knowledge; it correctly identifies the femur as the longest and strongest bone but provides an inaccurate total count for the bones of the hand and foot. Scholars regard the treatise as a practical manual for physicians and students, emblematic of a significant intellectual movement towards observation and systematic description and away from supernatural accounts of physiology. The work survives intact within the extensive manuscript tradition of the Hippocratic Corpus, preserved through Byzantine copies, and stands as a foundational document in the historical development of anatomy and medical science.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Hymnic Collection  Anonymous
 eul_wid: upu-aw
 eul_aid: upu
 canonical: "https://eulogikon.org/works/hymnic-anon-to-helios-upu-aw"
+lang: grc
 period: Classical
 dialect: Epic (Homeric)
 domain: Poetry
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hymnic Collection  Anonymous
 
 **eul_wid:** `upu-aw` · [HTML page](https://eulogikon.org/works/hymnic-anon-to-helios-upu-aw)
-
-Hymn 31 To Helios is an anonymous Greek hymn preserved within a larger hymnic collection. The work opens with a traditional invocation to the Muse and a genealogical account of the sun god, born to Hyperion and Euryphaessa. It vividly depicts Helios’s daily journey across the sky in his golden chariot, his radiant appearance, and his illuminating power for gods and mortals alike. The hymn then transitions into a more philosophical celebration of Helios, reconceptualizing him not merely as a celestial divinity but as a supreme cosmic principle, a divine intellect, and the source of universal harmony and order. This latter portion employs abstract language indicative of strong Neoplatonic influence, blending traditional mythological imagery with concepts of intellectual illumination.
-
-The hymn survives intact within an anonymous collection of Greek hymns. Its stylistic and thematic parallels with the Orphic Hymns and the hymns of Proclus suggest a probable late antique context, dating from approximately the third to the sixth centuries CE, a period marked by prominent syncretic solar theology. As an example of late antique hymnography, it reflects the theological trends that elevated Helios to a demiurgic role, notably under Emperor Julian. The work provides significant insight into the philosophical religious practices that blended traditional Greek polytheism with Platonic metaphysics, and its sophisticated conceptualization of the sun contributed to the broader transmission of Neoplatonic thought.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Euripides
 eul_wid: cbm-ae
 eul_aid: cbm
 canonical: "https://eulogikon.org/works/euripides-papyrus-fragments-cbm-ae"
+lang: grc
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Euripides
 
 **eul_wid:** `cbm-ae` · [HTML page](https://eulogikon.org/works/euripides-papyrus-fragments-cbm-ae)
-
-The Papyrus Fragments attributed to Euripides are a collection of physical manuscript remnants, primarily recovered from archaeological sites in Egypt, which preserve portions of his dramatic works. These fragments, ranging from brief phrases to several continuous lines, originate from both his surviving and lost tragedies. They provide direct textual evidence that can confirm or amend readings in the transmitted texts of the extant plays while offering crucial, if often partial, glimpses into dramas otherwise unknown. As remnants of various lost works, the fragments collectively reflect characteristic Euripidean themes, including the exploration of human psychology and passion, a critical perspective on traditional gods and heroes, the plight of women and marginalized figures, the horrors of war, and the use of rhetorical debate and philosophical inquiry.
-
-These fragments were preserved archaeologically due to the arid Egyptian climate, often recovered from ancient rubbish dumps or from the recycled papyri used in mummy cartonnage. They are cataloged with standard publication identifiers, such as those from the Oxyrhynchus Papyri, and typically date from the 3rd century BCE to the 7th century CE. This timeline bridges the significant gap between Euripides' own era and the later medieval manuscript tradition that preserved his complete works. The papyri are of fundamental importance to modern scholarship. They serve to refine the established text of the complete surviving plays and, for lost works, can illuminate plots, characters, and thematic concerns. Substantial portions of lost plays, such as Hypsipyle and Phaethon, have been recovered through these fragments, and the ongoing publication of new papyrological finds continues to expand and refine the understanding of Euripides' vast dramatic output.
 
 ## Text
 

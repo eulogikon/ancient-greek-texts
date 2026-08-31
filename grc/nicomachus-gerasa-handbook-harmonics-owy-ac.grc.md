@@ -5,6 +5,7 @@ author: Nicomachus of Gerasa
 eul_wid: owy-ac
 eul_aid: owy
 canonical: "https://eulogikon.org/works/nicomachus-gerasa-handbook-harmonics-owy-ac"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Mathematics
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Nicomachus of Gerasa
 
 **eul_wid:** `owy-ac` · [HTML page](https://eulogikon.org/works/nicomachus-gerasa-handbook-harmonics-owy-ac)
-
-The Handbook of Harmonics is a concise introductory treatise on Pythagorean musical theory written in Greek by the mathematician and philosopher Nicomachus of Gerasa around 100 CE. Structured as a series of chapters, it was designed as a clear primer for students. The work systematically explains the mathematical foundations of music, detailing the simple numerical ratios that define fundamental intervals like the octave and the fifth, and demonstrating how these ratios are used to construct the Greek musical scale. It explores the characteristically Pythagorean and Platonic concept that these same harmonic principles govern the order of the human soul and the motion of the celestial bodies, thereby connecting earthly music to cosmic harmony. The complete text survives through Byzantine manuscripts. Its influence on medieval and Renaissance musical thought was secured primarily through the extensive use and adaptation of its content by Boethius in his own authoritative work on music during the 6th century. Modern scholars interpret the handbook as a key textbook of Neopythagorean thought, intended for students within the Greek-educated elite of the Roman Empire, and it remains a vital source for understanding the ancient synthesis of mathematics, metaphysics, and music theory.
 
 ## Text
 

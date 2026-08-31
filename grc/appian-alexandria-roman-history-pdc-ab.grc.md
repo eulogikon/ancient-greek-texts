@@ -5,6 +5,7 @@ author: Appian of Alexandria
 eul_wid: pdc-ab
 eul_aid: pdc
 canonical: "https://eulogikon.org/works/appian-alexandria-roman-history-pdc-ab"
+lang: grc
 period: Roman
 dialect: Koine
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Appian of Alexandria
 
 **eul_wid:** `pdc-ab` · [HTML page](https://eulogikon.org/works/appian-alexandria-roman-history-pdc-ab)
-
-Appian of Alexandria’s major historical work, conventionally known as the Roman History but properly titled Rhōmaïka, is a 24-book history of Rome organized along ethnographic and thematic lines. It traces Rome’s rise to imperial dominion through its conquests of various nations and provides a detailed account of the internal civil wars from the period of the Gracchi to the establishment of the Principate under Augustus. The most complete surviving sections are Books 13 through 17, which cover the Civil Wars, while the Preface and several other books are lost. The work is transmitted primarily through two key manuscripts: the 10th- or 11th-century Codex Vaticanus Graecus 141 and the 10th-century Codex Parisinus Graecus 1685. Appian’s narrative offers a provincial Greek perspective on Roman history, focusing on the causes and consequences of the civil conflicts and the integration of diverse peoples into the Roman system. It remains a crucial source for the history of the late Roman Republic, preserving detailed accounts of the civil wars not found in other extant texts. While valued by modern historians for its comprehensive scope and unique material, the work is also critiqued for its occasional chronological inaccuracies and its generally pro-Roman viewpoint.
 
 ## Text
 

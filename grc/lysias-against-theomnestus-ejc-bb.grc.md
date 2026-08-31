@@ -5,6 +5,7 @@ author: Lysias the Orator
 eul_wid: ejc-bb
 eul_aid: ejc
 canonical: "https://eulogikon.org/works/lysias-against-theomnestus-ejc-bb"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lysias the Orator
 
 **eul_wid:** `ejc-bb` · [HTML page](https://eulogikon.org/works/lysias-against-theomnestus-ejc-bb)
-
-Against Theomnestus is a forensic oration composed by the Attic orator Lysias around 384–383 BCE. The speech was written for a client whose name is not preserved and was delivered in an Athenian court as part of a private lawsuit for slander. The plaintiff accuses a man named Theomnestus of publicly defaming him by stating that he had thrown away his shield in battle and, more grievously, that he had killed his own father. The central legal argument of the case hinges on a technical interpretation of Athenian slander law, which enumerated specific actionable insults. The plaintiff contends that while the exact phrase "father-killer" was not explicitly listed, the accusation of patricide was so grave that it clearly fell within the law's intent and spirit, representing one of the most serious moral charges possible in Athenian society.
-
-The complete speech, preserved in 28 sections, is structured as a direct and vigorous address to a jury of Athenian citizens. It skillfully blends precise legal reasoning with a portrayal of character, as the plaintiff presents himself as a restrained and public-spirited individual who is reluctantly compelled to defend his family's honor. The historical context is significant, as the case was heard in the restored democracy following the civil conflicts and the oligarchic regimes that had ruled Athens at the end of the Peloponnesian War. Modern scholars often interpret the speech as possessing a pointed political subtext, with the plaintiff implicitly aligning himself with the democratic order and subtly suggesting his opponent's associations with the previous anti-democratic factions, a tactic designed to influence the sympathies of the citizen-jurors. As a well-preserved example of Attic oratory, the work provides valuable insight into the practical workings of Athenian law, the paramount importance of personal and familial reputation, and the lingering social tensions in the aftermath of civil strife.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Cyril of Scythopolis
 eul_wid: vbs-ag
 eul_aid: vbs
 canonical: "https://eulogikon.org/works/cyril-scythopolis-life-theognis-vbs-ag"
+lang: grc
 period: Late Antique
 dialect: Christian Koine
 domain: Biography
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Cyril of Scythopolis
 
 **eul_wid:** `vbs-ag` · [HTML page](https://eulogikon.org/works/cyril-scythopolis-life-theognis-vbs-ag)
-
-The Life of Theognis is a sixth-century hagiographical work by Cyril of Scythopolis, a Palestinian monk and historian. Written in unadorned Greek prose, it forms one of seven biographies in his collection documenting the lives of prominent ascetics from the Judean desert monastic communities. The text is a concise, three-part narrative focusing on Saint Theognis, who became Bishop of Bethelia. As a conventional saint’s life, it aims to edify readers by portraying its subject as an exemplar of Christian piety, detailing his ascetic discipline, ecclesiastical leadership, and miraculous deeds.
-
-Composed during the ongoing theological controversies following the Council of Chalcedon, the biography functions as a piece of Chalcedonian apologetics. Cyril uses the figure of Theognis to forge a symbolic link between the austere tradition of desert monasticism and the institutional authority of the orthodox episcopacy. The work survives in full within the manuscript tradition of Cyril’s collected biographies and has been preserved in modern critical editions. While less extensively studied than some of Cyril’s longer vitae, it remains a valuable primary source for scholars of early Byzantine monasticism, ecclesiastical politics, and the intersection of sanctity and episcopal power in sixth-century Palestine.
 
 ## Text
 

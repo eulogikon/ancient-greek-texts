@@ -5,6 +5,7 @@ author: Semonides of Amorgos
 eul_wid: agy-ab
 eul_aid: agy
 canonical: "https://eulogikon.org/works/semonides-amorgos-uncertainty-life-agy-ab"
+lang: grc
 period: Archaic
 dialect: "Ionic (ia, frg)"
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Semonides of Amorgos
 
 **eul_wid:** `agy-ab` · [HTML page](https://eulogikon.org/works/semonides-amorgos-uncertainty-life-agy-ab)
-
-"On the Uncertainty of Human Life" is a collection of iambic verse attributed to the 7th-century BCE Greek poet Semonides of Amorgos. More accurately known by its Greek title Apospásmata, meaning "Extracts," the work survives only in fragments preserved through quotations by later ancient authors. These 128 numbered passages contain the satirical and moralizing verses characteristic of archaic Greek iambic poetry, a genre distinguished by its sharp critique and employment of everyday speech. The most renowned fragment is a 118-line satire often referred to as the "Poem on Women," which categorizes women into types derived from various animals or elements, presenting a humorous yet deeply critical perspective from a male viewpoint. Other fragments offer gnomic wisdom, concentrating on themes of human folly, the fragility of existence, and the capricious power of fate. Modern scholarship suggests this poetry was likely composed for performance at social gatherings such as symposia, reflecting the concerns of the emerging citizen class. The entire corpus remains fragmentary; no complete poem survives intact, and the standard modern title describes the collection's overarching theme rather than an original name given by the poet.
 
 ## Text
 

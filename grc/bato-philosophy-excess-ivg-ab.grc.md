@@ -5,6 +5,7 @@ author: Bato the Comic Poet
 eul_wid: ivg-ab
 eul_aid: ivg
 canonical: "https://eulogikon.org/works/bato-philosophy-excess-ivg-ab"
+lang: grc
 period: Hellenistic
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Bato the Comic Poet
 
 **eul_wid:** `ivg-ab` · [HTML page](https://eulogikon.org/works/bato-philosophy-excess-ivg-ab)
-
-Fragments on Philosophy and Excess is a lost comedic work by Bato the Comic Poet, known only by its title and the notation that it originally comprised forty-nine fragments. As a comedy, it would have satirized contemporary intellectual and social life, with its title indicating a specific focus on mocking philosophical pretensions and extremes of behavior. While no direct quotations or summaries of its content survive, its themes can be inferred from its title and the conventions of Middle or New Comedy, likely including satire of philosophers and philosophical schools, a critique of excess and hyperbole in speech or conduct, and broader social commentary on Athenian intellectual trends. The work is entirely lost, surviving only as a catalog entry; the reference to forty-nine fragments likely originates from an ancient source or anthology, though these excerpts themselves are not preserved. This work illustrates the range of subjects treated by Athenian comic poets, confirming that philosophy and moral extremism were standard targets for satire. It contributes to the historical record of Middle or New Comedy, though its complete lack of surviving content precludes any assessment of its specific literary qualities or influence.
 
 ## Text
 

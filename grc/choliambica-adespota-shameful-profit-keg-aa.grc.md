@@ -5,6 +5,7 @@ author: Choliambica Adespota
 eul_wid: keg-aa
 eul_aid: keg
 canonical: "https://eulogikon.org/works/choliambica-adespota-shameful-profit-keg-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Choliambica Adespota
 
 **eul_wid:** `keg-aa` · [HTML page](https://eulogikon.org/works/choliambica-adespota-shameful-profit-keg-aa)
-
-The Anonymous-Shameful Profit is an anonymous choliambic poem, classified within the corpus of Choliambica Adespota. It survives in six fragmentary passages that collectively offer a sharp critique of aischrokerdeia, or disgraceful and dishonest profit. The work employs the choliambic meter, also known as scazon, which is characterized by a halting, limping rhythm traditionally associated with satire, invective, and moralizing themes. Its content constitutes a broad social and ethical condemnation of avarice, aligning with popular philosophical teachings, particularly those of Cynic or Stoic origin, concerning the corrupting nature of wealth and the primacy of virtue. The poem’s transmission is typical of such anonymous fragments, likely preserved through anthologies or quotations in later authors, though its precise manuscript tradition remains unidentified. As an example of the continued use of choliambic verse for moral instruction in later Greek poetry, the work participates in the enduring Greco-Roman satirical tradition against greed, connecting a distinctive Hellenistic poetic form with a pervasive strand of ethical criticism.
 
 ## Text
 

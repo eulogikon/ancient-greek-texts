@@ -5,6 +5,7 @@ author: Gryllus of Athens
 eul_wid: cgw-aa
 eul_aid: cgw
 canonical: "https://eulogikon.org/works/gryllus-athens-mime-contest-cgw-aa"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Gryllus of Athens
 
 **eul_wid:** `cgw-aa` · [HTML page](https://eulogikon.org/works/gryllus-athens-mime-contest-cgw-aa)
-
-The verse work Heracles and the Mime in Contest, attributed to the obscure poet Gryllus of Athens, is structured in twenty-four passages. Its title implies a narrative or dramatic contest between the hero Heracles and a mimic actor, but no details of its plot, meter, or broader content survive beyond this basic conceit. The work is not attested in standard catalogs of ancient literature, and its title, which can be translated as "Fragment," suggests it is known only through secondary reference or is itself a fragment of a larger lost composition; no manuscript tradition is documented. The attribution to a "Gryllus of Athens" is problematic, as a Gryllus is recorded as a writer of comedies without a specific link to Athens, while a separate historical figure of that name was the son of Xenophon and had no known connection to poetry. Consequently, the work remains a bibliographical curiosity with no established influence on the literary tradition.
 
 ## Text
 

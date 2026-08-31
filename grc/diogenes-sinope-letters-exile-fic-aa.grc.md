@@ -5,6 +5,7 @@ author: Diogenes of Sinope the Cynic
 eul_wid: fic-aa
 eul_aid: fic
 canonical: "https://eulogikon.org/works/diogenes-sinope-letters-exile-fic-aa"
+lang: grc
 period: Classical
 dialect: Attic
 format: Epistle
@@ -18,8 +19,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Diogenes of Sinope the Cynic
 
 **eul_wid:** `fic-aa` · [HTML page](https://eulogikon.org/works/diogenes-sinope-letters-exile-fic-aa)
-
-The Cynic Letters on Exile is a collection of 103 pseudepigraphal epistles attributed to the philosopher Diogenes of Sinope. Composed long after his death, most likely during the Roman Imperial period, the letters employ the persona of Diogenes and the historical fact of his exile from his native city to articulate popular Cynic ethical teachings concerning misfortune. The central argument of the collection is that exile is a matter of philosophical indifference, incapable of harming the virtuous individual. This premise serves to promote core Cynic doctrines, including the indifference to external circumstances, the ideal of self-sufficiency, the concept of cosmopolitan citizenship, and the freedom found in liberation from a corrupt city's conventions. The life of Diogenes is presented throughout as the definitive exemplar of such adaptability and resilience. The letters survive as part of the larger corpus of Cynic epistles preserved in medieval manuscripts. While their inauthenticity is universally acknowledged by scholars, the collection remains a valuable artifact of the later reception and popularization of Cynic thought. It was instrumental in transmitting the image of Diogenes as a moral exemplar of austerity and self-mastery into the Roman world and contributed to the philosophical consolation tradition, with its themes of inner freedom and cosmopolitanism influencing broader Stoic and moral philosophy.
 
 ## Text
 

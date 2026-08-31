@@ -5,6 +5,7 @@ author: Aristides the Orator
 eul_wid: qwm-ac
 eul_aid: qwm
 canonical: "https://eulogikon.org/works/aristides-orator-peace-lacedaemonians-qwm-ac"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristides the Orator
 
 **eul_wid:** `qwm-ac` · [HTML page](https://eulogikon.org/works/aristides-orator-peace-lacedaemonians-qwm-ac)
-
-In Favor of Peace with the Lacedaemonians is a political oration by the Greek rhetorician Aelius Aristides, composed around the middle of the second century CE. A complete work structured in nine sections, it is a rhetorical exercise, or declamation, rather than a record of actual political debate. The speech imaginatively recreates a moment in classical Athenian history, specifically the period around 369 BCE following Sparta's defeat by Thebes. Adopting the persona of an Athenian statesman, the orator argues before the citizen assembly that Athens should accept a Spartan offer of alliance, contending that peace represents both the most prudent and the most honorable policy for the city.
-
-The oration is a prominent example of the literary and cultural movement known as the Second Sophistic, in which orators displayed their technical skill by composing elaborate speeches on historical themes in the polished style of classical Athenian masters like Demosthenes. Modern scholarship interprets the work primarily as a display piece, crafted to demonstrate Aristides' command of historical detail, complex argumentation, and pure Attic Greek diction for an educated audience in the Roman imperial period. As such, it reflects the era's profound engagement with and creative reimagining of Greece's classical heritage. The text survives in full through medieval manuscript traditions, most notably within a thirteenth-century manuscript known as the Codex Laurentianus.
 
 ## Text
 

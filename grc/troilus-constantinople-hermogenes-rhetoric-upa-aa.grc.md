@@ -5,6 +5,7 @@ author: Troilus of Constantinople
 eul_wid: upa-aa
 eul_aid: upa
 canonical: "https://eulogikon.org/works/troilus-constantinople-hermogenes-rhetoric-upa-aa"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Troilus of Constantinople
 
 **eul_wid:** `upa-aa` · [HTML page](https://eulogikon.org/works/troilus-constantinople-hermogenes-rhetoric-upa-aa)
-
-The Introduction to Hermogenes' Art of Rhetoric is a Greek rhetorical handbook composed by Troilus, a sophist and public orator active in Constantinople during the first half of the fifth century CE. Structured in twelve passages and written in Attic Greek, the work functions as a prolegomenon, or introductory guide, to the sophisticated rhetorical system of Hermogenes of Tarsus. It was intended for advanced students and teachers within the rhetorical schools of the Eastern Roman Empire, where the treatises of Hermogenes served as the foundational curriculum. The text systematically outlines Hermogenes' core doctrines, addressing the utility of rhetoric, the author's biography, the recommended sequence of his works, and his technical theories concerning style and argumentation. Its primary aim was pedagogical, offering a lucid gateway into Hermogenes' often dense source material. The work survives in full, having been copied and transmitted for centuries as a significant component of the extensive Byzantine tradition of commentaries on Hermogenes, whose writings remained central to rhetorical education for nearly a millennium. Modern scholarship regards Troilus' Introduction as a crucial specimen of the scholarly exegesis that facilitated the transition of classical rhetorical pedagogy into the early Byzantine world.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Eriphus the Comic Poet
 eul_wid: eyc-ab
 eul_aid: eyc
 canonical: "https://eulogikon.org/works/eriphus-golden-apples-eyc-ab"
+lang: grc
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Eriphus the Comic Poet
 
 **eul_wid:** `eyc-ab` · [HTML page](https://eulogikon.org/works/eriphus-golden-apples-eyc-ab)
-
-The Fragments on Golden Apples is a modern collection of twenty-five passages attributed to the comic poet Eriphus, who was active during the period of Middle Comedy in the fourth century BCE. No complete plays by Eriphus survive; he is known only through fragments and testimonia. The title does not correspond to a known comedy by Eriphus in the extant record, but the "Golden Apples" likely refer to the apples of the Hesperides, a mythological motif suitable for parody in the Middle Comic tradition. Based on the conventions of the genre, the fragments may relate to mythological burlesque, possibly parodying a hero like Heracles, or to social and domestic humor framed within a mythological narrative. Like most Middle Comedy, the works of Eriphus are lost and survive only indirectly through quotations in later authors, such as Athenaeus, or in ancient scholarly notes. The passages constituting this collection are drawn from these secondary sources. While Eriphus's individual influence is not documented, his work represents the Middle Comic shift toward mythological parody and stock characters, a tradition that informed later Greek and Roman comedy.
 
 ## Text
 

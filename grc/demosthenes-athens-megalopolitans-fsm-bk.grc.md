@@ -5,6 +5,7 @@ author: Demosthenes of Athens
 eul_wid: fsm-bk
 eul_aid: fsm
 canonical: "https://eulogikon.org/works/demosthenes-athens-megalopolitans-fsm-bk"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Demosthenes of Athens
 
 **eul_wid:** `fsm-bk` · [HTML page](https://eulogikon.org/works/demosthenes-athens-megalopolitans-fsm-bk)
-
-"For the Megalopolitans" is a deliberative oration attributed to the Athenian statesman Demosthenes, delivered to the Athenian Assembly around 353 or 352 BCE. The speech addresses a pivotal foreign policy dilemma: whether Athens should abandon its alliance with the Arcadian city of Megalopolis in order to support a Spartan request for military aid against it. Demosthenes argues vehemently against aiding Sparta, framing the decision as a crucial matter of Athenian self-interest. He warns that reviving Spartan power by helping it destroy a rival city would ultimately recreate a direct and formidable threat to Athens itself. Instead, he advocates for honoring the existing treaty with Megalopolis, thereby preserving a balance of power in the Peloponnese and preventing any single state from achieving overwhelming dominance.
-
-The complete text of the speech survives in 26 sections within the Demosthenic corpus, though its authenticity has been contested since antiquity. Modern scholarly opinion remains divided, with some accepting it as a genuine work of Demosthenes and others considering it a sophisticated contemporary imitation. Regardless of its authorship, the oration provides significant insight into the intricate diplomatic calculations of mid-fourth-century Greece, a period marked by the waning influence of Thebes. It stands as a prime example of the pragmatic, interest-based rhetoric that characterized Athenian political debate, emphasizing long-term security over short-term expediency.
 
 ## Text
 

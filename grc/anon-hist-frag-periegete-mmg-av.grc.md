@@ -5,6 +5,7 @@ author: Historical Fragments  Anonymous
 eul_wid: mmg-av
 eul_aid: mmg
 canonical: "https://eulogikon.org/works/anon-hist-frag-periegete-mmg-av"
+lang: grc
 period: Hellenistic
 dialect: Mixed Dialects (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Historical Fragments  Anonymous
 
 **eul_wid:** `mmg-av` · [HTML page](https://eulogikon.org/works/anon-hist-frag-periegete-mmg-av)
-
-The Anonymous Periegete is a fragmentary geographical text surviving in two brief passages. As a periegesis, it belongs to a genre dedicated to descriptive touring and guidance through regions, systematically cataloging topography, distances between locations, and associated local myths, cults, or historical events. The extant fragments, which describe features of the Piraeus including harbors, a sanctuary of Artemis, and fortifications, likely survived through quotation by later ancient or Byzantine authors, compilers, or scholiasts, as no independent manuscript tradition is documented. While its severely damaged state precludes detailed analysis of its specific content or scope, the work is a representative artifact of the broader periegetic tradition. It contributes to the collective geographical and cultural knowledge preserved from antiquity, exemplifying a popular descriptive genre that found its most famous complete expression in the later work of Pausanias.
 
 ## Text
 

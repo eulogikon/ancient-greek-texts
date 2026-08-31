@@ -4,6 +4,7 @@ author: Gregory of Nazianzus
 eul_wid: sne-cc
 eul_aid: sne
 canonical: "https://eulogikon.org/works/gregory-nazianzus-dogmatic-poems-sne-cc"
+lang: grc
 period: Late Antique
 domain: Theology
 format: Verse

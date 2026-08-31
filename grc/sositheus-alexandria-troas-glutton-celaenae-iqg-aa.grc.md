@@ -5,6 +5,7 @@ author: Sositheus of Alexandria Troas
 eul_wid: iqg-aa
 eul_aid: iqg
 canonical: "https://eulogikon.org/works/sositheus-alexandria-troas-glutton-celaenae-iqg-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: Drama
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Sositheus of Alexandria Troas
 
 **eul_wid:** `iqg-aa` · [HTML page](https://eulogikon.org/works/sositheus-alexandria-troas-glutton-celaenae-iqg-aa)
-
-The Glutton of Celaenae is a satyr play by the Hellenistic poet Sositheus of Alexandria Troas, composed around 280 BCE. Satyr plays were a genre of humorous mythological drama that traditionally followed a trilogy of tragedies in Athenian competitions. This work survives only in fragments, preserved through quotations by later ancient authors such as Athenaeus, who cited them for their distinctive vocabulary. The plot appears to involve the capture of Silenus, the father of the satyrs, by a gluttonous man named Gastron from the Phrygian city of Celaenae, with the chorus of satyrs likely attempting a rescue, a common narrative structure within the genre. Written in literary Greek with a primary Attic dialect, the play features Gastron as a personification of excess and gluttony, and its Phrygian setting engages with contemporary Hellenistic themes concerning Eastern luxury. Sositheus was a member of the renowned Pleiad of Alexandrian poets, and this play was crafted for the sophisticated court of Ptolemaic Egypt, reflecting the Hellenistic evolution of satyr drama into a form that could be performed independently outside its original Athenian competitive context. The complete text is lost, and the work is known solely through these seventeen fragmentary passages.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Plato of Athens
 eul_wid: ffk-an
 eul_aid: ffk
 canonical: "https://eulogikon.org/works/plato-charmides-ffk-an"
+lang: grc
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plato of Athens
 
 **eul_wid:** `ffk-an` · [HTML page](https://eulogikon.org/works/plato-charmides-ffk-an)
-
-Plato's Charmides is a Socratic dialogue set in a wrestling school upon Socrates's return from the battle of Potidaea. The conversation is primarily with the young aristocrat Charmides and his guardian Critias, who is also Charmides's cousin. The philosophical inquiry centers on defining sōphrosynē, a cardinal Greek virtue encompassing temperance, moderation, and soundness of mind. Charmides initially proposes definitions such as a kind of quietness and a sense of shame, while Critias offers more sophisticated ideas, including "doing one's own business" and ultimately self-knowledge. Socrates subjects each definition to rigorous elenctic examination, revealing logical inconsistencies and circularities. The dialogue concludes in a state of aporia, or unresolved impasse, having deconstructed every proposed account of the virtue without establishing a positive definition.
-
-The dramatic date of the conversation is 432 BCE, a period of Athenian confidence, but Plato composed the work decades later, following the execution of Socrates and the notorious political careers of its characters. Both Charmides and Critias later became members of the Thirty Tyrants, the violent oligarchic regime that ruled Athens after its defeat in the Peloponnesian War. This historical context imbues the dialogue with a profound irony, transforming it from a mere abstract inquiry into a pointed critique of the moral and intellectual failings of the Athenian elite. The work survives complete through the medieval manuscript tradition of Plato's corpus and remains a foundational text for the study of Socratic method, ethical epistemology, and the enduring philosophical problem of self-knowledge.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Aristophon the Comic Poet
 eul_wid: fua-aa
 eul_aid: fua
 canonical: "https://eulogikon.org/works/aristophon-comic-poverty-satire-fua-aa"
+lang: grc
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristophon the Comic Poet
 
 **eul_wid:** `fua-aa` · [HTML page](https://eulogikon.org/works/aristophon-comic-poverty-satire-fua-aa)
-
-The Fragments on Poverty and Satire attributed to the Athenian comic poet Aristophon constitute a modern scholarly assemblage of 65 surviving passages from his lost comedies. No complete play by Aristophon survives; these excerpts, thematically grouped around poverty and satire, represent the entirety of his extant work and offer valuable, if fragmented, insights into his comic style and thematic concerns within the broader tradition of Attic comedy. The content of the fragments illustrates central preoccupations of the genre, treating poverty with both comic exaggeration and pointed social commentary while employing satire to mock contemporary figures, social practices, and intellectual trends. Other passages depict aspects of daily domestic affairs and recognizable social types, with some fragments suggesting a use of mythological parody.
-
-These works survive exclusively through quotations by later ancient authors, lexicographers, and grammarians, including Athenaeus, Hesychius, and Pollux. The standard modern collection for these scattered references is Poetae Comici Graeci (PCG). While Aristophon’s direct influence on later literature is largely untraceable, his fragments were cited in antiquity for their linguistic and comic value. They remain crucial for scholars seeking to understand the full scope and development of Attic comedy beyond the major surviving playwrights such as Aristophanes and Menander, providing evidence of the thematic diversity and stylistic range present in the lost comic tradition.
 
 ## Text
 

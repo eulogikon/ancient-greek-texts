@@ -5,6 +5,7 @@ author: Aristotle
 eul_wid: hgw-am
 eul_aid: hgw
 canonical: "https://eulogikon.org/works/aristotle-physics-alt-hgw-am"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristotle
 
 **eul_wid:** `hgw-am` · [HTML page](https://eulogikon.org/works/aristotle-physics-alt-hgw-am)
-
-Aristotle's Physics is a foundational philosophical treatise from the mid-4th century BCE. Structured in eight books, it investigates the core principles of the natural world. Rather than conducting experiments, Aristotle analyzes the causes and inherent properties of things that move and change. The work systematically introduces concepts that became central to Western thought, including the four causes—material, formal, efficient, and final—and the principles of matter and form. Later books explore motion, time, place, and the infinite, culminating in an argument for an eternal unmoved mover as the source of all cosmic motion.
-
-Modern scholars interpret the Physics as a pedagogical text, likely based on Aristotle's lectures at the Lyceum in Athens. It engages critically with earlier philosophers like Plato and the Presocratics, aiming to provide a coherent account of nature that explains change and motion. The complete text survives today due to a complex transmission history. After Aristotle's death, his manuscripts were preserved, edited in the 1st century BCE, and passed down through medieval copies. Translated into Arabic and Latin, it became the cornerstone of natural philosophy in both Islamic and European scholarly traditions for nearly two millennia, until its physical theories were challenged during the Scientific Revolution.
 
 ## Text
 

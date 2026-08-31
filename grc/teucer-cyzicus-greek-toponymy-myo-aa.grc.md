@@ -5,6 +5,7 @@ author: Teucer of Cyzicus
 eul_wid: myo-aa
 eul_aid: myo
 canonical: "https://eulogikon.org/works/teucer-cyzicus-greek-toponymy-myo-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Teucer of Cyzicus
 
 **eul_wid:** `myo-aa` · [HTML page](https://eulogikon.org/works/teucer-cyzicus-greek-toponymy-myo-aa)
-
-The Fragments on Greek Toponymy by Teucer of Cyzicus is a lost work known only through a handful of brief quotations preserved in later lexicons. Its title is a modern descriptive label for material transmitted primarily by the 6th-century CE geographical lexicon Ethnica of Stephanus of Byzantium. The extant fragments, which also appear in the Byzantine etymological compilation known as the Etymologicum Magnum, provide etymological and mythological explanations for specific Greek place names. These entries typically offer an aition, or foundational story, linking a location's name to a legendary event. For instance, one fragment explains the name of the Epirote city Buthrotum by recounting how the Trojan seer Helenus, upon sacrificing a bull during his arrival in Epirus, saw the wounded animal flee, swim across a gulf, and die upon reaching the opposite shore; interpreting this as a divine sign, Helenus founded a city there named "Ox-strike" from the event. Another explains a spring in Euboea named Bebaia, or "Steadfast," as the only water source that did not fail when others on the island dried up. The work exemplifies the Hellenistic and Roman tradition of onomastic and periegetic scholarship, focusing on mythological etiology and the preservation of local legendary traditions. Its significance lies in its utility as a source for later compilers, ensuring the survival of these specific toponymic explanations within the Byzantine scholarly tradition. The original work’s full scope, structure, and date remain unknown.
 
 ## Text
 

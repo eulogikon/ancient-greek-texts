@@ -5,6 +5,7 @@ author: Hippodamus of Miletus
 eul_wid: cty-aa
 eul_aid: cty
 canonical: "https://eulogikon.org/works/hippodamus-miletus-testimonies-cty-aa"
+lang: grc
 period: Classical
 dialect: Doric
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hippodamus of Miletus
 
 **eul_wid:** `cty-aa` · [HTML page](https://eulogikon.org/works/hippodamus-miletus-testimonies-cty-aa)
-
-The Testimonies is a modern designation for the collected doctrines of Hippodamus of Miletus, a fifth-century BCE Greek intellectual renowned as an early political theorist and the pioneering urban planner who implemented the grid system in cities such as the Piraeus. No original work by Hippodamus survives; his ideas are known exclusively through later summaries and critiques, most substantially in Aristotle's Politics. According to Aristotle's account, Hippodamus formulated a comprehensive plan for an ideal city-state characterized by a systematic triple division. He proposed categorizing the citizen body into three classes—craftsmen, farmers, and warriors—and similarly dividing the territory into sacred, public, and private land. His constitutional blueprint included a single supreme court for legal appeals, advocated for public honors to be awarded for beneficial inventions, and recommended state support for the orphans of fallen soldiers. Scholars interpret this scheme as an early rationalist model for social organization, likely intended for application in new colonial foundations such as Thurii, with which Hippodamus was associated. The transmission of his thought is entirely indirect, relying on fragmentary references in Aristotle, the pseudo-Aristotelian Oeconomica, and the later writer Aelian. Despite the complete loss of his own writings, Hippodamus's legacy endured, securing his place as a foundational figure in utopian political philosophy and permanently associating his name with the gridded urban layout used throughout the ancient world and beyond.
 
 ## Text
 

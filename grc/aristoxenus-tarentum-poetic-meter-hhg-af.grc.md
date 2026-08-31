@@ -5,6 +5,7 @@ author: Aristoxenus of Tarentum
 eul_wid: hhg-af
 eul_aid: hhg
 canonical: "https://eulogikon.org/works/aristoxenus-tarentum-poetic-meter-hhg-af"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Science
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristoxenus of Tarentum
 
 **eul_wid:** `hhg-af` · [HTML page](https://eulogikon.org/works/aristoxenus-tarentum-poetic-meter-hhg-af)
-
-The Fragments on Poetic Meter is a collection of six surviving passages attributed to the music theorist Aristoxenus of Tarentum. These fragmentary excerpts analyze poetic meter as an extension of his systematic theories on musical rhythm, applying his empirical, perception-based methodology to the patterns of long and short syllables in verse. The work suggests he sought to classify metrical units and likely distinguished between abstract metrical schemata and their performance in actual poetic lines. The extant content deals with the systematic classification of metrical feet and cola, the application of an empirical approach to prosody, the relationship between general musical rhythm and its specific manifestation in poetic meter, and the distinction between a meter's theoretical pattern and its actual realization. The work is lost and survives only through quotation or paraphrase in later technical writers, such as metricians and grammarians, with the title being a modern descriptive designation for these collected excerpts. Aristoxenus's approach to rhythm and meter was foundational; his conceptual framework for analyzing temporal patterns informed later Greek and Roman prosodic theory, securing his central role in the history of musicology and literary criticism.
 
 ## Text
 

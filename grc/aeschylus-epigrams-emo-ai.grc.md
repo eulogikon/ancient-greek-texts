@@ -5,6 +5,7 @@ author: Aeschylus the Tragedian
 eul_wid: emo-ai
 eul_aid: emo
 canonical: "https://eulogikon.org/works/aeschylus-epigrams-emo-ai"
+lang: grc
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aeschylus the Tragedian
 
 **eul_wid:** `emo-ai` · [HTML page](https://eulogikon.org/works/aeschylus-epigrams-emo-ai)
-
-The Epigrams are a collection of seven short Greek poems traditionally ascribed to the Athenian tragedian Aeschylus. Composed in the elegiac meter characteristic of the genre, they function primarily as funerary epitaphs and dedicatory inscriptions. One commemorates the Athenian dead at the Battle of Marathon, and another serves as a dedication for a statue of Eros. These verses do not survive on physical monuments but are transmitted through later literary anthologies, most notably the Greek Anthology. Their authenticity has been contested since antiquity. While a tenth-century Byzantine source records that Aeschylus began his literary career by writing elegies and epigrams, modern scholarship generally considers these specific poems to be later compositions, likely from the Hellenistic period, attributed to the famous playwright to lend them greater authority.
 
 ## Text
 

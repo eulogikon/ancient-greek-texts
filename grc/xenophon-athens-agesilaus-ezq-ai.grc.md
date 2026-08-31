@@ -5,6 +5,7 @@ author: Xenophon of Athens
 eul_wid: ezq-ai
 eul_aid: ezq
 canonical: "https://eulogikon.org/works/xenophon-athens-agesilaus-ezq-ai"
+lang: grc
 period: Classical
 dialect: Attic
 domain: History
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Xenophon of Athens
 
 **eul_wid:** `ezq-ai` · [HTML page](https://eulogikon.org/works/xenophon-athens-agesilaus-ezq-ai)
-
-Xenophon’s Agesilaus is a prose encomium honoring the Spartan king Agesilaus II, who reigned from approximately 400 to 360 BCE. Composed shortly after the king’s death, it stands as one of the earliest surviving examples of Greek biographical writing. The work is structured in two distinct parts. The first section presents a chronological account of the king’s life and military campaigns, detailing his operations in Asia Minor against the Persian Empire and his subsequent role in the Corinthian War on mainland Greece. The second section abandons narrative chronology to offer a systematic, thematic praise of the king’s virtues, including his piety, justice, courage, and practical wisdom.
-
-Modern scholarship interprets the work as both a personal tribute and a political document. Xenophon had served under Agesilaus and fought alongside him, and the encomium reflects his profound personal admiration and loyalty. It is also widely considered to have been crafted for a pro-Spartan audience during a period of declining Spartan hegemony, aiming to present an idealized model of Spartan leadership and traditional virtue. This portrayal is often viewed as a deliberate effort to reaffirm core Spartan values such as discipline and austerity at a time when the city-state’s political and military influence was demonstrably waning. The complete text has been preserved through medieval manuscripts as part of Xenophon’s collected works. Its innovative dual structure, which merges historical narrative with ethical analysis, exerted a significant influence on the development of later biographical and panegyrical writing in the ancient world.
 
 ## Text
 

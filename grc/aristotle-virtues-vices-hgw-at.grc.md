@@ -5,6 +5,7 @@ author: Aristotle
 eul_wid: hgw-at
 eul_aid: hgw
 canonical: "https://eulogikon.org/works/aristotle-virtues-vices-hgw-at"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristotle
 
 **eul_wid:** `hgw-at` · [HTML page](https://eulogikon.org/works/aristotle-virtues-vices-hgw-at)
-
-On Virtues and Vices is a brief ethical treatise preserved within the Aristotelian corpus but now widely regarded by scholars as a spurious work not authored by Aristotle himself. Written in Attic Greek, this systematic text functions as a concise catalog of moral character, structured around the core Aristotelian doctrine that virtue constitutes a mean between two opposing vices of excess and deficiency. The work methodically lists and defines thirteen ethical virtues, including courage, temperance, and justice, alongside their corresponding vicious extremes, and concludes with a shorter examination of intellectual virtues. Its schematic, handbook-like style indicates a pedagogical purpose, likely designed to provide students of the Peripatetic school with a clear and organized summary of key ethical concepts. Although its exact date of composition remains uncertain, linguistic and doctrinal evidence suggests it was produced by a later Aristotelian philosopher, possibly during the early Hellenistic period. The treatise survives in its complete form as part of the medieval manuscript tradition of Aristotle's works. While it exerted limited direct influence compared to Aristotle's major ethical writings, its preservation offers valuable insight into how his ethical philosophy was systematized and taught in the ancient world.
 
 ## Text
 

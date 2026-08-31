@@ -5,6 +5,7 @@ author: Strattis the Comic Poet
 eul_wid: eco-ad
 eul_aid: eco
 canonical: "https://eulogikon.org/works/strattis-chios-cos-eco-ad"
+lang: grc
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Strattis the Comic Poet
 
 **eul_wid:** `eco-ad` · [HTML page](https://eulogikon.org/works/strattis-chios-cos-eco-ad)
-
-Fragments on Chios and Cos is a lost comedy by the Athenian poet Strattis, a figure of the late period of Old Comedy active around the late fifth and early fourth centuries BCE. The work survives only in twenty-one brief, disjointed fragments, transmitted not through any manuscript of the play itself but through quotations in later ancient and Byzantine scholarly sources. These include the lexicographer Athenaeus and the Suda encyclopedia, who preserved the lines primarily for their unusual vocabulary, dialect forms, or metrical interest rather than for their plot or comic substance.
-
-The title suggests the play’s action or satire involved the Aegean islands of Chios and Cos. While the fragmentary state obscures the narrative, the genre and historical context point to probable themes of political satire, possibly alluding to Athenian imperial relations with allied states in the aftermath of the Peloponnesian War, including the revolt of Chios in 412 BCE. The comedy may have exploited regional stereotypes, perhaps mocking the famous products of each island, such as Chian wine or Coan textiles. The extant snippets, which mention a revel and contain colloquial diction, align with the standard comic preoccupations with food, drink, and bodily humor.
-
-The fragments’ significance lies almost entirely in their philological value. They offer a glimpse into the linguistic experimentation and stylistic range of later Old Comedy, demonstrating Strattis’s reputation in antiquity as a poet with a studied and sometimes obscure command of language. Their preservation within lexicographical works underscores how such comic texts were mined in later centuries for rare words and grammatical peculiarities, ensuring their fragile survival while stripping them of their original dramatic context.
 
 ## Text
 

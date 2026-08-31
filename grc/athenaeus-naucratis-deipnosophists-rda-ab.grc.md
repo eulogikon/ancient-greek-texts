@@ -5,6 +5,7 @@ author: Athenaeus of Naucratis
 eul_wid: rda-ab
 eul_aid: rda
 canonical: "https://eulogikon.org/works/athenaeus-naucratis-deipnosophists-rda-ab"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Athenaeus of Naucratis
 
 **eul_wid:** `rda-ab` · [HTML page](https://eulogikon.org/works/athenaeus-naucratis-deipnosophists-rda-ab)
-
-The Deipnosophists, or The Learned Banqueters, is an extensive Greek prose work by Athenaeus of Naucratis, composed in the late second or early third century CE. Structured as a dialogue, it narrates a banquet held over several days in Rome, hosted by the wealthy Roman Larensius. The guests, a gathering of learned men, engage in wide-ranging discussions on topics pertaining to dining and high culture, including food, wine, music, literature, and philosophy. The work’s principal distinction is its role as a vast repository of quotations, preserving excerpts from more than 1,200 works by over 700 earlier Greek authors, a great many of which are otherwise entirely lost.
-
-The original text, reportedly spanning thirty books, is not extant. The surviving version is a fifteen-book abridgment, or epitome, produced by a Byzantine scholar. This condensed form retains the original’s dialogic framework and the bulk of its cited material, though the narrative connective tissue is significantly reduced. A prime exemplar of the literary culture of the Second Sophistic period, the work is a performance of encyclopedic learning, or polymathia, crafted for an educated elite. Its enduring significance lies almost entirely in its preservation of countless fragments from lost poetry, historical writings, and comedies, making it an indispensable source for the reconstruction of ancient Greek literature and social history.
 
 ## Text
 

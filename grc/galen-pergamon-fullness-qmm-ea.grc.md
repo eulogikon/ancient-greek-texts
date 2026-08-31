@@ -5,6 +5,7 @@ author: Galen of Pergamon
 eul_wid: qmm-ea
 eul_aid: qmm
 canonical: "https://eulogikon.org/works/galen-pergamon-fullness-qmm-ea"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Galen of Pergamon
 
 **eul_wid:** `qmm-ea` · [HTML page](https://eulogikon.org/works/galen-pergamon-fullness-qmm-ea)
-
-Galen of Pergamon’s medical treatise On Fullness is a systematic examination of the physiological concepts of bodily fullness and emptiness. The work critiques the widespread confusion among contemporary physicians regarding the definition of these terms, particularly the concept of plethora, or humoral excess. Galen argues that fullness and emptiness must be understood not in absolute terms but relative to the individual's digestive and assimilative capacity. The treatise, structured in 71 passages, analyzes the causes, symptoms, and treatments for conditions of humoral excess or depletion, engaging in a sustained critical dialogue with earlier medical theories, especially those of Erasistratus, whose doctrine that plethora is the primary cause of disease Galen refutes. The text details the pathology of excess and deficiency within Galen’s developed humoral framework, discussing therapeutic principles such as phlebotomy and purging to correct imbalances, and integrates these concepts into his broader physiological system involving pneuma and organ functions. The treatise survives in Greek as part of the Galenic corpus preserved through Byzantine and Arabic manuscript traditions, with the standard critical edition found in Volume 7 of Kühn’s Claudii Galeni Opera Omnia. As a component of Galen’s authoritative system, its doctrines on humoral balance and therapeutic evacuation became foundational in medieval Islamic and European medicine for over a millennium, exemplifying his method of synthesizing and critically engaging rival schools to establish his medical authority.
 
 ## Text
 

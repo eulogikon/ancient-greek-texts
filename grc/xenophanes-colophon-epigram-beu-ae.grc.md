@@ -5,6 +5,7 @@ author: Xenophanes of Colophon
 eul_wid: beu-ae
 eul_aid: beu
 canonical: "https://eulogikon.org/works/xenophanes-colophon-epigram-beu-ae"
+lang: grc
 period: Archaic
 dialect: Ionic (frg)
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Xenophanes of Colophon
 
 **eul_wid:** `beu-ae` · [HTML page](https://eulogikon.org/works/xenophanes-colophon-epigram-beu-ae)
-
-The epigram attributed to Xenophanes of Colophon is a collection of poetic fragments preserved in elegiac verse from the Archaic period. These short works function as pointed social critiques, with the most famous fragment arguing that the lasting civic benefit provided by a philosopher's wisdom far surpasses the fleeting glory of an Olympic athlete. Other surviving passages prescribe proper conduct for symposia, advocating for moderation, pious conversation, and dignified festivities over drunken excess. The text survives not as a complete poem but through four separate fragments quoted by later authors, primarily the 5th-century anthologist Stobaeus; the original scope and arrangement of Xenophanes' elegiac compositions remain unknown. Modern scholarship interprets these works as a deliberate subversion of traditional aristocratic values, likely composed for performance at the very drinking parties they seek to reform. Through a conventional poetic form, Xenophanes challenged his era's obsession with athletic fame and promoted intellectual wisdom as the superior foundation for a virtuous city.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Hephaestion of Thebes
 eul_wid: tco-ab
 eul_aid: tco
 canonical: "https://eulogikon.org/works/hephaestion-thebes-effects-tco-ab"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hephaestion of Thebes
 
 **eul_wid:** `tco-ab` · [HTML page](https://eulogikon.org/works/hephaestion-thebes-effects-tco-ab)
-
-The Effects is an astrological treatise composed in Greek by Hephaestion of Thebes around 415 CE. It serves as a comprehensive practical manual, systematically compiling doctrines on the influence of celestial bodies and events upon terrestrial affairs. The work is dedicated to a patron or student named Athanasius and is structured as a synthesis of earlier authorities, most notably Claudius Ptolemy, whose methods it seeks to make more accessible. Its 332 passages cover a wide range of technical subjects, including the specific effects of planets and zodiac signs, the use of lunar phases and eclipses for prediction, and the principles of catarchic astrology, which determines auspicious moments to begin undertakings.
-
-The complete text survives primarily in Greek manuscripts dating from the 15th and 16th centuries, attesting to its enduring utility. Its historical significance is amplified by its translation into Syriac and Arabic during the medieval period, which made it a crucial conduit for transmitting systematized Hellenistic astrological techniques into Byzantine and Islamic scholarly traditions. The treatise stands as a representative example of the technical, codified nature of late antique astrology, written explicitly as a functional reference work for practitioners.
 
 ## Text
 

@@ -1,10 +1,11 @@
 ---
 title: Definitions
 title_greek: Ὅροι
-author: "Hero of Alexandria "
+author: Hero of Alexandria
 eul_wid: odi-aj
 eul_aid: odi
 canonical: "https://eulogikon.org/works/hero-alexandria-definitions-odi-aj"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ὅροι*
 
-**Author:** Hero of Alexandria 
+**Author:** Hero of Alexandria
 
 **eul_wid:** `odi-aj` · [HTML page](https://eulogikon.org/works/hero-alexandria-definitions-odi-aj)
-
-The Definitions is a concise mathematical glossary attributed to Hero of Alexandria, the noted engineer and inventor of the 1st century CE. This systematic work presents 133 definitions of fundamental geometric terms—including points, lines, angles, and plane and solid figures—followed by 36 postulates concerning magnitudes and equality, totaling 169 entries. Its clear and structured format indicates it was designed as a textbook or reference manual, likely intended to standardize core geometric vocabulary for students before they engaged with the more advanced applied mechanics found in Hero's other treatises. The complete text is preserved in medieval Greek manuscripts dating from the 12th century onward. Modern scholarship considers it part of the "Heroian corpus," a collection of scientific works attributed to Hero, though the precise authorship of individual texts within this group is occasionally debated. Its primary historical significance lies in its role in preserving and transmitting essential Greek geometric terminology into later Byzantine and scholarly traditions, where it served as a foundational supplement to the study of mathematics.
 
 ## Text
 

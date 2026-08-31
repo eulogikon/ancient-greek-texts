@@ -5,6 +5,7 @@ author: Themistius the Philosopher
 eul_wid: rye-bk
 eul_aid: rye
 canonical: "https://eulogikon.org/works/themistius-prudence-rye-bk"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Themistius the Philosopher
 
 **eul_wid:** `rye-bk` · [HTML page](https://eulogikon.org/works/themistius-prudence-rye-bk)
-
-On Prudence is a philosophical treatise by the fourth-century rhetorician and philosopher Themistius. The work examines the Aristotelian virtue of phronēsis, or practical wisdom, and is structured in five passages. It is not among Themistius’s major surviving works and appears to be lost or fragmentary, known primarily by title or through limited references. The treatise is an oration analyzing phronēsis as defined in Aristotle’s Nicomachean Ethics. Themistius’s approach typically involved clarifying and defending Aristotelian doctrines against contemporary Platonist interpretations. Its themes likely encompass Aristotelian virtue ethics, focusing on deliberation for a flourishing life, philosophical exegesis of Aristotle’s concepts, and the application of practical wisdom to political and ethical action, reflecting Themistius’s own public career. The text is not listed among Themistius’s extant works, which consist chiefly of his Orations and Paraphrases of Aristotle. The detail regarding its five passages suggests it may be known through excerpts preserved by other authors, though this is not confirmed in standard sources. While the work’s direct influence is untraceable, Themistius’s corpus was instrumental in transmitting Aristotelian thought to later traditions. A treatise on phronēsis would have contributed to late antique discourse on virtue ethics and the role of practical wisdom in governance.
 
 ## Text
 

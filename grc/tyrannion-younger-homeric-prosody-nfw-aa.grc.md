@@ -5,6 +5,7 @@ author: Tyrannion the Younger
 eul_wid: nfw-aa
 eul_aid: nfw
 canonical: "https://eulogikon.org/works/tyrannion-younger-homeric-prosody-nfw-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Tyrannion the Younger
 
 **eul_wid:** `nfw-aa` · [HTML page](https://eulogikon.org/works/tyrannion-younger-homeric-prosody-nfw-aa)
-
-The Apospasmata of Tyrannion the Younger is a lost grammatical treatise on Homeric prosody, known only through fragmentary citations. Preserved as eight passages, the work provides technical analysis of accent, quantity, and pitch in the Homeric epics, engaging directly with the textual criticism and interpretative traditions of earlier Alexandrian scholarship. It examines specific verses, adjudicating between variant readings and pronunciations while applying established grammatical doctrine to the poetic text. The treatise is transmitted indirectly, primarily through a reference in the tenth-century Byzantine encyclopedia known as the Suda, which attributes to Tyrannion a work "on the prosody of Homer." The extant fragments likely survive embedded within later scholiastic or grammatical compilations. As a technical work by an Imperial Roman grammarian, it represents a significant link in the chain of scholarly transmission, connecting the grammatical methodologies of Hellenistic Alexandria with the Byzantine scholarly tradition. Tyrannion the Younger is cited as an authority on prosody by later grammarians, confirming that his contributions were recognized within the advanced study of Homeric poetry.
 
 ## Text
 

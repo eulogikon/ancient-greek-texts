@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-ei
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-epaminondas-scipio-okg-ei"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-ei` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-epaminondas-scipio-okg-ei)
-
-Fragments on Epaminondas and Scipio is a lost treatise by the Greek biographer and philosopher Plutarch. The work survives only as a collection of 251 excerpted passages concerning the Theban general Epaminondas and the Roman general Scipio Africanus. These fragments, which include anecdotes and historical references, were likely compiled from various sources to serve as a reference work comparing two eminent military leaders from Greece and Rome. The original treatise was not a continuous narrative but a thematic compilation, and its full scope and structure are now unreconstructable due to its fragmentary state.
-
-The extant passages examine the military leadership, strategic innovations, and personal virtues of both figures, such as courage, intelligence, and self-control. They present Epaminondas and Scipio as historical exempla, models for ethical and practical conduct, in a manner consistent with Plutarch’s broader literary project of using paired Greek and Roman lives for moral and historical comparison. The work juxtaposes cultural ideals of heroism and statesmanship from the two civilizations.
-
-The treatise is transmitted indirectly through later Byzantine anthologies and lexica that preserved these excerpts. The modern count of 251 fragments derives from scholarly editions of Plutarch’s fragmentary works within the Moralia. Although the treatise’s direct influence is difficult to trace, it contributed to preserving anecdotes about both generals and fed the broader tradition of biographical and comparative writing in antiquity.
 
 ## Text
 

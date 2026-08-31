@@ -5,6 +5,7 @@ author: Dionysius of Halicarnassus
 eul_wid: ndy-aq
 eul_aid: ndy
 canonical: "https://eulogikon.org/works/dionysius-halicarnassus-chronological-rome-ndy-aq"
+lang: grc
 period: Hellenistic
 dialect: Attic
 domain: History
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Dionysius of Halicarnassus
 
 **eul_wid:** `ndy-aq` · [HTML page](https://eulogikon.org/works/dionysius-halicarnassus-chronological-rome-ndy-aq)
-
-The Chronological Fragments on Rome is a collection of eleven excerpts attributed to Dionysius of Halicarnassus. Preserved within the tenth-century Byzantine compendium known as the Excerpta Constantiniana, these fragments were systematically extracted from Dionysius’s major historical work, the Roman Antiquities, for inclusion in the encyclopedia’s dedicated section On Chronology. The fragments survive primarily through the manuscript Codex Vaticanus Graecus 73. They do not constitute an independent treatise but represent a thematic selection, repurposed by Byzantine editors to provide a concise chronological framework drawn from the larger narrative.
-
-The content of the fragments focuses on synchronizing early Roman history with established Greek timelines. They present calculated dates for key events, such as the foundation of Rome, aligning it with specific Spartan kings or the first Olympiad. The excerpts also provide a chronological structure for the regal period and the early Republic. This effort to establish precise temporal correspondences served Dionysius’s broader historiographical aim of demonstrating the profound antiquity of Roman civilization and, crucially, its fundamental Greek origins. By arguing that Rome was founded by Greek colonists, Dionysius sought to reconcile the Greek intellectual world to Roman political dominance.
-
-The significance of these fragments lies in their transmission of Dionysius’s influential chronological arguments. While their direct impact is mediated through the Excerpta Constantiniana, the historical methodology and dating systems they reflect were central to Dionysius’s original project. His work in establishing a synchronized Greco-Roman chronology informed later historians, including Plutarch and Eusebius, and played a key role in the cultural discourse that framed Rome not as a foreign power but as an inheritor and perpetuator of Greek heritage.
 
 ## Text
 

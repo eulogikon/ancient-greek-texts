@@ -5,6 +5,7 @@ author: Hephaestion of Thebes
 eul_wid: tco-ac
 eul_aid: tco
 canonical: "https://eulogikon.org/works/hephaestion-thebes-excerpt-tco-ac"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hephaestion of Thebes
 
 **eul_wid:** `tco-ac` · [HTML page](https://eulogikon.org/works/hephaestion-thebes-excerpt-tco-ac)
-
-The Excerpt is a concise astrological treatise composed in Koine Greek by Hephaestion of Thebes, likely around 415 CE. It comprises two passages that are themselves extracts from a longer work, concentrating on specific predictive astrological techniques. The text survives in its entirety within the manuscript tradition of Hephaestion's more extensive and renowned work, the Apotelesmatics, a five-book compendium of astrological knowledge. Active in the late fourth and early fifth centuries, a period of significant scholarly activity in late antique astrology, Hephaestion systematized doctrines drawn from earlier authorities such as Ptolemy and Dorotheus of Sidon. Modern scholarship interprets the Excerpt as a distilled guide or quick reference, intended for students and practitioners already versed in the technical methodologies of Greco-Roman astrology. Hephaestion's writings, including this brief treatise, played a notable role in transmitting Hellenistic astrological knowledge to subsequent Byzantine and Arabic traditions.
 
 ## Text
 

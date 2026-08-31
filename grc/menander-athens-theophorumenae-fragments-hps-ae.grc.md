@@ -5,6 +5,7 @@ author: Menander of Athens
 eul_wid: hps-ae
 eul_aid: hps
 canonical: "https://eulogikon.org/works/menander-athens-theophorumenae-fragments-hps-ae"
+lang: grc
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Menander of Athens
 
 **eul_wid:** `hps-ae` · [HTML page](https://eulogikon.org/works/menander-athens-theophorumenae-fragments-hps-ae)
-
-Theophorumenae (Women Possessed by a God) is a lost comedy by the Athenian playwright Menander, dating from the late fourth or early third century BCE. As a work of New Comedy, it would have employed the genre's characteristic domestic settings and romantic plots, populated by stock characters such as clever slaves, young lovers, and stern fathers. The play survives only in fragments, with seventeen brief passages preserved primarily in the fifth-century CE anthology compiled by Stobaeus. These excerpts are largely moralizing quotations, offering glimpses of the play's sententious dialogue but not its narrative structure. The title indicates a plot revolving around women in a state of religious ecstasy or possession, a scenario ripe for the comic misunderstandings typical of Menander. Scholars suggest this premise likely involved feigned divine inspiration, perhaps used by characters to achieve personal aims or to untangle a romantic dilemma. Although its complete story is irrecoverable, Theophorumenae stands as a fragmentary testament to Menander's sophisticated comic art, which profoundly influenced the subsequent development of Roman comedy and the wider European theatrical tradition.
 
 ## Text
 

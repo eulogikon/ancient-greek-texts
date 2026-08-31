@@ -5,6 +5,7 @@ author: Plato of Athens
 eul_wid: ffk-am
 eul_aid: ffk
 canonical: "https://eulogikon.org/works/plato-theaetetus-ffk-am"
+lang: grc
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plato of Athens
 
 **eul_wid:** `ffk-am` · [HTML page](https://eulogikon.org/works/plato-theaetetus-ffk-am)
-
-The Theaetetus is a philosophical dialogue by Plato, composed around 369–367 BCE. It dramatizes a conversation between Socrates and the promising young mathematician Theaetetus, who is prompted to answer the foundational question, "What is knowledge?" The inquiry proceeds through three principal definitions: that knowledge is perception, that it is true judgment, and finally that it is true judgment accompanied by an explanatory account. Socrates subjects each proposal to rigorous scrutiny, exposing significant difficulties with each, and the dialogue concludes without arriving at a satisfactory definition. This aporetic structure emphasizes the value of philosophical questioning over the presentation of doctrinal solutions.
-
-In the course of examining the claim that knowledge is perception, the dialogue offers extensive critiques of Protagorean relativism and the Heraclitean doctrine of universal flux. It also introduces influential analogies for the workings of the mind, notably the model of a wax tablet to explain memory and that of an aviary to illustrate the acquisition and misapplication of concepts, particularly to account for the possibility of false belief. The dramatic setting is 399 BCE, shortly before Socrates' trial and execution. The work is generally considered a product of Plato's later middle period, composed after the Republic and often grouped with the Sophist and the Statesman as part of a thematic trilogy. The complete text has been preserved through medieval manuscripts, the oldest dating to 895 CE, and it remains a seminal work in the history of epistemology.
 
 ## Text
 

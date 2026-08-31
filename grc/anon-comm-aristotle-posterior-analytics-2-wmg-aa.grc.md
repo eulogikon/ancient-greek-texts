@@ -5,6 +5,7 @@ author: Anonymous Commentary on Aristotle
 eul_wid: wmg-aa
 eul_aid: wmg
 canonical: "https://eulogikon.org/works/anon-comm-aristotle-posterior-analytics-2-wmg-aa"
+lang: grc
 period: Uncertain
 license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ---

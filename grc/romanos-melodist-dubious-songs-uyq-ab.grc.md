@@ -5,6 +5,7 @@ author: Romanos the Melodist
 eul_wid: uyq-ab
 eul_aid: uyq
 canonical: "https://eulogikon.org/works/romanos-melodist-dubious-songs-uyq-ab"
+lang: grc
 period: Late Antique
 dialect: Christian Koine
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Romanos the Melodist
 
 **eul_wid:** `uyq-ab` · [HTML page](https://eulogikon.org/works/romanos-melodist-dubious-songs-uyq-ab)
-
-The Dubious Songs is a modern editorial title for a collection of 595 poetic passages attributed to the sixth-century hymnographer Romanos the Melodist but considered of uncertain authorship. Romanos was the master of the kontakion, a long metrical sermon in verse. While approximately 60 genuine kontakia survive under his name, a much larger corpus was ascribed to him in later manuscript traditions. This collection represents that contested body of work, comprising liturgical hymns that follow the formal structure of the kontakion. The hymns cover themes central to the Byzantine liturgical calendar and doctrinal instruction, including biblical narrative and exegesis, Christological doctrine for major feasts, praise of saints and martyrs, and themes of penitence and moral instruction. The works are preserved in medieval Byzantine liturgical manuscripts. The modern critical edition by Paul Maas and C. A. Trypanis categorizes the corpus attributed to Romanos into "Genuine," "Dubious," and "Spurious," with the Dubious Songs forming the bulk of the uncertain attributions. The transmission of this material was complicated by centuries of liturgical modification and recombination. The broader corpus attributed to Romanos fundamentally shaped Byzantine hymnography. The Dubious Songs, as part of this extensive tradition, contributed to his legendary status and the widespread dissemination of his poetic and theological models throughout Eastern Christianity.
 
 ## Text
 

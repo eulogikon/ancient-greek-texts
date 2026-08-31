@@ -5,6 +5,7 @@ author: Carneiscus the Epicurean
 eul_wid: ibg-ab
 eul_aid: ibg
 canonical: "https://eulogikon.org/works/carneiscus-friendship-ibg-ab"
+lang: grc
 period: Hellenistic
 dialect: "Koine (phi, frg)"
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Carneiscus the Epicurean
 
 **eul_wid:** `ibg-ab` · [HTML page](https://eulogikon.org/works/carneiscus-friendship-ibg-ab)
-
-The Fragments on Friendship is a philosophical treatise by the Epicurean thinker Carneiscus, preserved only in a damaged and incomplete state. The work survives exclusively within the carbonized Herculaneum Papyri discovered at the Villa of the Papyri, where it is identified across six fragmentary passages. These remnants engage with central tenets of Epicurean ethics concerning the role of friendship in the attainment of a happy and tranquil life. The text appears to examine the nature and value of friendship, its relationship to the Epicurean ideals of pleasure and security, and the philosophical debate over whether friendship is to be valued for its own sake or for its utility. As with the majority of the Herculaneum library, which was buried by the eruption of Mount Vesuvius in 79 CE, the papyrus is severely damaged and requires painstaking reconstruction, with no other manuscript tradition known. These fragments hold significance as part of the recovered Epicurean corpus, offering valuable insight into the internal development and discourse of the school in the centuries following its founder, Epicurus. They provide direct evidence for Hellenistic philosophical practice and the ongoing refinement of Epicurean thought on a key ethical concept.
 
 ## Text
 

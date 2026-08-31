@@ -5,6 +5,7 @@ author: Plato of Athens
 eul_wid: ffk-as
 eul_aid: ffk
 canonical: "https://eulogikon.org/works/plato-symposium-ffk-as"
+lang: grc
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plato of Athens
 
 **eul_wid:** `ffk-as` · [HTML page](https://eulogikon.org/works/plato-symposium-ffk-as)
-
-Plato's Symposium is a philosophical dialogue composed in Attic Greek, likely between 385 and 370 BCE. The dramatic setting is a celebratory drinking party, or symposium, hosted in Athens around 416 BCE by the tragic poet Agathon following his first victory at the dramatic festival. The narrative is framed as a recollection, recounted years later, of the speeches delivered that evening in praise of Eros, the god of love. Six guests, including the comic poet Aristophanes and the physician Eryximachus, each present a distinct encomium on love, ranging from mythological explanations to naturalistic and social theories. The philosophical centerpiece is the speech of Socrates, who recounts the teachings of the priestess Diotima. She defines love not as a god but as a mediating spirit, born of resource and poverty, that drives all human aspiration. Diotima famously describes the ascent of the soul via a "ladder" of love, beginning with physical attraction to a beautiful individual and progressing through higher stages of intellectual and moral beauty until one apprehends the eternal, transcendent Form of Beauty itself. The dialogue's conclusion shifts dramatically with the arrival of the intoxicated and charismatic politician Alcibiades, who delivers an impassioned, ironic eulogy not to Love but to Socrates himself, praising his unique character and unsettling wisdom.
-
-The work survives complete through the medieval manuscript tradition. Its dramatic date is historically poignant, set on the eve of the political scandals and military catastrophes that would soon befall Athens, lending a complex, foreboding undertone to the evening's festivities. The Symposium stands as a foundational text of Platonic philosophy, exploring love as the fundamental human impulse toward virtue, philosophical inquiry, artistic creation, and the pursuit of immortality through lasting works and ideas. Its profound conceptualization of erotic ascent has exerted immense influence on subsequent Western thought, shaping developments in Neoplatonism, Christian mysticism, Renaissance humanism, and modern philosophy.
 
 ## Text
 

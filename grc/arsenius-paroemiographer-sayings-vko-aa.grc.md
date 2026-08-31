@@ -5,6 +5,7 @@ author: Arsenius the Paroemiographer
 eul_wid: vko-aa
 eul_aid: vko
 canonical: "https://eulogikon.org/works/arsenius-paroemiographer-sayings-vko-aa"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Arsenius the Paroemiographer
 
 **eul_wid:** `vko-aa` · [HTML page](https://eulogikon.org/works/arsenius-paroemiographer-sayings-vko-aa)
-
-The Sayings is a collection of 758 Greek proverbs compiled by the Byzantine scholar Arsenius, known as the Paroemiographer, around the year 1500 CE. Written in Koine Greek, the work systematically gathers traditional wisdom, with entries often citing classical authors such as Aristophanes and Menander. It is organized alphabetically by a key word in each proverb and frequently includes a short explanation. The collection was created during the final century of the Byzantine Empire, a period of intense scholarly effort to preserve ancient Greek language and literature. It is thought to have been written as a reference tool for education, reflecting the desire to safeguard classical heritage. The proverbs cover enduring themes of morality, human nature, fortune, and social relations. The text survives in full through numerous Byzantine manuscripts, and its standard modern edition is found within the 19th-century Corpus Paroemiographorum Graecorum. As a compilation, its main textual variations involve different readings of the proverbs themselves. The work became an important resource during the Renaissance, influencing later collectors of adages like Erasmus, and it remains a key source for studying Greek proverbial wisdom.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Aesop the Fabulist
 eul_wid: aqo-ab
 eul_aid: aqo
 canonical: "https://eulogikon.org/works/aesop-preserved-wax-tablets-aqo-ab"
+lang: grc
 period: Archaic
 dialect: Mixed Dialects
 domain: Fiction
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aesop the Fabulist
 
 **eul_wid:** `aqo-ab` · [HTML page](https://eulogikon.org/works/aesop-preserved-wax-tablets-aqo-ab)
-
-The work known as the Fables Preserved-Assendelftian Wax Tablets, attributed to the legendary fabulist Aesop, does not correspond to any known artifact or manuscript within the established scholarly corpus of Aesopic literature. The title suggests a collection preserved on wax tablets discovered in Assendelft, Netherlands, but no such archaeological find or textual witness is documented in major reference works or manuscript catalogues. The authentic tradition of fables ascribed to Aesop, a semi-legendary figure of the 6th century BCE, was originally oral and later compiled into various written collections during the Roman Imperial period and beyond. These fables are characterized by concise prose narratives, frequently employing animal characters to convey lessons in practical wisdom, social criticism, and commentary on power dynamics, often highlighting the consequences of folly and the value of cleverness. The transmission of these tales is complex, with no single authoritative text, but rather a fluid tradition preserved in later manuscript collections such as the Collectio Augustana. The purported Assendelftian tablets form no part of this recognized textual history. Despite the apocryphal nature of this specific title, the broader Aesopic tradition holds profound significance, having been utilized in ancient education, adapted by Roman authors like Phaedrus, and exerting a continuous and foundational influence on moral storytelling in Western literature and culture through countless translations and adaptations.
 
 ## Text
 

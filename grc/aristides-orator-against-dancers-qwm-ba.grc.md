@@ -5,6 +5,7 @@ author: Aristides the Orator
 eul_wid: qwm-ba
 eul_aid: qwm
 canonical: "https://eulogikon.org/works/aristides-orator-against-dancers-qwm-ba"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristides the Orator
 
 **eul_wid:** `qwm-ba` · [HTML page](https://eulogikon.org/works/aristides-orator-against-dancers-qwm-ba)
-
-Against the Dancers is a polemical oration composed in the mid-2nd century CE by the Greek orator Aelius Aristides. Written in Attic Greek, the speech presents a structured and vehement critique of pantomime dancing, a highly popular form of theatrical entertainment in the Roman Empire. Aristides attacks the art as a profound source of moral and social decay, contending that it effeminizes its male performers, inflames irrational passions within audiences, and functions as a virulent disease threatening the civic order. The work stands as a characteristic example of the moralizing rhetoric employed by elite Greek intellectuals of the period known as the Second Sophistic. Preserved within the corpus of Aristides' works through medieval manuscripts, the complete text survives. Modern scholarship interprets the oration as extending beyond mere aesthetic disapproval; it is widely regarded as a crafted defense of traditional Hellenic education and values, intended for a cultivated Greek audience confronting a pervasive, foreign-influenced popular culture. Consequently, the speech is often analyzed as a significant document for understanding the cultural tensions between elite Greek identity and Roman-era mass entertainment.
 
 ## Text
 

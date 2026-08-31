@@ -5,6 +5,7 @@ author: Hellanicus of Lesbos
 eul_wid: cvm-ab
 eul_aid: cvm
 canonical: "https://eulogikon.org/works/hellanicus-lesbos-phoronis-mythological-fragments-cvm-ab"
+lang: grc
 period: Classical
 dialect: Aeolic (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hellanicus of Lesbos
 
 **eul_wid:** `cvm-ab` · [HTML page](https://eulogikon.org/works/hellanicus-lesbos-phoronis-mythological-fragments-cvm-ab)
-
-The Phoronis is a lost prose work of mythography and genealogy attributed to the 5th-century BCE Greek author Hellanicus of Lesbos. Written in Ionic Greek, it exemplifies the early form of historical writing known as logography. Its title derives from Phoroneus, a primordial king of Argos, indicating a primary focus on systematizing the heroic genealogies and foundation myths of Argos and the wider Peloponnesian region. The complete text has not survived and is known only through approximately 306 fragments preserved in the quotations of later ancient commentators, grammarians, and authors. These excerpts suggest the work was a structured compilation that sought to organize and reconcile various local Greek traditions into a coherent, panhellenic narrative. Modern scholarship interprets it as part of a broader 5th-century BCE intellectual project to create authoritative written accounts of the mythical past, establishing chronological frameworks and genealogical connections for a literate Greek audience.
 
 ## Text
 

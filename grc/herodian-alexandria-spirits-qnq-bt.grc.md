@@ -5,6 +5,7 @@ author: Herodian of Alexandria
 eul_wid: qnq-bt
 eul_aid: qnq
 canonical: "https://eulogikon.org/works/herodian-alexandria-spirits-qnq-bt"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Herodian of Alexandria
 
 **eul_wid:** `qnq-bt` · [HTML page](https://eulogikon.org/works/herodian-alexandria-spirits-qnq-bt)
-
-The work On Spirits is attributed to the grammarian Herodian of Alexandria, a prolific scholar active in the second century CE during the reign of Marcus Aurelius. Herodian is best known for his systematic contributions to Greek grammar, particularly his comprehensive treatise on accentuation titled General Prosody. The attribution of On Spirits to him, however, is not directly attested in major surviving sources, and its content and authenticity remain uncertain. The title suggests a possible technical linguistic focus, as the Greek term pneuma in a grammatical context refers to the aspirated breathing marks used in orthography. Alternatively, the title could imply philosophical or theological themes, which would be an unusual subject for an author otherwise dedicated to philological analysis. Like much of Herodian's extensive output, his major works survive only indirectly through fragments and quotations preserved in later Byzantine grammatical compilations, scholia, and lexicons. The specific transmission path for On Spirits is undocumented. Herodian's established grammatical scholarship had a profound and lasting influence on Byzantine education and linguistic study. The significance of On Spirits therefore depends entirely on its authenticity; if genuine, it would represent a minor and thematically atypical component of his otherwise well-attested corpus.
 
 ## Text
 

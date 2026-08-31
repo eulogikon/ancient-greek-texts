@@ -5,6 +5,7 @@ author: Hierocles the Stoic
 eul_wid: pnw-ac
 eul_aid: pnw
 canonical: "https://eulogikon.org/works/hierocles-stoic-ethical-elements-pnw-ac"
+lang: grc
 period: Roman
 dialect: "Koine (phi, frg)"
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hierocles the Stoic
 
 **eul_wid:** `pnw-ac` · [HTML page](https://eulogikon.org/works/hierocles-stoic-ethical-elements-pnw-ac)
-
-The Ethical Elements is an ethical treatise by the 2nd-century CE Stoic philosopher Hierocles. Written in Koine Greek, the work survives only in fragments, preserved almost exclusively within the 5th-century anthology compiled by John Stobaeus. It was likely conceived as a foundational and practical manual on Stoic ethics. The most celebrated extant passage elaborates the Stoic doctrine of oikeiosis, or affiliation, through a metaphor of concentric circles. This model positions the individual self at the center, with successive rings representing one's family, local community, country, and ultimately the entirety of humankind. Hierocles contends that the core ethical endeavor is to progressively "draw the circles together" toward the center, cultivating a sense of affinity and duty toward increasingly distant groups as though they were one's immediate kin. Other surviving fragments address concrete social duties, including obligations within marriage, household management, and the proper treatment of parents and slaves, underscoring the text's orientation toward applied, everyday morality. This practical focus is interpreted by modern scholars as emblematic of Roman Imperial Stoicism, which often stressed social embeddedness and civic responsibility. The treatise's original structure is largely unrecoverable, though it is believed to have been organized into approximately twenty sections. Its complete content and scope remain unknown due to its transmission being entirely dependent on later excerptors.
 
 ## Text
 

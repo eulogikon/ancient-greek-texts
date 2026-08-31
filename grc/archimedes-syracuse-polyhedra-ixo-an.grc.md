@@ -5,6 +5,7 @@ author: Archimedes of Syracuse
 eul_wid: ixo-an
 eul_aid: ixo
 canonical: "https://eulogikon.org/works/archimedes-syracuse-polyhedra-ixo-an"
+lang: grc
 period: Hellenistic
 dialect: Doric
 domain: Mathematics
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Archimedes of Syracuse
 
 **eul_wid:** `ixo-an` · [HTML page](https://eulogikon.org/works/archimedes-syracuse-polyhedra-ixo-an)
-
-On Archimedean Polyhedra is a lost mathematical treatise by the Hellenistic scientist Archimedes of Syracuse. The work is known only through later summaries, most importantly that of the 4th-century mathematician Pappus of Alexandria, who recorded its essential findings in his own Collection. According to Pappus, the treatise described thirteen semi-regular convex polyhedra, a class of three-dimensional shapes now known as the Archimedean solids. These are defined as having faces composed of two or more types of regular polygons, such as triangles, squares, pentagons, and hexagons, arranged so that the same set of polygons meets in the same order at every vertex.
-
-Pappus reports that Archimedes attributed the discovery of these thirteen figures to Plato, a claim modern scholars interpret as a later tradition of crediting major discoveries to esteemed predecessors. In reality, the work represents a significant extension of classical Greek geometry, which had previously established the five perfectly regular Platonic solids. Archimedes systematically explored this new, more complex family of uniform polyhedra, likely writing for an audience well-versed in the geometric methods of Euclid.
-
-The original treatise does not survive, and knowledge of its contents depends entirely on this secondary transmission. Pappus’s account ensured the preservation of the concept of the thirteen solids through the medieval period. They were later reconstructed and rigorously studied during the Renaissance, most comprehensively by Johannes Kepler, and remain fundamental objects in the study of geometry, crystallography, and modern mathematical theory.
 
 ## Text
 

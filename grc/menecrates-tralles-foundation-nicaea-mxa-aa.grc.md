@@ -5,6 +5,7 @@ author: Menecrates of Tralles
 eul_wid: mxa-aa
 eul_aid: mxa
 canonical: "https://eulogikon.org/works/menecrates-tralles-foundation-nicaea-mxa-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Menecrates of Tralles
 
 **eul_wid:** `mxa-aa` · [HTML page](https://eulogikon.org/works/menecrates-tralles-foundation-nicaea-mxa-aa)
-
-The historical work On the Foundation of Nicaea by the Hellenistic historian Menecrates of Tralles is a lost local history, or ktisis, focusing on the origins of the city of Nicaea in Bithynia. It survives only in two fragments preserved in the geographical writings of Strabo and Stephanus of Byzantium. The first fragment, from Strabo, presents a mythological foundation story. It recounts that settlers from the city of Nicaea in Locris accompanied Heracles on his campaigns. After the death of Heracles's comrade Mygdon, his son succeeded him, and the city, which was first called Ancore or Helicore and later Olbia, was finally renamed Nicaea by the Diadoch king Lysimachus in honor of his wife. The second fragment, from Stephanus of Byzantium, offers an alternative, non-mythological version, stating the city was founded by Bottiaeans and named for a nymph. Menecrates’s account became part of the standard tradition regarding Nicaea’s origins. His work exemplifies Hellenistic local historiography, which characteristically blended myth and history to construct civic identity and legitimize a city’s Greek heritage. The text is known solely through these later citations, with no independent manuscript tradition.
 
 ## Text
 

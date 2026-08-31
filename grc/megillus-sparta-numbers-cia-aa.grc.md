@@ -5,6 +5,7 @@ author: Megillus of Sparta
 eul_wid: cia-aa
 eul_aid: cia
 canonical: "https://eulogikon.org/works/megillus-sparta-numbers-cia-aa"
+lang: grc
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Megillus of Sparta
 
 **eul_wid:** `cia-aa` · [HTML page](https://eulogikon.org/works/megillus-sparta-numbers-cia-aa)
-
-The work known as Fragments on Numbers is attributed to Megillus of Sparta. No substantive description of its content or arguments is preserved in surviving sources, with its title suggesting a focus on numerical theory, possibly within a Pythagorean or Platonic philosophical context. The sole extant reference to the treatise comes from the later Neoplatonist Iamblichus, who quotes Megillus venerating the number five. In this fragment, the pentad is described as "alteration, light, and reconciliation," explained through its role in transforming triadic division into the unity of the sphere, generating circular motion and light, and unifying previously separated elements. The treatise is otherwise presumed lost, with no known manuscript tradition or further quotations. While a Spartan named Megillus appears as an interlocutor in Plato's Laws, that character is not identified as an author. The attribution of a mathematical-philosophical work to a Spartan figure is historically notable given Sparta's traditional cultural priorities, but the lack of corroborating evidence severely limits any definitive assessment of the work's scope or authenticity.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Demodocus of Leros
 eul_wid: bea-ab
 eul_aid: bea
 canonical: "https://eulogikon.org/works/demodocus-leros-epigrams-bea-ab"
+lang: grc
 period: Archaic
 dialect: Ionic Elegiac
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Demodocus of Leros
 
 **eul_wid:** `bea-ab` · [HTML page](https://eulogikon.org/works/demodocus-leros-epigrams-bea-ab)
-
-The Epigrams of Demodocus of Leros constitute a collection of short, gnomic verses belonging to the archaic Greek tradition of invective and wisdom poetry. Preserved as twelve fragments, primarily within the fifth-century CE anthology compiled by Stobaeus, these are self-contained, cynical maxims concerning human nature and social conduct rather than formal dedicatory inscriptions. The tenth-century Byzantine encyclopedia, the Suda, describes his work as poems full of censure. The surviving fragments offer pithy, often misanthropic advice and critique, expressing a deep skepticism toward friendship and human trust, observations on the instability of fortune, and authoritative, moralizing statements on ethics and social behavior. The work survives only indirectly through quotation by later anthologists, chiefly Stobaeus, and is referenced in the Suda, with no independent manuscript tradition. Demodocus is counted among canonical gnomic poets such as Theognis and Phocylides. His proverbial, censorious verses contributed to the broader tradition of Greek wisdom literature, and their preservation by Stobaeus confirms their continued value as sententious material for later Greek readers.
 
 ## Text
 

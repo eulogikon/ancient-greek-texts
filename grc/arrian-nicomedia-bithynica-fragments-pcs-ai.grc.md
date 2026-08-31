@@ -5,6 +5,7 @@ author: Arrian of Nicomedia
 eul_wid: pcs-ai
 eul_aid: pcs
 canonical: "https://eulogikon.org/works/arrian-nicomedia-bithynica-fragments-pcs-ai"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Arrian of Nicomedia
 
 **eul_wid:** `pcs-ai` · [HTML page](https://eulogikon.org/works/arrian-nicomedia-bithynica-fragments-pcs-ai)
-
-The Bithynica is a lost historical work by the 2nd-century CE author Arrian of Nicomedia, best known for his Anabasis of Alexander. Composed in eight books, it was a comprehensive local history of the Bithynia region in northwestern Asia Minor, written in Greek as a tribute to the author's homeland. Arrian, a Roman senator of Bithynian origin, structured the work as a narrative stretching from the region's mythical foundations through the period of its independent monarchy, concluding with its annexation by the Roman Republic in 74 BCE. The text does not survive intact; modern knowledge of it derives from approximately 75 identifiable fragments preserved in later Greek and Byzantine authors and from a summary provided by the 9th-century patriarch Photius. These remnants indicate the work contained detailed accounts of Bithynian cities, rulers, and local legends. As a product of the Second Sophistic, a period marked by cultural revival and antiquarian scholarship in the Greek East, the Bithynica exemplifies the era's local patriotism, crafted to assert Bithynia's historical and cultural prestige within the Roman Empire. Its fragments remain a valuable, though limited, source for the Hellenistic history and historiography of the region.
 
 ## Text
 

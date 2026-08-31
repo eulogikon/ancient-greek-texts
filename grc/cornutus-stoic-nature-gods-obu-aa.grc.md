@@ -5,6 +5,7 @@ author: Cornutus the Stoic Philosopher
 eul_wid: obu-aa
 eul_aid: obu
 canonical: "https://eulogikon.org/works/cornutus-stoic-nature-gods-obu-aa"
+lang: grc
 period: Roman
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Cornutus the Stoic Philosopher
 
 **eul_wid:** `obu-aa` · [HTML page](https://eulogikon.org/works/cornutus-stoic-nature-gods-obu-aa)
-
-On the Nature of the Gods is a philosophical treatise by the first-century Roman Stoic philosopher Lucius Annaeus Cornutus. Written in Greek, the work systematically applies Stoic doctrine to interpret traditional Greek mythology. Cornutus examines the names and narratives of the gods across seventy-five concise chapters, arguing that they function as allegorical representations of physical elements and ethical concepts. He interprets Zeus as the cosmic creative principle, Hera as the air, and Athena as practical wisdom. The treatise is believed to have been composed for students, aiming to provide a rational, philosophical framework for understanding myth. The complete text survives through medieval manuscripts. It stands as a principal example of Stoic allegorism, a method that sought to uncover philosophical truth within traditional stories, an approach that later influenced both Neoplatonic and Christian thought.
 
 ## Text
 

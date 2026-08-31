@@ -5,6 +5,7 @@ author: Melanthius the Historian
 eul_wid: ekg-aa
 eul_aid: ekg
 canonical: "https://eulogikon.org/works/melanthius-eleusinian-mysteries-ekg-aa"
+lang: grc
 period: Classical
 dialect: Attic
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Melanthius the Historian
 
 **eul_wid:** `ekg-aa` · [HTML page](https://eulogikon.org/works/melanthius-eleusinian-mysteries-ekg-aa)
-
-The Fragments on Eleusinian Mysteries is a lost antiquarian work by Melanthius the Historian, known only by its title. It was a compilation of source materials concerning the secret rites, myths, and sacred objects of the cult of Demeter and Persephone at Eleusis. As a work of Hellenistic scholarship, it would have systematically addressed the foundational myth of the two goddesses, the ritual stages of initiation, the sacred artifacts displayed during the ceremonies, and the promised rewards for initiates in the afterlife, alongside the administrative history of the sanctuary. The work's existence is attested solely by its inclusion in the tenth-century Byzantine encyclopedia known as the Suda, representing a purely testimonial transmission with no surviving manuscript tradition or direct quotations. Its presence in the historical record confirms Melanthius's contribution to the scholarly study of ancient Greek religious cults, situating him within a tradition that sought to document and explain local rituals for an educated audience.
 
 ## Text
 

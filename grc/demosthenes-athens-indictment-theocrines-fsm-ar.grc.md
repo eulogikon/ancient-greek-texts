@@ -5,6 +5,7 @@ author: Demosthenes of Athens
 eul_wid: fsm-ar
 eul_aid: fsm
 canonical: "https://eulogikon.org/works/demosthenes-athens-indictment-theocrines-fsm-ar"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Demosthenes of Athens
 
 **eul_wid:** `fsm-ar` · [HTML page](https://eulogikon.org/works/demosthenes-athens-indictment-theocrines-fsm-ar)
-
-The Indictment against Theocrines is a forensic oration from classical Athens, preserved among the works of Demosthenes but now generally regarded as the product of an anonymous speechwriter from his milieu. Composed in Attic Greek around 340–330 BCE, the speech is a complete legal document of 57 sections. It represents a procedure known as an endeixis, a formal denunciation, in which the unnamed speaker accuses a certain Theocrines of illegally initiating lawsuits. The core charge is that Theocrines, having been previously convicted of a crime, had lost his citizen rights and was therefore legally barred from engaging in litigation. The speech meticulously catalogues Theocrines' alleged career as a malicious prosecutor, or sycophant, arguing that his persistent abuse of the courts constitutes both a personal harassment of citizens and a corruption of public justice.
-
-The work offers a detailed and vivid perspective on the legal and political tensions of mid-fourth-century Athens, encapsulating contemporary anxieties about professional litigants exploiting the judicial system for personal gain or harassment. For modern scholarship, it serves as a valuable case study in Athenian legal mechanics, particularly the procedures for enforcing civic disqualifications, and illuminates the intensely personal nature of political and forensic rivalry in the period. While transmitted under the name of Demosthenes in the medieval manuscript tradition, its authorship was questioned even in antiquity, and it is now considered pseudonymous. Despite this, it remains a significant source for understanding the practical operation of Athenian law and the social dynamics of the classical city-state.
 
 ## Text
 

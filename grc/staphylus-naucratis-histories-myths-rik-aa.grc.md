@@ -5,6 +5,7 @@ author: Staphylus of Naucratis
 eul_wid: rik-aa
 eul_aid: rik
 canonical: "https://eulogikon.org/works/staphylus-naucratis-histories-myths-rik-aa"
+lang: grc
 period: Roman
 dialect: Koine
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Staphylus of Naucratis
 
 **eul_wid:** `rik-aa` · [HTML page](https://eulogikon.org/works/staphylus-naucratis-histories-myths-rik-aa)
-
-The Thessalian Histories and Myths is a lost prose work of Hellenistic mythography attributed to Staphylus of Naucratis. It survives only in fragments preserved through quotations in later antique and Byzantine sources, notably the geographical lexicon of Stephanus of Byzantium, the Etymologicum Magnum, and various scholia. The work was a compilation focused on the mythology and local history of Thessaly. Its content, as evidenced by the fragments, included regional myths, details on city foundations and their eponymous founders, and intricate heroic genealogies that connected local figures to the Panhellenic mythological tradition. The text also provided etymological explanations for Thessalian place names. As a product of Hellenistic scholarship, the work represents the systematic gathering and rationalizing of local Greek traditions, and its fragments offer valuable, otherwise lost evidence for Thessalian myth-history. They also illustrate the source material utilized by later geographers, lexicographers, and commentators, who cited Staphylus for authoritative details on Thessalian subjects. The relationship of this work to another title attributed to Staphylus, the Apospasmata or "Extracts," recorded in the Suda, remains unclear, though they may refer to the same or related compilations. The extant fragments are collected in modern editions of the Fragmente der griechischen Historiker.
 
 ## Text
 

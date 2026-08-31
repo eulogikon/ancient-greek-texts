@@ -5,6 +5,7 @@ author: Eusebius of Caesarea
 eul_wid: tva-bh
 eul_aid: tva
 canonical: "https://eulogikon.org/works/eusebius-caesarea-against-marcellus-tva-bh"
+lang: grc
 period: Late Antique
 dialect: Christian Koine
 domain: Theology
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Eusebius of Caesarea
 
 **eul_wid:** `tva-bh` · [HTML page](https://eulogikon.org/works/eusebius-caesarea-against-marcellus-tva-bh)
-
-Against Marcellus is a theological treatise composed in Greek by Eusebius of Caesarea, the prominent bishop and historian, around 337 CE. It is a work of Christian polemic directly refuting the teachings of Marcellus, the Bishop of Ancyra. Eusebius structures his arguments around ten key scriptural passages, systematically accusing Marcellus of reviving the heresy of Sabellianism, a form of modalism seen to deny the distinct and eternal personhood of God the Son within the Trinity. The work was composed in the heated theological atmosphere following the First Council of Nicaea. While both Eusebius and Marcellus opposed Arianism, they profoundly disagreed on defining the relationship between God the Father and the Son. Eusebius wrote this treatise to defend his own understanding of orthodoxy, which emphasized the Son’s distinct and eternal existence, and to justify the recent church councils that had condemned Marcellus. The full text survives, transmitted through medieval Greek manuscripts often paired with Eusebius’s longer companion work, On the Theology of the Church. Modern scholars regard the treatise as a crucial source for understanding the complex doctrinal debates that shaped fourth-century Christianity, illustrating that the conflicts extended beyond a simple divide between supporters and opponents of the Nicene Creed. Its preservation is due to its value as a primary document from a defining period in the development of Christian Trinitarian doctrine.
 
 ## Text
 

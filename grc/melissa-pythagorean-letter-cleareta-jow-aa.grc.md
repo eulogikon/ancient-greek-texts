@@ -5,6 +5,7 @@ author: Melissa the Pythagorean
 eul_wid: jow-aa
 eul_aid: jow
 canonical: "https://eulogikon.org/works/melissa-pythagorean-letter-cleareta-jow-aa"
+lang: grc
 period: Hellenistic
 dialect: Doric
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Melissa the Pythagorean
 
 **eul_wid:** `jow-aa` · [HTML page](https://eulogikon.org/works/melissa-pythagorean-letter-cleareta-jow-aa)
-
-The Fragment of a Letter to Cleareta is a pseudepigraphical treatise on wifely virtue attributed to Melissa, a Pythagorean woman. Preserved by the 5th-century CE compiler Stobaeus in his Anthology, the work belongs to a corpus of Pythagorean texts addressed to women, which includes letters ascribed to Theano, Phintys, and Perictione. The surviving passages offer advice on proper conduct for a married woman, emphasizing modesty, or sophrosyne, as the essential quality of restraint in behavior and speech. It advocates for a wife’s simple and neat dress over luxurious or elaborate adornment, arguing that true ornament is found in character rather than in clothing. The text further stresses conjugal duty, advising that a woman should seek to earn her husband’s respect through dignified household management and virtuous conduct. The fragment survives exclusively as a quotation in Stobaeus’s Anthology and possesses no independent manuscript tradition; its actual composition likely dates to the Hellenistic or early Roman Imperial period, when Pythagorean pseudepigrapha were commonly produced. Though its direct influence is obscure, the letter is a valuable witness to ancient constructions of gender and virtue within Pythagorean philosophy, representing the female-pseudonymous strand of ethical writing and contributing to our understanding of the philosophical instruction directed at women in antiquity.
 
 ## Text
 

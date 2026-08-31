@@ -5,6 +5,7 @@ author: Lucius Licinius Lucullus
 eul_wid: mrg-aa
 eul_aid: mrg
 canonical: "https://eulogikon.org/works/lucullus-thessalonica-mrg-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lucius Licinius Lucullus
 
 **eul_wid:** `mrg-aa` · [HTML page](https://eulogikon.org/works/lucullus-thessalonica-mrg-aa)
-
-On the City of Thessalonica is a work spuriously attributed to the Roman general and statesman Lucius Licinius Lucullus. No such historical or topographical study is documented among Lucullus’s known activities, which were confined to military command, political life, and patronage of Greek learning. The work is referenced in later lexicographical sources, notably the Ethnika of Stephanus of Byzantium, which cites Lucullus for details concerning the Macedonian cities of Thessalonica, Calarna, and Mieza. According to these fragments, Lucullus recorded an etiological myth for Thessalonica’s name, claiming it was founded by Philip II of Macedon, who named the city for a daughter born to him by a Thessalian woman named Nicasipolis. The work appears to have been a compendium of geographical and antiquarian notes, possibly structured as a collection of excerpts. Its transmission is obscure, with no independent manuscript tradition attested in classical scholarship. The attribution to Lucullus is considered anomalous and almost certainly incorrect, as it conflicts with all primary evidence regarding his life and literary output.
 
 ## Text
 

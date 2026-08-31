@@ -5,6 +5,7 @@ author: Cephalion the Historian
 eul_wid: qdq-aa
 eul_aid: qdq
 canonical: "https://eulogikon.org/works/cephalion-historical-fragments-qdq-aa"
+lang: grc
 period: Roman
 dialect: Ionic
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Cephalion the Historian
 
 **eul_wid:** `qdq-aa` · [HTML page](https://eulogikon.org/works/cephalion-historical-fragments-qdq-aa)
-
-The Historical Fragments of Cephalion is a lost universal history composed in prose during the reign of Emperor Hadrian, around 120 CE. As recorded in the Byzantine encyclopedia the Suda, the work was a concise chronography spanning nine books, each named after one of the nine Muses. Written in imitation of Herodotus’s Ionic dialect, it narrated history from the legendary Assyrian rulers Ninus and Semiramis down to the death of Alexander the Great. Only sixteen fragments of the text survive. The work functioned as a universal chronicle, synchronizing the timelines of Near Eastern and Greek kingdoms and incorporating legendary figures into its historical narrative. It is entirely lost as a direct text and survives solely through later quotations, most importantly in the writings of the ninth-century Byzantine chronicler George Syncellus, who relied on it for Assyrian and Median chronology. The Suda remains the primary source for its structure and scope. Cephalion’s work is a significant example of the chronographic tradition of the Second Sophistic period, aiming at a synthesis of cultural histories. It served as a valuable source for later chronographers like Syncellus and represents an important link between earlier Hellenistic universal history and later Byzantine Christian chronicles.
 
 ## Text
 

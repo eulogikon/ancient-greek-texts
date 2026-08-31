@@ -5,6 +5,7 @@ author: Dioscurides of the 3rd c. BCE
 eul_wid: kdm-ab
 eul_aid: kdm
 canonical: "https://eulogikon.org/works/dioscurides-3rd-bce-table-manners-offerings-kdm-ab"
+lang: grc
 period: Hellenistic
 dialect: Mixed Dialects
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Dioscurides of the 3rd c. BCE
 
 **eul_wid:** `kdm-ab` · [HTML page](https://eulogikon.org/works/dioscurides-3rd-bce-table-manners-offerings-kdm-ab)
-
-The Apospasma, attributed to the 3rd-century BCE author Dioscurides, is a lost prose work on table manners and offerings. Its title, meaning "extract," suggests it may have been a fragment or a short, self-contained didactic essay. The work treated themes central to Hellenistic social and ethical thought, including social etiquette and decorum during meals, the correct manner of making religious offerings, and the cultivation of civilized behavior as a component of cultural identity. The text is known only by its title and description in later catalogs; no fragments survive, though its attribution to a Hellenistic-period Dioscurides is preserved in these secondary references. While the work’s direct influence is untraceable, it exemplifies the Hellenistic period's production of specialized literature codifying daily life and social piety, participating in a long tradition of Greco-Roman writing on dining etiquette that informed later social thought.
 
 ## Text
 

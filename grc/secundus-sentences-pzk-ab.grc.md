@@ -5,6 +5,7 @@ author: Secundus the Silent
 eul_wid: pzk-ab
 eul_aid: pzk
 canonical: "https://eulogikon.org/works/secundus-sentences-pzk-ab"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Secundus the Silent
 
 **eul_wid:** `pzk-ab` · [HTML page](https://eulogikon.org/works/secundus-sentences-pzk-ab)
-
-The Sentences of Secundus the Silent is a concise Greek prose work of popular philosophy from the 2nd century CE. Attributed to the philosopher Secundus, its core consists of eleven profound questions and answers on fundamental topics such as the cosmos, divinity, life, and death. The responses are characteristically brief and aphoristic, often reflecting a Stoic or Cynic sensibility toward the human condition. The text is prefaced by a legendary biography explaining Secundus's vow of eternal silence, a narrative that frames the written questions posed to him, reportedly by the Emperor Hadrian. The complete work, including this introductory legend, has survived intact. Modern scholars generally regard the figure of Secundus as a literary construct, but the text itself is a genuine product of the Roman Imperial period's interest in wisdom literature and philosophical sayings. Its enduring appeal is evidenced by its wide transmission; it was translated into Syriac, Armenian, Arabic, and Latin, circulating for over a millennium in both the Byzantine and medieval Christian worlds as a collection of moral and philosophical guidance.
 
 ## Text
 

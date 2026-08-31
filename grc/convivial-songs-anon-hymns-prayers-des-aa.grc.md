@@ -5,6 +5,7 @@ author: Convivial Songs Anonymous
 eul_wid: des-aa
 eul_aid: des
 canonical: "https://eulogikon.org/works/convivial-songs-anon-hymns-prayers-des-aa"
+lang: grc
 period: Classical
 dialect: Mixed Dialects
 domain: Poetry
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Convivial Songs Anonymous
 
 **eul_wid:** `des-aa` · [HTML page](https://eulogikon.org/works/convivial-songs-anon-hymns-prayers-des-aa)
-
-The Hymns and Convivial Prayers, also known by the title Apospasmata meaning "extracts," is a collection of ninety-nine poetic fragments. This anonymous compilation consists of hymns and prayers composed for performance at the Greek symposium, or aristocratic drinking party. The title indicates that these pieces are selections from a larger, now lost, body of sympotic poetry. The passages exemplify standard genres of convivial verse, including invocations to deities such as Dionysus, Aphrodite, and the Muses, celebrations of wine and fellowship, reflections on love and mortality, and moral exhortations for the health and prosperity of the gathered companions.
-
-The fragmentary state of the collection and its anonymous authorship suggest it is a later compilation, likely preserved through indirect transmission in anthologies, grammatical texts, or on papyrus. It does not belong to the canonical works of the major lyric poets. While its direct literary influence is difficult to trace, the collection serves as an important representative artifact of the pervasive sympotic tradition, which fundamentally shaped the development of later Greek and Roman lyric poetry. As a potential anthology, it functioned to transmit the enduring conventions of Greek social and religious verse designed for communal celebration.
 
 ## Text
 
@@ -70,9 +67,13 @@ The fragmentary state of the collection and its anonymous authorship suggest it 
 
 ὦ Πὰν Ἀρκαδίας μεδέων κλεεννᾶς, ὀρχηστὰ βρομίαις ὀπαδὲ Νύμφαις, γελάσειας ὦ Πὰν ἐπ’ ἐμαῖς εὐφροσύναις
 
+*[crux: εὐφροσύναις]*
+
 ### book 4.2
 
 ταῖσδ’ ἀοιδαῖς αοιδε κεχαρημένος.
+
+*[crux: κεχαρημένος]*
 
 ### book 5.1
 
@@ -81,6 +82,8 @@ The fragmentary state of the collection and its anonymous authorship suggest it 
 ### book 5.2
 
 παρὰ Πανδρόσου ὡς φίλην Ἀθηνᾶν.
+
+*[crux: ὡς φίλην Ἀθηνᾶν.]*
 
 ### book 6.1
 
@@ -157,6 +160,8 @@ The fragmentary state of the collection and its anonymous authorship suggest it 
 ### book 11.4
 
 Τυδεΐδην τέ φασι τὸν ἐσθλὸν Διομήδεα.
+
+*[crux: φασι τὸν ἐσθλὸν]*
 
 ### book 12.1
 
@@ -330,6 +335,8 @@ The fragmentary state of the collection and its anonymous authorship suggest it 
 
 πεπτηῶτες ἐμὸν 〈–〉 κυνέοντι δεσπόταν 〈––〉[ln_10]καὶ μέγαν βασιλῆα
 
+*[crux: ἐμὸν]*
+
 ### book 26.7
 
 φωνέοντες.
@@ -362,6 +369,8 @@ The fragmentary state of the collection and its anonymous authorship suggest it 
 
 οὐ χρὴ πόλλ’ ἔχειν θνητὸν ἄνθρωπον ἀλλ’ ἐρᾶν καὶ κατεσθίειν· σὺ δὲ κάρτα
 
+*[crux: ἀλλ’]*
+
 ### book 30.2
 
 φείδηι.
@@ -393,6 +402,8 @@ The fragmentary state of the collection and its anonymous authorship suggest it 
 ### book 34b.3
 
 παρθένων ἀπε[ί]ροσι πλέξομεν ὕμνοις | [τ]ὰν δορὶ σώματι κειραμέναν
+
+*[crux: σώματι]*
 
 ### book 34b.4
 

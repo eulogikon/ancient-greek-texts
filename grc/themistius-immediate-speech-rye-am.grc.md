@@ -5,6 +5,7 @@ author: Themistius the Philosopher
 eul_wid: rye-am
 eul_aid: rye
 canonical: "https://eulogikon.org/works/themistius-immediate-speech-rye-am"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Themistius the Philosopher
 
 **eul_wid:** `rye-am` · [HTML page](https://eulogikon.org/works/themistius-immediate-speech-rye-am)
-
-The oration To the One Who Demanded Immediate Speech, also known as On the Need to Give Thought, Not Time, to One's Words, is a short philosophical discourse by the fourth-century philosopher and statesman Themistius. Composed as a direct response to a critic who faulted him for not speaking extemporaneously, the work defends the practice of careful preparation. Themistius argues that quality speech depends on forethought and philosophical reflection rather than speed of delivery, asserting that truth requires time for proper formulation. He illustrates this principle with an analogy to the sculptor Phidias, noting that even a master artist could not produce a great work like the statue of Athena on the same day it was demanded; such creations require extensive time and labor. Themistius extends this to his own craft, suggesting his critic should instead examine the existing body of his oratorical work, which he carries within himself as a philosopher carries the models of his art.
-
-The discourse emphasizes the primacy of philosophical content and truth over mere rhetorical showmanship, defending prepared, thoughtful discourse against demands for impromptu speaking. It explores the necessary relationship between time, reflection, and intellectual quality, while also implicitly defining the public role of the philosopher-orator as a purveyor of reasoned truth rather than theatrical performance. The oration survives complete within the medieval manuscript tradition of Themistius’s speeches, with the standard modern critical edition appearing in the series Themistii Orationes quae supersunt.
-
-This work is a key example of Themistius's broader efforts to promote Greek philosophical culture, or paideia, within the political context of the late Roman imperial court. His orations were influential in later antiquity and throughout the Byzantine period as models of philosophical rhetoric. Today, they serve as valuable sources for the intellectual and political history of the fourth century, particularly regarding the complex integration of Hellenic philosophical traditions into an evolving Christian imperial framework.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-cd
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-flesh-eating-okg-cd"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-cd` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-flesh-eating-okg-cd)
-
-On Flesh-Eating Discourse B is a philosophical essay by the Greek writer Plutarch, composed around 100 CE during the Roman Empire. Written in Attic Greek, it is the second of his two surviving treatises arguing for vegetarianism and forms part of his larger collection of ethical works, the Moralia. The text presents a sustained, fifteen-part argument that employs reason, emotional appeal, and examples from nature to condemn the consumption of animal flesh. It asserts that killing animals for food is an act of cruelty and injustice, which corrupts human character by fostering brutality and represents a decadent luxury contrary to humanity's natural plant-based diet. Modern scholars interpret these themes as rooted in Middle Platonism and earlier Greek traditions like Pythagoreanism, emphasizing compassion, self-control, and a kinship among all living beings. The discourse is not a rhetorical exercise but a direct ethical case aimed at educated Greco-Roman elites, linking dietary choices to the foundations of moral philosophy. The complete text has been preserved through the manuscript tradition of Plutarch's Moralia, primarily via Byzantine copies, and is available in modern critical editions. It remains one of antiquity's most detailed and influential arguments for vegetarianism.
 
 ## Text
 

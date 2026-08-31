@@ -5,6 +5,7 @@ author: Aeschylus Scholia
 eul_wid: tro-ah
 eul_aid: tro
 canonical: "https://eulogikon.org/works/aeschylus-scholia-text-tro-ah"
+lang: grc
 period: Late Antique
 dialect: Byzantine Greek
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aeschylus Scholia
 
 **eul_wid:** `tro-ah` · [HTML page](https://eulogikon.org/works/aeschylus-scholia-text-tro-ah)
-
-The Scholia on Aeschylus constitute an extensive compilation of ancient and Byzantine marginal and interlinear annotations on the surviving plays of the tragedian. Transmitted through the medieval manuscript tradition, this collection of nearly 1,700 passages represents the accumulated exegetical work of generations of scholars. It preserves a vital record of textual criticism, including discussions of variant readings and editorial conjectures, alongside lexical explanations of rare or archaic vocabulary. The notes also provide mythological exegesis, clarifying obscure references, and offer commentary on dramatic technique and historical context. These scholia are fragmentary survivals of a much larger, now lost, body of ancient commentary, critically edited in modern times. They are preserved primarily in key manuscripts such as the tenth-century Codex Medicus and the eleventh-century Codex Laurentianus 31.8. As a critical resource for the philological study of Aeschylus, the scholia form the foundation for all modern critical editions of his works. They offer indispensable insights into ancient scholarship and the reception of Aeschylus from antiquity through the Byzantine period, while also preserving fragments of lost works, making them a vital source for the history of classical scholarship.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Thucydides Scholia
 eul_wid: tii-aa
 eul_aid: tii
 canonical: "https://eulogikon.org/works/thuc-scholia-euclid-data-catoptrics-tii-aa"
+lang: grc
 period: Late Antique
 dialect: Byzantine Technical
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Thucydides Scholia
 
 **eul_wid:** `tii-aa` · [HTML page](https://eulogikon.org/works/thuc-scholia-euclid-data-catoptrics-tii-aa)
-
-The Scholia on Euclid's Data and Catoptrics is a set of marginal annotations attributed to a scholiast named Thucydides, who is distinct from the famous historian. These notes provide commentary on two of Euclid's mathematical works: the Data, a geometric treatise concerning given conditions, and the Catoptrics, a work on the optics of reflection. The scholia survive only as a few brief passages, likely excerpted from a larger Byzantine manuscript tradition. Their content offers direct textual clarification, explaining the geometric propositions and terminology of the Data and the optical principles within the Catoptrics. The notes were transmitted within the manuscript tradition of Euclid's works, which was actively copied and studied in late antiquity and the Byzantine era. The Catoptrics itself is preserved primarily in a single tenth-century manuscript, Vaticanus Graecus 204, a typical repository for such explanatory glosses. While the specific influence of these scholia is not documented, they exemplify the vital scholarly practice of annotating technical texts. Such marginalia were pedagogically crucial for preserving and interpreting ancient mathematical science, and through the Byzantine and Arabic-Latin manuscript traditions, this exegetical work ultimately contributed to the transmission of Greek mathematics to the medieval and Renaissance worlds.
 
 ## Text
 

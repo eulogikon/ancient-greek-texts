@@ -5,6 +5,7 @@ author: Herodian of Alexandria
 eul_wid: qnq-bg
 eul_aid: qnq
 canonical: "https://eulogikon.org/works/herodian-alexandria-participles-qnq-bg"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Herodian of Alexandria
 
 **eul_wid:** `qnq-bg` · [HTML page](https://eulogikon.org/works/herodian-alexandria-participles-qnq-bg)
-
-On Participles is a grammatical treatise by the second-century CE Alexandrian scholar Herodian. Composed as a formal oration, the work provides a systematic analysis of Greek participles, examining their hybrid verbal and adjectival nature. It methodically addresses the formation of participles from both simple and compound verbs, delineates their various tenses and voices, and clarifies their syntactic functions within sentences. The original, independent text is lost, surviving only in fragments and quotations preserved within later Byzantine grammatical compilations and scholia. Written during the Roman Imperial period, a time of concerted scholarly effort to systematize classical Attic Greek, the treatise was intended for an advanced audience. It forms part of Herodian's comprehensive project to establish authoritative rules for correct usage, thereby making a significant and enduring contribution to the Greek grammatical tradition. Though his original works do not survive intact, the analytical principles from On Participles, frequently cited by later grammarians, became fundamentally embedded in the subsequent study of the Greek language.
 
 ## Text
 

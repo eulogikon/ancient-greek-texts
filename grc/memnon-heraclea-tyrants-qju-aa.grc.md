@@ -5,6 +5,7 @@ author: Memnon of Heraclea
 eul_wid: qju-aa
 eul_aid: qju
 canonical: "https://eulogikon.org/works/memnon-heraclea-tyrants-qju-aa"
+lang: grc
 period: Roman
 dialect: Koine (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Memnon of Heraclea
 
 **eul_wid:** `qju-aa` · [HTML page](https://eulogikon.org/works/memnon-heraclea-tyrants-qju-aa)
-
-The Fragments on Heraclea's Tyrants constitute a collection of excerpts preserved in the Bibliotheca of the 9th-century Byzantine patriarch Photius. These passages are derived from a larger, now lost, historical work by Memnon of Heraclea, which chronicled the history of the Pontic city of Heraclea. The surviving fragments provide a detailed local history of the city's tyrannical dynasty, founded by Clearchus in 364/3 BCE, and trace its rule through his successors. The narrative focuses on the establishment and maintenance of tyrannical power within the Greek polis, detailing internal political conflicts, dynastic succession, and Heraclea's diplomatic and military relations with regional powers including the Persian Empire and Macedonian kings. It also notes the influence of philosophy on politics, recording that Clearchus himself was a student of Plato and Isocrates before his brutal reign. Memnon's original history is entirely lost, and the text survives solely through Photius's excerpts in Codex 224 of the Bibliotheca, transmitted within its manuscript tradition. These fragments remain an unparalleled and crucial source for the history of the Black Sea region and the internal dynamics of a Greek tyranny, providing an essential local perspective that supplements broader historical accounts.
 
 ## Text
 

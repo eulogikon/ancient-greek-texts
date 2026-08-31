@@ -5,6 +5,7 @@ author: Plato of Athens
 eul_wid: ffk-bl
 eul_aid: ffk
 canonical: "https://eulogikon.org/works/plato-minos-ffk-bl"
+lang: grc
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plato of Athens
 
 **eul_wid:** `ffk-bl` · [HTML page](https://eulogikon.org/works/plato-minos-ffk-bl)
-
-The Minos is a short philosophical dialogue composed in Attic Greek and preserved within the Platonic corpus, though its authenticity is widely disputed by modern scholarship. It is generally considered a spurious work, likely composed in the late fourth or early third century BCE by an author associated with Plato’s Academy or influenced by early Peripatetic thought. The text presents a conversation between Socrates and an unnamed companion, framed as an inquiry into the essential nature of law, or nomos. Socrates challenges the simplistic equation of law with established convention, arguing instead that true law constitutes the discovery of political reality. The dialogue subsequently shifts to examine the figure of the legendary Cretan king Minos, whom it recasts not as the tyrannical figure of Athenian myth but as an ideal lawgiver and judge, a pupil of Zeus himself. This rehabilitative portrayal culminates in praise for Minos and his brother Rhadamanthys as divinely inspired exemplars, a move often interpreted as an implicit critique of Athenian legal traditions and democratic lawgivers such as Solon. Scholars typically view the dialogue as a pedagogical exercise, designed to introduce students to foundational questions concerning the relationship between law, truth, and political authority. Its unusual, laudatory treatment of Minos is frequently read as a philosophical critique of Athenian democracy or as an exploration of the model of a ruler guided by philosophical insight rather than popular opinion.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Melissus of Samos
 eul_wid: diy-aa
 eul_aid: diy
 canonical: "https://eulogikon.org/works/melissus-samos-testimonies-diy-aa"
+lang: grc
 period: Classical
 dialect: Ionic (frg)
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Melissus of Samos
 
 **eul_wid:** `diy-aa` · [HTML page](https://eulogikon.org/works/melissus-samos-testimonies-diy-aa)
-
-The Testimonies is a modern scholarly compilation of ancient sources concerning the 5th-century BCE philosopher Melissus of Samos. Melissus was the final major proponent of the Eleatic school, a student of Parmenides, and also served as a naval commander for his native Samos. His own philosophical treatise, On Nature, composed in Ionic Greek prose, is entirely lost. Consequently, contemporary understanding of his thought relies exclusively on these later testimonies—a collection of quotations, summaries, and critiques preserved by other ancient authors. The compilation is organized around twenty-one principal passages that delineate Melissus's rigorous philosophical system. He defended a strict monism, arguing that true reality is a single, eternal, unchanging, and spatially infinite entity. He categorically denied the existence of void, motion, change, and plurality, maintaining that sensory experience providing evidence for such phenomena is fundamentally deceptive. The philosophy survives solely through this fragmented record. The most significant sources are the critical discussions by Aristotle and, later, the extensive quotations preserved by the 6th-century CE Neoplatonist commentator Simplicius. Other vital references are found in the works of doxographers such as Hippolytus and Skeptics like Sextus Empiricus. Scholars interpret these testimonies as the essential material for reconstructing a philosophy that was profoundly influential as a target for criticism, directly challenging later pluralist and atomist thinkers to refine their own theories in response to Eleatic logic.
 
 ## Text
 

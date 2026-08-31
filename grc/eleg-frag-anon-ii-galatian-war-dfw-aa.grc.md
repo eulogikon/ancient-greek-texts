@@ -5,6 +5,7 @@ author: Elegiac Fragments Anonymous II
 eul_wid: dfw-aa
 eul_aid: dfw
 canonical: "https://eulogikon.org/works/eleg-frag-anon-ii-galatian-war-dfw-aa"
+lang: grc
 period: Classical
 dialect: "Ionic (el, frg)"
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Elegiac Fragments Anonymous II
 
 **eul_wid:** `dfw-aa` · [HTML page](https://eulogikon.org/works/eleg-frag-anon-ii-galatian-war-dfw-aa)
-
-The Fragments on the Galatian War are two brief passages of elegiac poetry preserved within a larger corpus of anonymous elegiac works. Written in the traditional elegiac couplet form, which was often employed for themes of war and commemoration, these fragments lack their original narrative context. They are believed to reference a military conflict between Greek or Roman forces and the Celtic Galatians of Anatolia, possibly the Roman campaign of 189 BCE, though the specific historical event is not detailed within the surviving text. The content, as suggested by the title and genre, likely engaged with common themes of historical elegy, such as the conduct of warfare, the commemoration of military deeds, the nature of cultural conflict, and lamentation for the fallen. Transmitted as part of an anonymous poetic collection, likely through later anthological or scholarly quotation, the original complete poem is lost. These fragments hold significance primarily for modern scholarship, contributing to the understanding of Hellenistic or later historical elegy and the poetic reception of military history in the ancient world.
 
 ## Text
 

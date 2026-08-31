@@ -5,6 +5,7 @@ author: Theognetus the Comic Poet
 eul_wid: jjw-aa
 eul_aid: jjw
 canonical: "https://eulogikon.org/works/theognetus-philosophy-folly-jjw-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine (frg)
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Theognetus the Comic Poet
 
 **eul_wid:** `jjw-aa` · [HTML page](https://eulogikon.org/works/theognetus-philosophy-folly-jjw-aa)
-
-Fragments on Philosophy and Folly is a lost comic work by the Athenian poet Theognetus, known only by its title and ten surviving verse passages. Theognetus wrote during the period of Middle Comedy, which shifted from direct political satire toward generalized social criticism and parodies of intellectual types. The title indicates a work that comically contrasted or conflated philosophical pursuit with foolishness, likely through scenes mocking intellectual pretensions. The surviving fragments depict a character whose life has been ruined by books and who is mocked for speaking to the earth and sky about matters of no concern to them, illustrating the play's satire of philosophers and intellectualism. The work employs stock comic characters for its social criticism, thematically exploring the interplay between wisdom and folly. Theognetus survives only in fragments cited by later ancient authors and in scholarly catalogs; the passages from this specific play are collected from these indirect sources, as no continuous text survives. While Theognetus’s direct influence is minimal, his work exemplifies Middle Comedy’s role as a transitional genre. Its satire of philosophers contributed to a lasting literary tradition and helped bridge Old Comedy’s political fantasy with the character-driven plots of New Comedy, which later shaped Roman and European theater.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Demosthenes of Athens
 eul_wid: fsm-at
 eul_aid: fsm
 canonical: "https://eulogikon.org/works/demosthenes-athens-against-aristogeiton-1-fsm-at"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Demosthenes of Athens
 
 **eul_wid:** `fsm-at` · [HTML page](https://eulogikon.org/works/demosthenes-athens-against-aristogeiton-1-fsm-at)
-
-Against Aristogeiton, Part 1 is a forensic oration delivered by the Athenian statesman Demosthenes around 325–324 BCE. The speech was composed for a graphē paranomōn, a public prosecution for proposing an illegal decree, and was directed against the politician Aristogeiton. Demosthenes argues that Aristogeiton’s status as a state debtor legally disqualified him from addressing the Athenian Assembly and that his malevolent character posed a direct threat to the city. The oration adheres to the conventional structure of Attic forensic rhetoric, proceeding from a prologue to a narrative section, a series of proofs, and a final peroration aimed at swaying the jury.
-
-The work survives in its entirety through the medieval manuscript tradition of Demosthenes’ collected speeches. Its authenticity has been contested since antiquity, with some ancient commentators suggesting it was written by Demosthenes for another speaker, Diodorus, though many modern scholars regard it as genuine. The text offers a compelling glimpse into the fierce political conflicts that characterized Athens in the years following its defeat by Macedon, demonstrating how legal procedures were weaponized for political ends. Designed for a large jury of Athenian citizens, the speech consistently appeals to democratic principles and the paramount importance of upholding the rule of law.
 
 ## Text
 

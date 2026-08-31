@@ -5,6 +5,7 @@ author: Julian the Apostate
 eul_wid: sno-ah
 eul_aid: sno
 canonical: "https://eulogikon.org/works/julian-apostate-encom-eusebia-sno-ah"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Julian the Apostate
 
 **eul_wid:** `sno-ah` · [HTML page](https://eulogikon.org/works/julian-apostate-encom-eusebia-sno-ah)
-
-The Encomium to Empress Eusebia is a prose panegyric composed in Attic Greek by Julian, later the Roman emperor known as Julian the Apostate. Written around 355–356 CE, the work is a formal oration of praise dedicated to Eusebia, the wife of Emperor Constantius II. Structured in twenty-four sections, it adheres to the classical rhetorical conventions of the encomium genre, systematically celebrating the empress's noble lineage, physical beauty, intellectual wisdom, and exemplary moral virtues. Beyond its function as a public tribute, the text operates as a deeply personal document of gratitude. Julian explicitly credits Eusebia with using her influence at court to secure crucial favors for him, including his release from a form of domestic confinement, permission to study philosophy in Athens, and his eventual appointment to the rank of Caesar. Modern scholarship interprets the encomium as a sophisticated piece of political rhetoric, crafted to express loyalty to the imperial household while carefully navigating and securing Julian's own precarious position during a volatile period within the Constantinian dynasty. In it, Julian portrays Eusebia as the paradigm of an imperial consort, whose virtuous character and prudent counsel beneficially influenced affairs of state. The complete text survives through the medieval manuscript tradition of Julian’s collected works, notably preserved in codices such as the Parisinus graecus 2964. The work remains a valuable historical source, offering insight into the political agency of imperial women, the mechanics of patronage in late antiquity, and the early literary development of the future philosopher-emperor.
 
 ## Text
 

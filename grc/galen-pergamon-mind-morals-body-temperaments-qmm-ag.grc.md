@@ -5,6 +5,7 @@ author: Galen of Pergamon
 eul_wid: qmm-ag
 eul_aid: qmm
 canonical: "https://eulogikon.org/works/galen-pergamon-mind-morals-body-temperaments-qmm-ag"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Galen of Pergamon
 
 **eul_wid:** `qmm-ag` · [HTML page](https://eulogikon.org/works/galen-pergamon-mind-morals-body-temperaments-qmm-ag)
-
-That the Mind's Morals Follow the Body's Temperaments is a treatise by the Roman-era physician Galen of Pergamon, composed in Greek circa 170 CE. In this work, Galen systematically argues for a physiological foundation of personality and intellect, positing that an individual's ethical character and mental faculties are directly governed by the physical temperament, or mixture, of their body. This mixture is defined by the balance of the four primary qualities—hot, cold, wet, and dry—which are central to classical humoral theory. Galen structures his argument across 55 passages, marshaling evidence from medical observation, logical deduction, and the authority of figures such as Hippocrates and Plato. He adapts Plato's model of a tripartite soul, assigning the rational faculty to the brain, the spirited to the heart, and the appetitive to the liver, and supports his thesis with clinical case studies, comparisons with animal behavior, and observations on the psychological effects of pharmaceuticals, diet, and illness.
-
-The treatise represents Galen's principal contribution to contemporary philosophical debates concerning the relationship between mind and body, asserting the primacy of medical science over abstract philosophy in explaining human nature. It was likely intended for an audience of both physicians and philosophers in Rome. While Galen maintains that character is fundamentally shaped by physical constitution, he also allows for the potential of moral improvement through deliberate regimens designed to alter bodily condition. The complete Greek text of the work survives, preserved through Byzantine scholarship. It exerted considerable influence on subsequent thought in the Islamic world and medieval Europe, establishing itself as a cornerstone in the historical development of physiological psychology.
 
 ## Text
 

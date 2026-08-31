@@ -5,6 +5,7 @@ author: Telecleides Comicus
 eul_wid: edi-aa
 eul_aid: edi
 canonical: "https://eulogikon.org/works/telecleides-golden-age-of-plenty-edi-aa"
+lang: grc
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Telecleides Comicus
 
 **eul_wid:** `edi-aa` · [HTML page](https://eulogikon.org/works/telecleides-golden-age-of-plenty-edi-aa)
-
-"The Golden Age of Plenty" is the conventional modern title for the lost Old Comedy Apospasmata by the 5th-century BCE Athenian playwright Telecleides. The work survives only in 85 fragments, primarily brief quotations preserved by later authors such as Athenaeus. The title derives from the most substantial surviving passage, a 15-line fragment describing a mythical era of automatic abundance. The original plot and structure of the play are unrecoverable from these remnants. The extant fragments indicate several thematic concerns, including a satirical depiction of a primordial Golden Age of effortless plenty, social and political critique consistent with the conventions of Old Comedy, references to gastronomy and sensual pleasure, and a utopian framework used to highlight flaws in contemporary Athenian society.
-
-The play is preserved exclusively through fragments quoted by later grammarians and anthologists. The principal source is Athenaeus of Naucratis in his Deipnosophistae; other sources include Pollux and various scholiasts. The standard modern collection is in Poetae Comici Graeci. The golden age fragment is a key text for understanding comic fantasy and the literary use of myth in Old Comedy. It exemplifies the genre’s technique of subverting traditional motifs for satire. While Telecleides was a recognized figure in antiquity, the loss of his complete works limits his influence to scholarly study of these fragments.
 
 ## Text
 

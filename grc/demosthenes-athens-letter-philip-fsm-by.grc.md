@@ -5,6 +5,7 @@ author: Demosthenes of Athens
 eul_wid: fsm-by
 eul_aid: fsm
 canonical: "https://eulogikon.org/works/demosthenes-athens-letter-philip-fsm-by"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Demosthenes of Athens
 
 **eul_wid:** `fsm-by` · [HTML page](https://eulogikon.org/works/demosthenes-athens-letter-philip-fsm-by)
-
-The Letter of Philip is a work of Attic oratory preserved as the twelfth speech in the corpus of Demosthenes. Composed around 340 BCE, it is cast as an epistle from King Philip II of Macedon to the council and people of Athens. The text presents itself as a diplomatic communication in which Philip justifies his own policies, such as actions affecting Athenian grain supplies, while leveling accusations of treaty violations and hypocrisy against the Athenian state. Its structure is rigorously rhetorical, offering a point-by-point refutation of Athenian grievances. Although transmitted through the medieval manuscript tradition of Demosthenes' works, its authenticity is rejected by modern scholarship. It is neither a genuine letter from the Macedonian king nor considered a work by Demosthenes. The letter is now generally understood as a later rhetorical exercise, or meletē, exemplifying the practice of prosōpopoeia—the composition of a speech in character. It likely served as an advanced pedagogical tool for training students in arguing from an adversary's viewpoint. As such, it remains a significant artifact of the intense propaganda warfare that characterized the fraught relations between Athens and Macedon in the decade preceding the Battle of Chaeronea.
 
 ## Text
 

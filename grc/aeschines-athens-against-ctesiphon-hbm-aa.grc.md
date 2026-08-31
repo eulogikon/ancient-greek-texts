@@ -5,6 +5,7 @@ author: Aeschines of Athens
 eul_wid: hbm-aa
 eul_aid: hbm
 canonical: "https://eulogikon.org/works/aeschines-athens-against-ctesiphon-hbm-aa"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aeschines of Athens
 
 **eul_wid:** `hbm-aa` · [HTML page](https://eulogikon.org/works/aeschines-athens-against-ctesiphon-hbm-aa)
-
-Against Ctesiphon is a forensic oration delivered by the Athenian statesman Aeschines in 330 BCE. The speech constitutes a legal prosecution against a citizen named Ctesiphon, who had proposed awarding a golden crown to Aeschines’ great political rival, Demosthenes. While formally a technical legal challenge arguing that the decree violated specific laws concerning public honors, the oration functions primarily as a comprehensive political attack. It uses the trial as a platform to deliver a hostile review of Demosthenes’ entire career, blaming him for the catastrophic Athenian defeat at the Battle of Chaeronea in 338 BCE and portraying him as a corrupt and failed leader. The complete speech, preserved through the medieval manuscript tradition of the Attic Orators, weaves detailed legal argumentation with intense personal invective across 205 sections. Modern scholarship regards the case as the final major political reckoning between the pro- and anti-Macedonian factions in Athens following the city’s defeat at Chaeronea. Although Aeschines lost the case decisively, a result that led to his exile, his oration remains a crucial historical source. It provides invaluable insight into Athenian law, political rhetoric, and the bitter internal conflicts of the era, particularly when studied alongside Demosthenes’ famous rebuttal, On the Crown.
 
 ## Text
 

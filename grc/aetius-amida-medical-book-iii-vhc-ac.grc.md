@@ -5,6 +5,7 @@ author: Aëtius of Amida
 eul_wid: vhc-ac
 eul_aid: vhc
 canonical: "https://eulogikon.org/works/aetius-amida-medical-book-iii-vhc-ac"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aëtius of Amida
 
 **eul_wid:** `vhc-ac` · [HTML page](https://eulogikon.org/works/aetius-amida-medical-book-iii-vhc-ac)
-
-Medical Book III constitutes the third volume of the Tetrabiblos, a comprehensive sixteen-book medical encyclopedia compiled by the Byzantine physician Aëtius of Amida in the sixth century. Written in Greek as a practical reference for practitioners, the work systematically synthesizes knowledge from earlier Greek and Roman medical authorities. This particular book is dedicated to therapeutic methods and surgical procedures, organized as a series of concise chapters. Its contents cover a wide range of preparatory and interventional techniques, beginning with preparatory rubbing, various forms of exercise, and swinging. It proceeds to detailed instructions on phlebotomy, including the appropriate veins to cut, the method and timing of the procedure, and the management of bloodletting. Further chapters address arteriotomy, the application of cupping vessels, scarification, and the use of leeches. The latter portion of the book is largely devoted to an extensive catalogue of purgative drugs, listing numerous substances such as aloe, scammony, black hellebore, and elaterium, along with their specific applications for evacuating yellow or black bile or phlegm. Aëtius, who likely served as a court physician during the reign of Emperor Justinian I, created this compendium primarily from the works of earlier figures like Galen, Oribasius, and Dioscorides, with the aim of preserving and organizing classical medical tradition. The complete Tetrabiblos survives intact through numerous manuscripts and was highly influential in subsequent medical practice. Its transmission through translations into Arabic and Latin ensured its status as a standard textbook, carrying its compiled knowledge into medieval Islamic and European medicine for centuries.
 
 ## Text
 

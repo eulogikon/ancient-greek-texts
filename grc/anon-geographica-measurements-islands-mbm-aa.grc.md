@@ -5,6 +5,7 @@ author: Geographical Works Anonymous
 eul_wid: mbm-aa
 eul_aid: mbm
 canonical: "https://eulogikon.org/works/anon-geographica-measurements-islands-mbm-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: Geography
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Geographical Works Anonymous
 
 **eul_wid:** `mbm-aa` · [HTML page](https://eulogikon.org/works/anon-geographica-measurements-islands-mbm-aa)
-
-The Geographical Measurements of Islands is an anonymous, fragmentary Greek geographical text preserved only as four brief passages within the Ethnica, the 6th-century CE geographical lexicon of Stephanus of Byzantium. The work provides the lengths and breadths of various islands in a technical, non-narrative style, exemplified by its surviving data on the dimensions of Corcyra, recorded as 600 stades in length and 30 stades in breadth at its narrowest point. The text functions as a concise catalog of such metrological information. Lost as an independent treatise, its content is known exclusively from these verbatim quotations in Stephanus's compilation. Its significance lies in exemplifying a granular, data-driven genre of ancient technical geography, while its fragmentary survival solely within a later scholarly work illustrates the transmission and utility of such specialized literature for later compendia.
 
 ## Text
 

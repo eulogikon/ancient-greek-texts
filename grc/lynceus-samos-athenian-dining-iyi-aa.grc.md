@@ -5,6 +5,7 @@ author: Lynceus of Samos the Comic Poet
 eul_wid: iyi-aa
 eul_aid: iyi
 canonical: "https://eulogikon.org/works/lynceus-samos-athenian-dining-iyi-aa"
+lang: grc
 period: Hellenistic
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lynceus of Samos the Comic Poet
 
 **eul_wid:** `iyi-aa` · [HTML page](https://eulogikon.org/works/lynceus-samos-athenian-dining-iyi-aa)
-
-Fragments on Athenian Dining comprises a series of eighteen poetic excerpts attributed to the early Hellenistic comic poet Lynceus of Samos, composed around 300 BCE. Written in verse using the Attic Greek dialect, the work offers a satirical examination of Athenian culinary practices, wine consumption, and the social rituals of the symposium. The surviving passages, which humorously critique both the meagerness and the pretentious presentation of Athenian meals, provide a valuable comic lens on contemporary social behaviors and notions of luxury. The text does not survive as an independent work but is preserved entirely through quotations by later authors, most extensively within Athenaeus of Naucratis’s Deipnosophistae (The Learned Banqueters), a compendium from the 2nd–3rd century CE. Consequently, the modern title is a descriptive label for these collected fragments. Lynceus, brother of the historian Duris and a pupil of the philosopher Theophrastus, wrote from an intellectual tradition deeply interested in the details of everyday life and character. Scholars interpret the fragments as a sophisticated blend of social critique and gastronomic commentary, likely intended for an educated Hellenistic audience reflecting on Athenian cultural identity. Through their preservation in Athenaeus’s anthology, these fragments became an important source for later classical scholarship on ancient dining customs and social history.
 
 ## Text
 

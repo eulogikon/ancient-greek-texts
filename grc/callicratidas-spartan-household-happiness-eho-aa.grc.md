@@ -5,6 +5,7 @@ author: Callicratidas the Spartan Navarch
 eul_wid: eho-aa
 eul_aid: eho
 canonical: "https://eulogikon.org/works/callicratidas-spartan-household-happiness-eho-aa"
+lang: grc
 period: Classical
 dialect: Doric
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Callicratidas the Spartan Navarch
 
 **eul_wid:** `eho-aa` · [HTML page](https://eulogikon.org/works/callicratidas-spartan-household-happiness-eho-aa)
-
-On Household Happiness is a short philosophical treatise attributed to Callicratidas, a Spartan naval commander. The work, structured as a collection of five passages, focuses on the themes of household management and the achievement of happiness within the domestic sphere. Its content, as preserved in a fragment, presents an allegorical model of the soul and the household. It describes the human soul as divided into three parts: reason, spirit, and desire. Reason is compared to the master of the house, being the eldest by nature and the most capable of judgment. Desire, characterized as a soft and fluid passion, is likened to the woman of the household. Spirit, full of impulse and heat, often following reason, is equated with a young man. The fragment further elaborates on this structure using numerical and geometric analogies, associating unity with the active, defining principle and duality with the passive, defined matter. The treatise is not attested among surviving ancient manuscripts or standard scholarly records, and its attribution to the historical Spartan navarch Callicratidas, known for his military role in the Peloponnesian War, is anomalous. This attribution presents a bibliographical curiosity, as Spartans were not typically associated with the production of such philosophical literature on domestic economy. Its purported existence raises questions about the transmission and misattribution of texts, as well as the circulation of advisory literature on household management beyond Athenian intellectual circles.
 
 ## Text
 

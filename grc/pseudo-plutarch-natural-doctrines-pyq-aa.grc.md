@@ -1,10 +1,11 @@
 ---
 title: On Natural Doctrines Pleasing Philosophers
 title_greek: Περὶ τῶν ἀρεσκόντων τοῖς φιλοσόφοις φυσικῶν
-author: "Pseudo-Plutarch "
+author: Pseudo-Plutarch
 eul_wid: pyq-aa
 eul_aid: pyq
 canonical: "https://eulogikon.org/works/pseudo-plutarch-natural-doctrines-pyq-aa"
+lang: grc
 period: Roman
 dialect: Philosophical Koine
 domain: Philosophy
@@ -16,13 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Περὶ τῶν ἀρεσκόντων τοῖς φιλοσόφοις φυσικῶν*
 
-**Author:** Pseudo-Plutarch 
+**Author:** Pseudo-Plutarch
 
 **eul_wid:** `pyq-aa` · [HTML page](https://eulogikon.org/works/pseudo-plutarch-natural-doctrines-pyq-aa)
-
-_On Natural Doctrines Pleasing Philosophers_, traditionally known by its Latin title _Placita Philosophorum_, is a comprehensive doxographical compilation of Greek philosophical opinions on natural philosophy and cosmology. Though preserved among the works of Plutarch, its authorship is spurious, and it is conventionally attributed to an anonymous writer now called Pseudo-Plutarch. The work is organized into five books containing 219 individual entries, each presenting a concise, schematic summary of various schools' views on fundamental questions of physics. The first book, as indicated by its chapter headings, establishes the scope of natural philosophy before methodically addressing core topics such as the definition of nature, the distinction between principles and elements, the constitution of the cosmos, the unity of the universe, and the origin and nature of the divine. It proceeds to examine matter, form, causes, bodies, minimal parts, shapes, colors, the division and mixture of bodies, and concludes with foundational concepts of void, place, space, time, motion, generation, destruction, necessity, fate, and chance.
-
-The complete work systematically surveys the major themes of ancient physics across its five volumes. Following the foundational principles and cosmogony outlined in the first book, subsequent books catalog philosophical doctrines concerning celestial phenomena, including the nature and motion of stars and planets and the structure of the universe. Further sections are devoted to meteorology and earth science, offering explanations for weather, earthquakes, and terrestrial features. The compilation also covers psychology, detailing opinions on the nature, substance, and faculties of the soul, and concludes with physiology, encompassing human biology, embryology, sleep, and sensation. The text survives intact within the medieval manuscript tradition of Plutarch's collected works. It stands as one of the three principal witnesses, alongside the anthologies of Stobaeus and Theodoret of Cyrus's _Graecarum Affectionum Curatio_, for the reconstruction of the lost doxographical handbook of Aëtius. As a primary example of ancient doxography, the work served as a key reference source for later Christian and compendium writers. Its greatest modern significance lies in providing, together with the excerpts in Stobaeus, the foundational material for Hermann Diels's seminal reconstruction of Aëtius's _Placita_, rendering it an indispensable resource for historians of ancient philosophy and science.
 
 ## Text
 

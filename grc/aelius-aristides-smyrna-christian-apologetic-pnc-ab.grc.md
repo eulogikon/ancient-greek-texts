@@ -5,6 +5,7 @@ author: Aelius Aristides of Smyrna
 eul_wid: pnc-ab
 eul_aid: pnc
 canonical: "https://eulogikon.org/works/aelius-aristides-smyrna-christian-apologetic-pnc-ab"
+lang: grc
 period: Roman
 dialect: Attic
 domain: Theology
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aelius Aristides of Smyrna
 
 **eul_wid:** `pnc-ab` · [HTML page](https://eulogikon.org/works/aelius-aristides-smyrna-christian-apologetic-pnc-ab)
-
-The Christian Apologetic Fragments are three surviving passages in Greek from a longer work known as the Apology of Aristides, a theological treatise composed in Koine Greek around the middle of the 2nd century CE. Attributed to the orator Aelius Aristides of Smyrna, the fragments constitute a defense of the Christian faith, likely addressed to the Roman emperor as a petition for fair treatment and an explanation of Christian doctrine against prevailing prejudices. The work systematically argues for Christianity as the true form of monotheism, positing one supreme creator God while critiquing other religious systems in a tripartite structure: it condemns the idolatry of so-called barbarian cultures, finds the worship of the Greeks philosophically flawed, and acknowledges the monotheism of the Jews while deeming it incomplete. The extant fragments notably emphasize Christian ethics, portraying a community characterized by love, sexual purity, care for widows and orphans, hospitality to strangers, and the sharing of material goods without envy. The complete Greek text of the apology is lost; it survives primarily in a full 7th-century Syriac translation. The Greek fragments themselves were preserved only because they were later incorporated as quotations into an unrelated Christian narrative, The Life of Barlaam and Josaphat. While the Syriac manuscript attributes the work to "Aristides the philosopher," scholarly consensus considers the identification with the sophist Aelius Aristides to be probable, though not absolutely certain.
 
 ## Text
 

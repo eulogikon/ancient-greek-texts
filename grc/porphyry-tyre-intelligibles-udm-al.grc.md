@@ -5,6 +5,7 @@ author: Porphyry of Tyre
 eul_wid: udm-al
 eul_aid: udm
 canonical: "https://eulogikon.org/works/porphyry-tyre-intelligibles-udm-al"
+lang: grc
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Porphyry of Tyre
 
 **eul_wid:** `udm-al` · [HTML page](https://eulogikon.org/works/porphyry-tyre-intelligibles-udm-al)
-
-The Sentences Leading to Intelligibles is a philosophical treatise by the Neoplatonist thinker Porphyry of Tyre, written in Greek during the late third century CE. It functions as a systematic compendium, condensing the intricate metaphysical doctrines of his teacher Plotinus into a series of concise, axiomatic propositions. The work's structure, comprising between 38 and 44 terse statements, is designed to lead the reader through a logical progression from the contemplation of the physical, corporeal world to an understanding of higher, incorporeal realities. Its ultimate aim is to outline the soul's philosophical ascent toward union with the supreme, transcendent principle, the One.
-
-The treatise methodically addresses core Neoplatonic themes, beginning with the fundamental distinction between corporeal bodies, which exist in place, and incorporeal substances, which are not spatially located. It elaborates on the hierarchical emanation of reality from the One, through Intellect and Soul, down to the material cosmos. Key doctrines explored include the nature of the soul as a median entity between indivisible intellect and divisible bodily existence, the soul's descent into the body, and the means of its purification and re-ascent through virtue and intellectual contemplation. Surviving in full through Byzantine manuscripts and a later medieval Latin translation, the Sentences served as a crucial pedagogical summary of Plotinian thought. Its clarity and systematic format ensured its enduring influence, facilitating the transmission of Neoplatonic concepts into later Western Christian and scholastic philosophy.
 
 ## Text
 

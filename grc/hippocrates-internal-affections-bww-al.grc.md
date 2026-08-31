@@ -5,6 +5,7 @@ author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-al
 eul_aid: bww
 canonical: "https://eulogikon.org/works/hippocrates-internal-affections-bww-al"
+lang: grc
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hippocrates and the Hippocratic Corpus
 
 **eul_wid:** `bww-al` · [HTML page](https://eulogikon.org/works/hippocrates-internal-affections-bww-al)
-
-On Internal Affections is a systematic medical treatise from the Hippocratic Corpus, a body of ancient Greek medical works attributed to Hippocrates but composed by various authors. Written in Ionic Greek, likely in the late fifth or early fourth century BCE, it functions as a practical manual for the physician. The text methodically catalogs diseases believed to originate within the body, proceeding in a head-to-toe order before concluding with illnesses affecting the entire system. For each affliction, it details symptoms, offers a prognosis, and prescribes therapeutic regimens.
-
-The treatise is characterized by an aggressive therapeutic philosophy, heavily reliant on strong purgatives, emetics, and rigorous dietary restrictions aimed at expelling pathogenic substances from the body. Scholars regard it as a principal exemplar of the so-called Cnidian school of medicine, which emphasized the detailed classification and treatment of specific diseases over broader theoretical frameworks. While not explicitly articulating the theory of the four humors, its underlying pathology rests on the concept of harmful fluids accumulating internally. The complete text, comprising 59 sections, has been preserved through medieval manuscripts and served as an influential textbook, later cited and critically examined by physicians such as Galen.
 
 ## Text
 

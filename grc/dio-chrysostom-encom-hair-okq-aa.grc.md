@@ -5,6 +5,7 @@ author: Dio Chrysostom of Prusa
 eul_wid: okq-aa
 eul_aid: okq
 canonical: "https://eulogikon.org/works/dio-chrysostom-encom-hair-okq-aa"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Dio Chrysostom of Prusa
 
 **eul_wid:** `okq-aa` · [HTML page](https://eulogikon.org/works/dio-chrysostom-encom-hair-okq-aa)
-
-The Encomium on Hair is a short, playful oration by the Greek philosopher and orator Dio Chrysostom, composed in the early second century CE. It stands as a characteristic example of epideictic oratory from the period of the Second Sophistic, a cultural movement that prized rhetorical virtuosity and intellectual display. The speech is a formal rhetorical exercise that applies the serious structure of a classical encomium—systematically discussing the origins, qualities, and benefits of its subject—to the deliberately mundane topic of hair. With mock gravity, Dio builds his case by invoking mythological and historical exemplars, such as the hero Achilles and the long-haired kings of Persia, to illustrate hair's associations with beauty, strength, and nobility.
-
-Surviving within Dio's larger corpus of orations, the work functions primarily as a sophistic display piece, designed to entertain and impress an educated audience with its wit and technical skill. It parodies the conventions of formal praise literature by elevating a trivial subject to the level of philosophical discourse. Composed during or after Dio's period of exile, the oration reflects the lighter, more playful side of his literary output and serves as a notable precursor to the later tradition of paradoxical encomia, which would praise similarly unlikely or insignificant subjects.
 
 ## Text
 

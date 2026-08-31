@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-bs
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-common-notions-okg-bs"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-bs` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-common-notions-okg-bs)
-
-_On Common Notions to the Stoics_ is a complete polemical treatise by Plutarch of Chaeronea, written as an address to a Stoic friend. It systematically argues that core doctrines of later Stoicism, particularly under Chrysippus, fundamentally contradict the "common notions"—the self-evident principles of reason which the Stoics themselves accepted as a foundational criterion of truth. The work opens with Plutarch expressing personal distress at the bitter polemic between his Stoic friends and the Academic tradition, framing his critique as a necessary defense of fundamental philosophical intuitions. The treatise then proceeds to demonstrate that Stoic positions in physics, theology, and ethics are at odds with these universally shared conceptions. In theology and physics, Plutarch attacks the Stoic identification of God with an immanent, material pneuma and the doctrine of periodic cosmic conflagration, arguing they are incompatible with the common notion of a transcendent and permanent divinity. In ethics, he contends that the Stoic conception of the supreme good and their classification of everything except virtue and vice as morally "indifferent" violate innate human understandings of value and well-being. Regarding the soul, he opposes the Stoic corporealist and perishable model with Platonic and common intuitions concerning immortality. The text survives intact within the medieval manuscript tradition of Plutarch's Moralia, transmitted alongside his other philosophical essays. As a comprehensive and methodologically significant Platonic critique, the work was influential for later philosophers such as Plotinus and remains a crucial primary source for reconstructing Stoic theories and the dynamics of inter-school debate in the early Imperial period.
 
 ## Text
 

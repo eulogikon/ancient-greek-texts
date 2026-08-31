@@ -5,6 +5,7 @@ author: Lucian of Samosata
 eul_wid: pfk-af
 eul_aid: pfk
 canonical: "https://eulogikon.org/works/lucian-samosata-philopseudes-pfk-af"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lucian of Samosata
 
 **eul_wid:** `pfk-af` · [HTML page](https://eulogikon.org/works/lucian-samosata-philopseudes-pfk-af)
-
-Philopseudes, also known as The Lover of Lies or The Incredulous Man, is a satirical prose dialogue by the Syrian-born author Lucian of Samosata, composed in Greek around the middle of the second century CE. The work is structured as a story within a story, narrated by a character named Tychiades, who recounts his visit to the home of a wealthy, ailing Athenian named Eucrates. There, a gathering of philosophers and a physician attempts to overcome Tychiades's pronounced skepticism by regaling him with a series of increasingly outlandish tales concerning ghosts, demons, haunted houses, and miraculous cures. The dialogue presents a sequence of forty-one such anecdotes, culminating in the famous story of a statue of a Corinthian general that purportedly comes to life at night. The complete text has been preserved through medieval manuscripts. Modern scholarship interprets the work as a product of the Second Sophistic, a period marked by a revived interest in classical Greek culture and rhetoric. Lucian employs sophisticated Attic prose to lampoon the credulity of contemporary educated elites, depicting philosophers and doctors who eagerly abandon reason for superstition. The Athenian setting, a traditional center of philosophical schools, serves to sharpen this satire. The dialogue is believed to have been composed for a literate, Greek-speaking audience capable of appreciating its parody of serious philosophical discourse and popular collections of marvels.
 
 ## Text
 

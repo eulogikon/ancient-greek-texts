@@ -1,10 +1,11 @@
 ---
 title: Fragments on the True Cross
 title_greek: Ἀποσπάσματα περὶ τοῦ Ἀληθινοῦ Σταυροῦ
-author: "Menander Protector "
+author: Menander Protector
 eul_wid: viq-ad
 eul_aid: viq
 canonical: "https://eulogikon.org/works/menander-protector-true-cross-viq-ad"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: History
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀποσπάσματα περὶ τοῦ Ἀληθινοῦ Σταυροῦ*
 
-**Author:** Menander Protector 
+**Author:** Menander Protector
 
 **eul_wid:** `viq-ad` · [HTML page](https://eulogikon.org/works/menander-protector-true-cross-viq-ad)
-
-The Fragments on the True Cross is a modern descriptive title for passages concerning the Christian relic found within the fragmentary History of Menander Protector, a late 6th-century Byzantine historian. His work continues the history of Agathias, covering the period from 558 to 582 CE. The references to the True Cross appear as incidental but significant details within his broader narrative of diplomacy and war. One such fragment records a Persian ambassador's mention of the relic's earlier capture by Persian forces, illustrating how this sacred object factored into high-level discourse between the Byzantine and Sassanian Persian empires. For Menander, the Cross was not merely a religious artifact but a potent symbol of Christian Roman identity, where its possession or violation carried considerable political weight. Menander's History survives only in fragments, primarily preserved within the 10th-century Byzantine compilation known as the Excerpta de Legationibus, which is the source for the passage mentioning the Cross. As a crucial source for late 6th-century diplomatic and military history, these fragments contribute valuable evidence to the historical record of the relic's movements and its symbolic role in the protracted conflicts between Rome and Persia.
 
 ## Text
 

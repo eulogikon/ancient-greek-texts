@@ -5,6 +5,7 @@ author: Lyco of Tarentum
 eul_wid: ceo-aa
 eul_aid: ceo
 canonical: "https://eulogikon.org/works/lyco-tarentum-testimonies-ceo-aa"
+lang: grc
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lyco of Tarentum
 
 **eul_wid:** `ceo-aa` · [HTML page](https://eulogikon.org/works/lyco-tarentum-testimonies-ceo-aa)
-
-The Testimonies is a lost collection of philosophical sayings and opinions attributed to Lyco of Tarentum, the scholar who led the Peripatetic school in Athens for over four decades during the 3rd century BCE. The work survives only as a handful of fragmentary quotations preserved by later authors such as Diogenes Laertius, Athenaeus, and others. These scattered passages offer glimpses into Lyco's ethical teachings, his noted preference for an elegant and refined lifestyle, and his strong emphasis on rhetorical education. Under his leadership, the Peripatetic school is seen to have shifted its focus somewhat away from the intensive study of natural science that characterized his predecessors, moving instead toward practical philosophy and the cultivation of eloquent expression. Modern scholarship has reconstructed these fragments as a doxographic collection, originally compiled from earlier records to document the character and doctrines of a significant scholarch. Despite its fragmentary state, the Testimonies remains a vital source for understanding the development and priorities of the Hellenistic Peripatos.
 
 ## Text
 

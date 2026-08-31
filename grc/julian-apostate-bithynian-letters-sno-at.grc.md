@@ -5,6 +5,7 @@ author: Julian the Apostate
 eul_wid: sno-at
 eul_aid: sno
 canonical: "https://eulogikon.org/works/julian-apostate-bithynian-letters-sno-at"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Julian the Apostate
 
 **eul_wid:** `sno-at` · [HTML page](https://eulogikon.org/works/julian-apostate-bithynian-letters-sno-at)
-
-The Letters on a Bithynian Estate is a collection of administrative correspondence written in Greek by the Roman emperor Julian. Composed around 362–363 CE, the work comprises 88 short letters addressed to his friend, the sophist Thalassius, concerning the practical management of an imperial agricultural estate in the province of Bithynia. While the letters provide detailed instructions on crops, tenant farmers, and rents, their primary significance lies in Julian’s consistent framing of estate management as an exercise in philosophy and ethical governance. He infuses his practical directives with Cynic and Stoic ideals, emphasizing fairness toward tenants, the virtue of self-sufficiency, and the ruler’s personal responsibility. This transforms a mundane administrative task into a metaphor for just rule, reflecting Julian’s broader project of revitalizing traditional Greco-Roman religious and philosophical values within the empire. The complete work survives as part of Julian’s larger epistolary corpus. Scholars regard it as a unique document illustrating the emperor’s hands-on approach to governance and his attempt to embody the ideal of the philosopher-king, offering valuable historical insight into late Roman estate economy and the personal character of Julian’s reformist reign.
 
 ## Text
 

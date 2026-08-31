@@ -5,6 +5,7 @@ author: Archilochus of Paros
 eul_wid: afu-aa
 eul_aid: afu
 canonical: "https://eulogikon.org/works/archilochus-paros-lyric-fragments-afu-aa"
+lang: grc
 period: Archaic
 dialect: "Ionic (ia, frg)"
 domain: Poetry
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Archilochus of Paros
 
 **eul_wid:** `afu-aa` · [HTML page](https://eulogikon.org/works/archilochus-paros-lyric-fragments-afu-aa)
-
-The Lyric Fragments constitute the extant poetic corpus of Archilochus of Paros, a seminal figure in Greek literature of the seventh century BCE. Composed in Ionic Greek, his work spans several genres, encompassing personal lyric, aggressive iambic verse, and elegy. These fragments are not a unified composition but a modern assemblage of over three hundred excerpts, preserved through citations by later ancient authors and the recovery of papyrus scraps, primarily from Egypt. They offer only partial glimpses of his original output, yet they vividly capture his distinctive poetic voice.
-
-Archilochus deliberately departed from the heroic conventions of epic poetry. His verses, likely intended for performance at symposia, present a cynical and pragmatic worldview, often from the perspective of a soldier. His themes include war, survival, love, and social conflict, treated with a striking candor exemplified in his famous admission of discarding his shield in battle to preserve his own life. This act is widely interpreted by modern scholars as a conscious rejection of aristocratic martial values in favor of personal resilience and adaptability. His sharp, intensely personal style established the iambic tradition of invective and satire, profoundly influencing subsequent Greek and Roman poets.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Hymnic Collection  Anonymous
 eul_wid: upu-ar
 eul_aid: upu
 canonical: "https://eulogikon.org/works/hymnic-anon-demeter-upu-ar"
+lang: grc
 period: Classical
 dialect: Epic (Homeric)
 domain: Poetry
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hymnic Collection  Anonymous
 
 **eul_wid:** `upu-ar` · [HTML page](https://eulogikon.org/works/hymnic-anon-demeter-upu-ar)
-
-The Homeric Hymn to Demeter is an anonymous Greek narrative poem dating from the 7th or 6th century BCE. Composed in the epic dialect and dactylic hexameter, this substantial work of 495 lines recounts the foundational myth of the Eleusinian Mysteries. It narrates the abduction of Persephone by Hades, the profound grief and wrath of her mother Demeter, and the resulting famine on earth. The story details Demeter’s desperate search, her disguised sojourn in the royal house of Eleusis, and the eventual compromise brokered by Zeus. This decree forces Persephone to spend part of each year in the underworld, a myth that traditionally explains the origin of the seasonal cycle. The poem concludes with Demeter establishing her sacred rites at Eleusis.
-
-Preserved complete in medieval manuscripts among the collection known as the Homeric Hymns, the poem’s primary function was likely ritual performance, serving both to honor the goddess and to provide the authoritative origin story for the Eleusinian Mysteries. This major religious cult promised its initiates a blessed afterlife. Scholars interpret the hymn as a sophisticated theological narrative that negotiates cosmic order and elevates the status of the sanctuary at Eleusis, which by the late Archaic period had come under significant Athenian influence. It remains the most important and complete literary source for this central Greek myth.
 
 ## Text
 

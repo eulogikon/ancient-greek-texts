@@ -5,6 +5,7 @@ author: Lycus of Rhegium
 eul_wid: kgo-aa
 eul_aid: kgo
 canonical: "https://eulogikon.org/works/lycus-rhegium-alexandrian-prosody-kgo-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lycus of Rhegium
 
 **eul_wid:** `kgo-aa` · [HTML page](https://eulogikon.org/works/lycus-rhegium-alexandrian-prosody-kgo-aa)
-
-Fragments on Alexandrian Prosody is a lost philological treatise by the historian and mythographer Lycus of Rhegium, who likely lived in the fourth or third century BCE. The work is known only from its title and two brief fragments preserved in later sources, indicating it engaged with the technical prosodic standards developed by Hellenistic scholars in Alexandria. The treatise survives through two later citations: one in Herodian's work On Peculiar Diction, which quotes Lycus for a prosodic observation on the poet Alcman, and another in the Etymologicum Magnum, which records an etymological or phonetic comment by Lycus on the word "brenthos," a type of bird, noting that the Alexandrian scholar Didymus also discussed the term. The work participated in the grammatical and metrical debates central to Alexandrian textual criticism, analyzing accent, pronunciation, and metrical patterns in Greek poetry. The fragment concerning Alcman demonstrates its application to earlier poetic texts. Cited in the Byzantine lexicon Suda and collected in Die Fragmente der griechischen Historiker, the work has no independent manuscript tradition. That authoritative grammarians like Herodian referenced it indicates Lycus's opinions were considered noteworthy in later antiquity. The treatise illustrates the broad scholarly interests of regional historians and their participation in the pan-Hellenic intellectual discourse centered on Alexandria.
 
 ## Text
 

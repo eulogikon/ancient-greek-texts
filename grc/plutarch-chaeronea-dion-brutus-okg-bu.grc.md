@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-bu
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-dion-brutus-okg-bu"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-bu` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-dion-brutus-okg-bu)
-
-The Comparison of Dion and Brutus is a concise prose essay by the Greek biographer Plutarch, composed around the turn of the 2nd century CE. It serves as the concluding analytical piece to his paired biographies of Dion of Syracuse and Marcus Junius Brutus, which are part of his larger series, Parallel Lives. The essay systematically contrasts the two subjects, who were separated by time and place: Dion, who led the overthrow of the tyrant Dionysius II in 4th-century BCE Syracuse, and Brutus, a principal figure in the assassination of Julius Caesar in 44 BCE Rome. Plutarch structures his comparison to evaluate their respective characters, motivations, and political careers. He examines their shared noble qualities, such as courage and a devotion to liberty, while also scrutinizing how these virtues were manifested differently due to circumstance and personal failing. The analysis extends to their philosophical educations, their competencies as military leaders and administrators, and the divergent outcomes of their causes. Modern interpretation views the essay not as a simplistic judgment of superiority but as a nuanced philosophical inquiry into the complex interaction between virtue, fortune, and practical action. The pairing is thematically coherent, as both men were aristocrats influenced by philosophy who resorted to violence against perceived tyrannical rule. The text survives intact within the manuscript tradition of the Parallel Lives. Written for an educated Greco-Roman audience, it has exerted a lasting influence as a model for ethical and historical comparison, particularly during later eras concerned with political revolution and the dilemmas of principled action.
 
 ## Text
 

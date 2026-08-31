@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-au
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-divine-punishment-slow-okg-au"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-au` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-divine-punishment-slow-okg-au)
-
-On Those Punished Slowly by the Divine is a philosophical dialogue by Plutarch of Chaeronea. Structured as a conversation, it addresses the problem of theodicy, defending divine justice against the apparent delay in punishing the wicked. The dialogue opens with a group of friends, including Patrocleas and Timon, reflecting on a hasty departure by an Epicurean critic who had challenged the notion of divine providence. This prompts a sustained examination of the issue. Plutarch systematically refutes the reasons given for doubting providence due to delayed punishment, arguing through his characters that such delay is purposeful. He contends it allows time for repentance, demonstrates that vice inherently carries its own destructive consequences, and ensures that ultimate justice is often fulfilled in the afterlife. This position is grounded in a Platonic view of the immortal soul and its posthumous judgment, synthesizing this with Stoic ideas on cosmic order and providence. The work serves as a significant critique of Epicurean theology, which denied divine intervention in human affairs. The treatise survives intact within the manuscript tradition of Plutarch's Moralia, preserved in codices such as the 10th-century Parisinus Graecus 1672 and the 14th-century Laurentianus 80.11. A key document in the history of theodicy, its arguments concerning moral order, punishment, and the soul's destiny influenced later Platonic and Christian thinkers wrestling with the problem of evil. It remains a primary source for understanding Middle Platonist ethics and theology during the Roman Imperial era.
 
 ## Text
 

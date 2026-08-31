@@ -5,6 +5,7 @@ author: Aristophanes Scholia
 eul_wid: mlw-av
 eul_aid: mlw
 canonical: "https://eulogikon.org/works/aristophanes-scholia-peace-mlw-av"
+lang: grc
 period: Hellenistic
 dialect: Technical Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristophanes Scholia
 
 **eul_wid:** `mlw-av` · [HTML page](https://eulogikon.org/works/aristophanes-scholia-peace-mlw-av)
-
-The Scholia on Peace constitute a body of explanatory commentary on Aristophanes' comedy Peace, comprising approximately two thousand individual notes. Compiled cumulatively from the Hellenistic era through the Byzantine period, these annotations were preserved in medieval manuscripts alongside the play's text. Their primary function was to elucidate the work for readers increasingly removed from the cultural and historical context of fifth-century BCE Athens. The content of the scholia is diverse, offering linguistic and grammatical explanations of obscure terms, identifying contemporary historical figures and events, clarifying mythological allusions and Athenian customs, and providing notes on literary technique, meter, and theatrical staging. The commentary also records significant textual variants from the manuscript tradition. Transmitted within the medieval Aristophanic corpus, the scholia represent layered excerpts from more comprehensive ancient commentaries by Alexandrian and later scholars. Modern critical editions reconstruct these accreted layers by comparing Byzantine manuscripts, which often contain condensed and conflated versions of the original material. As a repository of ancient scholarship and fragments of lost works, the Scholia on Peace are indispensable for modern interpretation, forming the foundational resource for understanding the play's contemporary references and shaping the reception of Aristophanes for over a millennium.
 
 ## Text
 

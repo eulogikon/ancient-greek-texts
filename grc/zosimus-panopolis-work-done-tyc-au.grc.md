@@ -5,6 +5,7 @@ author: Zosimus of Panopolis
 eul_wid: tyc-au
 eul_aid: tyc
 canonical: "https://eulogikon.org/works/zosimus-panopolis-work-done-tyc-au"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Zosimus of Panopolis
 
 **eul_wid:** `tyc-au` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-work-done-tyc-au)
-
-On the Work to be Done at Every Time is a Greek alchemical treatise composed around 300 CE by Zosimus of Panopolis, an Egyptian author. Structured as a series of five instructional passages, the work offers practical guidance on the timing and methods for laboratory operations, particularly those involving the treatment of metals. It stands as a complete specimen from Zosimus's extensive corpus, which constitutes some of the earliest and most influential alchemical literature in Greek. The text synthesizes Egyptian craft traditions, notably from metallurgy and dyeing, with Greek philosophical concepts and contemporary religious thought such as Gnosticism. Scholars interpret it not merely as a technical manual but as a work intended for initiates, framing the physical transformation of substances as part of a parallel spiritual process aimed at the purification and liberation of the practitioner's soul. Its emphasis on performing operations at the proper moment likely reflects the astrological and seasonal principles pervasive in ancient technical arts. The treatise survives intact through its transmission in Byzantine manuscripts, most notably within a 10th- or 11th-century codex. The writings of Zosimus, including this text, served as a foundational source for subsequent alchemical traditions, being extensively copied and commented upon by Byzantine, Islamic, and later medieval Latin scholars.
 
 ## Text
 

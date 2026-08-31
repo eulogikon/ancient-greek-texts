@@ -5,6 +5,7 @@ author: Lyceas of Naucratis
 eul_wid: giq-aa
 eul_aid: giq
 canonical: "https://eulogikon.org/works/lyceas-naucratis-egyptian-affairs-giq-aa"
+lang: grc
 period: Classical
 dialect: Ionic (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lyceas of Naucratis
 
 **eul_wid:** `giq-aa` · [HTML page](https://eulogikon.org/works/lyceas-naucratis-egyptian-affairs-giq-aa)
-
-The Egyptian Affairs by Lyceas of Naucratis is a lost historical or ethnographic work known only through a brief testimonium in the Byzantine Suda lexicon and a single fragment preserved by Athenaeus. The author, Lyceas, hailed from the prominent Greek colony of Naucratis in Egypt, which strongly suggests his work focused on Egyptian customs, geography, or history. The surviving fragment recounts an anecdote concerning the Egyptian king Tachos and the Spartan king Agesilaus II, in which Agesilaus, insulted for his short stature, later retaliates by abandoning their alliance, leading to Tachos's flight into exile. This passage indicates the work contained historical narrative, likely interwoven with descriptions of local traditions. As a production from a Greek author within Egypt, the work represents the broader genre of local histories that flourished in the Hellenistic and Roman periods, offering a Greek perspective on Egyptian affairs. Its complete loss, aside from these scant references, is typical of many such specialized prose accounts from antiquity.
 
 ## Text
 

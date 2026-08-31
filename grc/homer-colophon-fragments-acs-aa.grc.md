@@ -5,6 +5,7 @@ author: Homer of Colophon
 eul_wid: acs-aa
 eul_aid: acs
 canonical: "https://eulogikon.org/works/homer-colophon-fragments-acs-aa"
+lang: grc
 period: Archaic
 dialect: Epic (Homeric)
 domain: Epic
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Homer of Colophon
 
 **eul_wid:** `acs-aa` · [HTML page](https://eulogikon.org/works/homer-colophon-fragments-acs-aa)
-
-The Margites is a lost comic poem, surviving only in fragments and testimonia. Ancient sources attribute it to Homer, though modern scholarship considers this a pseudonymous attribution from a later period, likely the 6th century BCE. The poem was composed in a mixture of hexameter and iambic trimeter verse and narrated the exploits of a foolish anti-hero named Margites, a man proverbially incompetent in all basic matters. It is classified as a mock-epic, parodying heroic conventions through its inept protagonist and its application of the elevated hexameter to low subject matter. The work is preserved only in brief quotations by later authors, such as Aristotle, and in testimonial references, with its unusual mixed meter consistently reported in antiquity. Aristotle cites the Margites in his Poetics as a foundational work for comedy, analogous to the Homeric epics for tragedy, granting it a major place in classical literary theory. The poem represents a crucial early example of Greek parody, and its protagonist became a proverbial figure for foolishness.
 
 ## Text
 

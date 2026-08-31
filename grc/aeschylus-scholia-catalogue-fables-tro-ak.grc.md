@@ -5,6 +5,7 @@ author: Aeschylus Scholia
 eul_wid: tro-ak
 eul_aid: tro
 canonical: "https://eulogikon.org/works/aeschylus-scholia-catalogue-fables-tro-ak"
+lang: grc
 period: Late Antique
 dialect: Byzantine Greek
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aeschylus Scholia
 
 **eul_wid:** `tro-ak` · [HTML page](https://eulogikon.org/works/aeschylus-scholia-catalogue-fables-tro-ak)
-
-The Catalogue of Fables is a lost prose work attributed to the tragedian Aeschylus. It survives only through fragmentary citations preserved within ancient scholia, particularly in commentaries on the works of Apollonius Rhodius and Pindar. The text appears to have been a systematic compilation of mythological narratives, listing and detailing various stories. References in the scholia indicate it contained variant or less common mythological traditions, which commentators used as an authoritative source for alternative mythographic details. The work lacks an independent manuscript tradition and is known solely through these quotations by Hellenistic and Roman-era scholars, who valued it for specialized mythological exegesis. Its significance is thus confined to its role within ancient scholarship, with no evidence of broader literary influence.
 
 ## Text
 

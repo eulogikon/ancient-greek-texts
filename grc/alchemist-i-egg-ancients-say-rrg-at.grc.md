@@ -5,6 +5,7 @@ author: Alchemist I
 eul_wid: rrg-at
 eul_aid: rrg
 canonical: "https://eulogikon.org/works/alchemist-i-egg-ancients-say-rrg-at"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alchemist I
 
 **eul_wid:** `rrg-at` · [HTML page](https://eulogikon.org/works/alchemist-i-egg-ancients-say-rrg-at)
-
-_On the Egg, the Ancients Say Thus_ is a brief pseudepigraphic Greek alchemical treatise attributed to the anonymous compiler known as Alchemist I. The work presents a collection of three sayings from earlier authorities concerning the symbolic and practical role of the egg within alchemical theory and practice. It belongs to the corpus of Greco-Egyptian alchemical writings that compile doctrines attributed to legendary figures such as Hermes Trismegistus and Maria the Jewess. The treatise centers on the egg as a fundamental alchemical allegory, symbolizing both the sealed philosophical vessel, known as the kerotakis, and the cosmos itself. It further represents the primal matter, or hyle, which contains the latent potential for all metals and for the philosopher's stone. The biological development of an egg is presented as an analogy for the successive stages of the alchemical work. By framing its teachings as ancient wisdom, the text underscores the authority and antiquity of the alchemical tradition.
-
-The work is preserved within the major anthology of Greek alchemical texts found in the 10th- or 11th-century Codex Marcianus graecus 299, a manuscript copied by the Byzantine scholar Arethas of Caesarea. Its modern critical edition appears in the Catalogue des manuscrits alchimiques grecs. As part of the Greek alchemical corpus, its symbolism was transmitted via Arabic translations to Islamic and later medieval European alchemists. The concept of the philosophical egg subsequently became a standard icon in Western esoteric tradition, representing the sealed vessel and the ultimate goal of the magnum opus.
 
 ## Text
 

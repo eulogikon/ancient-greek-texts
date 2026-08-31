@@ -5,6 +5,7 @@ author: Hymnic Collection  Anonymous
 eul_wid: upu-ao
 eul_aid: upu
 canonical: "https://eulogikon.org/works/hymnic-anon-dionysus-upu-ao"
+lang: grc
 period: Classical
 dialect: Epic (Homeric)
 domain: Poetry
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hymnic Collection  Anonymous
 
 **eul_wid:** `upu-ao` · [HTML page](https://eulogikon.org/works/hymnic-anon-dionysus-upu-ao)
-
-"Hymn 7 to Dionysus" is an ancient Greek narrative poem belonging to the collection known as the Homeric Hymns. Composed in the epic dactylic hexameter, it dates from the archaic period, likely the seventh or sixth century BCE, and is the work of an anonymous poet rather than Homer himself. The hymn recounts the dramatic episode in which the god Dionysus, son of Semele, is abducted by Tyrrhenian pirates. Mistaking his youthful and handsome appearance for that of a mortal prince, the pirates seize him and attempt to bind him with ropes aboard their ship. Their efforts prove futile as the bonds fall away, and Dionysus, smiling, begins to manifest his divine power. Miracles ensue: fragrant wine streams across the deck, a vine heavy with grapes and ivy sprout rapidly to entwine the mast and rigging, and the god himself transforms into a lion and creates a phantom bear. Stricken with terror, the impious pirates leap into the sea and are metamorphosed into dolphins. The helmsman alone, who had recognized the divine presence and pleaded for the god's release, is spared and receives the blessing of Dionysus.
-
-The hymn, which survives complete in fifty-nine lines, exemplifies the ritual function of such compositions, which were likely performed as preludes to longer epic recitations to invoke a deity's presence and favor. It artfully illustrates the core themes of Dionysian worship, emphasizing the god's association with wine, ecstasy, metamorphosis, and the potent duality of his nature—he is a source of ecstatic blessing for his devotees but delivers terrifying punishment to those who deny his divinity. The narrative serves as a potent lesson on the necessity of recognizing the divine and the dire consequences of hubris. This particular myth enjoyed widespread popularity in antiquity and was a frequent subject in Greek vase painting. The text has been preserved through medieval manuscripts and is transmitted as an integral part of the Homeric Hymns corpus.
 
 ## Text
 

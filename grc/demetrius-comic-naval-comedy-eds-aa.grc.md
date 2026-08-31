@@ -5,6 +5,7 @@ author: Demetrius the Comic Poet
 eul_wid: eds-aa
 eul_aid: eds
 canonical: "https://eulogikon.org/works/demetrius-comic-naval-comedy-eds-aa"
+lang: grc
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Demetrius the Comic Poet
 
 **eul_wid:** `eds-aa` · [HTML page](https://eulogikon.org/works/demetrius-comic-naval-comedy-eds-aa)
-
-Fragments of a Naval Comedy is a collection of nine fragmentary passages attributed to the comic poet Demetrius. The descriptive title implies a nautical theme, but no plot or characters are preserved. The work survives solely through quotations in later ancient authors. The title suggests subject matter involving seafaring, sailors, or harbor life, though the extant fragments offer no evidence for specific philosophical or political themes. The comedy is entirely lost except for these fragments, which were likely preserved by grammarians or lexicographers like Athenaeus. It has no independent manuscript tradition, a fate common to most Greek comedies outside the canonical works of Aristophanes and Menander. The fragments represent the obscured genre of naval comedy, attested also in lost works like Plato Comicus’s Nauagōroi. While the work’s direct influence is untraceable, it exemplifies the vast, mostly lost landscape of Athenian comic production.
 
 ## Text
 

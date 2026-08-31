@@ -5,6 +5,7 @@ author: Istros the Callimachean
 eul_wid: jbu-aa
 eul_aid: jbu
 canonical: "https://eulogikon.org/works/istros-callimachean-attica-festivals-jbu-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Istros the Callimachean
 
 **eul_wid:** `jbu-aa` · [HTML page](https://eulogikon.org/works/istros-callimachean-attica-festivals-jbu-aa)
-
-The Attic Antiquities and Festivals is a lost prose compilation by the third-century BCE Alexandrian scholar Istros the Callimachean. An antiquarian work of systematic scholarship, it gathered excerpts concerning Athenian history, customs, and religious festivals from earlier authors. It survives only in fragments preserved through citations by later grammarians and encyclopedists, including Athenaeus, the Suda, and the Etymologicum Magnum; modern scholars have assembled some sixty-seven such testimonia. Based on these fragments and its title, the work’s scope encompassed detailed accounts of Athenian religious festivals, such as the Panathenaia and the Apaturia, along with their associated rituals for deities including Hephaestus and Dionysus. It also treated the mythological origins and aetiologies of Athenian cult practices and institutions, local Attic history and legends, and early Athenian laws and social customs. As a product of the Callimachean scholarly tradition, the compilation exemplifies the Hellenistic effort to organize and systematize knowledge. It served as an important source for later Roman and Byzantine antiquarians and provides modern historians with valuable evidence for reconstructing both Athenian religious practice and the methods of Alexandrian scholarship.
 
 ## Text
 

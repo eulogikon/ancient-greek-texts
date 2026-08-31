@@ -5,6 +5,7 @@ author: Galen of Pergamon
 eul_wid: qmm-cf
 eul_aid: qmm
 canonical: "https://eulogikon.org/works/galen-pergamon-tumors-qmm-cf"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Galen of Pergamon
 
 **eul_wid:** `qmm-cf` · [HTML page](https://eulogikon.org/works/galen-pergamon-tumors-qmm-cf)
-
-_On Tumors Contrary to Nature_ is a medical treatise by Galen of Pergamon that systematically classifies pathological swellings or growths. The work defines an onkos, or tumor, as any abnormal swelling, with its primary focus on those formations deemed contrary to the natural state of the body. Galen establishes a comprehensive typology, categorizing these swellings by their underlying cause, physical consistency, and internal content. The treatise details various types of abnormal growths, including phlegmons, which are inflammatory swellings, as well as edemas, gangrenes, abscesses, cysts, and various cancerous formations. The etiology and prognosis for these conditions are explained through the framework of humoral theory, wherein disease results from an imbalance of the body's four fundamental humors. A complete and genuine part of the Galenic corpus, the text was transmitted through Greek manuscripts and translated into Arabic, Syriac, and Latin, becoming a standard medical reference for centuries. It is preserved in its entirety in modern critical editions. As a foundational text in pathology for over a millennium, its systematic classification of tumors profoundly shaped medieval and early modern medicine, remaining an authoritative source until the advent of modern cellular pathology.
 
 ## Text
 

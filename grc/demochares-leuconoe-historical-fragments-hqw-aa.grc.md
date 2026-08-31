@@ -5,6 +5,7 @@ author: Demochares of Leuconoe
 eul_wid: hqw-aa
 eul_aid: hqw
 canonical: "https://eulogikon.org/works/demochares-leuconoe-historical-fragments-hqw-aa"
+lang: grc
 period: Hellenistic
 dialect: Attic
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Demochares of Leuconoe
 
 **eul_wid:** `hqw-aa` · [HTML page](https://eulogikon.org/works/demochares-leuconoe-historical-fragments-hqw-aa)
-
-The Historical Fragments on Demosthenes is a lost prose work of history and biography composed in Attic Greek by the Athenian orator Demochares of Leuconoe around 280 BCE. As the nephew of the famed statesman Demosthenes, Demochares wrote the text as a passionate defense of his uncle's political career and personal character, specifically countering contemporary critics who favored Macedonian hegemony. The work was not a formal, continuous narrative but rather a collection of historical notes, speeches, and anecdotes. It addressed pivotal episodes such as Demosthenes' orations, his period of exile, and the circumstances of his death, seeking to vindicate him from accusations of corruption and to establish his legacy as a principled democratic patriot. The complete text has not survived; knowledge of it derives entirely from seven fragments preserved in the works of later authors, including the biographer Plutarch and the writer Athenaeus. Modern scholarship interprets these fragments as evidence of a pointed political polemic from the early Hellenistic period, crafted to rehabilitate the image of Demosthenes for an Athenian public still grappling with the consequences of his staunchly anti-Macedonian policies. The work is understood to have been written in direct opposition to rival historical accounts that were sympathetic to Macedonian rule.
 
 ## Text
 

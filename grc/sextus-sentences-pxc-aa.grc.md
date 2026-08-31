@@ -5,6 +5,7 @@ author: Sententiae Sexti
 eul_wid: pxc-aa
 eul_aid: pxc
 canonical: "https://eulogikon.org/works/sextus-sentences-pxc-aa"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Sententiae Sexti
 
 **eul_wid:** `pxc-aa` · [HTML page](https://eulogikon.org/works/sextus-sentences-pxc-aa)
-
-The Sentences of Sextus is a collection of 325 ethical maxims composed in Koine Greek, likely compiled in the late second century CE. Its author, identified only as Sextus, remains otherwise unknown. The work consists of short, aphoristic statements offering practical guidance for virtuous living, emphasizing themes such as self-control, piety, justice, disciplined speech, and the proper attitude toward wealth and desire. Its structure follows the tradition of ancient gnomic literature, presenting a series of independent, concise admonitions.
-
-The original Greek text survives only in fragmentary form, preserved in a few papyrus scraps and quotations by early Christian writers. The most complete version derives from a late fourth-century Latin translation by Rufinus of Aquileia, which not only transmitted the sayings but also expanded the collection and prefaced it with Christianizing material. The content is fundamentally theistic and moral, yet its earliest form lacks explicitly Christian doctrine, a characteristic that facilitated its adoption across different philosophical and religious communities. Scholars regard the work as a product of the intersection between popular Hellenistic philosophy and early Christian ascetic thought, originally intended for a broad audience seeking ethical instruction. It later gained particular popularity within monastic circles. The Sentences of Sextus stands as a significant example of how non-Christian wisdom literature was preserved and adapted within the evolving Christian tradition.
 
 ## Text
 

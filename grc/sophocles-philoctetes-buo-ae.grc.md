@@ -5,6 +5,7 @@ author: Sophocles
 eul_wid: buo-ae
 eul_aid: buo
 canonical: "https://eulogikon.org/works/sophocles-philoctetes-buo-ae"
+lang: grc
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Sophocles
 
 **eul_wid:** `buo-ae` · [HTML page](https://eulogikon.org/works/sophocles-philoctetes-buo-ae)
-
-Philoctetes is a tragedy by the ancient Greek playwright Sophocles, first performed at the City Dionysia in Athens in 409 BCE, where it won first prize. The play dramatizes a critical episode from the Trojan War cycle. The Greek hero Philoctetes, possessor of the invincible bow of Heracles, was marooned on the desolate island of Lemnos a decade earlier after suffering a foul-smelling, incurable wound to his foot. The action begins when the Greek commanders learn from a prophecy that Troy cannot be captured without Philoctetes and his bow. Odysseus, the embodiment of cunning, is dispatched with the young Neoptolemus, son of Achilles, on a mission to retrieve him. The central drama arises from the profound ethical conflict between Odysseus’s ruthless political pragmatism, which insists on deception as necessary for success, and Neoptolemus’s innate aristocratic honor, as they attempt to persuade the deeply embittered and isolated Philoctetes to rejoin the war.
-
-A complete and well-preserved work of approximately 1,500 lines, the play is notable for its concentrated structure, featuring a small cast and the single, stark setting of Philoctetes’s cave on Lemnos. This focus intensifies the psychological exploration of its characters and their moral dilemmas. Modern scholarship frequently interprets the drama’s themes of persuasion, deceit, and the tension between personal integrity and civic duty within the context of the prolonged Peloponnesian War, during which the play was written. Odysseus is often seen as a representation of the manipulative sophistry and realpolitik of Sophocles’s era, while the figures of Neoptolemus and Philoctetes are viewed as embodying more traditional heroic virtues under severe strain.
-
-The text of Philoctetes survives as part of the Byzantine triad, the group of three Sophoclean plays most commonly studied and copied in the medieval manuscript tradition. Its enduring power lies in its profound treatment of physical and psychological suffering, betrayal, and impossible ethical choices, securing its place as a work of lasting influence. It has inspired numerous modern adaptations and is frequently interpreted as a powerful allegory for political exile, the trauma of war, and the profound isolation of the individual.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Sophocles
 eul_wid: buo-ag
 eul_aid: buo
 canonical: "https://eulogikon.org/works/sophocles-hymn-dionysus-buo-ag"
+lang: grc
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Sophocles
 
 **eul_wid:** `buo-ag` · [HTML page](https://eulogikon.org/works/sophocles-hymn-dionysus-buo-ag)
-
-The Hymn to Dionysus is a lost choral lyric composition by the Athenian tragedian Sophocles, known today only through five fragmentary passages preserved in the works of later Greek authors. The most substantial of these, designated Fragment 959, contains an invocation to the god that describes his mythological birth from Semele at Thebes and celebrates his dual associations with ecstatic revelry and oracular wisdom at Delphi. The text employs traditional hymnic language and prayerful formulas, suggesting a ritual or performative context for its original use. The remaining four fragments are brief citations preserved primarily for their rare or noteworthy vocabulary by lexicographers and anthologists. The hymn survives entirely through this indirect transmission, with fragments cited by such figures as the rhetorician Aelius Aristides, the anthologist Stobaeus, and the lexicographers Hesychius and the Etymologicum Magnum; they are standardly collected in modern editions of the tragic fragments. Although its fragmentary condition precludes a full assessment, the hymn's quotation by significant later authors indicates it was regarded as a respected example of Sophoclean lyric poetry. It attests to the tragedian's compositional range beyond dramatic works and constitutes a notable contribution to the corpus of ancient Greek hymnic literature dedicated to Dionysus.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Aetius the Doxographer
 eul_wid: ovu-ab
 eul_aid: ovu
 canonical: "https://eulogikon.org/works/aetius-doctrines-remnants-ovu-ab"
+lang: grc
 period: Roman
 dialect: "Koine (phi, frg)"
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aetius the Doxographer
 
 **eul_wid:** `ovu-ab` · [HTML page](https://eulogikon.org/works/aetius-doctrines-remnants-ovu-ab)
-
-On Doctrines, Remnants, a philosophical handbook traditionally known by its Latin title Placita, was compiled in Greek around 100 CE by an otherwise unknown author named Aetius. It is a prime example of doxography, a genre dedicated to the systematic collection and organization of the opinions of earlier Greek philosophers. The work methodically arranges doctrines on a wide range of topics, including the fundamental principles of the universe, cosmology, meteorological phenomena, the nature of the soul, and human perception. Its schematic structure frequently presents the contrasting views of different thinkers on a single question in a side-by-side format. Modern scholarship interprets the handbook as a reference tool or textbook, likely created for students and educated readers in the Roman Empire who required a reliable digest of philosophical debates without needing to consult the original, often inaccessible texts.
-
-The original work of Aetius is entirely lost and must be reconstructed from later sources. It survives principally through extensive quotations preserved in a 5th-century anthology compiled by Stobaeus and through an abridged version that was falsely attributed to Plutarch. Based on these witnesses, modern reconstructions, most notably the seminal work of Hermann Diels, organize the surviving material into books and thematic sections. Despite its fragmentary transmission, the compilation was profoundly influential, serving as a major conduit for the doctrines of pre-Socratic and Hellenistic philosophers throughout later antiquity, the Byzantine world, and among medieval Islamic scholars.
 
 ## Text
 

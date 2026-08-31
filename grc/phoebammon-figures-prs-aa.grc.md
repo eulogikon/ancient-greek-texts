@@ -5,6 +5,7 @@ author: Phoebammon the Sophist
 eul_wid: prs-aa
 eul_aid: prs
 canonical: "https://eulogikon.org/works/phoebammon-figures-prs-aa"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Phoebammon the Sophist
 
 **eul_wid:** `prs-aa` · [HTML page](https://eulogikon.org/works/phoebammon-figures-prs-aa)
-
-On Figures is a rhetorical handbook composed in Attic Greek by Phoebammon the Sophist, a teacher of eloquence active in the fifth or sixth century CE. This concise technical treatise provides a systematic classification and explanation of various rhetorical figures, the stylistic devices employed for ornamentation and persuasion in oratory. The work is structured around fourteen distinct passages. It opens by establishing four fundamental questions to be addressed concerning figures: their utility, their origin, whether they exist by nature or by artistic convention, and whether they constitute a simple or a complex subject. Phoebammon argues that figures are useful for preserving the style of ancient authors and for avoiding the monotony and satiety produced by an unvaried discourse. He asserts that change is pleasurable to people, while satiety breeds distaste, and that novelty and strangeness are more pleasing than uniformity. Furthermore, he contends that speeches appear more persuasive through the use of figures.
-
-The term "figure" itself, Phoebammon explains, derives from the concept of transformation, akin to the changing postures of dancers or clay being molded and reshaped into the image of a man, woman, or similar form. He posits that figures are not a product of nature but are acquired through artistic skill, noting that different authors exhibit distinct characteristics in their use of figures—some rougher, some more polished, some moderate—all achieved through variety. The treatise is a product of late antique education, where mastery of classical rhetoric remained essential for public life. Scholars interpret it as a practical pedagogical manual for advanced students in rhetorical schools, designed to refine their prose style within the established norms of Attic diction. The complete text survives, transmitted through medieval manuscripts containing collections of rhetorical works. It stands as a concise example of the specialized handbooks that systematized and perpetuated classical rhetorical theory into the Byzantine era.
 
 ## Text
 

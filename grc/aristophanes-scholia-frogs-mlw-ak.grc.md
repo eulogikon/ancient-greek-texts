@@ -5,6 +5,7 @@ author: Aristophanes Scholia
 eul_wid: mlw-ak
 eul_aid: mlw
 canonical: "https://eulogikon.org/works/aristophanes-scholia-frogs-mlw-ak"
+lang: grc
 period: Hellenistic
 dialect: Technical Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristophanes Scholia
 
 **eul_wid:** `mlw-ak` · [HTML page](https://eulogikon.org/works/aristophanes-scholia-frogs-mlw-ak)
-
-The Commentary on Frogs is an ancient collection of scholia, or explanatory notes, composed to elucidate Aristophanes’ comedy Frogs. Though anonymous in its compiled form, the work incorporates material attributed to renowned Hellenistic scholars such as Aristophanes of Byzantium. It comprises 876 prose entries, each offering a gloss on a specific line or passage from the play. Written in Greek, the commentary serves to clarify obscure vocabulary, identify historical and mythological allusions, analyze metrical structure, and record textual variants. The extant compilation is a palimpsest of scholarship, assembled over centuries from the Hellenistic period through the Byzantine era. It functioned as a crucial academic instrument within the Greco-Roman and later Byzantine educational systems, designed to render the intricate language and topical satire of Old Comedy accessible to students and teachers. The original, comprehensive commentaries by early Alexandrian scholars are lost; what survives are these distilled marginalia, which were copied, condensed, and sometimes abbreviated by medieval scribes. The most significant witness to the text is the 10th-century Codex Ravennas. This transmission history renders the scholia a fragmentary yet invaluable window into ancient philological practices, preserving critical insights that remain foundational for the modern interpretation of Aristophanes’ work.
 
 ## Text
 

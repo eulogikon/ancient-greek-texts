@@ -5,6 +5,7 @@ author: Isocrates of Athens
 eul_wid: ffu-av
 eul_aid: ffu
 canonical: "https://eulogikon.org/works/isocrates-athens-rhetorical-theory-ffu-av"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Isocrates of Athens
 
 **eul_wid:** `ffu-av` · [HTML page](https://eulogikon.org/works/isocrates-athens-rhetorical-theory-ffu-av)
-
-The Fragments on Rhetorical Theory is a modern scholarly compilation, not an ancient, coherent text. It gathers forty excerpts and paraphrases from the genuine orations of Isocrates of Athens, such as Against the Sophists and Antidosis, that pertain to rhetorical theory. Isocrates embedded his theoretical views within his discourses and never composed a standalone systematic treatise. Reconstructed from these fragments, his theory emphasizes several key themes: the central civic and civilizing power of speech and reason, a critique of eristic disputation and amoral technical handbooks, and a definition of philosophy as a practical education in virtue and political judgment, with eloquence as a core component. It also asserts the superiority of natural ability, practice, and experience over rigid rules for oratorical training and defines the orator's role as an ethical political leader dedicated to the common good.
-
-The fragments themselves derive from Isocrates' extant orations, which were preserved through a medieval manuscript tradition, such as the 10th-century Urbinas Graecus 111. The compilation is entirely a modern editorial construct with no independent transmission history. Isocrates’ conception of a broad, civic-minded rhetorical education shaped Hellenistic and Roman ideals, notably the figure of the cultured orator-statesman. His influence on Cicero ensured that his ideas profoundly impacted Renaissance humanism and the modern liberal arts tradition.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Pseudo-Galen
 eul_wid: tqu-ai
 eul_aid: tqu
 canonical: "https://eulogikon.org/works/pseudo-galen-fetus-animal-tqu-ai"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Pseudo-Galen
 
 **eul_wid:** `tqu-ai` · [HTML page](https://eulogikon.org/works/pseudo-galen-fetus-animal-tqu-ai)
-
-The treatise Whether The Fetus Is An Animal is a concise, polemical medical work comprising twenty-four passages. Its anonymous author systematically argues against the Stoic philosophical position that an embryo is an animal from the moment of conception. Instead, the text defends the view associated with the Hippocratic medical tradition and with Galen, which holds that the embryo only becomes a true animal upon birth. The work presents a methodical refutation of Stoic definitions and analogies, examining the criteria for being an animal and the timing of ensoulment. It contrasts an understanding of embryological development based on observable stages with philosophical reasoning derived from first principles, while also engaging with the ethical implications of defining the beginning of life. The text is preserved within a collection of medical works in a single manuscript, Parisinus Graecus 2113, dating from the fourteenth or fifteenth century, and was first published in 1857 by Franz R. Dietz. As a direct artifact of the debate between medical and philosophical schools on embryology and personhood, this treatise provides specific evidence for the Stoic position on animation and exemplifies the methodological clash between empirical medicine and rationalist philosophy in late antiquity.
 
 ## Text
 

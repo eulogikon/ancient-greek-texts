@@ -5,6 +5,7 @@ author: Antigonus of Carystus II
 eul_wid: kku-aa
 eul_aid: kku
 canonical: "https://eulogikon.org/works/antigonus-carystus-italic-history-kku-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: Biography
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Antigonus of Carystus II
 
 **eul_wid:** `kku-aa` · [HTML page](https://eulogikon.org/works/antigonus-carystus-italic-history-kku-aa)
-
-The Fragments on Italic History is a lost prose work attributed to the Hellenistic biographer and paradoxographer Antigonus of Carystus. Surviving only as a handful of excerpts preserved by later authors, the work contained biographical and historical notes on figures associated with Italy, consistent with Antigonus’s known interest in philosophical and intellectual lives. The extant fragments indicate a focus on biographical sketches of philosophers, artists, and other notable individuals connected to Italy, particularly within the context of Greek intellectual history in Magna Graecia. The content likely also encompassed elements of cultural geography and paradoxical anecdotes, aligning with the author’s other known works. The text is preserved indirectly through fragmentary citations in later compilers such as Diogenes Laërtius or Athenaeus, with no independent manuscript tradition. While its direct influence is obscured by its fragmentary state, Antigonus’s biographical collections were important sources for later doxographers. Material from works like this one was incorporated into the mainstream of ancient biographical writing, most notably by Diogenes Laërtius in his compendium of philosophical lives.
 
 ## Text
 

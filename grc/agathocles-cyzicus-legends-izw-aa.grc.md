@@ -5,6 +5,7 @@ author: Agathocles of Cyzicus
 eul_wid: izw-aa
 eul_aid: izw
 canonical: "https://eulogikon.org/works/agathocles-cyzicus-legends-izw-aa"
+lang: grc
 period: Hellenistic
 dialect: Ionic (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Agathocles of Cyzicus
 
 **eul_wid:** `izw-aa` · [HTML page](https://eulogikon.org/works/agathocles-cyzicus-legends-izw-aa)
-
-_On Cyzicus and Its Legends_, also known by the title _Apospasmata_ or "Extracts," is a lost work of local history attributed to Agathocles of Cyzicus. It was a compiled epitome concerning the important Greek colony of Cyzicus on the Sea of Marmara, focusing on the city's historical and mythological traditions. The work survives only in fragments preserved by later ancient authors. These citations indicate its content was characteristic of local historiography, encompassing the city's foundation myths, which may have involved the Argonauts, descriptions of local cults such as that of Zeus Polieus, accounts of political history and notable citizens, and geographical and ethnographic details of the region. The primary source for fragments is Athenaeus’s _Deipnosophistae_, written around 200 CE, which cites Agathocles on matters such as a type of bread called cyzicene. Other fragments are preserved by Harpocration and Photius, while the Byzantine _Suda_ encyclopedia confirms Agathocles as the author. The work served as a source for later lexicographers and antiquarians, thereby transmitting Cyzicene traditions within the broader stream of Greek scholarly writing. Its surviving fragments remain valuable for studies of Hellenistic historiography and the local history of northwestern Asia Minor.
 
 ## Text
 

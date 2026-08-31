@@ -5,6 +5,7 @@ author: Timagoras of Athens
 eul_wid: csa-aa
 eul_aid: csa
 canonical: "https://eulogikon.org/works/timagoras-athens-theban-myths-csa-aa"
+lang: grc
 period: Classical
 dialect: Attic
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Timagoras of Athens
 
 **eul_wid:** `csa-aa` · [HTML page](https://eulogikon.org/works/timagoras-athens-theban-myths-csa-aa)
-
-_Theban Mythological Fragments_ is a lost prose work by the Atthidographer Timagoras of Athens. Categorized as a form of local history, it focused on Theban and Boeotian mythological traditions. The work survives only through a handful of brief fragments preserved in later scholiasts and lexicographers. These fragments indicate the work dealt with etiological myths and heroic genealogies central to the Boeotian region. One fragment recounts the origin of the Spartoi, the armed men who sprang from the dragon's teeth sown by Cadmus, and includes the figure of Creon among their number. Another explains the origin of the name for the Laconian town of Sparta, deriving it from these same "Sown Men" who were exiled there. A further passage offers a variant account of the death of Amphion and the sparing of Niobe, attributing the murder of Amphion to an ambush by the Spartoi as he traveled to perform a sacrifice. The text was preserved indirectly as quotations in later antiquarian sources. As a minor Atthidographer, Timagoras's work served as a source for later lexicographers and mythographers seeking rare mythological variants. His fragments contribute to understanding how Athenian writers engaged with and systematized the regional myths of rival states like Thebes, reflecting the interconnected cultural landscape of ancient Greece.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Diogenianus of Heraclea Pontica
 eul_wid: pdm-aa
 eul_aid: pdm
 canonical: "https://eulogikon.org/works/diogenianus-heraclea-proverbs-pdm-aa"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Diogenianus of Heraclea Pontica
 
 **eul_wid:** `pdm-aa` · [HTML page](https://eulogikon.org/works/diogenianus-heraclea-proverbs-pdm-aa)
-
-The Proverbs Epitome is a lexicographical treatise compiled in the 2nd century CE by the grammarian Diogenianus of Heraclea Pontica. Written in Koine Greek, this work is an abridged, alphabetical handbook containing 179 entries, each presenting a traditional proverb followed by a concise explanation of its meaning and frequently its origin or an illustrative anecdote. It was designed as a practical and accessible selection drawn from a more comprehensive collection by the scholar Zenobius. Composed during the Roman Imperial Period, a time of revived classical scholarship known as the Second Sophistic, the epitome functioned as a scholarly tool for students, writers, and orators, providing a convenient resource for employing proverbs to enrich rhetoric and composition with traditional wisdom. The original text by Diogenianus is lost, surviving only through its absorption into later, more extensive medieval proverb collections, most notably the Corpus Paroemiographorum Graecorum. Modern scholars reconstruct his work by identifying his contributions within these later compilations. The epitome became a standard reference in the Byzantine period, influencing subsequent lexicographers and playing a key role in preserving Greek cultural sayings for posterity.
 
 ## Text
 

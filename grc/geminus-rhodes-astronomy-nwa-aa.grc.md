@@ -5,6 +5,7 @@ author: Geminus of Rhodes
 eul_wid: nwa-aa
 eul_aid: nwa
 canonical: "https://eulogikon.org/works/geminus-rhodes-astronomy-nwa-aa"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Geminus of Rhodes
 
 **eul_wid:** `nwa-aa` · [HTML page](https://eulogikon.org/works/geminus-rhodes-astronomy-nwa-aa)
-
-The Elements of Astronomy, also known as the Introduction to the Phenomena, is an introductory astronomical textbook composed in Greek by Geminus of Rhodes around the first century BCE. This non-mathematical treatise provides a systematic explanation of celestial phenomena as observed from Earth, covering fundamental concepts such as the celestial sphere, the zodiac, the motions of the sun and moon, the seasons, and the structure of the Greek lunisolar calendar. The work is organized into 342 concise passages and survives in its entirety, preserved through medieval Greek manuscripts as well as later Arabic and Latin translations.
-
-Modern scholarship interprets the text as a pedagogical primer, likely intended for students of philosophy or science before they progressed to more advanced geometrical models of the cosmos. It represents a synthesis of standard astronomical knowledge from the late Hellenistic period, incorporating earlier Greek and Babylonian ideas. Geminus is particularly noted for articulating a clear methodological distinction between astronomy and physics, arguing that astronomers seek to describe celestial motions through mathematical models while physicists investigate their underlying physical causes. As a lucid and comprehensive introduction, the textbook remained influential for centuries, serving as a key conduit of basic astronomical knowledge into the medieval world.
 
 ## Text
 

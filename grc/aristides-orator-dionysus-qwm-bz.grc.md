@@ -5,6 +5,7 @@ author: Aristides the Orator
 eul_wid: qwm-bz
 eul_aid: qwm
 canonical: "https://eulogikon.org/works/aristides-orator-dionysus-qwm-bz"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristides the Orator
 
 **eul_wid:** `qwm-bz` · [HTML page](https://eulogikon.org/works/aristides-orator-dionysus-qwm-bz)
-
-The Dionysus is a formal encomium composed in the 2nd century CE by the Greek orator Aelius Aristides. Written in refined Attic Greek, this short oration celebrates the god Dionysus, recounting his mythical birth from Zeus and Semele and his subsequent travels. Its primary focus, however, is a systematic praise of the god's gifts to humanity. Foremost among these is wine, which Aristides portrays not as an agent of intemperance but as a divine benefaction that alleviates sorrow, fosters health, and strengthens the bonds of community. The work is a complete and conventionally structured encomium in four parts, created during the period of revived Greek rhetoric known as the Second Sophistic. As a display piece of oratorical skill, it was likely performed for educated audiences who valued its elegant style and traditional themes. Modern scholarship interprets the speech both as a sophisticated defense of Dionysiac worship within contemporary philosophical debates about pleasure and moderation, and as a characteristic example of the enduring vitality of classical literary forms under the Roman Empire.
 
 ## Text
 

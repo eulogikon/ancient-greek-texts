@@ -1,10 +1,11 @@
 ---
 title: Comic Fragments on Daily Life
 title_greek: Ἀποσπάσματα περὶ Βίου Καθημερινοῦ
-author: "Anaxilas the Comic Poet "
+author: Anaxilas the Comic Poet
 eul_wid: hdu-ab
 eul_aid: hdu
 canonical: "https://eulogikon.org/works/anaxilas-comic-fragments-hdu-ab"
+lang: grc
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀποσπάσματα περὶ Βίου Καθημερινοῦ*
 
-**Author:** Anaxilas the Comic Poet 
+**Author:** Anaxilas the Comic Poet
 
 **eul_wid:** `hdu-ab` · [HTML page](https://eulogikon.org/works/anaxilas-comic-fragments-hdu-ab)
-
-The comic fragments attributed to Anaxilas represent a collection of 98 excerpts from his otherwise lost plays, preserved through quotations by later authors such as Athenaeus. Anaxilas was a poet of Athenian Middle Comedy, active approximately between 343 and 314 BCE, a period marked by a shift from overt political satire toward social humor, parody of myth, and the development of stock character types. Written in Attic Greek verse for performance at public theater festivals, these fragments originate from at least 19 known comedies. Play titles like Circe and Calypso indicate his practice of treating mythological subjects comically. The surviving lines focus predominantly on the details of daily life, offering vivid glimpses into dining, drinking, domestic routines, and social interactions. They mock conventional figures such as parasites, soldiers, and philosophers, while also providing descriptive passages on food, clothing, and personal habits. Although the complete dramatic works have not survived, these selectively transmitted fragments remain valuable for the study of Athenian social history and the conventions of Middle Comedy, having been preserved primarily for their linguistic or cultural interest by ancient scholars.
 
 ## Text
 

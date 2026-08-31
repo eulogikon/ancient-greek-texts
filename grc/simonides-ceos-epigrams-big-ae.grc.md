@@ -5,6 +5,7 @@ author: Simonides of Ceos
 eul_wid: big-ae
 eul_aid: big
 canonical: "https://eulogikon.org/works/simonides-ceos-epigrams-big-ae"
+lang: grc
 period: Archaic
 dialect: Koine
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Simonides of Ceos
 
 **eul_wid:** `big-ae` · [HTML page](https://eulogikon.org/works/simonides-ceos-epigrams-big-ae)
-
-The Epigrams constitute a body of short elegiac poems attributed to the poet Simonides of Ceos, who flourished in the late Archaic and early Classical periods. Composed primarily for public inscription on stone monuments, tombs, and statues, these verses served to commemorate individuals and memorialize significant historical events. Their enduring reputation rests on their remarkable concision, vivid imagery, and profound engagement with themes of heroic sacrifice, human transience, and civic duty. No original manuscript collection exists; the poems survive only as fragments quoted by later ancient authors and preserved in Byzantine compilations such as the Greek Anthology. While the traditional corpus includes 261 passages, modern scholarship, applying rigorous criteria of authenticity, considers a core group of 30 to 40 epigrams as likely genuine. The most celebrated examples are those commissioned to honor the Greek warriors who fell at battles like Thermopylae and Marathon during the Persian Wars. These works masterfully fuse personal elegy with public ideology, transforming individual loss into a cornerstone of collective memory. Created for a broad civic audience, they fulfilled the dual purpose of gratifying their patrons and instructing the citizenry, employing the power of poetry to forge a lasting historical legacy.
 
 ## Text
 

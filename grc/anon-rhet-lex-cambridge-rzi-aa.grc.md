@@ -5,6 +5,7 @@ author: Rhetorical Lexicon  Anonymous
 eul_wid: rzi-aa
 eul_aid: rzi
 canonical: "https://eulogikon.org/works/anon-rhet-lex-cambridge-rzi-aa"
+lang: grc
 period: Late Antique
 dialect: Byzantine Technical
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Rhetorical Lexicon  Anonymous
 
 **eul_wid:** `rzi-aa` · [HTML page](https://eulogikon.org/works/anon-rhet-lex-cambridge-rzi-aa)
-
-The Cambridge Rhetorical Lexicon is a brief, anonymous Greek glossary preserved in a single manuscript. It consists of eighteen entries defining rhetorical, literary, and some general terms, serving as a practical reference tool within the tradition of ancient Greek lexicography and rhetorical education. The entries provide definitions for rhetorical and stylistic terminology, clarify figures of speech and tropes, and explain various compositional and argumentative techniques. The work survives solely in Cambridge University Library MS Dd.4.64, a composite codex containing various grammatical texts. Its concise and textually isolated nature suggests it functioned as a minor pedagogical aid or a personal compilation rather than a widely circulated handbook. While the lexicon exerted no discernible influence on the later development of rhetorical theory, it remains a useful specimen of ancient pedagogical lexicography. It offers insight into how technical vocabulary from the rhetorical and literary tradition was understood at the time of its compilation, providing value for historians of ancient scholarship and education.
 
 ## Text
 

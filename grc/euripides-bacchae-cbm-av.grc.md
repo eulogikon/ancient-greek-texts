@@ -5,6 +5,7 @@ author: Euripides
 eul_wid: cbm-av
 eul_aid: cbm
 canonical: "https://eulogikon.org/works/euripides-bacchae-cbm-av"
+lang: grc
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Euripides
 
 **eul_wid:** `cbm-av` · [HTML page](https://eulogikon.org/works/euripides-bacchae-cbm-av)
-
-The Bacchae is a tragedy by the ancient Greek playwright Euripides, composed near the end of his life around 406 BCE and first produced in Athens posthumously. The play dramatizes the myth of the god Dionysus returning to his birthplace, Thebes, to punish his mortal relatives for refusing to acknowledge his divinity. Disguised as a mortal priest of his own cult, Dionysus confronts his young cousin, King Pentheus, who seeks to outlaw the god’s ecstatic worship. Through a series of manipulative encounters, Dionysus lures the skeptical king to spy on the revels of the Theban women, which culminates in Pentheus being torn apart by his own mother, Agave, and the other frenzied female devotees.
-
-Written in approximately 1,400 lines of Attic Greek verse, with choral odes frequently composed in the Doric dialect, the play adheres to the conventional structure of Greek tragedy. Its dramatic episodes, featuring characters such as Pentheus, the aged Cadmus, and the disguised Dionysus, alternate with lyrical passages sung by a chorus of the god’s Lydian followers. The central conflict is widely interpreted as an exploration of the profound tension between rational civic authority and uncontrollable religious ecstasy, examining the catastrophic consequences of impiety and the denial of the divine. The work is also considered a reflection of contemporary Athenian anxieties regarding new religious cults and social instability during the late fifth century BCE. Preserved in its entirety through medieval manuscript traditions, The Bacchae was frequently copied as part of a select group of Euripides' plays used for educational purposes, ensuring its survival into the modern era.
 
 ## Text
 

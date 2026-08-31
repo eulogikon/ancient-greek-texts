@@ -5,6 +5,7 @@ author: Fronto the Rhetorician
 eul_wid: pmi-ad
 eul_aid: pmi
 canonical: "https://eulogikon.org/works/fronto-friends-pmi-ad"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Fronto the Rhetorician
 
 **eul_wid:** `pmi-ad` · [HTML page](https://eulogikon.org/works/fronto-friends-pmi-ad)
-
-"To Friends" is a brief oration by the Roman rhetorician Marcus Cornelius Fronto. Composed in Greek during the mid-2nd century CE, it exemplifies the refined Attic style he championed. The work, structured in two passages, addresses the theme of friendship. While the complete text does not survive independently, it is believed to have functioned as a model of eloquence or a formal address within Fronto's circle of elite students and peers, which included the future emperor Marcus Aurelius, whom he tutored. Fronto's works were largely lost after antiquity and only rediscovered in the 19th century through palimpsests—manuscripts where his texts had been erased and written over. "To Friends" is preserved among these fragmentary collections of his letters and rhetorical exercises. Modern scholars view such works as demonstrations of applied rhetorical principles and the cultural significance of friendship as a social and political bond in the High Roman Empire. Its survival offers a valuable glimpse into the pedagogical and literary practices at the heart of the imperial court.
 
 ## Text
 

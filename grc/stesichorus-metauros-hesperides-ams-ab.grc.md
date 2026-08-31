@@ -5,6 +5,7 @@ author: Stesichorus of Metauros
 eul_wid: ams-ab
 eul_aid: ams
 canonical: "https://eulogikon.org/works/stesichorus-metauros-hesperides-ams-ab"
+lang: grc
 period: Archaic
 dialect: Doric (frg)
 domain: Poetry
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Stesichorus of Metauros
 
 **eul_wid:** `ams-ab` · [HTML page](https://eulogikon.org/works/stesichorus-metauros-hesperides-ams-ab)
-
-The Fragments on the Hesperides constitute a modern scholarly compilation of 230 fragmentary passages attributed to the lyric poet Stesichorus, who flourished in the sixth century BCE. These fragments, which concern the myth of Heracles and his quest for the golden apples, are believed to have originated from a larger choral lyric poem, possibly the Geryoneis, that narrated this labor. Preserved through later quotations, papyrus discoveries, and ancient commentaries, they exemplify Stesichorus's distinctive style of expansive mythological narrative, designed for performance with music and dance.
-
-The fragments treat Heracles' journey to the far western garden of the Hesperides, located beyond the river Tartessos. They explore the completion of a heroic labor, emphasizing themes of endurance and divine mandate, while depicting the marvelous, exotic garden at the edge of the known world. The narrative includes interactions with divine figures such as the Hesperides nymphs, the dragon Ladon, and Atlas, touching upon concepts of cosmic order. Stesichorus's characteristic technique involved a significant narrative expansion of the epic episode, adding considerable descriptive depth and psychological insight to the traditional story.
-
-The works of Stesichorus survive only in fragments, recovered primarily from papyrus discoveries, quotations by later Greek authors like Athenaeus, and references in ancient scholia. The 230 passages on the Hesperides represent a modern editorial gathering of all disparate citations on this theme from across the surviving Stesichorean corpus. His lyric narratives were a major influence on later choral poets, including Pindar and Bacchylides. His dramatic and psychologically detailed treatment of myth served as a crucial bridge between the traditions of epic poetry and the developing techniques of Athenian tragedy. His version of the Hesperides myth contributed significantly to the standard repertoire of Heracles stories in subsequent classical literature and art.
 
 ## Text
 

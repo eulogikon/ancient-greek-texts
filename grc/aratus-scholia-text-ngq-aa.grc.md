@@ -5,6 +5,7 @@ author: Aratus Scholia
 eul_wid: ngq-aa
 eul_aid: ngq
 canonical: "https://eulogikon.org/works/aratus-scholia-text-ngq-aa"
+lang: grc
 period: Hellenistic
 dialect: Technical Koine
 domain: Grammar
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aratus Scholia
 
 **eul_wid:** `ngq-aa` · [HTML page](https://eulogikon.org/works/aratus-scholia-text-ngq-aa)
-
-The Scholia-Aratus are a body of ancient and medieval explanatory notes composed as a prose commentary on the Phaenomena, the third-century BCE astronomical poem by Aratus of Soli. They consist of accumulated marginal and interlinear annotations from various scholars over many centuries, later copied and consolidated into a continuous exegetical work. Their primary function is to elucidate Aratus's poetic text, offering clarification on difficult vocabulary, grammatical constructions, and syntax. The notes also provide extensive astronomical commentary, explaining celestial phenomena and constellations, often incorporating knowledge from later scientific traditions. A significant portion is devoted to mythological etiology, recounting the stories behind the names of constellations, and to source criticism, identifying Aratus’s primary models, such as the prose work of Eudoxus of Cnidus. Occasional remarks also address points of literary and poetic technique.
-
-Transmitted within the medieval manuscript tradition of Aratus's poem, the scholia are preserved in the margins of key codices, most notably the ninth-century Codex Mutinensis. The commentary is not a uniform text; different manuscript families contain varying selections and historical layers of annotation, reflecting the work of multiple hands across different periods. Modern critical editions seek to organize this complex material. As a primary witness to the reception of Aratus’s work, this corpus offers crucial insight into ancient and medieval exegetical practices, the pedagogical history of astronomy, and the transmission of mythological knowledge. Its existence helped sustain the authority of the Phaenomena as a standard textbook for centuries.
 
 ## Text
 

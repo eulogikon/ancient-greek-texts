@@ -5,6 +5,7 @@ author: Theophrastus of Eresus
 eul_wid: ljk-ap
 eul_aid: ljk
 canonical: "https://eulogikon.org/works/theophrastus-eresus-stones-ljk-ap"
+lang: grc
 period: Hellenistic
 dialect: Attic Philosophical
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Theophrastus of Eresus
 
 **eul_wid:** `ljk-ap` · [HTML page](https://eulogikon.org/works/theophrastus-eresus-stones-ljk-ap)
-
-On Stones is a scientific treatise on mineralogy written by Theophrastus of Eresus, the successor to Aristotle as head of the Lyceum. Composed in the early Hellenistic period, likely around 315–314 BCE, it is the oldest surviving European work dedicated to this subject. The text systematically describes stones, earths, and metals across 72 short chapters. It opens with theoretical considerations on the formation of these materials within the earth, proposing they originate from a purified and uniform substance solidified by heat or cold. The work then catalogs specific substances, ranging from precious gems like emeralds to practical materials such as marble and pigments. Its classification is based on observable properties including color, smoothness, density, and reaction to heat, while also detailing geographic origins, mining techniques, and applications in technology, art, and medicine.
-
-The treatise stands as a prime example of the Aristotelian tradition of empirical investigation into the natural world. Modern scholarship interprets it as a foundational expansion of Aristotle's own writings on inorganic matter, intended for the scholarly community of the Lyceum. The work reflects the increased flow of goods and scientific knowledge across Alexander the Great's former empire, noting mineral sources from Egypt to India. The complete text survives through medieval Greek manuscripts, the oldest of which dates to the 10th century CE. While the continuous work is preserved, the precise wording may have been altered through centuries of scribal copying. On Stones remained a central authority on mineralogy for nearly two millennia, profoundly influencing later authors such as Pliny the Elder and early modern natural historians.
 
 ## Text
 

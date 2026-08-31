@@ -5,6 +5,7 @@ author: Arrian of Nicomedia
 eul_wid: pcs-aa
 eul_aid: pcs
 canonical: "https://eulogikon.org/works/arrian-nicomedia-parthica-fragments-pcs-aa"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Arrian of Nicomedia
 
 **eul_wid:** `pcs-aa` · [HTML page](https://eulogikon.org/works/arrian-nicomedia-parthica-fragments-pcs-aa)
-
-The Parthica of Arrian of Nicomedia is a lost historical work known only through fragments preserved by later Byzantine authors. These excerpts are primarily found in the 6th-century antiquarian John Lydus and the 9th-century chronicler George Syncellus. The fragments transmitted by these sources indicate the work's scope extended beyond the era of Alexander the Great to address the history of Parthian-Roman relations. One fragment, cited by John Lydus, discusses the etymology of the name "Parthian," asserting it derives from a Scythian word for "exile" or "newcomer," thereby supporting the view of the Parthians' Scythian origins. Another, preserved by Syncellus, provides a detailed account of the rise of the Parthian Arsacid dynasty. It narrates how the brothers Arsaces and Teridates, satraps of Bactria, revolted against the Macedonian ruler Agathocles after the latter's failed attempt to assault Teridates, leading to Agathocles's death and Arsaces's ascension as king. The work has no independent manuscript tradition and its contents are known solely through these secondary citations. Though fragmentary, the Parthica confirms Arrian authored a substantive history of Parthian affairs and demonstrates that his work remained an authoritative source for Eastern history, consulted by Byzantine compilers centuries after his death.
 
 ## Text
 

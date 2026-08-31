@@ -5,6 +5,7 @@ author: Idaeus of Himera
 eul_wid: czi-aa
 eul_aid: czi
 canonical: "https://eulogikon.org/works/idaeus-himera-testimony-czi-aa"
+lang: grc
 period: Classical
 dialect: Ionic
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Idaeus of Himera
 
 **eul_wid:** `czi-aa` · [HTML page](https://eulogikon.org/works/idaeus-himera-testimony-czi-aa)
-
-Testimony, attributed to Idaeus of Himera, is a title for which no verifiable record exists within the corpus of ancient Greek philosophical literature. Standard scholarly references, including major digital and print repositories dedicated to classical studies, contain no mention of a work by this name or of an author named Idaeus originating from the Sicilian city of Himera. While the name Idaeus appears in various mythological contexts, it is not attested as a philosopher from that city. The work is described as a collection, but its thematic content cannot be detailed due to the absence of any corroborating ancient sources or fragments. There is no known manuscript tradition or reference to such a work in surviving ancient testimonia, rendering its historical transmission entirely unverifiable. This complete lack of attestation indicates that the work is either entirely lost without any trace in the historical record or that the provided attribution is erroneous. Consequently, it remains a phantom entry without a place in the established scholarly understanding of pre-Socratic or later Greek philosophy.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Aristides the Orator
 eul_wid: qwm-bu
 eul_aid: qwm
 canonical: "https://eulogikon.org/works/aristides-orator-king-qwm-bu"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristides the Orator
 
 **eul_wid:** `qwm-bu` · [HTML page](https://eulogikon.org/works/aristides-orator-king-qwm-bu)
-
-To the King is a formal panegyric composed and delivered by the Greek orator Aelius Aristides around 144 CE. Written in Attic Greek, the oration is a direct address celebrating the Roman Emperor Antoninus Pius. Structured into twelve distinct passages, it exemplifies the highly refined rhetorical style characteristic of the Second Sophistic period. The speech elaborately praises the emperor's personal virtues, such as justice and wisdom, while celebrating the peace, security, and prosperity of the Roman Empire under his rule. Modern scholars regard the work as a key document of political ideology, illustrating the reciprocal relationship between the Roman imperial court and the educated Greek elite. It functioned to affirm loyalty, articulate ideals of governance, and showcase the cultural authority of Greek rhetoric within the Roman world. The complete text survives through medieval manuscript traditions, primarily from the 10th century CE and later, and is transmitted as Oration 35 within Aristides' collected works.
 
 ## Text
 

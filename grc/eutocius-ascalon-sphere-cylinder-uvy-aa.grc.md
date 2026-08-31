@@ -5,6 +5,7 @@ author: Eutocius of Ascalon
 eul_wid: uvy-aa
 eul_aid: uvy
 canonical: "https://eulogikon.org/works/eutocius-ascalon-sphere-cylinder-uvy-aa"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Mathematics
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Eutocius of Ascalon
 
 **eul_wid:** `uvy-aa` · [HTML page](https://eulogikon.org/works/eutocius-ascalon-sphere-cylinder-uvy-aa)
-
-Eutocius of Ascalon’s Commentaries on the Books on the Sphere and Cylinder is a detailed, line-by-line exegesis of Archimedes’ foundational mathematical treatise. Composed in Greek around 500–550 CE, the work consists of 116 explanatory notes designed to elucidate Archimedes’ complex geometric proofs concerning the volumes and surface areas of spheres and cylinders. Eutocius systematically breaks down each proposition, clarifies definitions, and occasionally provides historical context or alternative solutions from other mathematicians. The commentary originated within the late Neoplatonic scholarly milieu of Alexandria, where Eutocius studied, and functioned as an advanced textbook for scholars progressing beyond elementary geometry.
-
-Modern scholarship regards the commentary as a significant effort to preserve and systematize classical Greek mathematical knowledge during late antiquity. It serves as a vital historical source because Eutocius quotes and describes solutions from earlier mathematicians, such as Dionysodorus and Diocles, whose original works are otherwise lost. The complete text has survived intact, transmitted through Greek manuscripts from the 9th century onward, typically copied alongside Archimedes’ original treatise. Translated into Arabic during the medieval period and into Latin during the Renaissance, Eutocius’s commentary became the standard guide for understanding Archimedes’ work, influencing mathematicians for over a millennium and playing a key role in the recovery of advanced geometry in the early modern era.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-fb
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-pyrrhus-okg-fb"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-fb` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-pyrrhus-okg-fb)
-
-The Life of Pyrrhus is a biography by the Greek philosopher and historian Plutarch, composed in the early second century CE as part of his Parallel Lives. In this series, Plutarch pairs the Epirote king Pyrrhus with the Roman general Gaius Marius, examining their careers for moral and illustrative purpose. The narrative traces Pyrrhus's lineage from mythical founders of Epirus, including Neoptolemus, son of Achilles, through a line of kings who eventually adopted Hellenic customs. Plutarch focuses on the king's relentless military campaigns, particularly his interventions in the wars of the Diadochi and his famed but costly battles against Rome in southern Italy and Sicily. These engagements, victories achieved at such devastating loss that they rendered further combat unsustainable, gave rise to the enduring term "Pyrrhic victory."
-
-Plutarch structures his account not as a mere chronicle of events but as a character study rich with anecdote and ethical reflection. He portrays Pyrrhus as a brilliant and courageous commander, yet one driven by an insatiable ambition and a restless spirit that prevented him from consolidating his gains. This moral dimension, emphasizing the role of fortune and the dangers of unchecked aspiration, is central to Plutarch's didactic aim of providing models for the ethical improvement of his educated, Greek-speaking audience in the Roman Empire. The complete text survives through medieval manuscript traditions, with key copies dating from the tenth and eleventh centuries. As the principal ancient source for the king's life, Plutarch's biography has been profoundly influential, cementing the historical image of Pyrrhus and the concept of the Pyrrhic victory in Western historical and literary thought.
 
 ## Text
 

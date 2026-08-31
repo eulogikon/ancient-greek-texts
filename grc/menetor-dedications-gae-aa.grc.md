@@ -5,6 +5,7 @@ author: Menetor the Historian
 eul_wid: gae-aa
 eul_aid: gae
 canonical: "https://eulogikon.org/works/menetor-dedications-gae-aa"
+lang: grc
 period: Classical
 dialect: Koine
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Menetor the Historian
 
 **eul_wid:** `gae-aa` · [HTML page](https://eulogikon.org/works/menetor-dedications-gae-aa)
-
-The work Fragments on Dedications is attributed to the historian Menetor, an otherwise obscure figure. It is known solely by its title, which indicates a collection of notes or excerpts concerning votive offerings in Greek sanctuaries. No direct quotations from the text survive. Based on its title and the conventions of its genre, the work likely addressed votive offerings and their dedicatory contexts, the epigraphy of dedicatory inscriptions, and associated local histories and mythological narratives. The work is lost and survives only through a citation in the 10th-century Byzantine encyclopedia, the Suda, which lists Menetor as a historian and records this title; no manuscript tradition exists. It represents a minor example of the established antiquarian genre peri anathematon, which documented sanctuary artifacts and inscriptions. Such compilations served as source material for later historical and geographical writers, though Menetor’s specific influence cannot be traced.
 
 ## Text
 

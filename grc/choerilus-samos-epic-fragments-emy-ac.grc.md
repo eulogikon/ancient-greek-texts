@@ -5,6 +5,7 @@ author: Choerilus of Samos
 eul_wid: emy-ac
 eul_aid: emy
 canonical: "https://eulogikon.org/works/choerilus-samos-epic-fragments-emy-ac"
+lang: grc
 period: Classical
 dialect: Epic (Homeric)
 domain: Epic
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Choerilus of Samos
 
 **eul_wid:** `emy-ac` · [HTML page](https://eulogikon.org/works/choerilus-samos-epic-fragments-emy-ac)
-
-The Epic Fragments constitute the extant remains of the epic poetry of Choerilus of Samos. His principal work was the Persica, a late-fifth-century BCE epic poem composed in Homeric hexameter that sought to narrate the contemporary history of the Persian Wars. The poem's opening, a direct and awkward adaptation of a line from Homer's Odyssey, was emblematic of its overall failure to revitalize the epic form for historical subject matter. Ancient critics derided the work for its lack of inspiration and clumsy imitation of Homeric language and formulae. The surviving sixty-two fragments, often comprising single lines or brief passages, are believed to derive primarily from the Persica and other lost works. They are preserved not through a direct manuscript tradition but as quotations embedded in the works of later grammarians, historians, and commentators such as Athenaeus and Strabo. These fragments occasionally contain mythological references and ethnographic descriptions, likely pertaining to Persian customs and armies. Choerilus represents a significant, though critically unsuccessful, early attempt to adapt traditional epic poetry to recent historical events. His negative reception, later exemplified by Horace's mockery, helped underscore the growing conceptual divide in Greek literature between the domain of poetic myth and the emerging genre of prose history, a distinction firmly established by the works of Herodotus and Thucydides.
 
 ## Text
 

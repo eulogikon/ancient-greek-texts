@@ -1,10 +1,11 @@
 ---
 title: On Roman Embassies to Nations
 title_greek: Περὶ Ῥωμαϊκῶν Πρεσβειῶν πρὸς Ἔθνη
-author: "Menander Protector "
+author: Menander Protector
 eul_wid: viq-ac
 eul_aid: viq
 canonical: "https://eulogikon.org/works/menander-protector-roman-embassies-viq-ac"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: History
@@ -16,13 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Περὶ Ῥωμαϊκῶν Πρεσβειῶν πρὸς Ἔθνη*
 
-**Author:** Menander Protector 
+**Author:** Menander Protector
 
 **eul_wid:** `viq-ac` · [HTML page](https://eulogikon.org/works/menander-protector-roman-embassies-viq-ac)
-
-On Roman Embassies to Nations is a collection of historical excerpts preserving a portion of the lost work of the late 6th-century Byzantine historian Menander Protector. Written in Atticizing Greek around 580–582 CE, the original history is known only through these 46 passages, which were selected for their diplomatic content and compiled in the 10th century for the Byzantine imperial encyclopedia known as the Excerpta de Legationibus. The excerpts cover the pivotal period from 558 to 582 CE, focusing on the Eastern Roman Empire's intricate foreign relations during the reigns of Justinian I and his successors. They provide detailed accounts of negotiations, treaties, and ambassadorial exchanges with major neighboring powers, including the Sassanian Persian Empire, the Avars, and the Turkic Khaganate.
-
-The content is characterized by its emphasis on statecraft, often recording the precise terms of treaties, the rhetoric of diplomatic speeches, and the ceremonial protocols governing interactions between empires. A notable example includes the protracted negotiations concerning the contested territory of Lazica, illustrating the blend of military stalemate and diplomatic maneuvering that defined Roman-Persian relations. The work does not survive as a continuous narrative but as a series of fragmentary snapshots, reflecting the selective interests of its later compilers. Despite this fragmented transmission, the collection remains an indispensable source for understanding late antique diplomacy, revealing how the Byzantine Empire employed sophisticated diplomatic tools to manage military threats across multiple frontiers. It was likely composed for an educated elite audience with interests in contemporary politics and rhetoric, and its preservation centuries later indicates its enduring value as a repository of diplomatic precedent and formal oratory.
 
 ## Text
 

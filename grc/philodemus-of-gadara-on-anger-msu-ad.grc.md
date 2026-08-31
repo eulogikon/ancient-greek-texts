@@ -5,6 +5,7 @@ author: Philodemos of Gadara
 eul_wid: msu-ad
 eul_aid: msu
 canonical: "https://eulogikon.org/works/philodemus-of-gadara-on-anger-msu-ad"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: Philosophy

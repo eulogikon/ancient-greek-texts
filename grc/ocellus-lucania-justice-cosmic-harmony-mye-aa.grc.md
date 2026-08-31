@@ -5,6 +5,7 @@ author: Ocellus of Lucania II
 eul_wid: mye-aa
 eul_aid: mye
 canonical: "https://eulogikon.org/works/ocellus-lucania-justice-cosmic-harmony-mye-aa"
+lang: grc
 period: Hellenistic
 dialect: Mixed Dialects (frg)
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Ocellus of Lucania II
 
 **eul_wid:** `mye-aa` · [HTML page](https://eulogikon.org/works/ocellus-lucania-justice-cosmic-harmony-mye-aa)
-
-On Justice and Cosmic Harmony is a fragmentary philosophical treatise attributed to Ocellus of Lucania, a legendary student of Pythagoras. Modern scholarship identifies it as a pseudepigraphic work, likely composed in the 2nd or 1st century BCE during a revival of Pythagorean thought. The text survives only in two passages preserved by the 5th-century anthologist Stobaeus. Written in Attic Greek, it presents justice not merely as a human virtue but as a foundational cosmic principle. The argument posits that justice is the divine force maintaining harmony, balance, and order throughout all levels of existence, from the celestial motions of the cosmos to the structure of the human soul and society. It describes justice as the mother and nurse of all other virtues, essential for temperance, courage, and wisdom. This vision synthesizes Pythagorean, Platonic, and Aristotelian ideas, proposing that human ethics should be derived from the observable order of the universe. The treatise serves as a significant example of Hellenistic philosophical syncretism, illustrating how later thinkers employed the authority of ancient figures to explore concepts of natural law and cosmic morality.
 
 ## Text
 

@@ -1,10 +1,11 @@
 ---
 title: "Phoronis, Fragments"
 title_greek: Φορωνίς
-author: "Phoronis "
+author: Phoronis
 eul_wid: axw-aa
 eul_aid: axw
 canonical: "https://eulogikon.org/works/phoronis-fragments-axw-aa"
+lang: grc
 period: Archaic
 dialect: Epic (Homeric)
 domain: Epic
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Φορωνίς*
 
-**Author:** Phoronis 
+**Author:** Phoronis
 
 **eul_wid:** `axw-aa` · [HTML page](https://eulogikon.org/works/phoronis-fragments-axw-aa)
-
-The Phoronis is a lost epic poem belonging to the early Greek Epic Cycle, surviving only in fragments and later testimonia. Its narrative centered on the Argive king Phoroneus, a primordial culture-hero considered a founder of human society. The extant fragments indicate the poem dealt with the earliest mythological history of the Argolid region. One significant fragment describes the Idaean Dactyls, mythical beings skilled in metalworking, discovering iron in the mountains and forging it with fire. Other references connect the Argive narrative to broader Panhellenic myth, including the triple-bodied monster Geryon from the cycle of Heracles. The work is preserved solely through quotations and summaries in later authors such as Strabo, Hesychius, and Clement of Alexandria. The Phoronis provided a foundational myth for Argos, asserting the region's antiquity and prestige within Greek mythology. Its account of Phoroneus as a civilizer was adopted by later historians and mythographers, embedding Argos's claimed primacy into the broader tradition of early Greek history.
 
 ## Text
 

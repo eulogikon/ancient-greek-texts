@@ -5,6 +5,7 @@ author: Polyaenus of Macedonia
 eul_wid: qok-ac
 eul_aid: qok
 canonical: "https://eulogikon.org/works/polyaenus-macedonia-governance-qok-ac"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Polyaenus of Macedonia
 
 **eul_wid:** `qok-ac` · [HTML page](https://eulogikon.org/works/polyaenus-macedonia-governance-qok-ac)
-
-The Fragments on Macedonian Governance is a lost work by Polyaenus of Macedonia, known only through a handful of brief excerpts preserved by later authors. These fragments, cited in Athenaeus’s Deipnosophistae and a scholion on Aeschines, contain political and historical notes on Macedonian customs. The work is distinct from the more famous Stratagems compiled by Polyaenus of Macedon in the 2nd century CE. The extant passages describe aspects of Macedonian institutions and royal practice, including the custom of seating at symposia according to military rank rather than social status and the use of a specific silver vessel for libations by Macedonian kings. The treatise survives solely through these quotations and has no independent manuscript tradition, leaving its original length, scope, and full structure unknown. Its primary value lies in being a rare, fragmentary source on Macedonian customs and political life. While its direct influence was minimal, its citation by Athenaeus provides modern scholarship with glimpses of potentially authentic Macedonian court practices and social hierarchy.
 
 ## Text
 

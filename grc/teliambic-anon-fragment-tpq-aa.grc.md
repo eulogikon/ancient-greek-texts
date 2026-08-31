@@ -5,6 +5,7 @@ author: Teliambic Fragment Anonymous
 eul_wid: tpq-aa
 eul_aid: tpq
 canonical: "https://eulogikon.org/works/teliambic-anon-fragment-tpq-aa"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Teliambic Fragment Anonymous
 
 **eul_wid:** `tpq-aa` · [HTML page](https://eulogikon.org/works/teliambic-anon-fragment-tpq-aa)
-
-The Teliambic Fragment is an anonymous work of Greek poetry, known only by its title in modern scholarly catalogs. The term "teliambic" suggests a specific or variant form of iambic meter, a poetic form traditionally associated with satire, invective, and personal expression. The work is classified as a fragment, and no continuous text or substantive content from it survives. Its preservation is limited to an entry in digital repositories of ancient texts, which list no manuscript sources or recoverable lines. Consequently, its significance is entirely bibliographical, representing a lost artifact within the broader iambic tradition whose original themes, structure, and authorship remain irrecoverable.
 
 ## Text
 

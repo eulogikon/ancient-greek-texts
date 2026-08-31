@@ -5,6 +5,7 @@ author: Eustathius of Thessalonica
 eul_wid: xpw-ac
 eul_aid: xpw
 canonical: "https://eulogikon.org/works/eustathius-thessalonica-commentary-odyssey-xpw-ac"
+lang: grc
 period: Byzantine
 domain: Grammar
 format: Treatise

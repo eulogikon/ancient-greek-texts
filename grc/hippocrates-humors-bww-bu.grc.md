@@ -5,6 +5,7 @@ author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-bu
 eul_aid: bww
 canonical: "https://eulogikon.org/works/hippocrates-humors-bww-bu"
+lang: grc
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hippocrates and the Hippocratic Corpus
 
 **eul_wid:** `bww-bu` · [HTML page](https://eulogikon.org/works/hippocrates-humors-bww-bu)
-
-On Humors is a medical treatise from the Hippocratic Corpus, a collection of ancient Greek medical works traditionally, though not definitively, attributed to the physician Hippocrates. Composed in Ionic Greek around 430–400 BCE, the text is a concise and systematic guide structured in eighteen short passages. It presents the foundational theory of the four bodily humors: blood, phlegm, yellow bile, and black bile. The work posits that health is a state of equilibrium among these humors, while disease arises from their imbalance. It offers practical therapeutic advice, linking dietary and lifestyle regimens to the seasons and a patient's age as means to restore or maintain this vital balance.
-
-The treatise survives in full through the medieval manuscript tradition of the Hippocratic Corpus. Modern scholarship regards it as a pivotal text for the humoral theory that later became central to Western medicine. It appears to have been written for practicing physicians or students, reflecting a Classical Greek intellectual shift toward seeking naturalistic explanations for health and disease. The concepts it systematically outlined were later expanded and systematized by Galen, ultimately dominating medical thought for well over a millennium.
 
 ## Text
 

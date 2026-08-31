@@ -5,6 +5,7 @@ author: Alexander of Tralles
 eul_wid: vcc-ae
 eul_aid: vcc
 canonical: "https://eulogikon.org/works/alexander-tralleis-fevers-vcc-ae"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alexander of Tralles
 
 **eul_wid:** `vcc-ae` · [HTML page](https://eulogikon.org/works/alexander-tralleis-fevers-vcc-ae)
-
-On Fevers is a medical treatise by the sixth-century physician Alexander of Tralles. Structured as a practical manual in seventy-five concise passages, it provides a systematic classification and treatment guide for fevers, a central diagnostic category in ancient medicine. The work methodically details various fever types, including ephemeral, hectic, and the periodic tertian and quartan fevers associated with malaria, describing their perceived causes, symptomatic progression, and recommended therapies.
-
-The treatise is grounded in the advanced humoral theory of late antiquity, wherein fevers were understood as a symptom of imbalance among the body's four fundamental fluids. Alexander synthesizes the authoritative doctrines of earlier medical figures, most prominently Galen, with insights drawn from his own extensive clinical practice. His therapeutic recommendations are comprehensive, encompassing detailed dietary regimens, recipes for compound drugs, and prescribed physical treatments. Modern scholarship regards the work as a critical compilation intended for practical use by physicians, exemplifying Alexander's empirical and pragmatic approach to medicine.
-
-The text survives in full as part of Alexander's larger medical corpus, transmitted through Greek manuscripts within the Byzantine tradition. His complete works were later translated into Latin, Syriac, and Arabic, securing his influence on medical theory and practice in both the medieval Islamic world and Europe.
 
 ## Text
 

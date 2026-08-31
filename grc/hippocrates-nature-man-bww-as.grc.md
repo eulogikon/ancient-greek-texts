@@ -5,6 +5,7 @@ author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-as
 eul_aid: bww
 canonical: "https://eulogikon.org/works/hippocrates-nature-man-bww-as"
+lang: grc
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hippocrates and the Hippocratic Corpus
 
 **eul_wid:** `bww-as` · [HTML page](https://eulogikon.org/works/hippocrates-nature-man-bww-as)
-
-On the Nature of Man is a seminal medical treatise from the Hippocratic Corpus, a body of works attributed to the ancient Greek physician Hippocrates. Composed in Ionic Greek around 400 BCE, the work presents a structured argument across fifteen sections, systematically introducing the theory of the four humors. It opens by directly refuting contemporary philosophers who posited that the human body was composed of a single elemental substance, such as air or fire. The author contends that such monistic theories are speculative and lack practical utility for medicine. Instead, the treatise proposes that health is determined by the balance of four distinct bodily fluids: blood, phlegm, yellow bile, and black bile. It correlates each humor with a specific season and describes how their natural fluctuations or imbalances are the fundamental causes of disease, thereby establishing a practical framework for prognosis and treatment.
-
-A key product of the Hippocratic school on the island of Cos, the treatise exemplifies the period's shift toward empirical observation and logical deduction over pure philosophical speculation. While traditionally ascribed to Hippocrates himself, some ancient sources and modern scholarship suggest authorship by his student and son-in-law, Polybus. The work survives in its complete form primarily due to its profound and enduring influence. It was later championed and extensively commented upon by the physician Galen in the 2nd century CE. Galen's authoritative endorsement was instrumental in cementing the four-humor theory as the dominant model of human physiology and pathology in Western medicine for nearly two millennia.
 
 ## Text
 

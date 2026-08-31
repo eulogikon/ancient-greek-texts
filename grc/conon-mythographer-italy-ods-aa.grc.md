@@ -5,6 +5,7 @@ author: Conon the Mythographer
 eul_wid: ods-aa
 eul_aid: ods
 canonical: "https://eulogikon.org/works/conon-mythographer-italy-ods-aa"
+lang: grc
 period: Roman
 dialect: Attic
 domain: History
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Conon the Mythographer
 
 **eul_wid:** `ods-aa` · [HTML page](https://eulogikon.org/works/conon-mythographer-italy-ods-aa)
-
-The Fragments on Italy comprises four prose passages attributed to Conon the Mythographer, preserved exclusively within the 9th-century Bibliotheca of the Byzantine patriarch Photius. Photius summarizes fifty narratives from Conon’s work, likely titled Diegeseis (“Narratives”), which condenses mythological stories and offers alternative versions with etiological explanations connected to the Greek world. The fragments exemplify core themes of Hellenistic mythography, including mythological etiology, such as explaining Italian place names, rites, and landmarks through myth. They also detail the heroic wanderings and foundations of Greek heroes in Italy, bridging Greek myth with Italic and Roman traditions while providing characteristic variations of standard myths found in mythographical handbooks.
-
-Conon’s original work is lost and survives solely through Photius’s epitome, with the Italian fragments embedded within his summaries. There is no independent manuscript tradition for the text. Composed for King Archelaus of Cappadocia during the early Imperial period, the work reflects the contemporary systematization of Greek myth and illustrates the patronage of Greek letters within the eastern Roman Empire. Modern scholars consult it as a source for mythographic variants and for insights into the geographic dimensions of mythology and Augustan-era literary culture.
 
 ## Text
 

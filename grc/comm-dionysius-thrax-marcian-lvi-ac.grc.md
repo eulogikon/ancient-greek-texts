@@ -5,6 +5,7 @@ author: Commentary on Dionysius Thrax
 eul_wid: lvi-ac
 eul_aid: lvi
 canonical: "https://eulogikon.org/works/comm-dionysius-thrax-marcian-lvi-ac"
+lang: grc
 period: Hellenistic
 dialect: Technical Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Commentary on Dionysius Thrax
 
 **eul_wid:** `lvi-ac` · [HTML page](https://eulogikon.org/works/comm-dionysius-thrax-marcian-lvi-ac)
-
-The Marcian Scholia is an anonymous collection of 151 explanatory notes, written in Koine Greek, that provides a detailed commentary on the Art of Grammar, the foundational Greek textbook by Dionysius Thrax. The work systematically follows Dionysius’s text, offering glosses, definitions, and illustrative examples to clarify its concise rules on topics such as the parts of speech, pronunciation, and literary style. The author is identified only as "Marcian" in the manuscript tradition, and the date of composition is uncertain, though it is generally thought to have been compiled in a late antique or early Byzantine educational context. Created within a long tradition of interpreting Dionysius's work, which was central to grammatical study for centuries, the scholia function as a pedagogical tool, likely intended for advanced students and teachers, that preserves and synthesizes debates from earlier grammarians. It serves as a significant repository of grammatical knowledge from the transition between the ancient and medieval worlds. The text survives in its entirety through medieval Byzantine manuscripts, transmitted as part of the larger manuscript tradition surrounding Dionysius Thrax's Art of Grammar. However, its precise original form is uncertain, as the notes have been subject to interpolation and conflation with other commentaries over centuries of copying.
 
 ## Text
 

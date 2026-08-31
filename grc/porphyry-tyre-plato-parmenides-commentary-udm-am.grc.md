@@ -5,6 +5,7 @@ author: Porphyry of Tyre
 eul_wid: udm-am
 eul_aid: udm
 canonical: "https://eulogikon.org/works/porphyry-tyre-plato-parmenides-commentary-udm-am"
+lang: grc
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Porphyry of Tyre
 
 **eul_wid:** `udm-am` · [HTML page](https://eulogikon.org/works/porphyry-tyre-plato-parmenides-commentary-udm-am)
-
-Porphyry of Tyre's Commentary on Plato's Parmenides is a lost philosophical treatise from the third century CE. Composed in Greek during the author's period of study under Plotinus in Rome, the work provided a detailed exegesis of one of Plato's most abstract and demanding dialogues. Plato's Parmenides investigates fundamental questions of ontology through a series of intricate logical deductions concerning the relationships between unity and plurality. Porphyry's commentary sought to elucidate these dense metaphysical arguments for an audience of advanced philosophical students. Although the original text does not survive intact, its content is partially recoverable through fragments and testimonia preserved by later Neoplatonic philosophers, most notably Damascius in the sixth century. These sources indicate that Porphyry organized his analysis around fourteen specific lemmata, or passages, from the Platonic dialogue. His interpretive efforts, which were later developed and systematized by his successors, played a crucial role in establishing the Parmenides as the preeminent text for metaphysical inquiry within the later Neoplatonic tradition, which came to view its arguments as a comprehensive map of reality descending from a supreme, ineffable principle to the manifold physical world.
 
 ## Text
 

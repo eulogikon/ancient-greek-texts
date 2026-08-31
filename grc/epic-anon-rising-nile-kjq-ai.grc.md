@@ -5,6 +5,7 @@ author: Epic Work  Anonymous
 eul_wid: kjq-ai
 eul_aid: kjq
 canonical: "https://eulogikon.org/works/epic-anon-rising-nile-kjq-ai"
+lang: grc
 period: Hellenistic
 dialect: Epic (Homeric) (frg)
 domain: Epic
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Epic Work  Anonymous
 
 **eul_wid:** `kjq-ai` · [HTML page](https://eulogikon.org/works/epic-anon-rising-nile-kjq-ai)
-
-The Poem on the Rising Nile is a lost anonymous Greek work, known only by its title, which indicates it was a poetic composition, most likely in hexameter verse, focusing on the Nile River’s annual flood. This subject places it within the established Greco-Roman tradition of treating the Nile as a subject of intertwined scientific inquiry and mythological speculation. Based on its title and literary context, the poem would have addressed the natural phenomenon and geographical description of the Nile’s inundation, its paramount agricultural and civilizational importance for Egypt, and likely offered etiological or mythological explanations for the flood’s cause, potentially involving the river god Nilus. The work is not attested in any surviving manuscripts or direct quotations; its existence is inferred solely from its title, which may derive from an ancient catalogue or a fragmentary reference. As a didactic epic on a geographical theme, the poem would have participated in a recognized sub-genre exemplified by works such as Aratus’s Phaenomena, reflecting the enduring Greco-Roman fascination with the Nile as a perpetual source of natural philosophical speculation and cultural wonder.
 
 ## Text
 

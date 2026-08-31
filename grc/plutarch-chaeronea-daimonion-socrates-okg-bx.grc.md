@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-bx
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-daimonion-socrates-okg-bx"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-bx` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-daimonion-socrates-okg-bx)
-
-Plutarch’s On the Daimonion of Socrates is a philosophical dialogue investigating the divine sign, or daimonion, famously associated with Socrates. Presented as a conversation primarily between the characters Simmias and Galaxidorus, the work systematically explores various Platonic and Middle Platonic explanations for this enigmatic phenomenon. The dialogue considers whether the sign should be understood as a form of divine divination, a personal guardian spirit, or an internal faculty of Socrates’s own soul. It is a complete text preserved within Plutarch’s larger collection known as the Moralia.
-
-The discussion examines several interconnected themes central to Plutarch’s philosophical and religious thought. A primary focus is the nature and role of daimones as intermediary beings occupying a position between gods and mortals, a concept crucial to Middle Platonic theology. The dialogue delves into the mechanisms of divine communication and the psychology underlying Socratic divination, questioning how such a private sign could function. This inquiry naturally extends to the broader relationship between divine providence and human virtue, probing how supernatural guidance interacts with ethical character and rational choice. Throughout, the work offers a distinctively Middle Platonic interpretation of the Socratic tradition, reframing the historical account within a developed metaphysical framework.
-
-The text survives through the medieval manuscript tradition of the Moralia, with a key witness being the 14th-century Codex Laurentianus 80.19. It is included in all major modern critical editions, such as the Teubner and Loeb Classical Library series. As a primary source for Middle Platonic theology and the post-classical reception of Socrates, the dialogue holds significant philosophical importance. Its detailed theories concerning intermediary spirits exerted a notable influence on later Neoplatonic thought. The work remains indispensable for understanding Plutarch’s integration of philosophy and religion and for situating his eclectic doctrines within the broader development of the Platonic tradition.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Sappho of Lesbos
 eul_wid: apu-ad
 eul_aid: apu
 canonical: "https://eulogikon.org/works/sappho-lesbos-epigrams-apu-ad"
+lang: grc
 period: Archaic
 dialect: Aeolic
 domain: Poetry
@@ -19,14 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Sappho of Lesbos
 
 **eul_wid:** `apu-ad` · [HTML page](https://eulogikon.org/works/sappho-lesbos-epigrams-apu-ad)
-
-The epigrams attributed to Sappho of Lesbos consist of twelve short poetic passages. In the ancient world, an epigram was originally a verse inscription intended for monuments or votive offerings, conventionally composed in elegiac couplets. However, no surviving ancient source references a distinct collection of Sappho’s work under this specific title. Her extant corpus is fragmentary lyric poetry, organized in modern scholarly editions by fragment number rather than by a separate category of epigrams.
-
-The themes present in these epigrammatic passages align with Sappho’s broader lyric concerns, which include intense personal emotion, often expressing love and desire directed toward women; invocations to deities such as Aphrodite; lamentation for separation and absence; imagery drawn from the natural world, including flora, the sea, and celestial bodies, used to mirror emotional states; and contexts involving ritual and ceremony, such as weddings or religious observances.
-
-Sappho’s poetry was originally arranged in nine books according to meter but survives only in fragments. These fragments have been transmitted through later quotations by other authors, papyrus discoveries such as the Cologne Papyrus, and medieval parchment copies. No manuscript preserves a discrete work titled Epigrams; the twelve passages likely represent a modern editorial grouping of fragments that possess epigrammatic qualities of brevity and pointed expression.
-
-Sappho, celebrated in antiquity as the “Tenth Muse,” exerted a profound influence on later Greek and Roman literature. The personal voice and concision found in her fragments are considered precursors to the developed Hellenistic epigram tradition. This influence, however, derives from her lyric poetry as a whole, not from an independently attested collection of epigrams.
 
 ## Text
 

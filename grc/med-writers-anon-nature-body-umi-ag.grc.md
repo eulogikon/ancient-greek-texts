@@ -5,6 +5,7 @@ author: Medical Writers Anonymous
 eul_wid: umi-ag
 eul_aid: umi
 canonical: "https://eulogikon.org/works/med-writers-anon-nature-body-umi-ag"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Medical Writers Anonymous
 
 **eul_wid:** `umi-ag` · [HTML page](https://eulogikon.org/works/med-writers-anon-nature-body-umi-ag)
-
-On the Nature of the Human Body is a title attributed to an unattested medical treatise within the ancient Greek tradition. While no work bearing this precise name is found among the major surviving collections, such as the Hippocratic Corpus, its proposed subject matter aligns closely with the core concerns of that body of literature. The title suggests a systematic inquiry into the fundamental composition and principles of human physiology. Comparable extant works, such as On the Nature of Man, which details the theory of the four humors, and On Flesh, which explores anatomical concepts, provide a model for the likely content of such a treatise. It would presumably address the elemental or humoral constitution of the body, the natural causes governing health and disease, and the relationship between the human organism and its environment.
-
-The manuscript tradition for this specific title is unknown, as it is not identified in canonical sources. However, the broader transmission of Greek medical texts, particularly the Hippocratic Corpus, occurred through medieval manuscript copies, often compiled into collections where some works survive only fragmentarily or as referenced titles. If a treatise corresponding to this title did exist, its conceptual framework would belong to the pivotal tradition that established naturalistic explanations for bodily functions, moving medicine away from supernatural causation. This intellectual foundation, centered on elements and humors, was later systematized and expanded by Galen, thereby shaping the course of Western medical theory for centuries.
 
 ## Text
 

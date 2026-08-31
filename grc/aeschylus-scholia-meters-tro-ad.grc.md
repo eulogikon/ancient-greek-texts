@@ -5,6 +5,7 @@ author: Aeschylus Scholia
 eul_wid: tro-ad
 eul_aid: tro
 canonical: "https://eulogikon.org/works/aeschylus-scholia-meters-tro-ad"
+lang: grc
 period: Late Antique
 dialect: Byzantine Greek
 domain: Grammar
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aeschylus Scholia
 
 **eul_wid:** `tro-ad` · [HTML page](https://eulogikon.org/works/aeschylus-scholia-meters-tro-ad)
-
-The Scholia on the Meters of Aeschylus is a specialized collection of 129 scholia devoted to the metrical analysis of the Aeschylean dramatic corpus. It isolates technical commentary on poetic meter from the broader exegetical material found in the margins of medieval manuscripts, focusing on the identification and discussion of the poet's metrical practice. The notes systematically identify the use of iambic trimeters, anapaests, and the complex lyric meters of the choral odes, while also noting metrical irregularities and colometric divisions. The content includes the explanation of specific metrical forms such as dactylo-epitrite or aeolic patterns, offers textual criticism concerning line division and proposes emendations based on perceived metrical faults, and occasionally analyzes the link between a chosen meter and its dramatic function, such as a marching rhythm or a choral lament.
-
-The scholia survive embedded within the principal medieval manuscript tradition of Aeschylus, most notably in the margins of the 10th-century Mediceus and 11th-century Palatinus codices. The compilation into 129 discrete passages is a modern editorial construct that extracts this concentrated technical material from the fuller scholiastic corpus. The notes themselves ultimately derive from the lost scholarly works of Alexandrian grammarians, representing a filtered transmission of advanced Hellenistic scholarship on Greek metrics. This metrical commentary served as a crucial conduit for preserving this specialized knowledge for Byzantine and later Western philologists. It remains a foundational resource for modern textual criticism and for studies of Aeschylean meter, directly informing the apparatus and decisions of contemporary scholarly editions.
 
 ## Text
 

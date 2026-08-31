@@ -5,6 +5,7 @@ author: Xenophon of Athens
 eul_wid: ezq-ae
 eul_aid: ezq
 canonical: "https://eulogikon.org/works/xenophon-athens-ways-means-ezq-ae"
+lang: grc
 period: Classical
 dialect: Attic
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Xenophon of Athens
 
 **eul_wid:** `ezq-ae` · [HTML page](https://eulogikon.org/works/xenophon-athens-ways-means-ezq-ae)
-
-Ways and Means is a prose treatise on political economy written by the Athenian historian Xenophon around 355 BCE. The work presents a series of practical policy recommendations aimed at resolving a fiscal crisis in Athens following its costly and unsuccessful Social War. Addressed directly to the citizen assembly, it reflects a pivotal moment when the city’s imperial ambitions had faded and it sought new foundations for prosperity. Xenophon systematically argues that Athens can increase its public revenue not through imperial tribute or burdensome taxes, but by better leveraging its inherent natural and commercial advantages. His specific proposals include attracting more foreign residents with legal and economic incentives, expanding maritime trade by improving port facilities and merchant protections, and developing the state-owned silver mines at Laurium through public investment and a managed labor force. The complete text, structured as 85 concise passages, is interpreted by modern scholars as a significant shift in Xenophon’s later thought toward domestic policy and public finance. It stands as one of the earliest extant works devoted to economic statecraft, offering a vision where Athenian stability and influence would be restored through peace, commercial attractiveness, and economic self-sufficiency rather than military force.
 
 ## Text
 

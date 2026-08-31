@@ -5,6 +5,7 @@ author: Historical Fragments  Anonymous
 eul_wid: mmg-ah
 eul_aid: mmg
 canonical: "https://eulogikon.org/works/anon-hist-frag-boundaries-city-mmg-ah"
+lang: grc
 period: Hellenistic
 dialect: Mixed Dialects (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Historical Fragments  Anonymous
 
 **eul_wid:** `mmg-ah` · [HTML page](https://eulogikon.org/works/anon-hist-frag-boundaries-city-mmg-ah)
-
-The work On the Boundaries of the City is known only from a single fragment preserved by the late antique lexicographer Hesychius of Alexandria. The fragment provides a definition, stating that "Amphictyones" refers to those who dwell around the boundaries of the city. This citation indicates a prose treatise, likely antiquarian or topographical in nature, which dealt with the territorial limits of a city. Based on its title and the surviving gloss, the work addressed topics related to civic space, including the topography and legal demarcation of city boundaries, the social or legal status of populations inhabiting border regions, and the etymology and use of territorial terms. The text is entirely lost except for this one quotation, surviving solely through its inclusion in Hesychius’s Lexicon with no independent manuscript tradition. While its direct influence is minimal, the fragment contributes to the lexicographical record of ancient Greek. It preserves a specific, topographical definition of "Amphictyones," distinguishing it from the term’s more common association with religious leagues, and reflects a scholarly interest in the precise vocabulary of civic territory.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Aristophanes of Byzantium
 eul_wid: klo-ah
 eul_aid: klo
 canonical: "https://eulogikon.org/works/aristophanes-byzantium-proverbs-klo-ah"
+lang: grc
 period: Hellenistic
 dialect: Technical Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristophanes of Byzantium
 
 **eul_wid:** `klo-ah` · [HTML page](https://eulogikon.org/works/aristophanes-byzantium-proverbs-klo-ah)
-
-The Proverbs is a lost scholarly treatise by the Hellenistic grammarian Aristophanes of Byzantium, composed around 200 BCE during his tenure as head of the Library of Alexandria. As part of the Alexandrian project to systematize classical Greek literature, the work compiled and elucidated a wide array of Greek proverbial sayings. It likely organized these proverbs alphabetically or thematically, tracing their literary origins to authors such as Homer and providing explanatory notes on their meanings and contexts of use. The treatise survives only in fragments, with fourteen excerpts preserved through quotations in later Byzantine reference works like the Suda and in ancient scholia on poetic texts. These fragments reveal a work of meticulous scholarship, designed as a specialized reference tool for librarians and scholars to decode obscure phrases found in older literary works. Although the original treatise is no longer extant, its scholarly approach and methodology exerted a significant influence on subsequent, more comprehensive collections of Greek proverbs compiled in later antiquity.
 
 ## Text
 

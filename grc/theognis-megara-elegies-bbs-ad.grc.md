@@ -5,6 +5,7 @@ author: Theognis of Megara
 eul_wid: bbs-ad
 eul_aid: bbs
 canonical: "https://eulogikon.org/works/theognis-megara-elegies-bbs-ad"
+lang: grc
 period: Archaic
 dialect: Ionic Elegiac
 domain: History
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Theognis of Megara
 
 **eul_wid:** `bbs-ad` · [HTML page](https://eulogikon.org/works/theognis-megara-elegies-bbs-ad)
-
-The Elegies is a corpus of ancient Greek poetry attributed to Theognis of Megara, traditionally dated to the sixth century BCE. Composed in elegiac couplets, the work is not a single, coherent poem but an anthology of approximately 1,400 lines. Its most distinctive and likely authentic core consists of verses addressed to a youth named Cyrnus, offering gnomic counsel on political conduct and the preservation of aristocratic virtues such as loyalty, moderation, and discernment amid social upheaval. Scholars generally interpret these sections as a direct reflection of the poet's experience of factional strife and democratic challenges to the traditional nobility in his native Megara. The poetry was composed for performance at the symposium, the aristocratic drinking party that served as a central institution for political bonding and cultural expression.
-
-The collection as preserved is a composite work. While it centers on a nucleus of poetry by Theognis, it incorporates a significant quantity of material from other poets and later periods, effectively forming a textbook or commonplace book of elegiac wisdom. The text survives largely intact through its inclusion in the medieval manuscripts of the Greek Anthology. A primary concern of modern scholarship remains the difficult task of distinguishing the authentic verses of Theognis from later additions. Despite this complex transmission, the corpus as a whole provides an invaluable window into the ethical preoccupations, social tensions, and political thought of the Archaic Greek world.
 
 ## Text
 

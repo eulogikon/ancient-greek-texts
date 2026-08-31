@@ -5,6 +5,7 @@ author: Aesop the Fabulist
 eul_wid: aqo-ad
 eul_aid: aqo
 canonical: "https://eulogikon.org/works/aesop-aphthonius-fables-aqo-ad"
+lang: grc
 period: Archaic
 dialect: Mixed Dialects
 domain: Fiction
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aesop the Fabulist
 
 **eul_wid:** `aqo-ad` · [HTML page](https://eulogikon.org/works/aesop-aphthonius-fables-aqo-ad)
-
-The Fables of Aphthonius the Rhetorician is a title that refers not to an independent collection of stories but to the model fable included within the Progymnasmata, a fourth-century CE rhetorical textbook authored by Aphthonius of Antioch. In this influential educational work, the fable, or mythos, is presented as the first preliminary exercise for students of rhetoric. Aphthonius provides a definition of the literary form and offers a concise example, the well-known fable of "The Cicada and the Ant." This narrative illustrates classic Aesopic themes, using animal characters to deliver moral instruction and social critique, emphasizing practical wisdom and the inevitable consequences of one's actions, such as the perils of idleness contrasted with the rewards of industriousness. While the tradition of Aesopic fables was transmitted through various prose and poetic collections in antiquity, the example from Aphthonius circulated exclusively as an integral component of his rhetorical manual. The Progymnasmata itself was preserved extensively throughout the Byzantine era and remained a standard textbook into the Renaissance, ensuring the pedagogical use and formal standardization of the fable within Western education for centuries and contributing significantly to the enduring literary legacy of Aesopic wisdom.
 
 ## Text
 

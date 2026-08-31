@@ -5,6 +5,7 @@ author: Hippon of Samos
 eul_wid: cui-aa
 eul_aid: cui
 canonical: "https://eulogikon.org/works/hippon-samos-testimonies-cui-aa"
+lang: grc
 period: Classical
 dialect: Ionic (frg)
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hippon of Samos
 
 **eul_wid:** `cui-aa` · [HTML page](https://eulogikon.org/works/hippon-samos-testimonies-cui-aa)
-
-The Testimonies is a modern scholarly compilation of fragmentary doctrines attributed to Hippon of Samos, a 5th-century BCE Pre-Socratic philosopher. No complete treatise written by Hippon survives; our knowledge derives entirely from approximately nineteen separate passages preserved by later ancient commentators, including Aristotle, Theophrastus, and the comic poet Cratinus. These collected testimonia report that Hippon, working within the Ionian tradition of natural philosophy, identified water or moisture as the fundamental substance of the cosmos and the human soul, thereby linking his cosmology directly to biological processes. The fragments also document his theories concerning the nature of the sea, the causes of earthquakes, and explanations for human reproduction and disease. Hippon wrote in prose, and modern interpretation views his emphasis on a moist principle as an attempt to construct a unified, materialist account of existence encompassing the physical world, life, and consciousness. His original writings are entirely lost, and the surviving reports are frequently critical or dismissive; Aristotle, for example, mentioned him only to categorize him as a minor thinker. Consequently, while Hippon’s historical significance resides in his representation of a biologically oriented strand of early Greek materialist thought, his direct philosophical influence appears to have been limited.
 
 ## Text
 

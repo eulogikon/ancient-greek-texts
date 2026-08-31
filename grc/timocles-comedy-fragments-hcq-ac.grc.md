@@ -5,6 +5,7 @@ author: Timocles B Comic Poet
 eul_wid: hcq-ac
 eul_aid: hcq
 canonical: "https://eulogikon.org/works/timocles-comedy-fragments-hcq-ac"
+lang: grc
 period: Classical
 dialect: Mixed Dialects (frg)
 domain: Comedy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Timocles B Comic Poet
 
 **eul_wid:** `hcq-ac` · [HTML page](https://eulogikon.org/works/timocles-comedy-fragments-hcq-ac)
-
-"Fragments on Comedy" is a modern collective title for the surviving excerpts from the lost comedies of Timocles, an Athenian comic poet active in the late 4th century BCE. His career spanned the transitional period from Middle to New Comedy, marked by a shift away from direct political satire toward more generalized social and philosophical themes. The most substantial and significant fragment, preserved by the later author Athenaeus, contains a character's speech offering a defense of comedy's value. This meta-theatrical passage functions as a piece of literary criticism, arguing that comedy provides psychological consolation by allowing spectators to laugh at the misfortunes of others, thereby making their own troubles seem more bearable. Modern scholars interpret this as a direct engagement with contemporary philosophical debates concerning poetry's moral and social utility.
-
-The corpus is not a unified work but a collection of fragments, primarily sourced from Timocles' play Dionysiazusae, quoted by later grammarians and anthologists like Athenaeus. Originally composed in Attic Greek verse for performance at Athenian dramatic festivals, these fragments now exist only as citations. Despite their fragmentary state, they provide crucial insight into the thematic concerns and self-referential commentary characteristic of Middle Comedy, illustrating how playwrights of the era reflected critically upon the purpose and function of their own art form.
 
 ## Text
 

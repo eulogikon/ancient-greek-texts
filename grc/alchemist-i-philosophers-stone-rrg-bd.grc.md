@@ -5,6 +5,7 @@ author: Alchemist I
 eul_wid: rrg-bd
 eul_aid: rrg
 canonical: "https://eulogikon.org/works/alchemist-i-philosophers-stone-rrg-bd"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alchemist I
 
 **eul_wid:** `rrg-bd` · [HTML page](https://eulogikon.org/works/alchemist-i-philosophers-stone-rrg-bd)
-
-On the Philosopher's Stone is an anonymous Greek alchemical treatise, conventionally attributed by modern scholars to a figure designated as "Alchemist I" within the pseudonymous tradition of the extant Greek alchemical corpus. The work is dedicated to elucidating the nature and preparation of the legendary philosopher's stone, the purported substance capable of transmuting base metals into gold. Its content details the properties and fabrication of this stone, the operational process of alchemical transmutation, and the symbolic dimensions of the art, advising practitioners to avoid all substances with caustic power, such as fire, sulfur, and arsenics, and to favor those with a unifying, moist potency that facilitates mixture and combination. The treatise survives within key medieval Byzantine manuscripts that preserved the Greco-Egyptian alchemical tradition, such as those held in Venice, Paris, and Florence, and it is included in modern critical editions like the Collection des Anciens Alchimistes Grecs. As part of the Greek alchemical corpus, this work was instrumental in transmitting technical and philosophical concepts to Islamic and later Latin European alchemy. It exemplifies the characteristically anonymous and often pseudepigraphic nature of this textual tradition, where the primary focus was the preservation and transmission of arcane operative knowledge rather than the establishment of individual authorship.
 
 ## Text
 

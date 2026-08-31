@@ -5,6 +5,7 @@ author: Telestes of Selinus
 eul_wid: crg-aa
 eul_aid: crg
 canonical: "https://eulogikon.org/works/telestes-selinus-flute-rivalry-crg-aa"
+lang: grc
 period: Classical
 dialect: Aeolic (frg)
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Telestes of Selinus
 
 **eul_wid:** `crg-aa` · [HTML page](https://eulogikon.org/works/telestes-selinus-flute-rivalry-crg-aa)
-
-On the Flute and Musical Rivalry is a collection of fragments from a dithyramb by the poet Telestes of Selinus. Preserved primarily through quotations in Athenaeus’s Deipnosophistae, the extant passages focus on the aulos, a reed instrument, and engage in contemporary debates about musical style. The work defends the dignity and divine origins of the Phrygian aulos, tracing its lineage to the goddess Athena. It also contains polemical criticism of earlier poets, notably Melanippides, whom Telestes accuses of having debased the dithyramb by diminishing the instrument’s traditional role. The fragments further explore the cultural history of music, reflecting the tensions between innovation and tradition characteristic of the era known for the New Music. The work survives only in these fragments cited by later authors, with no continuous manuscript tradition. These remnants are crucial primary evidence for the history of Greek music, offering direct insight into the aesthetic and technical debates of the late fifth century BCE regarding the evolution of the dithyramb and the cultural perception of musical instruments.
 
 ## Text
 

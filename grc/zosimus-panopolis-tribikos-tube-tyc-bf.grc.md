@@ -5,6 +5,7 @@ author: Zosimus of Panopolis
 eul_wid: tyc-bf
 eul_aid: tyc
 canonical: "https://eulogikon.org/works/zosimus-panopolis-tribikos-tube-tyc-bf"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Zosimus of Panopolis
 
 **eul_wid:** `tyc-bf` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-tribikos-tube-tyc-bf)
-
-"On the Tribikos and the Tube" is a technical treatise on alchemical apparatus written in Greek around 300 CE by Zosimus of Panopolis. The work functions as a practical manual detailing the construction and operation of two essential pieces of laboratory equipment: the tribikos, a three-armed distillation still, and the tube, a component likely serving as a condenser or receiving vessel. The text provides precise instructions regarding the required materials, specific dimensions, and proper assembly of these devices, which were fundamental for processes of purification and substance transformation in alchemical practice.
-
-The treatise survives within the larger corpus of Greek alchemical writings, preserved primarily in Byzantine manuscripts. It exemplifies the practical, workshop-oriented dimension of late antique alchemy, reflecting a synthesis of Egyptian craft traditions with Hellenistic technical knowledge. Scholars regard the work as an instructional guide for contemporary practitioners, aimed at standardizing the complex apparatus necessary for experiments central to alchemical theory, particularly those concerning metals. While Zosimus authored more philosophical and mystical alchemical texts, this treatise underscores the critical importance of technical craftsmanship and reproducible equipment in the early development of chemical science.
 
 ## Text
 

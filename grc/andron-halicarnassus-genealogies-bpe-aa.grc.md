@@ -5,6 +5,7 @@ author: Andron of Halicarnassus I
 eul_wid: bpe-aa
 eul_aid: bpe
 canonical: "https://eulogikon.org/works/andron-halicarnassus-genealogies-bpe-aa"
+lang: grc
 period: Archaic
 dialect: Mixed Dialects (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Andron of Halicarnassus I
 
 **eul_wid:** `bpe-aa` · [HTML page](https://eulogikon.org/works/andron-halicarnassus-genealogies-bpe-aa)
-
-The Fragments on Genealogies is a collection of prose excerpts attributed to Andron of Halicarnassus, preserved through citations by later authors such as Strabo, Stephanus of Byzantium, and various scholiasts. The work represents a systematic treatise on genealogical relationships, a core genre of early Greek historiography and mythography. The extant fragments address genealogical and ethnographical themes, connecting heroic mythology to historical geography and the origins of peoples. They include discussions on the descendants of Oceanus, the naming of continents such as Asia, Libya, Europe, and Thrace, and the mythological etymology of Mount Parnassus, linking it to the ark of Deucalion. Other fragments trace the lineage of the Argive king Phoroneus, detail the origins of the Dorians in Crete, and explore local Halicarnassian and Carian traditions within the broader Panhellenic framework. Transmitted primarily through geographical and lexicographical sources, the compilation is most accessible in the modern standard edition within Felix Jacoby’s Die Fragmente der griechischen Historiker. These fragments exemplify the early Greek intellectual endeavor to systematize myth into a coherent historical chronology and are valuable for studying the development of Greek historical thought, early mythographic methods, and the integration of local traditions into wider Hellenic culture.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Sopater of Athens
 eul_wid: spc-ac
 eul_aid: spc
 canonical: "https://eulogikon.org/works/sopater-athens-division-questions-spc-ac"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Sopater of Athens
 
 **eul_wid:** `spc-ac` · [HTML page](https://eulogikon.org/works/sopater-athens-division-questions-spc-ac)
-
-The Division of Questions is a late antique rhetorical handbook attributed to Sopater of Athens. As a work of progymnasmata, it systematically analyzes 349 distinct themes, providing model argumentative structures for each. Covering deliberative, judicial, and epideictic topics drawn from history, myth, and hypothetical law, it functioned as a comprehensive reference for advanced rhetorical training. The work is a practical manual for rhetorical invention and arrangement, applying Hermogenean stasis theory to classify and argue cases. Its themes include ethical deliberation, fictional legal disputes, and exercises in praise and blame, using classical literature and history as a basis for argumentative practice. The complete text is preserved in medieval manuscripts, with the standard modern edition appearing in the Rhetores Graeci. The work represents a highly systematized stage in the progymnasmata tradition. It was an important resource in Byzantine education and remains a key source for understanding the advanced pedagogical methods and practical application of rhetorical theory in late antiquity.
 
 ## Text
 

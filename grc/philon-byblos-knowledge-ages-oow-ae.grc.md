@@ -5,6 +5,7 @@ author: Philon of Byblos
 eul_wid: oow-ae
 eul_aid: oow
 canonical: "https://eulogikon.org/works/philon-byblos-knowledge-ages-oow-ae"
+lang: grc
 period: Roman
 dialect: Koine (frg)
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philon of Byblos
 
 **eul_wid:** `oow-ae` · [HTML page](https://eulogikon.org/works/philon-byblos-knowledge-ages-oow-ae)
-
-The work On the Knowledge of Ages by Philon of Byblos is a lost grammatical treatise known only from a single fragment preserved in the 12th-century Byzantine lexicon, the Etymologicum Magnum. This fragment defines the Greek word for "youths" or "young men" and proceeds to systematically delineate the precise terminology for successive stages of human life, from infancy to extreme old age. The surviving passage exemplifies the work's lexicographical focus, cataloging terms such as "babe," "child," "lad," "ephebe," "young man," "man in his prime," and "elder," while also noting regional dialectal variations. As the treatise has no independent manuscript tradition, its transmission relies entirely on this indirect quotation. The fragment typifies the fate of many minor technical works from antiquity, which were often absorbed into later compilations before their originals were lost. It provides a concise example of Philon’s grammatical scholarship and contributes to the understanding of Greek linguistic studies during the Roman Imperial period.
 
 ## Text
 

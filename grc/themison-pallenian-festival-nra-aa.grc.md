@@ -5,6 +5,7 @@ author: Themison the Historian
 eul_wid: nra-aa
 eul_aid: nra
 canonical: "https://eulogikon.org/works/themison-pallenian-festival-nra-aa"
+lang: grc
 period: Roman
 dialect: Koine
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Themison the Historian
 
 **eul_wid:** `nra-aa` · [HTML page](https://eulogikon.org/works/themison-pallenian-festival-nra-aa)
-
-On the Pallenian Festival is a lost treatise attributed to the historian Themison, known only from its title and two surviving fragments. The work focused on the festival of the Attic deme of Pallene, which centered on the sanctuary of Athena Pallenis. Its contents are preserved indirectly through later scholarship: one fragment in Harpocration’s lexicon explains the term “Pallenian” and cites a sacred law, while another in the scholia to Aristophanes’ Peace provides an aetiological myth linking the festival to the contest between Athena and Poseidon. The work covered the mythological origins of the festival, the religious regulations governing its rituals, and the local history and cultic topography of the deme. The Suda, a 10th-century Byzantine encyclopedia, records the title and attributes it to Themison, and the fragments are collected in modern editions of the Fragmentary Greek Historians. As a specialized work of Atthidography, or local Athenian history, it served as a source for later lexicographers and commentators seeking details on obscure Athenian cults. It remains a valuable resource for scholars studying Athenian religion, local history, and the preservation of antiquarian knowledge.
 
 ## Text
 

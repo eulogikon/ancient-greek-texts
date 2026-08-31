@@ -5,6 +5,7 @@ author: Demosthenes of Athens
 eul_wid: fsm-ck
 eul_aid: fsm
 canonical: "https://eulogikon.org/works/demosthenes-athens-epitaph-fsm-ck"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Demosthenes of Athens
 
 **eul_wid:** `fsm-ck` · [HTML page](https://eulogikon.org/works/demosthenes-athens-epitaph-fsm-ck)
-
-The Epitaph, a funeral oration attributed to Demosthenes, is a 36-section speech composed in Attic Greek following the conventional structure of Athenian public eulogies. It was written around 338 BCE in the aftermath of the Battle of Chaeronea, a decisive defeat for the allied forces of Athens and Thebes at the hands of Philip II of Macedon. The oration serves to honor the Athenian soldiers who fell in the conflict, extolling the city's historical glory and the virtue of the deceased while offering consolation to the bereaved. Scholarly consensus, however, strongly disputes its authenticity, regarding it not as a work by Demosthenes himself but as a later rhetorical exercise composed by an imitator versed in his style and the formal tropes of the epitaphic genre. Preserved in full within the medieval manuscript tradition of Demosthenes' works, the speech is generally classified as spurious. Notwithstanding its questionable authorship, it remains a significant artifact, providing insight into the civic ideology and ceremonial rhetoric employed in Classical Athens, particularly in the context of a profound military catastrophe.
 
 ## Text
 

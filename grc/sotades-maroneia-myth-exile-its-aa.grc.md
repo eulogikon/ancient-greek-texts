@@ -5,6 +5,7 @@ author: Sotades of Maroneia Grammarian
 eul_wid: its-aa
 eul_aid: its
 canonical: "https://eulogikon.org/works/sotades-maroneia-myth-exile-its-aa"
+lang: grc
 period: Hellenistic
 dialect: "Ionic (ia, frg)"
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Sotades of Maroneia Grammarian
 
 **eul_wid:** `its-aa` · [HTML page](https://eulogikon.org/works/sotades-maroneia-myth-exile-its-aa)
-
-No work titled Fragments of Myth and Exile by Sotades of Maroneia is attested in the scholarly record. Sotades was a Hellenistic poet of the early 3rd century BCE, best known for his obscene and satirical verse composed in the "Sotadean" meter he pioneered. His known poetry, such as the Cinaedi, consisted of personal invective, often targeting rulers like Ptolemy II Philadelphus, which led to his persecution. The provided title does not align with his documented themes or surviving fragments. For the purported Fragments of Myth and Exile, no content is recorded. The themes of Sotades' verified work include obscenity, sexual humor, and satire directed against authority figures and societal norms. The authentic works of Sotades survive only as fragments cited by later authors, such as the 10th-century Byzantine encyclopedia, the Suda. No manuscript tradition or preservation details exist for a collection titled Fragments of Myth and Exile. Sotades' primary significance lies in his metrical innovation; the Sotadean verse was adopted for humorous and satirical poetry in Greek and Latin. His legacy is that of a dangerously outspoken satirist. The unattested title holds no established scholarly significance.
 
 ## Text
 

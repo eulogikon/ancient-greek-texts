@@ -5,6 +5,7 @@ author: Appian of Alexandria
 eul_wid: pdc-ao
 eul_aid: pdc
 canonical: "https://eulogikon.org/works/appian-alexandria-iberian-pdc-ao"
+lang: grc
 period: Roman
 dialect: Koine
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Appian of Alexandria
 
 **eul_wid:** `pdc-ao` · [HTML page](https://eulogikon.org/works/appian-alexandria-iberian-pdc-ao)
-
-The Iberian, also known as The Spanish Wars, is a book within the Roman History, the major historical work composed in Greek by Appian of Alexandria during the middle of the second century CE. It is a prose narrative chronicling Rome’s military campaigns to subdue the Iberian Peninsula, covering a pivotal period from the Second Punic War in the late third century BCE to the final suppression of native resistance with the destruction of Numantia in 133 BCE. The account provides a continuous record of these conflicts, including the protracted wars against the Lusitanian leader Viriathus and the famous siege of Numantia. Appian wrote during the height of the Roman Empire and structured his overall history geographically to illustrate the sequential expansion of Roman dominion. Modern scholars regard the Iberian as an essential source for this era, as many of the earlier historiographical works upon which Appian drew are now lost. The narrative emphasizes themes of imperial conquest and determined local opposition and was likely composed to elucidate Rome’s rise to a Greek-speaking, educated audience within the empire. The text survives substantially complete through medieval Greek manuscripts, the most significant being an 11th-century codex. Preserved in its original language, it forms the cornerstone of much contemporary scholarship on the Roman conquest of Hispania.
 
 ## Text
 

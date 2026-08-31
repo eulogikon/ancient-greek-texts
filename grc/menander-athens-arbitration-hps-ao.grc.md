@@ -5,6 +5,7 @@ author: Menander of Athens
 eul_wid: hps-ao
 eul_aid: hps
 canonical: "https://eulogikon.org/works/menander-athens-arbitration-hps-ao"
+lang: grc
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Menander of Athens
 
 **eul_wid:** `hps-ao` · [HTML page](https://eulogikon.org/works/menander-athens-arbitration-hps-ao)
-
-Epitrepontes, known in English as The Arbitration, is a comedy by the Athenian playwright Menander, dating from the late 4th or early 3rd century BCE. Composed in Attic Greek verse, it is a definitive work of New Comedy, a genre that shifted focus from the political satire of earlier periods to domestic scenarios, romantic entanglements, and broadly drawn human characters. The plot revolves around the young Athenian Charisios, who abandons his wife Pamphile after she gives birth to a child he believes is not his own. The play's central and namesake scene involves an arbitration between two slaves over a set of trinkets discovered with the infant they found exposed; this legalistic debate ultimately uncovers the child's true parentage and paves the way for the reconciliation of the estranged couple.
-
-The text of the play was lost after antiquity and only recovered in the modern era through significant papyrus discoveries, chiefly the Cairo Codex and the Bodmer Papyrus. These sources provide a nearly complete text for the latter half of the drama, while the beginning remains more fragmentary, reconstructed from smaller papyrus scraps and ancient quotations. The work offers a realistic portrayal of contemporary Athenian social and legal customs, particularly the practice of private arbitration for resolving disputes. It was originally composed for public performance at Athenian dramatic festivals. Regarded by modern scholars as one of Menander's finest achievements, Epitrepontes is celebrated for its sophisticated plot construction and nuanced ethical dilemmas. Its influence extended to Roman comedy, with the playwright Terence adapting elements of its narrative for his own work, Hecyra.
 
 ## Text
 

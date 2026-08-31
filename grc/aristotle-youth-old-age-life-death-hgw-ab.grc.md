@@ -5,6 +5,7 @@ author: Aristotle
 eul_wid: hgw-ab
 eul_aid: hgw
 canonical: "https://eulogikon.org/works/aristotle-youth-old-age-life-death-hgw-ab"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristotle
 
 **eul_wid:** `hgw-ab` · [HTML page](https://eulogikon.org/works/aristotle-youth-old-age-life-death-hgw-ab)
-
-On Youth and Old Age, Life and Death is a scientific treatise by the ancient Greek philosopher Aristotle, composed around the mid-4th century BCE. It forms part of a collection known as the Parva Naturalia, or "Short Physical Treatises," which investigate topics at the intersection of biology and psychology. In this work, Aristotle undertakes a systematic inquiry into the causes of aging and death in animals. He defines youth as a period of growth sustained by the body's innate heat and moisture, while characterizing old age as a process of decline resulting from the cooling and drying of that vital heat. Aristotle identifies the heart as the central organ governing this life cycle, positing it as the primary seat of life and the source of the innate heat. The treatise is structured according to his foundational theory of causation, as he analyzes the material, efficient, and final causes underlying the phenomena of aging and mortality. Modern scholarship interprets the work as an application of Aristotle's broader philosophical principles to specific biological processes, likely intended for instructional use within his school, the Lyceum. The text survives in its entirety as a component of the standard Aristotelian corpus and proved highly influential, with its concepts of innate heat and the primacy of the heart profoundly shaping subsequent medical and physiological thought for centuries.
 
 ## Text
 

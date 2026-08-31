@@ -1,10 +1,11 @@
 ---
 title: Satirical Fragments on Delos
 title_greek: Ἀποσπάσματα Σατυρικὰ περὶ Δήλου
-author: "Crito of Alopece "
+author: Crito of Alopece
 eul_wid: lrc-aa
 eul_aid: lrc
 canonical: "https://eulogikon.org/works/crito-alopece-satirical-delos-lrc-aa"
+lang: grc
 period: Hellenistic
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀποσπάσματα Σατυρικὰ περὶ Δήλου*
 
-**Author:** Crito of Alopece 
+**Author:** Crito of Alopece
 
 **eul_wid:** `lrc-aa` · [HTML page](https://eulogikon.org/works/crito-alopece-satirical-delos-lrc-aa)
-
-The Satirical Fragments on Delos is a lost work attributed to the Athenian comic poet Crito of Alopece, who was active during the 5th-century BCE period of Old Comedy. Known only by its title, which indicates a satirical poetic treatment of the island of Delos, the work survives in no direct quotations; its content is entirely conjectural. Given Delos’s contemporary significance as the treasury and meeting place of the Athenian-led Delian League and as a major sanctuary of Apollo, the fragments likely targeted Athenian imperial administration, political figures associated with the league, and the religious practices and festivals conducted on the sacred island. The work is preserved solely as a title recorded in the Byzantine Suda lexicon, which notes that Crito wrote comedies and these particular satirical fragments. This lost composition exemplifies the expansive range of Old Comedy, illustrating how poets engaged satirically with prominent geopolitical and religious institutions of their time.
 
 ## Text
 

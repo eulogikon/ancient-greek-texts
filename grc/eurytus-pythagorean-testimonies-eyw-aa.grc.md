@@ -5,6 +5,7 @@ author: Eurytus the Pythagorean
 eul_wid: eyw-aa
 eul_aid: eyw
 canonical: "https://eulogikon.org/works/eurytus-pythagorean-testimonies-eyw-aa"
+lang: grc
 period: Classical
 dialect: Doric
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Eurytus the Pythagorean
 
 **eul_wid:** `eyw-aa` · [HTML page](https://eulogikon.org/works/eurytus-pythagorean-testimonies-eyw-aa)
-
-The Testimonies of Eurytus the Pythagorean is not an extant treatise but a modern compilation of ancient reports concerning his distinctive philosophical doctrines. Eurytus, a Pythagorean philosopher and likely a student of Philolaus, is primarily known for his theory of definition through "pebble-numbers." This concept, a form of number atomism, held that the essential form of any object or species could be represented by a specific numerical configuration of physical pebbles. According to later accounts, he would demonstrate this by arranging pebbles to show the number of a man, a horse, or another entity, thereby claiming to capture its defining essence. This practice was a concrete application of the broader Pythagorean tenet that numbers constitute the fundamental substance of reality.
-
-Knowledge of Eurytus's ideas survives only through fragmentary testimonia preserved in later philosophical writers. The most significant source is Aristotle, who critiques the theory in his Metaphysics. Aristotle uses Eurytus as an example of those Pythagoreans who erroneously attributed spatial and physical properties to abstract numbers, arguing that such a method fails to provide a genuine causal account of natural phenomena. This critique was subsequently discussed by commentators such as Alexander of Aphrodisias and Syrianus. Through Aristotle's influential criticism, Eurytus became a standard reference point in ancient and medieval philosophy for a particular, literalist interpretation of Pythagorean number theory. His work thus represents a distinctive, if reductively physical, branch of early Pythagorean thought concerning the ontological primacy of number.
 
 ## Text
 

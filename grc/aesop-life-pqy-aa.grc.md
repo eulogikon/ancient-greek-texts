@@ -5,6 +5,7 @@ author: Aesop Life-anonymous
 eul_wid: pqy-aa
 eul_aid: pqy
 canonical: "https://eulogikon.org/works/aesop-life-pqy-aa"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Fiction
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aesop Life-anonymous
 
 **eul_wid:** `pqy-aa` · [HTML page](https://eulogikon.org/works/aesop-life-pqy-aa)
-
-The Life of Aesop, also known as the Vita Accursiana or Vita Pl, is an anonymous Greek prose biography of the legendary fabulist. This fictionalized narrative, surviving in several medieval manuscript recensions, presents an episodic account of Aesop's life across approximately eighty chapters. It traces his journey from his origins as a mute and grotesquely ugly slave in Phrygia to his death at Delphi, portraying him as a cunning and subversive figure who employs wit and fables to critique and navigate social hierarchies. The plot unfolds through a series of anecdotal episodes: Aesop miraculously gains the power of speech, repeatedly outwits his master and rival philosophers, serves King Lycurgus of Babylon, engages in intellectual dialogues with King Nectanebo of Egypt, and is ultimately executed at Delphi for his insolent criticisms—a sacrilege later avenged by the god Apollo.
-
-Composed between the first century BCE and the second century CE, the work is a significant early example of prose fiction that blends folk narrative, satire, and the conventions of the ancient novel. It functions as a form of social critique, celebrating native intelligence and practical wisdom over formal education and aristocratic privilege. The text is preserved complete in multiple manuscript traditions, often compiled alongside collections of Aesop's fables, with the standard critical edition established by B. E. Perry. Its influence was profound and widespread; the Life significantly shaped later novelistic and picaresque traditions and was translated into numerous languages, circulating widely across medieval Europe and the Near East.
 
 ## Text
 

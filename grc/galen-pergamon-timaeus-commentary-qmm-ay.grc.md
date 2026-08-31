@@ -5,6 +5,7 @@ author: Galen of Pergamon
 eul_wid: qmm-ay
 eul_aid: qmm
 canonical: "https://eulogikon.org/works/galen-pergamon-timaeus-commentary-qmm-ay"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Galen of Pergamon
 
 **eul_wid:** `qmm-ay` · [HTML page](https://eulogikon.org/works/galen-pergamon-timaeus-commentary-qmm-ay)
-
-Galen's Commentaries on Plato's Timaeus Fragments is a lost treatise, surviving only in fragmentary quotations, in which the physician critically examined thirty-seven specific passages from Plato's cosmological and physiological dialogue. The work represents a systematic synthesis, evaluating Plato's theories of anatomy, the soul, and the elements against contemporary empirical medical knowledge and the competing doctrines of Aristotelian and Stoic natural philosophy. Galen subjects the Platonic concept of divinely crafted, perfect bodily parts to rigorous anatomical critique, arguing that direct observation reveals numerous functional imperfections. He similarly engages with Plato's tripartite model of the soul and its physical localization, and addresses the geometric theory of the four elemental bodies, comparing it to other physical models. Throughout, the commentary exemplifies Galen's characteristic method of maintaining profound reverence for Plato's philosophical authority while simultaneously asserting the indispensable primacy of empirical investigation in the physical sciences. The fragments were instrumental in Galen's broader project to harmonize Platonic philosophy with Hippocratic medicine, and their critical, anatomy-based approach to the Timaeus set a significant precedent for later Greek and Arabic commentators, shaping centuries of discourse on natural philosophy and medical theory.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Sophonias the Aristotelian Commentator
 eul_wid: xwk-aa
 eul_aid: xwk
 canonical: "https://eulogikon.org/works/sophonias-aristotle-soul-paraphrase-xwk-aa"
+lang: grc
 period: Byzantine
 domain: Philosophy
 format: Treatise

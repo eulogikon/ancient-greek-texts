@@ -5,6 +5,7 @@ author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-bj
 eul_aid: bww
 canonical: "https://eulogikon.org/works/hippocrates-instructions-bww-bj"
+lang: grc
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hippocrates and the Hippocratic Corpus
 
 **eul_wid:** `bww-bj` · [HTML page](https://eulogikon.org/works/hippocrates-instructions-bww-bj)
-
-Instructions is a concise medical treatise belonging to the Hippocratic Corpus, the collection of ancient Greek medical works traditionally associated with Hippocrates of Cos but composed by multiple authors over several centuries. Likely written in the 4th century BCE in Ionic Greek, the work consists of thirteen brief, aphoristic passages. It functions as a practical and ethical guide for the practicing physician, offering directives on professional conduct, the critical importance of prognosis, and the management of patients. The text counsels on a doctor's proper demeanor, the orderly arrangement of the consulting room, the judicious use of assistants, and the setting of fees commensurate with a patient's financial circumstances, all while emphasizing discretion and modesty.
-
-The treatise is characterized by a direct, imperative style, suggesting it was designed as a memorable set of precepts for practitioners or students. Scholars view Instructions as a significant artifact of the movement toward rational, naturalistic medicine in Classical Greece. Its focus on ethical behavior, careful observation, and the cultivation of a trustworthy public persona underscores its role in the formal codification of medical professionalism. The complete text has been preserved through the medieval manuscript tradition of the Hippocratic Corpus, with a key witness being the 10th- or 11th-century codex Laurentianus Graecus 74.7.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Medical Writers Anonymous
 eul_wid: umi-aj
 eul_aid: umi
 canonical: "https://eulogikon.org/works/med-writers-anon-onomatopoeia-nature-umi-aj"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Medical Writers Anonymous
 
 **eul_wid:** `umi-aj` · [HTML page](https://eulogikon.org/works/med-writers-anon-onomatopoeia-nature-umi-aj)
-
-The treatise Onomatopoeia of Human Nature is a work unattested in the standard scholarly corpora and reference sources for ancient Greek medicine and literature. Its title, which employs a term typically associated with linguistic sound imitation, presents an unusual and anomalous application within a medical context concerning human anatomy. While the Hippocratic tradition includes analogous works on human physiology, such as On the Nature of Man, no known text from antiquity bears this specific designation. No content from such a work is recorded in established canons of medical or philosophical writing, nor is there any documented manuscript tradition or history of transmission. The complete absence of the treatise from major bibliographical databases and catalogs indicates it is likely a lost text, a misattributed reference to a known work, or a modern invention, rendering its purported title a bibliographical anomaly in the study of ancient medical literature.
 
 ## Text
 

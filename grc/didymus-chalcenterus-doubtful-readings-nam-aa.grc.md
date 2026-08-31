@@ -5,6 +5,7 @@ author: Didymus Chalcenterus
 eul_wid: nam-aa
 eul_aid: nam
 canonical: "https://eulogikon.org/works/didymus-chalcenterus-doubtful-readings-nam-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Didymus Chalcenterus
 
 **eul_wid:** `nam-aa` · [HTML page](https://eulogikon.org/works/didymus-chalcenterus-doubtful-readings-nam-aa)
-
-On Doubtful Readings in Plato was a scholarly treatise by the first-century BCE Greek grammarian Didymus Chalcenterus. This lost work represented a focused exercise in Alexandrian textual criticism, examining specific passages within the Platonic dialogues where the correct wording was uncertain due to variant manuscript readings or ambiguous grammatical constructions. Its purpose was to adjudicate these difficult textual spots to establish a more reliable edition of Plato’s works. The treatise is known only through a single reference in an ancient marginal note on Plato’s Phaedrus, which cites Didymus’s opinion regarding a problematic reading at Phaedrus 230a. No direct fragments of the text survive. Modern scholarship interprets this work as part of Didymus’s vast exegetical output, intended for fellow scholars and librarians engaged in the editorial preservation of canonical authors. Although the treatise itself is lost, such specialized philological studies formed the methodological backbone for the scribes and commentators responsible for transmitting the texts of classical Greek philosophy to later generations.
 
 ## Text
 

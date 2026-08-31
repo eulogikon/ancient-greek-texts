@@ -5,6 +5,7 @@ author: Parrhasius of Ephesus
 eul_wid: ewe-aa
 eul_aid: ewe
 canonical: "https://eulogikon.org/works/parrhasius-ephesus-epigrams-ewe-aa"
+lang: grc
 period: Classical
 dialect: Ionic Elegiac
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Parrhasius of Ephesus
 
 **eul_wid:** `ewe-aa` · [HTML page](https://eulogikon.org/works/parrhasius-ephesus-epigrams-ewe-aa)
-
-The epigrams of Parrhasius of Ephesus are not independent poems but verses the celebrated late 5th-century BCE painter purportedly inscribed upon his own works. Transmitted not through poetic manuscripts but as quotations within later anecdotal sources, primarily Pliny the Elder's Natural History, these lines functioned as captions or declarations. They served to assert the artist's supreme genius and to shape the viewer's interpretation of the image. One famous example, inscribed on a painting of Heracles, boasted of reaching the final perfection of the painter's art. Another, attached to a personification of the Athenian Demos, highlighted the challenge and triumph of capturing that entity's complex and contradictory nature through portraiture. Collectively, these epigrams are a crucial document of artistic self-consciousness in classical Greece, constructing Parrhasius's historical persona as one of arrogant confidence. They significantly influenced the tradition of ekphrasis by modeling how an artist's own words could frame a visual work, and the anecdote concerning the Demos became a standard point of reference in discussions about representing character and abstract ideas.
 
 ## Text
 

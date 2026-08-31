@@ -5,6 +5,7 @@ author: Zaleucus of Locri
 eul_wid: aeg-aa
 eul_aid: aeg
 canonical: "https://eulogikon.org/works/zaleucus-locri-preamble-laws-aeg-aa"
+lang: grc
 period: Archaic
 dialect: Doric
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Zaleucus of Locri
 
 **eul_wid:** `aeg-aa` · [HTML page](https://eulogikon.org/works/zaleucus-locri-preamble-laws-aeg-aa)
-
-The Preamble to the Laws is a fragmentary legal text traditionally ascribed to Zaleucus, the semi-legendary lawgiver for the Greek colony of Locri in southern Italy during the seventh century BCE. It constitutes one of the earliest known written legal codes in the Greek world. The work does not survive in its entirety; extant portions consist of excerpts, chiefly a brief preamble and a sample law, preserved by much later authors such as the anthologist Stobaeus and the historian Diodorus Siculus. These key passages are sometimes collectively referred to by the Greek title Apospasmata, meaning "Extracts." The preamble is a moral exhortation that grounds the authority of the laws in divine will, arguing that the order of the cosmos itself testifies to the gods' existence. It asserts that the laws' purpose is to foster a just and harmonious society free from civil strife by instructing citizens to purify their souls of evil and to value noble actions above material wealth. The specific laws cited in antiquity, such as one prescribing a severe penalty for adultery, were noted for their precise and often symbolic harshness. Modern scholarship interprets this code as a foundational document for a new colonial community, designed to establish public order and a distinct civic identity. The historical figure of Zaleucus remains obscure, with ancient accounts blending legend and fact, leading to some debate regarding the authenticity of the fragments attributed to him. Despite this, his code enjoyed considerable fame in antiquity and influenced subsequent Greek philosophical discourse on law and governance.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Epic Fragments Anonymous I
 eul_wid: dfm-aa
 eul_aid: dfm
 canonical: "https://eulogikon.org/works/epic-fragments-anon-epic-poems-dfm-aa"
+lang: grc
 period: Classical
 dialect: Mixed Dialects
 domain: Epic
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Epic Fragments Anonymous I
 
 **eul_wid:** `dfm-aa` · [HTML page](https://eulogikon.org/works/epic-fragments-anon-epic-poems-dfm-aa)
-
-The Anonymous Epic Poems represent a modern scholarly collection of 160 fragmentary passages of Greek epic verse. These lines, which survive without attribution to any known poet, are preserved solely through indirect transmission, having been quoted by later grammarians, lexicographers, and commentators for linguistic or mythological illustration. The fragments encompass traditional epic themes, including mythological narratives of gods and heroes, genealogical accounts, descriptions of heroic exploits, and references to cultural and religious lore. They are transmitted secondarily, embedded in the scholarly works of figures such as Aristarchus of Samothrace and in compilations like that of Hesychius from the Hellenistic and Roman periods. These anonymous verses are crucial for demonstrating the vast scale and variety of the ancient Greek epic tradition that existed alongside the canonical works of Homer and Hesiod. They provide invaluable evidence for alternative mythological versions, the development of epic diction, and the scholarly practices of antiquity, with the standard modern critical edition being Poetae Epici Graeci.
 
 ## Text
 

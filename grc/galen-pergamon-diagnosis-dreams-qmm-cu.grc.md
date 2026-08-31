@@ -5,6 +5,7 @@ author: Galen of Pergamon
 eul_wid: qmm-cu
 eul_aid: qmm
 canonical: "https://eulogikon.org/works/galen-pergamon-diagnosis-dreams-qmm-cu"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Galen of Pergamon
 
 **eul_wid:** `qmm-cu` · [HTML page](https://eulogikon.org/works/galen-pergamon-diagnosis-dreams-qmm-cu)
-
-_On Diagnosis from Dreams_ is a medical treatise by the 2nd-century CE physician Galen of Pergamon. The work systematically argues for the diagnostic and prognostic value of dreams, interpreting them not as supernatural portents but as physiological phenomena that reveal the body's internal state. Galen posits that dreams are primarily caused by imbalances among the four humors—blood, phlegm, yellow bile, and black bile—or by residues from digestion, with specific dream imagery reliably indicating which humor is dominant or which organ may be affected. For instance, dreaming of fire suggests an excess of yellow bile, while visions of rain, snow, or hail point to a cold, phlegmatic condition. The treatise deliberately promotes this naturalistic, medical framework in contrast to contemporary divinatory practices, grounding its analysis firmly within Galenic humoral theory and the broader Hippocratic tradition. The complete text survives through the medieval manuscript tradition of Galen's works and is included in the standard modern edition of his writings. This work exemplifies Galen's comprehensive empirical methodology, which sought to incorporate all observable signs, even those from sleep, into a coherent diagnostic system. Its rational approach to dream analysis ensured its influence, contributing to the study of dreams within Western and Islamic scholarly medicine for centuries and reinforcing Galen's enduring authority in medical theory.
 
 ## Text
 

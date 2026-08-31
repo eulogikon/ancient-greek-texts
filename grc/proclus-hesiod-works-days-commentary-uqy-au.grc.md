@@ -5,6 +5,7 @@ author: Proclus the Successor
 eul_wid: uqy-au
 eul_aid: uqy
 canonical: "https://eulogikon.org/works/proclus-hesiod-works-days-commentary-uqy-au"
+lang: grc
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy

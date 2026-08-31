@@ -5,6 +5,7 @@ author: Callimachus Scholia
 eul_wid: vmw-at
 eul_aid: vmw
 canonical: "https://eulogikon.org/works/callimachus-scholia-aetia-vmw-at"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: Grammar
@@ -19,20 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Callimachus Scholia
 
 **eul_wid:** `vmw-at` · [HTML page](https://eulogikon.org/works/callimachus-scholia-aetia-vmw-at)
-
-Overview The so-called Scholia-Aetia (Σχόλια εἰς Αἴτια) is not a work by Callimachus but a compilation of ancient scholarly commentaries (scholia) on his major elegiac poem, the Aetia ("Causes"). Callimachus's Aetia (c. 310–240 BCE) was a learned, four-book poem explaining the mythical origins of various rites and customs. The scholia were created by later grammarians to elucidate the poem's dense allusions and are now crucial for interpreting its fragmentary text, which survives primarily through papyri, quotations, and these explanatory notes.
-
-Content The scholia serve several exegetical functions:
-
-Clarifying obscure mythological, historical, and geographical references in the Aetia.
-
-Providing glosses on rare words and metrical analysis.
-
-Transmitting the antiquarian knowledge central to the poem's aetiological themes.
-
-Transmission The scholia's transmission is tied to the Aetia itself, which did not survive intact. Both the poem and its accompanying commentaries are recovered from fragmentary papyri (notably from Oxyrhynchus) and later quotations. The specific grouping of 67 scholiastic passages represents a modern editorial reconstruction from these scattered annotations.
-
-Significance These scholia are indispensable for modern reconstruction of the Aetia, a text profoundly influential on Roman poets like Catullus and Ovid. They provide critical insight into how ancient scholars read and taught Callimachus, acting as a bridge to the learned aesthetics of Hellenistic poetry.
 
 ## Text
 

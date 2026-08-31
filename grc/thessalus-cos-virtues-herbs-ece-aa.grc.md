@@ -5,8 +5,9 @@ author: Thessalus of Cos
 eul_wid: ece-aa
 eul_aid: ece
 canonical: "https://eulogikon.org/works/thessalus-cos-virtues-herbs-ece-aa"
-period: Classical
-dialect: Ionic
+lang: grc
+period: Roman
+dialect: Koine
 domain: Science
 format: Treatise
 license: "https://creativecommons.org/publicdomain/mark/1.0/"
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Thessalus of Cos
 
 **eul_wid:** `ece-aa` · [HTML page](https://eulogikon.org/works/thessalus-cos-virtues-herbs-ece-aa)
-
-On the Virtues of Herbs is a pharmacological treatise attributed to Thessalus of Cos, a Greek physician who practiced in Rome during the first century CE. The work is a prominent example of astrological medicine, or iatromathematics, a discipline that systematically links the therapeutic potency of plants to specific celestial influences. It catalogs various medicinal herbs, asserting that their full efficacy is contingent upon being gathered during precise astrological configurations, such as under a particular zodiac sign or planetary hour. The text presents itself as a revelation from the divine Hermes Trismegistus to his disciple Asclepius, framing its instructions within a cosmology where earthly outcomes are governed by stellar forces.
-
-The original treatise is not fully extant and is known primarily through later summaries and references. Modern scholarship interprets it as part of a significant intellectual movement in the early Roman Empire that sought to synthesize Hellenistic medical knowledge with astrology and ritual practice. Thessalus positioned himself as a reformer of traditional medicine, openly critiquing Hippocratic methods and claiming the superior authority of his divinely inspired system. The work appears to have been composed for practical use by practitioners seeking a structured, ostensibly scientific framework for herbal therapeutics. Based on later epitomes, the treatise is believed to have been organized into 47 distinct sections detailing the virtues and astrological correspondences of various botanicals.
 
 ## Text
 

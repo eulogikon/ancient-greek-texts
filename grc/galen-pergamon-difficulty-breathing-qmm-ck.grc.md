@@ -5,6 +5,7 @@ author: Galen of Pergamon
 eul_wid: qmm-ck
 eul_aid: qmm
 canonical: "https://eulogikon.org/works/galen-pergamon-difficulty-breathing-qmm-ck"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Galen of Pergamon
 
 **eul_wid:** `qmm-ck` · [HTML page](https://eulogikon.org/works/galen-pergamon-difficulty-breathing-qmm-ck)
-
-On Difficulty of Breathing is a medical treatise by Galen of Pergamon that systematically analyzes the causes, symptoms, and treatments of dyspnea, or shortness of breath. The work exemplifies Galen’s method of investigating specific clinical signs as manifestations of underlying disease, in this case examining dyspnea as a symptom of pathologies affecting the lungs, heart, or thoracic cavity. Comprising 208 sections, the treatise functions as a comprehensive diagnostic and therapeutic guide, integrating interpretations of Hippocratic texts with Galen’s own sophisticated physiological theories.
-
-The content begins by establishing that dyspnea represents a impairment of the natural respiratory function, analogous to other sensory and motor dysfunctions. Galen argues that while the name indicates the general nature of the problem, understanding its specific varieties, causes, and required diagnoses cannot be derived from terminology alone but must come from a precise knowledge of natural respiration itself. He emphasizes that a grasp of the natural state is the essential foundation for recognizing and defining the infinite and irregular realm of the pathological. The treatise proceeds to detail the symptomatology and methods for the differential diagnosis of various forms of dyspnea. It expounds upon cardio-pulmonary physiology through Galenic concepts such as pneuma and the role of respiration in cooling the innate heat. Therapeutic interventions, including pharmacology and regimenal advice, are presented as rooted in humoral theory. Throughout, Galen critically engages with and interprets the Hippocratic tradition on respiratory ailments.
-
-Preserved within the larger Galenic corpus, the text survives in numerous Greek manuscripts and was subsequently translated into Arabic, Syriac, and Latin. These translations facilitated its transmission and study throughout the medieval period within Byzantine, Arabic-Islamic, and later Latin scholarly traditions. As a component of Galen’s authoritative medical oeuvre, this treatise fundamentally shaped the understanding and clinical approach to respiratory and cardiac symptoms for well over a millennium. Its diagnostic framework and physiological explanations remained highly influential until fundamental anatomical and physiological discoveries during the Renaissance and early modern period gradually displaced core tenets of Galenic theory.
 
 ## Text
 

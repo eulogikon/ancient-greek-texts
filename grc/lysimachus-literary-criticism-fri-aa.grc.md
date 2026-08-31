@@ -5,6 +5,7 @@ author: Lysimachus the Historian
 eul_wid: fri-aa
 eul_aid: fri
 canonical: "https://eulogikon.org/works/lysimachus-literary-criticism-fri-aa"
+lang: grc
 period: Classical
 dialect: Koine
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lysimachus the Historian
 
 **eul_wid:** `fri-aa` · [HTML page](https://eulogikon.org/works/lysimachus-literary-criticism-fri-aa)
-
-No specific work titled Fragments on Literary Criticism by an author named Lysimachus the Historian is attested in standard sources. The name Lysimachus is associated with several ancient figures, most notably a general and successor of Alexander the Great, who is not known for literary criticism. Another figure, Lysimachus of Alexandria, was a Hellenistic Jewish historian and mythographer, but his surviving fragments do not concern literary criticism. The title appears to be a modern descriptive label for a small number of excerpts potentially attributed to a Lysimachus in secondary literature. If authentic, these fragments would likely represent embedded literary criticism, possibly evaluating sources or discussing stylistic matters within a larger historiographical work. Their description as a few passages indicates indirect transmission, where fragments are preserved through quotation by later authors. Such remnants would typically be cataloged in standard collections of historical fragments. While the work’s uncertain provenance limits specific assessment, it exemplifies how ancient literary criticism was often practiced within historiographical and rhetorical texts rather than as an independent genre.
 
 ## Text
 

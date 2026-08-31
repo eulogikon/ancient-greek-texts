@@ -5,6 +5,7 @@ author: Hierocles the Stoic
 eul_wid: pnw-aa
 eul_aid: pnw
 canonical: "https://eulogikon.org/works/hierocles-stoic-ethical-fragments-pnw-aa"
+lang: grc
 period: Roman
 dialect: "Koine (phi, frg)"
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hierocles the Stoic
 
 **eul_wid:** `pnw-aa` · [HTML page](https://eulogikon.org/works/hierocles-stoic-ethical-fragments-pnw-aa)
-
-The Ethical Fragments from Stobaeus is a modern designation for a collection of sixteen excerpts from the lost works of the 2nd-century CE Stoic philosopher Hierocles. Preserved within the vast 5th-century Anthology compiled by Joannes Stobaeus, these Greek passages constitute the sole surviving record of Hierocles’ thought. The fragments concentrate on practical ethics, offering Stoic guidance on subjects such as marriage, household management, and the proper treatment of slaves. The most significant among them presents the model of “Hierocles’ Circle,” a vivid illustration of the Stoic doctrine of oikeiōsis, or affiliation. This model describes ethical development as the progressive extension of one’s natural concern outward from the self in concentric circles encompassing family, local community, and eventually all humankind. Scholars regard this as a foundational theory for Stoic social ethics, explaining the origin of human duties. The remaining fragments are believed to originate from a larger, now-lost instructional work, possibly titled Elements of Ethics, intended for students of Stoicism. Though removed from their original context, these excerpts provide a reliable and influential source for understanding the application of Roman Stoic principles to daily social life and interpersonal relationships.
 
 ## Text
 

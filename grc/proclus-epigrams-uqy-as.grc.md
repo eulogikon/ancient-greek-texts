@@ -5,6 +5,7 @@ author: Proclus the Successor
 eul_wid: uqy-as
 eul_aid: uqy
 canonical: "https://eulogikon.org/works/proclus-epigrams-uqy-as"
+lang: grc
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Proclus the Successor
 
 **eul_wid:** `uqy-as` · [HTML page](https://eulogikon.org/works/proclus-epigrams-uqy-as)
-
-The Epigrams are two brief Greek poems attributed to Proclus, the influential fifth-century Neoplatonist philosopher who led the Academy in Athens. These are not a formal literary collection but personal, philosophical verses preserved within the biographical work Life of Proclus, written by his successor Marinus. They survive solely through this later quotation, with no independent manuscript tradition. The poems express profound piety and devotion to the traditional Greek gods. One notable example is an inscription composed for his house doorway, depicting the god Dionysus and invoking divine favor. Modern scholars regard these epigrams as significant historical artifacts, offering a rare glimpse into the personal religious identity of a major pagan intellectual during the Christianization of the Roman Empire and illustrating his public affirmation of Hellenic faith.
 
 ## Text
 

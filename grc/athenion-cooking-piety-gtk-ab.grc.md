@@ -5,6 +5,7 @@ author: Athenion the Comic Poet
 eul_wid: gtk-ab
 eul_aid: gtk
 canonical: "https://eulogikon.org/works/athenion-cooking-piety-gtk-ab"
+lang: grc
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Athenion the Comic Poet
 
 **eul_wid:** `gtk-ab` · [HTML page](https://eulogikon.org/works/athenion-cooking-piety-gtk-ab)
-
-The Fragments on Cooking and Piety comprises a collection of thirty-six passages from the lost comedies of Athenion, a comic poet active in the early Hellenistic period around 300 BCE. Written in Attic Greek verse, these excerpts are representative of the genre of Middle Comedy. The surviving material centers on two principal themes: the satirical treatment of elaborate contemporary cooking and dining culture, and pointed observations on religious piety and ritual practice. As is characteristic of Middle Comedy, the original plays likely employed stock characters such as the boastful professional cook and the social parasite, using humor to comment on the manners and daily life of Athenian society.
-
-No complete play by Athenion survives; the fragments exist solely because they were quoted by later authors, most notably Athenaeus of Naucratis in his expansive second- or third-century CE work, The Learned Banqueters. The thematic conjunction of culinary art and religious devotion has been interpreted by modern scholars as indicative of a broader evolution in comedy during this era, marking a transition away from direct political satire toward more generalized social and domestic subjects. These fragments are consequently regarded as a valuable source for understanding Hellenistic social customs, evolving culinary practices, and contemporary attitudes toward traditional religion.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Galen of Pergamon
 eul_wid: qmm-bz
 eul_aid: qmm
 canonical: "https://eulogikon.org/works/galen-pergamon-qualities-incorporeal-qmm-bz"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Galen of Pergamon
 
 **eul_wid:** `qmm-bz` · [HTML page](https://eulogikon.org/works/galen-pergamon-qualities-incorporeal-qmm-bz)
-
-The treatise That Qualities are Incorporeal by Galen of Pergamon is a philosophical work structured as a series of 22 passages arguing against the Stoic doctrine that qualities are corporeal. Galen contends that fundamental qualities such as heat, cold, dryness, and wetness are incorporeal entities, thereby defending the Aristotelian elemental framework that was vital to his medical theory. The text presents a direct critique of the Stoic philosopher Chrysippus and forms part of Galen’s broader project to synthesize medicine with a modified Aristotelian and Platonic ontology. Its arguments focus on the ontological relationship between properties and substance and apply philosophical logic to the foundations of medical theory. The work is preserved through the medieval manuscript tradition of Galen’s writings and appears in the modern standard edition, Claudii Galeni Opera Omnia, edited by Karl Gottlob Kühn. It contributed significantly to ancient and medieval debates on the ontology of qualities, clarifying a key division between Galenic and Aristotelian physics on one hand and Stoic materialism on the other. Its reasoning later informed Neoplatonist and early Christian thought and remains a focus for modern scholarship on ancient philosophy of science.
 
 ## Text
 

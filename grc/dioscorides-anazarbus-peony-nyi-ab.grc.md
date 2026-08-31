@@ -5,6 +5,7 @@ author: Dioscorides of Anazarbus
 eul_wid: nyi-ab
 eul_aid: nyi
 canonical: "https://eulogikon.org/works/dioscorides-anazarbus-peony-nyi-ab"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Medicine
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Dioscorides of Anazarbus
 
 **eul_wid:** `nyi-ab` · [HTML page](https://eulogikon.org/works/dioscorides-anazarbus-peony-nyi-ab)
-
-On Peony and What It Can Do is an entry within the larger pharmacological treatise De Materia Medica by the Greek physician Pedanius Dioscorides of Anazarbus, composed around the mid-1st century CE. The work systematically describes the medicinal plant peony, noting that the Romans called it casta. According to Dioscorides, the plant was named for Paeon, the physician of the gods in myth, who was said to have discovered it. The entry details a wide range of therapeutic and protective applications, reflecting the blend of empirical observation and traditional belief characteristic of ancient pharmacy. Dioscorides records that peony, when cut and mixed with food, was believed to ward off evil spirits and treat every animal ailment. Administered with honeyed wine, it was said to counter the threat of venomous beasts and to rescue those poisoned by harmful drugs. Wearing the plant was thought to protect the bearer from poisons and to keep any person free from disease, while also averting plague. It was further credited with the power to repel hailstorms, caterpillars, and severe winters if placed in fields, and to drive away storm clouds and the malign influence of stars if fastened to ships. The text states that every demon fears and recoils from peony because it is dedicated to the archangel set over demons. Additionally, it was used to treat individuals suffering from pollution, malignant fluids, or the evil eye, and to provide deliverance from every disease and atmospheric threat encountered on a journey. The entry concludes with a note on its preparation, specifying that it should be cut and administered with honey for patients suffering from liver, spleen, or abdominal disorders.
-
-Dioscorides compiled his work based on extensive firsthand observation and experience, reportedly gathered during travels with the Roman army, aiming to create a practical manual for medical practitioners. The entry on peony exemplifies this approach, documenting its uses for specific conditions while also cataloging its ascribed magical and protective virtues. The treatise represents a significant methodological advance in Greco-Roman pharmacology, organizing drugs by their perceived physiological effects rather than alphabetically. The text survives in full as part of the exceptionally stable manuscript tradition of De Materia Medica. It was copied and translated continuously for over fifteen centuries, preserved in renowned illustrated codices such as the 6th-century Vienna Dioscorides, as well as in Latin and Arabic versions. This enduring transmission ensured Dioscorides' description of peony remained a central reference in both Western and Eastern medical practice well into the Renaissance period.
 
 ## Text
 

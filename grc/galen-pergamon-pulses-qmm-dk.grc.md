@@ -5,6 +5,7 @@ author: Galen of Pergamon
 eul_wid: qmm-dk
 eul_aid: qmm
 canonical: "https://eulogikon.org/works/galen-pergamon-pulses-qmm-dk"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Galen of Pergamon
 
 **eul_wid:** `qmm-dk` · [HTML page](https://eulogikon.org/works/galen-pergamon-pulses-qmm-dk)
-
-On the Use of Pulses is a medical treatise by the Roman-era physician Galen of Pergamon, composed in Greek circa 170–180 CE. The work serves as a practical manual for applying the theory of pulse diagnosis to clinical practice. Galen systematically details how a physician can interpret the various qualities of a patient's pulse—including its speed, strength, amplitude, and rhythm—to diagnose specific diseases, evaluate the balance of the body's humors and innate heat, monitor the course of an illness, and inform therapeutic interventions. Structured into 32 methodical sections, the treatise reflects a pedagogical design aimed at practicing physicians and advanced students. It was written during Galen's tenure in Rome, where he actively promoted a rigorous and systematic approach to medicine in opposition to rival methodological schools. Scholars regard the treatise as a central component of Galen's broader endeavor to establish pulse diagnosis as an indispensable and objectively quantifiable tool within the medical art, effectively synthesizing Hippocratic principles with his own extensive empirical observations. The text survives intact through medieval manuscript traditions. It was translated into Arabic in the 9th century, exerting a profound influence on the development of Islamic medicine, and later into Latin during the Renaissance, where it remained a cornerstone of humoral medical theory for centuries.
 
 ## Text
 

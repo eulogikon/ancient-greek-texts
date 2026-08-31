@@ -5,6 +5,7 @@ author: Numenius of Heraclea
 eul_wid: lnq-aa
 eul_aid: lnq
 canonical: "https://eulogikon.org/works/numenius-heraclea-fragments-lnq-aa"
+lang: grc
 period: Hellenistic
 dialect: Epic (Homeric)
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Numenius of Heraclea
 
 **eul_wid:** `lnq-aa` · [HTML page](https://eulogikon.org/works/numenius-heraclea-fragments-lnq-aa)
-
-The work known as Fragments and Titles by Numenius of Heraclea is recorded solely as a bibliographic entry in the tenth-century Byzantine encyclopedia, the Suda. This source lists it as a verse composition consisting of 56 passages but provides no description of its content or poetic form. The title suggests a collection of poetic excerpts or epigrams. The work is entirely lost, with no direct fragments surviving in any other ancient or medieval text. Numenius of Heraclea is distinguished from the philosopher Numenius of Apamea and is identified as an epic poet. His other attested works are a Thebais and a Heracleias, indicating his output was primarily concerned with mythological epic. The entry in the Suda thus preserves the name and a minor element of the literary output of an otherwise obscure poet, while also serving as a scant record of a lost genre of poetic compilation implied by its title.
 
 ## Text
 

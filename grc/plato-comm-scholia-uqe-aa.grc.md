@@ -5,6 +5,7 @@ author: Plato Commentary
 eul_wid: uqe-aa
 eul_aid: uqe
 canonical: "https://eulogikon.org/works/plato-comm-scholia-uqe-aa"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plato Commentary
 
 **eul_wid:** `uqe-aa` · [HTML page](https://eulogikon.org/works/plato-comm-scholia-uqe-aa)
-
-The Scholia on Plato constitutes a substantial corpus of ancient and Byzantine explanatory notes preserved in the margins and between the lines of manuscripts containing Plato’s dialogues. This compilation, comprising over three thousand discrete passages, represents a cumulative tradition of exegetical material that gathered and condensed fragments from earlier commentators across many centuries. Its primary function was to elucidate difficult terms, obscure historical references, and complex philosophical doctrines found in Plato's texts. The content of the scholia encompasses a wide range of scholarly activity, including detailed textual and grammatical exegesis of Plato’s prose, philosophical interpretation often filtered through a Neoplatonic perspective, and commentary on historical, mythological, and literary allusions. It also preserves valuable doxographical references to other philosophers and schools of thought.
-
-Transmitted exclusively within medieval Plato manuscripts, the scholia survive in a fragmented and selective state, with the most significant witnesses being codices dating from the ninth century CE and later. The corpus is not the work of a single author but the result of centuries of scholarly accretion, where notes from renowned commentators such as Proclus and Olympiodorus were excerpted, copied, and combined by successive generations of scribes. For Byzantine and later Renaissance scholars, these scholia were an indispensable tool for interpreting Plato, profoundly shaping his medieval reception. Today, they remain an invaluable resource not only for the study of Plato but also for preserving otherwise lost fragments of ancient Platonic commentary and for tracing the intricate history of ancient scholarship and textual criticism.
 
 ## Text
 

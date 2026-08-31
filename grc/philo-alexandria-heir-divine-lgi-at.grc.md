@@ -5,6 +5,7 @@ author: Philo of Alexandria
 eul_wid: lgi-at
 eul_aid: lgi
 canonical: "https://eulogikon.org/works/philo-alexandria-heir-divine-lgi-at"
+lang: grc
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philo of Alexandria
 
 **eul_wid:** `lgi-at` · [HTML page](https://eulogikon.org/works/philo-alexandria-heir-divine-lgi-at)
-
-Who is the Heir of Divine Things is a philosophical treatise by the 1st-century CE Jewish thinker Philo of Alexandria. Composed in Koine Greek, it forms a part of his extensive Allegorical Commentary, a series of works dedicated to interpreting the books of the Jewish Scriptures through the methodologies and conceptual frameworks of Greek philosophy, particularly Platonism and Stoicism. The treatise offers a meticulous, passage-by-passage exegesis of Genesis 15:2–18, where the patriarch Abraham, after being promised a great reward by God, questions what he will be given since he remains childless, suggesting his servant Eliezer of Damascus might become his heir.
-
-Philo employs this biblical narrative as an allegorical foundation to explore the soul’s philosophical and spiritual ascent toward the divine. His central argument posits that the true heir to divine things is not attained through conventional human striving or sensory perception but is the purified intellect that becomes a direct disciple of God. The treatise systematically examines the soul’s progression from a state of doubt and attachment to the material world toward receiving divine grace and wisdom. In doing so, Philo contrasts the ephemeral value of secular knowledge and earthly lineage with the supreme worth of divine wisdom, portraying the quest for this inheritance as the highest philosophical endeavor. The work represents a sophisticated synthesis of Jewish theological tradition with Hellenistic philosophical concepts, crafted for an educated audience in the cosmopolitan environment of Alexandria.
-
-The complete text of Who is the Heir of Divine Things has been preserved through medieval Greek manuscripts, which were copied and maintained within the tradition of the early Christian Church due to Philo’s influence on patristic writers. The oldest surviving copies of the treatise date from approximately the 9th century CE or later.
 
 ## Text
 

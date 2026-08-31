@@ -5,6 +5,7 @@ author: Nicanor of the 4th c. BCE
 eul_wid: gky-aa
 eul_aid: gky
 canonical: "https://eulogikon.org/works/nicanor-4th-bce-geographical-nomenclature-gky-aa"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Nicanor of the 4th c. BCE
 
 **eul_wid:** `gky-aa` · [HTML page](https://eulogikon.org/works/nicanor-4th-bce-geographical-nomenclature-gky-aa)
-
-The work On Geographical Nomenclature, also known by the title Apospasmata or "Extracts," is a lost grammatical treatise attributed to the grammarian Nicanor, who was active in the late Classical or early Hellenistic period. It represents a specialized branch of early Greek grammatical scholarship, focusing on the prescriptive rules for using prepositions with geographical names, such as determining the correct application of terms like "to," "in," "toward," and "from" when referring to specific towns and islands. The treatise itself has not survived intact but is known through fragments preserved in the citations of later ancient authors and lexicographers, particularly within Byzantine works like the Etymologicum Magnum and various scholia; these quoted passages form the "extracts" referenced in its alternative title. Nicanor's analysis was influential in the ancient grammatical tradition, with his authoritative rules being cited by subsequent grammarians, including Herodian and commentators on Homer. The work stands as a clear example of the detailed, technical scholarship characteristic of the Alexandrian tradition, which sought to systematize and standardize the interpretation of Greek literary language.
 
 ## Text
 

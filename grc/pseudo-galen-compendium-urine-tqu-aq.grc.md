@@ -5,6 +5,7 @@ author: Pseudo-Galen
 eul_wid: tqu-aq
 eul_aid: tqu
 canonical: "https://eulogikon.org/works/pseudo-galen-compendium-urine-tqu-aq"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Pseudo-Galen
 
 **eul_wid:** `tqu-aq` · [HTML page](https://eulogikon.org/works/pseudo-galen-compendium-urine-tqu-aq)
-
-The Compendium on Urines is an anonymous Greek medical treatise on uroscopy, the practice of diagnosing disease through the inspection of urine. Structured as a concise, seven-part handbook, it belongs to a genre of practical summaries common in Byzantine medicine, designed to systematize observations for use by practicing physicians. The work systematically addresses diagnostic uroscopy, linking the visual characteristics of urine—such as its color, clarity, density, and sediment—to specific diseases and imbalances within the humoral theory of the four bodily fluids: blood, phlegm, yellow bile, and black bile. It also served a prognostic function, offering guidance for predicting the course of an illness. The manuscript tradition for this specific compendium is not detailed in standard references; it likely survives within larger Byzantine medical codices. Anonymous works of this type were widely copied as practical references, though this text remains a minor and less-studied example within the corpus. As part of the broad uroscopic tradition, the compendium helped to perpetuate and standardize Galenic diagnostic methods for medieval medical practice. Its epitomized, handbook format made complex theoretical knowledge accessible for bedside application, thereby contributing to the enduring clinical use of uroscopy in Greek, Islamic, and later Latin medicine.
 
 ## Text
 

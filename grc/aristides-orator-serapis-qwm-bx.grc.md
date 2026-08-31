@@ -5,6 +5,7 @@ author: Aristides the Orator
 eul_wid: qwm-bx
 eul_aid: qwm
 canonical: "https://eulogikon.org/works/aristides-orator-serapis-qwm-bx"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristides the Orator
 
 **eul_wid:** `qwm-bx` · [HTML page](https://eulogikon.org/works/aristides-orator-serapis-qwm-bx)
-
-_To Serapis_ is a sacred oration composed in the mid-2nd century CE by the Greek orator Aelius Aristides. Written in refined Attic Greek, the work is a direct prayer of thanksgiving and praise addressed to the syncretic Greco-Egyptian god Serapis. It functions as a prose hymn, celebrating the deity's expansive power and benevolence, with particular emphasis on his domains of healing, the underworld, and maritime safety, thereby reflecting the religious syncretism characteristic of the period. The complete and relatively short oration survives intact through medieval manuscripts that preserved Aristides’ collected works. It was composed during the era known as the Second Sophistic, a flourishing period of revived Greek rhetoric and literary performance within the Roman Empire. Modern scholarship interprets the piece as a sophisticated rhetorical performance, intended for a public or educated audience, which showcases Aristides’ oratorical skill while simultaneously expressing genuine personal piety. It fits within the contemporary practice of delivering formal encomia to the gods, likely intended for recitation. As such, the oration provides valuable insight into the popular worship of Serapis and the religious expression of a leading intellectual figure of the Imperial age.
 
 ## Text
 

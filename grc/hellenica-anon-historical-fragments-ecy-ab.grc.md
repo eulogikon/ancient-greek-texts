@@ -5,6 +5,7 @@ author: Hellenica  Anonymous
 eul_wid: ecy-ab
 eul_aid: ecy
 canonical: "https://eulogikon.org/works/hellenica-anon-historical-fragments-ecy-ab"
+lang: grc
 period: Classical
 dialect: Attic
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hellenica  Anonymous
 
 **eul_wid:** `ecy-ab` · [HTML page](https://eulogikon.org/works/hellenica-anon-historical-fragments-ecy-ab)
-
-The Historical Fragments on Greek Affairs is a collection of eleven excerpts preserved within the 10th-century Byzantine encyclopedia known as the Suda. These fragments are attributed to an anonymous author and consist of material extracted from earlier historical works that are now lost. The collection lacks a unified narrative, being presented instead as discrete passages concerning various events and figures from Greek history. The work survives exclusively through its quotation in the Suda and possesses no independent manuscript tradition. As such, the fragments are scattered remains of one or more unknown historiographical texts, a common fate for many ancient works preserved only in later compilations. Their primary value lies in their potential as sources for otherwise lost historical information, contributing to the patchwork of evidence used to reconstruct Greek history. Their scholarly influence is entirely indirect, being wholly contingent on the importance of the specific data they may preserve.
 
 ## Text
 

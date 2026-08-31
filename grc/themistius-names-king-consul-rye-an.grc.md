@@ -5,6 +5,7 @@ author: Themistius the Philosopher
 eul_wid: rye-an
 eul_aid: rye
 canonical: "https://eulogikon.org/works/themistius-names-king-consul-rye-an"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Themistius the Philosopher
 
 **eul_wid:** `rye-an` · [HTML page](https://eulogikon.org/works/themistius-names-king-consul-rye-an)
-
-On the Names of the King and the Consul is a political oration by the philosopher and rhetorician Themistius, composed in Attic Greek around 384 CE. As a basileios logos, or imperial speech, it was addressed to the Roman Emperor Theodosius I. The work is structured in twelve sections and centers on a philosophical inquiry into the distinction between merely holding the title of king or consul and embodying the true virtues of leadership. Themistius argues that genuine authority is defined not by nomenclature but by kingly character, particularly the quality of philanthropy—a ruler's love and benevolent care for his subjects. Adapting classical political ideals to a late Roman context, the oration presents the emperor as a "living law," whose personal virtue constitutes justice itself. Modern scholarship interprets the speech as both a panegyric and a subtle piece of political counsel, aiming to guide Theodosius I by anchoring his imperial authority within the tradition of Hellenic philosophy, even as he presided over a Christian empire. The complete text of the oration survives through medieval manuscript transmission.
 
 ## Text
 

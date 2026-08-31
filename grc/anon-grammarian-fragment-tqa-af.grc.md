@@ -5,6 +5,7 @@ author: Greek Grammarian Anonymous
 eul_wid: tqa-af
 eul_aid: tqa
 canonical: "https://eulogikon.org/works/anon-grammarian-fragment-tqa-af"
+lang: grc
 period: Late Antique
 dialect: Koine (frg)
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Greek Grammarian Anonymous
 
 **eul_wid:** `tqa-af` · [HTML page](https://eulogikon.org/works/anon-grammarian-fragment-tqa-af)
-
-The Grammatical Fragment is an anonymous Greek grammatical treatise, likely an excerpt from a larger, now-lost work. It survives in three fragmentary passages. The extant text demonstrates its focus on technical grammatical instruction, providing a detailed analysis of pronoun declensions. It systematically outlines the dual and plural forms of personal pronouns across different cases, such as the nominative, genitive, dative, and accusative. The fragment further distinguishes between the demonstrative and anaphoric uses of these pronouns, illustrating its points with cited examples from epic poetry. As a surviving example of a pedagogical text, it contributes to the corpus of technical grammatical writing from the Hellenistic or Roman periods, reflecting the methods and concerns of ancient linguistic scholarship.
 
 ## Text
 

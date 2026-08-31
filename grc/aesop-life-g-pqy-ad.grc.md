@@ -5,6 +5,7 @@ author: Aesop Life-anonymous
 eul_wid: pqy-ad
 eul_aid: pqy
 canonical: "https://eulogikon.org/works/aesop-life-g-pqy-ad"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Fiction
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aesop Life-anonymous
 
 **eul_wid:** `pqy-ad` · [HTML page](https://eulogikon.org/works/aesop-life-g-pqy-ad)
-
-The Life of Aesop, also known as the Aesop Romance, is an anonymous fictional biography of the legendary storyteller composed in Koine Greek prose during the Roman Imperial period, most likely in the 1st or 2nd century CE. This complete work, structured in 137 chapters, presents a transformative narrative that begins with Aesop as a mute and physically deformed slave. Through the intervention of the goddess Isis, he gains the power of speech and proceeds to serve his philosopher master, Xanthus. The story chronicles his rise from servitude to a position of renown, detailing his clever problem-solving for kings and his eventual tragic demise following a conflict with the citizens of Delphi. The plot frequently incorporates the famous fables attributed to him, blending folktale, satire, and ethical instruction into a cohesive whole.
-
-Modern scholarship regards the work as a significant example of popular novelistic biography that reflects the social tensions of its era. It functions as a satire of formal education and abstract philosophy, championing instead the natural cunning and practical wisdom embodied by an underdog figure. Aesop is crafted as the archetypal "wise slave," whose innate intelligence consistently surpasses that of his social superiors. The text survives in full through several Greek manuscript traditions, with the longer version known as Vita G being the primary witness. It enjoyed wide circulation and readership during the Byzantine period and later, often serving as a biographical preface to collections of Aesop's fables.
 
 ## Text
 

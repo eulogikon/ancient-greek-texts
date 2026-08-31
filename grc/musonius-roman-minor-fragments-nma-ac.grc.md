@@ -5,6 +5,7 @@ author: Musonius the Roman
 eul_wid: nma-ac
 eul_aid: nma
 canonical: "https://eulogikon.org/works/musonius-roman-minor-fragments-nma-ac"
+lang: grc
 period: Roman
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Musonius the Roman
 
 **eul_wid:** `nma-ac` · [HTML page](https://eulogikon.org/works/musonius-roman-minor-fragments-nma-ac)
-
-The Minor Fragments is a collection of twenty-one brief ethical passages attributed to the first-century Roman Stoic philosopher Gaius Musonius Rufus. Written in Koine Greek, the compilation consists not of a continuous treatise but of concise sayings and excerpts. These fragments address practical topics central to Musonius’s teachings, including marriage, the education of women, diet, clothing, and household management, consistently emphasizing the application of virtue to daily life. The collection survives independently from his longer recorded lectures and dialogues. Scholars generally consider these fragments to be authentic, as their doctrines align closely with his major works, and they likely originated as student notes or were extracted from more comprehensive writings that are now lost. Their intended audience was probably the broad circle of students, including women, who attended his lectures in Rome. Though the text is incomplete and represents only a small portion of his original output, it clearly reflects the Roman Stoic focus on practical ethics, personal resilience, and the principle that philosophy must directly guide everyday conduct for all people.
 
 ## Text
 

@@ -4,6 +4,7 @@ author: Athanasius the Great of Alexandria
 eul_wid: twe-bk
 eul_aid: twe
 canonical: "https://eulogikon.org/works/athanasius-alexandria-fourth-oration-arians-twe-bk"
+lang: grc
 period: Late Antique
 domain: Theology
 format: Oration

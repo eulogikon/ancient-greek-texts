@@ -1,10 +1,11 @@
 ---
 title: "Introduction to Aratus,-Interpretation"
 title_greek: Περὶ ἐξηγήσεως
-author: "Aratus Lives "
+author: Aratus Lives
 eul_wid: iru-ad
 eul_aid: iru
 canonical: "https://eulogikon.org/works/aratus-introduction-iru-ad"
+lang: grc
 period: Hellenistic
 dialect: Mixed Dialects
 domain: Biography
@@ -16,13 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Περὶ ἐξηγήσεως*
 
-**Author:** Aratus Lives 
+**Author:** Aratus Lives
 
 **eul_wid:** `iru-ad` · [HTML page](https://eulogikon.org/works/aratus-introduction-iru-ad)
-
-The Introduction to Aratus is a brief, anonymous Greek prose preface to the Phaenomena, the influential astronomical poem by the Hellenistic poet Aratus of Soli. It is one of several introductory biographical sketches, or "Lives of Aratus," transmitted within the manuscript tradition of the poem. The text functions as a scholarly guide, likely providing contextual information on the poet and an exposition of his work's content for students and readers. Its precise date of composition is unknown, but it is generally considered a product of late antique or Byzantine scholarship, a period during which Aratus remained a staple of the educational curriculum.
-
-The work survives not as an independent treatise but as a paratext embedded in the manuscripts of the Phaenomena. It is structured as three concise passages. Some manuscript attributions erroneously assign authorship to Aratus himself, a common scribal confusion where the subject of a commentary is mistaken for its author. Modern scholarship interprets this introduction as a standard pedagogical instrument of its time, exemplifying the enduring tradition of scholia and commentaries that facilitated the transmission and explanation of classical texts to subsequent generations.
 
 ## Text
 

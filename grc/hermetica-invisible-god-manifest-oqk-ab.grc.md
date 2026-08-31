@@ -1,10 +1,11 @@
 ---
 title: "Hermes to His Son Tat, That the Invisible God is Most Manifest"
 title_greek: Πρὸς Τὰτ υἱόν ὅτι ἀφανὴς θεὸς φανερώτατός ἐστιν
-author: "Hermetica "
+author: Hermetica
 eul_wid: oqk-ab
 eul_aid: oqk
 canonical: "https://eulogikon.org/works/hermetica-invisible-god-manifest-oqk-ab"
+lang: grc
 period: Roman
 dialect: Philosophical Koine
 domain: Philosophy
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πρὸς Τὰτ υἱόν ὅτι ἀφανὴς θεὸς φανερώτατός ἐστιν*
 
-**Author:** Hermetica 
+**Author:** Hermetica
 
 **eul_wid:** `oqk-ab` · [HTML page](https://eulogikon.org/works/hermetica-invisible-god-manifest-oqk-ab)
-
-_Hermes to His Son Tat, That the Invisible God is Most Manifest_ is the fifth tractate of the _Corpus Hermeticum_, a collection of Greek philosophical and theological texts attributed to the legendary sage Hermes Trismegistus. Composed in Roman Egypt between roughly 100 and 300 CE, the work is a short instructional dialogue in which Hermes reveals a central paradox to his son Tat: the supreme God is invisible, yet is simultaneously the most manifest of all things. The text argues that God, being eternal and ungenerated, is inherently invisible and beyond sensory perception. In contrast, all visible, generated things are transient, having come into appearance. The divine invisibility is therefore not a deficiency but a sign of absolute, unchanging being. God makes all other things manifest while remaining unmanifest, generates creation without being generated, and is present in all appearances without being subject to appearance. The tractate concludes that this invisible God can only be apprehended through the intellect, and it instructs Tat to pray for a ray of divine illumination to enlighten his mind. The work survives as part of the _Corpus Hermeticum_, preserved through Byzantine manuscripts and rediscovered in the West during the Renaissance. Modern scholars interpret it as part of a syncretic tradition blending Middle Platonic and Stoic philosophical concepts with Egyptian religious thought, intended to guide spiritual initiates toward an intellectual understanding of the divine. It distinguishes between the invisible, transcendent supreme God and the visible, creative Demiurge, a distinction influential in later Gnostic and esoteric traditions. As a key part of the Hermetic corpus, this tractate exerted significant influence on Renaissance esoteric, philosophical, and theological movements.
 
 ## Text
 

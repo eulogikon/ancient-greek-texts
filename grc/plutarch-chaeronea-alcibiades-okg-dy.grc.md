@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-dy
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-alcibiades-okg-dy"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-dy` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-alcibiades-okg-dy)
-
-Plutarch’s Life of Alcibiades is a biographical essay composed in Greek around 100 CE as part of his larger series, the Parallel Lives. In this work, Plutarch pairs the Athenian statesman Alcibiades with the Roman general Coriolanus, aiming not merely to chronicle historical events but to reveal moral character through illustrative actions and personal anecdotes. The narrative traces the entire arc of Alcibiades’ dramatic life, beginning with his aristocratic lineage and education under Socrates. It follows his dazzling yet controversial political and military career during the Peloponnesian War, detailing his strategic brilliance, his multiple exiles, his subsequent service to Athens’ enemies, and his eventual assassination. The biography survives intact through medieval manuscript traditions and presents a continuous, unified portrait. Written during the height of the Roman Empire, the work serves as a project of cultural and moral comparison for an educated Greco-Roman audience. Modern scholars often interpret the life as a study in profound duality, emphasizing the contradiction between Alcibiades’ extraordinary natural gifts and ambition on one hand, and his moral instability and destructive pride on the other. Plutarch’s overarching purpose is generally understood to encourage reflection on how personal character, education, and the vicissitudes of fortune ultimately determine a leader’s destiny.
 
 ## Text
 

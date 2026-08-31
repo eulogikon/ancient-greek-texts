@@ -1,10 +1,11 @@
 ---
 title: Epigram
 title_greek: Ἐπίγραμμα
-author: "Hegemon of Alexandria "
+author: Hegemon of Alexandria
 eul_wid: jvk-ab
 eul_aid: jvk
 canonical: "https://eulogikon.org/works/hegemon-alexandria-epigram-jvk-ab"
+lang: grc
 period: Hellenistic
 dialect: Epic (Homeric)
 domain: Epic
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἐπίγραμμα*
 
-**Author:** Hegemon of Alexandria 
+**Author:** Hegemon of Alexandria
 
 **eul_wid:** `jvk-ab` · [HTML page](https://eulogikon.org/works/hegemon-alexandria-epigram-jvk-ab)
-
-The Epigram is a short verse composition attributed to Hegemon of Alexandria, a grammarian noted in the Suda lexicon as the author of a work titled Hellenica. This figure should be distinguished from Hegemon of Thasos, who is associated with the invention of literary parody. The work is recorded as comprising four passages, though its specific subject matter, metrical form, and content are not detailed in any extant sources. The epigram itself is not directly quoted in surviving anthologies or manuscript collections; its attribution and basic structure are known only from secondary references. Consequently, its precise preservation status and location within the manuscript tradition remain unspecified. While the specific influence of this epigram is undocumented, its attribution places it within the broader tradition of Greek epigrammatic poetry, a versatile form used for inscription, commemoration, and literary display. The association with Hegemon of Alexandria suggests a potential connection to the scholarly and grammatical circles of the Hellenistic or later period.
 
 ## Text
 

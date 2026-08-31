@@ -5,6 +5,7 @@ author: Rutilius Rufus the Historian
 eul_wid: moo-aa
 eul_aid: moo
 canonical: "https://eulogikon.org/works/rutilius-rufus-historical-fragments-moo-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Rutilius Rufus the Historian
 
 **eul_wid:** `moo-aa` · [HTML page](https://eulogikon.org/works/rutilius-rufus-historical-fragments-moo-aa)
-
-The Historical Fragments are a collection of surviving passages from a historical work composed in Greek by the Roman statesman Publius Rutilius Rufus. A consul and Stoic philosopher who lived from approximately 158 to after 78 BCE, Rutilius wrote this autobiographical memoir during or after his exile in the first century BCE. The original work provided a firsthand account of major political and military events during the tumultuous late Roman Republic. No independent copy of the text survives; the extant fragments are preserved solely as quotations embedded within the works of later authors, most notably Plutarch and Aulus Gellius, with additional citations found in Cicero and Velleius Paterculus.
-
-The content of these fragments offers a rare contemporary perspective from a high-ranking participant in the affairs of the Republic. They provide detailed accounts of key political figures and conflicts, including Gaius Marius, Lucius Cornelius Sulla, the Jugurthine War, and the Social War. Rutilius also recorded observations on Roman military tactics, discipline, and reforms, drawing from his own extensive experience. Furthermore, the work is infused with Stoic reflections on ethics and personal conduct, often framed by the author’s personal experience of political persecution and unjust exile, which colored his interpretation of events.
-
-The historical significance of Rutilius’s work is considerable. As a primary source written by an insider, it was highly influential for later historians. Plutarch, in particular, relied on it extensively as a source for his Life of Marius. The fragments thus preserve invaluable and often critical eyewitness perspectives on the personalities and transformative crises that marked the end of the Roman Republic, ensuring that Rutilius’s voice, though fragmented, remains an essential resource for understanding this pivotal era.
 
 ## Text
 

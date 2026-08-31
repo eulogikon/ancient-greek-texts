@@ -1,10 +1,11 @@
 ---
 title: Chronicle
 title_greek: Χρονικόν
-author: "Ephraem of Aenus "
+author: Ephraem of Aenus
 eul_wid: uza-aa
 eul_aid: uza
 canonical: "https://eulogikon.org/works/ephraem-aenus-chronicle-uza-aa"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: History
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Χρονικόν*
 
-**Author:** Ephraem of Aenus 
+**Author:** Ephraem of Aenus
 
 **eul_wid:** `uza-aa` · [HTML page](https://eulogikon.org/works/ephraem-aenus-chronicle-uza-aa)
-
-The Chronicle of Ephraem of Aenus is a Byzantine historical poem composed in political verse, the standard Byzantine dodecasyllable. Written between approximately 1313 and 1325 or 1326, the work spans world history from the Creation up to the year 1313, with a subsequent continuation extending the narrative to 1325 or 1326, structured in a total of 661 verses. It is a conscious stylistic imitation of the celebrated 12th-century verse Chronicle of Constantine Manasses, functioning as a compendium of biblical, ancient, and medieval history within the established tradition of Byzantine verse chronicles. Its content presents a providential Christian history from Adam to the author's own time, following the traditional framework of the succession of empires—Assyrians, Medes, Persians, Macedonians, and Romans. The later sections provide particularly detailed accounts of contemporary events from the late 13th and early 14th centuries, including the campaigns of the Catalan Company, serving to contextualize and legitimize the contemporary Palaiologan dynasty. The complete work is preserved through a clear 14th-century manuscript tradition, with the primary witness being the codex Parisinus Graecus 1711; the editio princeps was published by Immanuel Bekker in 1840. Ephraem's chronicle is a significant product of the Palaiologan cultural revival, composed for an educated elite and dedicated to the prominent courtier and scholar Theodore Metochites. It stands as a valuable contemporary historical source for early 14th-century events and was utilized by later historians such as Nikephoros Gregoras.
 
 ## Text
 

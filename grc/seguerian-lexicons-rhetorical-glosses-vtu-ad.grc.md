@@ -5,6 +5,7 @@ author: Seguerian Lexicons
 eul_wid: vtu-ad
 eul_aid: vtu
 canonical: "https://eulogikon.org/works/seguerian-lexicons-rhetorical-glosses-vtu-ad"
+lang: grc
 period: Late Antique
 dialect: Mixed Dialects
 domain: Grammar
@@ -19,20 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Seguerian Lexicons
 
 **eul_wid:** `vtu-ad` · [HTML page](https://eulogikon.org/works/seguerian-lexicons-rhetorical-glosses-vtu-ad)
-
-Overview The Γλωσσῶν Ῥητορικῶν (Rhetorical Glosses) is an anonymous Greek lexicographical work comprising 141 entries. It functions as a glossary, providing definitions for words and phrases used by orators and rhetorical writers, and is cataloged among grammatical texts.
-
-Content
-
-Lexicography: A systematic compilation of lemmata with brief explanations.
-
-Rhetorical Terminology: Focus on clarifying the specialized vocabulary of oratory and prose composition.
-
-Atticism: Likely aims to elucidate classical Attic usage, consistent with later scholarly traditions.
-
-Transmission The work survives within the corpus of Greek grammatical writings and is included in modern critical editions such as the Grammatici Graeci. Its precise manuscript tradition and relationship to similar glossaries are not detailed in the consulted sources.
-
-Significance As part of a broad philological tradition, the glossary served as a tool for students and practitioners of rhetoric, contributing to the preservation of classical vocabulary and the pedagogical transmission of rhetorical art in subsequent periods.
 
 ## Text
 

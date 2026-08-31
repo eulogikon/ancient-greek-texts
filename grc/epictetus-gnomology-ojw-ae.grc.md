@@ -5,6 +5,7 @@ author: Epictetus the Stoic
 eul_wid: ojw-ae
 eul_aid: ojw
 canonical: "https://eulogikon.org/works/epictetus-gnomology-ojw-ae"
+lang: grc
 period: Roman
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Epictetus the Stoic
 
 **eul_wid:** `ojw-ae` · [HTML page](https://eulogikon.org/works/epictetus-gnomology-ojw-ae)
-
-The Gnomology of Epictetus is a collection of forty ethical maxims attributed to the Stoic philosopher Epictetus. Unlike his major works, the Discourses and the Enchiridion, this text is not a continuous treatise but a later anthology compiled from his teachings, likely in the first or second century CE. It presents core Stoic principles in a concise, memorable form focused on practical guidance. The content emphasizes the fundamental Stoic distinction between what is within one’s power, such as moral choice and judgment, and what is not, advocating for the acceptance of external events as part of a rational, providential order. The maxims promote inner freedom achieved through correct reasoning, the diligent fulfillment of one's social roles as an ethical duty, and a life of simplicity and self-sufficiency in accordance with nature. The gnomology has a separate manuscript tradition from Epictetus’s canonical works. It survives in Greek manuscripts and is considered authentic in doctrine, though it is a posthumous compilation that may have been subject to expansion and variation across copies. This collection contributed to the popularization of Stoic thought by distilling it into digestible aphorisms. The gnomological format helped ensure the endurance and accessibility of Epictetus’s key ethical ideas, influencing later philosophical and cultural thought.
 
 ## Text
 

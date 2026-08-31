@@ -5,6 +5,7 @@ author: Oribasius of Pergamon
 eul_wid: soi-ac
 eul_aid: soi
 canonical: "https://eulogikon.org/works/oribasius-pergamon-summary-eustathius-soi-ac"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Oribasius of Pergamon
 
 **eul_wid:** `soi-ac` · [HTML page](https://eulogikon.org/works/oribasius-pergamon-summary-eustathius-soi-ac)
-
-The Summary to Eustathius the Son is a nine-book medical treatise written in Greek by the physician Oribasius of Pergamon in the late fourth century CE. Composed as a practical manual for his son Eustathius, who followed him into the medical profession, the work is a concise distillation of Oribasius’s own monumental 70-book medical encyclopedia. It organizes 2,578 passages thematically to serve as a rapid reference guide, systematically covering the general principles of health maintenance, diagnosis, and therapeutic intervention. Its contents are comprehensive, detailing prophylactic measures for exercise and bathing, instructions for various purgative procedures, and extensive pharmacological knowledge. This includes the properties and preparation of simple and compound drugs, the use of plasters, ointments, and pills, and detailed dietary advice categorizing foods by their digestibility and physiological effects.
-
-The treatise survives in its complete form, a testament to its enduring practical value as a compact handbook. Written after the death of Oribasius’s patron, the Emperor Julian, it exemplifies the late antique scholarly tradition of creating accessible digests of classical knowledge, drawing primarily from the works of Galen. Modern scholarship views it as both a professional tool for practicing physicians and a personal didactic text for familial instruction. Its influence was extensive and long-lasting; translated into Latin in the sixth century and later into Arabic, it became a standard medical manual in the Byzantine, medieval Western, and Islamic worlds for more than a thousand years.
 
 ## Text
 

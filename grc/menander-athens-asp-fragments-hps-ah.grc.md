@@ -5,6 +5,7 @@ author: Menander of Athens
 eul_wid: hps-ah
 eul_aid: hps
 canonical: "https://eulogikon.org/works/menander-athens-asp-fragments-hps-ah"
+lang: grc
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Menander of Athens
 
 **eul_wid:** `hps-ah` · [HTML page](https://eulogikon.org/works/menander-athens-asp-fragments-hps-ah)
-
-Fragments of the Asp Known Elsewhere are several passages attributed to the Athenian playwright Menander’s comedy Aspis, or The Shield. These lines are preserved not in the primary papyrus source for the play but through quotations by other ancient authors, such as lexicographers and grammarians. The comedy itself is partially reconstructed from a substantial papyrus discovered in the 20th century, which preserves roughly half of the text. The plot centers on a clever slave named Daos, who devises a scheme to protect the estate of a young soldier believed to have been killed in battle. By presenting the soldier’s returned shield as evidence of a worthless inheritance, Daos successfully deters the soldier’s greedy uncle, Smicrines, from claiming the estate and forcing a marriage with the soldier’s sister. The fragments illuminate key themes of the play, including deception and ingenuity, the critique of opportunistic greed, the role of fortune in human affairs, and legal complexities surrounding family guardianship and inheritance. Menander’s works, largely lost after antiquity, were recovered primarily through papyri found in Egypt. The transmission of these particular fragments relies on their citation in ancient scholarly works, with modern editions compiling them to supplement the main papyrus text. Collectively, they enhance the study of New Comedy, showcasing Menander’s refined realism, stock characters, and domestic plots, which would later exert a profound influence on Roman comedy and the broader Western dramatic tradition.
 
 ## Text
 

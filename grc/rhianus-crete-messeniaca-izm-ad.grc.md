@@ -5,6 +5,7 @@ author: Rhianus of Crete
 eul_wid: izm-ad
 eul_aid: izm
 canonical: "https://eulogikon.org/works/rhianus-crete-messeniaca-izm-ad"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: Epic
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Rhianus of Crete
 
 **eul_wid:** `izm-ad` · [HTML page](https://eulogikon.org/works/rhianus-crete-messeniaca-izm-ad)
-
-The Messeniaca was a historical epic poem composed in the 3rd century BCE by the Hellenistic poet Rhianus of Crete. Written in the traditional Homeric dialect and meter, it narrated the history of the region of Messenia, centering on the Second Messenian War against Sparta in the 7th century BCE. The poem celebrated Messenian heroism and identity, serving to legitimize the region's political revival following its liberation from Spartan hegemony. The complete work is now lost, surviving only in approximately twenty-two fragments ranging from single lines to short passages. These remnants, which preserve elements of heroic combat, mythological genealogies, and descriptions of local places and cults, are known almost entirely through quotations by later authors. The principal source is the travel writer Pausanias, who in the 2nd century CE used Rhianus’s epic as a major authority for Messenian history. Modern scholarship regards the Messeniaca as a key example of Hellenistic historical epic, notable for its adaptation of Homeric style to celebrate a local, post-Homeric past.
 
 ## Text
 

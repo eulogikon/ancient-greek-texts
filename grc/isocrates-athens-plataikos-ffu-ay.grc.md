@@ -5,6 +5,7 @@ author: Isocrates of Athens
 eul_wid: ffu-ay
 eul_aid: ffu
 canonical: "https://eulogikon.org/works/isocrates-athens-plataikos-ffu-ay"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Isocrates of Athens
 
 **eul_wid:** `ffu-ay` · [HTML page](https://eulogikon.org/works/isocrates-athens-plataikos-ffu-ay)
-
-The Plataikos is an oration by the Athenian rhetorician Isocrates, written in the form of a speech to be delivered before the Athenian assembly. It was composed in the aftermath of the destruction of the city of Plataea by Thebes in 373 BCE. The work is a direct appeal for Athenian intervention and support, presented by Plataean exiles who plead their case by invoking the long-standing alliance and mutual benefactions between their city and Athens. The oration systematically recounts the historical loyalty of Plataea to Athens, most famously demonstrated during the Persian Wars, and contrasts this with the alleged lawlessness and aggression of Thebes. It argues that aiding Plataea is not only a moral duty for Athens, rooted in justice and ancestral obligation, but also a matter of practical political interest, as it would uphold Athenian prestige and check Theban expansionism. The speech is a masterful example of deliberative oratory, blending emotional appeal with historical precedent and political calculation to persuade its audience. It serves as a significant document of fourth-century interstate relations and Athenian ideological self-perception, illustrating the use of shared history and panhellenic ideals as tools of contemporary diplomacy.
 
 ## Text
 

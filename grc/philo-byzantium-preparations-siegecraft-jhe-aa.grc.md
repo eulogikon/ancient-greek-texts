@@ -1,10 +1,11 @@
 ---
 title: Preparations and Siegecraft
 title_greek: Προπαρασκευαὶ καὶ πολιορκητικά
-author: "Philo of Byzantium "
+author: Philo of Byzantium
 eul_wid: jhe-aa
 eul_aid: jhe
 canonical: "https://eulogikon.org/works/philo-byzantium-preparations-siegecraft-jhe-aa"
+lang: grc
 period: Hellenistic
 dialect: Technical Koine
 domain: Science
@@ -16,13 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Προπαρασκευαὶ καὶ πολιορκητικά*
 
-**Author:** Philo of Byzantium 
+**Author:** Philo of Byzantium
 
 **eul_wid:** `jhe-aa` · [HTML page](https://eulogikon.org/works/philo-byzantium-preparations-siegecraft-jhe-aa)
-
-Preparations and Siegecraft is a technical military treatise by the Hellenistic engineer Philo of Byzantium, composed around 200 BCE. It constitutes the fifth book of his comprehensive encyclopedia, the Mechanike Syntaxis, or Mechanical Collection. The work is a systematic and practical manual dedicated to the art of siege warfare, addressing both defensive preparations and offensive operations. Its thirty chapters methodically cover the construction of city walls, towers, and defensive ditches, alongside detailed instructions for building and deploying offensive artillery such as catapults, battering rams, and mobile protective shelters. The treatise also provides guidance on counter-siege measures, including the use of incendiary materials against enemy assaults.
-
-While the text survives to the present day, it is not preserved in its complete original form. The primary extant version is an abridged summary transmitted through later medieval manuscripts. Modern scholarship regards the treatise as a pinnacle of Hellenistic military engineering, likely compiled for the use of military commanders and royal patrons during a period of intense conflict between the Greek successor kingdoms. It encapsulates the advanced technical knowledge of its era and was designed as a comprehensive, actionable guide for the practical realities of siegecraft. The work proved highly influential, serving as a crucial source for subsequent Roman and Byzantine military writers, most notably the architect Vitruvius.
 
 ## Text
 

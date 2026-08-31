@@ -5,6 +5,7 @@ author: Pindar
 eul_wid: boa-ab
 eul_aid: boa
 canonical: "https://eulogikon.org/works/pindar-victors-boa-ab"
+lang: grc
 period: Archaic
 dialect: Literary Doric
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Pindar
 
 **eul_wid:** `boa-ab` · [HTML page](https://eulogikon.org/works/pindar-victors-boa-ab)
-
-The Olympic Victors is a lost catalogue poem by the lyric poet Pindar. According to the 10th-century Byzantine encyclopedia known as the Suda, it was a comprehensive list of the victors of the Olympic Games, composed in elegiac couplets and spanning 1238 lines. This work is distinct from Pindar's surviving Epinician Odes, which are commissioned choral odes for individual athletes; the Olympic Victors was instead a systematic record. The poem served to commemorate the names and civic origins of the victors, celebrating this peak achievement within the shared Panhellenic athletic and religious tradition. By lending poetic prestige to the official history of the Games, it functioned as an early authoritative effort to systematize the Olympic record, a concept later influential for historical chronology. The work is now lost, with no surviving fragments, and knowledge of it derives entirely from later testimonia. Its disappearance aligns with the loss of most of Pindar's non-epinician poetry, yet it illustrates a different facet of his literary output, extending his craft into the realm of catalogic verse.
 
 ## Text
 
@@ -504,6 +503,8 @@ The Olympic Victors is a lost catalogue poem by the lyric poet Pindar. According
 
 μή τιν’ ἀμφότερα καλῶν τε ἴδˈριν ἅ‐
 
+*[crux: ἅ‐]*
+
 ### book 1.104
 
 μα καὶ δύναμιν κυριώτερον
@@ -547,6 +548,8 @@ The Olympic Victors is a lost catalogue poem by the lyric poet Pindar. According
 ### book 1.110.4
 
 ἄλλοισι δ’ ἄλλοι μεγάλοι· τὸ δ’ ἔ‐
+
+*[crux: ἄλλοισι]*
 
 ### book 1.113.1
 
@@ -839,6 +842,8 @@ The Olympic Victors is a lost catalogue poem by the lyric poet Pindar. According
 ### book 2.53.2
 
 καιρὸν βαθεῖαν ὑπέχων μέριμναν ἀγˈροτέραν,
+
+*[crux: ἀγˈροτέραν]*
 
 ### book 2.55.1
 
@@ -3484,6 +3489,8 @@ The Olympic Victors is a lost catalogue poem by the lyric poet Pindar. According
 
 ἐξ οὗ Θέτιος γόνος οὐλίῳ νιν ἐν Ἄρει
 
+*[crux: γόνος]*
+
 ### book 9.75.3
 
 παραγορεῖτο μή ποτε
@@ -3688,6 +3695,8 @@ The Olympic Victors is a lost catalogue poem by the lyric poet Pindar. According
 
 τόκος θνατῶν· νῦν ψᾶφον ἑλισσομέναν
 
+*[crux: θνατῶν]*
+
 ### book 10.10.1
 
 ὁπᾷ κῦμα κατακλύσσει ῥέον,
@@ -3763,6 +3772,8 @@ The Olympic Victors is a lost catalogue poem by the lyric poet Pindar. According
 ### book 10.25.1
 
 βωμῷ ἑξάριθμον ἐκτίσσατο,
+
+*[crux: βωμῷ]*
 
 ### book 10.25.2
 
@@ -4835,6 +4846,8 @@ The Olympic Victors is a lost catalogue poem by the lyric poet Pindar. According
 ### book 13.107.1
 
 Θήβαις· ὅσα τ’ Ἀρκάσιν ἀνάσσων
+
+*[crux: ἀνάσσων]*
 
 ### book 13.107.2
 

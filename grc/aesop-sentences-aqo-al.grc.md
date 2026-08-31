@@ -5,6 +5,7 @@ author: Aesop the Fabulist
 eul_wid: aqo-al
 eul_aid: aqo
 canonical: "https://eulogikon.org/works/aesop-sentences-aqo-al"
+lang: grc
 period: Archaic
 dialect: Mixed Dialects
 domain: Fiction
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aesop the Fabulist
 
 **eul_wid:** `aqo-al` · [HTML page](https://eulogikon.org/works/aesop-sentences-aqo-al)
-
-The Sentences, also known as the Gnōmai, is a collection of thirty-eight short prose maxims attributed to Aesop. Unlike his narrative fables, this work consists entirely of standalone, pithy sayings that offer practical and ethical advice. The concise entries, typically one to three sentences in length, cover themes such as friendship, wisdom, and the nature of the divine. The content emphasizes practical wisdom for navigating social relationships and daily life, including caution in speech and the careful selection of friends. It also advocates for ethical virtues like self-control, justice, and piety, while offering reflections on the power and knowledge of the gods in contrast to human limitations. The collection frequently critiques human folly, warning against stubbornness, greed, and poor judgment.
-
-The Sentences are transmitted as part of the larger and fluid corpus of Aesopic material in Greek. They are preserved in medieval manuscripts that compile various collections of fables and sayings. The work is considered a later compilation attributed to the legendary fabulist, and its transmission history is deeply intertwined with that of the fables through Byzantine scholarship. As part of the enduring Aesopic corpus, this collection reinforced Aesop’s cultural image as a foundational source of universal wisdom. Such gnomic collections were commonly used for moral instruction, and the themes of the Sentences are subsumed within the broader didactic legacy of Aesopic literature.
 
 ## Text
 

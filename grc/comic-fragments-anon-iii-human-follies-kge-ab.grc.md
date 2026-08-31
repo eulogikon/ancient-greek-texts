@@ -5,6 +5,7 @@ author: Comic Fragments Anonymous III
 eul_wid: kge-ab
 eul_aid: kge
 canonical: "https://eulogikon.org/works/comic-fragments-anon-iii-human-follies-kge-ab"
+lang: grc
 period: Hellenistic
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Comic Fragments Anonymous III
 
 **eul_wid:** `kge-ab` · [HTML page](https://eulogikon.org/works/comic-fragments-anon-iii-human-follies-kge-ab)
-
-The Comic Fragments on Human Follies is a modern scholarly compilation that thematically assembles excerpts from lost Greek comedies to illustrate the satirical treatment of human foolishness. This collection draws from the fragmentary remains of comic playwrights across the periods of Old, Middle, and New Comedy, offering a curated glimpse into a vast, otherwise inaccessible literary tradition. The selected fragments exemplify standard comic critiques, including social satire of stereotypical characters like the miser and the braggart, moral criticism of greed and hypocrisy, parody of intellectual pretensions, and observations on domestic life and universal human weaknesses.
-
-The original comic lines from which these fragments derive were preserved indirectly through quotations in later authors such as Athenaeus and Stobaeus, as well as through papyrus discoveries. This modern assemblage is therefore a secondary curation from that scattered and fragmentary corpus. Despite their disjointed nature, these fragments constitute crucial evidence for reconstructing the broader history of Greek comedy beyond the complete surviving plays of Aristophanes and Menander. They provide invaluable insights into ancient popular morality, social structures, and daily life, demonstrating the enduring role of comedy in critiquing the perennial follies of human nature.
 
 ## Text
 

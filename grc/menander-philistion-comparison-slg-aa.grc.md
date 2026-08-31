@@ -1,10 +1,11 @@
 ---
 title: Comparison of Menander and Philistion
 title_greek: Σύγκρισις Μενάνδρου καὶ Φιλίστιωνος
-author: "Menander and Philistion Comparison "
+author: Menander and Philistion Comparison
 eul_wid: slg-aa
 eul_aid: slg
 canonical: "https://eulogikon.org/works/menander-philistion-comparison-slg-aa"
+lang: grc
 period: Late Antique
 dialect: Mixed Dialects
 domain: Philosophy
@@ -16,13 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σύγκρισις Μενάνδρου καὶ Φιλίστιωνος*
 
-**Author:** Menander and Philistion Comparison 
+**Author:** Menander and Philistion Comparison
 
 **eul_wid:** `slg-aa` · [HTML page](https://eulogikon.org/works/menander-philistion-comparison-slg-aa)
-
-The Comparison of Menander and Philistion is a brief Greek prose essay from the Imperial Roman period, likely composed in the first or second century CE. Though traditionally included among the miscellaneous works of Plutarch in the corpus known as the Moralia, its authorship remains uncertain. The text presents a direct literary comparison between two Athenian comic playwrights: the celebrated master of New Comedy, Menander, and the lesser-known Philistion, a writer of the preceding Middle Comedy period. It systematically evaluates the two authors by cataloging their respective merits and faults. Menander is praised for the elegance of his plots, the propriety of his language, and the skillful delineation of his characters. Philistion, by contrast, is criticized for his reliance on crude humor and his overall artistic inferiority. The essay concludes with a definitive judgment in favor of Menander as the superior artist.
-
-Surviving as a complete short work within the Plutarchan tradition, the essay is interpreted by modern scholars as a piece of literary criticism characteristic of the Second Sophistic, a cultural movement deeply engaged with the evaluation and emulation of classical Greek models. It appears intended for an educated elite audience, using the comparative framework to articulate standards of refined taste and to affirm Menander’s established canonical status. While the attribution to Plutarch himself is debated, the work’s analytical method of pairing and contrasting two figures reflects the broader ancient interest in synkritic analysis for which Plutarch is particularly renowned.
 
 ## Text
 

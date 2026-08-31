@@ -5,6 +5,7 @@ author: Magical Treatises Anonymous
 eul_wid: smk-ab
 eul_aid: smk
 canonical: "https://eulogikon.org/works/magical-treatises-anon-papyri-ostraca-smk-ab"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Magical Treatises Anonymous
 
 **eul_wid:** `smk-ab` · [HTML page](https://eulogikon.org/works/magical-treatises-anon-papyri-ostraca-smk-ab)
-
-The Greek Magical Papyri constitute a modern designation for an extensive and fragmentary corpus of ancient handbooks, primarily inscribed in Greek on papyrus and pottery shards known as ostraca. Compiled in Greco-Roman Egypt between the second century BCE and the fifth century CE, the collection is not a unified literary work but rather a diverse assembly of practical manuals intended for ritual specialists. These texts provide detailed procedural instructions for performing spells and rituals designed to achieve quotidian objectives, including attracting love, cursing rivals, healing ailments, and divining the future. The content is profoundly syncretic, weaving together invocations to deities from Greek, Egyptian, Jewish, and other religious traditions, and is characterized by the prolific use of esoteric magical words, symbols, and elaborate material preparations.
-
-The corpus survives exclusively in its original, often damaged, state on the papyrus fragments and ostraca recovered by archaeologists, largely from Egypt’s arid environment. Unlike canonical literary texts, these practical handbooks were not transmitted through medieval manuscript copying; their preservation is entirely fortuitous. Scholars regard the collection as an invaluable resource for understanding the operational dimensions of ancient religious practice and the dynamics of cross-cultural exchange, illuminating a world where the boundaries between magic, religion, and medicine were permeable and indistinct. The papyri are believed to represent the working tools of professional magicians who served a broad clientele within the culturally pluralistic society of Greco-Roman Egypt.
 
 ## Text
 

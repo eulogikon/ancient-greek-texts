@@ -5,6 +5,7 @@ author: Menander of Athens
 eul_wid: hps-ar
 eul_aid: hps
 canonical: "https://eulogikon.org/works/menander-athens-double-deceiver-hps-ar"
+lang: grc
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Menander of Athens
 
 **eul_wid:** `hps-ar` · [HTML page](https://eulogikon.org/works/menander-athens-double-deceiver-hps-ar)
-
-The Double Deceiver is a comedy by the Athenian playwright Menander, composed circa 300 BCE. As a work of New Comedy, it is written in verse and employs the Attic Greek dialect, shifting focus from the political satire of earlier Old Comedy to domestic and romantic intrigues set within contemporary Athenian society. The play survives only in a fragmentary state, known through approximately 74 passages preserved in quotations by later ancient authors and on papyrus scraps. These fragments suggest a plot archetypal of Menander, revolving around a cunning slave who devises an intricate double deception to assist his young master in overcoming social obstacles—often a stern father—and securing marriage to a desired young woman. The surviving dialogue hints at confrontations and persuasive schemes involving these central characters.
-
-The play stands as a characteristic example of Menander’s dramatic craft and the New Comedy genre, which was designed for popular entertainment at Athenian civic festivals. Its thematic concerns likely explored the mechanics and morality of deception, the complex relationship between slaves and masters, and the social imperative of marriage. Although the complete text was lost during the medieval period, its reconstructed elements contribute to the understanding of Menander’s pervasive influence. His comic structures and stock characters, epitomized in works like The Double Deceiver, were extensively adapted by Roman dramatists such as Plautus and Terence, thereby fundamentally shaping the evolution of Western comedic tradition.
 
 ## Text
 

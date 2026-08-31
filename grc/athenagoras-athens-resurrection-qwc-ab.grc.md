@@ -5,6 +5,7 @@ author: Athenagoras of Athens
 eul_wid: qwc-ab
 eul_aid: qwc
 canonical: "https://eulogikon.org/works/athenagoras-athens-resurrection-qwc-ab"
+lang: grc
 period: Roman
 dialect: Christian Koine
 domain: Theology
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Athenagoras of Athens
 
 **eul_wid:** `qwc-ab` · [HTML page](https://eulogikon.org/works/athenagoras-athens-resurrection-qwc-ab)
-
-On the Resurrection is a philosophical treatise composed in Greek by the early Christian apologist Athenagoras of Athens, written circa 177–180 CE. The work presents a systematic defense of the Christian doctrine concerning the bodily resurrection of the dead, structured into 69 concise chapters. Addressing a skeptical Greco-Roman audience, Athenagoras deliberately eschews scriptural citation, constructing his case instead upon rational proofs drawn from the principles of contemporary Platonic and Stoic philosophy. His central argument posits that an omnipotent and just deity, who originally fashioned human beings as an essential unity of body and soul, possesses both the capability and the moral purpose to reconstitute this composite entity for a final judgment. The treatise survives in its entirety, preserved primarily within a single manuscript from the 11th century. It was composed during an era when Christian teachings faced accusations of irrationality, with the concept of physical resurrection being particularly anathema to prevailing Greek philosophical sensibilities. Modern scholarship interprets the work as a sophisticated early endeavor to reconcile Christian revelation with classical rationalism, serving as a significant forerunner to later, more comprehensive theological syntheses. It is frequently regarded as a companion piece to Athenagoras's earlier apologetic work, the Plea for the Christians, which was addressed to the Roman emperors.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Simmias of Rhodes
 eul_wid: igq-aa
 eul_aid: igq
 canonical: "https://eulogikon.org/works/simmias-rhodes-distant-lands-igq-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Simmias of Rhodes
 
 **eul_wid:** `igq-aa` · [HTML page](https://eulogikon.org/works/simmias-rhodes-distant-lands-igq-aa)
-
-Fragments on Distant Lands is a lost treatise by the early Hellenistic grammarian and poet Simmias of Rhodes, who was active around 300 BCE. The work is known only from its listing in the tenth-century Byzantine encyclopedia, the Suda, which records that it consisted of seventeen passages. The title indicates it was a collection of excerpts concerning remote geography, a subject aligning with Simmias’s known scholarly focus on the lexicography and exegesis of poetic texts. Based on the author's profile, the treatise likely addressed the geographical exegesis of place names found in earlier Greek literature, offered lexicographical analysis of rare terms related to geography and ethnography, and provided interpretation of geographical references within Homeric epic. No direct quotations or fragments from the treatise survive in extant sources; its existence is preserved solely as a title in the Suda. While the treatise itself is lost, its recorded title exemplifies the Alexandrian scholarly project of systematizing knowledge from the literary canon. Simmias’s grammatical works contributed to the critical methodologies developed by contemporaries like Philetas of Cos and Zenodotus of Ephesus, thereby influencing the trajectory of later Alexandrian scholarship.
 
 ## Text
 

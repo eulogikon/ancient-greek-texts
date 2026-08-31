@@ -1,10 +1,11 @@
 ---
 title: On Accents and Breathings
 title_greek: Ἀποσπάσματα
-author: "Tryphon the Grammarian "
+author: Tryphon the Grammarian
 eul_wid: ncu-ab
 eul_aid: ncu
 canonical: "https://eulogikon.org/works/tryphon-grammarian-accents-breathings-ncu-ab"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: Grammar
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀποσπάσματα*
 
-**Author:** Tryphon the Grammarian 
+**Author:** Tryphon the Grammarian
 
 **eul_wid:** `ncu-ab` · [HTML page](https://eulogikon.org/works/tryphon-grammarian-accents-breathings-ncu-ab)
-
-On Accents and Breathings, also known by the title Apospasmata or "Excerpts," is a grammatical treatise by the Alexandrian scholar Tryphon, who was active in the 1st century BCE. The work is a technical handbook on Greek prosody, providing a systematic exposition of the rules governing the use of the three accents—acute, grave, and circumflex—and the two breathings, rough and smooth, in written texts. Structured as a collection of 133 discrete notes, it functions as a scholarly compilation for reference rather than a continuous narrative. Composed within the Alexandrian philological tradition, which was dedicated to the preservation and accurate interpretation of classical literature, the treatise was intended for an audience of advanced students, teachers, and textual editors who required precise guidelines for pronunciation and the critical emendation of texts. The work does not survive in a complete manuscript; its contents are known principally through quotations and excerpts preserved in later Byzantine grammatical commentaries and lexica. Tryphon is regarded by modern scholarship as a respected specialist in prosody, whose systematic observations served as a source for subsequent, more influential grammarians and thereby contributed to the enduring traditions of Greek grammatical instruction.
 
 ## Text
 

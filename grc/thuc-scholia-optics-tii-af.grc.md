@@ -5,6 +5,7 @@ author: Thucydides Scholia
 eul_wid: tii-af
 eul_aid: tii
 canonical: "https://eulogikon.org/works/thuc-scholia-optics-tii-af"
+lang: grc
 period: Late Antique
 dialect: Byzantine Technical
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Thucydides Scholia
 
 **eul_wid:** `tii-af` · [HTML page](https://eulogikon.org/works/thuc-scholia-optics-tii-af)
-
-The Scholia on Theon's Optics is a collection of 114 ancient prose commentaries elucidating the optical treatise of the mathematician Theon. Attributed to the "Thucydides Scholia," these notes are preserved within the manuscript tradition of the historian Thucydides, an unusual context for a scientific commentary. As a scholiastic work, it functions as a marginal or interlinear exegesis, providing explanations of technical optical terminology and geometric concepts, clarifying proofs related to vision, and offering textual criticism on Theon's base text. The scholia survive solely through their embedded transmission within Thucydidean manuscripts, representing a specialized subset within the larger and complex body of ancient scholarship on that historian. This work is significant for illustrating the reception and study of scientific material within a broader literary and scholarly tradition, serving as a valuable source for the history of optics and the practices of ancient exegesis.
 
 ## Text
 

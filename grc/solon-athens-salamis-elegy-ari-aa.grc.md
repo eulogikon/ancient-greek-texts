@@ -5,6 +5,7 @@ author: Solon of Athens
 eul_wid: ari-aa
 eul_aid: ari
 canonical: "https://eulogikon.org/works/solon-athens-salamis-elegy-ari-aa"
+lang: grc
 period: Archaic
 dialect: Attic
 domain: Poetry
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Solon of Athens
 
 **eul_wid:** `ari-aa` · [HTML page](https://eulogikon.org/works/solon-athens-salamis-elegy-ari-aa)
-
-Solon’s “Salamis Elegy” is a fragmentary elegiac poem attributed to the Athenian statesman and poet Solon, composed around 600 BCE. It is a passionate political exhortation urging the Athenians to renew war against Megara to reclaim the island of Salamis. According to ancient tradition, Solon recited the poem publicly to circumvent a law that forbade advocating for the war, a performance credited with shifting public opinion and reigniting the conflict. The surviving text opens with the poet declaring himself a herald from lovely Salamis, framing his verse as a substitute for a political speech. He expresses a fierce patriotic shame, stating he would rather be a citizen of another island than be known as an Athenian who abandoned Salamis, and calls his countrymen to battle to avert a grievous disgrace.
-
-The poem then broadens into a critique of contemporary Athenian society, blaming the city’s internal dangers on the citizens themselves. It condemns the people for their folly and the unjust minds of the leaders, who are driven by greed and fail to restrain their excess. The elegy accuses them of plundering both sacred and public property, warning that such hubris will lead to great suffering. This moral and political warning is juxtaposed with an expression of divine confidence, asserting that the city itself is protected by the goddess Athena and will never be destroyed by the will of Zeus or the immortal gods; its peril stems solely from internal corruption. The work survives not as a complete poem but through quotations in later ancient sources, such as Plutarch’s biography of Solon. It stands as a key example of how poetry functioned as a tool of direct political persuasion in archaic Greece, intertwining calls to military action with themes of civic duty, honor, and social justice. Its performance is thought to have bolstered Solon’s reputation and contributed to Athens’ eventual victory in the struggle for Salamis.
 
 ## Text
 

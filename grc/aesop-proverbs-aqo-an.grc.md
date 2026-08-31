@@ -5,6 +5,7 @@ author: Aesop the Fabulist
 eul_wid: aqo-an
 eul_aid: aqo
 canonical: "https://eulogikon.org/works/aesop-proverbs-aqo-an"
+lang: grc
 period: Archaic
 dialect: Mixed Dialects
 domain: Fiction
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aesop the Fabulist
 
 **eul_wid:** `aqo-an` · [HTML page](https://eulogikon.org/works/aesop-proverbs-aqo-an)
-
-The Proverbs is a collection of 197 short, gnomic sayings attributed to Aesop. Unlike his narrative fables, this work consists of standalone aphorisms offering practical wisdom and observations on human nature, structured as a sequential list of concise passages. The content focuses on everyday conduct, providing advice on social interactions, friendship, and enmity. It offers pointed observations on human character, virtues, and vices, alongside comments on fortune, chance, and the principles of prudent living. As with much Aesopic material, this collection likely circulated in various forms and underwent editorial revision over centuries, though the specifics of its manuscript tradition are not detailed in the sources. While Aesop’s primary influence lies in the fable tradition, the attribution of proverbs to him reflects the ancient practice of ascribing wisdom literature to renowned sages. Such collections served as important educational and rhetorical repositories of traditional wisdom.
 
 ## Text
 

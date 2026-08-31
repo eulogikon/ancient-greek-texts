@@ -5,6 +5,7 @@ author: Hermesianax of Colophon
 eul_wid: iha-ac
 eul_aid: iha
 canonical: "https://eulogikon.org/works/hermesianax-colophon-betrayal-of-nanis-iha-ac"
+lang: grc
 period: Hellenistic
 dialect: Ionic Elegiac
 domain: Poetry
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hermesianax of Colophon
 
 **eul_wid:** `iha-ac` · [HTML page](https://eulogikon.org/works/hermesianax-colophon-betrayal-of-nanis-iha-ac)
-
-The Betrayal of Nanis is a title attributed in some ancient sources to the Hellenistic poet Hermesianax of Colophon, though it does not correspond to his only securely attested work. Hermesianax is known primarily for his elegiac poem the Leontion, also titled On His Beloved, a three-book composition from the third century BCE. The narrative of Nanis, as preserved in the compilation of Parthenius, recounts the legendary betrayal of the Lydian city of Sardis to the Persian king Cyrus. According to the tale, when Cyrus besieged Sardis and found its acropolis impregnable, the daughter of King Croesus, named Nanis, agreed to betray the citadel on the condition that Cyrus marry her according to Persian law. She facilitated the enemy's entry through the unguarded, fortified heights, aided by accomplices. The story concludes with Cyrus failing to honor his promise to her.
-
-Hermesianax's extant poetry, chiefly known from a 98-line fragment of the Leontion preserved by Athenaeus, exhibits characteristic features of early Hellenistic elegy. His work is erudite and allusive, presenting a catalogue of famous lovers from mythology and history within a personal, amatory framework addressed to his beloved Leontion. The poetry often serves an aetiological purpose, providing mythic explanations for cultural or ritual phenomena, and is noted for its scholarly references to obscure mythological variants. The transmission of Hermesianax's oeuvre depends entirely on fragments quoted by later authors such as Athenaeus, Pausanias, and the Suda, with no independent manuscript tradition. His catalogue technique and learned style mark him as a significant figure in the development of Hellenistic elegy, potentially influencing later Roman poets in the genre.
 
 ## Text
 

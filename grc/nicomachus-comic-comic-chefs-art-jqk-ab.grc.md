@@ -5,6 +5,7 @@ author: Nicomachus the Comic Poet
 eul_wid: jqk-ab
 eul_aid: jqk
 canonical: "https://eulogikon.org/works/nicomachus-comic-comic-chefs-art-jqk-ab"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Nicomachus the Comic Poet
 
 **eul_wid:** `jqk-ab` · [HTML page](https://eulogikon.org/works/nicomachus-comic-comic-chefs-art-jqk-ab)
-
-_The Comic Chef's Art_ is a collection of twenty-nine comic verse fragments attributed to the poet Nicomachus. The conventional English title reflects the work's thematic preoccupation with food and culinary practice, though its original Greek title more accurately denotes a compilation of extracts or selections. These passages are likely drawn from one or more of his comedies, which belong to the tradition of Athenian Old or Middle Comedy. The surviving fragments employ parody and satire, focusing their humor on the culinary arts and the figure of the professional chef. This comic treatment extends to themes of gluttony, extravagant dining, and social commentary on consumption and luxury, often intersecting with broader jokes about household management. The work itself is lost and survives only through quotations preserved by later authors, principally the gastronomic writer Athenaeus of Naucratis in his _Deipnosophistae_, compiled in modern standard editions of comic fragments. As part of the corpus of Greek comic poetry, these excerpts contribute to the scholarly understanding of the genre's thematic range, particularly its penchant for parodying daily life and professional trades, while also providing valuable, if humorous, evidence for the study of ancient gastronomy and social history.
 
 ## Text
 

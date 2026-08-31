@@ -5,6 +5,7 @@ author: Comic Fragments Anonymous II
 eul_wid: kfu-af
 eul_aid: kfu
 canonical: "https://eulogikon.org/works/anon-comic-fragments-ii-arguments-kfu-af"
+lang: grc
 period: Hellenistic
 dialect: Mixed Dialects
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Comic Fragments Anonymous II
 
 **eul_wid:** `kfu-af` · [HTML page](https://eulogikon.org/works/anon-comic-fragments-ii-arguments-kfu-af)
-
-_Comic Arguments_ is an ancient Greek literary compilation, now lost, known from secondary references. Its title indicates a thematic anthology focused on the _agon_, the formal rhetorical debate that was a structural and thematic centerpiece of Old Comedy. The work is believed to have consisted of eight verse passages excerpted from various comedies, assembled to illustrate this specific dramatic convention. Such compilations represent a Hellenistic or Roman scholarly practice of creating thematic anthologies to preserve and study classical literature. The fragments were likely drawn from the works of major playwrights like Aristophanes, transmitted indirectly through this medium. The collected passages would have exemplified the core features of comic debates, including rhetorical contestation, social and political satire, and comic invective. The existence of the anthology underscores the ancient scholarly interest in the comic _agon_ as a distinct literary and rhetorical form. While its direct influence is untraceable, works like _Comic Arguments_ played a crucial role in the fragmentary preservation of Greek comedy, shaping later understanding of its dramatic structure and its function as a vehicle for social critique.
 
 ## Text
 

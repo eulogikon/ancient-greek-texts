@@ -5,6 +5,7 @@ author: Comic Fragments Anonymous I
 eul_wid: kfk-ad
 eul_aid: kfk
 canonical: "https://eulogikon.org/works/anon-comic-fragments-old-comedies-kfk-ad"
+lang: grc
 period: Hellenistic
 dialect: Mixed Dialects
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Comic Fragments Anonymous I
 
 **eul_wid:** `kfk-ad` · [HTML page](https://eulogikon.org/works/anon-comic-fragments-old-comedies-kfk-ad)
-
-The Anonymous Old Comedies are a collection of thirty-one fragmentary passages from otherwise lost plays of Old Comedy, the dominant form of Athenian comedy in the fifth century BCE. These fragments, classified as adespota or works of unknown authorship, do not constitute a single play but are quotations preserved by later Greek and Roman authors, such as Athenaeus and various lexicographers, as well as on papyri recovered from Egypt. The definitive modern scholarly edition for this material is found in Poetae Comici Graeci (PCG), Volume VIII. The surviving lines reflect the genre's hallmark characteristics, including political and personal satire of contemporary Athenian figures, social commentary on daily life and law, parody of mythology and tragic conventions, and humor derived from food, drink, and bodily functions. Although the complete plays are lost, these fragments offer invaluable evidence for the language, performance conventions, and social history of Classical Athens. The genre of Old Comedy itself was profoundly influential, shaping the development of later Greek comedy and, through Roman adaptation, the broader European comic tradition.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Arcesilaus of Pitane II
 eul_wid: jem-aa
 eul_aid: jem
 canonical: "https://eulogikon.org/works/arcesilaus-pitane-epitaphs-dedications-jem-aa"
+lang: grc
 period: Hellenistic
 dialect: "Attic (phi, frg)"
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Arcesilaus of Pitane II
 
 **eul_wid:** `jem-aa` · [HTML page](https://eulogikon.org/works/arcesilaus-pitane-epitaphs-dedications-jem-aa)
-
-The work conventionally titled "Epitaphs and Dedications" is not a formal treatise by Arcesilaus of Pitane but a modern designation for two poetic epigrams preserved anecdotally. Arcesilaus, who lived from approximately 316 to 241 BCE and founded the skeptical Middle Academy, wrote no philosophical texts. These verses survive as biographical fragments recorded by Diogenes Laertius: an epitaph for his colleague Crantor and a dedication to the Muses. The epigrams illustrate conventional Hellenistic literary practices among philosophers, serving to commemorate and praise a fellow scholar, express piety toward divine sources of inspiration, and highlight the personal bonds within the Academy. Arcesilaus’s philosophical arguments were transmitted orally and through later critics; the epigrams themselves survive solely as quotations in Diogenes Laertius’s biography, with no independent manuscript tradition. While the poems hold no philosophical weight, they provide valuable biographical color, illustrating the social and literary customs of Hellenistic intellectuals. Arcesilaus’s significant and lasting influence derives entirely from his oral skeptical teachings, which shaped the direction of the Academy for centuries.
 
 ## Text
 

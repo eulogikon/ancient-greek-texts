@@ -5,6 +5,7 @@ author: Narrative Fiction Work Anonymous
 eul_wid: oba-aa
 eul_aid: oba
 canonical: "https://eulogikon.org/works/anon-narrative-ninus-fragments-oba-aa"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Fiction
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Narrative Fiction Work Anonymous
 
 **eul_wid:** `oba-aa` · [HTML page](https://eulogikon.org/works/anon-narrative-ninus-fragments-oba-aa)
-
-The Ninus Fragments, preserved on two separate papyri, represent one of the earliest known examples of the ancient Greek novel. The six extant passages narrate episodes from a love story centered on the legendary Assyrian king Ninus and his cousin Semiramis. The narrative reimagines these mytho-historical founders of an empire as archetypal young lovers, depicting a military campaign, the protagonist's anguish over separation, and direct declarations of passion. The text employs the emotional intensity and focus on the protagonists' inner lives that would become hallmarks of the later romance genre, exploring the conflict between Ninus's public role as a warrior and his private identity as a lover.
-
-The work survives fragmentarily on two Egyptian papyri dated to the 1st century CE, known as PSI 1305 and PBeren 6926. These six passages are the sole remnants of what was presumably a complete novel, as the text has no medieval manuscript tradition. The fragments are of paramount significance for understanding the genesis of prose fiction in antiquity. They provide crucial evidence that the core conventions of the ideal romance, including a central erotic plot and highly wrought emotional rhetoric, were already established by the 1st century CE, confirming the genre's development during the late Hellenistic or early Imperial period.
 
 ## Text
 

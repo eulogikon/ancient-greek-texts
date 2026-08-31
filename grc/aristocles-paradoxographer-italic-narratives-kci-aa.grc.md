@@ -5,6 +5,7 @@ author: Aristocles the Paradoxographer
 eul_wid: kci-aa
 eul_aid: kci
 canonical: "https://eulogikon.org/works/aristocles-paradoxographer-italic-narratives-kci-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristocles the Paradoxographer
 
 **eul_wid:** `kci-aa` · [HTML page](https://eulogikon.org/works/aristocles-paradoxographer-italic-narratives-kci-aa)
-
-The paradoxographical work Italic and Paradoxical Narratives, attributed to Aristocles, is a collection of twelve prose passages cataloging marvels associated primarily with Italy and Sicily. Its content focuses on wondrous phenomena of the region, such as the volcanic activity of Mount Aetna, alongside local legends and customs, all presented in the genre's characteristically concise and factual style. The surviving fragments describe a range of natural marvels, including unique geological features and bodies of water, alongside accounts of strange rituals, beliefs from specific locales, and reports of unusual animal behaviors. A particular emphasis is placed on geographical curiosities of the Italian peninsula and the island of Sicily. The text survives only in fragments, with its primary source being the Bibliotheca of the 9th-century Byzantine patriarch Photius, who provides a summary and excerpts while recording the title as Apospásmata Italikà kaì Paradoxà. Preserved within the broader paradoxographical tradition, the work is significant for illustrating the Greek intellectual practice of cataloging marvels, specifically concerning the western Mediterranean, and it is frequently cited in modern studies of the genre and of Greek perceptions of Italy.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Pythagoreans sayings
 eul_wid: pza-aa
 eul_aid: pza
 canonical: "https://eulogikon.org/works/pythagoreans-sentences-pza-aa"
+lang: grc
 period: Roman
 dialect: Mixed Dialects
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Pythagoreans sayings
 
 **eul_wid:** `pza-aa` · [HTML page](https://eulogikon.org/works/pythagoreans-sentences-pza-aa)
-
-The Sentences of the Pythagoreans is an anonymous collection of 127 short ethical and religious maxims composed in Koine Greek prose. Compiled during the Neopythagorean revival, most likely between the third and fourth centuries CE, it presents traditional wisdom attributed to the followers of Pythagoras. The work is not a continuous treatise but a series of independent aphorisms and rules for living, covering a wide range of topics including piety, justice, self-control, dietary restrictions, and proper social conduct. Many entries are framed as direct injunctions, such as commands to honor the gods or to abstain from animal food. The text survives in full within Greek manuscripts, frequently appearing alongside other late antique works on Pythagorean doctrine. Its precise date and compiler remain unknown, as it represents a gathering of traditional sayings rather than the composition of a single identifiable author. Modern scholarship interprets the collection as a practical manual for moral and ascetic discipline, illustrating how core Pythagorean teachings were systematized and transmitted during the Roman Imperial period for an audience seeking philosophical guidance and ritual purity.
 
 ## Text
 

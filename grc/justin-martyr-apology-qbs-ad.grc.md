@@ -5,6 +5,7 @@ author: Justin the Martyr
 eul_wid: qbs-ad
 eul_aid: qbs
 canonical: "https://eulogikon.org/works/justin-martyr-apology-qbs-ad"
+lang: grc
 period: Roman
 domain: Theology
 format: Treatise

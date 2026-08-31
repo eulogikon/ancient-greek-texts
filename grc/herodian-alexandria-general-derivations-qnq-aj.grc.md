@@ -5,6 +5,7 @@ author: Herodian of Alexandria
 eul_wid: qnq-aj
 eul_aid: qnq
 canonical: "https://eulogikon.org/works/herodian-alexandria-general-derivations-qnq-aj"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Herodian of Alexandria
 
 **eul_wid:** `qnq-aj` · [HTML page](https://eulogikon.org/works/herodian-alexandria-general-derivations-qnq-aj)
-
-On General Derivations from Dialects is a lost grammatical treatise by the second-century CE Alexandrian scholar Herodian. Composed as an oration, likely structured in nine sections for didactic delivery, the work systematically detailed the rules for deriving word forms from their roots across the major ancient Greek dialects, including Attic, Ionic, Doric, and Aeolic. It served a pedagogical function within the broader intellectual project of the Imperial period to codify and preserve the prestige Attic dialect as a standard for educated usage. The treatise examined the analogical principles governing morphology, focusing on the formation of genitive cases and other inflected forms from dialectal bases, thereby contributing to the scholarly fields of dialectology and etymology. No complete manuscript survives; knowledge of the work depends entirely on fragments preserved through quotations in later Byzantine grammatical commentaries and lexica. Despite its fragmentary transmission, Herodian's authoritative analysis of derivational patterns exerted a profound and lasting influence on the subsequent tradition of Greek grammatical and lexicographical studies.
 
 ## Text
 

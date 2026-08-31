@@ -5,6 +5,7 @@ author: Dioscurides of the 3rd c. BCE
 eul_wid: kdm-aa
 eul_aid: kdm
 canonical: "https://eulogikon.org/works/dioscurides-3rd-bce-spartan-constitution-kdm-aa"
+lang: grc
 period: Hellenistic
 dialect: Mixed Dialects
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Dioscurides of the 3rd c. BCE
 
 **eul_wid:** `kdm-aa` · [HTML page](https://eulogikon.org/works/dioscurides-3rd-bce-spartan-constitution-kdm-aa)
-
-The Fragments on Spartan Constitution by the Hellenistic historian Dioscurides, who lived in the 3rd century BCE, is a lost political treatise known only through a handful of excerpts preserved by later authors. These fragments, surviving primarily in the lexicographical work of Julius Pollux from the 2nd century CE and the anthology of Stobaeus from the 5th or 6th century CE, provide specific details on Spartan institutions, placing the work within the popular contemporary genre of politeia literature, which systematically described the customs and constitutions of various Greek states. The extant passages address particular elements of Spartan society, including the land allotment and inheritance system known as klēroi, the function of the communal public messes called syssitia, and descriptions of certain magistracies and social practices. A notable feature of the fragments is their explanation of distinctive Spartan, or Doric, terminology, which was a primary interest for the later lexicographers who quoted him. The work has no independent manuscript tradition and was transmitted solely through selective quotation by these later compilers, who valued it for its precise antiquarian details. The 10th-century Byzantine encyclopedia known as the Suda also notes that Dioscurides authored such a work, confirming its historical existence. While its original scope and full content remain unknown, Dioscurides’ fragments served as a specialist source for later Greco-Roman scholarship on Sparta. They contribute specific data points for modern reconstructions of Spartan institutions and exemplify the Hellenistic period’s scholarly interest in constitutional analysis and antiquarian research.
 
 ## Text
 

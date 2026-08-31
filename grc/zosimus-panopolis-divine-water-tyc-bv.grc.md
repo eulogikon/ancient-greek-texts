@@ -5,6 +5,7 @@ author: Zosimus of Panopolis
 eul_wid: tyc-bv
 eul_aid: tyc
 canonical: "https://eulogikon.org/works/zosimus-panopolis-divine-water-tyc-bv"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Zosimus of Panopolis
 
 **eul_wid:** `tyc-bv` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-divine-water-tyc-bv)
-
-On the Divine Water is an alchemical treatise by Zosimus of Panopolis, a writer active in the late third or early fourth century CE. The work examines the nature and application of the "divine water," a central technical term in early alchemy denoting a potent solvent or transformative agent used in metallurgical processes. Zosimus's writings characteristically fuse practical laboratory instruction with spiritual allegory, framing the transmutation of base metals as analogous to the purification and salvation of the human soul. The treatise survives within the earliest extant corpus of Greek alchemical literature, preserved chiefly in later Byzantine manuscripts such as the important tenth- or eleventh-century codex Marcianus graecus 299. Translations of Zosimus's works into Syriac and Arabic later served as a critical conduit for Hellenistic technical knowledge into Islamic and medieval European alchemical traditions. On the Divine Water is regarded as an authentic component of his surviving oeuvre, composed for a community of initiates versed in both the practical craft and its underlying philosophical, often Gnostic or Hermetic, doctrines.
 
 ## Text
 

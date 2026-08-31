@@ -5,6 +5,7 @@ author: Pherecydes of Syros
 eul_wid: bcw-aa
 eul_aid: bcw
 canonical: "https://eulogikon.org/works/pherecydes-syros-testimonies-bcw-aa"
+lang: grc
 period: Archaic
 dialect: Mixed Dialects (frg)
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Pherecydes of Syros
 
 **eul_wid:** `bcw-aa` · [HTML page](https://eulogikon.org/works/pherecydes-syros-testimonies-bcw-aa)
-
-The Testimonies is a foundational work of early Greek thought attributed to Pherecydes of Syros, who wrote in the 6th century BCE. Composed in Ionic Greek prose, it is historically significant as one of the first known Greek prose works. The text is not a continuous book but a collection of doctrinal statements presenting a philosophical cosmogony. It describes the origin of the world from a primordial triad of deities: Zas, a form of Zeus; Chthonie, representing Earth; and Chronos, representing Time. A central myth involves the divine marriage of Zas and Chthonie, symbolized by an embroidered robe that represents the ordered cosmos. The work also touched on themes like the transmigration of souls, influencing later religious traditions. The original text is completely lost, and our knowledge comes entirely from 14 fragmentary passages—brief quotations and summaries—preserved by later Greek and Roman authors. Modern scholars have compiled these references to reconstruct his ideas. Pherecydes is seen as a pivotal figure bridging mythological poetry and Pre-Socratic philosophy, using prose to systematize speculative theology for an educated elite of his time.
 
 ## Text
 

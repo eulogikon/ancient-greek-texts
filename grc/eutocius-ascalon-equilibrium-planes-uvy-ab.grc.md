@@ -5,6 +5,7 @@ author: Eutocius of Ascalon
 eul_wid: uvy-ab
 eul_aid: uvy
 canonical: "https://eulogikon.org/works/eutocius-ascalon-equilibrium-planes-uvy-ab"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Mathematics
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Eutocius of Ascalon
 
 **eul_wid:** `uvy-ab` · [HTML page](https://eulogikon.org/works/eutocius-ascalon-equilibrium-planes-uvy-ab)
-
-Eutocius of Ascalon’s Commentary on the Books on the Equilibrium of Planes is a 6th-century CE mathematical treatise composed in Attic Greek. Structured in thirty sections, it provides a detailed, step-by-step explication of Archimedes’ foundational work on statics, On the Equilibrium of Planes. Eutocius systematically clarifies Archimedes’ complex geometric proofs concerning the centers of gravity of plane figures and the principles of lever equilibrium. The commentary does not advance new theoretical propositions but functions as an essential explanatory guide, a characteristic product of the late antique scholarly tradition dedicated to preserving and elucidating classical knowledge. It is believed to have been composed for advanced students and scholars, likely within the Alexandrian educational milieu, with the explicit aim of rendering Archimedes’ dense arguments more accessible. The complete text survives intact through medieval Greek manuscripts, most notably a 9th- or 10th-century codex, though the original explanatory diagrams referenced within the commentary have been lost through subsequent copying. Modern scholarship regards Eutocius’s work as a crucial link in the transmission of Archimedean mechanics, exerting influence on the development of Byzantine, Islamic, and later Renaissance mathematics.
 
 ## Text
 

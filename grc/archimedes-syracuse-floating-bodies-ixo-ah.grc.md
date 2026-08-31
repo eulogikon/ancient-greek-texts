@@ -5,6 +5,7 @@ author: Archimedes of Syracuse
 eul_wid: ixo-ah
 eul_aid: ixo
 canonical: "https://eulogikon.org/works/archimedes-syracuse-floating-bodies-ixo-ah"
+lang: grc
 period: Hellenistic
 dialect: Doric
 domain: Mathematics
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Archimedes of Syracuse
 
 **eul_wid:** `ixo-ah` · [HTML page](https://eulogikon.org/works/archimedes-syracuse-floating-bodies-ixo-ah)
-
-On Floating Bodies is a two-book treatise on hydrostatics written by the ancient mathematician Archimedes of Syracuse around 250–212 BCE. It establishes the foundational principles governing the behavior of solids immersed in fluids. The first book, which survives in the original Greek, begins by postulating the nature of fluid equilibrium and proceeds to demonstrate the fundamental proposition now known as Archimedes' principle: that a body wholly or partially submerged in a fluid is buoyed up by a force equal to the weight of the fluid it displaces. The second book applies these principles to intricate geometric problems, most notably analyzing the stability conditions for floating right paraboloids, a study that demonstrates a sophisticated understanding of equilibrium and centers of gravity.
-
-The treatise's textual transmission is notably complex. While the first book is preserved in Greek, the original Greek text of the second book was lost for centuries. The complete work is known today only through a medieval Latin translation made in 1269 by the Flemish scholar William of Moerbeke. This translation provided the crucial link that reintroduced Archimedes' advanced hydrostatic theories to the Latin West. The work is considered a pinnacle of Hellenistic theoretical science, composed for a specialized audience proficient in advanced geometry. It exemplifies Archimedes' signature methodology of applying rigorous geometric proof and deductive logic to physical phenomena, thereby transforming practical observation into a formal mathematical science. While the famous anecdote of Archimedes crying "Eureka!" is thematically connected to the discovery of buoyancy principles contained in this treatise, the story itself does not appear within the text.
 
 ## Text
 

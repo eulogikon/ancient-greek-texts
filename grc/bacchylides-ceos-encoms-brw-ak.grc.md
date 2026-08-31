@@ -5,6 +5,7 @@ author: Bacchylides of Ceos
 eul_wid: brw-ak
 eul_aid: brw
 canonical: "https://eulogikon.org/works/bacchylides-ceos-encoms-brw-ak"
+lang: grc
 period: Classical
 dialect: Doric
 domain: Poetry
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Bacchylides of Ceos
 
 **eul_wid:** `brw-ak` · [HTML page](https://eulogikon.org/works/bacchylides-ceos-encoms-brw-ak)
-
-The Encomia are a collection of choral lyric poems by the fifth-century BCE Greek poet Bacchylides of Ceos. Composed in a literary Doric dialect, these works functioned as praise poems for elite patrons, celebrating athletic victories, personal achievements, and other occasions of honor, often intended for performance at symposia or public festivals. They are distinguished from formal victory odes by their broader scope of subject matter, honoring a wider range of human accomplishments. The poems adhere to the traditional lyric structure of triads—strophe, antistrophe, and epode—and characteristically employ extended mythological narratives to exemplify the virtues and fortunes of the patron being celebrated.
-
-The text survives only in fragments, with forty-eight pieces reconstructed from papyrus discoveries and quotations in later ancient authors. The most substantial recovery came from the Papyrus Harris, found in Egypt in 1896, which preserved large portions of Bacchylides' corpus. Scholars regard these poems as significant artifacts of the Classical patronage system, through which tyrants and aristocrats commissioned poetry to cement their social standing and secure immortal renown. A contemporary and rival of Pindar, Bacchylides wrote for powerful figures across the Greek world, weaving themes of divine favor, mortal limitation, and the pursuit of enduring fame into his polished and narrative-driven verse.
 
 ## Text
 

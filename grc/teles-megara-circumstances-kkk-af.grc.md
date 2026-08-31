@@ -5,6 +5,7 @@ author: Teles of Megara
 eul_wid: kkk-af
 eul_aid: kkk
 canonical: "https://eulogikon.org/works/teles-megara-circumstances-kkk-af"
+lang: grc
 period: Hellenistic
 dialect: "Koine (phi, frg)"
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Teles of Megara
 
 **eul_wid:** `kkk-af` · [HTML page](https://eulogikon.org/works/teles-megara-circumstances-kkk-af)
-
-On Circumstances is a philosophical treatise by the 3rd-century BCE Cynic teacher Teles of Megara. Written in the form of a popular moralizing discourse known as a diatribe, the work addresses the central Hellenistic ethical concern of how to respond to external conditions of life, such as poverty, exile, or changes in fortune. The surviving fragments argue that true happiness and virtue are entirely independent of these shifting circumstances, advocating instead for the cultivation of inner resilience and self-sufficiency. Teles employs vivid imagery and literary references, comparing fortune to a playwright who assigns diverse roles, and exhorts the good person to perform whatever part is given with excellence. The text emphasizes contentment with simple necessities, using the example of the Homeric figure Laertes living humbly, and critiques the pursuit of luxury as irrelevant to the good life. The original work is lost and is known only through excerpts preserved by the later anthologist Stobaeus. These fragments suggest a practical, illustrative style aimed at a broad audience, positioning the treatise as a guide for applying Cynic philosophy to the challenges of everyday existence. It also serves as a valuable, if incomplete, source for understanding the adaptation and transmission of earlier philosophical ideas in the early Hellenistic period.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Eutecnius the Paraphrast
 eul_wid: sma-ab
 eul_aid: sma
 canonical: "https://eulogikon.org/works/eutecnius-paraphrast-oppian-halieutica-sma-ab"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Eutecnius the Paraphrast
 
 **eul_wid:** `sma-ab` · [HTML page](https://eulogikon.org/works/eutecnius-paraphrast-oppian-halieutica-sma-ab)
-
-The Paraphrase of Oppian's Halieutica by Eutecnius the Paraphrast is a late antique or Byzantine prose recasting of the second-century CE didactic epic on fishing. This scholarly work systematically transforms Oppian's original hexameter poetry into clear expository prose across thirty-seven passages. Its primary aim was educational, stripping away poetic ornament to clarify and emphasize the zoological and technical content of the source material. The paraphrase details the natural history of fish and marine life, covering anatomy, behavior, and habitats, while also expounding upon various fishing methods and the dynamic between human ingenuity and animal cunning. The full text survives, transmitted in medieval manuscripts alongside Eutecnius's other paraphrases of didactic poems such as Nicander's Theriaca and Oppian's Cynegetica. Its preservation is largely attributed to its utility as a standard school text within the Byzantine rhetorical curriculum. The work served as a crucial conduit for the knowledge contained in Oppian's Halieutica, ensuring the accessibility of its scientific content as competence in reading high-style poetry diminished. Its significance is thus pedagogical and preservative, supporting the continuity of the classical natural history tradition in the medieval Greek-speaking world.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Eudromus the Philosopher
 eul_wid: nso-aa
 eul_aid: nso
 canonical: "https://eulogikon.org/works/eudromus-philosophical-division-nso-aa"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Eudromus the Philosopher
 
 **eul_wid:** `nso-aa` · [HTML page](https://eulogikon.org/works/eudromus-philosophical-division-nso-aa)
-
-Fragments on Philosophical Division is a lost philosophical treatise attributed to an otherwise obscure figure named Eudromus. The work is known only through brief references in the biographical compendium of Diogenes Laërtius, which indicate it was a text concerned with the systematic classification of philosophical knowledge. According to these references, Eudromus followed the foundational Stoic thinker Zeno of Citium in dividing philosophy into three primary parts: physics, ethics, and logic. Diogenes records a scholarly debate about the proper terminology for these divisions and their optimal sequence, noting that while Apollodorus called them "topics," both Chrysippus and Eudromus termed them "species." The title suggests the work was a doxographic text, part of a common Hellenistic and Imperial practice of systematically categorizing philosophical schools and doctrines. If it existed, the treatise would have been one of many handbooks summarizing philosophical positions for educational use, contributing to the later ancient understanding of the history and structure of philosophical inquiry. No direct quotations or manuscript tradition of the work survives.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Dromo Comicus
 eul_wid: gpo-aa
 eul_aid: gpo
 canonical: "https://eulogikon.org/works/dromo-dining-etiquette-gpo-aa"
+lang: grc
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Dromo Comicus
 
 **eul_wid:** `gpo-aa` · [HTML page](https://eulogikon.org/works/dromo-dining-etiquette-gpo-aa)
-
-The Fragments on Dining Etiquette is a lost comedic work attributed to the obscure poet Dromo Comicus. Known solely by its title, which indicates a focus on symposium behavior, the work would have employed humor and satire to address the social customs of these communal drinking parties. As a product of Middle Comedy, to which Dromo belonged, its thematic content can be inferred from the conventions of the genre. It likely treated subjects such as the social satire of banquet etiquette, the figure of the parasite seeking free meals, the excesses of gluttony and drunkenness, and the class distinctions inherent in host-guest relationships. The work survives only as a title and attribution in ancient catalogs; the modern notation of "eight passages" refers to fragmentary references compiled in scholarly collections from citations by later grammarians, with no continuous text preserved. While the fragments themselves exert no direct literary influence, they are representative of Middle Comedy's thematic shift toward social satire and domestic settings, particularly the intricacies of symposium life. This focus on everyday manners and social types informed the subsequent development of New Comedy, as seen in the plays of Menander, and later influenced Roman comic playwrights.
 
 ## Text
 

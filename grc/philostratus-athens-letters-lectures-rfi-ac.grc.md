@@ -5,6 +5,7 @@ author: Philostratus the Athenian
 eul_wid: rfi-ac
 eul_aid: rfi
 canonical: "https://eulogikon.org/works/philostratus-athens-letters-lectures-rfi-ac"
+lang: grc
 period: Roman
 dialect: Atticizing Literary
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philostratus the Athenian
 
 **eul_wid:** `rfi-ac` · [HTML page](https://eulogikon.org/works/philostratus-athens-letters-lectures-rfi-ac)
-
-The Letters and Lectures is a collection of seventy-six short prose works by Philostratus the Athenian, a Greek author of the Roman Imperial period. Written in refined Attic Greek around the early third century CE, the compilation consists of seventy-three fictional epistles and three longer rhetorical speeches known as the Dialexeis, or Lectures. The letters are sophisticated literary exercises rather than genuine correspondence, treating themes of love, rustic life, friendship, and ethical counsel through polished and often playful prose. The three declamations are demonstrative arguments, comprising a debate on whether a tyrant should study philosophy, a farmer's plea to a tax collector, and a defense of the study of rhetoric itself.
-
-This collection stands as a characteristic product of the Second Sophistic, a cultural movement that prized the revival of classical Greek language and literary forms. It was composed for a highly educated audience that viewed rhetorical virtuosity as a central component of cultural identity and elite status. Modern scholarship regards the work primarily as a display of Philostratus's stylistic range and wit, intended both for sophisticated entertainment and as a model of composition within rhetorical education. The text survives in its entirety through the medieval manuscript tradition, though some questions regarding the authenticity of certain parts have been raised. It remains an important source for understanding the literary aesthetics and cultural posturing of the Greek-speaking aristocracy under Roman dominion.
 
 ## Text
 

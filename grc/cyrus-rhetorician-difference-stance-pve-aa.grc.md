@@ -5,6 +5,7 @@ author: Cyrus the Rhetorician
 eul_wid: pve-aa
 eul_aid: pve
 canonical: "https://eulogikon.org/works/cyrus-rhetorician-difference-stance-pve-aa"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Cyrus the Rhetorician
 
 **eul_wid:** `pve-aa` · [HTML page](https://eulogikon.org/works/cyrus-rhetorician-difference-stance-pve-aa)
-
-_On the Difference of Stance_ is a rhetorical treatise attributed to Cyrus the Rhetorician, structured in the form of an oration comprising thirty passages. The work is dedicated to the doctrine of stasis, the foundational rhetorical system for determining the central point of dispute in a forensic or deliberative speech, which in turn dictates the appropriate argumentative strategy. Its content, as indicated by the title and the surviving introductory portion, systematically explores the theory and classification of stasis, methods for identifying the core issue in a legal case, and the specific argumentative approaches corresponding to each type of stance. The treatise illustrates its principles with hypothetical legal scenarios, such as a complex case concerning a guardian accused of circumventing a law that forbids marriage to a ward, focusing the inquiry on the defendant's intent. The transmission history of the work is undocumented, and its attribution to Cyrus suggests it may survive within broader manuscript collections of rhetorical texts, though its current state of preservation is unverified. While the specific influence of this treatise is unattested, the doctrine of stasis it explicates was a cornerstone of Greco-Roman rhetorical education and judicial practice, as demonstrated by its treatment in the works of later theorists like Cicero and Quintilian.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Lucian of Samosata
 eul_wid: pfk-bg
 eul_aid: pfk
 canonical: "https://eulogikon.org/works/lucian-samosata-hippias-bath-pfk-bg"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lucian of Samosata
 
 **eul_wid:** `pfk-bg` · [HTML page](https://eulogikon.org/works/lucian-samosata-hippias-bath-pfk-bg)
-
-Hippias or The Bath is a prose oration by the second-century CE satirist and rhetorician Lucian of Samosata. The work is a sophisticated exercise in epideictic oratory, taking the form of an elaborate guided tour through an opulent public bathhouse. Lucian employs the rhetorical technique of ekphrasis, offering a meticulous description of the building's harmonious architecture, its luxurious materials including colored marble and intricate mosaics, and its practical layout featuring the standard sequence of warm, hot, and cold rooms. He presents the entire complex not merely as a utilitarian structure but as a magnificent civic benefaction that promotes health, cleanliness, and social cohesion. The oration is framed as a tribute to the building's purported designer, the renowned classical architect Hippias, thereby connecting the Roman-era construction to the esteemed artistic heritage of classical Greece. Composed during the cultural movement known as the Second Sophistic, which celebrated and revived classical Greek paideia within the Roman Empire, the work functions as a serious display of rhetorical virtuosity and cultural erudition. It stands as a valuable historical source, reflecting contemporary ideals of civic architecture and the social importance of the public bath in imperial daily life.
 
 ## Text
 

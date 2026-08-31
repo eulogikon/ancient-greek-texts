@@ -5,6 +5,7 @@ author: Damon and Phintias
 eul_wid: gqi-aa
 eul_aid: gqi
 canonical: "https://eulogikon.org/works/damon-phintias-testimony-gqi-aa"
+lang: grc
 period: Classical
 dialect: Doric
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Damon and Phintias
 
 **eul_wid:** `gqi-aa` · [HTML page](https://eulogikon.org/works/damon-phintias-testimony-gqi-aa)
-
-The work titled Testimony, attributed to the Pythagorean philosophers Damon and Phintias, is not an original treatise but a modern scholarly compilation. It assembles the ancient testimonia—fragments, reports, and references to these figures—that are preserved in the works of later authors. No original writings by either philosopher survive, making their philosophical legacy entirely dependent on such secondary accounts. The collected material centers overwhelmingly on a single, famous anecdote that became a canonical exemplum of ideal friendship in Western thought. As preserved in sources such as Iamblichus's De Vita Pythagorica, the story recounts how Phintias was condemned to death by the tyrant Dionysius I of Syracuse. His friend Damon pledged his own life as a guarantee to secure Phintias's temporary release to settle his affairs. Phintias's timely return, just as Damon was about to be executed in his stead, so impressed the tyrant that he pardoned the condemned man. This narrative serves to illustrate core Pythagorean ethical principles, including absolute trust, self-sacrificing fidelity, and the practical application of virtues like faithfulness. It also dramatizes a confrontation between philosophical integrity and tyrannical power. The anecdote was transmitted primarily through Iamblichus, with other potential sources including Diogenes Laërtius and Cicero. The modern compilation of Testimony represents a critical gathering of all such fragmentary references. The story's significance lies in its enduring influence, where it is often cited alongside other legendary friendships like that of Orestes and Pylades. It informed later ethical discussions on trust, promises, and virtue in both pagan and Christian contexts, underscoring the profound cultural power of Pythagorean anecdotes long after the school's decline.
 
 ## Text
 

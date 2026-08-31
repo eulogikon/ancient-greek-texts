@@ -5,6 +5,7 @@ author: Callimachus Scholia
 eul_wid: vmw-ac
 eul_aid: vmw
 canonical: "https://eulogikon.org/works/callimachus-scholia-minor-epic-elegiac-vmw-ac"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: Grammar
@@ -19,22 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Callimachus Scholia
 
 **eul_wid:** `vmw-ac` · [HTML page](https://eulogikon.org/works/callimachus-scholia-minor-epic-elegiac-vmw-ac)
-
-Overview The Scholia εἰς Μικρὰ Ἐπικὰ καὶ Ἐλεγειακὰ Ποιήματα is a collection of ancient prose commentaries (scholia) on selected minor epic and elegiac poems by the Hellenistic poet Callimachus. Transmitted in the margins of the principal manuscript of Callimachus’s works, the 11th-century Codex Laurentianus 32.9, the scholia provide explanatory notes on 35 specific passages. Their content is typical of the genre, offering explanations of rare words, mythological references, and grammatical points, often citing other authors for comparison.
-
-Content The scholia address several key areas of exegesis:
-
-Textual Criticism: Notes on variant readings and manuscript issues.
-
-Literary and Mythological Exegesis: Explanations of historical, geographical, and mythological references.
-
-Linguistic Analysis: Commentary on dialect forms, rare vocabulary, and grammar.
-
-Intertextuality: Citations of parallel passages from earlier poets like Homer or Hesiod.
-
-Transmission The scholia survive exclusively as marginalia in the Codex Laurentianus 32.9. They are copies of earlier commentary material, likely compiled from the work of Hellenistic and Roman grammarians. Their preservation is entirely dependent on this single manuscript tradition, and they serve as a critical witness to the interpretation of Callimachus’s often fragmentary minor works.
-
-Significance These scholia are a primary source for the ancient reception of Callimachus and are indispensable for modern philologists. They provide direct insight into how ancient scholars read and taught his dense, allusive poetry, helping to establish texts, clarify obscurities, and reconstruct the scholarly culture of Alexandria. Their influence shapes all critical editions and studies of Callimachus’s minor works.
 
 ## Text
 

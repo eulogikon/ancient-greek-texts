@@ -5,6 +5,7 @@ author: Aeschylus Scholia
 eul_wid: tro-ab
 eul_aid: tro
 canonical: "https://eulogikon.org/works/aeschylus-scholia-prototriclinian-tro-ab"
+lang: grc
 period: Late Antique
 dialect: Byzantine Greek
 domain: Grammar
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aeschylus Scholia
 
 **eul_wid:** `tro-ab` · [HTML page](https://eulogikon.org/works/aeschylus-scholia-prototriclinian-tro-ab)
-
-The Prototriclinian Scholia to Aeschylus constitute a significant body of ancient and medieval marginal commentary on the works of the tragedian. The term "Prototriclinian" identifies this material as predating or serving as a source for the later editorial work of the Byzantine scholar Demetrius Triclinius in the fourteenth century. This collection represents a distinct layer within the multi-period tradition of Aeschylean scholia, preserving a synthesis of insights from Hellenistic, Roman, and early Byzantine scholarship. A notable feature of this specific collection is its composition in verse, an uncommon format for such exegetical material. Its content encompasses textual criticism, including notes on variant readings and conjectural emendations, alongside grammatical and linguistic explanations of Aeschylus's notoriously difficult and archaic diction. The scholia also elucidate mythological and historical references within the plays and provide analysis of literary features and metrical structure.
-
-The scholia to Aeschylus are transmitted primarily through the tenth-century Medicean Codex, the oldest surviving manuscript containing the seven extant plays. The Prototriclinian material forms an identifiable stratum within this codex's rich marginal commentary. These annotations were of fundamental importance for the Byzantine and subsequent Renaissance reception of Aeschylus, providing the foundational material for the earliest printed editions. For modern textual criticism, they remain an indispensable resource for establishing the Aeschylean text and for recovering otherwise lost ancient scholarly interpretations of his drama.
 
 ## Text
 

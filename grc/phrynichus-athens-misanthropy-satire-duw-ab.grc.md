@@ -5,6 +5,7 @@ author: Phrynichus the Comic Poet of Athens
 eul_wid: duw-ab
 eul_aid: duw
 canonical: "https://eulogikon.org/works/phrynichus-athens-misanthropy-satire-duw-ab"
+lang: grc
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Phrynichus the Comic Poet of Athens
 
 **eul_wid:** `duw-ab` · [HTML page](https://eulogikon.org/works/phrynichus-athens-misanthropy-satire-duw-ab)
-
-Fragments on Misanthropy and Satire is a modern scholarly compilation of 88 surviving passages from the lost comedies of Phrynichus, a major Athenian playwright of Old Comedy active in the late 5th century BCE and a contemporary rival of Aristophanes. These excerpts, drawn from his various plays, are grouped thematically for their shared focus on the genre's characteristic personal invective and satirical critique. The fragments exemplify core themes of Old Comedy, including the mockery of contemporary individuals such as rival poets, politicians, and philosophers. A prominent subject is the exploration of misanthropy, particularly through the archetype of Timon of Athens, a character featured in Phrynichus’s play Monotropos, or "The Loner." Other recurring elements are political commentary on Athenian democracy and its wartime policies, mythological parody, and literary criticism.
-
-No complete play by Phrynichus survives. These fragments are preserved through quotations in later ancient authors, primarily Athenaeus’s Deipnosophistae from the 2nd or 3rd century CE, as well as in scholia and lexicographical works. The standard modern edition is found in Poetae Comici Graeci. Phrynichus helped establish the conventions of satire and free speech, known as parrhesia, that define Old Comedy. His fragments are crucial for understanding the genre's competitive nature and thematic range. His portrayal of the misanthrope Timon contributed to a lasting literary tradition, which was later adapted by Shakespeare in his play Timon of Athens.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Heraclides the Critic
 eul_wid: lrm-aa
 eul_aid: lrm
 canonical: "https://eulogikon.org/works/heraclides-critic-three-fragments-greece-lrm-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Heraclides the Critic
 
 **eul_wid:** `lrm-aa` · [HTML page](https://eulogikon.org/works/heraclides-critic-three-fragments-greece-lrm-aa)
-
-The Three Fragments of the Description of Greece by Heraclides Criticus is a collection of 104 passages preserved within the tenth-century Byzantine compilation known as the Excerpta Constantiniana. These fragments are thought to derive from a larger, now lost Hellenistic work, possibly titled On the Cities in Greece. They offer descriptive observations on the topography, notable architecture, and customs of Athens and several Boeotian cities, most notably Thebes. The extant text provides ethnographic and moralizing commentary on the character of city inhabitants, descriptions of urban layouts including harbors, streets, and significant buildings such as temples and gymnasia, and accounts of local resources, economic activities, and religious practices. The work survives solely through its inclusion in the Excerpta Constantiniana, a project commissioned by Emperor Constantine VII Porphyrogennetos; no independent manuscripts exist, making its transmission entirely indirect and dependent on Byzantine excerpting practices. Though fragmentary, the collection is a valuable source for the social history and cultural geography of Greek cities in the third century BCE, providing snapshots of Athenian and Boeotian life not extensively covered by other surviving sources from the post-Classical period.
 
 ## Text
 

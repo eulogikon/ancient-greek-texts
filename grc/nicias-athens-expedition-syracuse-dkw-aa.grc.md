@@ -5,6 +5,7 @@ author: Nicias of Athens
 eul_wid: dkw-aa
 eul_aid: dkw
 canonical: "https://eulogikon.org/works/nicias-athens-expedition-syracuse-dkw-aa"
+lang: grc
 period: Classical
 dialect: Attic
 format: Epistle
@@ -18,10 +19,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Nicias of Athens
 
 **eul_wid:** `dkw-aa` · [HTML page](https://eulogikon.org/works/nicias-athens-expedition-syracuse-dkw-aa)
-
-The Athenian Expedition to Syracuse is a military dispatch authored by the Athenian general Nicias during the Peloponnesian War. Composed in the form of an epistle around the winter of 414–413 BCE, it was addressed directly to the citizen assembly in Athens. The letter constitutes a stark, firsthand assessment of the deteriorating Sicilian Expedition. Nicias reports that initial Athenian successes have been reversed following the arrival of Spartan reinforcements under Gylippus. The Athenian forces, now confined to their fortifications, are unable to complete their siegeworks and find themselves effectively blockaded by land due to superior Syracusan cavalry. The dispatch details crippling logistical problems, including widespread sickness among the troops and the rotting of ships’ hulls. Nicias urgently petitions the assembly to make a definitive choice: either recall the entire expedition or dispatch massive reinforcements of troops, ships, and money to secure victory.
-
-The complete text does not survive as an independent document but is preserved within Thucydides’ History of the Peloponnesian War, where it is reproduced in Book 7. Modern scholars generally accept it as a genuine communication, though its precise phrasing may have been influenced by the historian’s literary style. The epistle is structured as a detailed narrative of the military predicament, followed by explicit requests and a grave warning about the consequences of inaction. Its purpose was to shock the Athenian democracy into decisive action through unvarnished honesty. The assembly’s response—to send a second major expedition rather than order a withdrawal—ultimately contributed to the total destruction of the Athenian forces in Sicily, a catastrophic defeat that marked a decisive turning point in the Peloponnesian War.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Alexander of Aphrodisias
 eul_wid: reo-aa
 eul_aid: reo
 canonical: "https://eulogikon.org/works/alexander-aphrodisias-prior-analytics-commentary-reo-aa"
+lang: grc
 period: Roman
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alexander of Aphrodisias
 
 **eul_wid:** `reo-aa` · [HTML page](https://eulogikon.org/works/alexander-aphrodisias-prior-analytics-commentary-reo-aa)
-
-Alexander of Aphrodisias’s On Aristotle's Prior Analytics Book I is a comprehensive philosophical commentary composed in Attic Greek around 200 CE. Written during his tenure as the publicly appointed professor of Peripatetic philosophy in Athens, the work aims to provide a definitive exegesis of Aristotle’s foundational treatise on logic. It adopts a meticulous line-by-line format, presenting 417 lemmata, or short passages, from Aristotle’s text, each followed by Alexander’s detailed exposition. The commentary systematically elucidates the core components of Aristotle’s syllogistic system, including the three figures of the syllogism, the rules of conversion and reduction, and the complexities of modal logic, while clarifying dense arguments and technical terminology.
-
-The complete text is preserved through medieval Greek manuscripts, the oldest of which dates to the 13th century. Intended for advanced students and scholars, the commentary serves both pedagogical and polemical functions. Alexander consistently defends Aristotelian doctrine against rival interpretations, particularly those advanced by Stoic philosophers, seeking to establish an orthodox understanding during a period of renewed interest in Peripatetic thought. Regarded by modern scholars as the most authoritative ancient interpretation of Aristotelian logic, Alexander’s commentary exerted a profound and lasting influence on subsequent Greek, Latin, and Arabic philosophical traditions for more than a millennium.
 
 ## Text
 

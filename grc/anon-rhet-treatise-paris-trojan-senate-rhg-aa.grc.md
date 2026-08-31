@@ -5,6 +5,7 @@ author: Rhetorical Treatise Anonymous
 eul_wid: rhg-aa
 eul_aid: rhg
 canonical: "https://eulogikon.org/works/anon-rhet-treatise-paris-trojan-senate-rhg-aa"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Oratory
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Rhetorical Treatise Anonymous
 
 **eul_wid:** `rhg-aa` · [HTML page](https://eulogikon.org/works/anon-rhet-treatise-paris-trojan-senate-rhg-aa)
-
-The Declamation of Paris to the Trojan Senate is an anonymous rhetorical exercise, or meletē, from the Imperial Roman period, likely associated with the Second Sophistic. It belongs to the genre of controversia, a forensic exercise in which the Trojan prince Paris defends his actions before the Trojan council, presumably justifying his judgment in favor of Aphrodite and the subsequent abduction of Helen. The surviving text opens with Paris addressing the council, asserting that the accusations brought by Spartan envoys are misrepresentations of events that occurred far from Troy, and thus he must offer a defense to ensure the senators understand the truth.
-
-The declamation engages with standard mythological themes, constructing a defense of a morally contentious action through forensic persuasion. It explores the conflict between divine will and human agency, with Paris likely invoking the authority of Aphrodite to justify his choices. The exercise implicitly examines the values represented by the goddesses in the Judgment of Paris—power, wisdom, and love—while employing rhetorical techniques such as exoneration and argument from necessity. The text survives within the broader corpus of Greek declamations transmitted through medieval manuscripts. As is typical for such school exercises, its authorship is anonymous and its specific manuscript history remains undetailed.
-
-This work exemplifies the advanced rhetorical pedagogy of the era, showcasing the practice of impersonation, or ethopoeia, and sophisticated argumentation on established mythological themes. Such declamations were central to the training of orators, emphasizing Attic diction, clever argumentation, and the ability to advocate from a given persona. They played a significant role in shaping oratorical style and were instrumental in transmitting rhetorical techniques into later antiquity.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Sclerias the Tragedian
 eul_wid: geu-aa
 eul_aid: geu
 canonical: "https://eulogikon.org/works/sclerias-human-nature-geu-aa"
+lang: grc
 period: Classical
 dialect: "Attic (dr, frg)"
 domain: Drama
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Sclerias the Tragedian
 
 **eul_wid:** `geu-aa` · [HTML page](https://eulogikon.org/works/sclerias-human-nature-geu-aa)
-
-The Fragments on Human Nature is a modern descriptive title applied to three fragmentary passages attributed to the obscure Sclerias the Tragedian. No continuous text of a play by this author survives; the fragments likely consist of gnomic verses preserved for their linguistic or ethical content by later grammarians or philosophers. The title reflects the thematic content suggested by the remnants, which engage with concerns central to Greek tragedy, such as the limits of human knowledge and power, human vulnerability to suffering and divine will, and ethical questions concerning virtue and justice. The work survives exclusively through the indirect tradition, having been transmitted via quotation in later ancient or Byzantine scholarship and now existing within modern collections of tragic fragments. There is no recorded manuscript tradition for any play by Sclerias. Consequently, these fragments are of primary interest to specialists in fragmentary Greek tragedy for philological study. The author's complete obscurity and the scant nature of the remains preclude any identification of their influence on later literature or thought.
 
 ## Text
 

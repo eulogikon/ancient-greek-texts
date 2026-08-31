@@ -5,6 +5,7 @@ author: Magical Treatises Anonymous
 eul_wid: smk-ad
 eul_aid: smk
 canonical: "https://eulogikon.org/works/magical-treatises-anon-papyri-smk-ad"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -19,16 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Magical Treatises Anonymous
 
 **eul_wid:** `smk-ad` · [HTML page](https://eulogikon.org/works/magical-treatises-anon-papyri-smk-ad)
-
-The Greek Magical Papyri constitute a corpus of papyrus texts from Greco-Roman Egypt, dating primarily from the first to the fourth centuries CE, though the broader compilation spans from the second century BCE to the fifth century CE. These texts are not a single unified work but a modern scholarly assemblage of numerous individual papyri, the most extensive being the so-called Great Magical Papyrus of Paris. Written largely in Koine Greek, with significant sections in Demotic and Coptic Egyptian, the collection comprises approximately 240 individual spells, rituals, and recipes. It functions as a practical handbook or formulary for ritual specialists, containing instructions for love spells, curses, exorcisms, divination, medical remedies, and procedures for obtaining a divine assistant, known as a paredros.
-
-The content reflects profound religious syncretism, blending Egyptian, Greek, Jewish, and early Christian traditions. Deities are often invoked in composite forms, such as Zeus-Helios-Serapis. The rituals make extensive use of voces magicae, which are potent, often enigmatic strings of syllables, and characteres, or magical symbols. A notable portion of the material details elaborate rites for achieving direct visionary encounters with a god, practices that share techniques with later Neoplatonic theurgy. The instructions are highly specific, covering the preparation of magical implements, the creation of inscribed metal lamellae, and the drawing of complex figures.
-
-Compiled and used in Roman Egypt, these papyri represent the technical side of religious practice, likely employed by professional ritual practitioners serving a clientele seeking solutions to everyday problems. Their preservation is due to Egypt's arid climate, with many texts discovered in graves or hidden caches. The period of their creation witnessed the rise of Gnosticism, Hermeticism, and theurgical practices, all reflected in the papyri's cosmology. The inclusion of Jewish divine names and Christian elements illustrates the fluid boundaries between magic, religion, and philosophy in late antiquity.
-
-Central themes include the fusion of diverse religious traditions, the desire to compel supernatural forces for personal agency, the believed inherent power of special words and symbols, the quest for divine revelation, and a focus on practical aims like love, health, and protection. The texts emphasize the materiality of ritual, demanding specific ingredients, precise timings, and states of ritual purity.
-
-The papyri were not transmitted through a medieval manuscript tradition but survived almost exclusively as fragments discovered in Egypt. The modern corpus was largely assembled and published in the twentieth century. Their transmission was discontinuous and practical, with working magicians copying formulas from older handbooks, leading to multiple variant versions of similar spells. As a primary source for ancient magic, the Greek Magical Papyri have profoundly influenced the academic study of popular religion, providing essential context for understanding curse tablets, amulets, and magical gems. They also illuminate the background of early Christian practices and later esoteric traditions, retaining influence in various modern esoteric and neo-pagan movements.
 
 ## Text
 

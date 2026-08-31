@@ -5,6 +5,7 @@ author: Plato of Athens
 eul_wid: ffk-bo
 eul_aid: ffk
 canonical: "https://eulogikon.org/works/plato-ion-ffk-bo"
+lang: grc
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plato of Athens
 
 **eul_wid:** `ffk-bo` · [HTML page](https://eulogikon.org/works/plato-ion-ffk-bo)
-
-Plato’s Ion is a short, early Socratic dialogue featuring Socrates in conversation with Ion, a rhapsode who specializes in reciting Homeric poetry. The work examines Ion’s claim to professional expertise, with Socrates arguing that his skill stems not from technical knowledge but from divine inspiration. Socrates describes this inspiration as a magnetic chain of influence passing from the Muse to the poet, then to the rhapsode, and finally to the audience. The central theme contrasts this inspired state, which Socrates redefines as a kind of divine madness, with the systematic understanding characteristic of a true craft. Through this contrast, the dialogue questions whether interpreting poetry is a rational skill or an inspired, non-rational state, thereby critiquing the cultural authority of Homer and his interpreters by denying that their practice is founded on reliable knowledge.
-
-The Ion is transmitted intact as part of the Platonic corpus and is universally considered genuine. The standard critical edition relies on medieval manuscripts, most importantly the 9th-century Clarke Codex. The dialogue has been profoundly influential in Western debates on artistic creativity. Its theory of inspiration was adapted by later classical writers such as Horace and by Neoplatonists, and it was frequently cited during the Renaissance and Romantic periods to support the concept of the poet as a visionary. It remains a foundational text for discussions concerning the epistemology of interpretation and the philosophical critique of expertise.
 
 ## Text
 

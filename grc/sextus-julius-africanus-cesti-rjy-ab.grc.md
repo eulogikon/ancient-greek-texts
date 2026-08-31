@@ -5,6 +5,7 @@ author: Sextus Julius Africanus
 eul_wid: rjy-ab
 eul_aid: rjy
 canonical: "https://eulogikon.org/works/sextus-julius-africanus-cesti-rjy-ab"
+lang: grc
 period: Roman
 dialect: Christian Koine
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Sextus Julius Africanus
 
 **eul_wid:** `rjy-ab` · [HTML page](https://eulogikon.org/works/sextus-julius-africanus-cesti-rjy-ab)
-
-The Cesti, or "Embroidered Belts," is an encyclopedic prose compilation by the third-century Christian scholar Sextus Julius Africanus. Dedicated to the Roman emperor Alexander Severus around 221 CE, the original work comprised 24 books that assembled a vast and practical collection of knowledge. It covered an exceptionally wide range of subjects, including military engineering, agriculture, medicine, veterinary science, and natural magic, offering instructions on diverse topics from constructing siege engines to creating protective charms. The complete text is lost, and its content is known through approximately 78 fragments preserved in later Byzantine collections, such as the ninth-century Bibliotheca of Photius and the tenth-century agricultural manual known as the Geoponica. Modern scholarship interprets the Cesti as a comprehensive repository of applied, utilitarian knowledge intended for military officers, administrators, and educated elites. It reflects the period's interest in compiling diverse traditions of technical know-how, blending empirical observation with occult practices. The surviving fragments provide valuable insight into ancient sub-literary scientific and magical thought that is often absent from more canonical literary sources.
 
 ## Text
 

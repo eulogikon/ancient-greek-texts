@@ -1,10 +1,11 @@
 ---
 title: Phenomena
 title_greek: Ἀποσπάσματα ἐκ τῶν Φαινομένων τοῦ Ἄρατου
-author: "Aratus Lives "
+author: Aratus Lives
 eul_wid: iru-ac
 eul_aid: iru
 canonical: "https://eulogikon.org/works/aratus-phenomena-iru-ac"
+lang: grc
 period: Hellenistic
 dialect: Mixed Dialects
 domain: Biography
@@ -16,13 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀποσπάσματα ἐκ τῶν Φαινομένων τοῦ Ἄρατου*
 
-**Author:** Aratus Lives 
+**Author:** Aratus Lives
 
 **eul_wid:** `iru-ac` · [HTML page](https://eulogikon.org/works/aratus-phenomena-iru-ac)
-
-The Phenomena is a didactic poem composed in dactylic hexameter by the Hellenistic Greek poet Aratus of Soli. Written around 276–274 BCE, it transforms earlier astronomical prose treatises into a work of elegant and accessible poetry. The poem consists of two principal sections. The first and longer part provides a systematic guide to the constellations, meticulously describing their celestial positions and dividing the fixed stars into three zones: those always visible within the Arctic Circle, and the northern and southern bands that rise and set between the Arctic Circle, the zodiac, and the Antarctic Circle. The second part, often titled the Diosemeia or "Weather Signs," serves as a practical manual for forecasting weather based on observations of celestial phenomena, animal behavior, and other natural indicators.
-
-The poem survives in its entirety through a wealth of medieval manuscripts, a testament to its enduring popularity as a standard textbook for both astronomy and poetic study from antiquity through the Byzantine period. Its influence extended into the Latin West through multiple translations by notable figures such as Cicero and Germanicus Caesar. Modern scholarship interprets the Phenomena as a characteristic product of Hellenistic culture, artfully synthesizing scientific knowledge with literary artistry. Composed under royal patronage, it aimed to render technical information both intellectually accessible and aesthetically pleasing to a sophisticated audience. The work famously opens with a hymn to Zeus, framing the orderly cosmos as a manifestation of divine providence and intimately connecting the rhythms of human life to the celestial sphere.
 
 ## Text
 

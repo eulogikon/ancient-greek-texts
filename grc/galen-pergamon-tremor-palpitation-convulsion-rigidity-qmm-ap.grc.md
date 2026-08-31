@@ -5,6 +5,7 @@ author: Galen of Pergamon
 eul_wid: qmm-ap
 eul_aid: qmm
 canonical: "https://eulogikon.org/works/galen-pergamon-tremor-palpitation-convulsion-rigidity-qmm-ap"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Galen of Pergamon
 
 **eul_wid:** `qmm-ap` · [HTML page](https://eulogikon.org/works/galen-pergamon-tremor-palpitation-convulsion-rigidity-qmm-ap)
-
-_On Tremor, Palpitation, Convulsion and Rigidity_ is a medical treatise by the 2nd-century physician Galen of Pergamon. The work systematically classifies and analyzes four distinct types of involuntary bodily movement. Galen opens by stating his intention to correct and expand upon the flawed theories of the earlier physician Praxagoras, who erroneously considered these conditions to be merely varying degrees of the same arterial disorder. Galen instead argues that tremor, palpitation, convulsion, and rigidity are separate disease entities with specific causes rooted in his own physiological system. This system attributes the conditions to imbalances in the body’s innate faculties and qualitative states, particularly involving the nerves and muscles.
-
-The treatise proceeds as a detailed exercise in differential diagnosis and logical division, methodically defining each phenomenon and distinguishing it from the others. Throughout the text, Galen engages in polemic against rival medical sects, particularly the Methodists, whose approaches he deems insufficiently nuanced. The complete Greek text, organized into 58 sections, has survived. It was translated into Arabic during the medieval period and into Latin during the Renaissance, ensuring its continuous study. The work is considered a foundational text in the history of neurology and pathology, establishing a precedent for the classification of movement disorders. Its conceptual framework remained influential among Byzantine, Arabic, and medieval Latin physicians well into the early modern period.
 
 ## Text
 

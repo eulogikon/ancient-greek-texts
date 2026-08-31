@@ -5,6 +5,7 @@ author: Pseudo-Sphrantzes
 eul_wid: tss-aa
 eul_aid: tss
 canonical: "https://eulogikon.org/works/pseudo-sphrantzes-chronicle-additions-tss-aa"
+lang: grc
 period: Late Antique
 dialect: Byzantine Greek
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Pseudo-Sphrantzes
 
 **eul_wid:** `tss-aa` · [HTML page](https://eulogikon.org/works/pseudo-sphrantzes-chronicle-additions-tss-aa)
-
-The Chronicle or Greater is a late 16th-century forged historical chronicle falsely attributed to the 15th-century Byzantine historian George Sphrantzes. It presents a greatly expanded, novelistic narrative of the Byzantine Empire from 1258 to 1477, culminating in the Fall of Constantinople. This version includes additions by Macarius Melissenus, a metropolitan of Monemvasia active in the latter half of the 16th century, who contributed to its manuscript tradition. The work details the empire's decline and fall, with a particular focus on the 1453 siege and conquest of Constantinople. Its narrative is framed by a perspective of divine judgment in history, examining the virtues and vices of emperors and military leaders while portraying the conflict between Christianity and Islam through a late Byzantine lens. The forgery survives in several manuscripts, with a key version in Codex Parisinus Graecus 1780 containing the additions by Melissenus. Long accepted as a genuine work of Sphrantzes, it was exposed as a fabrication by scholars in the 19th and 20th centuries, who identified the authentic, shorter memoir of the historian as the Chronicon Minus. For centuries prior to this, the forged chronicle served as a major source for understanding the empire's final years, profoundly shaping historical perceptions of the events of 1453. Now debunked, it is studied primarily as a crucial example of post-Byzantine historical fabrication, reflecting the nationalism and cultural memory of the Greek world under Ottoman rule.
 
 ## Text
 

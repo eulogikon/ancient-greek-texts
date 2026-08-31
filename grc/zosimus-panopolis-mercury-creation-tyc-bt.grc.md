@@ -5,6 +5,7 @@ author: Zosimus of Panopolis
 eul_wid: tyc-bt
 eul_aid: tyc
 canonical: "https://eulogikon.org/works/zosimus-panopolis-mercury-creation-tyc-bt"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Zosimus of Panopolis
 
 **eul_wid:** `tyc-bt` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-mercury-creation-tyc-bt)
-
-The Creation of Mercury is a concise, three-part alchemical treatise written in Greek around 300 CE by Zosimus of Panopolis. As a foundational text in early alchemy, it provides technical instructions for preparing and using mercury, a substance whose name derives from the Greek words for "liquid silver," in operations aimed at transmuting base metals into noble ones like gold or silver. The work survives in full through later Byzantine manuscripts, most notably from the 10th and 11th centuries, which compiled and preserved early alchemical writings. Zosimus wrote in Greco-Roman Egypt for an audience of fellow practitioners within an esoteric, workshop-based tradition that blended hands-on craft knowledge with philosophical and spiritual ideas. The text details specific laboratory procedures, including the grinding and mixing of ingredients like ceruse and red arsenic with vinegar, heating in a lidded vessel, and repeated cycles of washing, drying, and calcination. Modern scholars interpret such texts as part of a larger effort to frame practical chemical processes within a narrative of material purification and spiritual transformation, reflecting alchemy's dual nature as both a technical craft and a speculative philosophy.
 
 ## Text
 

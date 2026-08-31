@@ -5,6 +5,7 @@ author: Zosimus of Panopolis
 eul_wid: tyc-ax
 eul_aid: tyc
 canonical: "https://eulogikon.org/works/zosimus-panopolis-instruments-furnaces-tyc-ax"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Zosimus of Panopolis
 
 **eul_wid:** `tyc-ax` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-instruments-furnaces-tyc-ax)
-
-Zosimus-Instruments and Furnaces is a Greek technical treatise on alchemy, composed around 300 CE by Zosimus of Panopolis. The work provides detailed, practical instructions for constructing and operating the essential apparatus of the alchemical workshop, with a particular focus on furnaces and distillation equipment. It describes various instruments, including the kerotakis, a type of reflux still used for sublimation, and other devices for processes like the distillation of liquids. The text is concise and instructional, structured in three clear passages that suggest it was intended as a direct manual for practitioners.
-
-Emerging from the sophisticated Greco-Egyptian alchemical tradition of late Roman Egypt, the treatise represents the hands-on, technical foundation that supported the field's broader philosophical and spiritual ambitions concerning material transformation. Zosimus positions his work within a lineage of craft knowledge, explicitly referencing earlier authorities like Maria the Jewess and Agathodaemon, while aiming to preserve and standardize crucial workshop techniques for fellow alchemists. The work survives as part of Zosimus's extensive corpus, transmitted primarily through Byzantine manuscripts such as the 10th- or 11th-century Codex Marcianus Graecus 299. Like many ancient technical texts, it has undergone some fragmentation and scribal alteration through centuries of copying, but it remains a vital document for understanding the practical origins of early laboratory science.
 
 ## Text
 

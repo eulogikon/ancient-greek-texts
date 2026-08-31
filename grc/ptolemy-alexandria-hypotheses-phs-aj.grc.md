@@ -5,6 +5,7 @@ author: Ptolemy of Alexandria
 eul_wid: phs-aj
 eul_aid: phs
 canonical: "https://eulogikon.org/works/ptolemy-alexandria-hypotheses-phs-aj"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Mathematics
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Ptolemy of Alexandria
 
 **eul_wid:** `phs-aj` · [HTML page](https://eulogikon.org/works/ptolemy-alexandria-hypotheses-phs-aj)
-
-The Hypotheses, also known as the Hypotheses of the Planets, is an astronomical treatise by Claudius Ptolemy, composed around 150 CE as a sequel to his foundational work, the Almagest. In this two-book text, Ptolemy transitions from the purely mathematical and predictive geometrical models of planetary motion established in his earlier work to the construction of a comprehensive, three-dimensional, and physically coherent model of the cosmos. He explicitly states his intention to present the material in a summary and more accessible form, suitable for both understanding and for those wishing to translate the theories into mechanical instruments or models. The treatise details the absolute sizes and distances of the celestial bodies, envisioning the universe as a series of contiguous, nested spherical shells composed of aether. These shells carry the planets in their complex motions, with no empty space between them, forming a complete and physically integrated system.
-
-The transmission of the text is incomplete. The first book survives in its original Greek, but the second book is largely lost in that language. Its contents are preserved primarily through medieval Arabic translations and a later Hebrew version. Scholars regard the Hypotheses as a pivotal work that bridged mathematical astronomy and physical cosmology. By providing a unified model that calculated real cosmic dimensions, it established the standard cosmological framework for subsequent centuries. Its system of nested spheres exerted a profound and lasting influence, shaping astronomical thought in the Islamic world and, later, in medieval Europe.
 
 ## Text
 

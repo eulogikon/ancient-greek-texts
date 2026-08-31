@@ -5,6 +5,7 @@ author: John Philoponus of Alexandria
 eul_wid: uxc-ai
 eul_aid: uxc
 canonical: "https://eulogikon.org/works/john-philoponus-alexandria-commentary-aristotle-uxc-ai"
+lang: grc
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** John Philoponus of Alexandria
 
 **eul_wid:** `uxc-ai` · [HTML page](https://eulogikon.org/works/john-philoponus-alexandria-commentary-aristotle-uxc-ai)
-
-John Philoponus of Alexandria’s Commentary on Aristotle’s Categories is a detailed philosophical treatise from the early sixth century CE. Composed in Greek, it forms part of a larger series of commentaries on Aristotle’s logical works. The text is structured as a sequence of 204 lectures, each typically opening with a lemma from Aristotle’s Categories followed by Philoponus’s exegesis and analysis. It systematically examines Aristotle’s ten categories, including substance, quantity, and quality, and explores the intricate relationships between language, thought, and reality. The complete work survives through medieval manuscripts and was written while Philoponus was a teacher within the Neoplatonic school of Alexandria. Modern scholarship regards it as a foundational textbook for advanced students of philosophy, exemplifying the standard pedagogical methods of late antiquity. It was composed to elucidate Aristotle’s often dense text and to engage critically with earlier interpreters such as Alexander of Aphrodisias and Porphyry. Although an early work in his career, this commentary helped establish Philoponus’s scholarly reputation and proved influential within the Byzantine educational tradition.
 
 ## Text
 

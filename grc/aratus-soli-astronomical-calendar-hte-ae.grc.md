@@ -5,6 +5,7 @@ author: Aratus of Soli
 eul_wid: hte-ae
 eul_aid: hte
 canonical: "https://eulogikon.org/works/aratus-soli-astronomical-calendar-hte-ae"
+lang: grc
 period: Hellenistic
 dialect: Epic (Homeric)
 domain: Science
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aratus of Soli
 
 **eul_wid:** `hte-ae` · [HTML page](https://eulogikon.org/works/aratus-soli-astronomical-calendar-hte-ae)
-
-The Astronomical Calendar Fragment is a title given to selected excerpts from the Phaenomena, a didactic poem composed in epic hexameter by the Hellenistic poet Aratus of Soli around 275 BCE. The complete Phaenomena is a two-part work that presents astronomical and meteorological knowledge in an accessible poetic form. Its first section systematically describes the constellations and their associated mythological narratives, while the second, sometimes referred to as the Diosemeia, offers practical weather forecasts based on celestial and terrestrial signs. The poem served a dual purpose as both a literary text and a practical guide for activities such as farming and navigation, reflecting a Stoic-influenced view of the cosmos as an orderly system governed by divine providence. Although based largely on the earlier astronomical treatise of Eudoxus of Cnidus, Aratus's work achieved remarkable popularity, surviving intact and becoming one of the most copied and influential poems from antiquity through the Renaissance. The title Astronomical Calendar Fragment, derived from the Greek word for "extract," does not denote a separate or lost composition but rather indicates curated passages taken from this well-preserved and widely transmitted poem.
 
 ## Text
 

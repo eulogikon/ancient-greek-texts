@@ -5,6 +5,7 @@ author: Hippias of Elis
 eul_wid: dqg-ab
 eul_aid: dqg
 canonical: "https://eulogikon.org/works/hippias-elis-testimonies-2-dqg-ab"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hippias of Elis
 
 **eul_wid:** `dqg-ab` · [HTML page](https://eulogikon.org/works/hippias-elis-testimonies-2-dqg-ab)
-
-The work known as Testimonies 2 by the Sophist Hippias of Elis is attested only by its title, which identifies it as a collection of seventeen passages. No fragments or specific descriptions of its content survive, leaving its precise nature a matter of scholarly inference. Based on Hippias's well-documented career as a polymath and itinerant teacher, and on the common practices of the Sophistic movement, such a collection most likely functioned as a rhetorical handbook. It would have provided models of persuasive argumentation and exemplary speeches, compiling historical or mythical examples to be used as evidence in oratory. Such a work would also have featured common topics and ready-made arguments, offering practical resources for students and practitioners of public speaking. The text is entirely lost, known only from secondary references or ancient catalogues of Hippias's prolific writings. Our broader understanding of Hippias derives principally from Plato's dialogues and later authors such as Philostratus. Although its direct influence cannot be traced, Testimonies 2 represents a clear example of the Sophistic genre of rhetorical compilation, a form central to ancient education. Works of this kind, of which Hippias was a notable early contributor, played a significant role in systematizing rhetorical pedagogy, thereby helping to establish a tradition that would become foundational for Hellenistic and Roman rhetorical training.
 
 ## Text
 

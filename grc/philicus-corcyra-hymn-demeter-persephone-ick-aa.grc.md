@@ -5,6 +5,7 @@ author: Philicus of Corcyra
 eul_wid: ick-aa
 eul_aid: ick
 canonical: "https://eulogikon.org/works/philicus-corcyra-hymn-demeter-persephone-ick-aa"
+lang: grc
 period: Hellenistic
 dialect: Literary Koine
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philicus of Corcyra
 
 **eul_wid:** `ick-aa` · [HTML page](https://eulogikon.org/works/philicus-corcyra-hymn-demeter-persephone-ick-aa)
-
-The Hymn to Demeter and Persephone is a cult poem by the Hellenistic poet Philicus of Corcyra, composed in the early 3rd century BCE. Written in dactylic hexameter, the work comprises a series of invocations and ritual descriptions honoring the goddesses Demeter and her daughter Persephone. It is distinguished by its use of the literary Doric dialect, a deliberate stylistic choice to evoke an archaic and regionally authentic religious tone. The surviving text is not a continuous poem but a collection of 37 fragments, preserved under the title Apospasmata, or "Extracts." Its content focuses on worship, with clear references to the rites and symbols of the Eleusinian Mysteries, linking the goddesses to the cyclical themes of agricultural renewal, life, and death. Modern scholarship interprets the hymn as a sophisticated product of the Alexandrian court, where Philicus served as a priest, likely composed for a specific religious festival or cult setting. It represents a blend of traditional Greek mythological piety with the learned, allusive poetic techniques favored in Ptolemaic Alexandria. The hymn’s transmission relies entirely on a single, damaged papyrus from the 2nd century BCE, with no complete manuscript tradition, making these fragments a rare and valuable witness to the practice of Hellenistic cult poetry.
 
 ## Text
 

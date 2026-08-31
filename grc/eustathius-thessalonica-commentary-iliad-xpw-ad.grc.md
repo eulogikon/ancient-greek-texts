@@ -5,6 +5,7 @@ author: Eustathius of Thessalonica
 eul_wid: xpw-ad
 eul_aid: xpw
 canonical: "https://eulogikon.org/works/eustathius-thessalonica-commentary-iliad-xpw-ad"
+lang: grc
 period: Byzantine
 domain: Grammar
 format: Treatise

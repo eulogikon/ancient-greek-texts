@@ -5,6 +5,7 @@ author: Alchemist I
 eul_wid: rrg-bk
 eul_aid: rrg
 canonical: "https://eulogikon.org/works/alchemist-i-philosophers-stone-rrg-bk"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alchemist I
 
 **eul_wid:** `rrg-bk` · [HTML page](https://eulogikon.org/works/alchemist-i-philosophers-stone-rrg-bk)
-
-The Philosopher's Stone is an unattested treatise of uncertain provenance, attributed in some descriptions to a figure known as Alchemist I. No record of a Greek work by this exact title or author exists within established academic corpora or manuscript catalogs. The described content centers on the concept of the philosopher's stone, the legendary substance sought in alchemy for its purported ability to transmute base metals into noble ones and confer perfection. While this specific text cannot be verified, the philosophical and operational concept it references has deep roots in Hellenistic and Byzantine alchemical traditions, where it evolved from earlier metallurgical and cosmological ideas. This concept was later transmitted through Arabic and Latin sources to become a central, defining aim of Western alchemical theory and practice for centuries. The manuscript tradition, transmission history, and preservation status of the described treatise remain entirely unknown.
 
 ## Text
 

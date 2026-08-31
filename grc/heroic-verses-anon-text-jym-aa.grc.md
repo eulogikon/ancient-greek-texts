@@ -5,6 +5,7 @@ author: Heroic Verses Anonymous
 eul_wid: jym-aa
 eul_aid: jym
 canonical: "https://eulogikon.org/works/heroic-verses-anon-text-jym-aa"
+lang: grc
 period: Hellenistic
 dialect: Epic (Homeric) (frg)
 domain: Epic
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Heroic Verses Anonymous
 
 **eul_wid:** `jym-aa` · [HTML page](https://eulogikon.org/works/heroic-verses-anon-text-jym-aa)
-
-Heroic Verses is an unattested title in the corpus of ancient Greek literature. No record of an anonymous epic work by this name exists within standard scholarly catalogs, digital repositories, or major print references. The purported description of the text, including the claim that it comprises twenty-four specific passages, lacks any verifiable foundation in the historical or philological record. Consequently, no thematic or narrative content can be described, nor is there any evidence for a manuscript tradition or a history of transmission. In the absence of attestation, the work holds no established significance for the study of ancient Greek epic poetry.
 
 ## Text
 

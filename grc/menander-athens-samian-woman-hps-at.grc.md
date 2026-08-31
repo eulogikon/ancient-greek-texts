@@ -5,6 +5,7 @@ author: Menander of Athens
 eul_wid: hps-at
 eul_aid: hps
 canonical: "https://eulogikon.org/works/menander-athens-samian-woman-hps-at"
+lang: grc
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Menander of Athens
 
 **eul_wid:** `hps-at` · [HTML page](https://eulogikon.org/works/menander-athens-samian-woman-hps-at)
-
-The Samian Woman is a comedy by the Athenian playwright Menander, composed in verse around 321–316 BCE. A defining work of the New Comedy genre, it moves away from political satire to focus on domestic and romantic entanglements within a private household. The plot hinges on a complex misunderstanding: after the young woman Plangon secretly gives birth to a child fathered by her lover Moschion, the infant is temporarily presented as the child of Moschion’s father, Demeas, and his companion Chrysis, the Samian woman of the title. This deception fuels Demeas’s jealous suspicion that his own son is the father of Chrysis’s supposed child, propelling the drama through a series of confrontations before culminating in a harmonious resolution with the truth revealed and relationships restored.
-
-The play adheres to the standard five-act structure of New Comedy, meticulously developing from exposition through complication to a final reconciliation. Modern scholarship views the work as a nuanced reflection of early Hellenistic Athenian social values, particularly anxieties surrounding family honor, citizenship, and legitimacy. The character of Chrysis, a foreign-born companion, is portrayed with notable sympathy, challenging simplistic contemporary social stereotypes. Like most of Menander’s oeuvre, the play was lost for centuries and is known today primarily through papyrus fragments discovered in the 20th century, most significantly from a 5th-century CE Egyptian codex. Although the surviving text is incomplete, it is substantial enough to allow for a reliable reconstruction of the plot and the majority of the dialogue. It remains one of Menander’s best-preserved comedies and a crucial text for understanding the conventions and social milieu of ancient Greek dramatic literature.
 
 ## Text
 

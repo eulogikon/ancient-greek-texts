@@ -5,6 +5,7 @@ author: Theon of Smyrna I
 eul_wid: pic-aa
 eul_aid: pic
 canonical: "https://eulogikon.org/works/theon-smyrna-mathematics-usefulness-pic-aa"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Grammar
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Theon of Smyrna I
 
 **eul_wid:** `pic-aa` · [HTML page](https://eulogikon.org/works/theon-smyrna-mathematics-usefulness-pic-aa)
-
-On the Usefulness of Mathematics is a philosophical treatise composed in Greek by Theon of Smyrna, likely between 115 and 140 CE. Its primary aim is to serve as an introductory guide, arguing that a firm grasp of mathematics is indispensable for a proper understanding of Plato's philosophy. Structured as a series of 204 passages, the work systematically addresses the four core mathematical sciences of the classical curriculum, known collectively as the quadrivium: arithmetic, music, geometry, and astronomy. It functions not as a technical manual but as a protreptic, or exhortation, designed to persuade students that these disciplines train the mind to ascend from the contemplation of the physical world to the apprehension of the higher, intelligible truths central to Platonic thought.
-
-The treatise survives in an incomplete state. Substantial portions concerning arithmetic and music are extant, while the section on astronomy is less fully preserved, and the geometry section is largely lost. Modern scholarship regards the work as a significant document of Middle Platonism, illustrating the period's drive to systematize Plato's doctrines and integrate Pythagorean theories of number. It was likely intended for educated students of philosophy, compiling and elucidating earlier mathematical teachings to provide the essential foundation for engaging with complex Platonic dialogues such as the Timaeus.
 
 ## Text
 

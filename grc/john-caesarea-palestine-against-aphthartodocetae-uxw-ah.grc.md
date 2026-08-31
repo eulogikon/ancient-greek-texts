@@ -5,6 +5,7 @@ author: John of Caesarea in Palestine
 eul_wid: uxw-ah
 eul_aid: uxw
 canonical: "https://eulogikon.org/works/john-caesarea-palestine-against-aphthartodocetae-uxw-ah"
+lang: grc
 period: Late Antique
 dialect: Christian Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** John of Caesarea in Palestine
 
 **eul_wid:** `uxw-ah` · [HTML page](https://eulogikon.org/works/john-caesarea-palestine-against-aphthartodocetae-uxw-ah)
-
-Against the Aphthartodocetae is a sixth-century theological treatise by John of Caesarea, a Christian scholar also known as John the Grammarian. Composed in Greek, the work is a polemical refutation directed against the Aphthartodocetae, a sect following the teachings of Julian of Halicarnassus which held that the human body of Christ was naturally incorruptible and impassible from the Incarnation. John structures his argument as a sequence of six logical disputations, contending that to deny the true corruptibility and mortality of Christ’s flesh is to render his sufferings and death merely illusory, thereby invalidating the Christian doctrine of salvation through his authentic human experience. The treatise is a significant document from the post-Chalcedonian controversies, representing the efforts of moderate pro-Chalcedonian theologians to define orthodox Christology against radical interpretations. It survives not as an independent whole but through fragments and extensive quotations preserved in later doctrinal compilations, such as the seventh-century Doctrina Patrum, attesting to its enduring value for later generations as a standard orthodox rebuttal to the Aphthartodocetic position.
 
 ## Text
 

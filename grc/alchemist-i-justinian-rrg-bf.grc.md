@@ -5,6 +5,7 @@ author: Alchemist I
 eul_wid: rrg-bf
 eul_aid: rrg
 canonical: "https://eulogikon.org/works/alchemist-i-justinian-rrg-bf"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alchemist I
 
 **eul_wid:** `rrg-bf` · [HTML page](https://eulogikon.org/works/alchemist-i-justinian-rrg-bf)
-
-The Use of Emperor Justinian is a brief, anonymous Greek alchemical treatise pseudepigraphically ascribed to Emperor Justinian I. It is structured as a series of six distinct passages offering practical, step-by-step instructions for material processes, primarily concerning the preparation, purification, and transformation of substances. The text details specific techniques, such as grinding eggshells into a fine powder, repeated washing with natron and water, and subsequent treatments involving vinegar and solar evaporation to achieve a desired white, lead-like pigment. These procedures reflect the core alchemical preoccupation with the transmutation and perfection of materials. The work survives within medieval Byzantine manuscript compendia, such as Marcianus graecus 299, which gather alchemical, magical, and technical texts, indicating its transmission within monastic or scholarly circles dedicated to these craft traditions. Although a minor technical manual, the treatise holds significance for historians of science and esoteric knowledge. Its attribution to an emperor with no historical connection to alchemy exemplifies a common strategy in late antique and Byzantine literature: the borrowing of imperial authority to legitimize and authenticate specialized, practical knowledge within a competitive intellectual landscape.
 
 ## Text
 

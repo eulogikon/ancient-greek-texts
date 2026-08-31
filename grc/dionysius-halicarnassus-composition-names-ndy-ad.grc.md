@@ -5,6 +5,7 @@ author: Dionysius of Halicarnassus
 eul_wid: ndy-ad
 eul_aid: ndy
 canonical: "https://eulogikon.org/works/dionysius-halicarnassus-composition-names-ndy-ad"
+lang: grc
 period: Hellenistic
 dialect: Attic
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Dionysius of Halicarnassus
 
 **eul_wid:** `ndy-ad` · [HTML page](https://eulogikon.org/works/dionysius-halicarnassus-composition-names-ndy-ad)
-
-_On the Composition of Names_, also known as _On the Arrangement of Words_, is a rhetorical treatise by Dionysius of Halicarnassus. It is a detailed study of verbal composition, which Dionysius considers the most important element of oratorical style, defining it as the arrangement of words to produce aesthetic and persuasive effects. The work survives intact through the medieval manuscript tradition of Dionysius’s rhetorical corpus. Its central argument establishes the primacy of word arrangement as the foundation of stylistic excellence, analyzing prose through its melody, rhythm, and structure. The treatise includes a comparative evaluation of classical authors, notably Herodotus, Thucydides, Xenophon, and Plato, to illustrate its principles. Preserved in full among Dionysius’s collected works, the text was transmitted primarily through medieval Greek manuscripts with no significant losses reported. A highly influential manual in the history of rhetoric and literary criticism, it served as a standard textbook in Byzantine education and helped canonize the Attic prose authors it analyzes. Its rediscovery during the Renaissance contributed significantly to the revival of classical rhetorical theory.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Seven Sages of Greece
 eul_wid: ayq-ae
 eul_aid: ayq
 canonical: "https://eulogikon.org/works/seven-sages-precepts-ayq-ae"
+lang: grc
 period: Archaic
 dialect: Mixed Dialects
 domain: Philosophy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Seven Sages of Greece
 
 **eul_wid:** `ayq-ae` · [HTML page](https://eulogikon.org/works/seven-sages-precepts-ayq-ae)
-
-The Precepts is a gnomic treatise attributed collectively to the Seven Sages of Greece, a canonical group of archaic-era intellectuals and statesmen that included figures such as Solon and Thales. This work belongs to the genre of wisdom literature, consisting of short, authoritative sayings that offer guidance on ethical and practical conduct. The wisdom of the Seven Sages was originally preserved through oral tradition and is epitomized by the famous Delphic maxims "Know thyself" and "Nothing in excess." A compiled text titled Precepts represents a later, literary attribution of such advisory material, synthesizing their scattered pronouncements into a single didactic collection.
-
-The content of the Precepts emphasizes core Hellenic virtues, particularly self-knowledge and moderation, which reflect the central Delphic ideals of introspection and the avoidance of hubris. Its maxims focus on practical ethics, advocating for effective action, justice, and responsible citizenship within the community. The sayings frequently counsel prudence and foresight, advising caution in personal commitments and financial dealings. A recurring theme is the recognition of human limits, acknowledging the power of the gods and the boundaries of mortal control, which grounds its practical advice in a pious worldview.
-
-No independent manuscript tradition for a singular work titled Precepts by the Seven Sages is attested. Their sayings are transmitted fragmentarily through citations and anecdotes in later authors such as Plato, Aristotle, and Plutarch. The wisdom attributed to them exists primarily within the diffuse gnomological collections of antiquity, from which the Precepts was later compiled. The gnomic wisdom of the Seven Sages profoundly influenced Greek and subsequent Western thought. They were canonized as cultural icons of practical wisdom, and their maxims became central touchstones for Socratic and Platonic philosophy, embodying a distinctively Greek ideal of measured, civic-minded virtue.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Hecataeus of Miletus the Historian
 eul_wid: bli-ab
 eul_aid: bli
 canonical: "https://eulogikon.org/works/hecataeus-miletus-historical-fragments-bli-ab"
+lang: grc
 period: Archaic
 dialect: Ionic
 domain: History
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hecataeus of Miletus the Historian
 
 **eul_wid:** `bli-ab` · [HTML page](https://eulogikon.org/works/hecataeus-miletus-historical-fragments-bli-ab)
-
-The Historical Fragments of Hecataeus constitute the modern scholarly reconstruction of the works of Hecataeus of Miletus, a foundational prose author active around 500 BCE. Hecataeus composed two major works in the Ionic dialect: the Periodos Ges, a geographical survey of the known world, and the Genealogiai, a systematic treatment of Greek myth. The geographical work organized its description into sections on Europe and Asia, the latter encompassing what is now considered Africa, combining practical coastal itineraries with ethnographic observations of inland peoples. The genealogical work sought to bring rational order to the complex and often contradictory narratives of heroic mythology, explicitly critiquing what he deemed the many absurd tales told by the Greeks.
-
-No manuscript of Hecataeus’s original writings survives. Knowledge of his work depends entirely on quotations, paraphrases, and critiques found in the texts of later authors such as Herodotus, Strabo, and Diodorus Siculus. Modern editions collect these scattered references; the totality of these passages, often numbering in the hundreds, represents the fragmentary corpus. Hecataeus lived during the period of the Ionian Revolt, and his intellectual project emerged from the inquiring culture of Ionia. His geography documented the expanding horizons of the Greek world, while his genealogies applied a nascent critical methodology to tradition, aiming to distill a plausible historical framework from legendary material. He is thus regarded as a seminal precursor to the formal disciplines of history and geography in Greece.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Dionysius of Halicarnassus
 eul_wid: ndy-ar
 eul_aid: ndy
 canonical: "https://eulogikon.org/works/dionysius-halicarnassus-testimony-ndy-ar"
+lang: grc
 period: Hellenistic
 dialect: Attic
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Dionysius of Halicarnassus
 
 **eul_wid:** `ndy-ar` · [HTML page](https://eulogikon.org/works/dionysius-halicarnassus-testimony-ndy-ar)
-
-No independent work titled Testimony by Dionysius of Halicarnassus is attested in ancient sources. The title likely refers to a modern editorial compilation of fragmentary citations drawn from his extant writings. Dionysius, a Greek historian and rhetorician active during the reign of Augustus, is principally known for his major historical work, Roman Antiquities, and a series of critical essays such as On the Ancient Orators. The hypothetical content of a compilation called Testimony would reflect his scholarly method, consisting of passages where he quotes earlier authors as evidential support. These would encompass his literary criticisms and stylistic judgments of classical authors, his citations of earlier historians to substantiate historical claims, and his use of excerpts from orators as exemplary models of persuasive speech. There exists no independent manuscript tradition for such a work; any collection would be a modern construct entirely dependent on the transmission of Dionysius's surviving texts. While not an ancient composition, the concept highlights his methodological influence. His systematic practice of collecting and analyzing textual evidence was instrumental in shaping later scholarly perceptions of Attic oratory and historiography. Furthermore, his extant works retain significant value for preserving numerous fragments of Greek literature that are otherwise lost.
 
 ## Text
 

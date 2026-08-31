@@ -5,6 +5,7 @@ author: Anaximander of Miletus
 eul_wid: aua-aa
 eul_aid: aua
 canonical: "https://eulogikon.org/works/anaximander-miletus-testimonies-aua-aa"
+lang: grc
 period: Archaic
 dialect: Ionic (frg)
 domain: Philosophy
@@ -19,14 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Anaximander of Miletus
 
 **eul_wid:** `aua-aa` · [HTML page](https://eulogikon.org/works/anaximander-miletus-testimonies-aua-aa)
-
-The Testimonies attributed to Anaximander of Miletus represent the modern scholarly reconstruction of his philosophical doctrines, compiled from reports and quotations preserved by later ancient authors. As no original text of Anaximander survives, our knowledge of his thought depends entirely on these secondary accounts, most notably from Aristotle, Theophrastus, Simplicius, and Hippolytus. The standard organization and numbering of these passages derive from modern critical editions, such as Diels-Kranz's Die Fragmente der Vorsokratiker.
-
-The collected testimonies reconstruct the core themes of Anaximander's lost treatise, traditionally titled On Nature. Central to his system was the concept of the apeiron, an eternal, boundless, and indeterminate substance from which all things originate. According to the testimonies, the cosmos arises from this principle through a process of separating out opposing qualities, such as hot and cold. This cosmic process is governed by a principle of justice and order, wherein things are said to pay penalty and retribution to one another for their injustice, implying a cyclical law of generation and destruction. The testimonies also credit Anaximander with pioneering explanations for various natural phenomena. These include his proposal that the Earth rests motionless at the center of the cosmos, unsupported and equidistant from all other points, and an early theory on the origin of living creatures from a primordial moisture. He is further noted for his contributions to practical geography and astronomy, such as creating a map of the world and constructing a celestial globe.
-
-The transmission of Anaximander's ideas relies almost exclusively on this doxographical tradition. The principal lines of transmission run through the Peripatetic school, initiated by Aristotle and his successor Theophrastus, and later through Neoplatonic commentators who preserved and discussed these earlier accounts. This indirect preservation means that the testimonies often reflect the interpretive frameworks of the later reporters as much as they do Anaximander's original thought.
-
-Anaximander's significance lies in his development of a systematic, rational account of the universe, marking a decisive move away from mythological explanations. His introduction of the apeiron as an abstract, non-material first principle and his vision of a cosmos regulated by impersonal law profoundly influenced the trajectory of Presocratic philosophy. His work established foundational questions and methods for natural philosophy, securing his place as a pivotal figure in the early history of both philosophy and science.
 
 ## Text
 

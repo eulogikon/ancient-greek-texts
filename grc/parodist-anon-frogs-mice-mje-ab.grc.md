@@ -5,6 +5,7 @@ author: Parodist  Anonymous
 eul_wid: mje-ab
 eul_aid: mje
 canonical: "https://eulogikon.org/works/parodist-anon-frogs-mice-mje-ab"
+lang: grc
 period: Hellenistic
 dialect: Epic (Homeric)
 domain: Poetry
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Parodist  Anonymous
 
 **eul_wid:** `mje-ab` · [HTML page](https://eulogikon.org/works/parodist-anon-frogs-mice-mje-ab)
-
-The Batrachomyomachia, or Battle of Frogs and Mice, is an anonymous comic epic from ancient Greece. Composed in the dactylic hexameter of Homeric poetry, it parodies the conventions of the heroic epic by narrating a full-scale war between two animal tribes. The conflict begins when the frog king Physignathos, offering a ride across a pond to the mouse prince Psicharpax, accidentally drowns his passenger. The ensuing war is treated with mock solemnity, complete with heroic epithets, formal speeches, arming scenes, and divine councils. The mice gain the upper hand until Zeus, pitying the frogs, commands the gods to intervene; they send an army of crabs to the battlefield, which routs the mouse forces and ends the war.
-
-Scholarly consensus dates the poem to between the late sixth and fifth centuries BCE, though its precise origins remain uncertain. In antiquity, its skillful imitation of Homeric style led to its occasional, though erroneous, attribution to Homer himself. The work presupposes an audience intimately familiar with the epic tradition, using its absurd premise to gently satirize the grandiose rhetoric and often trivial catalysts of heroic warfare. The poem survived through the medieval manuscript tradition, where it was frequently included as part of the Homeric corpus and served as a popular educational text due to its accessible language and engaging subject matter.
 
 ## Text
 

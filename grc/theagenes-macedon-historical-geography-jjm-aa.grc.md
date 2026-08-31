@@ -1,10 +1,11 @@
 ---
 title: Macedonian Historical Geography
 title_greek: Ἀποσπάσματα
-author: "Theagenes of Macedon "
+author: Theagenes of Macedon
 eul_wid: jjm-aa
 eul_aid: jjm
 canonical: "https://eulogikon.org/works/theagenes-macedon-historical-geography-jjm-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀποσπάσματα*
 
-**Author:** Theagenes of Macedon 
+**Author:** Theagenes of Macedon
 
 **eul_wid:** `jjm-aa` · [HTML page](https://eulogikon.org/works/theagenes-macedon-historical-geography-jjm-aa)
-
-The Macedonian Historical Geography is a lost prose work attributed to the obscure author Theagenes of Macedon. It survives only in sixteen fragmentary passages, which are themselves preserved as citations within later, now-lost, compilations. The work’s title indicates its primary focus on the historical geography of the Macedonian region. The extant fragments, as recorded by the Byzantine lexicographer Stephanus, consist primarily of entries on Macedonian place names. These entries often blend geographical location with historical or mythological foundation legends, such as attributing the city of Mieza to a daughter of the eponymous ancestor Beres or explaining the renaming of the city Kydna to Pydna. The work thus represents a regional application of a common ancient genre, using the description of landscape and city foundations to articulate local history and cultural identity. Its complete absence from major manuscript traditions and standard fragmentary collections suggests it was a minor composition, likely consulted only by later antiquarians and lexicographers interested in Macedonian topography and etymology.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Aristides the Orator
 eul_wid: qwm-br
 eul_aid: qwm
 canonical: "https://eulogikon.org/works/aristides-orator-opposite-qwm-br"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristides the Orator
 
 **eul_wid:** `qwm-br` · [HTML page](https://eulogikon.org/works/aristides-orator-opposite-qwm-br)
-
-To the Opposite is a declamation composed in Attic Greek by the orator Aelius Aristides during the mid-2nd century CE. A prime example of the sophistic exercise known as a meletē, or display speech, its primary function was to showcase rhetorical virtuosity. The work consists of sixteen passages in which Aristides practices arguing in utramque partem, that is, constructing persuasive cases both for and against a single, paradoxical proposition, as its title suggests. While the specific topic under debate is not preserved, the oration’s purpose was demonstrative rather than practical, emphasizing the speaker’s command of argument and classical style over engagement with a concrete contemporary issue.
-
-Composed during the cultural revival of the Second Sophistic, this work exemplifies the period’s dedication to the revival and performance of classical Greek rhetoric. Such declamations served as advanced pedagogical tools for students of oratory and as sophisticated entertainment for educated audiences. Within Aristides’ broader corpus, which includes more famous personal and political orations, To the Opposite is interpreted by modern scholars as a pure exhibition of rhetorical technique. The complete text survives through the medieval manuscript tradition, most notably within the 10th-century Codex Laurentianus 60.3, a primary source for much of Aristides’ work.
 
 ## Text
 

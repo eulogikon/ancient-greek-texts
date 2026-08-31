@@ -5,6 +5,7 @@ author: Xenion the Historian
 eul_wid: lls-aa
 eul_aid: lls
 canonical: "https://eulogikon.org/works/xenion-cretan-cities-lls-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Xenion the Historian
 
 **eul_wid:** `lls-aa` · [HTML page](https://eulogikon.org/works/xenion-cretan-cities-lls-aa)
-
-Fragments on Cretan Cities is a collection of prose fragments attributed to Xenion, a historian of Crete. Preserved solely through later quotations, primarily in the works of the geographer Strabo and the Byzantine scholar Stephanus of Byzantium, the work represents a local history focusing on the island's city-states. Its content is geographical and historical, detailing city foundations, mythological genealogies, and local institutions to articulate a distinct Cretan identity within the Hellenistic world. The extant fragments address the mythical origins of Cretan cities, such as Gortyn's founding by Gortys, son of Tegeates. They also explore connections between Cretan cities and pan-Hellenic heroes, including Agamemnon's association with Cydonia, and describe distinctive local customs and traditions. There is no independent manuscript tradition for the work; the fragments are reconstructed in modern scholarly collections. Xenion's fragments provided later geographers with authoritative material on Crete, thereby influencing classical geographical knowledge. The work exemplifies the Hellenistic genre of local historiography, which supplied the raw data for broader syntheses in the Roman period.
 
 ## Text
 

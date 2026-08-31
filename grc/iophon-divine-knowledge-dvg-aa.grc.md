@@ -5,6 +5,7 @@ author: Iophon the Tragedian
 eul_wid: dvg-aa
 eul_aid: dvg
 canonical: "https://eulogikon.org/works/iophon-divine-knowledge-dvg-aa"
+lang: grc
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Iophon the Tragedian
 
 **eul_wid:** `dvg-aa` · [HTML page](https://eulogikon.org/works/iophon-divine-knowledge-dvg-aa)
-
-The Fragments on Divine Knowledge is a modern thematic title for four verse passages attributed to the Athenian tragedian Iophon. These excerpts, originating from one or more of his lost plays, concern themes of divine insight, as no complete work by Iophon survives. The fragments treat subjects central to fifth-century Athenian tragedy, including the limits of human understanding contrasted with divine omniscience, the mechanisms and interpretation of prophecy, and the relationship between divine will and human agency. Iophon’s works were lost in late antiquity, and these fragments survive indirectly through quotation in later scholarly sources, such as anthologies, lexicons, or commentaries, though their specific sources are unrecorded. Iophon, the son of Sophocles, was an active competitor in the City Dionysia during the late 5th century BCE. While his influence was overshadowed by the major tragedians, these fragments are historically significant for exemplifying the broader, now-lost repertoire of Athenian tragedy and offering a glimpse into contemporary dramatic treatments of theology and knowledge.
 
 ## Text
 

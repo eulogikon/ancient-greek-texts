@@ -5,6 +5,7 @@ author: Rufus of Ephesus
 eul_wid: ojc-ag
 eul_aid: ojc
 canonical: "https://eulogikon.org/works/rufus-ephesus-bones-ojc-ag"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Rufus of Ephesus
 
 **eul_wid:** `ojc-ag` · [HTML page](https://eulogikon.org/works/rufus-ephesus-bones-ojc-ag)
-
-On Bones is a medical treatise on human anatomy written in Greek by the physician Rufus of Ephesus around the late first or early second century CE. The work provides a systematic, region-by-region study of the human skeleton, beginning with a detailed examination of the skull and proceeding downward to the limbs. Its 41 concise passages focus on practical anatomical details, including the names, numbers, shapes, and articulations of the bones, serving as a handbook for medical students and practitioners. The treatise reflects a post-Hellenistic revival of anatomical study intended for pedagogical use within the medical community. It synthesizes earlier anatomical knowledge, likely informed by observations made during surgical procedures, given the cultural limitations on systematic human dissection in that era. The complete text survives through medieval Greek manuscripts and was influential for centuries, helping to standardize Greek osteological terminology and later informing both Byzantine and Arabic medical traditions.
 
 ## Text
 

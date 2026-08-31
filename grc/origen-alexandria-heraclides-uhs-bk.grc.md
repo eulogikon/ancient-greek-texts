@@ -5,6 +5,7 @@ author: Origen of Alexandria
 eul_wid: uhs-bk
 eul_aid: uhs
 canonical: "https://eulogikon.org/works/origen-alexandria-heraclides-uhs-bk"
+lang: grc
 period: Late Antique
 dialect: Christian Koine
 domain: Theology
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Origen of Alexandria
 
 **eul_wid:** `uhs-bk` · [HTML page](https://eulogikon.org/works/origen-alexandria-heraclides-uhs-bk)
-
-The Dialogue with Heraclides is a theological treatise by the early Christian scholar Origen of Alexandria. Composed in Koine Greek between approximately 244 and 249 CE, it preserves a record of a provincial church synod over which Origen presided. The text is structured as a formal debate, unfolding through 29 passages of question-and-answer between Origen and a bishop named Heraclides, culminating in a concluding prayer. The dialogue centers on pivotal doctrinal controversies of the third century, rigorously examining the relationship between God the Father and the Son, the incorporeal nature of the soul, and the doctrine of the resurrection of the body.
-
-Modern scholarship regards the work as a rare and valuable document of early Christian ecclesiastical procedure, illustrating the methods by which doctrinal disputes were examined and resolved in a conciliar setting. It appears to have been composed to establish orthodox theological positions and to clarify, and potentially correct, the views held by Bishop Heraclides. The text was lost for centuries and is known from a single, largely complete papyrus codex discovered in Tura, Egypt, in 1941. This significant discovery provided a crucial primary source for understanding Origen's practical role as a teacher and doctrinal arbitrator within the early church.
 
 ## Text
 

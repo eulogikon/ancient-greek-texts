@@ -5,6 +5,7 @@ author: Porphyry of Tyre
 eul_wid: udm-aq
 eul_aid: udm
 canonical: "https://eulogikon.org/works/porphyry-tyre-cave-nymphs-udm-aq"
+lang: grc
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Porphyry of Tyre
 
 **eul_wid:** `udm-aq` · [HTML page](https://eulogikon.org/works/porphyry-tyre-cave-nymphs-udm-aq)
-
-On the Cave of the Nymphs is a philosophical treatise by the third-century Neoplatonist Porphyry of Tyre. This concise work provides an elaborate allegorical exegesis of a passage from Homer’s Odyssey describing a cave sacred to nymphs on Ithaca. Porphyry explicitly rejects a literal, topographical reading, arguing instead that Homer constructed the cave as a profound symbol for the cosmos and the journey of the soul. Proceeding systematically, he interprets each descriptive detail through a Neoplatonic lens. The cave’s two gates represent the descent of souls into generation through the northern gate and their potential return to the divine through the southern gate. The stone looms and purple fabrics woven within signify the formation of corporeal bodies, while the ever-flowing water and stone vessels symbolize the fluid, receptive nature of matter. The olive tree at the cave’s entrance and the hive of bees further contribute to this intricate symbolic schema, representing wisdom and purity respectively.
-
-The treatise, structured in thirty-seven sections, is a prime example of the late antique practice of seeking hidden philosophical meaning, or hyponoia, within classical poetry. It demonstrates how pagan philosophers reconciled authoritative literary texts with Platonic and Pythagorean doctrines concerning the soul’s embodiment and liberation. Modern scholarship regards the work as a pivotal document in the history of allegorical interpretation, illustrating the transformative reading strategies that allowed ancient texts to remain vitally relevant within new philosophical frameworks. Its methodological approach to uncovering spiritual truth beneath a narrative surface subsequently exerted a significant influence on both Christian biblical exegesis and later Renaissance thought.
 
 ## Text
 

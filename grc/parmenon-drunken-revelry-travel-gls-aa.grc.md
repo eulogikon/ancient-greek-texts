@@ -5,6 +5,7 @@ author: Parmenon the Iambic Poet
 eul_wid: gls-aa
 eul_aid: gls
 canonical: "https://eulogikon.org/works/parmenon-drunken-revelry-travel-gls-aa"
+lang: grc
 period: Classical
 dialect: "Ionic (ia, frg)"
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Parmenon the Iambic Poet
 
 **eul_wid:** `gls-aa` · [HTML page](https://eulogikon.org/works/parmenon-drunken-revelry-travel-gls-aa)
-
-Drunken Revelry and Travel is a collection of iambic poetry attributed to Parmenon the Iambic Poet. The work, also known by the title Apospasmata, meaning "Extracts," survives only in three fragmentary passages, indicating the loss of the original, complete composition. Its title suggests the verses treated themes of intoxication and journeying. Based on this title and the conventions of later iambic poetry, which frequently included satire and social observation, the fragments likely explored subjects such as drunken revelry, travel, and moralizing commentary on daily life. The work is preserved solely through its inclusion in later anthologies, most probably sourced from the Anthology compiled by the fifth-century grammarian John Stobaeus. Parmenon and his Apospasmata are also attested in the tenth-century Byzantine encyclopedia known as the Suda. While no specific influence on later literature is documented, the work illustrates the continuity of the iambic genre in the post-Classical period. Its preservation signifies it was valued for its content, contributing to modern understanding of the minor poetic works that populated the Hellenistic and later literary landscape.
 
 ## Text
 

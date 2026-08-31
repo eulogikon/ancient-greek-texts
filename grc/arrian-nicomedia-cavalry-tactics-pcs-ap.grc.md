@@ -5,6 +5,7 @@ author: Arrian of Nicomedia
 eul_wid: pcs-ap
 eul_aid: pcs
 canonical: "https://eulogikon.org/works/arrian-nicomedia-cavalry-tactics-pcs-ap"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Arrian of Nicomedia
 
 **eul_wid:** `pcs-ap` · [HTML page](https://eulogikon.org/works/arrian-nicomedia-cavalry-tactics-pcs-ap)
-
-The Fragments on Cavalry Tactics is a minor, fragmentary military treatise attributed to the 2nd-century CE historian and commander Arrian of Nicomedia. It is distinct from his more comprehensive work, the Tactica. The text survives only as three passages preserved within a later Byzantine compilation, dealing specifically with cavalry exercises and maneuvers. The extant fragments address cavalry drill and training, offering instructions for exercising units, and describe specific tactical formations and movements. This practical advice for commanders is consistent with the professional military knowledge found in Arrian’s other technical works. Its preservation as excerpts underscores the enduring authority of Arrian’s military writings in later centuries. Although its direct influence is difficult to trace, the fragments contribute to the modern understanding of Roman cavalry practice and the genre of technical military manuals in the Roman Empire.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Macedonius the Lyric Poet
 eul_wid: joc-aa
 eul_aid: joc
 canonical: "https://eulogikon.org/works/macedonius-lyric-paean-apollo-aesculapius-joc-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Macedonius the Lyric Poet
 
 **eul_wid:** `joc-aa` · [HTML page](https://eulogikon.org/works/macedonius-lyric-paean-apollo-aesculapius-joc-aa)
-
-The Paean to Apollo and Aesculapius is a Greek hymn attributed to Macedonius the Lyric Poet. As a formal song of praise intended for performance, it jointly addresses Apollo and his son Asclepius, the god of medicine, indicating a context related to healing or thanksgiving. The work survives only in two fragmentary passages. Its themes involve the direct praise and invocation of the two deities, supplication for or thanksgiving regarding health and salvation from illness, and the celebration of their divine kinship and shared function in healing. The poem is absent from major textual catalogs and is not attested for any known Macedonius in standard references. Its survival in two passages suggests fragmentary preservation, likely through indirect transmission such as quotation in later grammatical or anthological works, rather than a continuous manuscript tradition. This paean represents the enduring composition of traditional pagan hymnody, possibly in the late antique period. Its primary significance lies in its contribution to the corpus of Greek religious poetry dedicated to healing deities.
 
 ## Text
 

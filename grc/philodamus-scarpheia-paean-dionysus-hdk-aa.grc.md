@@ -5,6 +5,7 @@ author: Philodamus of Scarpheia the Lyric Poet
 eul_wid: hdk-aa
 eul_aid: hdk
 canonical: "https://eulogikon.org/works/philodamus-scarpheia-paean-dionysus-hdk-aa"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philodamus of Scarpheia the Lyric Poet
 
 **eul_wid:** `hdk-aa` · [HTML page](https://eulogikon.org/works/philodamus-scarpheia-paean-dionysus-hdk-aa)
-
-The Paean to Dionysus is a cult hymn composed by the poet Philodamus of Scarpheia around 340–339 BCE for performance at the Theoxenia festival in Delphi. This lyric poem serves as a formal invocation, calling the god Dionysus to attend the ritual as a divine guest. It celebrates the god’s birth at Thebes, his cosmic power, and his special connection to Delphi, where he was believed to reside alongside Apollo during the winter months. The hymn’s complete text survives not in medieval manuscripts but carved on a stone inscription discovered at Delphi. The accompanying decree orders the hymn’s annual performance, specifying that it was to be sung by a choir of Delphic boys during the festival. The poem is structured in four triadic sections—strophe, antistrophe, and epode—a traditional lyric form, and is composed in a literary Doric dialect mixed with other poetic elements. Modern scholars regard the paean as crucial evidence for the integration of poetry into public ritual. It was likely commissioned as part of a reorganization of Delphic cult practice during a period of Macedonian political influence. The hymn explicitly works to harmonize the worship of Dionysus with that of Apollo at Delphi, reflecting the sanctuary’s complex religious identity. As one of the few fully preserved examples of a Classical paean, it offers direct insight into the performance, function, and political dimensions of Greek religious poetry.
 
 ## Text
 

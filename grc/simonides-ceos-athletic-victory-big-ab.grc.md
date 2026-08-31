@@ -5,6 +5,7 @@ author: Simonides of Ceos
 eul_wid: big-ab
 eul_aid: big
 canonical: "https://eulogikon.org/works/simonides-ceos-athletic-victory-big-ab"
+lang: grc
 period: Archaic
 dialect: Koine
 domain: Poetry
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Simonides of Ceos
 
 **eul_wid:** `big-ab` · [HTML page](https://eulogikon.org/works/simonides-ceos-athletic-victory-big-ab)
-
-The Fragments on Athletic Victory is a modern scholarly compilation of 314 passages attributed to the Greek lyric poet Simonides of Ceos, who flourished from approximately 556 to 468 BCE. As a leading professional poet of his era, Simonides composed numerous epinician odes, which were choral songs commissioned to celebrate victors at the great Panhellenic athletic festivals such as the Olympic and Pythian Games. The collected fragments, ranging from single lines to short stanzas, represent the surviving remnants of this body of work. They illustrate the genre's essential themes: the immortalization of the victor's achievement, the praise of his family and city, the acknowledgment of divine favor, and meditation on the transient nature of human success.
-
-No complete victory ode by Simonides survives. These fragments are preserved only through later citations by ancient authors, including Athenaeus and Stobaeus, and through discoveries on papyrus. The modern numbering system organizing them into 314 discrete passages reflects their presentation in contemporary critical editions. The original odes were likely composed for wealthy aristocratic patrons, functioning as enduring poetic monuments to their athletic glory. Scholars regard these fragments as vital evidence for understanding the social milieu of early Greek athletics. They also provide a significant stylistic and thematic counterpoint to the more complex and elaborate victory odes of Simonides' celebrated contemporary, Pindar.
 
 ## Text
 

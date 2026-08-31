@@ -5,6 +5,7 @@ author: Hesychius of Miletus the Illustrious
 eul_wid: uws-ab
 eul_aid: uws
 canonical: "https://eulogikon.org/works/hesychius-miletus-nativity-christ-uws-ab"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hesychius of Miletus the Illustrious
 
 **eul_wid:** `uws-ab` · [HTML page](https://eulogikon.org/works/hesychius-miletus-nativity-christ-uws-ab)
-
-The Homily on the Nativity of Christ is a Christian sermon attributed to Hesychius of Miletus, a sixth-century Byzantine historian also known as Hesychius Illustris. Composed in Koine Greek prose, the work celebrates the birth of Jesus Christ, detailing the precise chronological moment of the incarnation according to the author's calculations. It integrates this event into a grand historical and theological schema, connecting it to Old Testament prophecy, the chronology from Adam, and the veneration of the Virgin Mary. The text employs typological interpretation, drawing parallels between the six days of creation and the sixth millennium of world history to frame Christ's advent as a divinely ordained act of salvation. This homily represents the explicitly Christian literary activity of an author otherwise known for secular historical compilations, reflecting the cultural synthesis of classical learning and Christian doctrine characteristic of the educated elite during the reign of Emperor Justinian I. The works of Hesychius survive primarily in fragments, with his major historical texts lost except for portions preserved by later authors. The preservation status and full content of this homily remain unclear, as it is not detailed in standard biographical references that focus on his historical works. If authentic, the sermon was likely intended for a Christian congregation or readership in Constantinople for doctrinal instruction and liturgical celebration.
 
 ## Text
 

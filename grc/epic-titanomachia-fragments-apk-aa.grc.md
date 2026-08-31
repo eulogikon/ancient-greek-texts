@@ -5,6 +5,7 @@ author: "Epic: Titanomachia Anonymous"
 eul_wid: apk-aa
 eul_aid: apk
 canonical: "https://eulogikon.org/works/epic-titanomachia-fragments-apk-aa"
+lang: grc
 period: Archaic
 dialect: Epic (Homeric)
 domain: Epic
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Epic: Titanomachia Anonymous
 
 **eul_wid:** `apk-aa` · [HTML page](https://eulogikon.org/works/epic-titanomachia-fragments-apk-aa)
-
-The Titanomachy is a lost epic poem from ancient Greece, composed in dactylic hexameter verse. Its author is unknown; while some ancient sources attributed it to figures such as Eumelus of Corinth, modern scholarship considers these attributions speculative. The poem narrated the great war between the Olympian gods, led by Zeus, and the previous generation of deities, the Titans, detailing the violent transition of power that established the cosmic rule of Zeus. Only fragments of the text survive, preserved in approximately eighteen passages and references within the works of later ancient writers such as Callimachus, Damascius, and the mythographer Pseudo-Apollodorus. These fragments indicate the epic covered the full narrative of divine succession, from the overthrow of Uranus by Cronus to the final imprisonment of the Titans. It is considered part of a cycle of epics that aimed to provide a coherent mythological prelude to the events of the Homeric poems and the Trojan War. Likely composed during the Archaic period, though its precise date is uncertain, the Titanomachy was influential in systematizing Greek mythology, offering a foundational version of the gods' origins that shaped subsequent literary and artistic traditions.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Hexameter Papyri Anonymous
 eul_wid: jni-ac
 eul_aid: jni
 canonical: "https://eulogikon.org/works/hexameter-papyri-epigrams-jni-ac"
+lang: grc
 period: Hellenistic
 dialect: Epic (Homeric) (frg)
 domain: Poetry
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hexameter Papyri Anonymous
 
 **eul_wid:** `jni-ac` · [HTML page](https://eulogikon.org/works/hexameter-papyri-epigrams-jni-ac)
-
-The collection known as the Epigrams by Hexameter Papyri Anonymous comprises a group of 104 short poetic passages. Anonymous Greek epigrams are not conventionally treated as a single authored work but are instead categorized according to the papyri that preserve them. This material is found primarily within the Byzantine compilation known as the Greek Anthology, which itself drew upon earlier collections such as the Garland of Meleager and the Garland of Philip. Epigrams are concise, self-contained poems, most frequently composed in elegiac couplets, though other metrical forms like pure hexameter are also attested.
-
-The subject matter of these poems is remarkably diverse. Common types include dedicatory epigrams, which commemorate offerings or vows made to the gods, and sepulchral epigrams, which function as epitaphs to lament or honor the dead. Ekphrastic epigrams offer descriptions of artworks such as statues or paintings, while erotic epigrams express themes of desire and love. Other categories encompass sympotic verse, associated with the drinking party or symposion, and poems of a satirical or invective nature. The survival of these anonymous works is largely fortuitous, dependent on their inclusion in later anthologies or the chance preservation of papyrus fragments. The principal source is the 10th-century Greek Anthology, also known as the Palatine Anthology, though individual poems are sometimes preserved on earlier papyri from Egypt, which can provide valuable textual witnesses.
-
-The Greek epigram genre, including its many anonymous examples, exerted a profound and lasting influence on literary history. Roman poets such as Catullus and Martial adapted the form for their own purposes, and its rediscovery during the Renaissance inspired a major revival of epigram writing across Europe. The epigram's characteristic concision, wit, and pointed style helped shape the development of later literary forms, including the sonnet and various modes of short lyric poetry.
 
 ## Text
 

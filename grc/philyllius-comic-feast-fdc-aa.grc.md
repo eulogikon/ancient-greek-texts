@@ -5,6 +5,7 @@ author: Philyllius the Comic Poet
 eul_wid: fdc-aa
 eul_aid: fdc
 canonical: "https://eulogikon.org/works/philyllius-comic-feast-fdc-aa"
+lang: grc
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philyllius the Comic Poet
 
 **eul_wid:** `fdc-aa` · [HTML page](https://eulogikon.org/works/philyllius-comic-feast-fdc-aa)
-
-The Fragments of a Comic Feast constitutes a modern assemblage of 46 surviving passages from the lost comedies of the Athenian playwright Philyllius, active around 400 BCE. Working within the tradition of Old Comedy, Philyllius composed full verse plays for major festivals such as the City Dionysia, where he achieved at least one first prize. The fragments, consisting of individual lines and brief descriptive summaries, derive from plays bearing titles such as Cities, Heracles, and The Revelers. Their content frequently centers on themes of feasting, culinary detail, and the rhythms of daily life, while other passages exhibit the genre's characteristic parody of mythological narratives.
-
-The complete texts of Philyllius's comedies have not endured. Their preservation relies entirely on indirect transmission, whereby later ancient authors excerpted his verses. The principal source is the erudite compiler Athenaeus of Naucratis, who in the 2nd or 3rd century CE quoted these fragments extensively in his sprawling work The Learned Banqueters to elucidate points of language, custom, or material culture. For modern scholarship, this collection provides a valuable aperture into the diversity of Old Comedy beyond the handful of complete plays that survive, illustrating the genre's enduring engagement with social observation, the culture of the symposium, and humor rooted in the everyday experiences of Athenian society.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Ctesiphon Historicus
 eul_wid: clm-aa
 eul_aid: clm
 canonical: "https://eulogikon.org/works/ctesiphon-boeotian-history-clm-aa"
+lang: grc
 period: Classical
 dialect: Attic (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Ctesiphon Historicus
 
 **eul_wid:** `clm-aa` · [HTML page](https://eulogikon.org/works/ctesiphon-boeotian-history-clm-aa)
-
-The Fragments on Boeotian History is a lost local history of Boeotia attributed to Ctesiphon Historicus. The work is known only by its title and a small number of surviving fragments, preserved not through direct manuscript tradition but as quotations embedded within the texts of later ancient and Byzantine authors. This indirect transmission leaves the original scope, structure, and full content of the history largely a matter of scholarly conjecture. Based on the conventions of Greek local historiography, the work likely contained regional mythology and foundation stories for Boeotian cities, descriptions of local customs, institutions, and religious cults, historical narratives concerning wars and political affairs within the region, and geographical details of the landscape and its sanctuaries. The extant fragments, scattered in citations by later lexicographers, scholiasts, and historians, are collected in modern reference works dedicated to fragmentary historians. Ctesiphon’s compilation served as a specialized source of local knowledge for later compilers. For modern scholarship, these fragments are of primary value to specialists in Boeotian regional history or the study of fragmentary Greek historiography, offering minor but tangible evidence for reconstructing aspects of the region’s past.
 
 ## Text
 

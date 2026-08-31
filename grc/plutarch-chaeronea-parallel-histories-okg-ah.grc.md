@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-ah
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-parallel-histories-okg-ah"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-ah` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-parallel-histories-okg-ah)
-
-The Collection of Parallel Greek and Roman Histories is a lost work by Plutarch of Chaeronea, distinct from his famous Parallel Lives. Known only from its entry in the posthumous Lamprias Catalogue, it is listed as comprising 68 items. The work was not a continuous narrative but rather a reference collection of comparative historical anecdotes. It arranged Greek and Roman episodes in parallel columns, employing the structural principle of synkrisis, or comparison. Its content served as a repository of historical exempla, using past events as models for virtue, vice, and practical wisdom. This format facilitated a cultural dialogue between Greek and Roman civilization and was consistent with Plutarch’s broader moralistic project of drawing ethical and political lessons from history. No direct fragments, papyri, or verbatim quotations of the work survive, and its transmission is attested solely through the medieval manuscripts preserving the Lamprias Catalogue. While its direct influence is untraceable, the Collection exemplifies Plutarch’s methodological interest in historical comparison, a principle he developed more fully in his surviving biographies. It reflects the intellectual practices of the Second Sophistic period, potentially serving as a sourcebook for rhetorical education and moral instruction.
 
 ## Text
 

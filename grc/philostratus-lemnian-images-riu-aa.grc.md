@@ -5,6 +5,7 @@ author: Philostratus the Lemnian
 eul_wid: riu-aa
 eul_aid: riu
 canonical: "https://eulogikon.org/works/philostratus-lemnian-images-riu-aa"
+lang: grc
 period: Roman
 dialect: Attic
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philostratus the Lemnian
 
 **eul_wid:** `riu-aa` · [HTML page](https://eulogikon.org/works/philostratus-lemnian-images-riu-aa)
-
-The Images is a work of ekphrasis, or vivid artistic description, composed in Attic Greek by the sophist Philostratus the Lemnian, also known as Philostratus the Elder, in the early 3rd century CE. It comprises two books containing 30 short prose passages, each describing a different painting within a gallery the author purports to have seen in a villa near Naples. Framed as a guided tour for a young boy, the text animates scenes from Greek mythology, depicting gods, heroes, and various personifications. A prime example of the literary culture of the Roman Imperial period known as the Second Sophistic, the work demonstrates the highly prized rhetorical exercise of skilled verbal description. Modern scholarship interprets it as both a display of sophistic artistry and an educational model for teaching a young student how to interpret art and narrative. While the gallery itself is likely a fictional or composite literary construct, it reflects the types of art collected in elite Roman villas and the intellectual pastimes of the era. Its central theme explores the power of language to create mental images that rival visual art. The text survives in full through medieval manuscripts, though its transmission is occasionally complicated by a later, similar work of the same title authored by Philostratus the Younger. Based on stylistic and internal evidence, scholarly consensus attributes this collection of 30 descriptions to Philostratus the Elder. It remains a crucial source for understanding ancient rhetorical practice, art criticism, and the reception of classical mythology.
 
 ## Text
 

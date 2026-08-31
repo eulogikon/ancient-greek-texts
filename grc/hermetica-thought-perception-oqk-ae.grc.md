@@ -1,10 +1,11 @@
 ---
 title: Hermes Trismegistus-Thought and Perception
 title_greek: Περὶ νοήσεως καὶ αἰσθήσεως.
-author: "Hermetica "
+author: Hermetica
 eul_wid: oqk-ae
 eul_aid: oqk
 canonical: "https://eulogikon.org/works/hermetica-thought-perception-oqk-ae"
+lang: grc
 period: Roman
 dialect: Philosophical Koine
 domain: Philosophy
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Περὶ νοήσεως καὶ αἰσθήσεως.*
 
-**Author:** Hermetica 
+**Author:** Hermetica
 
 **eul_wid:** `oqk-ae` · [HTML page](https://eulogikon.org/works/hermetica-thought-perception-oqk-ae)
-
-"On Thought and Perception" is a philosophical treatise attributed to the legendary Hellenistic figure Hermes Trismegistus. Composed in Greek, most likely in Roman Egypt between the 1st and 3rd centuries CE, it forms a constituent part of the larger body of esoteric teachings known as the Corpus Hermeticum. The work is presented as a didactic discourse, continuing a prior lesson and examining the relationship between sensory perception and intellectual thought. It posits that while these two faculties appear distinct—one being material and the other essential—they are in fact united and inseparable within human beings. The text further delineates a hierarchy of cognition, distinguishing between divine intellect, thought, and rational speech, arguing that true perception and understanding flow into a person as an intertwined whole. The treatise is a prime example of the syncretic Hermetic philosophy, blending Platonic and Stoic concepts with Egyptian religious motifs to outline a path of spiritual knowledge and personal transformation aimed at a literate, seeking audience. Preserved within the manuscript tradition of the Corpus Hermeticum, notably in a 14th-century Byzantine codex, the work was rediscovered and translated into Latin during the Renaissance. Its initial reception as a repository of pristine, pre-Christian wisdom granted it significant influence on the development of Western esoteric and philosophical thought.
 
 ## Text
 

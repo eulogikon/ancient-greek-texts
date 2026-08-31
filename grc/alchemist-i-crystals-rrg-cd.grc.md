@@ -5,6 +5,7 @@ author: Alchemist I
 eul_wid: rrg-cd
 eul_aid: rrg
 canonical: "https://eulogikon.org/works/alchemist-i-crystals-rrg-cd"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alchemist I
 
 **eul_wid:** `rrg-cd` · [HTML page](https://eulogikon.org/works/alchemist-i-crystals-rrg-cd)
-
-The Making of Crystals is a short, pseudepigraphical alchemical treatise attributed to an author known only as Alchemist I. It comprises four instructional passages detailing procedures for the artificial production of crystalline substances. The text is a practical recipe belonging to the Greco-Egyptian alchemical tradition, focusing on laboratory operations for the creation of imitation gems rather than theoretical speculation. Its content provides techniques for the artificial replication and perfection of natural crystals, offering precise instructions for materials, apparatus such as the kerotakis, and step-by-step processes. This arcane knowledge is presented for initiated practitioners, a characteristic feature of the alchemical corpus. The treatise survives within the corpus of Greek alchemical texts preserved in Byzantine manuscripts. Its principal witness is the tenth- or eleventh-century manuscript Marcianus graecus 299, a compilation containing copies of much older material. As an anonymous technical recipe, the work itself had no distinct individual influence. Collectively, however, this body of Greco-Egyptian writings was foundational. Translated into Syriac and Arabic, it informed Islamic alchemy and, through later Latin translations, passed into Western alchemy and early chemistry.
 
 ## Text
 

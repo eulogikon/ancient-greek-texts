@@ -5,6 +5,7 @@ author: Ptolemy of Megalopolis
 eul_wid: kri-aa
 eul_aid: kri
 canonical: "https://eulogikon.org/works/ptolemy-megalopolis-histories-philopator-kri-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Ptolemy of Megalopolis
 
 **eul_wid:** `kri-aa` · [HTML page](https://eulogikon.org/works/ptolemy-megalopolis-histories-philopator-kri-aa)
-
-The Histories Concerning Philopator is a lost historical work by Ptolemy of Megalopolis, which focused on the reign of Ptolemy IV Philopator of Egypt from 221 to 204 BCE. The work survives only in fragmentary quotations preserved by later authors, including Clement of Alexandria, Arnobius, and Athenaeus. These citations, drawn from at least three books, indicate the history covered a range of subjects pertinent to Philopator's court and era. The fragments reference the tomb of the legendary king Cinyras and his descendants at the temple of Aphrodite in Paphos, describe court entertainers known as geloiastai who were summoned to royal symposia from across the city, and note royal cupbearers and the mistresses of kings. The title of the work as recorded by the 9th-century Byzantine scholar Photius, Apospasmata or "Selections," suggests the text known in later antiquity may have been an epitome or that the surviving citations are themselves extracts from a more comprehensive history. As a contemporary account originating from within the Ptolemaic sphere, the fragments of this work provide a valuable, though limited, counterpoint to the narratives of external historians like Polybius and are crucial primary evidence for modern reconstructions of Ptolemaic court life and the political history of the period.
 
 ## Text
 

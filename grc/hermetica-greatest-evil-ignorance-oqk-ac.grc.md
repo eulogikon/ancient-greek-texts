@@ -1,10 +1,11 @@
 ---
 title: "Hermes Trismegistus, Greatest Evil is Ignorance of God"
 title_greek: Ὅτι μέγιστον κακὸν ἐν ἀνθρώποις ἡ περὶ τοῦ θεοῦ
-author: "Hermetica "
+author: Hermetica
 eul_wid: oqk-ac
 eul_aid: oqk
 canonical: "https://eulogikon.org/works/hermetica-greatest-evil-ignorance-oqk-ac"
+lang: grc
 period: Roman
 dialect: Philosophical Koine
 domain: Philosophy
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ὅτι μέγιστον κακὸν ἐν ἀνθρώποις ἡ περὶ τοῦ θεοῦ*
 
-**Author:** Hermetica 
+**Author:** Hermetica
 
 **eul_wid:** `oqk-ac` · [HTML page](https://eulogikon.org/works/hermetica-greatest-evil-ignorance-oqk-ac)
-
-"Greatest Evil is Ignorance of God" is a concise philosophical treatise attributed to the legendary Hellenistic sage Hermes Trismegistus. Composed in Koine Greek, most likely in Roman Egypt between the 1st and 3rd centuries CE, the work forms the final tractate in the medieval anthology known as the Corpus Hermeticum, preserved in an 11th-century compilation by the Byzantine scholar Michael Psellus. It belongs to the category of "philosophical Hermetica," a body of texts synthesizing Greek philosophical concepts, particularly Platonic and Stoic thought, with Egyptian religious themes. The treatise presents a stark dichotomy for humanity, declaring that the fundamental and greatest evil is ignorance concerning the nature of God, while the supreme good and sole path to salvation is the attainment of spiritual knowledge, or gnōsis, of the divine. It opens with a powerful rhetorical address, portraying humanity as spiritually intoxicated and adrift, corrupted by this ignorance which prevents the soul from finding safe harbor. The text urges readers to sober up, to see with the "eyes of the heart," and to seek a divine guide who can lead them to the "doors of knowledge" and into a pure, illuminating light accessible only to the mind and spirit. This salvific knowledge requires the individual to first tear off the "garment" of ignorance, described as a fabric of vice and a chain of corruption. Written for educated seekers interested in personal spiritual transformation, the treatise emphasizes a direct, revelatory understanding of God as the means of liberation from material existence and moral failing. While its soteriological focus on knowledge invites comparison with contemporaneous Gnostic Christian thought, it represents a distinct, syncretic tradition within the broader spiritual landscape of the early Roman Empire.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Origen of Alexandria
 eul_wid: uhs-ck
 eul_aid: uhs
 canonical: "https://eulogikon.org/works/origen-alexandria-letter-africanus-uhs-ck"
+lang: grc
 period: Late Antique
 dialect: Christian Koine
 domain: Theology
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Origen of Alexandria
 
 **eul_wid:** `uhs-ck` · [HTML page](https://eulogikon.org/works/origen-alexandria-letter-africanus-uhs-ck)
-
-The Letter to Africanus is an apologetic epistle composed in Koine Greek by the early Christian theologian Origen of Alexandria, written approximately between 240 and 248 CE. Addressed to the scholar Julius Africanus, the letter constitutes a detailed, twenty-three-section rebuttal to Africanus's critique regarding the authenticity of the story of Susanna. This narrative appears in the Greek Septuagint version of the Book of Daniel but is absent from the Hebrew biblical text. Origen systematically defends the canonicity and ecclesiastical use of the Septuagint, engaging with foundational issues of scriptural authority, textual criticism, and the status of deuterocanonical writings within the Christian tradition.
-
-The complete text of the letter is preserved in Greek manuscripts, most significantly in the 14th-century Codex Parisinus graecus 456. Modern scholarship regards the work as a critical document from the formative period of Christian canon debates. It encapsulates a significant methodological divergence: Africanus advocated a historically rigorous approach that privileged the Hebrew source texts, while Origen argued for the theological and didactic value of the Greek scriptural tradition, including its variant passages. Composed for educated Christian circles engaged in such doctrinal and textual discussions, the letter remains an essential primary source for understanding the development of early biblical scholarship and the processes of canon formation in the early church.
 
 ## Text
 

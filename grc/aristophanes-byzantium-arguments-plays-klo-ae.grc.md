@@ -5,6 +5,7 @@ author: Aristophanes of Byzantium
 eul_wid: klo-ae
 eul_aid: klo
 canonical: "https://eulogikon.org/works/aristophanes-byzantium-arguments-plays-klo-ae"
+lang: grc
 period: Hellenistic
 dialect: Technical Koine
 domain: Grammar
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristophanes of Byzantium
 
 **eul_wid:** `klo-ae` · [HTML page](https://eulogikon.org/works/aristophanes-byzantium-arguments-plays-klo-ae)
-
-The Arguments of Aristophanes' Plays is a collection of introductory notes, or hypotheses, attributed to the Hellenistic scholar Aristophanes of Byzantium, who served as head of the Library of Alexandria in the early second century BCE. The work was composed as a scholarly apparatus for the comedies of the Athenian playwright Aristophanes, providing essential contextual information for each play. A typical hypothesis records the date of the play's original production, the festival at which it was performed, its competitive ranking against other comedies, and a concise summary of its plot. The original compilation is believed to have covered the eleven surviving comedies of Aristophanes known to Alexandrian editors.
-
-The text does not survive as an independent treatise but is preserved within the medieval manuscript tradition of Aristophanes' comedies, where the hypotheses appear as prefatory material before each play. Through centuries of transmission and annotation by later scribes and scholars, the original Byzantine notes have been amalgamated with subsequent additions and revisions, making it challenging for modern philologists to distinguish the authentic core from later accretions. This work stands as a significant artifact of Alexandrian editorial practice, designed to elucidate the often obscure topical humor and Athenian cultural references of Old Comedy for a broader Hellenistic readership. By systematically preserving production data and narrative synopses, it fulfilled a vital pedagogical and preservational function. Its format established a model for the scholarly introduction of classical texts, exerting a lasting influence on exegetical traditions in both Byzantine and Renaissance scholarship.
 
 ## Text
 

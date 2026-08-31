@@ -5,6 +5,7 @@ author: Galen of Pergamon
 eul_wid: qmm-aa
 eul_aid: qmm
 canonical: "https://eulogikon.org/works/galen-pergamon-healthy-diet-qmm-aa"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Galen of Pergamon
 
 **eul_wid:** `qmm-aa` · [HTML page](https://eulogikon.org/works/galen-pergamon-healthy-diet-qmm-aa)
-
-Galen of Pergamon’s commentary on the work traditionally titled On the Healthy Diet of Individuals, attributed either to Hippocrates or to the historian Polybius, is a systematic exegesis structured around 49 lemmas. In this treatise, Galen quotes passages from the source text and then provides detailed explication, consistently aligning its doctrines on regimen with his own comprehensive medical and philosophical system. The work forms a significant part of Galen’s broader exegetical project to establish the authority of Hippocratic writings as the foundation for his theories.
-
-The commentary’s core subject is the preservation of health through a diet and lifestyle meticulously tailored to the individual. Galen emphasizes the necessity of considering a person’s unique humoral mixture, age, physical constitution, and the seasonal context. His exegetical method involves uncovering what he considers the true, often deeper, meaning of the source text, frequently arguing for specific interpretations of its terminology. The focus is squarely on preventative medicine, or hygieine, rather than on the treatment of disease. This involves detailed advice on daily practices intended to maintain equilibrium and prevent illness, encompassing concepts that would later be formalized in medieval medicine as the Six Non-Naturals.
-
-The text survives through Byzantine-era Greek manuscripts transmitted within the larger Galenic corpus, with modern critical editions appearing in the Corpus Medicorum Graecorum. Galen’s commentary serves as the principal witness to the content of the source treatise, which is not independently extant in full. In terms of historical significance, this work contributed substantially to cementing the canonical status of the Hippocratic Corpus within the medical tradition. By presenting his interpretations as the definitive reading of Hippocratic doctrine, Galen helped establish his own system as medical orthodoxy. Translated into Syriac, Arabic, and Latin, the commentary exerted a profound influence on medieval and early modern medicine, perpetuating Galen’s emphasis on individualized, diet-based preventative care for centuries.
 
 ## Text
 
@@ -134,7 +129,7 @@ The text survives through Byzantine-era Greek manuscripts transmitted within the
 
 ### 15 200
 
-ὁποῖαι δέ εἰσιν ἑκατέρων αἱ ὗλαι, διὰ τῆς ἐχομένης ῥήσεως ἐδήλωσεν ἐξηγήσεως οὐ δεομένης, διὸ καὶ παραλιπὼν αὐτὴν ἐπὶ τὰ συνεχῆ τρέψομαι. Ἔστι δὲ τῶν κατακλυσμάτων λιπαρὰ καὶ παχέα τὰ ἀπὸ τῶν γαλάκτων καὶ ἀπὸ ἐρεβίνθων ὕδωρ ἑφθὸν καὶ τῶν ἄλλων τῶν τοιούτω ν , λεπτὰ δὲ καὶ ἁλμυρὰ τὰ τοιαῦτ α , ἅλμη καὶ θάλαcc α . Τοὺς δὲ ἐμέτους ὧδε χρὴ ποιεῖσθαι · ὅσοι μὲν τῶν ἀνθρώπων παχεῖς εἰς ι , νήστιες ἐμούντων δραμόντες ἢ ὁδοιπορήσαντες διὰ τάχεος κατὰ μέσον ἡμέρη c . Ἐκτεθερμάνθαι βούλεται τὸ σῶμα τοῖς παχέσιν ἐμεῖν μέλλουσιν ἕνεκα τῆς χύσεως τῶν φλεγματικῶν χυμῶν, οὓς πλείους ἔχουσιν οἱ παχεῖς. [13]
+ὁποῖαι δέ εἰσιν ἑκατέρων αἱ ὗλαι, διὰ τῆς ἐχομένης ῥήσεως ἐδήλωσεν ἐξηγήσεως οὐ δεομένης, διὸ καὶ παραλιπὼν αὐτὴν ἐπὶ τὰ συνεχῆ τρέψομαι. Ἔστι δὲ τῶν κατακλυσμάτων λιπαρὰ καὶ παχέα τὰ ἀπὸ τῶν γαλάκτων καὶ ἀπὸ ἐρεβίνθων ὕδωρ ἑφθὸν καὶ τῶν ἄλλων τῶν τοιούτω ν , λεπτὰ δὲ καὶ ἁλμυρὰ τὰ τοιαῦτ α , ἅλμη καὶ θάλασσ α . Τοὺς δὲ ἐμέτους ὧδε χρὴ ποιεῖσθαι · ὅσοι μὲν τῶν ἀνθρώπων παχεῖς εἰς ι , νήστιες ἐμούντων δραμόντες ἢ ὁδοιπορήσαντες διὰ τάχεος κατὰ μέσον ἡμέρη c . Ἐκτεθερμάνθαι βούλεται τὸ σῶμα τοῖς παχέσιν ἐμεῖν μέλλουσιν ἕνεκα τῆς χύσεως τῶν φλεγματικῶν χυμῶν, οὓς πλείους ἔχουσιν οἱ παχεῖς. [13]
 
 ### 15 201
 

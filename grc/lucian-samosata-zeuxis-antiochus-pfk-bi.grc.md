@@ -5,6 +5,7 @@ author: Lucian of Samosata
 eul_wid: pfk-bi
 eul_aid: pfk
 canonical: "https://eulogikon.org/works/lucian-samosata-zeuxis-antiochus-pfk-bi"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lucian of Samosata
 
 **eul_wid:** `pfk-bi` · [HTML page](https://eulogikon.org/works/lucian-samosata-zeuxis-antiochus-pfk-bi)
-
-Zeuxis or Antiochus is a rhetorical exercise by the Second Sophistic author Lucian of Samosata. Structured as a formal comparison, it contrasts the renowned fifth-century painter Zeuxis with the Seleucid king Antiochus I Soter. The work systematically evaluates the two figures across conventional categories such as origin, education, achievements, and the nature of their fame, exemplifying the advanced rhetorical training of the period. It compares distinct types of excellence, weighing artistic genius against political and military leadership while exploring themes of lasting fame and the relative cultural value of artistic creation versus sovereign power. The complete text survives within the Lucianic corpus, transmitted through Byzantine manuscripts, and stands as a short but intact example of a rhetorical synkrisis. The exercise illustrates the conventional rhetorical education of the era and demonstrates the technical skill that underlies Lucian’s later satirical innovations, providing insight into the pedagogical practice of comparing different virtues within the Second Sophistic curriculum.
 
 ## Text
 

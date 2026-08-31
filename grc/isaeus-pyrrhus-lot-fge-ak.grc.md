@@ -5,6 +5,7 @@ author: Isaeus the Orator
 eul_wid: fge-ak
 eul_aid: fge
 canonical: "https://eulogikon.org/works/isaeus-pyrrhus-lot-fge-ak"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Isaeus the Orator
 
 **eul_wid:** `fge-ak` · [HTML page](https://eulogikon.org/works/isaeus-pyrrhus-lot-fge-ak)
-
-On the Pyrrhus' Lot is a complete forensic oration by the Athenian logographer Isaeus, composed for a real inheritance dispute heard between 389 and 353 BCE. The speech was written for a client named Endius, who seeks to claim the estate of his maternal uncle, Pyrrhus. Endius argues that Pyrrhus died without legitimate children, having formally adopted Endius's brother, who subsequently inherited and held the property unchallenged for over twenty years. The case arises when a woman named Phile appears, claiming to be Pyrrhus's legitimate daughter, supported by her husband, Xenocles, who has formally laid claim to the estate. Endius must persuade the jury that Phile is not a legitimate heir, thereby invalidating her claim and securing the inheritance for himself.
-
-The speech is a meticulous piece of legal argumentation, structured across fifty-one sections to dismantle the opposition's case. It employs Athenian inheritance law, witness testimony regarding family relations and social conduct, and appeals to social convention to prove Phile's illegitimacy. The argument scrutinizes the behavior of Pyrrhus and Phile's mother, questioning why the daughter was never publicly acknowledged, why no dowry was arranged, and why the claim emerged only after the death of the intervening heir. This detailed rhetorical strategy offers a vivid window into the interconnections of citizenship, family legitimacy, and property rights in Classical Athens.
-
-Preserved in full through medieval manuscripts, most notably a tenth-century codex, the speech is a vital historical source. It illustrates the practical application of Athenian law concerning family structure, the status of women, and the economic importance of inheritance. Scholars value the work for its reliable text and for exemplifying Isaeus's precise, technical style, which was noted in antiquity for its effectiveness in complex inheritance cases and influenced subsequent oratorical tradition.
 
 ## Text
 

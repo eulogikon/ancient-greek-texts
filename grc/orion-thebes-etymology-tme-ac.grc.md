@@ -5,6 +5,7 @@ author: Orion of Thebes
 eul_wid: tme-ac
 eul_aid: tme
 canonical: "https://eulogikon.org/works/orion-thebes-etymology-tme-ac"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Orion of Thebes
 
 **eul_wid:** `tme-ac` · [HTML page](https://eulogikon.org/works/orion-thebes-etymology-tme-ac)
-
-The Etymological Work is a grammatical treatise composed in Koine Greek by the fifth-century scholar Orion of Thebes. Operating within the late Roman Empire, Orion produced this reference text to elucidate the origins and historical derivations of Greek vocabulary, thereby connecting the contemporary linguistic usage of his era to its classical foundations. The original work was organized into eight sections, though its complete form has not survived. What remains of the text exists solely in fragments and quotations preserved within later Byzantine scholarly collections, such as the sixth-century geographical lexicon of Stephen of Byzantium, which cites Orion for the etymology of a place name. Modern scholarship interprets this treatise as a product of a sustained educational tradition, wherein grammarians compiled systematic manuals for students and teachers to codify and safeguard the Greek language. It was likely intended for an audience of advanced students and practicing rhetoricians. The work's enduring influence is evidenced by its citation in subsequent centuries, contributing notably to the compilation of major Byzantine dictionaries, including the twelfth-century Etymologicum Magnum.
 
 ## Text
 

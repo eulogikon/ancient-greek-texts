@@ -5,6 +5,7 @@ author: Hermes Trismegistus the Alchemist
 eul_wid: qbi-aa
 eul_aid: qbi
 canonical: "https://eulogikon.org/works/hermes-trismegistus-philosophical-stone-qbi-aa"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Science
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hermes Trismegistus the Alchemist
 
 **eul_wid:** `qbi-aa` · [HTML page](https://eulogikon.org/works/hermes-trismegistus-philosophical-stone-qbi-aa)
-
-The Riddle of the Philosophical Stone of Hermes and Agathodaemon is a brief pseudepigraphical alchemical treatise attributed to the legendary sage Hermes Trismegistus and the divine figure Agathodaemon. As its title indicates, the work presents its teachings in an enigmatic and allegorical form, a style characteristic of Greco-Egyptian alchemical texts designed to conceal operational secrets from the uninitiated. It belongs to the technical Hermetica, a corpus of writings that blend practical alchemical procedures with the spiritual and cosmological frameworks of late antiquity. The text centers on the pursuit of the Philosophical Stone, the legendary substance believed to transmute base metals into gold and symbolize the achievement of perfection. Its themes encompass the use of allegory and secrecy to encode alchemical operations, the concept of knowledge as a divine revelation from its named authorities, the Hermetic principle of unity between the cosmos and the laboratory work, and the parallel processes of material and spiritual transformation. The treatise survives within medieval Byzantine manuscripts containing collections of Greek alchemical works. These compilations were subsequently transmitted, influencing the development of both Arabic and Latin alchemical traditions. As part of the broader Hermetic-alchemical tradition, this riddle contributed to the authoritative body of knowledge ascribed to Hermes Trismegistus. Its allegorical style and central motif of the Philosopher’s Stone became enduring tropes in later European esotericism, significantly influencing Renaissance natural philosophy and early modern alchemical literature.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-cg
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-affection-offspring-okg-cg"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-cg` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-affection-offspring-okg-cg)
-
-On Affection for Offspring is an ethical essay by the Greek philosopher and biographer Plutarch, composed around 100 CE as part of his extensive collection of moral treatises known as the Moralia. The work examines the nature of parental love, or philostorgia, through a series of 27 concise reflections rather than a single linear argument, a discursive style characteristic of Plutarch's practical philosophy. It opens with an observation on the powerful and instinctive care animals exhibit for their young, using this as a point of departure to explore the distinct quality of human affection. Plutarch contends that while the parental impulse originates in nature, for humans it must transcend mere instinct. He develops a central contrast between the irrational, innate drives of animals and the rational, purposeful capacity of human beings. True parental love, in his view, should be directed consciously toward the moral and intellectual education of children, aiming to cultivate them into virtuous citizens. The essay thus frames the rearing of offspring as a philosophical and civic duty, integrating natural affection with deliberate ethical purpose. Written during the early Roman Empire, the treatise addresses themes of family obligation and paideia that were central to Greco-Roman moral thought, and it is believed to have been intended as practical guidance for Plutarch's educated contemporaries and students. The complete text survives through the standard manuscript tradition of the Moralia.
 
 ## Text
 

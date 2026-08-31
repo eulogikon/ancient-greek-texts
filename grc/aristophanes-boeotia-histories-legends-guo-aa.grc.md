@@ -5,6 +5,7 @@ author: Aristophanes of Boeotia
 eul_wid: guo-aa
 eul_aid: guo
 canonical: "https://eulogikon.org/works/aristophanes-boeotia-histories-legends-guo-aa"
+lang: grc
 period: Classical
 dialect: Aeolic (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristophanes of Boeotia
 
 **eul_wid:** `guo-aa` · [HTML page](https://eulogikon.org/works/aristophanes-boeotia-histories-legends-guo-aa)
-
-The Boeotian Histories and Legends by Aristophanes of Boeotia is a fragmentary Hellenistic work of local history and mythography. Its eight surviving fragments, preserved in later authors such as Strabo and Harpocration, compile the region’s traditions, myths, and historical accounts. The fragments address characteristic topics of local historiography, including Boeotian heroic mythology with figures like Orion, foundation stories for cities such as Chaeronea, and descriptions of local cults, topographical features, and antiquities, notably the cult of the Cabiri at Thebes. The work survives only indirectly through these quotations and is collected in modern fragment collections with no independent manuscript tradition. As a source for later compilers, the fragments provide valuable evidence for Boeotian regional identity and the preservation of local traditions, making them crucial for the modern study of Hellenistic local historiography and the interplay of myth and history.
 
 ## Text
 

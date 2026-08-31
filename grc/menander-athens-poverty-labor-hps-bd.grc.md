@@ -5,6 +5,7 @@ author: Menander of Athens
 eul_wid: hps-bd
 eul_aid: hps
 canonical: "https://eulogikon.org/works/menander-athens-poverty-labor-hps-bd"
+lang: grc
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Menander of Athens
 
 **eul_wid:** `hps-bd` · [HTML page](https://eulogikon.org/works/menander-athens-poverty-labor-hps-bd)
-
-The Fragments on Poverty and Labor is a modern scholarly compilation of excerpts from the comedies of Menander of Athens, the foremost playwright of New Comedy. Active during the late fourth and early third centuries BCE, Menander composed over one hundred plays in verse, of which only a single complete work, Dyskolos, survives. The remainder of his vast output exists in a fragmentary state, preserved through quotations by later authors and discoveries on papyrus. Modern editions attribute some 1,659 fragments to him, from which scholars have thematically grouped passages that prominently address economic and social conditions. These selected fragments vividly depict the pervasive anxieties of poverty, the harsh realities of manual labor, and the tensions inherent in class relations. Written during the politically unstable early Hellenistic period, Menander’s comedies marked a decisive shift toward domestic, character-driven plots set in contemporary Athens. Scholars interpret these fragments as a reflection of pressing social concerns of the era, exploring the complex interplay of wealth, fortune, and personal virtue within the spheres of family and civic life. The collection itself is not an ancient volume but a modern reconstruction drawn from disparate sources, most notably the anthology of Stobaeus and various papyri recovered from Egypt. Menander’s profound influence on Roman dramatists such as Plautus and Terence ensured that these central themes of social mobility and economic survival entered the broader Western comic tradition, even as the original Greek texts were largely lost to posterity.
 
 ## Text
 

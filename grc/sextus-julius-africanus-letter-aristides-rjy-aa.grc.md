@@ -5,6 +5,7 @@ author: Sextus Julius Africanus
 eul_wid: rjy-aa
 eul_aid: rjy
 canonical: "https://eulogikon.org/works/sextus-julius-africanus-letter-aristides-rjy-aa"
+lang: grc
 period: Roman
 dialect: Christian Koine
 domain: History
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Sextus Julius Africanus
 
 **eul_wid:** `rjy-aa` · [HTML page](https://eulogikon.org/works/sextus-julius-africanus-letter-aristides-rjy-aa)
-
-The Letter to Aristides is a chronographic treatise composed around 228 CE by the early Christian historian Sextus Julius Africanus. Written in Koine Greek and addressed to a figure named Aristides, the work is a polemical epistle that seeks to resolve a notable discrepancy between the genealogies of Jesus presented in the Gospels of Matthew and Luke. Africanus contends that both accounts are historically valid, proposing that they trace different aspects of Joseph’s lineage. He argues that Matthew records the natural or biological descent, while Luke records a legal descent established through the Levirate marriage custom, whereby a man would raise children to perpetuate the name of a deceased brother.
-
-The complete text of the letter does not survive as an independent document. It is preserved solely in fragments quoted by later Christian authors, most extensively within Eusebius of Caesarea’s Ecclesiastical History from the early fourth century. These excerpts are typically presented as ten distinct passages or arguments, corresponding to the sections Eusebius selected. Modern scholarship interprets the letter as an integral component of Africanus’s larger endeavor to construct a unified Christian chronology and to defend the historical coherence of Scripture against early critical challenges. It was likely intended for an educated Christian readership engaged in apologetic discourse. The harmonization method it advocates became a standard reference in subsequent theological tradition, exerting a significant influence on early Christian chronography and biblical exegesis.
 
 ## Text
 

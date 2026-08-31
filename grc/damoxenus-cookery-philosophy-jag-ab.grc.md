@@ -5,6 +5,7 @@ author: Damoxenus the Comic Poet
 eul_wid: jag-ab
 eul_aid: jag
 canonical: "https://eulogikon.org/works/damoxenus-cookery-philosophy-jag-ab"
+lang: grc
 period: Hellenistic
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Damoxenus the Comic Poet
 
 **eul_wid:** `jag-ab` · [HTML page](https://eulogikon.org/works/damoxenus-cookery-philosophy-jag-ab)
-
-The Fragments on Cookery and Philosophy by the comic poet Damoxenus is a lost work of Middle Comedy known only by its title and the notation that it comprised 64 passages. No direct quotations from the play survive. The title itself suggests a satirical juxtaposition of pretentious philosophical intellectualism with the mundane, practical art of cookery, a thematic pairing that was a staple of the genre in the 4th century BCE. Based on the conventions of Middle Comedy, the fragments likely featured satire aimed at philosophical schools, possibly including the Pythagoreans and their specific dietary rules, while exploring broader themes of gluttony and bodily excess. The work’s title and structure are preserved solely through the ancient bibliographic tradition, most notably recorded by Athenaeus in his Deipnosophistae, who drew upon the catalog of Callimachus. While its direct literary influence is untraceable due to its complete loss, the preservation of its title confirms the thematic range of Middle Comedy and the genre’s enduring focus on mocking social and intellectual pretensions through the lens of domestic and bodily humor.
 
 ## Text
 

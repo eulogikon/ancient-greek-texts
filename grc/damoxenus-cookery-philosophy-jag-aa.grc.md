@@ -5,6 +5,7 @@ author: Damoxenus the Comic Poet
 eul_wid: jag-aa
 eul_aid: jag
 canonical: "https://eulogikon.org/works/damoxenus-cookery-philosophy-jag-aa"
+lang: grc
 period: Hellenistic
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Damoxenus the Comic Poet
 
 **eul_wid:** `jag-aa` · [HTML page](https://eulogikon.org/works/damoxenus-cookery-philosophy-jag-aa)
-
-Fragments on Cookery and Philosophy is a modern descriptive title for a collection of passages attributed to the comic poet Damoxenus. His works survive only through fragments preserved by later authors, primarily within Athenaeus's Deipnosophistae. Damoxenus wrote during the period of Middle Comedy, and these excerpts, likely drawn from one or more of his lost plays, feature characteristic figures like cooks, parasites, and philosophers. The fragments reflect central themes of the genre, including the parody of philosophical jargon and intellectual pretension, and the elevation of cookery into a detailed, boastful art form that often mimics rhetorical or philosophical discourse. They also contain social satire targeting gluttony, luxury, and domestic life, creating a comic contrast between abstract idealism and physical appetite. The fragments are transmitted indirectly via quotation in later scholarly works, most notably Athenaeus's compendium on dining and society, which preserved them for their thematic relevance to food and social customs. Though fragmentary, Damoxenus's work provides valuable evidence for the evolution of Athenian comedy, illustrating the shift from political satire to generalized social and intellectual parody. The fragments aid philological and historical study of fourth-century BCE comic stock characters and themes, which subsequently influenced Roman comedy.
 
 ## Text
 

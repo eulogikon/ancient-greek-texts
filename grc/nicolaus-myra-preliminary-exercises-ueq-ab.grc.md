@@ -5,6 +5,7 @@ author: Nicolaus of Myra
 eul_wid: ueq-ab
 eul_aid: ueq
 canonical: "https://eulogikon.org/works/nicolaus-myra-preliminary-exercises-ueq-ab"
+lang: grc
 period: Late Antique
 dialect: Atticizing Technical
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Nicolaus of Myra
 
 **eul_wid:** `ueq-ab` · [HTML page](https://eulogikon.org/works/nicolaus-myra-preliminary-exercises-ueq-ab)
-
-The Preliminary Exercises is a fifth-century CE rhetoric textbook composed in Attic Greek by the sophist Nicolaus of Myra. Addressed directly to students, the work is a complete handbook within the established progymnasmata tradition, a graded curriculum of composition drills designed to train pupils in oratory and writing before they attempted full-scale speeches. Nicolaus systematically presents twelve exercises, advancing from foundational forms like fable and narrative to more complex rhetorical tasks such as argumentative thesis and the introduction of a law. For each exercise he supplies a clear definition, practical instructions, and illustrative examples drawn from canonical Greek authors including Homer and Demosthenes.
-
-Composed in the Christianized but still deeply classically educated Eastern Roman Empire, the handbook exemplifies the enduring centrality of rhetorical training, or paideia, to elite civic life and intellectual formation. Modern scholarship regards the text not only as a practical pedagogical manual but also as a thoughtful defense of rhetoric's enduring value for cultivating critical thought and persuasive eloquence. The work survives intact through medieval Greek manuscripts and remains a crucial source for understanding late antique and Byzantine education, providing detailed insight into how classical rhetorical traditions were preserved and adapted for later generations of students.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Zosimus of Panopolis
 eul_wid: tyc-cd
 eul_aid: tyc
 canonical: "https://eulogikon.org/works/zosimus-panopolis-aerial-water-tyc-cd"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Zosimus of Panopolis
 
 **eul_wid:** `tyc-cd` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-aerial-water-tyc-cd)
-
-The Aerial Water is an alchemical treatise attributed to Zosimus of Panopolis, a Greco-Egyptian alchemist active around 300 CE. Composed in Koine Greek, the work centers on the preparation and properties of a volatile substance termed "aerial water," considered essential for the alchemical transmutation or coloration of metals. The text is broadly divided into two thematic sections. The first part elaborates on the divine and spiritual nature of this agent, framing it as a mysterious and potent force. The second provides more practical, though deliberately obscure, instructions for its application and includes warnings about its dangerous power.
-
-The treatise survives intact within larger compilations of Greek alchemical writings, notably in manuscripts from the tenth and eleventh centuries held in Paris and Venice. It was intended for an audience of fellow practitioners within the late antique alchemical tradition, a discipline that intertwined practical craft knowledge with philosophical and religious speculation. Modern scholarship interprets the "aerial water" not as literal water but as a symbolic solvent or spiritual medium believed to facilitate transformation by bridging the physical and divine realms. As a component of Zosimus's influential body of work, this treatise contributed significantly to the development of later alchemical theory in Byzantine, Islamic, and medieval Western traditions.
 
 ## Text
 

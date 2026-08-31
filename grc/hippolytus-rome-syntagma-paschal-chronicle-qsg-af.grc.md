@@ -5,6 +5,7 @@ author: Hippolytus of Rome
 eul_wid: qsg-af
 eul_aid: qsg
 canonical: "https://eulogikon.org/works/hippolytus-rome-syntagma-paschal-chronicle-qsg-af"
+lang: grc
 period: Roman
 dialect: Christian Koine
 domain: Theology
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hippolytus of Rome
 
 **eul_wid:** `qsg-af` · [HTML page](https://eulogikon.org/works/hippolytus-rome-syntagma-paschal-chronicle-qsg-af)
-
-The Syntagma, a lost treatise by the early 3rd-century theologian Hippolytus of Rome, was a comprehensive refutation of early Christian movements considered heretical. Written in Greek and often referred to as the Syntagma against All Heresies, it systematically catalogued heretical teachers and schools, beginning with Simon Magus. Beyond its polemical purpose, the work also contained significant chronological calculations that sought to date the creation of the world and establish a timeline for Christian salvation history. The complete text has not survived; modern knowledge of it derives from fragments and quotations preserved in later writings. The most important of these are three passages contained within the 7th-century Byzantine Chronicon Paschale, or Paschal Chronicle, which record Hippolytus's influential chronological system. References and citations by other early Christian authors confirm the treatise's status as a standard reference work against heresy in the patristic period. Intended primarily for educated Christians, it served as a tool for defining orthodox doctrine through systematic contrast with theological error. Its model for cataloging heresies proved foundational, influencing major later heresiologists, while its chronological computations left a lasting imprint on Byzantine historical tradition.
 
 ## Text
 

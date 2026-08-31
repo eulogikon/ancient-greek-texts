@@ -5,6 +5,7 @@ author: Hippodamus of Miletus
 eul_wid: cty-ab
 eul_aid: cty
 canonical: "https://eulogikon.org/works/hippodamus-miletus-happiness-rational-beings-cty-ab"
+lang: grc
 period: Classical
 dialect: Doric
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hippodamus of Miletus
 
 **eul_wid:** `cty-ab` · [HTML page](https://eulogikon.org/works/hippodamus-miletus-happiness-rational-beings-cty-ab)
-
-On Happiness and Rational Beings is a title attributed in some modern sources to Hippodamus of Miletus, a figure of the 5th century BCE. However, no such philosophical work is historically attested under his name. Hippodamus is known exclusively as an urban planner and political theorist, and no writings authored by him survive. His ideas are transmitted solely through later accounts, most importantly Aristotle’s Politics, which discusses his proposals for city planning and social organization. His known theories pertain to political and urban design, most notably the orthogonal street grid system, often termed the Hippodamian plan, which was implemented in cities like Piraeus. He also proposed a tripartite social and legal structure, dividing citizens into the classes of craftsmen, farmers, and soldiers, and land into sacred, public, and private portions. His theories are preserved only in secondary testimony, with no extant manuscript tradition for any ethical or philosophical treatise. Hippodamus’s lasting significance lies in the field of urban planning, where his grid system became a foundational model for Hellenistic, Roman, and subsequent city design. He holds no established association with ethical philosophy or works on concepts such as happiness.
 
 ## Text
 

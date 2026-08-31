@@ -5,6 +5,7 @@ author: Aristophanes of Byzantium
 eul_wid: klo-aa
 eul_aid: klo
 canonical: "https://eulogikon.org/works/aristophanes-byzantium-callimachus-pinakes-klo-aa"
+lang: grc
 period: Hellenistic
 dialect: Technical Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristophanes of Byzantium
 
 **eul_wid:** `klo-aa` · [HTML page](https://eulogikon.org/works/aristophanes-byzantium-callimachus-pinakes-klo-aa)
-
-The Commentary on Callimachus' Pinakes is a lost scholarly treatise composed by the Alexandrian grammarian Aristophanes of Byzantium, likely between 200 and 180 BCE. This work provided a critical analysis of the Pinakes, the monumental bibliographic catalog of the Library of Alexandria compiled by the poet Callimachus. Aristophanes' commentary engaged with specific problems of bibliographic classification and textual criticism, such as determining the correct authorship of contested literary works. The original structure and full length of the treatise are unknown, as it survives only in seven fragmentary passages preserved by later ancient commentators. These fragments illustrate Aristophanes' scholarly method, including his skepticism regarding the authenticity of the Shield of Heracles as a work of Hesiod and his editorial decisions in arranging the odes of Pindar. Modern scholars interpret this commentary as a key example of advanced Hellenistic scholarship, demonstrating how librarians and grammarians at Alexandria moved beyond simple cataloging to actively debate and refine systems for organizing, authenticating, and interpreting Greek literature. It was written for an audience of fellow specialists dedicated to the systematic preservation and critical study of texts.
 
 ## Text
 

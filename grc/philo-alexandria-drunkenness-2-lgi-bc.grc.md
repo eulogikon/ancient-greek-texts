@@ -5,6 +5,7 @@ author: Philo of Alexandria
 eul_wid: lgi-bc
 eul_aid: lgi
 canonical: "https://eulogikon.org/works/philo-alexandria-drunkenness-2-lgi-bc"
+lang: grc
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philo of Alexandria
 
 **eul_wid:** `lgi-bc` · [HTML page](https://eulogikon.org/works/philo-alexandria-drunkenness-2-lgi-bc)
-
-On Drunkenness II is a philosophical treatise by the first-century Jewish philosopher Philo of Alexandria. Written in Koine Greek, it constitutes the second part of a two-book work that forms a section of his expansive Allegorical Commentary, a detailed, verse-by-verse exegesis of the Book of Genesis. This treatise provides an allegorical exposition of the biblical episode of Noah’s drunkenness as recounted in Genesis 9:20–27. Philo employs the narrative not as a literal discussion of intoxication but as a metaphorical framework for analyzing the soul’s spiritual state. He interprets drunkenness as a symbol of profound confusion, ignorance, and the soul’s subjugation to passions and material preoccupations. This condition is systematically contrasted with the “sobriety” represented by virtue, wisdom, and the contemplative pursuit of the divine. In developing this theme, Philo synthesizes Jewish scriptural tradition with concepts drawn primarily from Greek Platonism and Stoicism, aiming to demonstrate their philosophical harmony for an educated, Hellenized readership. The complete text of On Drunkenness survives within Philo’s extant corpus, which was preserved and transmitted by later Christian scholars who valued his allegorical interpretive method. Philo is regarded by modern scholarship as a pivotal figure in Hellenistic Judaism, and his allegorical approach exerted a significant and lasting influence on the development of early Christian theological thought.
 
 ## Text
 

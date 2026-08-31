@@ -5,6 +5,7 @@ author: Numenius of Apamea
 eul_wid: pyg-aa
 eul_aid: pyg
 canonical: "https://eulogikon.org/works/numenius-apamea-good-pyg-aa"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Numenius of Apamea
 
 **eul_wid:** `pyg-aa` · [HTML page](https://eulogikon.org/works/numenius-apamea-good-pyg-aa)
-
-On the Good is a philosophical dialogue by the second-century Platonist Numenius of Apamea. The work survives only in fragments, preserved through quotations by later authors such as Eusebius and Origen. It addresses the nature of the supreme principle, the Good, examining its absolute transcendence and its role as the source of all reality. Numenius situates his inquiry within a syncretic framework, explicitly aiming to harmonize the doctrines of Plato and Pythagoras while also invoking the revered traditions of the Brahmans, Jews, Magi, and Egyptians as supporting witnesses to a common theological truth. Written during the era of Middle Platonism, the dialogue represents a systematic effort to articulate a definitive Platonic theology, positing a hierarchy of being that emanates from a perfectly simple and self-sufficient first principle. The surviving passages indicate a complex metaphysical scheme involving a primary, inactive God and a secondary divine intellect that engages in the ordering of the cosmos. The fragmentary state of the text, known entirely through later Neoplatonist citations, necessitates scholarly reconstruction of its original arguments and structure.
 
 ## Text
 

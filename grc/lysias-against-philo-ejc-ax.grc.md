@@ -5,6 +5,7 @@ author: Lysias the Orator
 eul_wid: ejc-ax
 eul_aid: ejc
 canonical: "https://eulogikon.org/works/lysias-against-philo-ejc-ax"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lysias the Orator
 
 **eul_wid:** `ejc-ax` · [HTML page](https://eulogikon.org/works/lysias-against-philo-ejc-ax)
-
-_Against Philo-Examination_ is a forensic oration by the Attic orator Lysias, composed for a dokimasia, the public scrutiny of a candidate’s fitness for office before the Athenian Council. The speech argues against the eligibility of a man named Philo, though it survives only in fragmentary form, preserved through quotations in later lexicographical and scholarly works such as those of Harpocration and Pollux. These fragments, numbering approximately twenty-five, were excerpted primarily for their distinctive vocabulary and phrasing, indicating the speech was not transmitted in full through medieval manuscript traditions.
-
-The extant portions of the oration suggest the speaker, likely a member of the Council, formally accuses Philo of being fundamentally unfit to serve. While the specific charges are not fully detailed in the fragments, they would have been typical of the dokimasia process, potentially questioning Philo’s citizenship status, moral character, past conduct, or fulfillment of civic duties. The speaker emphasizes that his motivation is not personal enmity but a duty sworn by oath to expose unworthy candidates, trusting that the sheer volume of Philo’s alleged misconduct will convince the jury.
-
-Despite its incomplete state, the speech remains a significant document for the study of Athenian legal and political institutions. It provides a concrete example of the dokimasia procedure in action, illustrating how formal qualifications and informal assessments of virtue were publicly debated. Furthermore, it exemplifies the intensely litigious nature of Athenian political life and the role of forensic oratory as a tool for regulating access to public office.
 
 ## Text
 

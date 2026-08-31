@@ -5,6 +5,7 @@ author: Ecphantus the Pythagorean
 eul_wid: gqs-ab
 eul_aid: gqs
 canonical: "https://eulogikon.org/works/ecphantus-pythagorean-testimonies-gqs-ab"
+lang: grc
 period: Classical
 dialect: "Doric (phi, frg)"
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Ecphantus the Pythagorean
 
 **eul_wid:** `gqs-ab` · [HTML page](https://eulogikon.org/works/ecphantus-pythagorean-testimonies-gqs-ab)
-
-The Testimonies attributed to Ecphantus the Pythagorean is a collection of five philosophical fragments preserved in later doxographical sources. These passages record the core doctrines of this obscure Syracusan thinker, who represents a syncretic development within later Pythagoreanism. His philosophy is characterized by a cosmology that attempts to reconcile Pythagorean principles with a form of atomistic physics and a teleological divine principle. Ecphantus proposed that physical reality is constituted from indivisible bodies, a concept that blends Pythagorean monadism with Democritean atomism by interpreting the Pythagorean monads as corporeal units. These bodies are set in motion not by mechanical forces like weight or impact, but by a divine power, which he identifies with intelligence and soul. Consequently, the cosmos itself is understood as a single, living, and intelligent being, governed by this divine reason or providence. In his astronomical views, he maintained that the Earth and the celestial bodies are spherical, with the Earth rotating on its axis at the center of the cosmos. The work is not extant as an independent text; its testimonies survive solely as quotations in later compilations, primarily the pseudo-Plutarchian Placita Philosophorum and Hippolytus's Refutation of All Heresies, from which they were later collected and numbered by modern scholars. Ecphantus is significant as a case study in the Hellenistic period's engagement with and reinterpretation of earlier philosophical traditions, demonstrating Pythagoreanism's adaptation to contemporary debates involving atomism and emerging Platonic ideas.
 
 ## Text
 

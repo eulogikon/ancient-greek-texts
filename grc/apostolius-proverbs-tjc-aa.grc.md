@@ -5,6 +5,7 @@ author: Michael Apostolius the Proverb-Writer
 eul_wid: tjc-aa
 eul_aid: tjc
 canonical: "https://eulogikon.org/works/apostolius-proverbs-tjc-aa"
+lang: grc
 period: Late Antique
 dialect: Byzantine Greek
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Michael Apostolius the Proverb-Writer
 
 **eul_wid:** `tjc-aa` · [HTML page](https://eulogikon.org/works/apostolius-proverbs-tjc-aa)
-
-The Collection of Proverbs is a major 15th-century compilation of Greek sayings attributed to the Byzantine scholar Michael Apostolius. This paremiographical work, written in Koine Greek, gathers 1,173 entries systematically organized in alphabetical order. Each entry typically presents a proverb followed by a brief explanation of its meaning and use. The collection draws on a vast range of sources, from classical Greek authors to the Septuagint and the New Testament, serving as a rich repository of traditional wisdom, ethical advice, and figurative language. The complete text survives in a single primary manuscript, the 16th-century Codex Parisinus graecus 3052. Modern scholars interpret the work as an educational handbook for rhetoric and composition, compiled by Apostolius during the turbulent final years of the Byzantine Empire. It is thought to have been written not only as a tool for teaching language but also as a deliberate effort to preserve Greek cultural identity. The collection became a standard reference, directly influencing later proverb compilers, including the author’s own son, and its alphabetized format set a precedent for subsequent studies of Greek folklore and language.
 
 ## Text
 

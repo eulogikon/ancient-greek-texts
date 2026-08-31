@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-fi
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-cicero-okg-fi"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-fi` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-cicero-okg-fi)
-
-Plutarch of Chaeronea’s Life of Cicero is one of his Parallel Lives, pairing the Roman orator with his Greek counterpart, Demosthenes. Composed during the late 1st or early 2nd century CE, this prose biography exemplifies Plutarch’s method of focusing on character and moral virtue rather than strict chronology, an aim he famously articulated by stating that he wrote lives, not histories. Plutarch’s narrative draws extensively on Cicero’s own works and other historical sources to explore several key themes, including the political power and perils of eloquence, the interaction between personal character and fortune in Cicero’s career, the tensions between philosophical ideals and political ambition, and the conflict between civic duty and scholarly retirement. The text survives complete within the manuscript tradition of the Parallel Lives, with key witnesses including the 11th-century Codex Seitenstettensis and the 14th-century Codex Neapolitanus; the pairing with Demosthenes has remained consistent throughout its transmission history. Plutarch’s portrait became a foundational source for Cicero’s posthumous reputation. Its moral and anecdotal approach profoundly shaped Renaissance and later perceptions, cementing Cicero as a model of eloquence and civic virtue while perpetuating certain critiques of his character. It remains an essential text for understanding both Cicero’s reception and the techniques of ancient biography.
 
 ## Text
 

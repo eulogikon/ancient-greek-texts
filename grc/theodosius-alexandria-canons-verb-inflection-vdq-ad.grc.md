@@ -1,10 +1,11 @@
 ---
 title: Introductory Canons-Verb Inflection
 title_greek: Εἰσαγωγικοὶ Κανόνες περὶ Κλίσεως Ῥημάτων
-author: "Theodosius of Alexandria "
+author: Theodosius of Alexandria
 eul_wid: vdq-ad
 eul_aid: vdq
 canonical: "https://eulogikon.org/works/theodosius-alexandria-canons-verb-inflection-vdq-ad"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Grammar
@@ -16,13 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Εἰσαγωγικοὶ Κανόνες περὶ Κλίσεως Ῥημάτων*
 
-**Author:** Theodosius of Alexandria 
+**Author:** Theodosius of Alexandria
 
 **eul_wid:** `vdq-ad` · [HTML page](https://eulogikon.org/works/theodosius-alexandria-canons-verb-inflection-vdq-ad)
-
-The Introductory Canons on the Inflection of Verbs is a concise grammatical treatise by Theodosius of Alexandria, a scholar traditionally dated to the 4th or 5th century CE. Designed as a primer for students, the work systematically outlines the rules for conjugating Greek verbs. It is structured as a series of 57 short, mnemonic canons that guide learners through the patterns of verb inflection across different tenses, voices, and moods. The text proceeds methodically, beginning with verbs ending in the thematic vowel -ō in the present indicative active, and subsequently addressing contract verbs and those with endings in -mi. Each rule is illustrated with example verbs, demonstrating the formation of personal endings and the treatment of contractions and accentuation.
-
-The handbook survives intact from antiquity, having been transmitted through the Byzantine educational tradition where it became a standard textbook. Modern scholarship interprets it as a practical pedagogical tool, likely used in schools to help students master the complex verbal system essential for reading both classical and scriptural texts. It represents a specialized development of the older Greek grammatical tradition, distilled into a clear, rule-based framework for use in late antique classrooms. Its enduring popularity is attested by its preservation in numerous medieval manuscripts and its influence on subsequent grammatical works.
 
 ## Text
 

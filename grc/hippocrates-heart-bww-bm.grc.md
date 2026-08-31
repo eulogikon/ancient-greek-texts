@@ -5,6 +5,7 @@ author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-bm
 eul_aid: bww
 canonical: "https://eulogikon.org/works/hippocrates-heart-bww-bm"
+lang: grc
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hippocrates and the Hippocratic Corpus
 
 **eul_wid:** `bww-bm` · [HTML page](https://eulogikon.org/works/hippocrates-heart-bww-bm)
-
-On the Heart is a concise medical treatise from the Hippocratic Corpus, the collection of ancient Greek medical writings associated with the name of Hippocrates. While traditionally ascribed to Hippocrates himself, modern scholarship attributes it to an unknown physician or physicians working within the Hippocratic tradition, most likely during the 4th or 3rd century BCE. Composed in Ionic Greek, the treatise comprises twelve sections and stands as one of the earliest surviving attempts at a detailed anatomical description of the heart. The text systematically outlines the organ's structure, identifying its ventricles, atria—which it terms "ears"—the pericardial sac, and the major blood vessels. Among its most notable contributions is an early recognition of the cardiac valves, described as "narrow-mouthed vessels" that function to prevent the backward flow of blood. The author also advances a physiological theory for the pulse, proposing that it results from the heart's innate heat vaporizing the blood and thereby causing the arteries to expand. Reflecting the broader Hippocratic emphasis on direct observation and naturalistic explanation, the work appears to have been intended for an audience of fellow medical practitioners and students. The complete text has been preserved through the medieval manuscript tradition of the Hippocratic Corpus and is considered a genuine component of the collection, surviving in full in manuscripts dating from the 10th century CE onward.
 
 ## Text
 

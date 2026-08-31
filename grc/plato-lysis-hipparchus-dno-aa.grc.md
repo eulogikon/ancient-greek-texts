@@ -5,6 +5,7 @@ author: Plato Lysis
 eul_wid: dno-aa
 eul_aid: dno
 canonical: "https://eulogikon.org/works/plato-lysis-hipparchus-dno-aa"
+lang: grc
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plato Lysis
 
 **eul_wid:** `dno-aa` · [HTML page](https://eulogikon.org/works/plato-lysis-hipparchus-dno-aa)
-
-The Letter to Hipparchus is a brief epistle preserved within the medieval manuscript tradition of the Platonic corpus but is considered spurious by modern scholarship. Purportedly written by Plato, the letter advises its recipient, Hipparchus, to adhere to the teachings of the Pythagoreans and to associate with a man named Leodamas, framing this guidance within the context of philosophical mentorship and the proper transmission of wisdom. The text emphasizes the exclusivity of true philosophical knowledge, comparing its revelation to the guarded mysteries of the Eleusinian rites and stressing the necessity of a purified soul for its reception. Its primary significance lies as a document of Hellenistic pseudepigraphy and the post-classical reception of Plato. The letter reflects contemporary efforts to synthesize Platonism and Pythagoreanism, illustrating how Plato’s authoritative name was later appropriated to lend weight to developing philosophical movements, particularly Neopythagoreanism. Ancient commentators such as Diogenes Laertius expressed early doubts about the authenticity of the Platonic letters, and this work stands as a clear example of such later pseudepigraphical composition.
 
 ## Text
 

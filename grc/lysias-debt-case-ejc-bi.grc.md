@@ -5,6 +5,7 @@ author: Lysias the Orator
 eul_wid: ejc-bi
 eul_aid: ejc
 canonical: "https://eulogikon.org/works/lysias-debt-case-ejc-bi"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lysias the Orator
 
 **eul_wid:** `ejc-bi` · [HTML page](https://eulogikon.org/works/lysias-debt-case-ejc-bi)
-
-The work known as the Fragments on a Debt Case comprises a collection of forty-two excerpts attributed to the Attic orator Lysias. These passages, preserved not as a continuous speech but as isolated citations, were likely quoted by later lexicographers and grammarians for their linguistic or rhetorical value. The title indicates the original speech concerned a dispute over a financial obligation, composed for a client to deliver in an Athenian law court, probably in the context of a private suit for money or a breach of contract. The fragments illustrate the forensic argumentation typical of Athenian private law, touching upon the nature of financial obligation, contract, and debt within Athenian society. They also demonstrate the orator's skill in character portrayal and the rhetorical strategies employed to persuade a democratic jury. The complete speech is lost, and the fragments survive through indirect transmission, having been cited in the works of later ancient scholars such as Harpocration; modern editions compile these scattered citations from medieval manuscripts. While the fragments' direct influence is minimal, they contribute to the understanding of Athenian legal and commercial practices. As part of the corpus of Lysias, which was celebrated in antiquity for its pure Attic style and clarity, they exemplify the technical craft of classical logographic oratory.
 
 ## Text
 

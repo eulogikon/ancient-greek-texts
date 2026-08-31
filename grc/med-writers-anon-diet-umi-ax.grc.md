@@ -5,6 +5,7 @@ author: Medical Writers Anonymous
 eul_wid: umi-ax
 eul_aid: umi
 canonical: "https://eulogikon.org/works/med-writers-anon-diet-umi-ax"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Medical Writers Anonymous
 
 **eul_wid:** `umi-ax` · [HTML page](https://eulogikon.org/works/med-writers-anon-diet-umi-ax)
-
-On Diet is an ancient Greek medical treatise belonging to the Hippocratic Corpus, a body of works attributed to Hippocrates but composed by various anonymous authors. Written in the Ionic dialect during the 5th or 4th century BCE, the complete work comprises 22 chapters dedicated to the concept of regimen, the systematic management of diet, drink, and exercise for the preservation of health and the treatment of illness. The text methodically details the properties of diverse foodstuffs and their physiological effects, operating within the prevalent Hippocratic model that seeks to balance the body's fundamental qualities of hot, cold, wet, and dry. Its prescriptions are carefully adapted to an individual's inherent constitution, age, and the changing seasons, consistently underscoring the critical relationship between nutritional intake and physical activity. Scholarly analysis identifies the treatise as a significant document in the classical movement toward a naturalistic and preventive medicine, where well-being is governed by daily lifestyle choices rather than supernatural intervention. While traditionally ascribed to Hippocrates himself, modern scholarship regards it as the product of an anonymous physician from the broader Hippocratic school. Transmitted in full through medieval manuscripts as part of the canonical corpus, its principles of dietetics and holistic health exerted a profound influence on subsequent Greco-Roman medical theory and remained a foundational reference for centuries.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Teles of Megara
 eul_wid: kkk-ag
 eul_aid: kkk
 canonical: "https://eulogikon.org/works/teles-megara-impassibility-kkk-ag"
+lang: grc
 period: Hellenistic
 dialect: "Koine (phi, frg)"
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Teles of Megara
 
 **eul_wid:** `kkk-ag` · [HTML page](https://eulogikon.org/works/teles-megara-impassibility-kkk-ag)
-
-On Impassibility is a philosophical dialogue by the 3rd-century BCE Cynic thinker Teles of Megara. The work argues for the cultivation of apatheia, a state of freedom from disturbing passions such as grief, fear, and excessive desire, which was considered essential for achieving happiness and self-sufficiency. Written in the lively, conversational style of the diatribe, a genre of moral exhortation, it was likely intended as a practical guide for a general audience. The complete text has not survived and is known only through two excerpts preserved by the anthologist Stobaeus in the 5th century CE. These fragments show Teles promoting a life of Cynic simplicity and resilience, using illustrative analogies and citing earlier philosophers like Diogenes and Socrates as ethical models. The work reflects the broader Hellenistic focus on personal ethics and emotional fortitude, aiming to persuade its audience that virtue and stability are found within oneself, independent of external circumstances.
 
 ## Text
 

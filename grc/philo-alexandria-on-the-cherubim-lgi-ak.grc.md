@@ -5,6 +5,7 @@ author: Philo of Alexandria
 eul_wid: lgi-ak
 eul_aid: lgi
 canonical: "https://eulogikon.org/works/philo-alexandria-on-the-cherubim-lgi-ak"
+lang: grc
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philo of Alexandria
 
 **eul_wid:** `lgi-ak` · [HTML page](https://eulogikon.org/works/philo-alexandria-on-the-cherubim-lgi-ak)
-
-The Works of Philo of Alexandria constitute a substantial corpus of Greek philosophical and exegetical treatises composed in the first half of the first century CE. Philo, a Jewish philosopher from Alexandria, sought to interpret the Hebrew scriptures, primarily using the Greek Septuagint translation of the Torah, through the lens of contemporary Greek philosophy, with strong influences from Platonism and Stoicism. His writings are not a unified book but a collection of independent works traditionally categorized into several major groups. The Allegorical Commentary offers a detailed, philosophical reading of Genesis as a sustained allegory for the soul's progress. The Exposition of the Law provides a more systematic presentation of biblical history and the principles of Mosaic legislation. A third set, Questions and Answers on Genesis and Exodus, is structured as a series of brief philosophical inquiries into the biblical text. A further collection includes historical and apologetic works, such as On the Embassy to Gaius, which documents a political crisis faced by the Jewish community in Alexandria.
-
-Philo's overarching project was to articulate Jewish thought and scripture within the dominant intellectual framework of the Hellenistic world, aiming both to educate a Hellenized Jewish audience and to defend his tradition to non-Jewish readers. His treatises explore central themes such as the nature of the divine Logos, or mediating Word of God, the soul's ascent from a material to a spiritual understanding of reality, and the embodiment of philosophical virtues in the Mosaic law. Although a seminal figure in Hellenistic Judaism, Philo's works were preserved almost exclusively by Christian scribes and theologians rather than within mainstream Jewish tradition. While the majority of his treatises survive in Greek manuscripts, a significant portion are extant chiefly through ancient Armenian translations. His methods of allegorical interpretation and his philosophical theology exerted a profound and lasting influence on the development of early Christian thought, securing his place as a pivotal figure in the historical convergence of biblical faith and Greek philosophy.
 
 ## Text
 

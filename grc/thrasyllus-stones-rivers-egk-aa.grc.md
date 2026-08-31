@@ -5,6 +5,7 @@ author: Thrasyllus the Historian
 eul_wid: egk-aa
 eul_aid: egk
 canonical: "https://eulogikon.org/works/thrasyllus-stones-rivers-egk-aa"
+lang: grc
 period: Classical
 dialect: Attic (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Thrasyllus the Historian
 
 **eul_wid:** `egk-aa` · [HTML page](https://eulogikon.org/works/thrasyllus-stones-rivers-egk-aa)
-
-The work On Stones and Rivers, also known by the alternative title Extracts, is attributed to the historian Thrasyllus. It survives only as a collection of seven prose fragments, indicating it was excerpted from a larger, now lost, composition. The title places it within the geographical and paradoxographical tradition of ancient literature, which focused on cataloging and describing natural wonders and curiosities. Probable themes of the original work, inferred from its genre and title, include the physical and marvelous properties of various stones, the courses and mythological associations of rivers, and the local histories and etiological myths connected to specific geographical features. The work is entirely lost and known only through these fragments, which likely survive solely as citations preserved in later ancient or Byzantine geographical compilations, lexica, or scholia. The author, Thrasyllus, cannot be securely identified among the several known historical figures who bore that name. Its significance lies in its place within the corpus of fragmentary Greek historiography, exemplifying the Hellenistic and Roman intellectual interest in systematically cataloging the natural world. It may have served as a minor source for later encyclopedic writers.
 
 ## Text
 

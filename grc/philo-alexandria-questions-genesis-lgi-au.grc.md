@@ -5,6 +5,7 @@ author: Philo of Alexandria
 eul_wid: lgi-au
 eul_aid: lgi
 canonical: "https://eulogikon.org/works/philo-alexandria-questions-genesis-lgi-au"
+lang: grc
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philo of Alexandria
 
 **eul_wid:** `lgi-au` · [HTML page](https://eulogikon.org/works/philo-alexandria-questions-genesis-lgi-au)
-
-The Questions and Answers on Genesis is a philosophical commentary on the biblical book of Genesis, written in Koine Greek by the Jewish philosopher Philo of Alexandria in the first century CE. Structured as a series of questions and answers, the work proceeds sequentially through the Genesis narrative. For each passage, Philo poses a literal question about the text and then provides a solution that frequently moves into allegorical and philosophical interpretation, aiming to reconcile scripture with Hellenistic philosophy. Only part of the text survives today. The original work is largely lost in Greek, and our main knowledge of it comes from a medieval Armenian translation that preserves several large sections. Some additional fragments survive in Greek through later Christian anthologies. Modern editions organize these remains into 187 distinct passages or fragments. It is thought to have been written for a Hellenized audience in Alexandria to demonstrate the intellectual and ethical depth of Jewish scripture. Philo’s approach in this work is characteristic of his larger project to synthesize biblical thought with Platonic and Stoic ideas. Scholars interpret the Questions and Answers format as a common Hellenistic teaching tool, which Philo adapted to explore themes like the nature of the soul, the conflict between reason and passion, and the transcendent nature of God. His methods deeply influenced early Christian theologians, who preserved and utilized his works.
 
 ## Text
 

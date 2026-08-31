@@ -5,6 +5,7 @@ author: Zosimus of Panopolis
 eul_wid: tyc-aq
 eul_aid: tyc
 canonical: "https://eulogikon.org/works/zosimus-panopolis-bodies-nourishment-dyes-tyc-aq"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Zosimus of Panopolis
 
 **eul_wid:** `tyc-aq` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-bodies-nourishment-dyes-tyc-aq)
-
-On Bodies Being the Nourishment of Dyes is a brief alchemical treatise composed in Greek by Zosimus of Panopolis, likely around 300 CE. The work examines the fundamental alchemical principle that metals, conceived as living entities, undergo transformation through the application of specialized dyes or tinctures, which act as their nourishment. This process of coloration was understood as analogous to the transmutation of base metals into noble ones, such as gold. The text survives not as an independent document but as two excerpts incorporated into the larger corpus of Zosimus's writings preserved in later Byzantine manuscripts.
-
-As a central figure in Graeco-Egyptian alchemy, Zosimus blended practical craft knowledge with philosophical and mystical speculation. This treatise exemplifies that synthesis, employing the technical art of dyeing as a metaphor for both material and spiritual perfection. The work appears intended for an initiated community of practitioners who viewed the manipulation of matter as a sacred art. Its preservation is owed to its inclusion in major Byzantine compilations of alchemical knowledge, though the precise phrasing may have been subject to alteration through centuries of copying. Through these channels, the core analogy of dyeing presented by Zosimus exerted a significant influence on subsequent alchemical thought in Byzantine, Islamic, and medieval Latin traditions.
 
 ## Text
 

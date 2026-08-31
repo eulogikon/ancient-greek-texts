@@ -5,6 +5,7 @@ author: Aristotle
 eul_wid: hgw-ad
 eul_aid: hgw
 canonical: "https://eulogikon.org/works/aristotle-lost-first-part-hgw-ad"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristotle
 
 **eul_wid:** `hgw-ad` · [HTML page](https://eulogikon.org/works/aristotle-lost-first-part-hgw-ad)
-
-The Athenaion Politeia, or Constitution of the Athenians, is a political treatise composed in Attic Greek around 328–322 BCE and attributed to the philosopher Aristotle or a member of his school. It provides a comprehensive account of the Athenian government. The work is structurally divided into two principal sections. The first offers a historical narrative tracing the evolution of the Athenian constitution from its legendary origins to the restoration of democracy in 403 BCE. This historical survey details pivotal reforms and periods of conflict, such as the pre-Draconian oligarchic order, the legislation of Solon, the tyranny of the Peisistratids, and the later democratic developments. The second section systematically describes the contemporary political institutions of the Athenian state as they functioned in the fourth century BCE, meticulously detailing the organization and procedures of the assembly, the popular courts, and the various boards of public officials.
-
-The treatise was produced as part of a larger empirical research project undertaken within Aristotle's Lyceum, which collected and analyzed the constitutions of numerous Greek and foreign states to inform philosophical theories about politics, citizenship, and the ideal state. Modern scholars regard it as a crucial case study that blends historical investigation with contemporary institutional analysis, serving both pedagogical and scholarly aims within the Peripatetic school. For centuries, the work was lost, known only through scattered references and quotations in other ancient authors. Its survival is due to the discovery of a single, nearly complete papyrus roll in Egypt in 1890, which, though missing its opening lines, preserved the vast majority of the text. This recovery fundamentally transformed modern understanding of Athenian constitutional history and the practical workings of its democracy, establishing the Athenaion Politeia as a foundational source for the study of ancient Greek political life and thought.
 
 ## Text
 

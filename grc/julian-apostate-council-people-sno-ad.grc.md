@@ -5,6 +5,7 @@ author: Julian the Apostate
 eul_wid: sno-ad
 eul_aid: sno
 canonical: "https://eulogikon.org/works/julian-apostate-council-people-sno-ad"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Julian the Apostate
 
 **eul_wid:** `sno-ad` · [HTML page](https://eulogikon.org/works/julian-apostate-council-people-sno-ad)
-
-To the Council and People of Athens is a political manifesto composed in 361 CE by the Roman emperor Julian, commonly known as Julian the Apostate. Written in polished Attic Greek and structured as a sixteen-part open letter, the work was produced during Julian’s civil war against his cousin, the reigning emperor Constantius II, as Julian marched his army eastward. Adopting the literary persona of an Athenian citizen addressing his own city, Julian provides a detailed narrative and justification of his conduct, tracing events from his appointment as a junior emperor in Gaul to his troops’ acclamation of him as Augustus, an act of open rebellion. He frames this conflict not merely as a dynastic dispute but as a necessary and principled stand against the injustice and conspiracies emanating from Constantius’s court.
-
-The complete text survives in medieval manuscripts, the most important being a tenth- or eleventh-century codex preserved in Florence. Modern scholarship interprets the letter as a sophisticated piece of political propaganda directed at the empire’s traditional, pagan elite, with Athens serving as a potent symbol of classical culture and civic virtue. Within its pages, Julian carefully crafts an image of himself as a philosopher-king, a reluctant ruler compelled by circumstance, divine favor, and the demands of justice to assume supreme power. As a vital primary source, the work offers crucial insight into Julian’s self-conception, his ideological campaign to restore Hellenic religion and culture, and the intense political struggles that characterized the late Roman Empire.
 
 ## Text
 

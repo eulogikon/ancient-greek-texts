@@ -5,6 +5,7 @@ author: Pseudo-Galen
 eul_wid: tqu-ap
 eul_aid: tqu
 canonical: "https://eulogikon.org/works/pseudo-galen-parts-philosophy-tqu-ap"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Pseudo-Galen
 
 **eul_wid:** `tqu-ap` · [HTML page](https://eulogikon.org/works/pseudo-galen-parts-philosophy-tqu-ap)
-
-The treatise On Parts of Philosophy is an anonymous work preserved within the Hippocratic Corpus, the collection of ancient Greek medical writings attributed to Hippocrates and his followers. Twenty-six passages of the text survive. The work engages with the classification of philosophical knowledge, examining the relationship between medicine and philosophy, the application of natural philosophical principles to human physiology, and the demarcation of philosophical branches relevant to medical practice. This thematic focus aligns with a broader tendency within the Hippocratic Corpus to interface with pre-Socratic natural philosophy, as seen in other texts such as On Ancient Medicine and On the Nature of Man. The treatise was transmitted through the medieval manuscript tradition of the Hippocratic Corpus, which was originally compiled in Hellenistic Alexandria. Its standard modern edition appears in Émile Littré’s Oeuvres complètes d’Hippocrate. As a component of the corpus, the work contributes to the understanding of how medical writers engaged with contemporary philosophical systems. The Hippocratic Corpus itself was foundational to Western medicine, profoundly influencing later figures like Galen and shaping medical theory and education for centuries.
 
 ## Text
 

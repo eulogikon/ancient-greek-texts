@@ -5,6 +5,7 @@ author: Posidippus of Pella
 eul_wid: hwg-aa
 eul_aid: hwg
 canonical: "https://eulogikon.org/works/posidippus-pella-fragments-hwg-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Posidippus of Pella
 
 **eul_wid:** `hwg-aa` · [HTML page](https://eulogikon.org/works/posidippus-pella-fragments-hwg-aa)
-
-The surviving epigrams of the Hellenistic poet Posidippus of Pella are known collectively as the "Fragments and Titles." This corpus is preserved through individual poems in the Greek Anthology and, most significantly, by the Milan Papyrus, a literary roll dating to the late third or early second century BCE and published in 2001. The papyrus contains approximately 112 epigrams, organized into distinct, thematically titled sections. These poems are composed primarily in elegiac couplets and display the characteristic erudition and variety of the Hellenistic age. The thematic sections include poems on omens, dedications, epitaphs, statues, engraved gemstones, and equestrian subjects. Their content ranges from courtly references to the Ptolemaic dynasty to precise descriptions of art and daily life. Prior to the discovery of the Milan Papyrus, Posidippus was known from only about twenty epigrams; the papyrus expanded his corpus by over six hundred lines, confirming that his work was collected and circulated within a century of his death. This discovery transformed Posidippus from a minor figure into a major early Hellenistic epigrammatist. The structured, thematic collection of his work provides crucial insight into the aesthetic interests of the period and likely served as an influential model for later poetic anthologies.
 
 ## Text
 

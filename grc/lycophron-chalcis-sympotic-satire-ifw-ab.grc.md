@@ -5,6 +5,7 @@ author: Lycophron of Chalcis
 eul_wid: ifw-ab
 eul_aid: ifw
 canonical: "https://eulogikon.org/works/lycophron-chalcis-sympotic-satire-ifw-ab"
+lang: grc
 period: Hellenistic
 dialect: Attic Drama
 domain: Drama
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lycophron of Chalcis
 
 **eul_wid:** `ifw-ab` · [HTML page](https://eulogikon.org/works/lycophron-chalcis-sympotic-satire-ifw-ab)
-
-The Sympotic Satire Fragments are a collection of fourteen fragmentary passages attributed to the Hellenistic poet Lycophron of Chalcis. Preserved solely as quotations in later authors, primarily Athenaeus’s Deipnosophistae, these verses represent a work of satyric or sympotic poetry distinct from Lycophron’s extant tragedy Alexandra. The fragments reflect their convivial context and satirical style, containing references to dining practices and foods, comic or burlesque treatments of mythological figures, and aetiological explanations for rituals and customs. The work survives entirely through this indirect transmission, having been quoted by antiquarians such as Athenaeus, who flourished in the late second or early third century CE. Modern editions, including the Poetae Comici Graeci, compile these fragments, though the original work’s full scope and precise format remain unreconstructable. These pieces illustrate the diversity of Hellenistic poetry beyond major surviving texts. Their preservation highlights later scholarly interest in banquet culture and mythological lore, while their attribution to Lycophron connects them to the Alexandrian literary milieu and the scholarly curation of comic and satyric drama.
 
 ## Text
 

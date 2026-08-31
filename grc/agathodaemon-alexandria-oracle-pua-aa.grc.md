@@ -5,6 +5,7 @@ author: Agathodaemon of Alexandria
 eul_wid: pua-aa
 eul_aid: pua
 canonical: "https://eulogikon.org/works/agathodaemon-alexandria-oracle-pua-aa"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Agathodaemon of Alexandria
 
 **eul_wid:** `pua-aa` · [HTML page](https://eulogikon.org/works/agathodaemon-alexandria-oracle-pua-aa)
-
-The Agathodaemthe Oracle of Orpheus, Collection and Commentary is a treatise by Agathodaemon of Alexandria that presents and explicates an oracle attributed to the mythical poet Orpheus. The author is an obscure figure; the name Agathodaemon, meaning "Good Spirit," was common in antiquity and appears in a scholarly context primarily as the legendary co-dedicatee of Ptolemy's Geography. The work itself is not attested in standard catalogs of Orphic fragments or major histories of ancient literature. The treatise centers on a prophetic saying ascribed to Orpheus and provides a commentary on this oracle, implying practices of philosophical or theological interpretation that likely employ the allegorical reading methods common in later antiquity. The transmission history of the treatise is undocumented, and its current status—whether lost, fragmentary, or extant in manuscript—is unknown, as it receives no mention in standard scholarly sources. As a collection and commentary on an Orphic oracle, the work would belong to the tradition of exegetical writing on pseudepigraphical Orphic texts that flourished in the Hellenistic and Roman periods. However, its complete absence from the established scholarly record precludes any assessment of its specific contribution to this tradition.
 
 ## Text
 

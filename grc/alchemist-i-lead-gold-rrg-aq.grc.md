@@ -5,6 +5,7 @@ author: Alchemist I
 eul_wid: rrg-aq
 eul_aid: rrg
 canonical: "https://eulogikon.org/works/alchemist-i-lead-gold-rrg-aq"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alchemist I
 
 **eul_wid:** `rrg-aq` · [HTML page](https://eulogikon.org/works/alchemist-i-lead-gold-rrg-aq)
-
-Differences of Lead and Gold Leaf is a short Greek alchemical treatise from the 1st century CE. Written by an anonymous author conventionally designated as Pseudo-Democritus or Alchemist I, the work adopts the name of the pre-Socratic philosopher Democritus to bolster its authority. Composed in Koine Greek, the text is structured as a collection of four technical passages that provide practical recipes for the treatment of metals. It details specific processes for altering the color and properties of lead to produce materials that imitate gold, blending empirical craft knowledge with emerging philosophical concepts of material transformation. This synthesis is characteristic of early alchemical practice.
-
-The treatise originated in Roman Egypt, most likely within the intellectual and artisanal milieu of Alexandria, where Greek philosophical speculation merged with longstanding Egyptian traditions in metallurgy, dyeing, and other crafts. Modern scholarship interprets the work as a prescriptive technical guide intended for practitioners in workshop settings, aiming to convey guarded, specialist knowledge concerning metallic transmutation. The text survives in a fragmentary state as part of the larger corpus of Greek alchemical writings, transmitted through Byzantine manuscripts where it is preserved alongside other works within later compilations. It stands as a foundational document for understanding the empirical origins and practical roots of alchemical theory and practice.
 
 ## Text
 

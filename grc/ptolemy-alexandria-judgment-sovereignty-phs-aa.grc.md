@@ -5,6 +5,7 @@ author: Ptolemy of Alexandria
 eul_wid: phs-aa
 eul_aid: phs
 canonical: "https://eulogikon.org/works/ptolemy-alexandria-judgment-sovereignty-phs-aa"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Mathematics
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Ptolemy of Alexandria
 
 **eul_wid:** `phs-aa` · [HTML page](https://eulogikon.org/works/ptolemy-alexandria-judgment-sovereignty-phs-aa)
-
-On the Faculty of Judgment and Sovereignty of the Soul is a philosophical treatise by the 2nd-century Alexandrian scholar Claudius Ptolemy. While Ptolemy is renowned primarily for his astronomical and geographical works, this text explores the nature of the human soul's ruling principle, or hēgemonikon, and its faculty of judgment. Ptolemy posits the intellect as this sovereign faculty, locating it physically within the brain and assigning it responsibility for critical operations such as judgment, imagination, and self-awareness. The extant work is structured into twenty discrete passages.
-
-In this treatise, Ptolemy engages with psychology, synthesizing concepts from Stoic, Aristotelian, and Platonic thought within his own empirically oriented framework. Scholars view the work as a systematic endeavor to correlate specific mental faculties with particular bodily organs, reflecting Ptolemy's broader scientific methodology. The complete text has survived transmission among Ptolemy's collected writings, though its manuscript tradition is less extensively documented than that of his major scientific compositions.
 
 ## Text
 

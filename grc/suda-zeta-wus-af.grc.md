@@ -5,6 +5,7 @@ author: Suda
 eul_wid: wus-af
 eul_aid: wus
 canonical: "https://eulogikon.org/works/suda-zeta-wus-af"
+lang: grc
 period: Byzantine
 domain: Grammar
 format: Collection
@@ -18,12 +19,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Suda
 
 **eul_wid:** `wus-af` · [HTML page](https://eulogikon.org/works/suda-zeta-wus-af)
-
-The Ζ section of the Suda contains 197 entries spanning proper names, poetic vocabulary, military terminology, and glosses on Hebrew and biblical material. Early entries include ζάβα (a coat of mail, with its storage room the Ζαβαρεῖον), the name Ζαβουλών glossed both as a region and as 'one who greatly desires', and Ζαγρεύς, identified as Dionysus in his chthonic aspect, born of Zeus and Persephone.
-
-Mid-section entries reflect the lexicon's multilingual range: Ζιβύνη denotes a fully iron javelin or lance, while Ζιζάνιον glosses the biblical tare (αἶρα) found among wheat. Tail entries include Ζύθος, defined as wine made from barley, and Ζύμη (leaven), accompanied by a passage describing the Hebrews' ritual burning of leavened bread from the sixth hour on the fourteenth day of the month.
-
-The section is useful for researchers working on Byzantine military vocabulary, Dionysiac religion, and the Suda's reception of Herodotus (Ζυγοί as 'seats') and biblical tradition.
 
 ## Text
 

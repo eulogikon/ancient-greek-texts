@@ -5,6 +5,7 @@ author: Medical Writers Anonymous
 eul_wid: umi-al
 eul_aid: umi
 canonical: "https://eulogikon.org/works/med-writers-anon-months-adornment-umi-al"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Medical Writers Anonymous
 
 **eul_wid:** `umi-al` · [HTML page](https://eulogikon.org/works/med-writers-anon-months-adornment-umi-al)
-
-The Adornment of the Months is an anonymous Greek medical treatise belonging to the genre of menologia, calendrical texts that provided seasonal health advice. As a work of this type, it would have offered a regimen based on humoral theory, detailing prophylactic and therapeutic measures tied to the progression of the months. Its guidance would have addressed diet, exercise, and hygiene, framed by the presumed influence of astronomical and climatic changes on the body's balance of humors. The manuscript tradition and preservation status of the work are unclear, as it is not prominently attested in major catalogs of ancient texts. Nevertheless, as a representative menologion, it exemplifies the practical application of humoral medicine within the cyclical framework of the ancient calendar, serving as a concise guide for managing health in accordance with the natural year.
 
 ## Text
 

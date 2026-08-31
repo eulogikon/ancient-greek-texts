@@ -5,6 +5,7 @@ author: Theodosius of Bithynia
 eul_wid: lww-ab
 eul_aid: lww
 canonical: "https://eulogikon.org/works/theodosius-bithynia-dwellings-lww-ab"
+lang: grc
 period: Hellenistic
 dialect: Technical Koine
 domain: Science
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Theodosius of Bithynia
 
 **eul_wid:** `lww-ab` · [HTML page](https://eulogikon.org/works/theodosius-bithynia-dwellings-lww-ab)
-
-On Dwellings is a mathematical and astronomical treatise by the Hellenistic scholar Theodosius of Bithynia, likely composed in the second or first century BCE. Written in Koine Greek, it is one of his three surviving works on spherical geometry. The treatise applies rigorous geometric proofs to a fundamental problem in ancient geography: defining the Earth's habitable zones based on the sun's apparent motion. It systematically explores the consequences of the Earth's spherical shape across different latitudes, explaining phenomena such as regions of perpetual day or night, the variation in the length of daylight, and the theoretical boundaries of the Arctic and Antarctic Circles.
-
-Structured as a series of fourteen deductive propositions, the work builds logically from first principles. It was intended for advanced students and scholars, forming part of the foundational curriculum in mathematical astronomy known as the "Little Astronomy," which was studied prior to engaging with Ptolemy's Almagest. The treatise survives intact through a long manuscript tradition. It was translated into Arabic and later into Latin during the 12th century, securing its role as a standard textbook in medieval European universities and ensuring its influence on geographical and astronomical thought for centuries.
 
 ## Text
 

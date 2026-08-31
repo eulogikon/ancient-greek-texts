@@ -5,6 +5,7 @@ author: Aesop Life-anonymous
 eul_wid: pqy-ab
 eul_aid: pqy
 canonical: "https://eulogikon.org/works/aesop-mythical-book-pqy-ab"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Fiction
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aesop Life-anonymous
 
 **eul_wid:** `pqy-ab` · [HTML page](https://eulogikon.org/works/aesop-mythical-book-pqy-ab)
-
-The anonymous work commonly referred to as "Aesop's Mythical Book" is not a separate collection of fables but rather a description that corresponds to episodes from the fictional biography known as the Life of Aesop. This popular narrative, likely composed during the Roman imperial period in the 1st or 2nd century CE, blends an episodic story of the fabulist's life with the telling of his fables. It portrays Aesop as a Phrygian slave, physically grotesque but endowed with divine wisdom, who uses clever fables featuring animals to critique human behavior and social structures. The biography emphasizes the triumph of intelligence over brute force and social rank, offering a sharp critique of social injustice, elite hypocrisy, and institutional corruption, notably that of the Delphic oracle. Within the narrative, the fable itself is presented as a potent rhetorical tool, allowing the powerless to voice dissent and challenge authority.
-
-The transmission of the Aesopic tradition was inherently fluid, with early prose collections now lost. The anonymous Life survives primarily in two major manuscript recensions: a longer version dating from the 10th or 11th century and a shorter compilation made by the Byzantine scholar Maximus Planudes. This fictional biography was instrumental in cementing the enduring image of Aesop as a cultural icon of cunning and moral wisdom. The broader fable tradition, transmitted and adapted by authors such as Phaedrus and Babrius, has exerted a profound and lasting influence on Western literature, rhetoric, and moral education.
 
 ## Text
 

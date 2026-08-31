@@ -5,6 +5,7 @@ author: Galen of Pergamon
 eul_wid: qmm-bk
 eul_aid: qmm
 canonical: "https://eulogikon.org/works/galen-pergamon-drugs-composition-qmm-bk"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Galen of Pergamon
 
 **eul_wid:** `qmm-bk` · [HTML page](https://eulogikon.org/works/galen-pergamon-drugs-composition-qmm-bk)
-
-On the Composition of Drugs by Types is a major pharmaceutical treatise written by the physician Galen of Pergamon around 180–200 CE. Composed during his mature period in Rome, the work systematically categorizes hundreds of recipes for compound medicines, organizing them by their method of administration—such as ointments, plasters, or pills—and by the type of ailment they are designed to treat. It provides detailed instructions on ingredients, precise quantities, and methods of preparation, serving as a comprehensive practical manual for physicians. The text survives largely intact and is structured as a collection of 697 distinct recipes. In its preface, Galen explains that he was compelled to rewrite the work after the original version was lost in a fire that destroyed repositories along the Sacred Way and the great libraries near the palace. He states his aim is to create a rational, theory-based guide for drug therapy grounded in his humoral system, positioning it as a direct argument against medical practitioners who rejected the theoretical foundations of compound drugs or who criticized earlier authors on the subject. Modern scholars interpret the treatise as a deliberate effort to systematize pharmacology and to argue against medical schools that relied solely on tradition or empirical observation without a coherent theoretical foundation. Intended for a professional audience, the work successfully bridges complex medical theory with the demands of everyday clinical practice. Through subsequent translations into Syriac, Arabic, and later Latin, this treatise became a cornerstone of pharmaceutical knowledge in the Byzantine, Islamic, and medieval European worlds, maintaining its authority for well over a millennium.
 
 ## Text
 

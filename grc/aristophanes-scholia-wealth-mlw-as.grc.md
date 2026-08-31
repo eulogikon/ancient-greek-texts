@@ -5,6 +5,7 @@ author: Aristophanes Scholia
 eul_wid: mlw-as
 eul_aid: mlw
 canonical: "https://eulogikon.org/works/aristophanes-scholia-wealth-mlw-as"
+lang: grc
 period: Hellenistic
 dialect: Technical Koine
 domain: Grammar
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristophanes Scholia
 
 **eul_wid:** `mlw-as` · [HTML page](https://eulogikon.org/works/aristophanes-scholia-wealth-mlw-as)
-
-The Scholia on the Wealth is an ancient and medieval commentary on Aristophanes’ comedy Wealth. It is not the work of a single author but a compilation of marginal notes, or scholia, created by generations of scholars and teachers. Written in Greek prose, the collection contains over a thousand individual annotations that correspond to specific lines of the play. These notes serve as a detailed guide, explaining rare words, historical references, mythological figures, and the cultural context behind the comedy’s jokes and plot, which had become obscure over time.
-
-The compilation of these scholia began in the Hellenistic period, when scholars at institutions like the Library of Alexandria first systematically annotated classical texts. This early core of commentary was then continuously condensed, expanded, and supplemented throughout the Roman and Byzantine eras, with significant additions made as late as the 10th to 12th century. Modern scholars interpret this layered text as a cumulative record of a thousand years of scholarship, preserved for educational use to help students and readers understand Old Comedy.
-
-The text survives only as it was transmitted in the margins of medieval manuscripts of Aristophanes’ plays, with the oldest substantial copies dating from the Byzantine era. The scholia are thus a palimpsest of scholarship, where notes from Hellenistic grammarians are mixed with later Byzantine explanations. Today, this commentary is a crucial resource for philologists, offering invaluable insight into ancient scholarly methods, the reception of Aristophanes, and the history of the comic text itself.
 
 ## Text
 

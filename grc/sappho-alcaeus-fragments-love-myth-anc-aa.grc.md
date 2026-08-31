@@ -5,6 +5,7 @@ author: Fragments of Sappho and Alcaeus
 eul_wid: anc-aa
 eul_aid: anc
 canonical: "https://eulogikon.org/works/sappho-alcaeus-fragments-love-myth-anc-aa"
+lang: grc
 period: Archaic
 dialect: Aeolic
 domain: Poetry
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Fragments of Sappho and Alcaeus
 
 **eul_wid:** `anc-aa` · [HTML page](https://eulogikon.org/works/sappho-alcaeus-fragments-love-myth-anc-aa)
-
-Lyric Fragments of Love and Myth is a modern compilation of poetic excerpts by the Archaic Greek poets Sappho and Alcaeus. Both poets were natives of the island of Lesbos and composed their works in the Aeolic dialect during the late seventh and early sixth centuries BCE. This collection organizes thirty-one surviving passages around two principal themes: the intimate experience of love and the narrative use of mythology. It is not a unified ancient text but a scholarly assemblage of fragments that have endured through indirect transmission.
-
-Sappho’s poetry, originally intended for musical performance, centers on the emotional world of a close-knit female community. Her verses articulate desire, longing, and devotion to the goddess Aphrodite with striking sensory detail. Alcaeus, her contemporary, addressed a wider array of subjects, including political conflict, exile, convivial drinking, and love, often in a style suited for public recitation at symposia. The extant material for both poets is incomplete, consisting of passages that range from isolated lines to brief stanzas. These fragments survive not in continuous manuscripts but through citations by later ancient authors and grammarians, supplemented by papyrus discoveries from Egypt.
-
-Modern interpretation often links Sappho’s work to a thiasos, a ritual or educational association for young women, while the poetry of Alcaeus reflects the factional strife and periods of exile he endured in his native city of Mytilene. Despite their fragmentary condition, the influence of both poets has been considerable. In antiquity, Sappho was hailed as the Tenth Muse and her lyric mode profoundly shaped subsequent love poetry. Alcaeus’s metrical innovations were notably adapted by later Roman poets, most prominently Horace.
 
 ## Text
 

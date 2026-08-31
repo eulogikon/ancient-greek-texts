@@ -5,6 +5,7 @@ author: Julian the Apostate
 eul_wid: sno-ab
 eul_aid: sno
 canonical: "https://eulogikon.org/works/julian-apostate-consolation-salustius-sno-ab"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Julian the Apostate
 
 **eul_wid:** `sno-ab` · [HTML page](https://eulogikon.org/works/julian-apostate-consolation-salustius-sno-ab)
-
-The Consolation on the Departure of the Most Noble Salustius is a philosophical treatise composed by the Roman emperor Julian. Written in Attic Greek around 362–363 CE, the work is a personal exercise in consolation addressed by the emperor to himself upon the departure of his friend and senior official, Saturninius Secundus Salutius, who was being sent to govern Gaul. Structured as a sequence of ten philosophical arguments, the treatise systematically applies reason to combat the grief of separation. Julian draws extensively on Platonic and Neoplatonic thought, arguing that genuine friendship resides in the union of virtuous souls and is therefore impervious to physical absence. The consolation is interpreted by modern scholars as an expression of Julian’s program to revive Hellenic philosophy and culture, exemplifying his ideal of the philosopher-ruler who masters personal emotion through rational discipline. The complete text is preserved within the principal manuscript tradition of Julian’s works.
 
 ## Text
 

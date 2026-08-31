@@ -5,6 +5,7 @@ author: Philemon Syracusius
 eul_wid: lpe-ad
 eul_aid: lpe
 canonical: "https://eulogikon.org/works/philemon-syracusius-comic-fragments-lpe-ad"
+lang: grc
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philemon Syracusius
 
 **eul_wid:** `lpe-ad` · [HTML page](https://eulogikon.org/works/philemon-syracusius-comic-fragments-lpe-ad)
-
-The Comic Fragments on Aristomedes consist of eighteen fragmentary passages from a comedy, or comedies, by the Middle Comic poet Philemon Syracusius. These fragments are preserved exclusively within the Deipnosophistae of Athenaeus of Naucratis, a compendium of dining lore from the second or third century CE, where they are cited for their references to ancient dining customs and specific foods. The extant lines mention a figure named Aristomedes in contexts that illustrate gastronomic excess, such as the consumption of sow’s womb and allusions to Sybaritic luxury, as well as references to specific foodstuffs including a type of bread or cake. While the identity of Aristomedes remains uncertain, he likely served as a subject for social satire targeting gluttony and decadence, a focus consistent with the broader thematic shift in Middle Comedy from political commentary to domestic and moral themes. The fragments survive solely through this indirect quotation in Athenaeus; there is no independent manuscript tradition for Philemon’s plays. They are collected in the modern standard edition, Poetae Comici Graeci. As such, these fragments contribute to the scholarly reconstruction of Middle Comedy, representing the genre’s transitional phase, while their preservation by Athenaeus provides valuable incidental evidence for the study of ancient Greek gastronomy and daily life.
 
 ## Text
 

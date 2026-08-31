@@ -5,6 +5,7 @@ author: Olympiodorus the Younger of Alexandria
 eul_wid: utq-ag
 eul_aid: utq
 canonical: "https://eulogikon.org/works/olympiodorus-alexandria-introduction-utq-ag"
+lang: grc
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Olympiodorus the Younger of Alexandria
 
 **eul_wid:** `utq-ag` · [HTML page](https://eulogikon.org/works/olympiodorus-alexandria-introduction-utq-ag)
-
-The Prolegomena is an introductory treatise composed in the sixth century CE by Olympiodorus the Younger, a pagan philosopher who headed the Platonic school in Alexandria. Written in Greek, the work functions as a preparatory guide for students embarking on a study of Aristotle's corpus. Its twenty-five chapters systematically address the standard preliminary questions for new students within the Neoplatonic educational tradition. These include establishing the proper sequence for reading Aristotle's works, outlining the requisite qualities of both student and teacher, defining the ultimate purpose of Aristotle's philosophy, and explaining the philosopher's famously opaque literary style. The treatise exemplifies the standardized late antique curriculum in which Aristotle's logical and scientific writings were studied as a necessary propaedeutic before advancing to the higher, theological doctrines of Plato. For modern scholarship, the text is a crucial document for understanding pedagogical methods during the final era of pagan philosophical instruction under Christian imperial rule. Preserved through medieval manuscript transmission, the complete work provides a clear and detailed view of how Aristotelian philosophy was taught in the sixth-century Alexandrian school.
 
 ## Text
 

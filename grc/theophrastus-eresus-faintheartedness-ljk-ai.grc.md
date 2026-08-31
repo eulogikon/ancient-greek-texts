@@ -5,6 +5,7 @@ author: Theophrastus of Eresus
 eul_wid: ljk-ai
 eul_aid: ljk
 canonical: "https://eulogikon.org/works/theophrastus-eresus-faintheartedness-ljk-ai"
+lang: grc
 period: Hellenistic
 dialect: Attic Philosophical
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Theophrastus of Eresus
 
 **eul_wid:** `ljk-ai` · [HTML page](https://eulogikon.org/works/theophrastus-eresus-faintheartedness-ljk-ai)
-
-On Faintheartedness is a short ethical treatise by Theophrastus of Eresus, the successor to Aristotle as head of the Peripatetic school. Written in Attic Greek, the work presents a character sketch focused on the vice of cowardice. It eschews abstract theoretical discussion in favor of concrete, observational vignettes that describe the typical behaviors, thoughts, and situations of a fainthearted individual. This empirical approach to delineating character is consistent with Theophrastus's broader methodological tendencies. The treatise is fragmentary, surviving only through seven passages likely preserved by later authors. It forms part of a larger Theophrastean project to catalog human character types and expands upon Aristotelian ethical concepts, particularly the analysis of courage as a mean between extremes. Modern scholarship interprets the work as a practical study for philosophical students, demonstrating how moral character is revealed through patterns of habitual action and irrational fear. Its descriptive, behavioral method is considered a significant influence on later Hellenistic and Roman moral writing.
 
 ## Text
 

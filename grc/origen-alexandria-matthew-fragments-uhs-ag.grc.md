@@ -5,6 +5,7 @@ author: Origen of Alexandria
 eul_wid: uhs-ag
 eul_aid: uhs
 canonical: "https://eulogikon.org/works/origen-alexandria-matthew-fragments-uhs-ag"
+lang: grc
 period: Late Antique
 dialect: Christian Koine
 domain: Theology
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Origen of Alexandria
 
 **eul_wid:** `uhs-ag` · [HTML page](https://eulogikon.org/works/origen-alexandria-matthew-fragments-uhs-ag)
-
-The Fragments from Commentaries on the Gospel of Matthew are surviving excerpts from a monumental 25-volume exegetical work composed in Greek by the early Christian theologian Origen of Alexandria. Written during his residence in Caesarea, approximately between 244 and 249 CE, the original commentary applied Origen’s characteristic hermeneutical method to the first Gospel, systematically integrating literal analysis with extensive allegorical and spiritual interpretation to elucidate deeper theological truths. The work represents a cornerstone of Origen’s scholarly project to establish a comprehensive and intellectually rigorous Christian exegesis of Scripture, primarily intended for advanced students and theologians engaged in contemporary doctrinal debates with Jewish and Gnostic interlocutors.
-
-The complete commentary is now almost entirely lost, with only eight of the original twenty-five books surviving in their entirety. The fragments in question consist of four brief passages that are not preserved within these extant books but have been transmitted indirectly through later ancient and medieval sources, most notably in catenae, or chains, which are compilations of excerpted commentary from various Church Fathers. These fragments provide a valuable, though limited, window into the content and method of the lost portions of Origen’s influential exposition, which played a formative role in the development of Christian biblical scholarship.
 
 ## Text
 

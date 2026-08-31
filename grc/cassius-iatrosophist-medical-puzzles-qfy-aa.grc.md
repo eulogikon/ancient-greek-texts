@@ -5,6 +5,7 @@ author: Cassius the Iatrosophist
 eul_wid: qfy-aa
 eul_aid: qfy
 canonical: "https://eulogikon.org/works/cassius-iatrosophist-medical-puzzles-qfy-aa"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Cassius the Iatrosophist
 
 **eul_wid:** `qfy-aa` · [HTML page](https://eulogikon.org/works/cassius-iatrosophist-medical-puzzles-qfy-aa)
-
-Medical Puzzles and Natural Problems is a treatise in the ancient question-and-answer genre, comprising 66 short passages on medical and physiological topics. It explores the causes for phenomena ranging from anatomy to dietetics, employing explanations rooted in Hippocratic, Galenic, and Aristotelian thought. The text addresses diverse subjects through this causal framework, including human anatomy and physiology, such as the heart's position, greying hair, and shivering; pathology and the theory of the four humors; dietetics and the effects of food and drink; and pharmacology and drug properties. Preserved in Greek, the work survives in key manuscripts like the 14th-century Parisinus gr. 2311 and was edited in the 19th century by Franz R. Dietz and Julius Ludwig Ideler. While the integrity of the collection is stable, its attribution to the shadowy figure "Cassius the Iatrosophist"—a name associated with several medical writers—remains uncertain, with proposed dates ranging from the 1st to the 4th century CE. The treatise is a valuable witness to pedagogical medicine in the Roman Imperial period, illustrating how professional knowledge was structured and transmitted. It was excerpted by later compilers like Oribasius and demonstrates the enduring intersection of medicine with natural philosophy.
 
 ## Text
 

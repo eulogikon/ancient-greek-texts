@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-ba
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-sertorius-eumenes-okg-ba"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-ba` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-sertorius-eumenes-okg-ba)
-
-The Comparison of Sertorius and Eumenes is a concluding essay by the Greek biographer Plutarch, composed in Attic Greek around the early second century CE. It forms an integral part of his Parallel Lives, serving as the capstone to the paired biographies of the Roman rebel Quintus Sertorius and the Greek general Eumenes of Cardia. In this concise work, Plutarch systematically contrasts the two leaders, examining their military skill, relationships with their troops, strategic acumen, and the circumstances of their deaths. The essay highlights both commonalities and distinctions: both men were foreigners and exiles who commanded diverse, formidable armies, yet Sertorius received his authority by the willing consent of his allies, while Eumenes had to assert his leadership against rivals through demonstrated competence. Plutarch notes the irony that Sertorius, a Roman, led Iberians and Lusitanians who had long been subjugated by Rome, whereas Eumenes, a Greek from the Chersonese, commanded Macedonians at the height of their imperial power. He further observes that Sertorius, admired for his counsel and generalship, rose to command from a position of strength, while Eumenes, initially undervalued as a mere secretary, overcame greater obstacles to achieve his authority. The comparison serves Plutarch’s overarching moral purpose, extracting ethical lessons about leadership, virtue, and the role of fortune by examining these figures from distinct Roman and Hellenistic contexts. The work survives complete within the manuscript tradition of the Parallel Lives and is regarded by scholars as the analytical culmination of the two preceding biographies.
 
 ## Text
 

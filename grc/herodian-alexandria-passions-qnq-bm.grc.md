@@ -5,6 +5,7 @@ author: Herodian of Alexandria
 eul_wid: qnq-bm
 eul_aid: qnq
 canonical: "https://eulogikon.org/works/herodian-alexandria-passions-qnq-bm"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Grammar
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Herodian of Alexandria
 
 **eul_wid:** `qnq-bm` · [HTML page](https://eulogikon.org/works/herodian-alexandria-passions-qnq-bm)
-
-On Passions is a grammatical treatise by the second-century CE scholar Aelius Herodianus. The work systematically examines the "pathē," or alterations, of words in classical Attic Greek, the dialect most highly valued during the Roman imperial era. It catalogs various types of phonetic and morphological changes, including contractions, elongations, and shifts in accent, serving as a technical handbook for navigating the irregularities and exceptions within the language's structure.
-
-The surviving text is not a complete, standalone book but a collection of 224 excerpts. These fragments were likely compiled by later scholars from Herodian's original, more extensive commentaries. Modern scholarship interprets the work as a product of the Second Sophistic, a cultural movement dedicated to the revival of classical Greek language and literature. It was written primarily as a reference for teachers and advanced students to uphold standards of linguistic purity and correct usage.
-
-Herodian, who worked in Rome under Emperor Marcus Aurelius, was a central authority on Greek grammar. His rules, particularly those concerning accentuation, proved exceptionally influential, helping to shape the standard accent system used for ancient Greek texts for centuries. Although his larger works are lost, the principles elucidated in On Passions were preserved through excerpts in later Byzantine grammatical manuals, ensuring his lasting impact on the philological study of the Greek language.
 
 ## Text
 

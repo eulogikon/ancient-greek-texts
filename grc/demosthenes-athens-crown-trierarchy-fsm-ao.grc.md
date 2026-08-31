@@ -5,6 +5,7 @@ author: Demosthenes of Athens
 eul_wid: fsm-ao
 eul_aid: fsm
 canonical: "https://eulogikon.org/works/demosthenes-athens-crown-trierarchy-fsm-ao"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Demosthenes of Athens
 
 **eul_wid:** `fsm-ao` · [HTML page](https://eulogikon.org/works/demosthenes-athens-crown-trierarchy-fsm-ao)
-
-On the Crown of the Trierarchy is a forensic oration composed by the Athenian statesman Demosthenes around 360 BCE. Written in Attic Greek for delivery by a client in a law court, the speech constitutes a legal argument against a proposed decree aimed at abolishing hereditary exemptions from the trierarchy, the costly public duty of financing a warship. Demosthenes’ central contention is that rescinding such an honor, which had been granted to the family of a distinguished general, constitutes an act of profound injustice. He argues that to revoke earned privileges would discourage future citizens from undertaking great and expensive services for Athens, thereby harming the state’s long-term interests. The complete speech is organized into twenty-two sections, skillfully intertwining detailed legal reasoning with broader appeals to civic principle and the moral contract between the city and its benefactors.
-
-The case arose during a period of financial strain for Athens in the aftermath of the Social War. Modern scholarship views the oration as a significant early work in Demosthenes’ public career, demonstrating his characteristic method of elevating a private legal dispute into a matter of vital public policy. Within the speech, the specific question of a family’s exemption is framed as a test of the city’s integrity and its commitment to a system where public reward is the necessary correlate of civic virtue. The text survives in full through medieval manuscripts as part of the Demosthenic corpus, offering insight into the complex interplay of law, finance, and honor in classical Athenian democracy.
 
 ## Text
 

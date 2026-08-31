@@ -5,6 +5,7 @@ author: Callimachus of Cyrene the Poet and Scholar
 eul_wid: iso-an
 eul_aid: iso
 canonical: "https://eulogikon.org/works/callimachus-cyrene-delos-iso-an"
+lang: grc
 period: Hellenistic
 dialect: Literary Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Callimachus of Cyrene the Poet and Scholar
 
 **eul_wid:** `iso-an` · [HTML page](https://eulogikon.org/works/callimachus-cyrene-delos-iso-an)
-
-_To Delos_ is a hymn composed by the Hellenistic poet and scholar Callimachus in the 3rd century BCE. It is the fourth in a collection of six hymns that have survived intact from antiquity. Written in a literary Greek dialect, the poem dramatically re-enacts a ritual song celebrating the birth of the gods Apollo and Artemis. It narrates the myth of their mother, Leto, who is refused refuge by many lands until the floating island Asteria welcomes her. As a reward, the island is fixed in place and renamed Delos, becoming Apollo’s sacred sanctuary. The hymn is structured in approximately 300 lines, which are often divided into 14 stanzas or sections. It is characteristic of Callimachus’s refined and allusive style, which favored learned, polished compositions over lengthy epic poetry. Modern scholars interpret the work as serving a dual purpose: it functions as a traditional hymn to Apollo while also containing praise for the contemporary ruler Ptolemy II Philadelphus, linking his military victories to divine favor. The poem was likely composed for an educated, courtly audience that would appreciate its intricate mythology and political resonance. Unlike much of Callimachus’s other poetry, which survives only in fragments, the text of _To Delos_ has been preserved completely through medieval manuscripts, primarily from the Byzantine tradition.
 
 ## Text
 

@@ -1,10 +1,11 @@
 ---
 title: On Embassies of Nations to the Romans
 title_greek: Περὶ Πρεσβειῶν Ἐθνῶν πρὸς Ῥωμαίους
-author: "Menander Protector "
+author: Menander Protector
 eul_wid: viq-ab
 eul_aid: viq
 canonical: "https://eulogikon.org/works/menander-protector-embassies-romans-viq-ab"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: History
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Περὶ Πρεσβειῶν Ἐθνῶν πρὸς Ῥωμαίους*
 
-**Author:** Menander Protector 
+**Author:** Menander Protector
 
 **eul_wid:** `viq-ab` · [HTML page](https://eulogikon.org/works/menander-protector-embassies-romans-viq-ab)
-
-On Embassies of Nations to the Romans is a collection of 42 historical excerpts compiled in the tenth century for the Byzantine emperor Constantine VII Porphyrogennetos. The excerpts were drawn from the now-lost history of Menander Protector, a sixth-century historian and court official who chronicled events from 558 to 582 CE. Written in Atticizing Greek prose, the compilation is organized thematically around diplomatic relations, detailing the missions of foreign embassies from peoples such as the Avars, Persians, and Turks to the Roman, or Byzantine, imperial court. The work provides meticulous narratives of embassy protocols, negotiations, and treaty formations, capturing the ceremonial and strategic dimensions of late antique statecraft. It is believed to have functioned as a practical manual for the emperor, offering historical precedents in diplomacy and imperial administration. Modern scholars regard it as an indispensable source for understanding the mechanics of international relations and the projection of imperial ideology during this period, often depicting the Byzantine emperor as a sovereign receiving tribute and homage from neighboring nations. Menander Protector’s original history does not survive intact; this text exists solely as part of a larger tenth-century scholarly project known as the Excerpta Constantiniana, which systematically organized historical texts by thematic category. Preserved in later manuscripts, the excerpts are fragmentary but remain an invaluable primary source for the diplomatic history of the late sixth century.
 
 ## Text
 

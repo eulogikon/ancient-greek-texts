@@ -5,6 +5,7 @@ author: Epimenides of Crete
 eul_wid: aqy-ac
 eul_aid: aqy
 canonical: "https://eulogikon.org/works/epimenides-crete-theological-prophetic-aqy-ac"
+lang: grc
 period: Archaic
 dialect: Epic (Homeric)
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Epimenides of Crete
 
 **eul_wid:** `aqy-ac` · [HTML page](https://eulogikon.org/works/epimenides-crete-theological-prophetic-aqy-ac)
-
-The Theological and Prophetic Fragments is a modern designation for a collection of twenty-three passages attributed to the semi-legendary Greek seer and ritual purifier Epimenides of Crete. While traditionally dated to the seventh or sixth century BCE, the work is not a single surviving text but a compilation of quotations preserved by later authors. Written in epic Greek hexameter verse, the fragments encompass a range of subjects including theogony, cosmology, prophecy, and instructions for religious purification rituals. The most famous fragment, quoted by the Apostle Paul in the New Testament, presents the "Cretan liar" paradox with the statement that Cretans are always liars. Other significant fragments outline a cosmogony beginning with primal deities such as Night and Air, and one describes the Nemean lion as having fallen from the moon. Modern scholarship interprets these writings as part of early Greek mystical and wisdom literature, often associated with Orphic traditions, and composed to provide religious authority for esoteric knowledge and ritual practice. The fragments are known exclusively through later references by authors including Paul, Aristotle, Aelian, and the Neoplatonist Damascius. Most scholars consider the corpus to be pseudepigraphical, likely composed in later centuries but attributed to the renowned figure of Epimenides to lend them antiquity and authority.
 
 ## Text
 

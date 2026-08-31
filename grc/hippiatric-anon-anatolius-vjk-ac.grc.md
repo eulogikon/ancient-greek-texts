@@ -5,6 +5,7 @@ author: Hippiatric Compilation Anonymous
 eul_wid: vjk-ac
 eul_aid: vjk
 canonical: "https://eulogikon.org/works/hippiatric-anon-anatolius-vjk-ac"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hippiatric Compilation Anonymous
 
 **eul_wid:** `vjk-ac` · [HTML page](https://eulogikon.org/works/hippiatric-anon-anatolius-vjk-ac)
-
-The Fragments of Anatolius-Horses is a collection of fifty excerpts on equine veterinary medicine preserved within the larger Byzantine compilation known as the Hippiatrica. Written in Koine Greek, these fragments are attributed to the 3rd-century scholar Anatolius of Berytus, though this attribution is considered a conventional device to lend authority to the practical material. The compilation was assembled between the 4th and 6th centuries CE, drawing on earlier sources of veterinary knowledge. The content is highly practical, covering topics such as the selection and breeding of horses, the diagnosis and treatment of diseases, the preparation of herbal remedies, and surgical procedures. The work offers detailed guidance, including specifications for ideal breeding stock, optimal mating seasons, and post-conception care, reflecting its intended use by veterinarians, cavalry officers, and horse owners. As part of the Hippiatrica, these fragments represent a significant strand of late antique technical knowledge, preserved not as an independent treatise but as a component within a major encyclopedic tradition of veterinary science.
 
 ## Text
 

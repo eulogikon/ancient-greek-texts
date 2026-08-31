@@ -1,10 +1,11 @@
 ---
 title: Voyage Around the Black Sea
 title_greek: Ἀνωνύμου Περίπλους τοῦ Εὐξείνου Πόντου
-author: "Voyage Round the Euxine Sea "
+author: Voyage Round the Euxine Sea
 eul_wid: ojm-aa
 eul_aid: ojm
 canonical: "https://eulogikon.org/works/voyage-euxine-sea-black-sea-ojm-aa"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Geography
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀνωνύμου Περίπλους τοῦ Εὐξείνου Πόντου*
 
-**Author:** Voyage Round the Euxine Sea 
+**Author:** Voyage Round the Euxine Sea
 
 **eul_wid:** `ojm-aa` · [HTML page](https://eulogikon.org/works/voyage-euxine-sea-black-sea-ojm-aa)
-
-The Periplus of the Euxine Sea is an anonymous ancient Greek geographical text, a practical sailing guide detailing a clockwise coastal circuit of the Black Sea. It begins its itinerary at Byzantium, systematically describing the harbors, river mouths, settlements, and coastal landmarks encountered along the shores of Thrace, Bithynia, Paphlagonia, Pontus, Colchis, and Scythia before returning to the Thracian coast, comprising 71 prose entries in total. The work provides essential navigation data, recording distances between points in both stadia and Roman miles, and includes brief ethnographic notes on the peoples inhabiting the littoral regions. Its references to late Roman provincial geography, such as the province of Hellenopontus, indicate a date of compilation in the late Roman Empire, likely the 5th or 6th century CE, though it demonstrably incorporates and preserves material from earlier sources. The complete text survives solely in a 13th-century manuscript, the Codex Parisinus suppl. gr. 443A, where it was compiled alongside other geographical works including Arrian’s own Periplus of the Black Sea. As a late antique periplous, the work is a valuable source for the historical geography, ethnography, and maritime routes of the Black Sea, offering crucial comparative data for the study of coastal settlement patterns and toponymy.
 
 ## Text
 

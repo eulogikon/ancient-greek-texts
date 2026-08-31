@@ -5,6 +5,7 @@ author: Castorion of Soli
 eul_wid: iji-aa
 eul_aid: iji
 canonical: "https://eulogikon.org/works/castorion-soli-hymn-pan-iji-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine (frg)
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Castorion of Soli
 
 **eul_wid:** `iji-aa` · [HTML page](https://eulogikon.org/works/castorion-soli-hymn-pan-iji-aa)
-
-The Hymn to Pan of Arcadia by Castorion of Soli survives only in six fragmentary lines of dactylic hexameter, preserved within the 5th-century CE Anthology compiled by Stobaeus. These excerpts invoke the god specifically as Pan of Arcadia, a designation that underscores his mythological origins in the pastoral Peloponnesian region. The extant verses consist of direct invocations and praise, describing Pan's wild Arcadian domain of mountains, groves, and pastures. They also contain allusions to his standard mythology, including his parentage by Hermes and a nymph and his characteristic rustic attributes. The complete hymn is lost, and its transmission depends solely on Stobaeus's compilation; the fragments are catalogued as number 694 in Poetae Melici Graeci and fragment 1 in Supplementum Hellenisticum, with no independent manuscript tradition. Although the poet Castorion remains an obscure figure, the work represents a clear example of Hellenistic literary trends, showcasing learned, allusive poetry devoted to traditional deities. Its focused evocation of the idealized Arcadian landscape connects it to a central pastoral theme that was further developed in Hellenistic and subsequent Roman literature.
 
 ## Text
 

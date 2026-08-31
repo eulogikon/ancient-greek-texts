@@ -5,6 +5,7 @@ author: Commentary on Dionysius Thrax
 eul_wid: lvi-ag
 eul_aid: lvi
 canonical: "https://eulogikon.org/works/comm-dionysius-thrax-text-lvi-ag"
+lang: grc
 period: Hellenistic
 dialect: Technical Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Commentary on Dionysius Thrax
 
 **eul_wid:** `lvi-ag` · [HTML page](https://eulogikon.org/works/comm-dionysius-thrax-text-lvi-ag)
-
-The Commentary on Dionysius Thrax is a scholarly exegesis of the Art of Grammar by Dionysius Thrax, the foundational systematic treatise on the Greek language. Structured in forty passages, it follows the conventional format of an ancient commentary, proceeding lemma by lemma through the source text to provide definitions, illustrative examples, and detailed grammatical analysis. Its content systematically explicates the technical framework established by Dionysius, including the eight parts of speech and their grammatical accidents, while frequently engaging with alternative interpretations and critiques from other grammatical schools. The work’s primary aim was the preservation and standardization of Greek linguistic understanding for educational purposes. The attribution to an author named "Commentary" is anomalous and most likely stems from a cataloging error or a corruption in the manuscript transmission. The specific manuscript history of this text is unclear, and its relationship to other known commentaries on Dionysius Thrax, such as those by Heliodorus or Stephanus, cannot be verified from available sources. As part of the vast exegetical tradition surrounding the Art of Grammar, this commentary played a significant role in shaping medieval and Byzantine linguistic science and pedagogy, serving as a crucial intermediary that preserved and debated core grammatical concepts for centuries.
 
 ## Text
 

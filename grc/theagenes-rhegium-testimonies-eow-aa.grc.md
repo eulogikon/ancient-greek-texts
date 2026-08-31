@@ -5,6 +5,7 @@ author: Theagenes of Rhegium
 eul_wid: eow-aa
 eul_aid: eow
 canonical: "https://eulogikon.org/works/theagenes-rhegium-testimonies-eow-aa"
+lang: grc
 period: Classical
 dialect: Doric
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Theagenes of Rhegium
 
 **eul_wid:** `eow-aa` · [HTML page](https://eulogikon.org/works/theagenes-rhegium-testimonies-eow-aa)
-
-The Testimonies is a lost work by Theagenes of Rhegium, a late 6th-century BCE scholar. It represents one of the earliest known examples of systematic allegorical literary criticism. The work was not a continuous treatise but rather a collection of interpretations composed in defense of Homeric poetry, specifically addressing philosophical objections to the epic portrayal of the gods as engaging in undignified or immoral conflicts. Theagenes argued that such narratives contained deeper, non-literal meanings, proposing that the battles among deities in the Iliad were symbolic representations of conflicts between opposing natural elements, such as fire and water, or between abstract human qualities like wisdom and folly.
-
-No manuscript of the Testimonies survives. Our knowledge of its content derives entirely from approximately five brief passages quoted or referenced by later ancient commentators. These sources include scholiasts annotating Homeric manuscripts and the philosopher Porphyry. The surviving fragments indicate that Theagenes employed a method of interpretation utilizing both physical allegory, where gods symbolize natural forces, and psychological allegory, where they represent faculties of the human mind. His primary aim was to preserve the cultural and educational authority of Homeric epic by reconciling it with emerging philosophical sensibilities. Modern scholarship regards Theagenes of Rhegium as the foundational figure for the subsequent long tradition of allegorical exegesis of Homer, a methodological approach that was later extensively developed by Stoic philosophers and became a central strand in the history of classical literary criticism.
 
 ## Text
 

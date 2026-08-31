@@ -5,6 +5,7 @@ author: Asclepiades of Myrlea
 eul_wid: mus-aa
 eul_aid: mus
 canonical: "https://eulogikon.org/works/asclepiades-myrlea-historical-fragments-mus-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine (frg)
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Asclepiades of Myrlea
 
 **eul_wid:** `mus-aa` · [HTML page](https://eulogikon.org/works/asclepiades-myrlea-historical-fragments-mus-aa)
-
-The Bithynian Historical Fragments is a lost treatise attributed to the grammarian and historian Asclepiades of Myrlea. The work, known by the Greek term Apospasmata indicating its excerpted nature, originally consisted of nine passages concerning Bithynian history. This compilation aligns with Asclepiades' broader scholarly method, which characteristically integrated grammatical analysis with historical and mythological inquiry. While the full content of the nine fragments is not preserved, the author's known interests suggest the work likely addressed the foundation stories of Bithynian cities, regional ethnography and customs, local mythological narratives, and historical events involving Bithynia's relations with neighboring powers, including Rome. The treatise survives only as a title with a notice of its nine-part structure; it is not included in major modern fragment collections, and its transmission history remains obscure. The attribution to Asclepiades relies on later citations found in sources such as Byzantine lexica. Although the direct influence of these specific fragments cannot be traced, Asclepiades was a significant figure in the Alexandrian grammatical tradition. His interdisciplinary approach, blending historical research with grammatical criticism, contributed to the development of later Hellenistic and Roman antiquarian scholarship. The work exemplifies his engagement with the study of local history and ethnography.
 
 ## Text
 

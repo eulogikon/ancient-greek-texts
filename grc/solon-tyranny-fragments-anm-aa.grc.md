@@ -5,6 +5,7 @@ author: Solon Letters
 eul_wid: anm-aa
 eul_aid: anm
 canonical: "https://eulogikon.org/works/solon-tyranny-fragments-anm-aa"
+lang: grc
 period: Archaic
 dialect: Attic
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Solon Letters
 
 **eul_wid:** `anm-aa` · [HTML page](https://eulogikon.org/works/solon-tyranny-fragments-anm-aa)
-
-The Fragments on Tyranny constitute a modern scholarly designation for excerpts from the poetic corpus of the Athenian lawgiver Solon, who lived from approximately 630 to 560 BCE. These verses, composed in elegiac and iambic meters, were not a unified work in antiquity but are preserved as quotations within the prose texts of later historians and philosophers. They address the central political crisis of Solon's time: the danger of civil strife leading to the collapse of constitutional order and the rise of a tyrant. The fragments articulate Solon's celebrated personal refusal to seize absolute power despite the opportunity, his warning that elite greed and injustice provoke divine retribution and societal ruin, and his analysis of tyranny as a political disease born from civic discord. The complete poems of Solon are lost; our knowledge of these fragments depends entirely on their transmission by authors such as Aristotle in his Athenian Constitution and Plutarch in his Life of Solon. These texts established Solon's legacy as a foundational thinker in Western political theory. His ethical stance against tyranny and his diagnosis of its social causes became integral to Athenian democratic ideology and exerted a profound influence on subsequent political philosophy, notably in the works of Herodotus, Plato, and Aristotle.
 
 ## Text
 

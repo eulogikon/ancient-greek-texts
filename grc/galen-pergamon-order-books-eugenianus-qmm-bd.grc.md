@@ -5,6 +5,7 @@ author: Galen of Pergamon
 eul_wid: qmm-bd
 eul_aid: qmm
 canonical: "https://eulogikon.org/works/galen-pergamon-order-books-eugenianus-qmm-bd"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Galen of Pergamon
 
 **eul_wid:** `qmm-bd` · [HTML page](https://eulogikon.org/works/galen-pergamon-order-books-eugenianus-qmm-bd)
-
-On the Order of His Books to Eugenianus is a bibliographic treatise by the physician and philosopher Galen of Pergamon, composed in Greek circa 193–200 CE. Addressed to a student or patron named Eugenianus, the work responds to a direct request for guidance by providing a structured curriculum for navigating Galen’s extensive literary output. Galen explains that his writings serve diverse purposes and audiences; some were composed for friends, others as introductory lessons for young students. He expresses concern that his works, along with those of earlier authorities, are often misunderstood by those lacking proper philosophical training, who instead follow medical or philosophical schools based on tradition or personal allegiance rather than demonstrative science.
-
-The treatise organizes Galen’s recommendations into a logical pedagogical sequence. He advises students to begin with foundational texts on logic and natural philosophy, progress to core works on medical theory, and finally advance to specialized, practical treatises. By listing and grouping specific titles, Galen outlines the essential path to mastering his integrated system of medicine, which rests on the principle that philosophy is a prerequisite for genuine medical expertise. Modern scholars interpret the guide as more than a simple reading list; it is seen as an effort to standardize medical education and assert authorial control over his intellectual legacy, particularly following the destruction of many of his works in a fire in Rome in 192 CE.
-
-The treatise survives complete within the Galenic corpus, preserved in medieval Greek manuscripts and later translated into Arabic and Latin, where it influenced medical education for centuries. It remains a crucial source for understanding the intended architecture of Galen’s thought and his vision for the ideal training of a physician.
 
 ## Text
 

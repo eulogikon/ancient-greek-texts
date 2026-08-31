@@ -5,6 +5,7 @@ author: Balagrus the Historian
 eul_wid: qfe-aa
 eul_aid: qfe
 canonical: "https://eulogikon.org/works/balagrus-macedonian-cities-qfe-aa"
+lang: grc
 period: Roman
 dialect: Koine (frg)
 domain: History
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Balagrus the Historian
 
 **eul_wid:** `qfe-aa` · [HTML page](https://eulogikon.org/works/balagrus-macedonian-cities-qfe-aa)
-
-The Fragments of Macedonian Cities by Balagrus the Historian is a lost geographical and historical work known only through three brief excerpts preserved in the Ethnica, a sixth-century CE geographical dictionary compiled by Stephanus of Byzantium. The surviving citations reference the Macedonian cities of Aeane, Alcomenae, and the fortress Arsaeus, along with notes on regions such as Upper Macedonia and Mygdonia. The work's title suggests it was a compendium of historical and topographical notes on Macedonian urban centers, likely belonging to the periegetic or local antiquarian tradition. Its content addressed topography, ethnography, and the mythical foundations and etymologies of cities, such as linking Aeane's origin to the nymph Aea.
-
-The work survives exclusively through these verbatim quotations in Stephanus's encyclopedia and possesses no independent manuscript tradition. This fragmentary state is typical of many minor Hellenistic local histories that were excerpted by later compilers. While the author himself is obscure—his name is of Persian or Anatolian origin—his work was considered a credible source on Macedonian topography in late antiquity. Today, it is cited primarily in modern studies on the historical geography of ancient Macedonia, serving as an example of the layer of lost local histories that informed broader ancient scholarship.
 
 ## Text
 

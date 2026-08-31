@@ -5,6 +5,7 @@ author: Julian the Apostate
 eul_wid: sno-ao
 eul_aid: sno
 canonical: "https://eulogikon.org/works/julian-apostate-dubious-letters-sno-ao"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Julian the Apostate
 
 **eul_wid:** `sno-ao` · [HTML page](https://eulogikon.org/works/julian-apostate-dubious-letters-sno-ao)
-
-The Dubious Letters is the modern scholarly designation for a collection of six brief Greek epistles traditionally attributed to the Roman Emperor Julian, who reigned from 361 to 363 CE. Known posthumously as Julian the Apostate for his concerted effort to restore traditional Roman religious practices and philosophy at the expense of Christianity, Julian was an active author whose genuine correspondence is well-documented. These six letters, which present as personal and philosophical communications, engage with subjects central to Julian’s intellectual world, including Hellenic piety, Neoplatonic thought, literary criticism, and ethical conduct. Their stylistic imitation of Julian’s authentic voice is often convincing, touching upon historical and civic themes, as seen in one letter’s praise for the ancient city of Argos and its mythological heritage.
-
-Despite their coherent content, the authenticity of these letters is widely rejected. They are absent from the earliest and most authoritative manuscript traditions of Julian’s works, appearing only in later, expanded codices where they were presumably incorporated as genuine. The prevailing academic view holds that they are later compositions, likely dating from late antiquity or the Byzantine period. They may represent rhetorical exercises, deliberate forgeries, or pieces of pseudepigrapha that were absorbed into the Julianic corpus due to their adept emulation of the emperor’s known preoccupations and prose style. As such, their principal value lies not in illuminating Julian’s own reign or thought, but in the study of textual transmission, the practice of literary imitation in the post-classical world, and the enduring, often idealized, image of the last pagan emperor in subsequent centuries.
 
 ## Text
 

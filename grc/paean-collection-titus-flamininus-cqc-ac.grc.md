@@ -5,6 +5,7 @@ author: Paean Collection Anonymous
 eul_wid: cqc-ac
 eul_aid: cqc
 canonical: "https://eulogikon.org/works/paean-collection-titus-flamininus-cqc-ac"
+lang: grc
 period: Classical
 dialect: Doric (frg)
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Paean Collection Anonymous
 
 **eul_wid:** `cqc-ac` · [HTML page](https://eulogikon.org/works/paean-collection-titus-flamininus-cqc-ac)
-
-This work is a fragment of a Greek paean, a cult hymn composed in honor of the Roman general Titus Quinctius Flamininus. The anonymous text, written in a literary Doric dialect, survives as a single incomplete passage. It directly addresses Flamininus, celebrating his military victory and his proclamation of freedom for the Greek cities. The paean was almost certainly composed around 196 BCE, following Flamininus's declaration of Greek liberty after his defeat of Philip V of Macedon. Modern scholars view the hymn as a significant artifact of political and religious diplomacy. By employing the paean form, traditionally reserved for deities like Apollo, to praise a living Roman commander, the anonymous poet—likely from a liberated city-state—confers upon Flamininus a status approaching the divine. The fragment stands as a direct literary testament to the enthusiastic Greek reception of Roman power during this period. Preserved only within a larger anthology of paeans, its transmission relies entirely on such collections. As a historical document, it offers crucial evidence for how traditional Greek cultural and religious forms were adapted to engage with the new political reality of Roman hegemony in the Hellenistic world.
 
 ## Text
 

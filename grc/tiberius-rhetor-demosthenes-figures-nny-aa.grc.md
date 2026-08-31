@@ -5,6 +5,7 @@ author: Tiberius the Rhetorician
 eul_wid: nny-aa
 eul_aid: nny
 canonical: "https://eulogikon.org/works/tiberius-rhetor-demosthenes-figures-nny-aa"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Tiberius the Rhetorician
 
 **eul_wid:** `nny-aa` · [HTML page](https://eulogikon.org/works/tiberius-rhetor-demosthenes-figures-nny-aa)
-
-On Figures in Demosthenes is a rhetorical treatise by Tiberius the Rhetorician. It systematically analyzes and classifies forty-six figures of speech used by the Athenian orator Demosthenes, serving as a technical handbook for advanced rhetorical education. The work exemplifies the later antique and Byzantine pedagogical practice of dissecting canonical models for imitation. It catalogues and explicates specific rhetorical devices drawn from Demosthenes' orations, promoting the emulation of his style as a path to eloquence and thereby reinforcing his status as the supreme model of political oratory. The treatise survives through its inclusion in Byzantine manuscript collections compiled for educational purposes. As part of the influential tradition of rhetorical handbooks analyzing figures of speech, it helped shape rhetorical teaching for centuries, transmitting classical stylistic terminology and cementing the enduring reputation of Demosthenes.
 
 ## Text
 

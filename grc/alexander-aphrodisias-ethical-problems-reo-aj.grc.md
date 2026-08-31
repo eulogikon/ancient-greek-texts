@@ -5,6 +5,7 @@ author: Alexander of Aphrodisias
 eul_wid: reo-aj
 eul_aid: reo
 canonical: "https://eulogikon.org/works/alexander-aphrodisias-ethical-problems-reo-aj"
+lang: grc
 period: Roman
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alexander of Aphrodisias
 
 **eul_wid:** `reo-aj` · [HTML page](https://eulogikon.org/works/alexander-aphrodisias-ethical-problems-reo-aj)
-
-The Ethical Problems is a philosophical treatise composed in Greek by Alexander of Aphrodisias, the publicly appointed exponent of Aristotelian philosophy in Athens, around 200 CE. Structured within the ancient "problemata" genre, the work comprises 47 discrete passages, each presenting a specific ethical dilemma concerning virtue, emotion, responsibility, or the nature of the good life, followed by the author's systematic resolution grounded in Aristotelian doctrine. The treatise survives in its entirety through the medieval manuscript tradition. Rather than forming a continuous discourse, its series of focused inquiries serves to explore and clarify Peripatetic ethical theory, often in deliberate contrast to competing Stoic positions. Modern scholarship interprets the work as an integral component of Alexander's comprehensive project to defend and elucidate Aristotle's philosophy. It is considered a pedagogical text, likely intended for advanced students, that demonstrates the practical application of Aristotelian principles to concrete questions of moral psychology and human action during the Roman Imperial period.
 
 ## Text
 

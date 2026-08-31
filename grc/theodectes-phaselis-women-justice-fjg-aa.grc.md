@@ -5,6 +5,7 @@ author: Theodectes of Phaselis
 eul_wid: fjg-aa
 eul_aid: fjg
 canonical: "https://eulogikon.org/works/theodectes-phaselis-women-justice-fjg-aa"
+lang: grc
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Theodectes of Phaselis
 
 **eul_wid:** `fjg-aa` · [HTML page](https://eulogikon.org/works/theodectes-phaselis-women-justice-fjg-aa)
-
-The Fragments on Women and Justice is a modern compilation of fifty-nine surviving passages from the lost tragedies of Theodectes of Phaselis, a fourth-century BCE Greek dramatist and rhetorician. A pupil of both Plato and Isocrates, Theodectes enjoyed considerable renown in antiquity, though his works survive only in these excerpts, preserved by later authors such as Aristotle and the anthologist Stobaeus. The collection’s thematic title is an editorial construct, grouping fragments that prominently feature ethical quandaries, forensic argumentation, and the portrayal of women within mythological narratives. Written in Attic Greek verse, the fragments consist of dialogue and choral lyrics, indicating Theodectes’s skill in integrating sophisticated rhetorical debate into traditional tragic plots; some of his plays are known to have included invented trial scenes. These remnants are significant to scholars as evidence of the influence of contemporary philosophy and legal culture on fourth-century Athenian tragedy. Originally composed for performance at public theatrical festivals, Theodectes’s works were later studied primarily for their rhetorical artistry. Their survival is due entirely to indirect transmission, having been quoted over centuries for their sententious, argumentative, or linguistic merit long after the complete plays had vanished.
 
 ## Text
 

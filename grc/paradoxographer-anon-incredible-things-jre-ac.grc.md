@@ -5,6 +5,7 @@ author: Paradoxographer Anonymous
 eul_wid: jre-ac
 eul_aid: jre
 canonical: "https://eulogikon.org/works/paradoxographer-anon-incredible-things-jre-ac"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Paradoxographer Anonymous
 
 **eul_wid:** `jre-ac` · [HTML page](https://eulogikon.org/works/paradoxographer-anon-incredible-things-jre-ac)
-
-_On Incredible Things_ is an anonymous prose work of paradoxography, a genre dedicated to cataloging and explaining marvels, likely composed during the Hellenistic or early Imperial period. The text comprises 23 discrete entries, each presenting a brief account of a miraculous or seemingly supernatural tale, often drawn from mythology, followed by a rationalizing explanation that strips the story of its fantastical elements. A characteristic method is euhemerism, interpreting gods and heroes as deified historical figures. For instance, the work systematically demystifies legends such as Actaeon’s transformation, offering logical and mundane alternatives to the traditional narratives. Although historically and erroneously attributed to the earlier mythographer Palaephatus, its distinct style and content mark it as a separate product of the rationalizing tradition. The work survives complete through its transmission in medieval manuscripts, frequently copied alongside the genuine treatise of Palaephatus, which led to the long-standing misattribution. As a representative, if minor, example of a largely lost body of literature, _On Incredible Things_ exemplifies the Hellenistic intellectual inclination toward critically examining myth, catering to an educated audience’s taste for both wonder and scholarly critique. It remains a valuable source for understanding the rationalist currents in ancient mythography and the conventions of the paradoxographic genre.
 
 ## Text
 

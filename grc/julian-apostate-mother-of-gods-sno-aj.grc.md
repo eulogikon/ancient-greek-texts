@@ -5,6 +5,7 @@ author: Julian the Apostate
 eul_wid: sno-aj
 eul_aid: sno
 canonical: "https://eulogikon.org/works/julian-apostate-mother-of-gods-sno-aj"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Julian the Apostate
 
 **eul_wid:** `sno-aj` · [HTML page](https://eulogikon.org/works/julian-apostate-mother-of-gods-sno-aj)
-
-To the Mother of the Gods is a philosophical treatise composed in Attic Greek by the Roman emperor Julian, commonly known as Julian the Apostate. Written around 362–363 CE, the work is a detailed allegorical interpretation of the myth and cult associated with the Phrygian Mother Goddess Cybele and her consort Attis. Julian systematically reinterprets the narrative's elements, contending that its seemingly shocking episodes, including the self-castration of Attis, conceal profound metaphysical truths concerning the cosmos and the human soul. In his exegesis, the Goddess embodies the divine generative principle of the intelligible world, while Attis symbolizes the creative force that descends into the realm of matter. The act of castration is thus presented not as a literal event but as an allegory for the soul's necessary turn away from material attachment and its subsequent return to the divine intellect.
-
-The complete text, structured in 22 passages, survives through a robust medieval manuscript tradition. Julian authored this treatise as a central component of his brief but concerted campaign to restore traditional pagan religion and Hellenic philosophy as the guiding principles of the Roman Empire, in direct opposition to the rising dominance of Christianity. Modern scholarship regards the work as a sophisticated and polemical effort to endow pagan myth with a rigorous philosophical foundation capable of rivaling Christian theological discourse, aimed primarily at persuading the educated elite of its intellectual depth. It stands as a major document of late Neoplatonic thought and symbolic theology, representing a significant intellectual artifact from the final years of state-sponsored paganism in the Roman world.
 
 ## Text
 

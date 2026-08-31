@@ -5,6 +5,7 @@ author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-ch
 eul_aid: bww
 canonical: "https://eulogikon.org/works/hippocrates-epidemics-1-bww-ch"
+lang: grc
 period: Classical
 dialect: Ionic
 domain: Medicine

@@ -5,6 +5,7 @@ author: Aeschylus the Tragedian
 eul_wid: emo-af
 eul_aid: emo
 canonical: "https://eulogikon.org/works/aeschylus-eumenides-emo-af"
+lang: grc
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aeschylus the Tragedian
 
 **eul_wid:** `emo-af` · [HTML page](https://eulogikon.org/works/aeschylus-eumenides-emo-af)
-
-Eumenides is the concluding tragedy of Aeschylus’s Oresteia trilogy, first performed in Athens in 458 BCE. Written in Attic Greek verse, the complete drama resolves the trilogy’s narrative by placing Orestes on trial for the murder of his mother, Clytemnestra. Pursued by the relentless Furies, deities of vengeance, Orestes seeks sanctuary at the temple of Apollo in Delphi and is ultimately brought to Athens. There, the goddess Athena institutes the first jury court, the Areopagus, to adjudicate his case. The trial results in a tied vote, which Athena breaks in favor of Orestes’s acquittal. The play culminates not in further violence but in persuasion, as Athena successfully convinces the enraged Furies to accept a new role as honored and benevolent protectors of the Athenian city-state, thereafter worshipped under the propitiatory title of the Eumenides, or “Kindly Ones.” This transformation allegorizes a foundational shift within Greek thought from the archaic cycle of personal blood feud to a civic order grounded in formal legal procedure.
-
-The work is profoundly engaged with the contemporary political landscape of Athens. It was staged shortly after a series of democratic reforms enacted by Ephialtes had significantly reduced the powers of the historical Areopagus council. The play’s depiction of the court’s divine establishment by Athena has been interpreted by some scholars as a validation of these reforms, celebrating the ascendancy of collective, democratic judgment. Others, however, see a more conservative or nuanced meditation within the text, emphasizing the integration of ancient, chthonic forces into the new civic structure rather than their outright defeat. As such, Eumenides stands as a foundational exploration of the conflict between old and new religious and ethical orders, and the creation of a judicial system intended to supplant violence with reasoned justice, thereby ensuring lasting social harmony.
 
 ## Text
 

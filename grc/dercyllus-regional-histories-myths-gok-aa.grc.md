@@ -5,6 +5,7 @@ author: Dercyllus the Historian
 eul_wid: gok-aa
 eul_aid: gok
 canonical: "https://eulogikon.org/works/dercyllus-regional-histories-myths-gok-aa"
+lang: grc
 period: Classical
 dialect: Attic (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Dercyllus the Historian
 
 **eul_wid:** `gok-aa` · [HTML page](https://eulogikon.org/works/dercyllus-regional-histories-myths-gok-aa)
-
-The Apospasmata, attributed to Dercyllus, is a lost prose compilation known only through fragments preserved by later authors. Its title, meaning "Extracts" or "Selections," suggests a work composed of historical and mythological material. The surviving citations indicate its content was organized geographically, focusing on the regional histories, foundation myths, and legendary genealogies of various Greek communities. Specific fragments reference works titled Argolica, Boiotica, Aitolika, and Italika, alongside a section on city foundations, confirming this regional focus. The work is cited by geographers and antiquarians such as Strabo, who references Dercyllus on the foundation of Dardanus, and it is listed as a source in the Marmor Parium chronicle. Dercyllus represents the Hellenistic tradition of local history and mythography, and his primary significance lies in his role as a source for later compilers, illustrating the dependence of major surviving works on a now-lost corpus of antiquarian scholarship.
 
 ## Text
 

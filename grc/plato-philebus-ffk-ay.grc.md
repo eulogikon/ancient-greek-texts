@@ -5,6 +5,7 @@ author: Plato of Athens
 eul_wid: ffk-ay
 eul_aid: ffk
 canonical: "https://eulogikon.org/works/plato-philebus-ffk-ay"
+lang: grc
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plato of Athens
 
 **eul_wid:** `ffk-ay` · [HTML page](https://eulogikon.org/works/plato-philebus-ffk-ay)
-
-The Philebus is a late philosophical dialogue by Plato that investigates the fundamental question of the good life. It stages a formal debate between the titular character Philebus, who champions pleasure as the supreme human good, and Socrates, who advocates for knowledge and intellect. The dialogue ultimately argues that neither pleasure nor knowledge alone constitutes human flourishing, but rather a carefully ordered mixture of both, governed by the principles of measure and proportion. To support this ethical conclusion, the dialogue develops a sophisticated metaphysical framework, classifying all of reality into four fundamental categories: the Unlimited, representing indefinite continua like hotter and colder; the Limit, which imposes definite measures and ratios upon them; the Mixture, which is the harmonious product of Limit acting upon the Unlimited; and the Cause, identified as divine reason or intellect, which is responsible for creating these good mixtures.
-
-A substantial portion of the work is dedicated to a detailed and critical analysis of pleasure. Socrates classifies pleasures into various types, distinguishing between pure pleasures, such as the enjoyment of beautiful shapes or sounds, and impure or restorative pleasures, like quenching thirst, which are bound to a prior lack. One of the dialogue’s most innovative arguments is that pleasures can be false, not merely in being bad, but in being based on mistaken anticipations or false beliefs. This psychological analysis aims to demonstrate the inherent instability and cognitive dependence of pleasure, thereby undermining its claim to be the sovereign good. In contrast, reason, knowledge, and memory are presented as having intrinsic value and a closer kinship to the stable, measured order of reality that constitutes goodness. The dialogue concludes that while pleasure is a legitimate component of the good life, it is reason and wisdom that must serve as the guiding and causative principle in any successful mixture, with the good itself characterized by beauty, symmetry, and truth.
-
-The Philebus survives complete within the medieval manuscript tradition of Plato’s corpus, and its text is generally well-preserved. As a mature synthesis of Plato’s ethical and metaphysical thought, the dialogue had a profound influence on later philosophy. Its fourfold metaphysical schema was adopted and adapted by Neoplatonists, its nuanced critique of hedonism was engaged by Aristotle, and its integration of ethics with a theory of cosmic order attracted significant commentary from Renaissance thinkers onward. It remains a central text for understanding the development of Plato’s late philosophy.
 
 ## Text
 

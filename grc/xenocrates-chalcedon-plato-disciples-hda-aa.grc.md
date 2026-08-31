@@ -5,6 +5,7 @@ author: Xenocrates of Chalcedon
 eul_wid: hda-aa
 eul_aid: hda
 canonical: "https://eulogikon.org/works/xenocrates-chalcedon-plato-disciples-hda-aa"
+lang: grc
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Xenocrates of Chalcedon
 
 **eul_wid:** `hda-aa` · [HTML page](https://eulogikon.org/works/xenocrates-chalcedon-plato-disciples-hda-aa)
-
-The Fragments on Plato's Disciples is a reconstructed work attributed to Xenocrates of Chalcedon, a direct student of Plato and later head of the Academy. Written in Attic Greek in the late fourth or early third century BCE, the original treatise does not survive intact. Its content is known only through indirect transmission, primarily via quotations preserved in Diogenes Laertius's Lives and Opinions of Eminent Philosophers from the third century CE. Modern scholarship has assembled 161 such passages to reconstruct the work, which stands as an early and influential example of philosophical biography and doxography.
-
-The text systematically documents the members of the early Platonic school, cataloging their lives, doctrines, and the succession of leadership within the Academy. It is believed to have been composed to define the institution's intellectual lineage and orthodoxy following Plato's death, serving simultaneously as an official institutional history and a means of asserting legitimate philosophical succession. The fragments provide valuable, though filtered, insight into the personalities and intellectual landscape of the early Academy, including notable figures such as Speusippus, Aristotle, and Heraclides Ponticus. As a crucial early attempt to write the history of a philosophical school, the work significantly shaped the later biographical and doxographical tradition in ancient philosophy.
 
 ## Text
 

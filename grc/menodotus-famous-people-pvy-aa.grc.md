@@ -5,6 +5,7 @@ author: Menodotus the Historian
 eul_wid: pvy-aa
 eul_aid: pvy
 canonical: "https://eulogikon.org/works/menodotus-famous-people-pvy-aa"
+lang: grc
 period: Roman
 dialect: Koine (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Menodotus the Historian
 
 **eul_wid:** `pvy-aa` · [HTML page](https://eulogikon.org/works/menodotus-famous-people-pvy-aa)
-
-_On the Famous People of Samos_, also known by the alternative title _Excerpts_, is a fragmentary work of local history by the Hellenistic author Menodotus of Samos. The text, which is now lost, survives only through quotations preserved by later compilers, most notably the biographer Diogenes Laërtius and the geographer Strabo. It functioned as a compendium of biographical and anecdotal information, celebrating the cultural heritage of the island by documenting its notable inhabitants. The work covered a range of distinguished Samians, including early philosophers such as Pherecydes of Syros, poets like Asius of Samos, and various early rulers and prominent public figures. Its transmission through fragments in these later authorities provided subsequent tradition with valuable, otherwise lost details concerning Samian intellectual and political history. The alternative title _Excerpts_ likely reflects either the work's own compiled nature from earlier sources or, more probably, its fragmentary state as encountered by later excerptors. As a key source for later antiquarians, Menodotus's compilation stands as a representative example of the methods and interests of Hellenistic local historiography.
 
 ## Text
 

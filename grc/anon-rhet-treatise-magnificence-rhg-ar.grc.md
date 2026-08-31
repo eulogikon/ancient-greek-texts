@@ -5,6 +5,7 @@ author: Rhetorical Treatise Anonymous
 eul_wid: rhg-ar
 eul_aid: rhg
 canonical: "https://eulogikon.org/works/anon-rhet-treatise-magnificence-rhg-ar"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Rhetorical Treatise Anonymous
 
 **eul_wid:** `rhg-ar` · [HTML page](https://eulogikon.org/works/anon-rhet-treatise-magnificence-rhg-ar)
-
-_On Magnificence_ is an anonymous Greek rhetorical treatise composed as a formal oration. It examines the classical virtue of megaloprepeia, or magnificence, which pertains to the appropriate and large-scale expenditure of private wealth for public benefit, a concept previously analyzed in the ethical works of Aristotle. The text advises the orator on cultivating a dignified and impressive character through speech. It suggests that in prologues, a plain and seemingly artless style can project fairness, while in narrative sections, imitating the manner of a modest young man—for instance, by downplaying one's own strength relative to the scale of an injustice—can make one's ethical character appear nobler and more magnificent, particularly before a jury.
-
-The treatise thus engages with core themes associated with the virtue in Greek thought, including the ethical definition of magnificent spending as distinct from vulgar display or miserliness, the relationship between private wealth and public service in building civic reputation, and the importance of appropriateness, scale, and taste in such virtuous actions. Suitable objects for this expenditure traditionally included public buildings, religious offerings, and civic festivals. The work survives only in a fragmentary state, preserved as five distinct passages, which suggests it may be a short treatise or excerpts incorporated into a larger manuscript collection. While the direct influence of this particular anonymous text cannot be traced, its central concept of magnificence remained a significant element in Greco-Roman and later European discourses on ethics, civic duty, and the responsible use of wealth.
 
 ## Text
 

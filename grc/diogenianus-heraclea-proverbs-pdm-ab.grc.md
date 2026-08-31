@@ -5,6 +5,7 @@ author: Diogenianus of Heraclea Pontica
 eul_wid: pdm-ab
 eul_aid: pdm
 canonical: "https://eulogikon.org/works/diogenianus-heraclea-proverbs-pdm-ab"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Diogenianus of Heraclea Pontica
 
 **eul_wid:** `pdm-ab` · [HTML page](https://eulogikon.org/works/diogenianus-heraclea-proverbs-pdm-ab)
-
-The Proverbs of Diogenianus is a second-century CE paremiographical treatise compiled by the grammarian Diogenianus of Heraclea Pontica. Written in Koine Greek, the work systematically collected and explained 491 popular sayings in common use, thereby preserving a significant corpus of everyday wisdom, folk culture, and idiomatic expression from the Greek-speaking world of the Roman Imperial Period. Its typical format presents a proverb followed by a concise explanation of its meaning or origin. The original five-book treatise is lost, surviving only in part through later transmission. The text known today is primarily a condensed epitome preserved within the Byzantine Corpus Paroemiographorum Graecorum. Diogenianus's work was also extensively quoted by the tenth-century Byzantine encyclopedia, the Suda. Modern scholarship interprets the compilation as a product of the Second Sophistic, a period characterized by a revival of classical Greek learning. It was likely intended for students and scholars, serving both pedagogical aims and the codification of a shared cultural heritage. The collection became a foundational source for later proverb compilers, most notably Zenobius, and remains a critical resource for understanding ancient Greek popular thought and linguistic usage.
 
 ## Text
 

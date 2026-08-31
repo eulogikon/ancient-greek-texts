@@ -5,6 +5,7 @@ author: Homer and Hesiod Contets Anonymous
 eul_wid: qay-ab
 eul_aid: qay
 canonical: "https://eulogikon.org/works/homer-hesiod-contest-anon-contest-qay-ab"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Fiction
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Homer and Hesiod Contets Anonymous
 
 **eul_wid:** `qay-ab` · [HTML page](https://eulogikon.org/works/homer-hesiod-contest-anon-contest-qay-ab)
-
-The Contest of Homer and Hesiod is a short Greek prose narrative dating from the 4th century BCE. Though sometimes attributed to the rhetorician Alcidamas, its authorship remains uncertain. The work dramatizes a legendary poetic duel between the two foundational epic poets, set during funeral games in Chalcis. In the narrative, King Panedes judges a competition where Hesiod recites a verse and Homer must instantly respond with a fitting line. Despite Homer's evident skill and superior improvisation, the king awards victory to Hesiod, declaring that poetry celebrating peace and agriculture is of greater civic utility than poetry about war. The text is structured as a prose narrative interspersed with quoted hexameter verses, some genuine excerpts from the poets' known works and others likely invented for the contest. Modern scholarship interprets it as a rhetorical exercise from the sophistic educational tradition, designed to showcase improvisational wit and engage in contemporary debates regarding the social purpose of poetry. It is considered an abridged version of a longer original. Surviving as part of the ancient biographical tradition surrounding Homer, the text was preserved in medieval manuscripts and proved highly influential in shaping later antiquity's beliefs about the poets' lives and the comparative value of their work.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Damianus of Larissa
 eul_wid: vju-aa
 eul_aid: vju
 canonical: "https://eulogikon.org/works/damianus-larissa-optics-vju-aa"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Mathematics
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Damianus of Larissa
 
 **eul_wid:** `vju-aa` · [HTML page](https://eulogikon.org/works/damianus-larissa-optics-vju-aa)
-
-The Optics is a concise Greek treatise on vision and light attributed to Damianus of Larissa, a figure traditionally dated to the late second or third century CE. Structured as a series of propositions, it provides a systematic, mathematical analysis within the geometrical optics tradition established by Euclid and Ptolemy. The work focuses on foundational principles rather than practical application, beginning with the assertion that vision occurs through a projection of light from the observer to the object. It affirms the rectilinear propagation of this visual ray and describes its path within a conical shape. Key propositions explore why objects seen under a larger angle appear larger, examine the geometry of reflection from plane mirrors, and apply mathematical principles to explain sensory phenomena. The complete text survives in Greek manuscripts, often compiled with other ancient optical works, indicating it served as an introductory or summary text in the late antique curriculum. While less influential than the major works of Euclid or Ptolemy, Damianus’s treatise is a key witness to the continuity of mathematical optics in later antiquity. It illustrates the state of optical knowledge between Ptolemy and the medieval era and was likely known to later Byzantine and Arabic scholars.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Parthenius of Nicaea the Elegist
 eul_wid: oec-ab
 eul_aid: oec
 canonical: "https://eulogikon.org/works/parthenius-nicaea-remains-poetry-oec-ab"
+lang: grc
 period: Roman
 dialect: Literary Koine
 domain: Fiction
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Parthenius of Nicaea the Elegist
 
 **eul_wid:** `oec-ab` · [HTML page](https://eulogikon.org/works/parthenius-nicaea-remains-poetry-oec-ab)
-
-The Remains of Poetry, also known as the Erotika Pathemata or Sufferings in Love, is a prose compilation of forty-five tragic love stories from Greek mythology, composed in the first century BCE by the Greek poet and scholar Parthenius of Nicaea. The work presents a series of concise summaries, each citing now-lost poets and historians as sources, and focuses on themes of erotic suffering through tales of unrequited passion, betrayal, transformation, and violence. While the complete text of the stories survives, the prefatory letter is fragmentary. This letter reveals that the compilation was explicitly created as a sourcebook for the Roman poet Gaius Cornelius Gallus, providing him with mythological plots to adapt into Latin poetry. Modern scholars regard the work as a key example of cultural exchange, illustrating how Hellenistic mythographic scholarship was packaged for Roman literary use during a period of intense Greco-Roman interaction. Although its direct influence on Gallus remains uncertain due to the loss of his poetry, the compilation stands as an invaluable resource for understanding Hellenistic literary tastes and the transmission of mythological narratives.
 
 ## Text
 

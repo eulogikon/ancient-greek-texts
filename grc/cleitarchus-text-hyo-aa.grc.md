@@ -5,6 +5,7 @@ author: Cleitarchus the Historian
 eul_wid: hyo-aa
 eul_aid: hyo
 canonical: "https://eulogikon.org/works/cleitarchus-text-hyo-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Cleitarchus the Historian
 
 **eul_wid:** `hyo-aa` · [HTML page](https://eulogikon.org/works/cleitarchus-text-hyo-aa)
-
-The Sentences is a collection of 143 prose maxims attributed to Cleitarchus the Historian. It survives within the manuscript tradition as an example of ancient Greek gnomic literature, a genre dedicated to concise, instructive sayings on wisdom and conduct. While the author is identified as Cleitarchus, a name associated with the historian of Alexander the Great, this attribution for the specific compiler of the Sentences remains unconfirmed by extant sources. The work’s themes are characteristic of the genre, encompassing reflections on wisdom and folly, virtue and vice, the nature of the divine and human fate, and practical advice on personal conduct, friendship, and governance. Preserved in manuscript form and included in modern collections of minor Greek texts, the Sentences exemplifies a widespread literary form employed for both educational and philosophical purposes in antiquity. Its uncertain link to a known historical figure underscores the genre’s broad appeal across different fields of literary activity.
 
 ## Text
 

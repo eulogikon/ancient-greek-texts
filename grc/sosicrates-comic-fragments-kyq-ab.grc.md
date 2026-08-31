@@ -1,10 +1,11 @@
 ---
 title: Comic Fragments on Human Folly
 title_greek: Ἀποσπάσματα περὶ Ἀνθρωπίνης Μωρίας
-author: "Sosicrates the Comic Poet "
+author: Sosicrates the Comic Poet
 eul_wid: kyq-ab
 eul_aid: kyq
 canonical: "https://eulogikon.org/works/sosicrates-comic-fragments-kyq-ab"
+lang: grc
 period: Hellenistic
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀποσπάσματα περὶ Ἀνθρωπίνης Μωρίας*
 
-**Author:** Sosicrates the Comic Poet 
+**Author:** Sosicrates the Comic Poet
 
 **eul_wid:** `kyq-ab` · [HTML page](https://eulogikon.org/works/sosicrates-comic-fragments-kyq-ab)
-
-The Comic Fragments on Human Folly is a modern descriptive title for a collection of eleven fragmentary passages attributed to the comic poet Sosicrates. These excerpts are not preserved as a continuous text but survive as quotations within the works of later authors, such as the grammarians Athenaeus and Stobaeus, who cited them for their illustrative or proverbial value. The fragments likely originated from one or more of Sosicrates’s lost comedies. Their content collectively addresses themes of human foolishness and vanity, offering critiques of irrational behavior and pretension. The verses also engage in social satire, mocking common Athenian character types and social practices, and reflect the Middle Comedy tendency toward mythological parody, burlesquing traditional figures and stories. As a poet of Middle Comedy, Sosicrates worked during a transitional period between the politically charged Old Comedy and the more socially focused New Comedy. Though the brevity and lack of original dramatic context make reconstructing the plots of his plays largely speculative, his surviving work illustrates the genre’s shift toward the critique of universal social types, a development that would be fully realized by later playwrights like Menander. The fragments are cataloged in modern scholarly editions such as Poetae Comici Graeci.
 
 ## Text
 

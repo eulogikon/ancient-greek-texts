@@ -5,6 +5,7 @@ author: Galen of Pergamon
 eul_wid: qmm-ds
 eul_aid: qmm
 canonical: "https://eulogikon.org/works/galen-pergamon-barley-drink-qmm-ds"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Galen of Pergamon
 
 **eul_wid:** `qmm-ds` · [HTML page](https://eulogikon.org/works/galen-pergamon-barley-drink-qmm-ds)
-
-On Barley Drink is a concise medical treatise by the Roman-era physician Galen of Pergamon, composed in Greek during the late second century CE. The work provides a comprehensive examination of ptisanē, a barley-water gruel that served as a fundamental dietary item for convalescents. Galen opens by criticizing contemporary doctors for employing the remedy without proper understanding of its indications, preparation, or dosage. He positions his treatise as a corrective, aiming to clarify Hippocratic teachings on the subject for the benefit of practitioners. The text systematically details the selection of the best barley, the methods for cleaning, roasting, and boiling it, and the resulting drink’s properties and physiological effects. It meticulously outlines the appropriate quantity, timing, and manner of administration for different patients, analyzing for which bodily conditions and illnesses the gruel is beneficial or potentially harmful if misapplied.
-
-The treatise is a characteristic example of Galen’s scholarly and practical approach, integrating commentary on earlier authorities like Hippocrates and Diocles of Carystus with his own theories regarding the qualitative dynamics of foods—their heating, cooling, moistening, or drying capacities. Written for an audience of fellow physicians and students, it functions as a technical manual intended to standardize a common but clinically vital procedure. The work underscores the centrality of dietetics in Galenic therapeutics and offers insight into the daily practice of a court physician, for whom dietary management was a primary tool. Preserved within the larger Galenic corpus through medieval Greek manuscripts, this precise guide helped codify dietary practice, influencing subsequent medical traditions in the Byzantine and Islamic worlds for centuries.
 
 ## Text
 

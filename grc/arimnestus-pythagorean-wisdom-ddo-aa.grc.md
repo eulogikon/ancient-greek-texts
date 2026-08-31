@@ -5,6 +5,7 @@ author: Arimnestus the Philosopher
 eul_wid: ddo-aa
 eul_aid: ddo
 canonical: "https://eulogikon.org/works/arimnestus-pythagorean-wisdom-ddo-aa"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Arimnestus the Philosopher
 
 **eul_wid:** `ddo-aa` · [HTML page](https://eulogikon.org/works/arimnestus-pythagorean-wisdom-ddo-aa)
-
-Fragments on Pythagorean Wisdom is a philosophical treatise attributed to Arimnestus the Philosopher, a figure known only from a single fragment preserved by the Neoplatonic writer Iamblichus in his work On the Pythagorean Life. The modern title is descriptive, as the original work is lost. Iamblichus cites Arimnestus to illustrate Pythagorean educational methods, quoting that Pythagoras praised the study of Homer and Hesiod only after students had undergone a purification. This suggests Arimnestus recorded traditions concerning a structured, two-stage pedagogical process that required ethical preparation before engaging with canonical poets. The work survives solely as one quotation embedded in Iamblichus's text, with no independent manuscript tradition. Its significance is entirely mediated through Iamblichus, who used it to support his late antique synthesis of Pythagoreanism as a wisdom tradition that sanctified classical poetry. The fragment provides a brief but specific insight into later biographical traditions about Pythagorean teaching practices.
 
 ## Text
 

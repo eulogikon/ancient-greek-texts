@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-df
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-cato-younger-okg-df"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-df` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-cato-younger-okg-df)
-
-Plutarch’s Life of Cato the Younger is a biography from his Parallel Lives, composed in Greek during the early second century CE. It traces the career of the Roman senator Cato the Younger, a staunch defender of the traditional Republic and an adherent of Stoic philosophy, from his orphaned childhood to his famous suicide at Utica in 46 BCE. Plutarch constructs his narrative to illuminate Cato’s unwavering character, emphasizing his austere integrity, his rhetorical and political battles against corruption, and his ultimate, principled stand against the ascendancy of Julius Caesar. The account interweaves historical events with illustrative anecdotes, portraying Cato as a paragon of republican virtue and philosophical consistency.
-
-The biography has been preserved in full through medieval manuscript traditions and has exerted a profound influence on Western political thought. Modern scholarship views Plutarch’s portrait not merely as a historical record but as a moral essay for his imperial Roman audience, exploring the tensions between liberty and autocracy and the philosophical ideal of a noble death. Written under the stable rule of the Roman Empire, the life allowed Plutarch to examine the virtues and perils of political dissent from a safe historical distance. Its powerful depiction cemented Cato’s posthumous reputation as the archetypal republican martyr, a figure of enduring inspiration for political theorists and revolutionaries from the Renaissance through to the founders of the American republic.
 
 ## Text
 

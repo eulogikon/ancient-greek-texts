@@ -5,6 +5,7 @@ author: Gorgias of Leontini
 eul_wid: eme-aa
 eul_aid: eme
 canonical: "https://eulogikon.org/works/gorgias-leontini-testimonies-2-eme-aa"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Gorgias of Leontini
 
 **eul_wid:** `eme-aa` · [HTML page](https://eulogikon.org/works/gorgias-leontini-testimonies-2-eme-aa)
-
-Testimonies 2 is a collection of thirty-nine rhetorical passages attributed to the Sicilian orator and teacher Gorgias of Leontini, a prominent figure of the fifth century BCE. As a work of forensic oratory, it was designed for legal contexts, functioning as a practical handbook of model arguments, witness statements, and common patterns of proof for students and litigants. The collection exemplifies the sophistic movement’s focus on teaching persuasive speech as a powerful and practical skill essential for success in the Athenian law courts and public life. While the exact content of the work is not detailed in surviving sources, it is characteristic of Gorgias’s influential artistic style, which employed deliberate techniques such as balanced clauses, antithesis, and rhythmic patterns—collectively known as Gorgianic figures—to maximize persuasive impact. Scholars interpret this collection as part of the broader sophistic project to systematize and teach rhetoric as a technical discipline, highlighting the central role of persuasive speech in classical Athenian democracy. The transmission of Gorgias’s works is fragmentary, known primarily through quotations in later authors and rhetorical compilations. Testimonies 2 itself likely survived through later Hellenistic or Roman rhetorical anthologies. Despite its partial preservation, the work represents the practical core of Gorgias’s legacy, which profoundly shaped the development of Greek artistic prose and the formalization of rhetorical education.
 
 ## Text
 

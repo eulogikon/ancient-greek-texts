@@ -5,6 +5,7 @@ author: Demosthenes of Athens
 eul_wid: fsm-ce
 eul_aid: fsm
 canonical: "https://eulogikon.org/works/demosthenes-athens-callippus-fsm-ce"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Demosthenes of Athens
 
 **eul_wid:** `fsm-ce` · [HTML page](https://eulogikon.org/works/demosthenes-athens-callippus-fsm-ce)
-
-To Callippus is a private forensic oration composed by the Athenian orator Demosthenes around 366–365 BCE. The speech was written for a client, Apollodorus, for delivery in a lawsuit against a man named Callippus. The dispute centers on a maritime loan originally issued by Apollodorus’s father, Pasion, a prominent banker. The core legal question is whether Callippus acted as a personal guarantor for the repayment of this loan or was merely entrusted with safeguarding the cargo that served as its security. The complete speech, comprising twenty-eight sections, systematically presents Apollodorus’s case. It constructs a detailed narrative of the financial agreement, incorporates witness testimony, and makes direct appeals to the jury’s sense of equity and their duty to judge the facts impartially, irrespective of the rhetorical skill of the opposing litigant.
-
-The oration offers a valuable glimpse into the practical workings of Athenian commerce and private law. Internal references suggest it was composed shortly after the Social War. The case illuminates the intricate legal and financial mechanisms surrounding maritime loans, inheritance, and contractual obligations in classical Athens. Modern scholarship prizes the speech not for political content but as a meticulous record of an everyday economic dispute. It serves as an important source for understanding Athenian banking practices, the nature of credit and surety, and the professional craft of logography, or speechwriting for litigants. The text survives in full within the Demosthenic corpus, transmitted through medieval manuscripts. While the authenticity of some private speeches attributed to Demosthenes has been debated, To Callippus is generally accepted as a genuine work of the orator.
 
 ## Text
 

@@ -1,10 +1,11 @@
 ---
 title: Metrical
 title_greek: Μετρικά
-author: "Hero of Alexandria "
+author: Hero of Alexandria
 eul_wid: odi-an
 eul_aid: odi
 canonical: "https://eulogikon.org/works/hero-alexandria-metrical-odi-an"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μετρικά*
 
-**Author:** Hero of Alexandria 
+**Author:** Hero of Alexandria
 
 **eul_wid:** `odi-an` · [HTML page](https://eulogikon.org/works/hero-alexandria-metrical-odi-an)
-
-The Metrical is a practical Greek mathematical treatise authored by Hero of Alexandria around 60 CE. Functioning as a comprehensive handbook for surveyors, architects, and engineers, it systematically details methods for calculating the areas and volumes of geometric figures across 95 sections. The work covers the measurement of plane shapes, including polygons and circles, and proceeds to solids such as pyramids and spheres. Its most enduring contribution is the detailed presentation of the calculation now known as Heron's formula, which determines the area of a triangle from the lengths of its three sides. The text survives primarily through Greek manuscripts, notably a 13th-century Byzantine copy, and was later translated into Arabic, facilitating the transmission of its methods into medieval Islamic and European mathematical traditions. Regarded as a crucial compilation of Hellenistic geometric knowledge adapted for Roman-era applications, the Metrical exemplifies the distillation of theoretical principles into standardized formulas for practical use in construction and land measurement.
 
 ## Text
 

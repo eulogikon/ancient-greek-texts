@@ -5,6 +5,7 @@ author: Dio Cassius of Nicaea
 eul_wid: rhq-am
 eul_aid: rhq
 canonical: "https://eulogikon.org/works/dio-cassius-nicaea-planudean-excerpts-rhq-am"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: History
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Dio Cassius of Nicaea
 
 **eul_wid:** `rhq-am` · [HTML page](https://eulogikon.org/works/dio-cassius-nicaea-planudean-excerpts-rhq-am)
-
-The Planudean Excerpts are a collection of six fragments preserved from the Roman History of Cassius Dio, a comprehensive eighty-book history of Rome written in Greek during the early third century CE. The original work, composed by the Roman senator and historian, narrated events from the city's legendary foundation through to 229 CE. These specific passages were compiled over a millennium later by the Byzantine scholar and monk Maximus Planudes, who included them in an anthology of classical texts. They do not form a continuous narrative but are isolated selections, such as anecdotes about the emperor Gaius Caligula's incestuous relationship with his sister or the renowned generosity of the emperor Titus. The excerpts are a product of the Byzantine tradition of excerpting and anthologizing, which served as a crucial mechanism for preserving portions of classical works that might otherwise have been lost.
-
-Cassius Dio wrote from the privileged position of a senator and consul under the Severan emperors, and his history is valued as a sophisticated political analysis of the Roman state. His narrative emphasizes constitutional evolution, the dynamics of power between the emperor and the Senate, and the role of individual character and fortune in shaping events. The transmission of Dio’s monumental history is fragmentary; while a significant portion covering the late Republic and early Empire survives nearly intact, much of the remainder is known only through epitomes and excerpts like those of Planudes. These Planudean fragments, though brief, contribute to the patchwork of evidence that allows modern historians to reconstruct Dio’s original work. They remain an important part of the corpus of one of the most significant historical sources for the study of the late Roman Republic and the Principate.
 
 ## Text
 

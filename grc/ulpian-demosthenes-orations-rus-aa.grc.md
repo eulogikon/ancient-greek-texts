@@ -5,6 +5,7 @@ author: Ulpian the Grammarian
 eul_wid: rus-aa
 eul_aid: rus
 canonical: "https://eulogikon.org/works/ulpian-demosthenes-orations-rus-aa"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Ulpian the Grammarian
 
 **eul_wid:** `rus-aa` · [HTML page](https://eulogikon.org/works/ulpian-demosthenes-orations-rus-aa)
-
-The Introduction to Demosthenes' Olynthiac and Philippic Orations is a scholarly treatise by Ulpian of Emesa, a grammarian and rhetorician of the 3rd century CE. This work is a formal prolegomenon, composed as a systematic guide for students and teachers of rhetoric engaged in the study of Demosthenes' political speeches against Philip II of Macedon. It addresses the standard questions of ancient literary scholarship, providing essential background on the orator's life, the historical circumstances of the speeches, their authenticity, and their chronological order across thirteen distinct passages. Ulpian's analysis is notably comparative, drawing explicit parallels between the structural and stylistic techniques of Demosthenes and those found in the deliberative speeches within Thucydides' history. He observes similarities in their handling of major arguments, their use of antithesis, their concise and forceful expression, and their strategic adaptation of rhetorical commonplaces. The treatise functioned as a concise handbook within the advanced rhetorical curriculum of the Roman Empire, where mastery of classical Attic orators like Demosthenes was a cornerstone of elite education and cultural refinement. Modern scholarship situates the work within the broader Atticist movement, which promoted the study and emulation of classical Athenian models as the definitive standard for eloquence. The complete text survives through its transmission in medieval manuscripts alongside the speeches of Demosthenes and other ancient commentaries, a testament to the continuous pedagogical use of these orations throughout the Byzantine period and into the modern era.
 
 ## Text
 

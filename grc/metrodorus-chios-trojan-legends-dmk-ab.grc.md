@@ -5,6 +5,7 @@ author: Metrodorus of Chios
 eul_wid: dmk-ab
 eul_aid: dmk
 canonical: "https://eulogikon.org/works/metrodorus-chios-trojan-legends-dmk-ab"
+lang: grc
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Metrodorus of Chios
 
 **eul_wid:** `dmk-ab` · [HTML page](https://eulogikon.org/works/metrodorus-chios-trojan-legends-dmk-ab)
-
-The Fragments on Trojan Legends is a lost philosophical work by the 4th-century BCE thinker Metrodorus of Chios. Composed in Ionic Greek, it presented a collection of radical allegorical interpretations of Homeric epic, specifically the narratives surrounding the Trojan War. A follower of the atomist Democritus, Metrodorus systematically decoded the gods and heroes of the Iliad as symbols for physical elements and cosmic principles. In this scheme, figures such as Agamemnon represented the aether, Achilles the sun, and Helen the earth, transforming the epic into a concealed treatise on Presocratic natural philosophy. The work was likely intended for philosophical audiences engaged in reconciling traditional myth with emerging scientific theories of nature. It survives only in a handful of brief quotations preserved by later authors like Athenaeus and Plutarch, who recorded its ideas while discussing allegorical methods. These fragments indicate that the original text was not a continuous narrative but a series of philosophical explications, now entirely lost and reconstructed solely from secondary citations. Modern scholarship regards it as an early and extreme example of the allegorical reading of poetry, aimed at demonstrating that Homer's myths encoded a sophisticated physics.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Heraclides Criticus
 eul_wid: jvu-aa
 eul_aid: jvu
 canonical: "https://eulogikon.org/works/heraclides-criticus-description-greece-jvu-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: Geography
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Heraclides Criticus
 
 **eul_wid:** `jvu-aa` · [HTML page](https://eulogikon.org/works/heraclides-criticus-description-greece-jvu-aa)
-
-The Description of Greece is a Hellenistic-era travelogue composed in Attic Greek prose by Heraclides Criticus, an obscure author of the 3rd century BCE. The work survives only in fragments, transmitted through quotations by later authors such as the geographer Strabo and the lexicographer Athenaeus. Structured as a first-person narrative, it traces a journey from the border of Attica through Athens and across the Peloponnese to Sparta. Eschewing the mythological digressions common to later periegetic literature, the account concentrates on practical and ethnographic observation. The extant passages offer descriptions of landscapes, urban topography, local customs, and economic conditions, frequently including the author's subjective critiques of the character of the various Greek peoples he encounters. This pragmatic focus, interpreted by modern scholars as reflective of Hellenistic-era interests, suggests the work was intended for a practical audience of travelers, merchants, or officials. Approximately thirty-nine fragments have been collected by modern editors, providing a valuable, though incomplete, snapshot of contemporary Greek life. The original scope and full content of the work remain uncertain.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Zosimus of Panopolis
 eul_wid: tyc-ae
 eul_aid: tyc
 canonical: "https://eulogikon.org/works/zosimus-panopolis-divine-water-mercury-tyc-ae"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Zosimus of Panopolis
 
 **eul_wid:** `tyc-ae` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-divine-water-mercury-tyc-ae)
-
-On the Evaporation of the Divine Water that Coagulates Mercury is an alchemical treatise by Zosimus of Panopolis, a foundational figure in the oldest surviving corpus of Greek alchemical writings. The work provides detailed practical instructions for laboratory processes aimed at treating mercury, with a central focus on the distillation and application of a mysterious agent termed "divine water." This substance was used to coagulate or fix the volatile metal, a crucial procedural step in the alchemical pursuit of transmutation. The treatise frames this technical operation within a theurgical context, imbuing the material process with spiritual significance through the concept of a divine or animating agency. The "divine water" itself represents the esoteric and secretive transformative agents common to alchemical literature.
-
-The text survives primarily through Byzantine Greek manuscripts, notably the Marcianus graecus 299 from the 10th or 11th century and the Parisinus graecus 2327 from the 13th century. The transmission of Zosimus's work extended beyond the Greek tradition through translations into Syriac and later Arabic. These translations formed a critical bridge, conveying Hellenistic alchemical theory and practice to the Islamic world, where they influenced major figures such as Jābir ibn Ḥayyān and al-Rāzī. Consequently, this treatise played an instrumental role in the preservation and evolution of alchemical knowledge from late antiquity into the medieval period.
 
 ## Text
 

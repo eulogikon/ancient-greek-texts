@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-cl
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-consolation-wife-okg-cl"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-cl` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-consolation-wife-okg-cl)
-
-Plutarch’s Consolation to His Wife is a personal letter of philosophical comfort addressed to his wife, Timoxena, following the death of their young daughter. Composed in Greek around 100 CE, it stands as a refined example of ancient consolatory literature, skillfully merging intimate familial sentiment with structured ethical guidance. The work opens with Plutarch acknowledging the news of their child’s passing and commending his wife for her characteristically moderate and rational response, which he contrasts sharply with the excessive and superstitious mourning customs prevalent in contemporary society. He proceeds to offer a series of reasoned arguments to soothe her grief, drawing principally upon Platonic and Stoic doctrines. Central to his consolation is the idea that the child’s soul has been liberated from the troubles of mortal life, and he advises focusing on the joy of the time they shared rather than the pain of loss. The letter consistently advocates for emotional self-regulation, rejects ritualistic displays of sorrow, and underscores the importance of mutual support within the family unit.
-
-Transmitted through medieval manuscripts as part of Plutarch’s extensive ethical writings known as the Moralia, the complete text has survived intact. Modern scholarship regards the letter as a multifaceted document: it is likely a genuine private communication reflecting a domestic tragedy, yet it is also composed with such literary and philosophical artistry that it clearly functions as a published model for applying rational principles to personal adversity. Intended for a broader educated readership, the work demonstrates how philosophical tenets could be employed to navigate human suffering. It remains an essential source for understanding Greco-Roman attitudes toward grief, familial bonds, and the practical application of philosophy during the Roman Imperial period.
 
 ## Text
 

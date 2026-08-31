@@ -5,6 +5,7 @@ author: Appian of Alexandria
 eul_wid: pdc-ag
 eul_aid: pdc
 canonical: "https://eulogikon.org/works/appian-alexandria-nomadic-pdc-ag"
+lang: grc
 period: Roman
 dialect: Koine
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Appian of Alexandria
 
 **eul_wid:** `pdc-ag` · [HTML page](https://eulogikon.org/works/appian-alexandria-nomadic-pdc-ag)
-
-From the Nomadic is a lost book from the Roman History of Appian of Alexandria, a Greek historian of the mid-2nd century CE. Appian’s work was structured ethnographically, chronicling Rome’s rise to empire through a series of narratives focused on the various peoples and regions it subdued. This particular book was devoted to Rome’s military and diplomatic engagements with nomadic tribes, with a primary emphasis on North Africa. The original text does not survive intact; its content is known only through nine fragmentary passages preserved in Byzantine excerpt collections from the 10th century. These fragments, which include historical anecdotes and accounts of embassies, offer valuable insights into Roman frontier policy and military strategy against non-sedentary peoples, likely covering events from the Republican era such as the conflicts with Jugurtha. The work exemplifies Appian’s central historiographical purpose: to elucidate for a Greek-speaking readership the methodical process by which Rome constructed its dominion through the sequential conquest of individual nations.
 
 ## Text
 

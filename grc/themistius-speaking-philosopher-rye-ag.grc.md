@@ -5,6 +5,7 @@ author: Themistius the Philosopher
 eul_wid: rye-ag
 eul_aid: rye
 canonical: "https://eulogikon.org/works/themistius-speaking-philosopher-rye-ag"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Themistius the Philosopher
 
 **eul_wid:** `rye-ag` · [HTML page](https://eulogikon.org/works/themistius-speaking-philosopher-rye-ag)
-
-The oration On Speaking or How the Philosopher Should Speak is a fourth-century CE work by the philosopher and statesman Themistius. It is a protreptic speech defending the philosopher’s use of eloquent public rhetoric as essential for guiding the state and benefiting society, directly countering contemporary claims that philosophers should remain silent or speak only in plain terms. The work systematically argues that eloquence is not only compatible with but necessary to the practice of true philosophy. Its central themes include the philosopher’s public duty to engage actively in political life and to counsel rulers, the integral role of persuasive speech in making philosophical wisdom effective in the civic sphere, and a pointed rebuttal of accusations that rhetorical skill is inherently sophistic or deceptive. Composed during a period of increasing Christianization within the Roman Empire, the oration also functions as a defense of Themistius’s own prominent role as a pagan philosopher-courtier in the imperial administration. The work contributes significantly to the enduring classical debate concerning the relationship between philosophy and rhetoric. It survives among Themistius’s extant orations, preserved through Byzantine channels likely due to their enduring rhetorical and historical value, as evidenced by their mention in the tenth-century encyclopedia Suda. His writings, including this defense of philosophical eloquence, later exerted influence on Byzantine, Syriac, and Arabic traditions of Aristotelian scholarship.
 
 ## Text
 

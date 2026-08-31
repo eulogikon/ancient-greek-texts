@@ -5,6 +5,7 @@ author: Xenophon of Athens
 eul_wid: ezq-ag
 eul_aid: ezq
 canonical: "https://eulogikon.org/works/xenophon-athens-cyropaedia-ezq-ag"
+lang: grc
 period: Classical
 dialect: Attic
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Xenophon of Athens
 
 **eul_wid:** `ezq-ag` · [HTML page](https://eulogikon.org/works/xenophon-athens-cyropaedia-ezq-ag)
-
-The Cyropaedia, also known as The Education of Cyrus, is an eight-book prose work by the Athenian historian Xenophon, composed around the 370s BCE. It is a didactic biography that blends historical elements with political fiction to present an idealized portrait of Cyrus the Great, the founder of the Persian Achaemenid Empire. The narrative traces Cyrus’s upbringing, his military conquests, and his methods of governance, using his life as a framework to explore the principles of ideal leadership, military strategy, and statecraft. Xenophon concludes the work with an epilogue detailing the rapid decline of the Persian Empire following Cyrus’s death, contrasting his virtuous rule with the failings of his successors. The complete text has survived intact through medieval manuscript traditions. Modern scholarship generally interprets the Cyropaedia as an early example of a “mirror for princes,” composed for a Greek audience reflecting on political instability in the aftermath of the Peloponnesian War. Through the Persian model, Xenophon offers a critique of contemporary Greek politics and proposes virtues such as justice, self-discipline, and effective administration as the essential foundations for successful and stable rule.
 
 ## Text
 

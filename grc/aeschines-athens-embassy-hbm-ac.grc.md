@@ -5,6 +5,7 @@ author: Aeschines of Athens
 eul_wid: hbm-ac
 eul_aid: hbm
 canonical: "https://eulogikon.org/works/aeschines-athens-embassy-hbm-ac"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aeschines of Athens
 
 **eul_wid:** `hbm-ac` · [HTML page](https://eulogikon.org/works/aeschines-athens-embassy-hbm-ac)
-
-On the Embassy is a forensic oration delivered by the Athenian statesman Aeschines in 343 BCE as his defense against a prosecution initiated by his political rival Demosthenes. The charge, of misconduct and accepting bribes while serving on an embassy to Philip II of Macedon in 346 BCE, carried the potential penalty of disenfranchisement or death. In this meticulously constructed speech, Aeschines offers a detailed, narrative refutation of the allegations, systematically recounting the events surrounding the peace negotiations that led to the Peace of Philocrates. He portrays himself as a prudent patriot acting in Athens's best interests and argues vigorously for his own integrity and the legality of his conduct throughout the diplomatic mission. The complete speech, preserved in 148 sections within medieval manuscripts, stands as the direct counterpart to Demosthenes' own prosecutorial address from the same trial.
-
-Beyond its function as a personal apologia, the oration is an indispensable primary source for a pivotal political crisis in late Classical Athens. It captures the profound and often venomous debate between the city's pro-Macedonian and anti-Macedonian factions regarding the proper response to Philip II's expanding power. Modern scholarship consequently regards the text not merely as a legal defense but as a central document in the intense propaganda war that defined Athenian foreign policy in the mid-fourth century. Its survival alongside the attack mounted by Demosthenes provides a rare and invaluable opportunity to examine both sides of a celebrated ancient legal and political confrontation, illuminating the rhetorical strategies, factual disputes, and deep ideological divisions of the era.
 
 ## Text
 

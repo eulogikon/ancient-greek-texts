@@ -5,6 +5,7 @@ author: Lucian of Samosata
 eul_wid: pfk-ax
 eul_aid: pfk
 canonical: "https://eulogikon.org/works/lucian-samosata-scythian-envoy-pfk-ax"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lucian of Samosata
 
 **eul_wid:** `pfk-ax` · [HTML page](https://eulogikon.org/works/lucian-samosata-scythian-envoy-pfk-ax)
-
-Scythian or the Envoy is a rhetorical declamation by the second-century satirist Lucian of Samosata. Written in Attic Greek, it presents the fictional oration of a Scythian named Toxaris petitioning the Athenian assembly for the honor of proxenia, a formal status of public friendship and hospitality previously granted to the legendary Scythian sage Anacharsis. Toxaris argues that he too is worthy of this distinction based on his own merits and his connection to that celebrated figure. The complete work, structured in twelve sections, belongs to the literary movement known as the Second Sophistic, which revived classical Greek forms under Roman imperial rule. Through the persona of a "noble barbarian," Lucian engages with complex themes of Greek identity, cultural integration, and the conventions of diplomatic rhetoric. The text is preserved within the extensive manuscript tradition of Lucian's collected works.
 
 ## Text
 

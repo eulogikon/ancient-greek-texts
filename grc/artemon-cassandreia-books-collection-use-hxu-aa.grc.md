@@ -5,6 +5,7 @@ author: Artemon of Cassandreia
 eul_wid: hxu-aa
 eul_aid: hxu
 canonical: "https://eulogikon.org/works/artemon-cassandreia-books-collection-use-hxu-aa"
+lang: grc
 period: Hellenistic
 dialect: Technical Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Artemon of Cassandreia
 
 **eul_wid:** `hxu-aa` · [HTML page](https://eulogikon.org/works/artemon-cassandreia-books-collection-use-hxu-aa)
-
-The grammatical treatise On the Collection and Use of Books by Artemon of Cassandreia is known only from later citations, primarily by the second-century grammarian Apollonius Dyscolus and the third-century scholar Athenaeus of Naucratis. The title indicates the work concerned the practice of compiling excerpts from texts and their subsequent application in scholarly work. Based on these references, the treatise likely addressed methodologies for excerpting and compiling passages, principles for the scholarly use of these extracts, and aspects of grammatical or textual criticism, consistent with the author's profession. No direct quotations from the work survive, and it is transmitted solely as a title and subject of reference within the works of later authors. Its citation by such foundational figures indicates that Artemon's work was regarded as an authoritative source within Hellenistic grammatical scholarship and was considered relevant to broader literary and antiquarian research.
 
 ## Text
 

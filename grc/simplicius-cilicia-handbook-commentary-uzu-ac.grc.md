@@ -5,6 +5,7 @@ author: Simplicius of Cilicia
 eul_wid: uzu-ac
 eul_aid: uzu
 canonical: "https://eulogikon.org/works/simplicius-cilicia-handbook-commentary-uzu-ac"
+lang: grc
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Simplicius of Cilicia
 
 **eul_wid:** `uzu-ac` · [HTML page](https://eulogikon.org/works/simplicius-cilicia-handbook-commentary-uzu-ac)
-
-Simplicius of Cilicia’s Commentary on Epictetus' Handbook is a sixth-century CE philosophical treatise providing a detailed, line-by-line exegesis of the Enchiridion, the concise practical manual of Stoic ethics compiled from the teachings of Epictetus. Structured as 248 distinct lemmata, each presenting a passage from Epictetus followed by extensive commentary, the work systematically reinterprets the Stoic text through a Neoplatonic lens. Composed during a period of decline for traditional pagan philosophy, likely after the author's exile from Athens, the commentary serves a dual purpose. It functions as an accessible introductory ethical guide for students embarking on a Neoplatonic curriculum, while simultaneously undertaking a project of philosophical harmonization. Simplicius seeks to demonstrate that the practical wisdom and psychological discipline of Stoicism are not only compatible with but can be grounded in the higher metaphysical frameworks of Platonism and Aristotelianism. A central example is his reinterpretation of Epictetus’s core doctrine to concern only "what is up to us," which Simplicius explains using Neoplatonic theories concerning gradations of reality and the nature of the true self. The complete text of the commentary survives via medieval manuscript transmission and was instrumental in preserving and disseminating Epictetus’s thought throughout the Byzantine era and into the Renaissance. Modern scholarship values the work as a prime exemplar of how late antique philosophers adapted and repurposed classical texts to meet new educational needs and spiritual contexts.
 
 ## Text
 

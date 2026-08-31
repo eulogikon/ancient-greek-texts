@@ -5,6 +5,7 @@ author: Epicurus the Philosopher
 eul_wid: hui-ad
 eul_aid: hui
 canonical: "https://eulogikon.org/works/epicurus-letter-menoeceus-hui-ad"
+lang: grc
 period: Hellenistic
 dialect: Attic Philosophical
 domain: Philosophy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Epicurus the Philosopher
 
 **eul_wid:** `hui-ad` · [HTML page](https://eulogikon.org/works/epicurus-letter-menoeceus-hui-ad)
-
-The Letter to Menoeceus is a philosophical epistle written by Epicurus around 300 BCE. Addressed to a young disciple, it functions as a succinct and practical manual for attaining happiness through Epicurean principles. The letter opens by asserting that the pursuit of philosophy is essential for both the young and the old, as it is never too early or too late to secure the health of the soul. It then systematically outlines core doctrines, beginning with theology. Epicurus instructs Menoeceus to conceive of the divine as an immortal and blissful being, in accordance with the common conception of a god, and to ascribe to it nothing incompatible with this blessed incorruptibility. The gods, dwelling in perfect tranquility, are entirely unconcerned with human affairs and thus pose no threat.
-
-The letter’s most famous argument addresses the fear of death, contending that death is nothing to us. Since good and evil reside in sensation and death is the complete absence of sensation, it cannot be an evil. To fear a state in which one does not exist is therefore irrational. The ultimate goal of life is identified as pleasure, but this is defined not as sensual indulgence but as the absence of physical pain and, more importantly, mental disturbance. True pleasure is achieved through a life of prudence, honor, and justice, with prudence being the greatest virtue and the source of all others. It guides the rational selection and rejection of desires, fostering self-sufficiency and freeing the individual from vain pursuits. The wise person will reflect on what brings happiness, for with it, all is possessed, and without it, all action aims to acquire it.
-
-Preserved within the biography of Epicurus written by Diogenes Laertius in the 3rd century CE, the letter survives intact while the majority of Epicurus’s prolific output is lost. Its direct, therapeutic advice, structured in modern editions into thematic passages, was designed to liberate the reader from irrational fears and provide a clear path to tranquility. This pragmatic quality made it a foundational text for later Roman Epicureans and has secured its enduring significance in the history of ethical philosophy.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Pseudo-Galen
 eul_wid: tqu-ad
 eul_aid: tqu
 canonical: "https://eulogikon.org/works/pseudo-galen-prognostics-lying-down-tqu-ad"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Pseudo-Galen
 
 **eul_wid:** `tqu-ad` · [HTML page](https://eulogikon.org/works/pseudo-galen-prognostics-lying-down-tqu-ad)
-
-Prognostics-Lying Down from Mathematical Science is an anonymous Greek medical treatise focused on the practice of prognosis. Its title places it within the tradition of iatromathematics, a branch of ancient and medieval medicine where the term mathematikos refers specifically to astrology, thereby linking medical forecasting directly to the study of celestial influences. The work is structured as a collection of 45 discrete passages, a format typical of late antique or Byzantine technical manuals. Its content is defined by this genre, concentrating on core themes of medical prognosis and diagnosis, the influence of celestial bodies on health and disease, the calculation of astrologically determined critical days in the course of an illness, and the application of astrological principles to biological processes.
-
-The treatise is absent from major modern scholarly references for ancient medicine, indicating it is likely a lesser-known Byzantine compilation or a work preserved primarily within manuscript traditions. The survival of its defined structure of 45 passages suggests it maintained a consistent form in its transmitted sources, though the precise state of the text—whether fully extant or fragmentary—remains unrecorded. While the treatise’s direct historical influence is undocumented, it serves as a clear exemplar of the influential iatromathematical tradition. This conceptual framework, which systematically integrated astrology with medical theory, was widely transmitted from late antiquity through subsequent Arabic and medieval Latin scholarship, profoundly shaping medical thought for centuries.
 
 ## Text
 

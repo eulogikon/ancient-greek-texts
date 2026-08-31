@@ -5,6 +5,7 @@ author: Alchemist I
 eul_wid: rrg-ah
 eul_aid: rrg
 canonical: "https://eulogikon.org/works/alchemist-i-dyed-wool-komaros-rrg-ah"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alchemist I
 
 **eul_wid:** `rrg-ah` · [HTML page](https://eulogikon.org/works/alchemist-i-dyed-wool-komaros-rrg-ah)
-
-On the Weight of Dyed Wool, Komaros, and Dye-waters is a concise, technical treatise on alchemical dyeing, composed in Koine Greek. The work is anonymous, though it was traditionally ascribed to the philosopher Democritus to enhance its credibility, a conventional attribution strategy in ancient technical literature; modern scholarship consequently designates the author as Pseudo-Democritus. Likely dating from between the 1st and 3rd centuries CE, the text survives not as an independent document but as two brief excerpts incorporated into the larger alchemical compilation known as the Physika kai Mystika. The content is rigorously practical, offering specific instructions on the requisite weights and proportional relationships between dyed wool, a substance termed komaros (which remains unidentified), and the dye-baths or mordanting solutions. This focus on precise measurement typifies the early Greco-Egyptian alchemical tradition, which fused empirical craft knowledge from Egyptian workshops with Greek theoretical frameworks. The treatise appears designed for direct application in a workshop setting, possibly pertaining to the valuable craft of purple dyeing or analogous metallurgical processes where color transformation was paramount. Its preservation relies entirely on later Byzantine manuscripts that assembled ancient alchemical lore. As a component of the influential Pseudo-Democritus corpus, this work exemplifies the recipe-based, practical origins of alchemy, where techniques for dyeing textiles also provided a metaphorical language for the transmutation of metals.
 
 ## Text
 

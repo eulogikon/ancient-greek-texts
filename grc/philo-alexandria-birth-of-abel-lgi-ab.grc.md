@@ -5,6 +5,7 @@ author: Philo of Alexandria
 eul_wid: lgi-ab
 eul_aid: lgi
 canonical: "https://eulogikon.org/works/philo-alexandria-birth-of-abel-lgi-ab"
+lang: grc
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philo of Alexandria
 
 **eul_wid:** `lgi-ab` · [HTML page](https://eulogikon.org/works/philo-alexandria-birth-of-abel-lgi-ab)
-
-The Surviving Works of Philo of Alexandria constitute the extant Greek corpus of Philo Judaeus, a Jewish philosopher of the early first century CE. This extensive collection comprises numerous treatises that provide philosophical and allegorical commentary on the Hebrew Bible, with a particular focus on the Pentateuch. The works are traditionally categorized into several groups: systematic expositions of biblical law and history, detailed allegorical interpretations of the Book of Genesis, and historical narratives concerning contemporary events, including tensions between the Jewish community and Roman authorities. The corpus survives primarily through medieval Greek manuscripts copied by Christian scribes, though some treatises are incomplete. A significant portion of his exegetical work, Questions and Answers on Genesis and Exodus, is preserved almost wholly in an ancient Armenian translation, with only fragments remaining in the original Greek. Modern scholarship interprets Philo’s project as a sophisticated synthesis, aiming to demonstrate that the truths of Greek philosophy, especially Platonism, were embedded within Jewish scripture. His writings were likely intended for an audience of Hellenized Jews and possibly educated Gentiles, serving to articulate the profound wisdom of the Mosaic tradition.
 
 ## Text
 

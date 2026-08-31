@@ -5,6 +5,7 @@ author: Lysias the Orator
 eul_wid: ejc-ac
 eul_aid: ejc
 canonical: "https://eulogikon.org/works/lysias-against-epicrates-envoys-ejc-ac"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lysias the Orator
 
 **eul_wid:** `ejc-ac` · [HTML page](https://eulogikon.org/works/lysias-against-epicrates-envoys-ejc-ac)
-
-"Against Epicrates and Co-Envoys, Epilogue As Theodorus" is a forensic oration composed by the Athenian logographer Lysias around 390 BCE. Written in Attic Greek for delivery by a client named Theodorus, the speech constitutes a prosecution in a graphē paranomōn, a public lawsuit alleging the illegality of a decree. The defendants were the ambassadors Epicrates and his colleagues, who were charged with having illegally proposed a decree to award themselves golden crowns in recognition of their diplomatic services. The surviving text, fragmentary and known through fifteen passages preserved by later ancient sources, vigorously attacks the defendants for their arrogance and for corrupting democratic procedure by seeking personal honors contrary to law. The speech argues that such self-praise and the manipulation of public rewards for private gain represent a fundamental threat to the city's legal and political order. Modern scholarship situates the case within the context of political tensions in Athens following the Peloponnesian War, as the restored democracy sought to reassert the primacy of its legal institutions. The case is also connected to Athenian diplomatic activities during the concurrent Corinthian War. Unlike the majority of Lysias's speeches, this work was not transmitted in full through the medieval manuscript tradition. Its fragments survive solely in the citations of later grammarians and lexicographers, most notably Harpocration in the second century CE, who referenced it for its distinctive use of legal and rhetorical vocabulary.
 
 ## Text
 

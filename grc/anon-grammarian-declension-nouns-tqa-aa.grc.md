@@ -5,6 +5,7 @@ author: Greek Grammarian Anonymous
 eul_wid: tqa-aa
 eul_aid: tqa
 canonical: "https://eulogikon.org/works/anon-grammarian-declension-nouns-tqa-aa"
+lang: grc
 period: Late Antique
 dialect: Koine (frg)
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Greek Grammarian Anonymous
 
 **eul_wid:** `tqa-aa` · [HTML page](https://eulogikon.org/works/anon-grammarian-declension-nouns-tqa-aa)
-
-On the Declension of Nouns is an anonymous Greek grammatical treatise that systematically addresses the rules and patterns of noun inflection in the ancient Greek language. The extant text, though brief and fragmentary, is structured around three core passages and provides a descriptive analysis of linguistic forms, aligning with the scholarly traditions of ancient grammatical study. It details the declensional paradigms, noting specific examples and discussing anomalies, such as the forms of proper names like Draco and the behavior of similar nouns that do not always follow identical patterns. The work is preserved digitally by the Perseus Digital Library, though its specific manuscript tradition and relationship to other grammatical texts remain unclear. As part of the substantial corpus of technical, pedagogical literature from the Greco-Roman world, its continued copying and preservation attest to its utility and its established place within the standard grammatical curriculum, despite the absence of a known author to clarify its precise historical context or reception.
 
 ## Text
 

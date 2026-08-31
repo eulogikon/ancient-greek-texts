@@ -5,6 +5,7 @@ author: Euripides
 eul_wid: cbm-ac
 eul_aid: cbm
 canonical: "https://eulogikon.org/works/euripides-iphigenia-tauris-cbm-ac"
+lang: grc
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Euripides
 
 **eul_wid:** `cbm-ac` · [HTML page](https://eulogikon.org/works/euripides-iphigenia-tauris-cbm-ac)
-
-_Iphigenia in Tauris_ is a tragedy by Euripides, composed in Attic Greek around 414–412 BCE. The drama reimagines the fate of Iphigenia, daughter of Agamemnon. According to this version, the goddess Artemis spared her from sacrifice at Aulis and transported her to become her priestess in the remote barbarian land of Tauris. Her solemn duty there is to preside over the ritual execution of any Greek strangers who arrive. The plot is set in motion by the arrival of her brother Orestes and his companion Pylades, who have been commanded by Apollo to steal the sacred cult statue of Artemis from the Taurian temple. After Orestes is captured for the sacrifice, an extended and suspenseful recognition scene reveals the siblings to one another. They subsequently devise an intricate escape plan, which is ultimately secured by the divine intervention of Athena. The goddess appears ex machina to ensure their safe passage back to Greece and to ordain the foundation of a new cult in Attica.
-
-The play is a complete and structurally well-preserved text of 1,397 lines. Written during the fraught final years of the Peloponnesian War, its setting at the geographical and cultural margins of the Greek world reflects contemporary Athenian fascination with foreign peoples. Modern scholarship often characterizes the work as a romantic tragedy, blending traditional tragic tension with elements of adventure and a fortunate resolution. The drama systematically contrasts Greek and barbarian customs, probes themes of familial loyalty and divine justice, and interrogates the morality of mythical traditions involving human sacrifice. Its sophisticated plot mechanism of recognition was later commended by Aristotle for its exemplary construction.
 
 ## Text
 

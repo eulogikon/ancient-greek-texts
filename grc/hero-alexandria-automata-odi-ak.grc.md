@@ -1,10 +1,11 @@
 ---
 title: On Automata
 title_greek: Περὶ Αὐτοματοποιητικῶν
-author: "Hero of Alexandria "
+author: Hero of Alexandria
 eul_wid: odi-ak
 eul_aid: odi
 canonical: "https://eulogikon.org/works/hero-alexandria-automata-odi-ak"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -16,13 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Περὶ Αὐτοματοποιητικῶν*
 
-**Author:** Hero of Alexandria 
+**Author:** Hero of Alexandria
 
 **eul_wid:** `odi-ak` · [HTML page](https://eulogikon.org/works/hero-alexandria-automata-odi-ak)
-
-On Automata is a two-book technical treatise on mechanical engineering written in Koine Greek by Hero of Alexandria, a scientist and inventor active in the 1st century CE. The work provides detailed instructions for constructing two distinct types of self-operating devices. The first book describes a mobile, automated puppet theater designed for public festivals. This device, driven by a descending weight, would roll forward, stop, perform a short mythological drama with moving figures, and then depart. The second book outlines a more complex, stationary automaton intended for temples. This apparatus featured doors that opened automatically, animated figures enacting a scene, and mechanisms for lighting fires, all powered by intricate systems utilizing sand, heat, and siphons.
-
-The text survives in an incomplete state through 153 passages transmitted by a single Byzantine manuscript dating from the 11th or 12th century. This manuscript lacks the beginning of the first book and the conclusion of the second. Modern scholarship interprets the treatise as a prime example of the application of advanced Hellenistic mechanical knowledge—encompassing gears, levers, and pneumatics—to create public spectacle and religious wonder. The mobile theater served a purpose of popular entertainment, while the stationary temple device was engineered to inspire awe and a sense of divine presence through seemingly miraculous automation. The work is considered to have been written for an audience of fellow engineers and skilled craftsmen capable of executing its sophisticated designs.
 
 ## Text
 

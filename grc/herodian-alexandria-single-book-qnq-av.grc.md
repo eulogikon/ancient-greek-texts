@@ -5,6 +5,7 @@ author: Herodian of Alexandria
 eul_wid: qnq-av
 eul_aid: qnq
 canonical: "https://eulogikon.org/works/herodian-alexandria-single-book-qnq-av"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Herodian of Alexandria
 
 **eul_wid:** `qnq-av` · [HTML page](https://eulogikon.org/works/herodian-alexandria-single-book-qnq-av)
-
-The Monóbiblon peri toû hýdōr, or Single Book on Water, is a lost grammatical treatise by the second-century CE Alexandrian scholar Herodian. Composed in Attic Greek and structured as an oration, this specialized work provided a meticulous linguistic analysis of the Greek noun for water, hýdōr. Herodian, a prominent grammarian in Rome under Emperor Marcus Aurelius, likely examined the word's declension, accentuation, and etymology, reflecting the sophisticated Atticist scholarship of the Roman imperial period. The treatise does not survive directly; knowledge of it derives from fragmentary citations in later grammatical commentaries, such as those by Choeroboscus. These references indicate the work addressed specific inflectional questions, including the formation of dative plurals and the declension patterns of certain neuter nouns. Intended for advanced students and scholars, Herodian's detailed rules on accent and morphology were preserved and transmitted through Byzantine grammatical textbooks, exerting a lasting influence on the study of Greek grammar.
 
 ## Text
 

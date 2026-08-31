@@ -1,10 +1,11 @@
 ---
 title: Testimonies and Fragments
 title_greek: Μαρτυρίαι καὶ Ἀποσπάσματα
-author: "Pythagorist Philosophers "
+author: Pythagorist Philosophers
 eul_wid: mwg-aa
 eul_aid: mwg
 canonical: "https://eulogikon.org/works/pythagorists-testimonies-fragments-mwg-aa"
+lang: grc
 period: Hellenistic
 dialect: Doric
 domain: Philosophy
@@ -16,13 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μαρτυρίαι καὶ Ἀποσπάσματα*
 
-**Author:** Pythagorist Philosophers 
+**Author:** Pythagorist Philosophers
 
 **eul_wid:** `mwg-aa` · [HTML page](https://eulogikon.org/works/pythagorists-testimonies-fragments-mwg-aa)
-
-Testimonies and Fragments is a collection of seventy-eight passages attributed to or concerning philosophers associated with Pythagoreanism. The title indicates its dual content, comprising both ancient reports about these thinkers, known as testimonia, and surviving quotations from their lost works, designated as fragments. It includes material from significant figures such as Philolaus of Croton and Archytas of Tarentum, representing a modern or late antique scholarly compilation aimed at reconstructing early Pythagorean doctrines. The collection addresses core Pythagorean themes, including metempsychosis and the immortality of the soul, the concept of number as the fundamental principle of cosmic reality, cosmological theories such as the harmony of the spheres, ethical rules and prescribed ways of life, and contributions to mathematics and geometry.
-
-The fragments of early Pythagoreans survive indirectly through the works of later authors like Plato, Aristotle, and doxographers such as Diogenes Laërtius and Stobaeus. This specific collection is a curated compilation drawn from such sources, though its precise manuscript tradition and editor remain unidentified. While the influence of this particular compilation is not documented, the Pythagorean doctrines it preserves were profoundly influential. They directly shaped Platonic philosophy and, through it, the wider Western intellectual tradition. Pythagorean ideas concerning number and harmony also left a lasting legacy on the development of mathematics, astronomy, and musical theory.
 
 ## Text
 

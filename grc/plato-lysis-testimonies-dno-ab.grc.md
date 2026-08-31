@@ -5,6 +5,7 @@ author: Plato Lysis
 eul_wid: dno-ab
 eul_aid: dno
 canonical: "https://eulogikon.org/works/plato-lysis-testimonies-dno-ab"
+lang: grc
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plato Lysis
 
 **eul_wid:** `dno-ab` · [HTML page](https://eulogikon.org/works/plato-lysis-testimonies-dno-ab)
-
-The Testimonies is a modern scholarly compilation of five ancient passages that reference Plato’s dialogue Lysis. These collected testimonia are not part of the original Platonic text but consist of quotations, references, and discussions of the Lysis found in later authors. They assemble external evidence concerning the dialogue’s reception and interpretation in antiquity. As a collection of external references, its content pertains entirely to the thematic concerns of Plato’s work, including the nature of friendship and love, the relationship between friendship, utility, and goodness, the concept of the "first friend," and the philosophical method of definition and refutation. The testimonia are extracted from the broader manuscript tradition of Plato’s works and from later ancient sources, such as Neoplatonist commentaries and doxographical writings. The collection itself is a modern editorial construct designed to present these scattered references in a unified format. It serves as a curated resource for studying the ancient reception of Plato’s Lysis, a central text in the philosophical analysis of friendship whose arguments significantly influenced Aristotle and later ethical thought.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Timotheus Pseudo-Historian
 eul_wid: fxw-aa
 eul_aid: fxw
 canonical: "https://eulogikon.org/works/timotheus-pseudo-argolic-river-lore-fxw-aa"
+lang: grc
 period: Classical
 dialect: Mixed Dialects (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Timotheus Pseudo-Historian
 
 **eul_wid:** `fxw-aa` · [HTML page](https://eulogikon.org/works/timotheus-pseudo-argolic-river-lore-fxw-aa)
-
-The Argolic and River Lore Fragments is a pseudepigraphical prose work attributed to an otherwise unknown author designated as Timotheus Pseudo-Historian. It survives only in excerpted passages preserved by later compilers, as indicated by its title. The extant fragments, quoted by authors such as Plutarch, concern the geography and associated legends of specific locales. One passage describes a peculiar stone found in the Inachus River in the Argolid, noted for changing color and housed in a sanctuary of Hera, while another recounts the mythological origins and a dramatic familial conflict associated with the Hebros River in Thrace. Such content typifies the Hellenistic and Roman antiquarian interest in local history, topography, and etiological myth. Although the work's direct influence is untraceable, collections of this nature often served as source material for later travel writers and geographers, potentially contributing to the corpus of regional knowledge utilized by authors like Pausanias.
 
 ## Text
 

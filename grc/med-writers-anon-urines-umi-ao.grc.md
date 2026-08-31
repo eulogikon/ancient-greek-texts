@@ -5,6 +5,7 @@ author: Medical Writers Anonymous
 eul_wid: umi-ao
 eul_aid: umi
 canonical: "https://eulogikon.org/works/med-writers-anon-urines-umi-ao"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Medical Writers Anonymous
 
 **eul_wid:** `umi-ao` · [HTML page](https://eulogikon.org/works/med-writers-anon-urines-umi-ao)
-
-The Commentary on Urines is an anonymous Greek medical treatise on uroscopy, the diagnostic practice of visually inspecting a patient’s urine. It belongs to a well-established genre of Byzantine medical commentaries that systematized this central diagnostic technique. Such texts elaborated on the characteristics of urine to identify diseases and humoral imbalances. The work’s ten passages address core uroscopic themes, including the diagnostic and prognostic value of urine as an indicator of health and the systematic classification of urine by visual properties such as color, consistency, and sediment. While the specific manuscript history of this particular commentary is not detailed, it forms part of a broad tradition in which anonymous technical medical texts were copied and recopied. Works on uroscopy were transmitted through Byzantine manuscripts and later translated into Latin and Arabic, influencing medieval medicine across multiple cultures. Uroscopic commentaries like this one standardized a diagnostic method that became a hallmark of the physician’s art for centuries. Such anonymous texts were instrumental in disseminating the pedagogical and practical knowledge established by key figures such as Theophilus Protospatharius, ensuring the practice’s endurance from late antiquity through the Renaissance.
 
 ## Text
 

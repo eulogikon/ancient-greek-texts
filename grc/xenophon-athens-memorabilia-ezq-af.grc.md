@@ -5,6 +5,7 @@ author: Xenophon of Athens
 eul_wid: ezq-af
 eul_aid: ezq
 canonical: "https://eulogikon.org/works/xenophon-athens-memorabilia-ezq-af"
+lang: grc
 period: Classical
 dialect: Attic
 domain: History
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Xenophon of Athens
 
 **eul_wid:** `ezq-af` · [HTML page](https://eulogikon.org/works/xenophon-athens-memorabilia-ezq-af)
-
-Xenophon's Memorabilia is a prose work composed in Attic Greek around the 370s BCE, serving as a philosophical and biographical defense of his mentor, Socrates. The text is structured as a series of recollections and dialogues, systematically refuting the official charges of impiety and corrupting the youth that led to Socrates’s execution in 399 BCE. Xenophon counters the accusation of impiety by portraying Socrates as scrupulously observant of public religious rites and guided by a personal divine sign. Against the charge of corrupting the young, he presents Socrates as a model of self-discipline and a moral guide who consistently urged his companions toward virtue, justice, and self-improvement.
-
-Writing from the perspective of a devoted follower, Xenophon assembles anecdotes and conversations that illustrate Socrates’s practical wisdom and his method of dialectical inquiry applied to everyday ethical and political concerns. The work emphasizes Socrates’s role as a beneficial social figure who discussed the nature of piety, justice, courage, and self-control, aiming to improve his associates. It stands as a crucial complement to the portrait of Socrates in Plato’s dialogues, offering a more pragmatic and less metaphysically oriented interpretation of his teachings. The Memorabilia has survived intact through medieval manuscripts and remains a primary source for understanding the historical Socrates and the intellectual climate of late-fifth-century Athens.
 
 ## Text
 

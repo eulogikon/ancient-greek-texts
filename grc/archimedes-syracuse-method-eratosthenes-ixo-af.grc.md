@@ -5,6 +5,7 @@ author: Archimedes of Syracuse
 eul_wid: ixo-af
 eul_aid: ixo
 canonical: "https://eulogikon.org/works/archimedes-syracuse-method-eratosthenes-ixo-af"
+lang: grc
 period: Hellenistic
 dialect: Doric
 domain: Mathematics
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Archimedes of Syracuse
 
 **eul_wid:** `ixo-af` · [HTML page](https://eulogikon.org/works/archimedes-syracuse-method-eratosthenes-ixo-af)
-
-The Method to Eratosthenes is a mathematical treatise by Archimedes of Syracuse, composed around 250–240 BCE and addressed to the Alexandrian scholar Eratosthenes. Structured as a letter containing 46 propositions, the work reveals Archimedes’s private heuristic process for discovering geometric theorems. He demonstrates the application of mechanical concepts, such as the law of the lever and the balancing of infinitesimal sections of geometric figures, to investigate problems of area and volume. These include determining the volume of a sphere and the area of a parabolic segment. Archimedes explicitly states that these mechanical arguments serve only as a method of discovery, with rigorous geometric proofs being supplied separately in his other treatises.
-
-The text exemplifies the intellectual exchange within the Hellenistic scholarly network, particularly between Syracuse and Alexandria. Long believed lost and known only by title, the work survived solely within a single manuscript, the 10th-century Codex Archimedes Palimpsest. In the 13th century, the original Archimedean text was scraped away and overwritten with a Christian liturgical text. The underlying writing was recovered in the early 20th century and fully deciphered using advanced imaging techniques in the early 2000s. Its modern rediscovery has significantly altered the history of mathematics, providing direct evidence that Archimedes employed proto-infinitesimal methods that foreshadowed the development of integral calculus nearly two millennia later.
 
 ## Text
 

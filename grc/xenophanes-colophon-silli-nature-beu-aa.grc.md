@@ -5,6 +5,7 @@ author: Xenophanes of Colophon
 eul_wid: beu-aa
 eul_aid: beu
 canonical: "https://eulogikon.org/works/xenophanes-colophon-silli-nature-beu-aa"
+lang: grc
 period: Archaic
 dialect: Ionic (frg)
 domain: Philosophy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Xenophanes of Colophon
 
 **eul_wid:** `beu-aa` · [HTML page](https://eulogikon.org/works/xenophanes-colophon-silli-nature-beu-aa)
-
-The surviving work of Xenophanes of Colophon consists of poetic fragments, traditionally categorized as the Silloi (Lampoons) and poems On Nature. Composed in epic verse during the Archaic period, these fragments represent a critical transition from mythological to philosophical thought. The Silloi are satirical critiques directed at the anthropomorphic deities of Homeric and Hesiodic tradition, mocking the attribution of human vices—theft, adultery, and deceit—to the gods. Xenophanes further ridicules the tendency of different peoples to fashion gods in their own image, noting that Ethiopians depict them as snub-nosed and black, while Thracians imagine them as blue-eyed and red-haired.
-
-In contrast, the fragments On Nature present early cosmological and theological speculations. Xenophanes argues for a single, supreme deity, unlike mortals in body or mind, who governs all things without movement through the power of thought alone. This god is eternal, unified, and utterly dissimilar to the flawed pantheon of poetry. The fragments also offer naturalistic explanations for celestial and meteorological phenomena, suggesting, for instance, that the sun is a new formation each day and that rainbows are clouds colored in a certain way. Xenophanes further posits a cyclical theory of earthly change, proposing that all things originate from a mixture of earth and water and that humanity periodically faces destruction and regeneration.
-
-Preserved not as a continuous text but through approximately fifty-six quotations by later doxographers and philosophers such as Sextus Empiricus and Simplicius, these fragments reflect the output of a traveling poet-philosopher who recited for educated audiences in the Greek colonies of Sicily and southern Italy. His work challenges the epistemological authority of traditional poets, suggesting that truth is not revealed by the gods but discovered gradually through human inquiry. Xenophanes’s critique of anthropomorphism, his formulation of a non-corporeal supreme god, and his skeptical stance toward human knowledge established foundational ideas that would profoundly influence the Eleatic school of philosophy and later theological and epistemological thought.
 
 ## Text
 

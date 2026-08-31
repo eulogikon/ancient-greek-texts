@@ -5,6 +5,7 @@ author: Eusebius of Caesarea
 eul_wid: tva-av
 eul_aid: tva
 canonical: "https://eulogikon.org/works/eusebius-caesarea-evangelical-demonstration-tva-av"
+lang: grc
 period: Late Antique
 dialect: Christian Koine
 domain: Theology
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Eusebius of Caesarea
 
 **eul_wid:** `tva-av` · [HTML page](https://eulogikon.org/works/eusebius-caesarea-evangelical-demonstration-tva-av)
-
-The Evangelical Demonstration is a major apologetic treatise composed in Koine Greek by the early Christian scholar Eusebius of Caesarea. Written in the early fourth century CE, following a period of intense persecution, it forms the second part of a planned two-volume defense of Christianity. Its central aim is to demonstrate from the Hebrew scriptures that Jesus of Nazareth is the promised Messiah and that the Christian church constitutes the true fulfillment of God's covenant with Israel. The work is structured as a systematic argument, advancing its case through the extensive quotation and exegesis of biblical proof-texts. Of the original twenty books, only the first ten survive in their entirety. These extant books address foundational themes including the divinity of Christ, the provisional and symbolic nature of the Mosaic Law, and the prophetic inclusion of Gentiles into the people of God. Scholarly reconstruction suggests the lost books likely continued the argument by treating the life, death, and resurrection of Jesus in detail. Composed during a pivotal era of growing Christian acceptance within the Roman Empire, the treatise stands as a key document in the early Christian-Jewish polemical debate. It appears to have been intended for an educated Christian readership, furnishing them with a scholarly apparatus to claim the Jewish scriptural heritage for Christianity. The work proved highly influential, providing subsequent theologians with both a model for Christological interpretation of the Old Testament and a repository of theological arguments that helped shape orthodox Christian thought for centuries.
 
 ## Text
 

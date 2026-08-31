@@ -5,6 +5,7 @@ author: Simylus the Elegiac Poet
 eul_wid: gfe-ab
 eul_aid: gfe
 canonical: "https://eulogikon.org/works/simylus-senses-excellence-gfe-ab"
+lang: grc
 period: Classical
 dialect: Epic (Homeric)
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Simylus the Elegiac Poet
 
 **eul_wid:** `gfe-ab` · [HTML page](https://eulogikon.org/works/simylus-senses-excellence-gfe-ab)
-
-On the Senses and Human Excellence is a didactic elegiac poem attributed to the obscure poet Simylus. Known also by the title Apospasmata, it is a collection of twenty-one poetic passages that address themes of epistemology and ethics, situating it within the tradition of Greek gnomic and philosophical verse. The work explores the nature of sensory perception as a means of acquiring knowledge and examines the foundations of human virtue and moral character, suggesting a connection between true understanding and ethical action. The poem is not attested within standard manuscript traditions or major fragment collections; its structure of twenty-one passages indicates it survives solely through quotations preserved by later, unidentified authors. Although Simylus himself is absent from the historical record, his work exemplifies a broader Hellenistic or Imperial trend of conveying philosophical concepts about perception and excellence in an accessible verse form intended for a literate, non-specialist audience.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Aristomenes of Alyzeia
 eul_wid: ksm-aa
 eul_aid: ksm
 canonical: "https://eulogikon.org/works/aristomenes-alyzeia-sympotic-culinary-ksm-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine (frg)
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristomenes of Alyzeia
 
 **eul_wid:** `ksm-aa` · [HTML page](https://eulogikon.org/works/aristomenes-alyzeia-sympotic-culinary-ksm-aa)
-
-The Sympotic and Culinary Fragments is a modern editorial title for the scant surviving verses of the comic poet Aristomenes of Alyzeia, who was active during the period of Middle Comedy in the fourth century BCE. These twenty-two fragmentary lines are preserved almost exclusively through quotation by the later grammarian Athenaeus in his expansive work, the Deipnosophistae, where they are cited for their illustrative value regarding ancient dining customs. The fragments collectively offer a window into the characteristic preoccupations of Middle Comedy, focusing intently on the culture of the symposium, or drinking party, and the details of contemporary cuisine. They depict scenes of wine consumption and banqueting etiquette while describing specific dishes, ingredients, and culinary practices with notable precision. This focus on food and drink serves as a vehicle for social satire, mocking behaviors such as gluttony, drunkenness, and culinary pretension. The verses also likely feature characters drawn from domestic and professional life, including cooks and food vendors. As the complete works of Aristomenes are lost, these fragments, transmitted indirectly through Athenaeus and possibly later lexicographers, constitute the entirety of his extant writing. Their principal significance lies not in their literary merit, which is difficult to assess from such scant remains, but in their value as historical source material. They provide useful evidence for reconstructing the thematic interests of Middle Comedy and offer concrete details about the daily material culture and convivial rituals of classical Athens.
 
 ## Text
 

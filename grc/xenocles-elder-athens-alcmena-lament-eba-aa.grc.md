@@ -5,6 +5,7 @@ author: Xenocles the Elder of Athens
 eul_wid: eba-aa
 eul_aid: eba
 canonical: "https://eulogikon.org/works/xenocles-elder-athens-alcmena-lament-eba-aa"
+lang: grc
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Xenocles the Elder of Athens
 
 **eul_wid:** `eba-aa` · [HTML page](https://eulogikon.org/works/xenocles-elder-athens-alcmena-lament-eba-aa)
-
-The Fragments on Alcmena's Lament is a lost Athenian tragedy attributed to the 5th-century BCE dramatist Xenocles the Elder. Known only by its recorded title, the work presumably centered on a lament delivered by Alcmena, the mortal mother of the hero Heracles. While no direct quotations from the play survive, its mythological subject suggests it would have explored themes of profound maternal grief, the suffering endured by a hero's family, and the harshness of divine will, particularly from the goddess Hera, who persecuted Heracles and his kin. The dramatic potential likely arose from the contrast between Alcmena's mortal sorrow and her son's eventual apotheosis. The complete loss of the text, which survives solely as an entry in ancient catalogs of Xenocles' plays, is representative of the vast majority of Athenian tragedy that did not endure through the manuscript tradition. Although the work itself exerts no traceable literary influence, its subject matter aligns it with the tragic tradition of examining heroic family suffering, as seen in extant works like Euripides' Heracleidae. Xenocles himself was a significant figure in Athenian drama, a successful contemporary and rival of Euripides who was notably defeated by him in the dramatic competition of 415 BCE.
 
 ## Text
 

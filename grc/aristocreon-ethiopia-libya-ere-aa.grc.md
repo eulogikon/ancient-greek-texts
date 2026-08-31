@@ -5,6 +5,7 @@ author: Aristocreon the Historian
 eul_wid: ere-aa
 eul_aid: ere
 canonical: "https://eulogikon.org/works/aristocreon-ethiopia-libya-ere-aa"
+lang: grc
 period: Classical
 dialect: Ionic (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristocreon the Historian
 
 **eul_wid:** `ere-aa` · [HTML page](https://eulogikon.org/works/aristocreon-ethiopia-libya-ere-aa)
-
-The Fragments on Ethiopia and Libya by Aristocreon is a lost geographical and ethnographic work known only through a handful of prose excerpts preserved by later Roman and Byzantine authors. These fragments describe the natural history and customs of Ethiopia and Libya, the latter term used in its ancient sense to denote the African continent generally. The surviving content is characteristic of Hellenistic paradoxography, focusing on the marvels and wonders attributed to distant lands. One passage, preserved by Aulus Gellius, describes an Ethiopian spring so cold that its water was said to cause fatal stomach cramps if drunk. Another, cited by Photius, mentions a Libyan bird called the "physis" that constructs its nest from snake bones. The work survives solely in quotations within the texts of later compilers, primarily Aulus Gellius in his Attic Nights and Photius in his Bibliotheca. While Aristocreon’s direct influence is untraceable, his fragments are representative of Hellenistic geographical writing, illustrating the period's intense curiosity about the edges of the known world. They served as sources for later encyclopedic authors, including Pliny the Elder, who incorporated such accounts of exotic phenomena into his own natural history.
 
 ## Text
 

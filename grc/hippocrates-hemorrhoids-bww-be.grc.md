@@ -5,6 +5,7 @@ author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-be
 eul_aid: bww
 canonical: "https://eulogikon.org/works/hippocrates-hemorrhoids-bww-be"
+lang: grc
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hippocrates and the Hippocratic Corpus
 
 **eul_wid:** `bww-be` · [HTML page](https://eulogikon.org/works/hippocrates-hemorrhoids-bww-be)
-
-On Hemorrhoids is a concise medical treatise from the Hippocratic Corpus, the collection of ancient Greek medical works traditionally associated with Hippocrates of Cos but authored by multiple practitioners. Written in Ionic Greek during the 5th or 4th century BCE, the work serves as a practical manual dedicated solely to the management of hemorrhoidal disease. It opens with an explanation of the condition's etiology, attributing it to an imbalance of bodily humors, specifically bile or phlegm, which heats the blood in the rectal veins and causes them to swell and bleed. The core of the text provides meticulous, sequential instructions for surgical interventions. These procedures include excision and cauterization, employing specialized instruments such as speculums and irons heated for the purpose. The treatise concludes with recipes for medicated suppositories and topical applications designed to soothe and treat the affected area. Surviving intact through medieval manuscript transmission, the work exemplifies the empirical and technical dimensions of classical Greek medicine, likely composed as a direct guide for practicing surgeons. It represents a foundational document in the history of proctology, and its precise descriptions of instruments and operative techniques exerted a lasting influence on subsequent medical practice.
 
 ## Text
 

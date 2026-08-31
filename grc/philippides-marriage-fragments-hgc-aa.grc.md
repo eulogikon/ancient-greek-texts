@@ -5,6 +5,7 @@ author: Philippides the Comic Poet
 eul_wid: hgc-aa
 eul_aid: hgc
 canonical: "https://eulogikon.org/works/philippides-marriage-fragments-hgc-aa"
+lang: grc
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philippides the Comic Poet
 
 **eul_wid:** `hgc-aa` · [HTML page](https://eulogikon.org/works/philippides-marriage-fragments-hgc-aa)
-
-The Fragments on Marriage is a modern scholarly compilation of seventy-four short passages attributed to the Athenian comic poet Philippides, who was active in the late fourth and early third centuries BCE. The collection does not represent a single surviving play but rather gathers quotations from his lost comedies, which were preserved by later ancient authors such as Athenaeus. These excerpts, written in the verse and Attic Greek dialect characteristic of New Comedy, focus thematically on marriage, domestic strife, and family dynamics, offering glimpses of dialogue originally performed at Athenian theater festivals. As surviving examples of early Hellenistic New Comedy, the fragments illustrate the genre's shift away from political satire toward narratives centered on private relationships and household affairs. They are valued for reflecting the stock characters and social concerns that would later exert a significant influence on Roman comic playwrights.
 
 ## Text
 

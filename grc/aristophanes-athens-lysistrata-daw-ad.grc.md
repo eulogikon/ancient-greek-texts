@@ -5,6 +5,7 @@ author: Aristophanes of Athens
 eul_wid: daw-ad
 eul_aid: daw
 canonical: "https://eulogikon.org/works/aristophanes-athens-lysistrata-daw-ad"
+lang: grc
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristophanes of Athens
 
 **eul_wid:** `daw-ad` · [HTML page](https://eulogikon.org/works/aristophanes-athens-lysistrata-daw-ad)
-
-Lysistrata is a comedy by the Athenian playwright Aristophanes, first performed in 411 BCE during the Peloponnesian War. Written in verse, it is a prime example of Old Comedy, characterized by its imaginative premise, direct political commentary, and robust, often ribald humor. The plot is initiated by the Athenian woman Lysistrata, who convinces the women of Greece to swear a twofold oath: to withhold sexual privileges from their husbands and lovers, and to seize control of the Acropolis and the state treasury. This coordinated action is designed to compel the warring men of the various city-states to negotiate a peace. The narrative progresses from the women’s conspiracy and solemn pact through a series of comedic confrontations with outraged magistrates and desperate, beleaguered husbands, culminating in a festive reconciliation and celebration.
-
-The play functions as a pointed critique of the Athenian political leadership and the protracted conflict it sustained. Aristophanes employs the fantastical inversion of traditional gender roles and unabashed sexual comedy not merely for laughter but as a vehicle for a serious plea for peace and Panhellenic unity. Lysistrata is one of eleven extant comedies by Aristophanes. Its text has been preserved through a medieval manuscript tradition, including the 10th-century Codex Ravennas. The play’s enduring themes of anti-war protest and its exploration of gender dynamics have made it one of the most famous and frequently adapted works from classical antiquity.
 
 ## Text
 

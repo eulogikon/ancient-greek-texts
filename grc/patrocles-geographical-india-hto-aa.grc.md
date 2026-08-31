@@ -5,6 +5,7 @@ author: Patrocles the Historian
 eul_wid: hto-aa
 eul_aid: hto
 canonical: "https://eulogikon.org/works/patrocles-geographical-india-hto-aa"
+lang: grc
 period: Hellenistic
 dialect: Attic (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Patrocles the Historian
 
 **eul_wid:** `hto-aa` · [HTML page](https://eulogikon.org/works/patrocles-geographical-india-hto-aa)
-
-The Geographical Fragments on India by Patrocles, a Greek general and explorer of the early Hellenistic period, survives only through citations in later authors, primarily Strabo and Arrian. These fragments derive from an official report to the Seleucid court and describe the geography of northwestern India. The preserved passages focus on the dimensions of the Indian subcontinent, including a measurement of 15,000 stadia from the Caucasus to the southern sea, and on the courses and navigability of major rivers, especially the Indus system. The original work is lost, with its few fragments preserved indirectly in the works of Strabo and Arrian and collected in modern scholarly editions. Patrocles was considered a key authority on Asian geography. His reports, though fragmentary, contributed significantly to Hellenistic and Roman knowledge of India following Alexander’s campaigns and provided strategic geographical intelligence for the Seleucid Empire.
 
 ## Text
 

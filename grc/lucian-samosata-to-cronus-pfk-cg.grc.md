@@ -5,6 +5,7 @@ author: Lucian of Samosata
 eul_wid: pfk-cg
 eul_aid: pfk
 canonical: "https://eulogikon.org/works/lucian-samosata-to-cronus-pfk-cg"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lucian of Samosata
 
 **eul_wid:** `pfk-cg` · [HTML page](https://eulogikon.org/works/lucian-samosata-to-cronus-pfk-cg)
-
-_To Cronus_ is a satirical oration by the second-century CE Syrian author Lucian of Samosata. Written in Attic Greek as a rhetorical exercise, the work takes the form of a direct petition to the Titan Cronus, the mythological ruler of the Golden Age who was associated with the Roman Saturnalia festival. Structured as a dialogue between a priest and the god, the piece exemplifies Lucian’s characteristic Menippean satire, blending philosophical inquiry with incisive humor. The priest begins by requesting conventional blessings of immense wealth, fine possessions, and social dominance, framing them as natural desires. Cronus responds with ironic detachment, explaining that the distribution of such material goods is not within his purview but belongs to his successor, Zeus, thereby highlighting the arbitrary and unjust nature of fortune in human affairs.
-
-The complete text survives within the traditional Lucianic corpus. Scholars interpret the work as a pointed social critique, using the safe and familiar framework of mythological dialogue and festive license to scrutinize the stark inequalities and moral corruption of Lucian’s contemporary Roman society. By having a figure of religious authority request vulgar wealth from a god who disavows control over it, Lucian satirizes both human greed and the perceived randomness of social hierarchy. The oration is considered to have been composed for an educated, Greek-speaking audience capable of appreciating its literary refinement and its underlying commentary on the caprices of fate, the corruption of power, and the decline of ethical values in an age of material excess.
 
 ## Text
 

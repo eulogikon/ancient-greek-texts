@@ -5,6 +5,7 @@ author: Antiphon the Sophist of Athens
 eul_wid: brc-ac
 eul_aid: brc
 canonical: "https://eulogikon.org/works/antiphon-athens-truth-brc-ac"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Antiphon the Sophist of Athens
 
 **eul_wid:** `brc-ac` · [HTML page](https://eulogikon.org/works/antiphon-athens-truth-brc-ac)
-
-On Truth is a philosophical treatise from the late 5th century BCE, attributed to the thinker known as Antiphon the Sophist. A major surviving work of the Sophistic movement, it survives only in fragments preserved on ancient papyri and in quotations by later authors. Its original structure was systematic, divided into at least two books, and it argues a central position in the classical debate between nature and human law or convention. The work contends that the laws of society are artificial and often oppressive constraints, while the dictates of nature—which guide self-preservation and advantage—are primary and true. It explores themes of justice, self-interest, and relativism, suggesting that following natural advantage is always beneficial, whereas obeying man-made law is only prudent when witnesses are present. Modern scholars interpret this as a form of radical ethical naturalism that challenged the foundations of Athenian civic ideology. The text was lost for centuries until significant portions were rediscovered on papyrus in Egypt in the early 20th century. The attribution of these fragments to Antiphon the Sophist is based on ancient sources, though scholars debate whether this author is distinct from the known Athenian orator Antiphon. Despite its incomplete state, On Truth provides crucial direct evidence for the sophistication of pre-Socratic ethical thought.
 
 ## Text
 

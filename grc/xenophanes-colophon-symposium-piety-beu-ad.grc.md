@@ -5,6 +5,7 @@ author: Xenophanes of Colophon
 eul_wid: beu-ad
 eul_aid: beu
 canonical: "https://eulogikon.org/works/xenophanes-colophon-symposium-piety-beu-ad"
+lang: grc
 period: Archaic
 dialect: Ionic (frg)
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Xenophanes of Colophon
 
 **eul_wid:** `beu-ad` · [HTML page](https://eulogikon.org/works/xenophanes-colophon-symposium-piety-beu-ad)
-
-The "Symposium and Piety Fragments" comprise a collection of poetic excerpts attributed to the pre-Socratic philosopher Xenophanes of Colophon. Preserved not as a continuous text but through citations by later authors such as Stobaeus and Simplicius, these forty-seven fragments are composed in elegiac and iambic meters. The content delineates two principal themes, both reflective of Xenophanes' critical engagement with Archaic Greek culture. One group of fragments offers a normative portrait of the symposium, the aristocratic drinking gathering, emphasizing ritual purity, moderate consumption, and the primacy of pious and edifying discourse among the participants. The other, more philosophically significant set presents a radical theological critique, rejecting the anthropomorphic and morally flawed gods of Homer and Hesiod. Xenophanes famously observed that different peoples imagine deities in their own likeness and proposed instead a singular, supreme god, unlike mortals in form or thought, who effortlessly governs all things through intellect. These verses are considered a seminal work in the transition from mythopoetic tradition to rational inquiry, likely intended for performance within the very symposiastic context they describe, thus using conventional poetic forms to challenge deep-seated religious and cultural norms.
 
 ## Text
 

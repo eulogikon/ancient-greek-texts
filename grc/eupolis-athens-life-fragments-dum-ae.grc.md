@@ -5,6 +5,7 @@ author: Eupolis Atheniensis
 eul_wid: dum-ae
 eul_aid: dum
 canonical: "https://eulogikon.org/works/eupolis-athens-life-fragments-dum-ae"
+lang: grc
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Eupolis Atheniensis
 
 **eul_wid:** `dum-ae` · [HTML page](https://eulogikon.org/works/eupolis-athens-life-fragments-dum-ae)
-
-The Athenian Life Fragments represent a modern assemblage of excerpts from the lost comedies of Eupolis, a principal Athenian playwright of Old Comedy during the late 5th century BCE. Alongside Aristophanes and Cratinus, Eupolis formed the canonical trio of the genre celebrated in antiquity. These fragments, of which approximately five hundred survive from nineteen known play titles, are not a single ancient work but quotations preserved by later authors, scholiasts, and papyri. They are critically edited in the standard collection Poetae Comici Graeci. The passages offer valuable insight into Eupolis’s distinctive style and the broader landscape of political satire in his era. His comedies engaged in direct political attacks on contemporary figures such as Hyperbolus and Alcibiades, provided social commentary through the mockery of types like the flatterers in his play Kolakes, and parodied intellectuals including Socrates. The fragments also reflect on the Peloponnesian War and contain elements of utopian fantasy, as seen in his work Cities. These remains are essential for reconstructing the full scope of Old Comedy beyond the surviving plays of Aristophanes, providing crucial evidence for its literary techniques and the vigorous political climate of classical Athens.
 
 ## Text
 

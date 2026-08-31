@@ -5,6 +5,7 @@ author: Eusebius of Caesarea
 eul_wid: tva-at
 eul_aid: tva
 canonical: "https://eulogikon.org/works/eusebius-caesarea-ecclesiastical-theology-tva-at"
+lang: grc
 period: Late Antique
 dialect: Christian Koine
 domain: Theology
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Eusebius of Caesarea
 
 **eul_wid:** `tva-at` · [HTML page](https://eulogikon.org/works/eusebius-caesarea-ecclesiastical-theology-tva-at)
-
-On Ecclesiastical Theology is a theological treatise composed in Greek by Eusebius of Caesarea, the noted bishop and historian, circa 337–339 CE. It functions as a constructive sequel to his earlier polemical work, Against Marcellus. While that text was a detailed refutation, this treatise provides a positive and systematic exposition of Eusebius’s own doctrinal position, organized into 22 chapters. The work is a defense of the distinct, co-eternal hypostases of the Father and the Son within the Trinity, written in opposition to the teachings of Marcellus of Ancyra. Eusebius argues that Marcellus’s theology, which he interpreted as a form of modalism, erroneously reduced the Son to a transient activity or power of the Father rather than recognizing him as a distinct divine person existing eternally with the Father. To substantiate his argument, Eusebius employs extensive exegesis of New Testament scriptures, with particular focus on the Gospel of John. Modern scholarship views the treatise as Eusebius’s attempt to chart a middle course in the contentious theological disputes following the Council of Nicaea, positioning himself against both radical subordinationism and the modalist heresy he attributed to Marcellus. The complete Greek text of On Ecclesiastical Theology is not extant. Its content is known primarily through extensive fragments preserved by later ecclesiastical writers, most significantly within the 12th-century compilation Panoplia Dogmatike by Euthymius Zigabenus. These collected excerpts offer a vital source for understanding Eusebius’s mature theology and the otherwise lost contours of his opponent’s arguments.
 
 ## Text
 

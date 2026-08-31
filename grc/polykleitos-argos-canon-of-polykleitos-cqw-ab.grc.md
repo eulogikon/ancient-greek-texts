@@ -5,6 +5,7 @@ author: Polykleitos of Argos
 eul_wid: cqw-ab
 eul_aid: cqw
 canonical: "https://eulogikon.org/works/polykleitos-argos-canon-of-polykleitos-cqw-ab"
+lang: grc
 period: Classical
 dialect: Doric (frg)
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Polykleitos of Argos
 
 **eul_wid:** `cqw-ab` · [HTML page](https://eulogikon.org/works/polykleitos-argos-canon-of-polykleitos-cqw-ab)
-
-The Canon was a theoretical treatise on art composed by the Classical Greek sculptor Polykleitos of Argos around the mid-5th century BCE. Now lost, this work established a mathematical system of proportions for sculpting the ideal male human figure. Its principles were famously embodied in Polykleitos's own statue, the Doryphoros, or Spear-Bearer, which served as a physical exemplar of the rule. The treatise posited that beauty and harmony in art arose from precise, objective ratios between all parts of the body, a concept known as symmetria.
-
-Only a few fragments of the original text survive, preserved through quotations by later authors such as Galen. These excerpts confirm the Canon was a written work, likely accompanied by diagrams, aimed at instructing artists and defining a standard of perfection. Modern scholarship interprets it as a key document of the High Classical period, reflecting contemporary philosophical interests in mathematical order and elevating sculpture from a craft to an intellectual discipline. Its influence endured for centuries, shaping subsequent Roman and Renaissance theories of ideal proportion.
 
 ## Text
 

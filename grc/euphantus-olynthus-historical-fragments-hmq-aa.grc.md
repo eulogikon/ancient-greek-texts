@@ -5,6 +5,7 @@ author: Euphantus of Olynthus
 eul_wid: hmq-aa
 eul_aid: hmq
 canonical: "https://eulogikon.org/works/euphantus-olynthus-historical-fragments-hmq-aa"
+lang: grc
 period: Hellenistic
 dialect: Attic
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Euphantus of Olynthus
 
 **eul_wid:** `hmq-aa` · [HTML page](https://eulogikon.org/works/euphantus-olynthus-historical-fragments-hmq-aa)
-
-The Historical Fragments attributed to Euphantus of Olynthus consist of surviving quotations from his lost historical writings, preserved by later authors such as Diogenes Laertius and Athenaeus. Euphantus was a philosopher-historian active in the late fourth and early third centuries BCE, known to have been a tutor to King Antigonus II Gonatas of Macedon and associated with the Megarian school of philosophy. His historical work, of which no independent manuscript tradition survives, appears to have been a contemporary account of the early Hellenistic period. The extant fragments suggest it addressed political and military events, particularly the complex relationships between the emerging Hellenistic monarchies and philosophical circles. One preserved anecdote, for instance, recounts how a courtier of Ptolemy III of Egypt was so skilled in flattery that he carried an image of Odysseus on his seal and named his children Telegonus and Anticleia. Euphantus's significance lies in his role as a connecting figure between philosophy and practical statecraft, embodying the Hellenistic ideal of the philosopher as royal advisor, while his lost history would have provided a valuable eyewitness perspective on the era of the Diadochi.
 
 ## Text
 

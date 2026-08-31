@@ -5,6 +5,7 @@ author: John Philoponus of Alexandria
 eul_wid: uxc-ae
 eul_aid: uxc
 canonical: "https://eulogikon.org/works/john-philoponus-alexandria-astrolabe-use-construction-uxc-ae"
+lang: grc
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** John Philoponus of Alexandria
 
 **eul_wid:** `uxc-ae` · [HTML page](https://eulogikon.org/works/john-philoponus-alexandria-astrolabe-use-construction-uxc-ae)
-
-On the Use and Construction of the Astrolabe is a technical manual written in Greek by the sixth-century Alexandrian scholar John Philoponus. Composed around 510–530 CE, it stands as one of the earliest surviving Greek treatises devoted entirely to the astrolabe, an intricate astronomical instrument used for telling time, mapping celestial positions, and solving problems in spherical astronomy. The work is structured as a practical guide, comprising 28 sections that systematically explain the instrument’s components, the geometrical principle of stereographic projection that allows a sphere to be represented on a flat plate, and provide step-by-step instructions for its construction and operation. Philoponus states his intention to build upon the foundations laid by his teacher, the philosopher Ammonius, but to offer greater clarity for those not already expert in the subject. The treatise begins by defining the symbols and lines engraved on the instrument’s plate, such as those representing the meridian and the horizon, and proceeds to detail its practical applications. Modern scholars regard this work as a significant example of late antique scientific pedagogy, demonstrating Philoponus’s commitment to applied mathematics and astronomy, distinct from his more famous philosophical and theological writings. It is thought to have been composed for students or patrons seeking instruction in astronomy, timekeeping, or instrument-making. The text survives in Greek, though the specifics of its manuscript tradition and its direct influence on later Byzantine or Islamic technical literature are less thoroughly documented than the transmission of his philosophical works.
 
 ## Text
 

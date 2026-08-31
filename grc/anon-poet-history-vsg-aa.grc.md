@@ -5,6 +5,7 @@ author: Poet  Anonymous
 eul_wid: vsg-aa
 eul_aid: vsg
 canonical: "https://eulogikon.org/works/anon-poet-history-vsg-aa"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: Poetry
@@ -19,16 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Poet  Anonymous
 
 **eul_wid:** `vsg-aa` · [HTML page](https://eulogikon.org/works/anon-poet-history-vsg-aa)
-
-Overview The Ecclesiastical History (Ἐκκλησιαστικὴ Ἱστορία) is an anonymous Greek text composed in verse, comprising 3086 passages. Its title indicates a historical account of the Christian Church, but its poetic form distinguishes it from the standard prose ecclesiastical histories of authors such as Eusebius. No substantive details regarding its content, scope, or narrative structure are recorded in the consulted references.
-
-Content
-
-The specific topics covered by this verse history are undocumented in the available sources.
-
-Transmission The work’s transmission history, manuscript tradition, and preservation status are not detailed in the sources. The known passage count suggests its structure is preserved in manuscript catalogs, but its fragmentary or complete state is unconfirmed.
-
-Significance The work is notable for its unusual combination of the church history genre with verse composition, suggesting a less common tradition of didactic or commemorative historical poetry within late antique or Byzantine literature.
 
 ## Text
 

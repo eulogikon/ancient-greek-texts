@@ -5,6 +5,7 @@ author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-ca
 eul_aid: bww
 canonical: "https://eulogikon.org/works/hippocrates-winds-bww-ca"
+lang: grc
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hippocrates and the Hippocratic Corpus
 
 **eul_wid:** `bww-ca` · [HTML page](https://eulogikon.org/works/hippocrates-winds-bww-ca)
-
-On Winds is a medical treatise from the Hippocratic Corpus, a body of ancient Greek medical works attributed to Hippocrates and his followers. Composed in Ionic Greek during the late fifth or early fourth century BCE, the work is a concise and coherent essay structured in thirteen sections. It advances a unified physiological theory positing that pneuma—understood as air, breath, or wind—is the most potent element within the body and the primary agent governing all states of health and disease.
-
-The treatise systematically details how illnesses, including specific fevers and pains, originate from disturbances of the body's internal air. These pathologies arise from blockages, imbalances, or improper movements of pneuma. The text concludes by outlining therapeutic principles focused on removing harmful or excess air, often advocating for pharmaceutical treatments that induce evacuations such as vomiting or purging. Modern scholarship interprets this materialist focus as part of a broader Classical Greek intellectual movement seeking natural, physical explanations for disease, thereby positioning the work in opposition to practitioners who attributed illness to divine intervention. It directly applies contemporary philosophical debates concerning fundamental cosmic elements to medical theory, and its argument is pitched toward fellow practitioners and students. The complete text of On Winds has been preserved through medieval manuscripts, the oldest of which date from the tenth century CE onward, and it survives without significant lacunae as an integral part of the larger Hippocratic Corpus.
 
 ## Text
 

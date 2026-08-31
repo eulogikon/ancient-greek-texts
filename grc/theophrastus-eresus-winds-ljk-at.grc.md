@@ -5,6 +5,7 @@ author: Theophrastus of Eresus
 eul_wid: ljk-at
 eul_aid: ljk
 canonical: "https://eulogikon.org/works/theophrastus-eresus-winds-ljk-at"
+lang: grc
 period: Hellenistic
 dialect: Attic Philosophical
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Theophrastus of Eresus
 
 **eul_wid:** `ljk-at` · [HTML page](https://eulogikon.org/works/theophrastus-eresus-winds-ljk-at)
-
-On Winds is a meteorological treatise by the philosopher Theophrastus of Eresus, the direct successor to Aristotle. Composed in Attic Greek around the late fourth or early third century BCE, the work presents a systematic investigation into the nature and behavior of winds. It is structured as a collection of observations and theories, exploring the causes of winds, their directions, seasonal patterns, and their effects on weather, geography, and human activities such as agriculture and navigation. The text engages with Aristotelian physical theory, particularly the idea that winds originate from dry exhalations within the earth, while also compiling a wide range of empirical data from sources including sailors and farmers. The complete treatise survives and is considered a genuine, well-preserved example of Theophrastus's shorter works on natural philosophy. Modern scholarship interprets it as a continuation of the Peripatetic research program, notable for its descriptive focus and its reflection of the growing Hellenistic interest in detailed, systematic observation of the natural world.
 
 ## Text
 

@@ -1,10 +1,11 @@
 ---
 title: On Grammar
 title_greek: Περὶ γραμματικῆς
-author: "Theodosius of Alexandria "
+author: Theodosius of Alexandria
 eul_wid: vdq-ag
 eul_aid: vdq
 canonical: "https://eulogikon.org/works/theodosius-alexandria-grammar-vdq-ag"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Grammar
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Περὶ γραμματικῆς*
 
-**Author:** Theodosius of Alexandria 
+**Author:** Theodosius of Alexandria
 
 **eul_wid:** `vdq-ag` · [HTML page](https://eulogikon.org/works/theodosius-alexandria-grammar-vdq-ag)
-
-On Grammar, commonly known as the Canons, is a systematic grammatical treatise composed in Greek by Theodosius of Alexandria, a scholar active in the fourth or fifth century CE. This work functions as a practical reference manual dedicated exclusively to the inflectional patterns of Greek nouns, pronouns, and verbs. Eschewing theoretical discussion, it presents 194 model declensions and conjugations, termed kanones or rules, which catalog both regular and irregular forms organized by phonetic criteria. The text survives in its entirety through a rich tradition of medieval manuscripts, with printed editions appearing as early as 1495. Composed within the late antique Alexandrian scholarly tradition, it is interpreted by modern scholars as a pedagogical manual designed for advanced students and scribes. Its primary purpose was to preserve and standardize classical Greek forms during a period of significant linguistic evolution. The treatise’s clear, list-based structure established it as a foundational textbook for centuries, exerting a profound influence on Byzantine education and later Renaissance grammars of the Greek language.
 
 ## Text
 

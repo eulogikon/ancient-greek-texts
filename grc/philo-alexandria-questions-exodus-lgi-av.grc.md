@@ -5,6 +5,7 @@ author: Philo of Alexandria
 eul_wid: lgi-av
 eul_aid: lgi
 canonical: "https://eulogikon.org/works/philo-alexandria-questions-exodus-lgi-av"
+lang: grc
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philo of Alexandria
 
 **eul_wid:** `lgi-av` · [HTML page](https://eulogikon.org/works/philo-alexandria-questions-exodus-lgi-av)
-
-The Questions and Answers on Exodus is a philosophical commentary on the biblical book of Exodus composed in the first century CE by the Jewish scholar Philo of Alexandria. Written in Koine Greek, the work employs a systematic question-and-answer format to address perceived difficulties within the scriptural text. Each of its seventy-two surviving passages typically isolates a problem from a specific verse before offering a solution. While Philo’s approach in this treatise is often more direct than in his other allegorical writings, he consistently introduces figurative interpretations to uncover deeper ethical and cosmological meanings beneath the literal narrative. Scholars frequently interpret the work as an introductory or pedagogical guide, designed to demonstrate the wisdom of Jewish scripture to a Hellenistic audience by seamlessly blending biblical tradition with Greek philosophical concepts.
-
-The complete Greek text of the commentary is lost. It is known primarily through an ancient Armenian translation, which later served as the basis for a Latin version. The extant fragments, which cover Exodus 12:2 through 28:34, represent only a portion of the original, indicating a once much more extensive exegetical project. Despite its fragmentary state, the work remains a crucial source for understanding Philo’s exegetical methodology and his unique intellectual position at the intersection of Jewish tradition and Hellenistic philosophy.
 
 ## Text
 

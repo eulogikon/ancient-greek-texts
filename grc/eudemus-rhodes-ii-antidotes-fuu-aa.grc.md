@@ -5,6 +5,7 @@ author: Eudemus of Rhodes II
 eul_wid: fuu-aa
 eul_aid: fuu
 canonical: "https://eulogikon.org/works/eudemus-rhodes-ii-antidotes-fuu-aa"
+lang: grc
 period: Classical
 dialect: "Attic (phi, frg)"
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Eudemus of Rhodes II
 
 **eul_wid:** `fuu-aa` · [HTML page](https://eulogikon.org/works/eudemus-rhodes-ii-antidotes-fuu-aa)
-
-Fragments on Antidotes is a title attributed in some sources to Eudemus of Rhodes II, purportedly a treatise on poisons and their remedies. No such work is attested in the standard scholarly record for the historical Eudemus of Rhodes, a 4th-century BCE Peripatetic philosopher and direct student of Aristotle. The known writings of Eudemus, preserved only in fragments and testimonia by later authors such as Simplicius and Diogenes Laertius, concern logic, physics, astronomy, and the history of science, with no extant references to toxicology or pharmacology. The designation "II" is not applied to the authentic philosopher, and the content implied by the title would be anomalous within his established intellectual corpus. His enduring significance rests instead on his contributions to the development of Aristotelian thought and his pioneering work in the histories of geometry and astronomy.
 
 ## Text
 

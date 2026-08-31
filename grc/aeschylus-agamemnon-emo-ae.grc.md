@@ -5,6 +5,7 @@ author: Aeschylus the Tragedian
 eul_wid: emo-ae
 eul_aid: emo
 canonical: "https://eulogikon.org/works/aeschylus-agamemnon-emo-ae"
+lang: grc
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aeschylus the Tragedian
 
 **eul_wid:** `emo-ae` · [HTML page](https://eulogikon.org/works/aeschylus-agamemnon-emo-ae)
-
-Agamemnon is a tragedy by the ancient Greek playwright Aeschylus. First performed in Athens in 458 BCE, it is the initial drama of the Oresteia, the only complete tragic trilogy to survive from antiquity. The play, comprising 1,656 lines of verse, dramatizes the return of King Agamemnon to Argos after the Trojan War. His wife, Clytemnestra, murders him in revenge for his sacrifice of their daughter Iphigenia a decade earlier. The plot is structured around a series of ominous arrivals, culminating in the prophetic but unheeded warnings of the captive Trojan princess Cassandra, who foresees the impending violence. Written during the height of Athenian cultural power, the work is a profound exploration of justice, vengeance, and the moral corruption engendered by war. It initiates the trilogy's overarching argument for the replacement of cyclical blood feud with the rational order of civic law. The character of Clytemnestra, a powerfully plotting woman who dominates the male figures around her, has established the play as a central text for examining gender dynamics in ancient literature. The complete text of Agamemnon survives within the manuscript tradition for Aeschylus's seven extant plays, primarily through a 10th-century codex that preserved the intact Oresteia trilogy.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Pseudo-Galen
 eul_wid: tqu-ae
 eul_aid: tqu
 canonical: "https://eulogikon.org/works/pseudo-galen-acute-diseases-diet-tqu-ae"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Pseudo-Galen
 
 **eul_wid:** `tqu-ae` · [HTML page](https://eulogikon.org/works/pseudo-galen-acute-diseases-diet-tqu-ae)
-
-On Diet in Acute Diseases According to Hippocrates is an ancient Greek medical treatise, a detailed commentary on the Hippocratic work On Regimen in Acute Diseases. Though traditionally ascribed to the renowned physician Galen, modern scholarship identifies it as an anonymous composition, most likely dating to the 1st or 2nd century CE. The text is structured as a series of 43 concise sections, each providing a practical exegesis of a specific passage from its Hippocratic source. Its primary focus is dietetics, the regulation of food and drink, which it upholds as the central therapeutic intervention for acute, febrile diseases. The anonymous author systematically clarifies obscure Hippocratic terminology, elucidates the medical rationale behind prescribed treatments—such as the administration of barley-gruel—and occasionally critiques the interpretations of other physicians. Dedicated to a figure named Caecilianus, the work appears designed for practical use by medical students or practicing doctors, offering clinical guidance grounded in the humoral theory of balancing bodily fluids. Preserved in medieval manuscripts among Galen's authentic works, this treatise provides significant insight into the pedagogical and practical application of Hippocratic medicine in the Roman Imperial period.
 
 ## Text
 

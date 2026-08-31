@@ -5,6 +5,7 @@ author: Arrian of Nicomedia
 eul_wid: pcs-an
 eul_aid: pcs
 canonical: "https://eulogikon.org/works/arrian-nicomedia-testimonies-pcs-an"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Arrian of Nicomedia
 
 **eul_wid:** `pcs-an` · [HTML page](https://eulogikon.org/works/arrian-nicomedia-testimonies-pcs-an)
-
-The Testimonies is a concise philosophical compilation authored in the 2nd century CE by the historian Arrian of Nicomedia. Written in Attic Greek, this work comprises eleven passages dedicated to preserving the core ethical doctrines of the Stoic philosopher Epictetus, under whom Arrian studied. It exists as a distinct, smaller collection separate from Arrian's more extensive records of Epictetus's teachings, namely the Discourses and the Enchiridion. The content focuses on fundamental Stoic principles, emphasizing the critical distinction between what is within one's control and what is not, the proper management of mental impressions, and the pursuit of virtue as the sole good.
-
-The complete collection of eleven excerpts has survived intact. Scholars generally interpret the work as a curated set of memorable sayings or proofs, possibly functioning as a personal notebook or a focused anthology designed to highlight essential philosophical tenets. It appears intended for an audience already conversant with Stoic thought, reflecting the contemporary intellectual practice wherein Greek literati like Arrian committed oral teachings to written form. The text's preservation is linked to the broader manuscript tradition of Epictetus's works, having been transmitted through later copies such as those documented in the library of the patriarch Photius.
 
 ## Text
 

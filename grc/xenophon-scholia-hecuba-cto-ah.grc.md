@@ -5,6 +5,7 @@ author: Xenophon Scholia
 eul_wid: cto-ah
 eul_aid: cto
 canonical: "https://eulogikon.org/works/xenophon-scholia-hecuba-cto-ah"
+lang: grc
 period: Classical
 dialect: Mixed Dialects
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Xenophon Scholia
 
 **eul_wid:** `cto-ah` · [HTML page](https://eulogikon.org/works/xenophon-scholia-hecuba-cto-ah)
-
-The Scholia on Euripides' Hcuba constitute a substantial corpus of ancient and Byzantine marginal and interlinear annotations on that tragedy, traditionally attributed to the grammarian Xenophon. This compilation, comprising 2,825 discrete notes, represents a layered synthesis of explanatory commentary drawn from centuries of earlier philological scholarship. The scholia serve a multifaceted exegetical purpose, addressing textual criticism and variant readings, providing lexicographical explanations for difficult words, and clarifying mythological references. They further offer grammatical and syntactical analysis, notes on literary interpretation and rhetorical figures, and metrical analysis of the tragic verse. Transmitted within medieval manuscripts of the play, the collection attributed to Xenophon represents one specific recension within a complex textual tradition that incorporates excerpts from lost Hellenistic and Roman-period commentaries. As a fundamental resource for modern textual criticism and philology, these annotations preserve valuable fragments of lost ancient scholarship. They provide direct insight into historical reading and teaching practices, remaining essential for the critical editing of Euripides' text and for understanding its ancient reception.
 
 ## Text
 

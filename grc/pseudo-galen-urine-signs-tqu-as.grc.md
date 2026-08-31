@@ -5,6 +5,7 @@ author: Pseudo-Galen
 eul_wid: tqu-as
 eul_aid: tqu
 canonical: "https://eulogikon.org/works/pseudo-galen-urine-signs-tqu-as"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Pseudo-Galen
 
 **eul_wid:** `tqu-as` · [HTML page](https://eulogikon.org/works/pseudo-galen-urine-signs-tqu-as)
-
-On Signs from Urine is an anonymous Greek medical treatise dedicated to the practice of uroscopy, the diagnostic examination of urine. The text consists of five concise passages that systematically correlate the physical characteristics of urine with specific physiological and pathological conditions. It operates within the established framework of ancient medical semiotics, where observable signs were used for both diagnosis and prognosis. The work details interpretations based on the urine's consistency, clarity, and color, linking these observations to states such as digestive imbalance, fevers, organ dysfunction, and various humoral disturbances. Notably absent from major classical catalogs, the treatise survives through its inclusion in later Byzantine medical compilations, which often preserved such practical, anonymous handbooks alongside the works of more famous authorities. Its significance lies in its embodiment of a durable diagnostic tradition, illustrating how condensed, operational knowledge was disseminated from broader theoretical systems to guide the daily practice of physicians for centuries.
 
 ## Text
 

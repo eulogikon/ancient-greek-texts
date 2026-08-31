@@ -5,6 +5,7 @@ author: Christodorus of Coptus
 eul_wid: utg-ab
 eul_aid: utg
 canonical: "https://eulogikon.org/works/christodorus-coptus-epigrams-utg-ab"
+lang: grc
 period: Late Antique
 dialect: Epic (Homeric)
 domain: Epic
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Christodorus of Coptus
 
 **eul_wid:** `utg-ab` · [HTML page](https://eulogikon.org/works/christodorus-coptus-epigrams-utg-ab)
-
-Christodorus of Coptus’s Epigrams is a single, long descriptive poem from the early 6th century CE, surviving intact in 438 lines of Greek hexameter verse. Its full title, Description of the Statues in the Gymnasium called Zeuxippus, accurately reflects its content: a systematic and vivid tour of over eighty statues of gods, heroes, and historical figures that decorated the famous Baths of Zeuxippus in Constantinople. The work is a prime example of ekphrasis, the literary art of bringing visual scenes to life through detailed description. An Egyptian Greek poet writing during the reign of Emperor Anastasius I, Christodorus composed at a time when Christian Constantinople still prominently displayed classical pagan statuary as symbols of cultural heritage and education. Modern scholars interpret the poem as a celebration of classical paideia, or learning, within the framework of the new Christian empire, showcasing the poet's erudition and the enduring prestige of Greek art and myth. It thus serves as a valuable snapshot of the artistic landscape and a key document of cultural transition in late antique Constantinople. The poem has been preserved in its entirety within the second book of the Greek Anthology, a compilation which ensured its survival through the medieval manuscript tradition.
 
 ## Text
 

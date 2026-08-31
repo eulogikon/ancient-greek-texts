@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-dd
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-love-wealth-okg-dd"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-dd` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-love-wealth-okg-dd)
-
-On Love of Wealth is an ethical essay by the Greek philosopher and biographer Plutarch, composed in Attic Greek around 100 CE. It belongs to his extensive corpus of moral treatises collectively known as the Moralia. The work is a systematic critique of avarice, which Plutarch condemns as a corrosive vice that enslaves the soul and obstructs the pursuit of genuine happiness. Addressed to the educated Greek-speaking elite of the early Roman Empire, the essay offers practical philosophical guidance aimed at redirecting readers from material attachment toward self-improvement and virtue.
-
-The argument proceeds through a series of concise observations and logical demonstrations, reinforced by historical anecdotes and quotations from earlier poets and thinkers. Plutarch carefully distinguishes between the mere possession of wealth and its prudent use, contending that the relentless pursuit of money is inherently disordered. He asserts that wealth cannot purchase such true goods as peace of mind, self-sufficiency, courage, or magnanimity; indeed, the very condition of being wealthy precludes the ability to disdain wealth. Using vivid analogies, he notes that while drink quenches thirst and food satisfies hunger, the acquisition of silver and gold only inflames the desire for more, leaving the soul in a state of perpetual want. The essay thus frames avarice as a psychological malady that fails to deliver on its promise of security and instead perpetuates anxiety and dependence.
-
-The complete text has survived through the medieval manuscript tradition of Plutarch’s works, with its authenticity generally accepted by scholars. Modern critical editions rely on key witnesses such as the Codex Laurentianus and Codex Parisinus Graecus. As with much of the Moralia, this concise treatise served as a vehicle for transmitting Greco-Roman ethical ideas to later periods, exerting a discernible influence on Byzantine, Renaissance, and early modern thought concerning greed, contentment, and the proper management of worldly resources.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-bn
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-cimon-lucullus-okg-bn"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-bn` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-cimon-lucullus-okg-bn)
-
-The Comparison of Cimon and Lucullus is a concluding essay by the Greek biographer Plutarch, composed in Attic Greek around the early second century CE. It functions as the formal ethical analysis, or synkrisis, that follows his paired biographies of the Athenian statesman Cimon and the Roman general Lucius Licinius Lucullus within the Parallel Lives. The work systematically contrasts the two figures, evaluating their military commands, political careers, and personal conduct. A central theme is their divergent employment of enormous personal fortunes, juxtaposing Cimon’s renowned public munificence with Lucullus’s later reputation for private and sophisticated luxury. Transmitted through medieval manuscripts as an integral component of the biographies, the essay was written for an educated Greco-Roman audience under the Empire, with the didactic purpose of deriving moral and political lessons from historical example. Modern scholarship often views this particular pairing as a means to explore both common virtues and cultural distinctions between the Greek and Roman worlds, assessing each man according to the values of his own society. The comparison has been instrumental in cementing the traditional portraits of Cimon as the model of civic generosity and Lucullus as the archetype of the cultivated, opulent retiree.
 
 ## Text
 

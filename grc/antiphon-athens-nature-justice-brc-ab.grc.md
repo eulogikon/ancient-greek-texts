@@ -5,6 +5,7 @@ author: Antiphon the Sophist of Athens
 eul_wid: brc-ab
 eul_aid: brc
 canonical: "https://eulogikon.org/works/antiphon-athens-nature-justice-brc-ab"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Antiphon the Sophist of Athens
 
 **eul_wid:** `brc-ab` · [HTML page](https://eulogikon.org/works/antiphon-athens-nature-justice-brc-ab)
-
-On Nature and Justice is a philosophical treatise composed in prose by the 5th-century BCE Athenian thinker Antiphon the Sophist. The work survives only in fragments, primarily recovered from papyrus rolls discovered at Oxyrhynchus in Egypt, which modern editors have assembled to reconstruct its core argument. Antiphon presents a provocative critique of societal conventions by drawing a sharp distinction between the artificial, man-made laws of the city and the innate dictates of nature. He contends that obedience to conventional justice often compels individuals to act against their own interests, whereas following one's natural impulses is truly advantageous and leads to well-being. Some fragments further suggest a radical concept of natural equality among all people. Written during a period of intense intellectual debate about the foundations of society, the treatise stands as a major critical contribution to these discussions. Its survival solely in fragmentary form suggests it may not have been widely disseminated in later antiquity, possibly due to the challenging nature of its ideas.
 
 ## Text
 

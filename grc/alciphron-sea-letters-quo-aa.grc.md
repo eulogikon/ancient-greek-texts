@@ -5,6 +5,7 @@ author: Alciphron the Sophist
 eul_wid: quo-aa
 eul_aid: quo
 canonical: "https://eulogikon.org/works/alciphron-sea-letters-quo-aa"
+lang: grc
 period: Roman
 dialect: Attic
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alciphron the Sophist
 
 **eul_wid:** `quo-aa` · [HTML page](https://eulogikon.org/works/alciphron-sea-letters-quo-aa)
-
-The Fishermen's Sea Letters constitutes the first book within the larger epistolary collection known as the Epistles by the Greek rhetorician Alciphron, who flourished during the Roman Imperial period, likely in the 2nd or 3rd century CE. This work is a collection of fictional letters, written in an artificially pure and refined Attic Greek, that vividly dramatize the daily lives, hardships, and domestic affairs of Athenian fishermen. Through these imagined correspondences, Alciphron depicts their battles with treacherous storms, the anxieties of poor catches, familial concerns, and professional rivalries. The entire corpus of 122 letters, attributed to various Athenian social types across its four books, survives intact through Byzantine manuscript tradition, with the oldest extant copy dating to the 14th century.
-
-A prime example of the literary tastes of the Second Sophistic movement, the letters are not historical documents but sophisticated rhetorical exercises. They function as a deliberate literary recreation of the social world found in Classical Athenian New Comedy, crafted for an educated audience that would appreciate the stylistic contrast between the humble, often comic subject matter and the elite artistry of its execution. The work is thus primarily a display of rhetorical virtuosity, allowing the author to adopt a diverse range of character voices and personas as a form of advanced compositional practice.
 
 ## Text
 

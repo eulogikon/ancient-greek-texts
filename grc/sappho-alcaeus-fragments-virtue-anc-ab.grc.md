@@ -5,6 +5,7 @@ author: Fragments of Sappho and Alcaeus
 eul_wid: anc-ab
 eul_aid: anc
 canonical: "https://eulogikon.org/works/sappho-alcaeus-fragments-virtue-anc-ab"
+lang: grc
 period: Archaic
 dialect: Aeolic
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Fragments of Sappho and Alcaeus
 
 **eul_wid:** `anc-ab` · [HTML page](https://eulogikon.org/works/sappho-alcaeus-fragments-virtue-anc-ab)
-
-The Fragments on Virtue constitute a modern scholarly compilation of twenty-eight poetic passages attributed to the lyric poets Sappho and Alcaeus of Lesbos. Their original works, composed for performance in the Aeolic dialect, survive only in a fragmentary state through later quotations, papyrus discoveries, and inscriptions on potsherds. This collection isolates those passages where themes of virtue, or aretē, are discernible, though the poems originally served broader purposes such as political exhortation, personal lament, or choral celebration. Within the fragments, virtue is addressed according to each poet’s distinctive world. The politically engaged poetry of Alcaeus treats aretē as an excellence linked to martial glory and noble action in the civic sphere. In contrast, the verses of Sappho, emerging from a more private setting, explore virtue through the lenses of beauty, desire, and the profound psychological and physical manifestations of intense feeling. Common themes across the fragments include the role of the gods and fortune in human success and the poet’s own power to confer lasting glory through praise. The poems were largely lost after antiquity and have been recovered primarily through quotations in later authors and from fragmentary papyri found at sites such as Oxyrhynchus. The specific grouping under the thematic heading of virtue is thus an editorial construct of modern scholarship. Both poets were profoundly influential in antiquity; Sappho was hailed as the Tenth Muse, while the meters and political themes of Alcaeus notably shaped the Latin poetry of Horace. Their rediscovered fragments remain central to the study of Archaic Greek poetry, ethics, and the historical understanding of gender and sexuality.
 
 ## Text
 

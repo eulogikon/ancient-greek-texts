@@ -5,6 +5,7 @@ author: Epic Work  Anonymous
 eul_wid: kjq-an
 eul_aid: kjq
 canonical: "https://eulogikon.org/works/epic-anon-inaugural-speech-kjq-an"
+lang: grc
 period: Hellenistic
 dialect: Epic (Homeric) (frg)
 domain: Epic
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Epic Work  Anonymous
 
 **eul_wid:** `kjq-an` · [HTML page](https://eulogikon.org/works/epic-anon-inaugural-speech-kjq-an)
-
-The Inaugural Speech, known in Greek as an epibatērion, represents a recognized genre of choral poetry performed during ceremonial departures for military or naval expeditions. While the genre itself is attested in ancient sources, no specific anonymous epic work bearing this exact title and described as comprising sixteen verse passages is recorded in extant scholarship. Consequently, there is no known manuscript tradition or fragmentary evidence for such a titled composition. The significance of the entry lies in its clarification of the genre, which illustrates the formal role of choral performance in public rituals marking major communal undertakings in the ancient Greek world. Such works were ceremonial in nature, designed to solemnize the embarkation on a campaign or voyage before a public audience.
 
 ## Text
 

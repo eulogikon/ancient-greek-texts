@@ -1,10 +1,11 @@
 ---
 title: Fragments on Thessalian Aleuas
 title_greek: Ἀποσπάσματα περὶ Θεσσαλοῦ Ἀλεύου
-author: "Hegemon of Alexandria "
+author: Hegemon of Alexandria
 eul_wid: jvk-aa
 eul_aid: jvk
 canonical: "https://eulogikon.org/works/hegemon-alexandria-thessalian-aleuas-jvk-aa"
+lang: grc
 period: Hellenistic
 dialect: Epic (Homeric)
 domain: Epic
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀποσπάσματα περὶ Θεσσαλοῦ Ἀλεύου*
 
-**Author:** Hegemon of Alexandria 
+**Author:** Hegemon of Alexandria
 
 **eul_wid:** `jvk-aa` · [HTML page](https://eulogikon.org/works/hegemon-alexandria-thessalian-aleuas-jvk-aa)
-
-The Fragments on Thessalian Aleuas is a lost work by Hegemon of Alexandria, known only from a single surviving excerpt preserved in the ancient scholia to Pindar's Pythian Ode 10. The fragment records the foundational myth of Aleuas, the legendary progenitor of the Aleuad dynasty, detailing his division of Thessaly into four distinct regions: Thessaliotis, Hestiaeotis, Pelasgiotis, and Phthiotis. This brief testimony provides crucial information on Thessalian political geography and legendary history, serving as a key source for understanding the origins of the region's most prominent aristocratic family. Its preservation within the Pindaric scholia underscores its ancient value as an authoritative reference for explicating regional and genealogical allusions in classical poetry. The original scope and full content of Hegemon's collection are otherwise unknown.
 
 ## Text
 

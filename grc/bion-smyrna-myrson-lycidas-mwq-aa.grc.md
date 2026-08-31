@@ -5,6 +5,7 @@ author: Bion of Smyrna
 eul_wid: mwq-aa
 eul_aid: mwq
 canonical: "https://eulogikon.org/works/bion-smyrna-myrson-lycidas-mwq-aa"
+lang: grc
 period: Hellenistic
 dialect: Doric Bucolic
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Bion of Smyrna
 
 **eul_wid:** `mwq-aa` · [HTML page](https://eulogikon.org/works/bion-smyrna-myrson-lycidas-mwq-aa)
-
-"Myrson and Lycidas" is a pastoral poem by the Hellenistic bucolic poet Bion of Smyrna, who likely wrote in the late second or early first century BCE. Structured as an amoebaean singing contest between two shepherds, it employs a conventional Theocritean format. The work survives only in fragments; the thirty-two extant lines are compiled from disparate sources and do not constitute a complete poem. The fragmentary verses depict a competitive exchange between the shepherds Myrson and Lycidas, touching upon subjects common to the pastoral genre such as love and rustic life. The poem is preserved through quotations in later grammatical and lexicographical works, such as the Etymologicum Magnum. Unlike Bion's more fully transmitted "Lament for Adonis," "Myrson and Lycidas" lacks a continuous manuscript tradition. As part of the Hellenistic bucolic canon, Bion's work, including this fragmentary contest, helped solidify the pastoral dialogue as a literary form, a tradition that directly influenced later poets, most notably Virgil in his Eclogues.
 
 ## Text
 

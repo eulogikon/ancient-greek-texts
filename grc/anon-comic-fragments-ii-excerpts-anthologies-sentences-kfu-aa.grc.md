@@ -5,6 +5,7 @@ author: Comic Fragments Anonymous II
 eul_wid: kfu-aa
 eul_aid: kfu
 canonical: "https://eulogikon.org/works/anon-comic-fragments-ii-excerpts-anthologies-sentences-kfu-aa"
+lang: grc
 period: Hellenistic
 dialect: Mixed Dialects
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Comic Fragments Anonymous II
 
 **eul_wid:** `kfu-aa` · [HTML page](https://eulogikon.org/works/anon-comic-fragments-ii-excerpts-anthologies-sentences-kfu-aa)
-
-The work conventionally titled Excerpts, Anthologies, and Sentences by Comic Fragments Anonymous II is a Byzantine anthology of 106 gnomic passages excerpted from Greek Middle and New Comedy. Preserved solely in the 13th- or 14th-century Codex Vaticanus Graecus 1296, it draws sententious lines from playwrights including Menander, Diphilus, and Philemon, prioritizing moral maxims over narrative continuity. The excerpts form a gnomology focused on ethical maxims, observations on human nature and fortune, witty social commentary, and reflections on daily life and relationships. The collection survives in a single manuscript as part of a larger Byzantine project to compile comic fragments, with an excerptor having selected these passages from earlier sources, thereby indirectly preserving fragments from otherwise lost comedies. This anthology is a critical primary source for fragmentary Greek comedy. Alongside similar collections in the same codex, it has been essential for modern editors in reconstructing the texts and themes of post-Aristophanic playwrights.
 
 ## Text
 

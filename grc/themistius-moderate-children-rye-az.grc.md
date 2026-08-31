@@ -5,6 +5,7 @@ author: Themistius the Philosopher
 eul_wid: rye-az
 eul_aid: rye
 canonical: "https://eulogikon.org/works/themistius-moderate-children-rye-az"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Themistius the Philosopher
 
 **eul_wid:** `rye-az` · [HTML page](https://eulogikon.org/works/themistius-moderate-children-rye-az)
-
-Moderate or Fond of Children is a philosophical oration by the fourth-century rhetorician and senator Themistius. Written as a personal consolation addressed to his father following the death of Themistius's young son, the work frames a central ethical question of late antiquity: whether one should aspire to Stoic impassivity or accept the Peripatetic ideal of moderate passion as a natural and philosophically valid response to loss. Themistius argues for the latter position, contending that parental love and the grief stemming from its loss are innate human drives rather than moral failures. The complete oration, structured in 33 sections, blends personal lament with philosophical discourse, employing classical myth and literary references to substantiate its case. Modern scholarship regards the speech as a significant document for understanding the practical application of Hellenic philosophy in everyday life during this period. It is believed to have been delivered in Constantinople around 355–361 CE, functioning both as a private consolation and a public demonstration of philosophical erudition for his intellectual peers. The oration stands as a key text for the study of the reception of Aristotelian ethics and the evolution of the consolatory genre in the Roman Empire.
 
 ## Text
 

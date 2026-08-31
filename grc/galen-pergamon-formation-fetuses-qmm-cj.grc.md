@@ -5,6 +5,7 @@ author: Galen of Pergamon
 eul_wid: qmm-cj
 eul_aid: qmm
 canonical: "https://eulogikon.org/works/galen-pergamon-formation-fetuses-qmm-cj"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Galen of Pergamon
 
 **eul_wid:** `qmm-cj` · [HTML page](https://eulogikon.org/works/galen-pergamon-formation-fetuses-qmm-cj)
-
-On the Formation of Fetuses is a medical treatise by Galen of Pergamon that systematically addresses embryonic development. The work constitutes a detailed polemic against rival theories, particularly the atomistic mechanics of Asclepiades of Bithynia, and argues for a teleological, pneuma-driven model of generation synthesized from Hippocratic and Aristotelian thought. Galen opens by criticizing philosophers and physicians who speculate on fetal formation without proper anatomical investigation, contrasting them with Hippocrates, whom he praises for grounding his conclusions in sensory observation. The treatise methodically refutes atomistic and mechanical explanations for generation, advocating instead for a purposeful, pre-ordained plan in embryonic development. Central to Galen's model is the role of pneuma, or vital spirit, and innate heat as the formative forces that shape the material contributed by the parents. He details the sequential activation of the soul's nutritive, sensitive, and rational faculties during gestation and provides a thorough analysis of fetal anatomy, membranes, and the umbilical cord, largely extrapolated from his dissections of animals. The treatise survives complete in its original Greek and was preserved and transmitted through the Byzantine, Arabic, and Latin scholarly traditions, later being included in the modern Corpus Medicorum Graecorum. As a foundational work in embryology for over a millennium, its teleological framework dominated Western and Islamic medicine, influencing figures from Avicenna to William Harvey, while its arguments against purely materialist explanations for life remained central to philosophical debates on generation.
 
 ## Text
 

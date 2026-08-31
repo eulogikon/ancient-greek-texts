@@ -5,6 +5,7 @@ author: Commentary on Dionysius Thrax
 eul_wid: lvi-ad
 eul_aid: lvi
 canonical: "https://eulogikon.org/works/comm-dionysius-thrax-vatican-scholia-lvi-ad"
+lang: grc
 period: Hellenistic
 dialect: Technical Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Commentary on Dionysius Thrax
 
 **eul_wid:** `lvi-ad` · [HTML page](https://eulogikon.org/works/comm-dionysius-thrax-vatican-scholia-lvi-ad)
-
-The Vatican Scholia is an anonymous Byzantine grammatical commentary comprising 188 discrete annotations on the foundational Hellenistic textbook, the Art of Grammar by Dionysius Thrax. Preserved in a manuscript held by the Vatican Library, from which it derives its conventional title, the work functions as a detailed exegesis of the often-condensed rules presented by Dionysius. Its content systematically explicates core grammatical doctrine, including the definitions and functions of the eight parts of speech, syntax, and morphology. The scholia frequently reference the opinions of other grammarians, thereby offering a valuable doxography of ancient and late antique grammatical thought, and occasionally include notes on textual criticism or variant readings within the Dionysian tradition. As a significant part of the vast exegetical tradition surrounding Dionysius Thrax, the Vatican Scholia was instrumental in transmitting and debating ancient grammatical knowledge into the Byzantine period, providing historians of linguistics with crucial evidence for the reception and pedagogical development of grammatical theory in post-classical scholarship.
 
 ## Text
 

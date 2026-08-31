@@ -5,6 +5,7 @@ author: Bacchylides of Ceos
 eul_wid: brw-ad
 eul_aid: brw
 canonical: "https://eulogikon.org/works/bacchylides-ceos-erotic-fragments-brw-ad"
+lang: grc
 period: Classical
 dialect: Doric
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Bacchylides of Ceos
 
 **eul_wid:** `brw-ad` · [HTML page](https://eulogikon.org/works/bacchylides-ceos-erotic-fragments-brw-ad)
-
-The Erotic Works Fragments attributed to Bacchylides of Ceos consist of nine brief passages preserved as quotations in later ancient authors, most notably the fifth-century anthologist Stobaeus. Classified as lyric poetry, these fragments treat themes of love and are thought to originate from personal or sympotic poetry, a genre distinct from the poet's public choral odes. Their textual condition is extremely fragmentary, with one example directly referencing the sweet gift of Aphrodite. The content centers on erotic themes, including direct invocations of the goddess of love and reflections on good fortune, which is linked to life and love in one fragment stating that for mortals, good fortune is the first of prizes. The likely sympotic performance context suggests these works contemplated love's pleasures and pains within a convivial setting. These fragments were not part of the major papyrus discovery in 1896 that recovered much of Bacchylides' other work; they survive solely as excerpts embedded in the texts of later compilers, representing a minimal remnant of what was likely a more substantial body of erotic poetry. While their direct literary influence is untraceable, their preservation by Stobaeus indicates Bacchylides' erotic verse was valued in late antiquity for its gnomic quality. His modern rediscovery established him as a major lyric poet, though scholarly focus remains predominantly on his more complete choral odes rather than these brief erotic fragments.
 
 ## Text
 

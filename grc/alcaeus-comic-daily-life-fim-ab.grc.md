@@ -5,6 +5,7 @@ author: Alcaeus the Comic Poet
 eul_wid: fim-ab
 eul_aid: fim
 canonical: "https://eulogikon.org/works/alcaeus-comic-daily-life-fim-ab"
+lang: grc
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alcaeus the Comic Poet
 
 **eul_wid:** `fim-ab` · [HTML page](https://eulogikon.org/works/alcaeus-comic-daily-life-fim-ab)
-
-The Comic Fragments on Daily Life is a modern thematic compilation of twenty-nine passages attributed to the poet Alcaeus, who was active during the period of Middle Comedy in the fourth century BCE. These excerpts are not derived from a single, continuous ancient text but are instead gathered from citations found in later scholarly works, most notably Athenaeus's Deipnosophistae, where they were preserved for their illustrative value regarding social customs, cuisine, and colloquial speech. The fragments collectively offer a vivid, if piecemeal, portrait of Athenian daily life, reflecting the characteristic concerns of Middle Comedy. Their subjects range from domestic affairs and culinary indulgence, including mentions of luxurious bread and festive preparations, to the parody of mythological figures and the deployment of stock character types. As with most work from this transitional comic period, the complete plays of Alcaeus are lost, making these fragments an essential resource for understanding the evolution of Athenian comedy between the political satire of Aristophanes and the domestic focus of Menander. They provide significant insight into non-elite social history and the vernacular language of the time.
 
 ## Text
 

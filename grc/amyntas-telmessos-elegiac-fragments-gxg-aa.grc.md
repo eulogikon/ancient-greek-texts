@@ -1,10 +1,11 @@
 ---
 title: Elegiac Poetry Fragments
 title_greek: Ἐλεγειακῆς Ποιήσεως Ἀποσπάσματα
-author: "Amyntas of Telmessos "
+author: Amyntas of Telmessos
 eul_wid: gxg-aa
 eul_aid: gxg
 canonical: "https://eulogikon.org/works/amyntas-telmessos-elegiac-fragments-gxg-aa"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Poetry
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἐλεγειακῆς Ποιήσεως Ἀποσπάσματα*
 
-**Author:** Amyntas of Telmessos 
+**Author:** Amyntas of Telmessos
 
 **eul_wid:** `gxg-aa` · [HTML page](https://eulogikon.org/works/amyntas-telmessos-elegiac-fragments-gxg-aa)
-
-The Elegiac Poetry Fragments attributed to Amyntas of Telmessos comprise eleven brief passages preserved within Athenaeus’s 3rd-century CE compendium, the Deipnosophistae. Athenaeus quotes these elegiac fragments not for their literary merit but as sources for rare words and customs, resulting in excerpts of one or two lines removed from their original narrative context. The cited fragments indicate the poetry contained antiquarian or historical material, with themes including dining and sympotic customs, such as a reference to a Cyprian dinner, historical or mythological narrative, including a mention of the companions of Medeus, and descriptions of local Lycian traditions and specialized vocabulary. The fragments survive solely through this indirect transmission in the Deipnosophistae; no independent manuscript tradition of Amyntas’s work exists. The poet himself is obscure, known only as a source for Athenaeus, and his complete poems are lost. Amyntas’s significance lies entirely in his utility as a source for later grammarians. His fragments contributed minutely to preserving obscure lexical and cultural knowledge within the Greco-Roman encyclopedic tradition, though they exerted no discernible influence on the broader poetic canon.
 
 ## Text
 

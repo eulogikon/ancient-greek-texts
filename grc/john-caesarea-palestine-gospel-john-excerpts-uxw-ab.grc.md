@@ -5,6 +5,7 @@ author: John of Caesarea in Palestine
 eul_wid: uxw-ab
 eul_aid: uxw
 canonical: "https://eulogikon.org/works/john-caesarea-palestine-gospel-john-excerpts-uxw-ab"
+lang: grc
 period: Late Antique
 dialect: Christian Koine
 domain: Grammar
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** John of Caesarea in Palestine
 
 **eul_wid:** `uxw-ab` · [HTML page](https://eulogikon.org/works/john-caesarea-palestine-gospel-john-excerpts-uxw-ab)
-
-The treatise On the Gospel According to John Two Excerpts is a grammatical work attributed to John of Caesarea in Palestine, a Christian scholar of the sixth century. As its title indicates, the text consists of two exegetical selections concerning passages from the Gospel of John. The extant fragments demonstrate that the work provides commentary on specific verses, interpreting them through grammatical and rhetorical analysis. In one excerpt, the author explicates John 8:44, drawing a typological parallel between Cain, called a devil and a murderer, and the Jews who sought to kill Christ, both motivated by envy. Another excerpt addresses John 10:18, where Christ speaks of having received the commandment from his Father to lay down his life and take it up again. The author clarifies that this statement is directed against Jewish accusations of Christ being opposed to God, and he connects it to the prophecy in Deuteronomy concerning a prophet like Moses.
-
-The manuscript tradition and preservation status of this specific treatise are not well documented, and the work remains obscure, lacking references in major encyclopedic sources. Nevertheless, it represents a clear example of how the classical traditions of grammatical and rhetorical education were applied to biblical exegesis by Christian scholars in late antiquity. The treatise situates the scholarly activity of John of Caesarea within the broader intellectual context of sixth-century Palestinian Christian paideia, where the tools of secular learning were employed to elucidate sacred texts.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Hermippus the Comic Poet
 eul_wid: djs-aa
 eul_aid: djs
 canonical: "https://eulogikon.org/works/hermippus-gods-time-djs-aa"
+lang: grc
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hermippus the Comic Poet
 
 **eul_wid:** `djs-aa` · [HTML page](https://eulogikon.org/works/hermippus-gods-time-djs-aa)
-
-The Fragments on Gods and Time is a modern scholarly compilation of 168 surviving passages attributed to the lost comedies of Hermippus, an Athenian poet of Old Comedy active during the latter half of the 5th century BCE. As no complete play by Hermippus has survived antiquity, these fragments exist solely through their quotation by later Greek authors, primarily lexicographers, grammarians, and commentators seeking to illustrate linguistic or cultural points. The modern title reflects two of the collection's most prominent thematic threads: the parody of divine figures and mythological conventions, and observations on societal change and the nature of time. Active during the peak of Old Comedy, a genre characterized by its bold political satire, personal invective, and imaginative, often absurd plots, Hermippus wrote for performance at major Athenian civic festivals such as the City Dionysia. The fragments, which consist of dialogue and choral lyrics composed in Attic Greek verse, provide invaluable, if piecemeal, insights into the broader landscape of classical Athenian comedy beyond the limited corpus of complete plays preserved from Aristophanes and Menander. Scholars utilize these textual remnants to reconstruct aspects of Hermippus's poetic style, his comedic targets, and the wider theatrical and social concerns of his era, thereby illuminating a significant voice otherwise lost from the historical record.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Zosimus of Panopolis
 eul_wid: tyc-al
 eul_aid: tyc
 canonical: "https://eulogikon.org/works/zosimus-panopolis-interpretation-lights-tyc-al"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Zosimus of Panopolis
 
 **eul_wid:** `tyc-al` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-interpretation-lights-tyc-al)
-
-The Interpretation of Everything Simply and on Lights is an alchemical treatise composed in Greek by Zosimus of Panopolis in Egypt around 300 CE. A concise and instructional work, it exemplifies Zosimus’s characteristic blend of practical laboratory directions with philosophical reflection. The “lights” referenced in its title are understood by modern scholars to denote the crucial color transformations—such as blackening or whitening—observed during metallic transmutation, which served as key indicators of progress in the alchemical operation. The text provides specific technical details, discussing the treatment of metals like lead and copper, the use of a substance called “divine water,” and the careful regulation of heating times to achieve desired effects.
-
-Preserved within the larger corpus of Zosimus’s writings, the treatise survives primarily in Byzantine Greek manuscripts, notably the 10th- or 11th-century Codex Marcianus Graecus 299. As with most ancient alchemical literature, the transmission process has introduced scribal errors and textual alterations. Scholarly interpretation places Zosimus’s work within a tradition where alchemy was conceived as both a material craft and a spiritual discipline, seeking the perfection of substances in parallel with the refinement of the practitioner’s soul. This treatise, alongside his other works, formed a foundational component of the alchemical corpus, influencing subsequent developments through Byzantine, Syriac, and Arabic channels before reaching the Latin West.
 
 ## Text
 

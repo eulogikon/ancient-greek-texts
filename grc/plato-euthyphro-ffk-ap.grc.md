@@ -5,6 +5,7 @@ author: Plato of Athens
 eul_wid: ffk-ap
 eul_aid: ffk
 canonical: "https://eulogikon.org/works/plato-euthyphro-ffk-ap"
+lang: grc
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plato of Athens
 
 **eul_wid:** `ffk-ap` · [HTML page](https://eulogikon.org/works/plato-euthyphro-ffk-ap)
-
-The Euthyphro is a philosophical dialogue by Plato, composed in Attic Greek circa 399–390 BCE. It dramatizes a conversation outside the Athenian court building between Socrates and Euthyphro, a man who professes expertise in religious matters. Socrates is present for a preliminary hearing on the charges of impiety that will lead to his trial, while Euthyphro is there to initiate a prosecution against his own father for murder. Socrates seizes upon their encounter to ask Euthyphro for a definition of piety. The ensuing dialogue consists of a series of definitions proposed by Euthyphro—including piety as what is loved by the gods, and piety as a form of service to the gods—each of which is systematically examined and refuted through Socrates’s method of logical cross-examination. This interrogation culminates in the famous "Euthyphro Dilemma," which questions whether an act is pious because the gods love it, or whether the gods love it because it is inherently pious. The dialogue concludes in aporia, or impasse, with no satisfactory definition established.
-
-Set on the eve of Socrates’s trial in 399 BCE, the work is often read alongside Plato’s Apology, Crito, and Phaedo, which together chronicle the philosopher’s final days. Scholars generally classify the Euthyphro as an early Platonic dialogue, notable for its exemplary use of the Socratic elenchus, or method of refutation, to challenge conventional and unexamined beliefs about virtue and religious duty. The complete text has survived antiquity and is conventionally divided into 232 passages using the Stephanus page system. It remains one of Plato’s most frequently studied works, valued both for its concise structure and for the enduring philosophical significance of its central ethical and theological problem.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Lucian of Samosata
 eul_wid: pfk-cn
 eul_aid: pfk
 canonical: "https://eulogikon.org/works/lucian-samosata-demonax-pfk-cn"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lucian of Samosata
 
 **eul_wid:** `pfk-cn` · [HTML page](https://eulogikon.org/works/lucian-samosata-demonax-pfk-cn)
-
-_Demonax_ is a prose encomium by the Syrian satirist Lucian of Samosata, composed in Greek during the late second century CE. The work is a biographical tribute to the Athenian philosopher Demonax, structured not as a continuous narrative but as a series of concise anecdotes and apophthegms. Through these episodes, Lucian constructs a portrait of an idealized sage who combined Socratic irony with Cynic forthrightness, yet avoided the severe asceticism often associated with the Cynic school. The anecdotes illustrate Demonax's modest lifestyle, his adept use of gentle humor and pointed wit to admonish folly, his fearless speech before Roman officials, and the profound respect he commanded in Athenian society. The account concludes with a description of his tranquil death. Written during the cultural movement known as the Second Sophistic, which prized rhetorical virtuosity, the text stands apart from Lucian's more characteristic satire by offering a positive philosophical exemplar. Modern scholarship views the work as serving a dual purpose: it is both a genuine memorial to a philosopher Lucian admired and an implicit critique of the perceived hypocrisies and doctrinal excesses of contemporary philosophical schools. The complete text survives within the extensive manuscript tradition of Lucian's writings, though the portrait it presents is understood to be a literary idealization, shaped by Lucian's artistic aims rather than a strictly historical record.
 
 ## Text
 

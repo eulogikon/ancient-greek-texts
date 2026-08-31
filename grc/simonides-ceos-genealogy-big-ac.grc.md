@@ -5,6 +5,7 @@ author: Simonides of Ceos
 eul_wid: big-ac
 eul_aid: big
 canonical: "https://eulogikon.org/works/simonides-ceos-genealogy-big-ac"
+lang: grc
 period: Archaic
 dialect: Koine
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Simonides of Ceos
 
 **eul_wid:** `big-ac` · [HTML page](https://eulogikon.org/works/simonides-ceos-genealogy-big-ac)
-
-The Fragments on Genealogy attributed to Simonides of Ceos do not constitute a discrete, attested work but rather represent a modern scholarly designation for scattered references to the poet’s genealogical writings. Simonides, a major lyric poet of the late sixth and early fifth centuries BCE, was renowned for his victory odes, dirges, and epigrams. His vast output, which frequently engaged with mythological and heroic themes, is preserved almost entirely in fragments. Later ancient commentators, such as Tzetzes and the scholiasts on Apollonius Rhodius, explicitly refer to Simonides as a "genealogist" and cite him for details concerning divine and heroic lineages. These citations indicate his work included narratives like the conflict between the goddess Athena and her sister Iodama, the ancestry of the Argonaut Ancaeus, and the settlement patterns of the Minyans. Such material functioned within the tradition of genealogical praise poetry, serving to connect contemporary aristocratic patrons to a mythical past, legitimize status, and integrate local traditions into the broader Panhellenic heroic cycles. The fragments survive solely through quotation by later grammarians, historians, and anthologists; there is no independent manuscript tradition for a collection bearing this title. Nevertheless, these references confirm Simonides' active participation in a central poetic genre of his era, one concerned with kleos (glory), memory, and the construction of heroic identity, and they underscore his technical influence on subsequent poets like his nephew Bacchylides.
 
 ## Text
 

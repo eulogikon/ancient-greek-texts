@@ -5,6 +5,7 @@ author: Alchemist I
 eul_wid: rrg-co
 eul_aid: rrg
 canonical: "https://eulogikon.org/works/alchemist-i-economy-rrg-co"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alchemist I
 
 **eul_wid:** `rrg-co` · [HTML page](https://eulogikon.org/works/alchemist-i-economy-rrg-co)
-
-No treatise titled The Economy attributed to an author known as Alchemist I is attested in standard scholarly sources. The pseudonym does not correspond to any known figure in Greek alchemy, such as Zosimus of Panopolis or pseudo-Democritus. While the title implies a subject of household or workshop management, no such alchemical text is recorded in the established corpus. The specific content and themes of the work are undocumented, and there is no known manuscript tradition or preservation history for it in catalogs of extant or fragmentary Greek alchemical texts. Consequently, the work lacks an established place in the historical literature of the field, and its purported existence cannot be verified through conventional reference materials.
 
 ## Text
 

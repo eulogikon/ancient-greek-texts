@@ -5,6 +5,7 @@ author: Phocylides of Miletus
 eul_wid: bdg-ab
 eul_aid: bdg
 canonical: "https://eulogikon.org/works/phocylides-miletus-epigrams-bdg-ab"
+lang: grc
 period: Archaic
 dialect: Ionic Elegiac
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Phocylides of Miletus
 
 **eul_wid:** `bdg-ab` · [HTML page](https://eulogikon.org/works/phocylides-miletus-epigrams-bdg-ab)
-
-The Epigrams of Phocylides of Miletus constitute a collection of gnomic sayings attributed to the 6th-century BCE poet. Written in Ionic Greek verse, these short, pithy fragments offer practical advice for living a virtuous life, emphasizing moderation, justice, good reputation, and sensible social conduct. A famous example extols the merits of a small, well-ordered city over a large, chaotic one. The poems are structured as individual maxims, often introduced by a formulaic phrase such as "And this too is of Phocylides." The work survives only in fragments, with no complete manuscript extant; knowledge of it depends entirely on quotations preserved by later ancient authors and anthologists, including Aristotle and Stobaeus. Modern scholarship interprets this poetry as part of an archaic didactic tradition aimed at citizen education, reflecting the civic values of Phocylides' home, the powerful Ionian city-state of Miletus. The transmission history is complicated by a later, pseudepigraphical work falsely attributed to the poet, which follows a separate textual tradition.
 
 ## Text
 

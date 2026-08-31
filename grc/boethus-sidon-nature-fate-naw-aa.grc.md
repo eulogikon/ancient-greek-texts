@@ -5,6 +5,7 @@ author: Boethus of Sidon
 eul_wid: naw-aa
 eul_aid: naw
 canonical: "https://eulogikon.org/works/boethus-sidon-nature-fate-naw-aa"
+lang: grc
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Boethus of Sidon
 
 **eul_wid:** `naw-aa` · [HTML page](https://eulogikon.org/works/boethus-sidon-nature-fate-naw-aa)
-
-The Fragments on Nature and Fate constitutes a modern scholarly compilation of eleven passages attributed to the Stoic philosopher Boethus of Sidon, who was active in the first century BCE. As the original treatise is lost, the collection consists entirely of quotations preserved by later authors, most notably the Aristotelian commentator Alexander of Aphrodisias from around 200 CE. Alexander cited these passages in his critiques of Stoic determinism, meaning the fragments are transmitted through a polemical and critical lens, obscuring the original structure and full scope of Boethus's work. The collected excerpts address fundamental Stoic doctrines, particularly concerning fate, defined as an unbroken chain of causes, and the role of divine providence in the cosmos. A significant and distinctive position held by Boethus, which set him apart from mainstream Stoic thought, was his argument for the imperishability of the cosmos, rejecting the standard Stoic doctrine of its periodic destruction and renewal through cosmic conflagration. The fragments thus provide crucial evidence for intellectual debate and doctrinal refinement within the Stoic school during the Hellenistic period. They are studied primarily to understand the diversity of philosophical positions on fate, cosmology, and divine agency in antiquity.
 
 ## Text
 

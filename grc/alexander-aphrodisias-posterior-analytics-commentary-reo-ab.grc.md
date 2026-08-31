@@ -5,6 +5,7 @@ author: Alexander of Aphrodisias
 eul_wid: reo-ab
 eul_aid: reo
 canonical: "https://eulogikon.org/works/alexander-aphrodisias-posterior-analytics-commentary-reo-ab"
+lang: grc
 period: Roman
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alexander of Aphrodisias
 
 **eul_wid:** `reo-ab` · [HTML page](https://eulogikon.org/works/alexander-aphrodisias-posterior-analytics-commentary-reo-ab)
-
-The Commentary Fragments on the Posterior Analytics by Alexander of Aphrodisias are four surviving excerpts from a larger, now-lost exegetical work on Aristotle’s treatise concerning scientific demonstration. Composed around 200 CE during Alexander’s tenure as the official professor of Aristotelian philosophy in Athens, these Greek fragments provide a detailed, line-by-line analysis of Aristotle’s arguments. They address core logical doctrines from the Posterior Analytics, including the fundamental distinction between essential and accidental predication and the conditions for ignorance within a syllogistic framework. The fragments survive not as an independent manuscript but through indirect transmission, embedded within the marginal scholia of a tenth-century codex of Aristotle’s text and incorporated into the later commentary of John Philoponus. Their preservation attests to their enduring utility for later scholars. Interpreted as part of Alexander’s project to offer a systematic and authoritative defense of Aristotelian logic for his students, the fragments represent a key intervention in the contemporary philosophical debates with Stoic and Skeptic rivals. Despite their fragmentary state, Alexander’s explications carried immense authority, earning him the epithet "the Commentator" and ensuring his interpretations profoundly shaped the subsequent reception of Aristotle in Greek, Arabic, and medieval Latin scholasticism.
 
 ## Text
 

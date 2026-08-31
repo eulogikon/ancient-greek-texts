@@ -5,6 +5,7 @@ author: Epictetus the Stoic
 eul_wid: ojw-af
 eul_aid: ojw
 canonical: "https://eulogikon.org/works/epictetus-handbook-ojw-af"
+lang: grc
 period: Roman
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Epictetus the Stoic
 
 **eul_wid:** `ojw-af` · [HTML page](https://eulogikon.org/works/epictetus-handbook-ojw-af)
-
-The Enchiridion, or Handbook, is a concise philosophical manual compiled around 108 CE by the historian Arrian from the teachings of the Stoic philosopher Epictetus. Written in Koine Greek, it distills the essence of Epictetus’s longer discourses into 95 brief chapters intended for practical daily use and ethical self-improvement rather than theoretical speculation. The work’s foundational principle is the dichotomy of control, which asserts that human flourishing depends on rigorously distinguishing between what is within our power—our judgments, impulses, desires, and aversions—and what is not, such as our bodies, possessions, reputations, and the actions of others. By focusing exclusively on the former and accepting the latter with calm indifference, an individual can achieve inner freedom and tranquility.
-
-The text provides direct, actionable advice on managing disruptive impressions, fulfilling social roles, and aligning one’s will with the rational order of nature and the dictates of fate. Its prose is aphoristic and imperative, designed to be memorized and consulted as a guide for navigating life’s challenges. Transmitted intact from antiquity, the Enchiridion enjoyed enduring popularity through the Byzantine, medieval, and Renaissance periods due to its clarity and practical utility. Modern scholarship regards it as the quintessential expression of Roman Stoicism’s therapeutic and ethical focus, aimed at cultivating resilience and moral integrity. Its principles have exerted a significant influence on later Christian ascetic thought and continue to inform contemporary psychological approaches to well-being.
 
 ## Text
 

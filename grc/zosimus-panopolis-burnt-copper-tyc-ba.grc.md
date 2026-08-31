@@ -5,6 +5,7 @@ author: Zosimus of Panopolis
 eul_wid: tyc-ba
 eul_aid: tyc
 canonical: "https://eulogikon.org/works/zosimus-panopolis-burnt-copper-tyc-ba"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Zosimus of Panopolis
 
 **eul_wid:** `tyc-ba` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-burnt-copper-tyc-ba)
-
-On the Difference of Burnt Copper is a technical alchemical treatise written in Greek by Zosimus of Panopolis around 300 CE. The work is a concise procedural manual detailing the laboratory process of calcining, or burning, copper to alter its fundamental properties. It provides specific instructions on the materials, steps, and specialized apparatus required, including the use of a sublimation device known as a kerotakis. The text is structured in two primary passages that systematically describe methods for producing different states of processed copper, referencing earlier authorities like Democritus while emphasizing the transformative potential of metallic residues, or slag.
-
-The treatise survives intact through medieval Byzantine manuscript copies and forms part of Zosimus's extensive and influential corpus. Working in Panopolis in Roman Egypt, Zosimus operated within the Greco-Egyptian alchemical tradition, which combined practical craft knowledge with philosophical and often esoteric concepts. While this work is fundamentally a practical guide for contemporary practitioners, scholars recognize that Zosimus frequently imbued such descriptions of material transformation with allegorical significance, viewing physical processes like purification and calcination as metaphors for spiritual ascent and refinement. His detailed technical writings became foundational texts, later translated into Syriac and Arabic, and played a significant role in transmitting and shaping alchemical theory and practice in the Islamic world and subsequently in medieval Europe.
 
 ## Text
 

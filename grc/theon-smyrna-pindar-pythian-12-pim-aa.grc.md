@@ -5,6 +5,7 @@ author: Theon of Smyrna II
 eul_wid: pim-aa
 eul_aid: pim
 canonical: "https://eulogikon.org/works/theon-smyrna-pindar-pythian-12-pim-aa"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Mathematics
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Theon of Smyrna II
 
 **eul_wid:** `pim-aa` · [HTML page](https://eulogikon.org/works/theon-smyrna-pindar-pythian-12-pim-aa)
-
-Theon of Smyrna’s Commentary on Pindar’s Twelfth Pythian Ode is a specialized scholarly treatise from the Roman Imperial period, composed in Greek circa 115–140 CE. Authored by Theon, a mathematician and Platonist philosopher, the work explicates a passage in Pindar’s victory ode concerning the myth of the goddess Athena inventing the aulos, a double-pipe flute. The commentary moves beyond literary analysis to interpret the poetic narrative through the principles of mathematical music theory. Theon argues that the instrument’s construction embodies the fundamental numerical ratios that define consonant musical intervals, such as the fourth, the fifth, and the octave. The work survives only in fragmentary form, preserved not independently but within two excerpts quoted by the later Neoplatonist philosopher Porphyry in his own commentary on musical theory. These fragments exemplify Theon’s Middle Platonist methodology, which sought to uncover scientific and philosophical truths beneath the surface of poetic language. Modern scholarship regards the treatise as a significant example of interdisciplinary learning within the Middle Platonist tradition, likely intended for advanced students of philosophy and mathematics. It illustrates the broader ancient practice of reading classical poetry as an allegorical vehicle for advanced knowledge concerning musical harmony and, by extension, the mathematical order of the cosmos.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Callias the Comic Poet
 eul_wid: dkc-aa
 eul_aid: dkc
 canonical: "https://eulogikon.org/works/callias-comic-symposium-fragments-dkc-aa"
+lang: grc
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Callias the Comic Poet
 
 **eul_wid:** `dkc-aa` · [HTML page](https://eulogikon.org/works/callias-comic-symposium-fragments-dkc-aa)
-
-The Symposium and Satirical Fragments is a modern compilation of excerpts from the lost comedies of Callias, an Athenian poet of Old Comedy active in the late fifth century BCE. Written in Attic Greek verse, the collection consists of thirty-seven short passages preserved not from a single play entitled Symposium but from various works by the author. These remnants offer valuable insight into Callias’s comedic style, which was characterized by intellectual satire aimed at contemporary philosophers, sophists, and literary figures. He frequently parodied individuals such as the tragedian Euripides for their perceived pretentiousness or stylistic excesses.
-
-No complete play by Callias survives. The extant fragments owe their preservation to their quotation by later ancient authors, most notably Athenaeus in his Deipnosophistae (The Learned Banqueters). Scholars interpret these fragments as evidence that Callias moved within sophisticated Athenian circles and used his comedy to critique the new intellectual currents of his era. His play The Letter Tragedy is particularly noted for its satire of grammatical pedantry. The symposium setting, a common motif in Greek literature, provided a natural framework for his mockery of social and intellectual manners at aristocratic drinking parties. Although the loss of his complete works limits assessment of his direct influence, the fragments remain a significant resource for understanding the breadth of satirical expression in Classical Athenian comedy beyond the works of more famous playwrights such as Aristophanes.
 
 ## Text
 

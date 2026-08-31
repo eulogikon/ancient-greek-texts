@@ -1,10 +1,11 @@
 ---
 title: Lament for a Lost Son
 title_greek: Ἀπόσπασμα
-author: "Lamentation Song "
+author: Lamentation Song
 eul_wid: sck-aa
 eul_aid: sck
 canonical: "https://eulogikon.org/works/lamentation-song-lost-son-sck-aa"
+lang: grc
 period: Late Antique
 dialect: Byzantine Greek
 domain: Poetry
@@ -16,17 +17,17 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀπόσπασμα*
 
-**Author:** Lamentation Song 
+**Author:** Lamentation Song
 
 **eul_wid:** `sck-aa` · [HTML page](https://eulogikon.org/works/lamentation-song-lost-son-sck-aa)
-
-The Lament for a Lost Son is a poetic threnody, a formal expression of grief, whose Greek title, Apóspasma, explicitly denotes its status as a fragment or extract from a larger, now-lost work. The authorship is attributed to "Lamentation Song," a name not found among the canon of known ancient Greek poets, suggesting it may be a descriptive title rather than a personal name. The poem is a direct and poignant articulation of parental mourning for a deceased child. Its imagery is rich with mythological allusion, comparing the lost son to a second sun and invoking figures like Clymene and the river Eridanus, traditional symbols of profound lament. The speaker vows to adorn the sacred tomb with golden trees and flowing streams, while the presence of deities such as Cybele, the Paphian goddess Aphrodite, and Adonis further situates the personal grief within a broader framework of mythological loss and ritual mourning. The work's transmission history is undocumented, and it survives only in this fragmentary state. Nevertheless, it stands as a significant testament to the central role of the lament within ancient Greek literary culture, exemplifying the enduring poetic tradition of giving voice to the deepest expressions of sorrow.
 
 ## Text
 
 ### unit_1
 
 ἤδη σέ περ ὄντα πρὸ τοῦ πολλοῦ (?) κλαύσω τάφον οἷα θανόντι πρὸ τοῦ θανάτου στήσας, τέκνον, ἄρματα πά[ντα. Φαεσφόρος σὺ καλε〈ῖ〉, παῖ, καὶ σὸν περὶ τύμβον ἱερόν φυτεύσω δένδρεα χρύσεα, πεδάσω νάμασιν, ορ...νουσ[α] στενάξω δεύτερον Ἥλιον ὡς Κλυμένη γῶον Ἠριδανοῦ. Κυβέλ[η], συμεδευδο.. δασ⟦.......⟧ νάπαις γαμέτην Φρύγα πῶς νεάγαμ[ον] ἔτεμες περὶ τύμβον ἱερό[ν καὶ μέλος ἔλεγον, ὅ τε παρὰ Παππᾶν γέγωνε γυνὴ Παφίη, ἔχουσα τὸν Ἄδωνιν, κλαίουσα νύμ[φιο]ν ἐν στενο[ῖς. γώους Βυβλιάσιν ἔλεγον· ‘αἰαῖ, βραχὺς ὑμήν.‘ ταφεῖν τὰ ἔντιμα μέλη; σεῖστρον καλεῖ ς’ ὑφ’ ἄρρητα Λήθη〈σ〉 νύχια. ἀλλ’ ἤδ’ [εἰ]ς εὐνή[ν], παῖ, παραχωρεῖ〈σ〉. φύγε φέγγος ἐμόν, σπεῦ[σ]ον σὺν ἐμοί νὺξ παντα[..]μενε. κλαίω τέκνον ἐλεινὸν ἐμόν, δεύτερον Ἥλιον, ὡς Κλυμένη γῶον Ἠριδανοῦ.
+
+*[crux: συμεδευδο]*
 
 ## License and provenance
 

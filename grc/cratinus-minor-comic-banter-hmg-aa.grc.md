@@ -5,6 +5,7 @@ author: Cratinus the Younger
 eul_wid: hmg-aa
 eul_aid: hmg
 canonical: "https://eulogikon.org/works/cratinus-minor-comic-banter-hmg-aa"
+lang: grc
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Cratinus the Younger
 
 **eul_wid:** `hmg-aa` · [HTML page](https://eulogikon.org/works/cratinus-minor-comic-banter-hmg-aa)
-
-The Fragments of Comic Banter, also known as Scraps of Comic Mockery, is a lost verse collection attributed to Cratinus the Younger, a poet distinct from his more famous namesake of Old Comedy. The work is recorded in the Byzantine Suda lexicon, which notes it comprised 29 passages. This suggests a compilation of humorous or satirical excerpts, possibly drawn from larger dramatic works or conceived as standalone comic skits. The title itself indicates a thematic focus on mockery and comic invective. No direct quotations from the collection survive in extant sources, and its subjects remain entirely unknown. Its sole preservation in a late catalogue implies it was not a widely influential literary work. Its existence, however, reflects later antiquarian or scholarly efforts, perhaps from the Hellenistic or Roman periods, to compile notable examples of comic wit, potentially for use in rhetorical education or as a sourcebook of humor.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Aeschines of Athens
 eul_wid: hbm-ad
 eul_aid: hbm
 canonical: "https://eulogikon.org/works/aeschines-athens-letters-delos-hbm-ad"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aeschines of Athens
 
 **eul_wid:** `hbm-ad` · [HTML page](https://eulogikon.org/works/aeschines-athens-letters-delos-hbm-ad)
-
-The Letters from Delos is a lost collection of fifty-three epistolary passages traditionally ascribed to the Athenian orator Aeschines. The work is known only through a brief notice in the tenth-century Byzantine encyclopedia, the Suda, which records that Aeschines composed letters in addition to his orations. The title implies a fictional setting of correspondence dispatched from the sacred island of Delos, a major cult center of Apollo. Scholars generally regard the collection not as genuine private correspondence but as a set of rhetorical or literary exercises, a common practice among orators to demonstrate proficiency in the epistolary genre. As such, the letters would have served to display stylistic artistry and the projection of ethical character, or ēthos. Likely themes include political and ethical reflection on statesmanship, cultural and religious references drawing upon Delos’s Panhellenic significance, and the experience of exile—a topic with personal resonance for Aeschines, who lived in exile after his defeat by Demosthenes in 330 BCE. No fragments of the text survive, and its attribution to Aeschines is considered questionable by modern scholarship, as the ascription of letter collections to famous classical figures was a widespread pseudepigraphical practice in later antiquity. Nevertheless, the traditional attribution contributed to the posthumous image of Aeschines as a versatile rhetorician and situates his name within a broader literary tradition of epistolary writing associated with major Athenian intellectuals.
 
 ## Text
 

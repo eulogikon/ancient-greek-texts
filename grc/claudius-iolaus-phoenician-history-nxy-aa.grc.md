@@ -5,6 +5,7 @@ author: Claudius Iolaus the Historian
 eul_wid: nxy-aa
 eul_aid: nxy
 canonical: "https://eulogikon.org/works/claudius-iolaus-phoenician-history-nxy-aa"
+lang: grc
 period: Roman
 dialect: Koine (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Claudius Iolaus the Historian
 
 **eul_wid:** `nxy-aa` · [HTML page](https://eulogikon.org/works/claudius-iolaus-phoenician-history-nxy-aa)
-
-The Phoenician History of Claudius Iolaus is a lost prose work, surviving only in fragments quoted by later authors. These passages are preserved primarily in the Ethnica, a 6th-century geographical lexicon by Stephanus of Byzantium, with a brief notice of the work's existence also recorded by the 9th-century patriarch Photius. Written in Greek for a Greco-Roman audience, the compilation presented Phoenician mythological and geographical lore. The extant fragments indicate it dealt with mythological genealogies and foundation stories, such as the origins of Cadmus, offered etymological explanations for names like that of Europe, and described local history and topography, including places such as Ialysus on Rhodes. Its approach involved a cultural translation, interpreting Phoenician traditions within a familiar Greek framework. The author's Roman praenomen "Claudius" suggests a composition date in the Imperial era, though his precise identity remains uncertain due to confusing references to other historians named Iolaus. The fragments, collected as FGrHist 788, served as a minor source for later lexicographers like Stephanus. For modern scholarship, they represent a valuable data point in understanding the reception and reinterpretation of Phoenician cultural memory within the tradition of Greek ethnography.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Zosimus of Panopolis
 eul_wid: tyc-ab
 eul_aid: tyc
 canonical: "https://eulogikon.org/works/zosimus-panopolis-instruments-furnaces-omega-tyc-ab"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Zosimus of Panopolis
 
 **eul_wid:** `tyc-ab` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-instruments-furnaces-omega-tyc-ab)
-
-"Zosimus-Instruments and Furnaces, Genuine Notes-the Omega Element" is an alchemical treatise attributed to Zosimus of Panopolis, an author active in Roman Egypt around 300 CE. Composed in Koine Greek, the work functions as a technical manual detailing the practical craft of alchemy. Its eight passages provide meticulous instructions for constructing and operating specialized apparatuses and furnaces, including stills and reflux devices essential for processes like distillation and the treatment of metals. The designation "genuine notes" in the title positions the text as an authoritative guide within the esoteric alchemical tradition.
-
-The treatise survives as a component of Zosimus's extensive corpus, which represents one of the most substantial bodies of early alchemical writing. It was transmitted through medieval Greek and later Syriac manuscript copies, with a principal source being the 10th- or 11th-century Codex Marcianus Graecus 299. While the possibility of textual alteration exists after centuries of copying, the core technical descriptions are considered authentic. Modern scholarship interprets this practical focus as foundational, demonstrating that early alchemy was deeply rooted in workshop practice. The manual, however, was likely intended for initiates who viewed such technical work as inextricably linked to a spiritual pursuit, wherein the transformation of physical substances mirrored the purification of the soul.
 
 ## Text
 

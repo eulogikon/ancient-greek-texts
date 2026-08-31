@@ -1,10 +1,11 @@
 ---
 title: Holy Discourse of Hermes Trismegistus
 title_greek: Ἑρμοῦ τοῦ τρισμεγίστου λόγος ἱερός
-author: "Hermetica "
+author: Hermetica
 eul_wid: oqk-ai
 eul_aid: oqk
 canonical: "https://eulogikon.org/works/hermetica-holy-discourse-oqk-ai"
+lang: grc
 period: Roman
 dialect: Philosophical Koine
 domain: Philosophy
@@ -16,13 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἑρμοῦ τοῦ τρισμεγίστου λόγος ἱερός*
 
-**Author:** Hermetica 
+**Author:** Hermetica
 
 **eul_wid:** `oqk-ai` · [HTML page](https://eulogikon.org/works/hermetica-holy-discourse-oqk-ai)
-
-The Holy Discourse of Hermes Trismegistus is a foundational Greek philosophical treatise dating from the first to third centuries CE. It stands as the first and most famous text within the Corpus Hermeticum, a collection of works attributed to the legendary sage Hermes Trismegistus, a syncretic figure embodying both Greek and Egyptian wisdom traditions. Composed in Koine Greek, the work is structured as a revelatory dialogue. In it, a narrator encounters a divine being named Poimandres, who discloses the origin of the cosmos, the divine nature of humanity, the soul's descent into the material world, and the path to salvation through spiritual knowledge, or gnosis.
-
-The text originated within the culturally blended milieu of Roman Egypt, synthesizing elements of Greek philosophical thought, particularly Middle and Neo-Platonism, with Egyptian religious concepts. Modern scholarship interprets it not as a product of a formal school but as part of a loose literary corpus aimed at individuals pursuing personal enlightenment and divine revelation. The complete text survives primarily through medieval Byzantine manuscripts, the most significant being a fourteenth-century copy. Its preservation was aided by the interest of some early Christian writers, who viewed Hermes Trismegistus as a pagan prophet whose insights seemed to prefigure Christian doctrines. The work's influence was profound and enduring, shaping later mystical and philosophical traditions, especially following its rediscovery and translation during the Renaissance, when it became a cornerstone of Western esoteric thought.
 
 ## Text
 

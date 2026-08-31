@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-cq
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-virtues-of-women-okg-cq"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-cq` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-virtues-of-women-okg-cq)
-
-The Virtues of Women is a prose treatise by the Greek philosopher and biographer Plutarch, composed in Attic Greek around 100 CE. The work directly contests the prevailing notion that women lack moral excellence, most famously articulated by the historian Thucydides, who argued that the best woman is she about whom the least is said, whether for praise or blame. Plutarch counters this by assembling a collection of 124 brief historical and legendary anecdotes, or exempla, demonstrating acts of bravery, intelligence, political acumen, and loyalty performed by women. These narratives are drawn from a diverse array of cultures, including Greek, Persian, Egyptian, Celtic, and Roman societies, and serve as concrete illustrations supporting Plutarch’s central thesis: that the virtue of a woman is identical in nature and quality to that of a man. The treatise survives intact as part of the medieval manuscript tradition of Plutarch’s ethical works, the Moralia. Modern scholarship interprets it as a significant protreptic or pedagogical essay aimed at the educated men of Plutarch’s circle, offering a philosophical argument for female moral capacity while simultaneously demonstrating the universality of virtuous principles across different civilizations. It is regarded as a valuable source for the study of ancient concepts of gender and female agency, providing a rare compilation where women are the central actors in consequential historical and mythical events.
 
 ## Text
 

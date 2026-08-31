@@ -5,6 +5,7 @@ author: Archimedes of Syracuse
 eul_wid: ixo-ak
 eul_aid: ixo
 canonical: "https://eulogikon.org/works/archimedes-syracuse-cattle-problem-ixo-ak"
+lang: grc
 period: Hellenistic
 dialect: Doric
 domain: Mathematics
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Archimedes of Syracuse
 
 **eul_wid:** `ixo-ak` · [HTML page](https://eulogikon.org/works/archimedes-syracuse-cattle-problem-ixo-ak)
-
-The Cattle Problem is a 44-line Greek mathematical epigram attributed to the renowned scientist Archimedes of Syracuse and composed around 250 BCE. Addressed to the scholar Eratosthenes and the mathematicians of Alexandria, it presents a challenge in the form of a puzzle concerning the herds of the sun god Helios. The work consists of two distinct parts. The first establishes a system of linear equations to determine the number of bulls and cows of four different colors, yielding a very large but finite solution. The second and far more difficult part introduces additional conditions that transform the problem into one of number theory, requiring a solution that is simultaneously a square and a triangular number.
-
-The complete Greek text survives, though its transmission from antiquity is separate from Archimedes' major treatises; it was rediscovered in a German library in 1773. The solution to the full problem is an integer of immense scale, possessing over 200,000 digits. This magnitude placed it beyond the computational reach of antiquity, and a complete solution was not achieved until 1965 with the aid of electronic computers. Modern scholarship interprets the epigram as a characteristic Hellenistic blend of playful intellectual challenge and serious mathematical inquiry, though some debate persists regarding whether the extraordinarily difficult second part is an original component by Archimedes or a later addition.
 
 ## Text
 

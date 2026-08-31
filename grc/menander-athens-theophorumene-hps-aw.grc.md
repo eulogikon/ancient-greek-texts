@@ -5,6 +5,7 @@ author: Menander of Athens
 eul_wid: hps-aw
 eul_aid: hps
 canonical: "https://eulogikon.org/works/menander-athens-theophorumene-hps-aw"
+lang: grc
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Menander of Athens
 
 **eul_wid:** `hps-aw` · [HTML page](https://eulogikon.org/works/menander-athens-theophorumene-hps-aw)
-
-Theophorumene ("The Possessed Girl") is a comedy by the Athenian playwright Menander, dating to the late fourth or early third century BCE. As a work of New Comedy, it shifts focus from the political satire of earlier forms to domestic and romantic situations. The play survives only in fragments, with thirty-three passages preserved through later quotations and papyrus discoveries in Egypt. The plot, reconstructed from these remnants and an ancient summary, centers on a young woman thought to be possessed by a deity. Whether her condition is genuine, feigned, or misinterpreted forms the central complication, disrupting her romantic life and family relations. A character named Smikrines, a familiar stern father or guardian figure in Menander’s oeuvre, appears to be involved. The comedy uses the motif of religious possession to explore themes of deception, social perception, and familial authority within the context of Hellenistic popular belief. Menander was the foremost poet of New Comedy, and the partial recovery of Theophorumene from papyrus fragments in the twentieth century provides valuable insight into the sophisticated plots and character types that would profoundly influence subsequent Roman comedy and the broader Western dramatic tradition.
 
 ## Text
 

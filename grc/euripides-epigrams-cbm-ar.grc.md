@@ -5,6 +5,7 @@ author: Euripides
 eul_wid: cbm-ar
 eul_aid: cbm
 canonical: "https://eulogikon.org/works/euripides-epigrams-cbm-ar"
+lang: grc
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Euripides
 
 **eul_wid:** `cbm-ar` · [HTML page](https://eulogikon.org/works/euripides-epigrams-cbm-ar)
-
-The Epigrams are a collection of four short elegiac poems traditionally ascribed to the tragedian Euripides. Composed in the meter conventional for the form, these verses adopt the style of dedicatory or commemorative inscriptions, addressing themes such as the honoring of war dead and the presentation of a statue to the god Hermes. The work survives only fragmentarily, preserved not within the primary manuscript tradition of Euripides' plays but through later anthological and scholarly sources. The attribution to Euripides is widely considered doubtful by modern scholarship, which typically regards the poems as products of a later era, when anonymous literary epigrams were often assigned to celebrated classical authors to lend them prestige. Consequently, they are viewed as minor and spurious additions to the Euripidean corpus, of interest primarily for their place within the broader development of the Greek epigram.
 
 ## Text
 

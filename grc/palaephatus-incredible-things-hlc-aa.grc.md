@@ -5,6 +5,7 @@ author: Palaephatus the Mythographer
 eul_wid: hlc-aa
 eul_aid: hlc
 canonical: "https://eulogikon.org/works/palaephatus-incredible-things-hlc-aa"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Fiction
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Palaephatus the Mythographer
 
 **eul_wid:** `hlc-aa` · [HTML page](https://eulogikon.org/works/palaephatus-incredible-things-hlc-aa)
-
-On Incredible Things is a prose treatise from ancient Greece, traditionally attributed to an author named Palaephatus. Likely composed in the 4th century BCE, the work systematically attempts to rationalize famous Greek myths by stripping away their supernatural elements. It is structured as 55 short chapters, each following a consistent pattern: first stating the fantastical myth, declaring it impossible, and then offering a logical, historical explanation for how the story could have arisen from a misunderstanding. For instance, the myth of the Minotaur is explained as stemming from a general nicknamed "Bull," and the story of Actaeon is reinterpreted as a metaphor for financial ruin. The complete text survives through medieval manuscripts.
-
-The author's identity is uncertain, and the work is considered pseudepigraphical, meaning it was written under a name that was not the true author's. It is thought to have been composed within a long tradition of rationalizing myth, which sought to find a factual core within traditional stories. The preface addresses an unnamed king, possibly Alexander the Great, framing the project as a serious pursuit of truth. Modern scholars view On Incredible Things as a key example of ancient critical thinking about myth, reflecting a cultural trend to question and reinterpret traditional narratives through a lens of natural cause and historical probability.
 
 ## Text
 

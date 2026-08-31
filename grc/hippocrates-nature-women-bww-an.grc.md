@@ -5,6 +5,7 @@ author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-an
 eul_aid: bww
 canonical: "https://eulogikon.org/works/hippocrates-nature-women-bww-an"
+lang: grc
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hippocrates and the Hippocratic Corpus
 
 **eul_wid:** `bww-an` · [HTML page](https://eulogikon.org/works/hippocrates-nature-women-bww-an)
-
-On the Nature of Women is a medical treatise from the Hippocratic Corpus, a collection of ancient Greek medical works attributed to Hippocrates and his followers. Composed in Ionic Greek around the fifth or fourth century BCE, the text functions as a practical handbook for diagnosing and treating conditions specific to women. It is organized into 87 concise passages covering a comprehensive range of gynecological and obstetric topics, including menstruation, pregnancy, childbirth, uterine disorders, and infertility. The prescribed treatments are typical of Hippocratic medicine, encompassing herbal remedies, dietary regimens, and procedures such as bloodletting and fumigation.
-
-The treatise is grounded in the humoral theory that characterizes much of Hippocratic medicine, interpreting the female body as fundamentally distinct from the male. Health is presented as dependent on the proper balance and regular evacuation of menstrual blood, with the womb considered the central organ governing female physiology. The text advises the physician to account for a patient's inherent constitution, age, and even geographical location when making a diagnosis. It survives in full through medieval manuscript transmission, most notably in a tenth- or eleventh-century copy. Historically, it served as a foundational gynecological manual, likely used by itinerant male physicians in a professional landscape that largely excluded women practitioners. Its influence was profound, shaping medical concepts of gender and female physiology for centuries and providing a crucial source for understanding ancient Greek medical thought regarding women's health.
 
 ## Text
 

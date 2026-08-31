@@ -5,6 +5,7 @@ author: Sphaerus of Borysthenes
 eul_wid: ipw-aa
 eul_aid: ipw
 canonical: "https://eulogikon.org/works/sphaerus-borysthenes-stoic-fragments-ipw-aa"
+lang: grc
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Sphaerus of Borysthenes
 
 **eul_wid:** `ipw-aa` · [HTML page](https://eulogikon.org/works/sphaerus-borysthenes-stoic-fragments-ipw-aa)
-
-The Stoic Philosophical Fragments is a modern scholarly compilation of the surviving ideas attributed to Sphaerus of Borysthenes, an early Stoic philosopher of the third century BCE. A direct student of Zeno of Citium, the founder of the Stoic school, and later of Cleanthes, Sphaerus was a prolific writer, though none of his original works survive intact. Our knowledge of his thought is derived entirely from approximately eleven scattered passages preserved in the writings of later authors such as Diogenes Laertius, Plutarch, and Sextus Empiricus. These fragments indicate that his writings were extensive, covering the core Stoic divisions of logic, physics, and ethics, with titles recorded on subjects including the cosmos, the senses, ethics, kingship, and logic.
-
-The extant fragments reveal Sphaerus’s engagement with foundational Stoic doctrines. In the realm of epistemology and logic, he is particularly associated with the theory of the cognitive impression, a key Stoic concept concerning a reliable, truth-grasping perception that serves as the criterion for knowledge. In ethics, he contributed to defining the Stoic conception of the ultimate goal of life. Beyond theoretical philosophy, ancient sources also document his practical political involvement, notably serving as an advisor to the reforming King Cleomenes III of Sparta. This role suggests an early attempt to apply Stoic ethical principles to the sphere of governance and statecraft. The transmission of his thought is entirely indirect, filtered through the lenses of later philosophers who quoted him either to support or to critique Stoic positions. Consequently, while fragmentary, the surviving evidence for Sphaerus’s work represents a significant, though partially obscured, link in the formative development of Stoic philosophy.
 
 ## Text
 

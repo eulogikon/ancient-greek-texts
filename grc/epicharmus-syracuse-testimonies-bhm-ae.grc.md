@@ -5,6 +5,7 @@ author: Epicharmus of Syracuse
 eul_wid: bhm-ae
 eul_aid: bhm
 canonical: "https://eulogikon.org/works/epicharmus-syracuse-testimonies-bhm-ae"
+lang: grc
 period: Archaic
 dialect: Doric
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Epicharmus of Syracuse
 
 **eul_wid:** `bhm-ae` · [HTML page](https://eulogikon.org/works/epicharmus-syracuse-testimonies-bhm-ae)
-
-The Testimonies is a modern scholarly compilation of philosophical passages attributed to Epicharmus of Syracuse, the pioneering Sicilian comic poet active in the early 5th century BCE. It consists of fourteen fragments assembled from later ancient authors to present a coherent picture of his philosophical thought, distinct from his comedic works. The content engages with pre-Socratic ideas, exploring themes of ontology and change in verses that respond to Heraclitean concepts of flux, alongside discussions of epistemology, sensory perception, and practical ethics. The collection also includes gnomic sayings advocating moderation and self-awareness, as well as references to the divine and cosmological principles. These passages do not survive in a direct manuscript tradition but are preserved indirectly as quotations and references in the works of later philosophers and doxographers, most notably Plato and Diogenes Laertius. The standard modern edition is found within the authoritative collection Poetae Comici Graeci. The significance of these testimonia lies in their demonstration of Epicharmus's influence on subsequent Greek philosophy; his reputation as a serious thinker was cemented by such citations, which helped preserve his intellectual legacy alongside his foundational role in the development of comedy.
 
 ## Text
 

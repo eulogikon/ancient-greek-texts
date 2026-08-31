@@ -5,6 +5,7 @@ author: Philo of Alexandria the Elder
 eul_wid: mcq-aa
 eul_aid: mcq
 canonical: "https://eulogikon.org/works/philo-alexandria-abraham-patriarchs-mcq-aa"
+lang: grc
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Epic
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philo of Alexandria the Elder
 
 **eul_wid:** `mcq-aa` · [HTML page](https://eulogikon.org/works/philo-alexandria-abraham-patriarchs-mcq-aa)
-
-The Fragments on Abraham and Patriarchs is a lost Hellenistic epic poem by Philo of Alexandria the Elder, which survives only through approximately twenty fragments and testimonia preserved by later authors. Written in Homeric hexameter, the work adapts narratives from the Book of Genesis concerning Abraham and the Patriarchs, recasting biblical stories into the formal conventions of Greek epic poetry. Its content presents Abraham as a noble and pious archetype, asserting the antiquity and moral virtue of the Jewish patriarchs in deliberate competition with Greek heroic traditions. The poem is known entirely from quotations, primarily found in Eusebius of Caesarea’s Praeparatio Evangelica, with additional fragments appearing in the works of Clement of Alexandria and the Anthologia Palatina. Ancient sources sometimes group it under the generic title On the Jews alongside Philo’s other epic works on biblical history. Philo the Elder’s epic represents a significant early Jewish-Hellenistic effort to synthesize biblical tradition with Greek literary models, serving both apologetic and educational purposes within the Hellenistic world. It stands as a precursor to later, more comprehensive syntheses by authors such as Philo the philosopher and Josephus. Early Christian apologists, including Clement and Eusebius, later cited the work to demonstrate the respectability and cultural resonance of biblical narratives within the framework of classical culture.
 
 ## Text
 

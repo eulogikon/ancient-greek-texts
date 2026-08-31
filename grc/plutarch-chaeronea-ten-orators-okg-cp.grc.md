@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-cp
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-ten-orators-okg-cp"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-cp` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-ten-orators-okg-cp)
-
-The Lives of the Ten Orators is a collection of biographies for the canonical Attic orators—Antiphon, Andocides, Lysias, Isocrates, Isaeus, Lycurgus, Aeschines, Hyperides, Demosthenes, and Dinarchus. Transmitted among Plutarch's Moralia, its authenticity is widely disputed. Significant stylistic and methodological differences from Plutarch's undisputed works lead most scholars to consider it spurious, likely compiled by a later author drawing on Hellenistic biographical sources. The text provides concise biographical sketches for each figure, offering political context, anecdotes about their lives and deaths, and catalogues of their attributed speeches, thereby functioning as an ancient bibliography. Preserved intact within the medieval manuscript tradition of the Moralia, its primary textual issue remains its contested authorship. Historically, the work was instrumental in reinforcing and transmitting the Hellenistic canon of ten Attic orators, standardizing the study of classical oratory from late antiquity through the Renaissance. Modern scholarship treats it as a valuable, if cautiously used, source for the lives and bibliographies of these orators, routinely cross-referencing its claims with the evidence of the surviving speeches and other historical accounts.
 
 ## Text
 

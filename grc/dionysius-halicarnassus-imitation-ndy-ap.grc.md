@@ -5,6 +5,7 @@ author: Dionysius of Halicarnassus
 eul_wid: ndy-ap
 eul_aid: ndy
 canonical: "https://eulogikon.org/works/dionysius-halicarnassus-imitation-ndy-ap"
+lang: grc
 period: Hellenistic
 dialect: Attic
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Dionysius of Halicarnassus
 
 **eul_wid:** `ndy-ap` · [HTML page](https://eulogikon.org/works/dionysius-halicarnassus-imitation-ndy-ap)
-
-On Imitation is a fragmentary treatise on literary criticism and rhetoric composed in Attic Greek by Dionysius of Halicarnassus around 20 BCE. Structured as a letter to a student named Demetrius, it presents an educational program for aspiring writers and orators founded upon the creative imitation of classical Greek models. The surviving text, known through 26 excerpts preserved in later Byzantine manuscripts, indicates the original work was organized into three principal sections: a theoretical introduction on the value and nature of imitation, a critical assessment of specific Greek authors deemed worthy of study, and a practical guide to methods for effective emulation. Dionysius wrote the treatise while teaching in Rome, intending it for both Greek students and Romans seeking to master Greek literary culture. It is a key document of the Atticist movement, advocating for the clear, elegant, and vigorous prose of classical Athenian authors over the more ornate and artificial styles prevalent in the author's own Hellenistic period. The work argues that successful imitation involves a zealous and analytical engagement with exemplary texts, aiming to assimilate their underlying virtues and stylistic character rather than merely copying their surface features. This emphasis on informed emulation as a path to original excellence secured the treatise's influence in ancient rhetorical education.
 
 ## Text
 

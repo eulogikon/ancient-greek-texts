@@ -5,6 +5,7 @@ author: Proclus the Successor
 eul_wid: uqy-ao
 eul_aid: uqy
 canonical: "https://eulogikon.org/works/proclus-physical-instruction-uqy-ao"
+lang: grc
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Proclus the Successor
 
 **eul_wid:** `uqy-ao` · [HTML page](https://eulogikon.org/works/proclus-physical-instruction-uqy-ao)
-
-The Physical Instruction is a philosophical treatise by the 5th-century Neoplatonist philosopher Proclus. Written in Attic Greek, it serves as a concise, systematic handbook designed to introduce students to the core doctrines of Aristotle's Physics. Structured in 55 short chapters, it methodically covers fundamental concepts of Aristotelian natural philosophy, including the principles of nature, the four causes, and key topics such as motion, place, time, and the prime mover. The work survives in full, preserved in several medieval Greek manuscripts. Modern scholars interpret it as a key text within the late Neoplatonic educational curriculum, likely written for use in Proclus's Academy in Athens. There, the study of Aristotle's works served as a preparatory stage before students advanced to the higher study of Plato's metaphysics. The treatise therefore represents Proclus's effort to synthesize and distill Peripatetic thought for pedagogical purposes within a Platonic framework.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Demosthenes of Athens
 eul_wid: fsm-az
 eul_aid: fsm
 canonical: "https://eulogikon.org/works/demosthenes-athens-leptines-fsm-az"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Demosthenes of Athens
 
 **eul_wid:** `fsm-az` · [HTML page](https://eulogikon.org/works/demosthenes-athens-leptines-fsm-az)
-
-Against Leptines is a forensic oration delivered by the Athenian statesman Demosthenes around 355 BCE. The speech constitutes a legal challenge to a new law proposed by the citizen Leptines, which aimed to revoke all existing grants of ateleia, a valuable immunity from certain taxes and public liturgies, with only a few historic exceptions preserved. Demosthenes composed the oration for a client prosecuting the law's sponsor, arguing methodically that the retroactive cancellation of these promised honors was both unjust and detrimental to the city's interests. The complete work, structured in 156 sections, employs forceful appeals to justice, civic honor, and pragmatic advantage, contending that the state must keep its word to those who have served it.
-
-Delivered in the financially strained period following the Social War, the speech defends the principle of good faith in public life. Demosthenes warns that breaking solemn commitments to benefactors would not only be dishonorable but would also discourage future generosity and undermine Athens's international credibility. Scholars interpret the oration as an affirmation of broader democratic principles concerning the stability of laws and the necessity of rewarding service to the state, transcending the immediate legal dispute. Preserved intact through medieval manuscripts as part of Demosthenes's collected works, Against Leptines is accepted as a genuine product of his early career. It provides a significant window into the legal practice, political rhetoric, and civic values of fourth-century Athens.
 
 ## Text
 

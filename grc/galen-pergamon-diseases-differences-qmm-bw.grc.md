@@ -5,6 +5,7 @@ author: Galen of Pergamon
 eul_wid: qmm-bw
 eul_aid: qmm
 canonical: "https://eulogikon.org/works/galen-pergamon-diseases-differences-qmm-bw"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Galen of Pergamon
 
 **eul_wid:** `qmm-bw` · [HTML page](https://eulogikon.org/works/galen-pergamon-diseases-differences-qmm-bw)
-
-On the Differences of Diseases is a medical treatise by the Roman-era physician Galen of Pergamon. Composed in Greek during the latter half of the second century CE, the work provides a systematic framework for diagnosis through the classification of illnesses. It is structured as a methodical inquiry, beginning with a definition of disease itself before delineating primary, simple diseases and then proceeding to the more complex conditions that arise from their combination. The treatise is grounded in Galen’s fundamental physiological theory, which posits that health consists of the unimpaired natural functions and structural integrity of the body’s organs, while disease constitutes a damage to either this function or structure.
-
-The text meticulously distinguishes ailments based on their essential nature, the specific organ or bodily part affected, and their manifest symptoms. Scholars view this work as a central component of Galen’s project to establish medicine as a rigorous, logical science, likely written in Rome to counter the simpler diagnostic systems of rival medical sects. It forms a coherent trilogy with his related works on the causes and symptoms of disease. Preserved in its entirety, the treatise exerted profound and lasting influence. Translated into Arabic and later into Latin, it became a foundational textbook for diagnosis, shaping medical thought and practice in both the Islamic world and medieval Europe for centuries.
 
 ## Text
 

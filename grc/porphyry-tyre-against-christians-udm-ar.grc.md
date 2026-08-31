@@ -5,6 +5,7 @@ author: Porphyry of Tyre
 eul_wid: udm-ar
 eul_aid: udm
 canonical: "https://eulogikon.org/works/porphyry-tyre-against-christians-udm-ar"
+lang: grc
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Porphyry of Tyre
 
 **eul_wid:** `udm-ar` · [HTML page](https://eulogikon.org/works/porphyry-tyre-against-christians-udm-ar)
-
-Against the Christians is a lost philosophical treatise written in Greek by the third-century Neoplatonist thinker Porphyry of Tyre. Composed between approximately 270 and 300 CE, it constituted a large-scale and systematic critique of the emerging Christian religion. The original work was substantial, reported to have been organized into fifteen books, and directly engaged with Christian scriptures and doctrine by arguing against their historical reliability and philosophical coherence. Porphyry critically examined both the Old and New Testaments for contradictions, challenged the life and teachings of Jesus and the apostles, and rejected the allegorical interpretations employed by contemporary Christian scholars. Modern scholarship interprets the treatise as a sophisticated pagan defense of traditional Greco-Roman religion and Platonic philosophy, aimed at an educated audience during a period of significant religious transformation.
-
-The complete text does not survive, having been ordered destroyed by Christian emperors in the fifth century. Knowledge of its content derives entirely from fragments quoted by later Christian authors, such as Eusebius and Augustine, who sought to refute its arguments. The collection often referred to as the "sixty-one passages" associated with the work consists of these surviving excerpts, from which scholars have attempted to reconstruct its line of reasoning. Despite its physical destruction, Against the Christians is regarded as one of the most formidable intellectual challenges posed to early Christianity, influencing later pagan critics and significantly shaping the development of Christian apologetic literature.
 
 ## Text
 

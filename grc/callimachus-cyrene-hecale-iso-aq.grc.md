@@ -5,6 +5,7 @@ author: Callimachus of Cyrene the Poet and Scholar
 eul_wid: iso-aq
 eul_aid: iso
 canonical: "https://eulogikon.org/works/callimachus-cyrene-hecale-iso-aq"
+lang: grc
 period: Hellenistic
 dialect: Literary Koine
 domain: Philosophy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Callimachus of Cyrene the Poet and Scholar
 
 **eul_wid:** `iso-aq` · [HTML page](https://eulogikon.org/works/callimachus-cyrene-hecale-iso-aq)
-
-The Hecale is a fragmentary epic poem by the Hellenistic poet and scholar Callimachus, composed in the 3rd century BCE. This work is a principal example of the epyllion, or short epic, a form that concentrates on a single, self-contained episode rather than a grand heroic narrative. The poem recounts an episode from the youth of the Athenian hero Theseus. While journeying to confront the Marathonian Bull, Theseus is overtaken by a storm and finds refuge in the modest cottage of a poor, elderly woman named Hecale. She offers him hospitality, and after he successfully completes his quest, he returns to discover that she has died. In her honor, Theseus establishes a local cult, and her name is subsequently given to the Attic deme of Hecale.
-
-The text survives only in fragments, known from roughly eighteen major passages and numerous smaller pieces preserved through quotations in later ancient authors and on papyrus discoveries. Consequently, the poem's original length and complete narrative structure are matters of scholarly reconstruction. The Hecale is widely regarded as a manifestation of Callimachus's poetic ideals, which favored learned, meticulously crafted compositions over the expansive scope of traditional epic. Its sympathetic focus on the humble life and hospitality of a poor old woman marks a significant departure from Homeric grandeur, reflecting broader Hellenistic literary interests in everyday realism and aetiology—stories that explain the origins of cults, places, and customs. The poem was likely composed for the sophisticated elite of the Ptolemaic court in Alexandria, an audience attuned to its allusive style and innovative perspective.
-
-Despite its incomplete state, the Hecale exercised considerable influence on subsequent literature, serving as a seminal model for the short epic poetry of later Hellenistic and Roman writers.
 
 ## Text
 

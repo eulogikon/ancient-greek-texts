@@ -5,6 +5,7 @@ author: Gaius Acilius the Historian
 eul_wid: lyu-aa
 eul_aid: lyu
 canonical: "https://eulogikon.org/works/gaius-acilius-early-roman-history-lyu-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine (frg)
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Gaius Acilius the Historian
 
 **eul_wid:** `lyu-aa` · [HTML page](https://eulogikon.org/works/gaius-acilius-early-roman-history-lyu-aa)
-
-The Fragments on Early Roman History is a historical treatise composed in Greek by the Roman senator Gaius Acilius around the middle of the second century BCE. The work is entirely lost, surviving only through seven fragmentary passages preserved in the writings of later ancient authors, most notably the historian Dionysius of Halicarnassus and the biographer Plutarch. These citations indicate that the treatise covered Rome’s foundational myths and early history, including accounts of Romulus and Remus, the mysterious death and subsequent deification of Romulus, and details regarding early Roman infrastructure. Acilius wrote in Greek, a common practice among early Roman historians, aiming to present Rome’s origins and its rise to power to a Hellenistic audience. Modern scholarship interprets the work as part of a broader cultural and political project to situate Roman history within established Greek literary traditions, a effort that followed Rome’s military expansion into the Greek world. The treatise was likely intended not merely to inform but also to explain and justify Roman customs and institutions to a Greek-speaking readership.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Julian the Apostate
 eul_wid: sno-ae
 eul_aid: sno
 canonical: "https://eulogikon.org/works/julian-apostate-encomium-constantius-sno-ae"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Julian the Apostate
 
 **eul_wid:** `sno-ae` · [HTML page](https://eulogikon.org/works/julian-apostate-encomium-constantius-sno-ae)
-
-The Encomium to Emperor Constantius is a formal panegyric composed in Greek prose by Julian, later the emperor known as Julian the Apostate. Written around 355 or 356 CE, the work is a traditional speech of praise honoring his cousin and senior emperor, Constantius II. Julian structured the oration in forty-three sections, systematically extolling the emperor’s noble lineage, his embodiment of the cardinal virtues of justice and courage, his military campaigns against the Persians, his piety, and his divine favor. Julian crafted this polished rhetorical piece shortly after his own appointment as a junior emperor, or Caesar. Modern scholars interpret the encomium as a vital political act, designed to publicly affirm his loyalty to Constantius during a period of considerable tension within the imperial family. The complete text survives through medieval manuscripts preserving Julian’s collected works. It is studied today both as a skilled example of late Roman epideictic oratory and as a crucial historical document illuminating the delicate diplomacy between the two men who would later become rivals.
 
 ## Text
 

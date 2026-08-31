@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-bv
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-face-moon-okg-bv"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-bv` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-face-moon-okg-bv)
-
-On the Face in the Moon's Orb is a philosophical dialogue by the Middle Platonist thinker Plutarch of Chaeronea, composed in Greek around 100 CE. Structured as a conversation among several interlocutors, the work systematically investigates the cause of the distinctive markings visible on the lunar surface. It opens with a critical review of earlier theories, including those of Aristotle, who posited that the moon was composed of a unique celestial ether. Plutarch’s dialogue rejects this view, arguing instead that the moon is a solid, earthy body akin to our own world, and that its apparent facial features result from its geographical topography, such as deep ravines and high mountains casting shadows.
-
-The dialogue survives intact within Plutarch’s collected ethical and philosophical works, the Moralia. Modern scholars regard it as a significant document of Middle Platonism, notable for its synthesis of detailed physical speculation with broader Platonic themes of cosmology and theology. Written for an educated audience conversant with contemporary scientific debate, the discussion transcends mere astronomy. It contemplates the moon’s ontological status as a boundary between the mortal and divine realms and ventures into speculative theology regarding the nature of daemons. Thus, the work employs a specific celestial puzzle as a lens through which to examine profound questions concerning cosmic order and the very nature of philosophical inquiry.
 
 ## Text
 

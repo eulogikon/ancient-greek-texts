@@ -5,6 +5,7 @@ author: Aratus of Soli
 eul_wid: hte-ac
 eul_aid: hte
 canonical: "https://eulogikon.org/works/aratus-soli-epigrams-hte-ac"
+lang: grc
 period: Hellenistic
 dialect: Epic (Homeric)
 domain: Science
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aratus of Soli
 
 **eul_wid:** `hte-ac` · [HTML page](https://eulogikon.org/works/aratus-soli-epigrams-hte-ac)
-
-The Epigrams constitute a minor collection of short poems attributed to the Hellenistic poet Aratus of Soli, composed in the early 3rd century BCE. While Aratus is primarily celebrated for his extensive didactic work on astronomy, the Phaenomena, these epigrams reveal a different dimension of his literary activity. The eight surviving fragments encompass dedicatory verses, including one honoring his patron King Antigonus II Gonatas, poems consecrated to deities such as Pan, and sepulchral epitaphs. These works are interpreted by modern scholars as artifacts of the social and literary culture of the Hellenistic court, providing a more personal counterpoint to his major scientific composition. The collection does not survive as an independent volume; the extant text is preserved solely within later anthologies, most significantly the Greek Anthology. Their transmission is entirely reliant on this compilation. Although ancient sources like the Suda confirm Aratus's authorship of epigrams, the poems are regarded as genuine yet fragmentary remains of his wider poetic corpus.
 
 ## Text
 

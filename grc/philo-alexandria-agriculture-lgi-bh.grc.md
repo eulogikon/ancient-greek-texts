@@ -5,6 +5,7 @@ author: Philo of Alexandria
 eul_wid: lgi-bh
 eul_aid: lgi
 canonical: "https://eulogikon.org/works/philo-alexandria-agriculture-lgi-bh"
+lang: grc
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philo of Alexandria
 
 **eul_wid:** `lgi-bh` · [HTML page](https://eulogikon.org/works/philo-alexandria-agriculture-lgi-bh)
-
-On Agriculture is a philosophical treatise by Philo of Alexandria, written in the first century CE. As part of his extensive Allegorical Commentary on the Book of Genesis, the work uses the biblical description of Noah as a "husbandman" as the foundation for an elaborate spiritual allegory. It is not a manual on farming but a systematic exploration of the soul's cultivation, interpreting agricultural activities such as sowing, tilling, and harvesting as metaphors for philosophical education and the ethical pursuit of virtue. Philo develops this exposition across 141 sections, methodically unpacking the symbolic meaning behind the literal scriptural narrative.
-
-Composed in the intellectually vibrant context of Alexandria, where Jewish scriptural tradition engaged with Hellenistic philosophy, the treatise demonstrates Philo’s characteristic synthesis. It seeks to demonstrate that the teachings of the Torah encapsulate and express the highest truths of Greek thought, particularly Platonic and Stoic doctrines concerning the soul, reason, and ethics. The core allegory presents the human soul as a field that requires diligent labor: it must be cleared of the weeds of passion and vice, then sown with the seeds of wisdom to produce a harvest of virtue. Philo’s intended audience was likely familiar with both Jewish scripture and Greek philosophical concepts, and his work aims to reveal a profound, unifying spiritual philosophy beneath the surface of the biblical text.
-
-The complete text of On Agriculture has been preserved through medieval Greek manuscripts, copied and transmitted by Christian scribes who valued Philo’s allegorical exegetical methods. As a significant component of Philo’s influential exegetical project, this treatise contributed substantially to the development of allegorical biblical interpretation, a hermeneutical approach that would become central to the theological works of many early Christian thinkers.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Astydamas the Younger
 eul_wid: fnw-aa
 eul_aid: fnw
 canonical: "https://eulogikon.org/works/astydamas-younger-achilles-thetis-fnw-aa"
+lang: grc
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Astydamas the Younger
 
 **eul_wid:** `fnw-aa` · [HTML page](https://eulogikon.org/works/astydamas-younger-achilles-thetis-fnw-aa)
-
-The Fragments on Achilles and Thetis comprises a collection of thirty-five brief passages attributed to the lost tragedies of the fourth-century BCE Athenian dramatist Astydamas the Younger. Preserved not as a continuous text but as isolated quotations in the works of later grammarians and commentators, these fragments exist because their unusual linguistic features attracted scholarly attention. Written in Attic Greek verse, the excerpts collectively suggest a dramatic treatment of the myth surrounding the hero Achilles and his divine mother, Thetis. The surviving lines, though disjointed, hint at the possible dramatization of well-known episodes from the epic cycle. These may have included Thetis's efforts to alter her son's mortal destiny, perhaps by concealing him on the island of Scyros, or scenes depicting prophetic foreknowledge of his fate at Troy. Astydamas the Younger was a prominent figure in the later period of Athenian tragedy, known for its theatrical sophistication. While the complete structure and plot of his play or plays on this subject remain irrecoverable, the fragments point to thematic concerns with divine intervention, maternal grief, and the inescapable nature of heroic doom. His work represents a single, now-shadowy link in the enduring tradition of reinterpreting the Achilles myth for the Athenian stage.
 
 ## Text
 

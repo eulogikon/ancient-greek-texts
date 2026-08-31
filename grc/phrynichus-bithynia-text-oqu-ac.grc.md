@@ -5,6 +5,7 @@ author: Phrynichus of Bithynia
 eul_wid: oqu-ac
 eul_aid: oqu
 canonical: "https://eulogikon.org/works/phrynichus-bithynia-text-oqu-ac"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Phrynichus of Bithynia
 
 **eul_wid:** `oqu-ac` · [HTML page](https://eulogikon.org/works/phrynichus-bithynia-text-oqu-ac)
-
-The Selections is a lexicographical treatise composed by the grammarian Phrynichus of Bithynia around 180 CE. A product of the Second Sophistic, a cultural movement marked by a self-conscious revival of classical Greek heritage under Roman rule, the work functions as a practical handbook for linguistic purity. It comprises 271 entries, each prescribing correct usage by presenting an approved word or phrase from classical Attic Greek, the dialect of fifth- and fourth-century BCE Athens, while condemning a contemporary or Koine alternative as vulgar or incorrect. Phrynichus frequently bolsters his authoritative judgments with brief quotations from canonical Athenian authors such as Aristophanes and Plato. The treatise serves as a clear manifesto of the Atticist movement, which equated meticulous adherence to classical Athenian language with cultural sophistication and professional advantage for the educated Greek elite. Preserved in its entirety, primarily through a fourteenth-century manuscript, the Selections offers invaluable insight into the linguistic ideologies of the imperial period, the social dimensions of rhetoric, and the ongoing evolution of the Greek language.
 
 ## Text
 

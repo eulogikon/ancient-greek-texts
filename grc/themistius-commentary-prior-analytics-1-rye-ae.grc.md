@@ -5,6 +5,7 @@ author: Themistius the Philosopher
 eul_wid: rye-ae
 eul_aid: rye
 canonical: "https://eulogikon.org/works/themistius-commentary-prior-analytics-1-rye-ae"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Themistius the Philosopher
 
 **eul_wid:** `rye-ae` · [HTML page](https://eulogikon.org/works/themistius-commentary-prior-analytics-1-rye-ae)
-
-Themistius's Commentary on Aristotle's Prior Analytics, Book I is a fourth-century CE philosophical work by the orator and public teacher Themistius. Composed in Attic Greek, the text is structured as a discursive paraphrase rather than a line-by-line exegesis. Its primary aim is pedagogical, seeking to clarify and elucidate Aristotle’s complex treatise on syllogistic logic for an educated contemporary audience in the Late Roman Empire. Organized into 165 distinct passages, the commentary selectively addresses core components of Aristotle’s system, including the theory of the categorical syllogism, modal logic concerning necessity and possibility, and the function of syllogistic reasoning within scientific demonstration. Themistius’s approach reflects his broader intellectual project of reviving and teaching Aristotelian philosophy, a role he actively performed in Constantinople.
-
-The work survives in full through a strong manuscript tradition and enjoyed considerable historical influence. It served as a standard textbook in the Byzantine educational world. Translated into Arabic in the ninth century, it became an important resource for Islamic philosophers engaging with Aristotelian logic. Later Latin translations produced during the Renaissance subsequently made it a key text for the revival of Aristotelian studies in Western Europe.
 
 ## Text
 

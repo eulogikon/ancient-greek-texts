@@ -5,6 +5,7 @@ author: Herodian of Alexandria
 eul_wid: qnq-bb
 eul_aid: qnq
 canonical: "https://eulogikon.org/works/herodian-alexandria-homeric-schemes-qnq-bb"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Herodian of Alexandria
 
 **eul_wid:** `qnq-bb` · [HTML page](https://eulogikon.org/works/herodian-alexandria-homeric-schemes-qnq-bb)
-
-Homeric Schemes is a grammatical treatise by the second-century CE grammarian Herodian of Alexandria. The work collects forty-four passages from the Iliad and Odyssey to illustrate and explain rhetorical or grammatical schemes, defined as stylistic deviations from standard linguistic usage. It systematically identifies and explicates specific figures of speech and linguistic anomalies found in Homeric verse, contributing to the ancient scholarly tradition of interpreting the poet's distinctive language. The treatise functioned as a pedagogical tool for advanced grammatical education. The full text is now lost; it survives only in fragments preserved through quotations in later Byzantine grammatical compilations, such as the Ethnika of Stephanus of Byzantium, and within the marginal scholia on Homer's poems. Herodian was a profoundly influential figure in the field of grammar, and his technical analyses from Homeric Schemes, along with his other works, became standard references. These analyses were subsequently integrated into the Byzantine scholiastic tradition, thereby shaping the way Homer was read and taught for centuries.
 
 ## Text
 

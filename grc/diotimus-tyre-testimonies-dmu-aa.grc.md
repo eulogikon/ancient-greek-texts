@@ -5,6 +5,7 @@ author: Diotimus of Tyre
 eul_wid: dmu-aa
 eul_aid: dmu
 canonical: "https://eulogikon.org/works/diotimus-tyre-testimonies-dmu-aa"
+lang: grc
 period: Classical
 dialect: "Attic (phi, frg)"
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Diotimus of Tyre
 
 **eul_wid:** `dmu-aa` · [HTML page](https://eulogikon.org/works/diotimus-tyre-testimonies-dmu-aa)
-
-The Testimonies of Diotimus of Tyre is a lost doxographical work known only through a handful of secondary references. Diotimus, a Stoic philosopher of the 1st century BCE, was a noted polemicist against Epicureanism. The work was likely a collection of authoritative statements from earlier philosophers, compiled to serve as a reference for Stoic doctrine or for use in sectarian debate. While no direct quotations from the work survive, its title and genre suggest it was a compilation of philosophical doctrines, focusing on Stoic ethical or physical principles and illustrating the use of authoritative quotations in philosophical argumentation. The work is not directly attested in the manuscript tradition, and its existence is inferred from fragments; it is not listed among Diotimus’s known works in the surviving entry of the Suda. The few surviving testimonia about the work, which discuss criteria for knowledge and the ultimate good, are often mistakenly taken as indications of its original structure. Diotimus is primarily remembered for his polemical forgeries of letters intended to discredit Epicurus. Within this context, the Testimonies represents his more scholarly polemical activity, contributing to the tradition of Stoic compilations used in Hellenistic philosophical disputes, though its specific influence remains untraceable.
 
 ## Text
 

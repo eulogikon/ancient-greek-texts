@@ -5,6 +5,7 @@ author: Epicurean Anonymous
 eul_wid: jtm-ab
 eul_aid: jtm
 canonical: "https://eulogikon.org/works/epicurean-anon-pythocles-nature-jtm-ab"
+lang: grc
 period: Hellenistic
 dialect: "Koine (phi, frg)"
 domain: Philosophy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Epicurean Anonymous
 
 **eul_wid:** `jtm-ab` · [HTML page](https://eulogikon.org/works/epicurean-anon-pythocles-nature-jtm-ab)
-
-The Fragments on Pythocles and Nature is an anonymous Epicurean philosophical treatise preserved in a highly fragmentary state. It survives as thirty-seven passages within the carbonized papyrus scrolls recovered from the Villa of the Papyri at Herculaneum, a library buried by the eruption of Mount Vesuvius in 79 CE. The work’s title indicates a dual focus on the figure of Pythocles, a known student and correspondent of Epicurus, and on the concept of nature, which is central to Epicurean physics. As such, it forms part of the crucial body of fragmentary Epicurean texts from Herculaneum that supplement the major surviving works of Epicurus himself.
-
-Based on the association with Pythocles, who was the recipient of Epicurus’s important letter on celestial phenomena, the treatise likely addressed core Epicurean physical doctrines. Its content probably included explanations of meteorological and astronomical events, discussions of atomic theory and the composition of the universe, and the application of the Epicurean method of offering multiple possible explanations for natural phenomena. This method was a cornerstone of the Epicurean project to eliminate fear and achieve peace of mind through a rational understanding of nature.
-
-The text is transmitted exclusively through two carbonized scrolls, cataloged as PHerc. 1428 and 310. Its fragmentary and damaged condition, typical of the Herculaneum library, requires sophisticated imaging techniques and philological reconstruction for study. The anonymous attribution is standard for most Herculaneum texts not ascribed to major figures like Epicurus or the philosopher Philodemus. While the treatise’s direct historical influence is untraceable due to its burial and fragmentary survival, its modern significance is considerable. Each deciphered fragment contributes to the expanding corpus of Epicurean thought, offering potential insights into the school’s doctrinal developments and internal discussions in the generations following its founder.
 
 ## Text
 

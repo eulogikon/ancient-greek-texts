@@ -5,6 +5,7 @@ author: Aristides the Orator
 eul_wid: qwm-bq
 eul_aid: qwm
 canonical: "https://eulogikon.org/works/aristides-orator-poetic-fragments-qwm-bq"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristides the Orator
 
 **eul_wid:** `qwm-bq` · [HTML page](https://eulogikon.org/works/aristides-orator-poetic-fragments-qwm-bq)
-
-The Poetic Fragments is a modern editorial title for four brief prose passages extracted from the larger orations of the second-century CE rhetorician Aelius Aristides. These excerpts, written in Attic Greek, are not independent compositions but are drawn from his speeches Regarding Sarapis, the autobiographical Sacred Tales, To Plato: In Defense of Oratory, and To Capito. They are united by their thematic concern with poetry, each featuring Aristides quoting and critically examining verses from canonical poets such as Pindar and Euripides within the framework of his rhetorical arguments. The content exemplifies central practices of the Second Sophistic, a cultural movement dedicated to the revival of classical Greek learning. In these fragments, Aristides employs poetic analysis to demonstrate his erudition, to defend the art of oratory, and to position himself within the continuum of Greek literary tradition. Scholars interpret these passages as sophisticated displays of learning intended for educated audiences, illustrating how a master orator could wield poetry as an instrument of persuasion and cultural authority. The text survives indirectly, preserved within the complete manuscript tradition of Aristides’ orations, most notably in the 13th-century Codex Laurentianus. These excerpts were not circulated as a discrete collection in antiquity but have been grouped together by modern editors due to their shared focus on poetic criticism.
 
 ## Text
 

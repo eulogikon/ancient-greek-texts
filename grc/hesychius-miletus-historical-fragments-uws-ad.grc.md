@@ -5,6 +5,7 @@ author: Hesychius of Miletus the Illustrious
 eul_wid: uws-ad
 eul_aid: uws
 canonical: "https://eulogikon.org/works/hesychius-miletus-historical-fragments-uws-ad"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hesychius of Miletus the Illustrious
 
 **eul_wid:** `uws-ad` · [HTML page](https://eulogikon.org/works/hesychius-miletus-historical-fragments-uws-ad)
-
-The Historical Fragments on Palmatius is a lost prose compilation by the sixth-century Byzantine scholar Hesychius of Miletus. Written in Koine Greek, the work is known only by its title, recorded in the tenth-century Byzantine encyclopedia known as the Suda, which lists it among the author's historical writings. The compilation reportedly consisted of thirty-four passages concerning the figure of Palmatius, a man of considerable wealth and notoriety during the reign of the Roman emperor Valerian. According to the surviving testimonia, Palmatius was a cavalryman whose property was confiscated due to tyrannical behavior; he was particularly noted for abducting the wife of a consular official named Isoaemus. The fragments themselves do not survive, but they are understood to represent a characteristic product of late antique historiography, in which scholars like Hesychius created focused excerpts and summaries from earlier, often more extensive, historical sources. This practice served to condense and organize classical learning for an educated audience during the age of Emperor Justinian I, functioning as both a didactic tool and a reference resource. The loss of the fragments is particularly significant as they may have preserved unique information from historical sources that are now themselves lost.
 
 ## Text
 

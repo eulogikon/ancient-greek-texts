@@ -5,6 +5,7 @@ author: Themistius the Philosopher
 eul_wid: rye-ap
 eul_aid: rye
 canonical: "https://eulogikon.org/works/themistius-posterior-analytics-rye-ap"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Themistius the Philosopher
 
 **eul_wid:** `rye-ap` · [HTML page](https://eulogikon.org/works/themistius-posterior-analytics-rye-ap)
-
-Themistius’s Paraphrase of the Posterior Analytics is a pedagogical restatement of Aristotle’s treatise on scientific demonstration. Composed in Late Antiquity, it aims to clarify Aristotle’s dense arguments through expansive explanation and illustrative examples, maintaining fidelity to the original text without extensive Neoplatonic interpretation. The work’s structure, comprising 67 passages, suggests a division designed for teaching. The paraphrase elucidates core Aristotelian themes, including the theory of syllogistic reasoning as the method for attaining scientific knowledge, the role of first principles and definitions in demonstration, and the acquisition and structure of knowledge, particularly the distinction between what is better known to us and what is better known by nature. The Greek text of this paraphrase, like others of Aristotle’s logical works by Themistius, is lost. It was preserved via translation into Syriac and Arabic, influencing Islamic Aristotelianism, and later into Latin from the Arabic. Themistius’s paraphrases were standard Byzantine textbooks and profoundly shaped medieval philosophy. In the Islamic tradition, where he was known as the Commentator, his work influenced Al-Farabi and Avicenna. His clear, accessible exegesis facilitated the cross-cultural transmission of Aristotelian thought for centuries.
 
 ## Text
 

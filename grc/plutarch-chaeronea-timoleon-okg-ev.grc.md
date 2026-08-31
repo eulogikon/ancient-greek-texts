@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-ev
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-timoleon-okg-ev"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-ev` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-timoleon-okg-ev)
-
-Plutarch’s Life of Timoleon is a biography from his Parallel Lives, composed in Greek around 100–120 CE. It pairs the 4th-century BCE Corinthian general Timoleon with the Roman commander Aemilius Paullus. The work is a continuous prose narrative, preserved in full through medieval manuscripts and conventionally divided into 177 sections. It chronicles Timoleon’s controversial early life, including his role in the death of his tyrannical brother, and focuses on his later mission to Sicily, where he liberated Greek cities from Carthaginian domination and local despots. The narrative details his military campaigns, his restoration of political order, and his final years in voluntary retirement.
-
-Plutarch’s purpose is less strict historiography than moral portraiture, exploring themes such as the tension between familial loyalty and public duty, the influence of fortune, and the ideal of the virtuous leader who relinquishes power. Written for an educated audience under the Roman Empire, the biography adapts earlier historical sources to illustrate Timoleon’s patriotism, justice, and restraint. As part of the Parallel Lives, it has exerted lasting influence, transmitted through Byzantine and Renaissance scholarship and shaping enduring conceptions of civic virtue and statesmanship.
 
 ## Text
 

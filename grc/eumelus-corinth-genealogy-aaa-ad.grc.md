@@ -5,6 +5,7 @@ author: Eumelus of Corinth
 eul_wid: aaa-ad
 eul_aid: aaa
 canonical: "https://eulogikon.org/works/eumelus-corinth-genealogy-aaa-ad"
+lang: grc
 period: Archaic
 dialect: Epic (Homeric) (frg)
 domain: Epic
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Eumelus of Corinth
 
 **eul_wid:** `aaa-ad` · [HTML page](https://eulogikon.org/works/eumelus-corinth-genealogy-aaa-ad)
-
-The Fragments on Corinthian Genealogy, traditionally attributed to the semi-legendary poet Eumelus of Corinth, is a lost epic poem composed in dactylic hexameter verse, likely dating to the eighth or seventh century BCE. Known also as the Corinthiaca, it functioned as a foundational narrative for the city-state of Corinth, detailing its divine origins and early mythical history to legitimize its ruling aristocracy. The poem recounted key etiological myths, including the contest between the gods Helios and Poseidon for possession of the Corinthian land, the subsequent division of territory among the descendants of Helios, and the heroic reigns of figures such as Sisyphus and Bellerophon. Its purpose was inherently political, designed for public recitation to forge a direct link between the contemporary civic order and a prestigious divine and heroic past. Scholars view the work as a prime example of how early Greek epic poetry was utilized to construct civic identity and reinforce social hierarchies. The complete text has not survived; it is known only through approximately ten fragments consisting of brief quotations and paraphrases preserved by later authors, most notably the travel writer Pausanias. These remnants are collected in modern editions of Greek epic fragments, providing a precious, though incomplete, window into the earliest mythological traditions of Corinth.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Philo of Alexandria
 eul_wid: lgi-as
 eul_aid: lgi
 canonical: "https://eulogikon.org/works/philo-alexandria-preliminary-studies-lgi-as"
+lang: grc
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,14 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philo of Alexandria
 
 **eul_wid:** `lgi-as` · [HTML page](https://eulogikon.org/works/philo-alexandria-preliminary-studies-lgi-as)
-
-The Works of Philo of Alexandria constitute an extensive corpus of treatises and scriptural commentaries composed in Koine Greek by Philo Judaeus, a Jewish philosopher active in Alexandria during the early Roman Empire, approximately between 20 BCE and 50 CE. Modern editions organize his surviving output into roughly fifty treatises alongside numerous fragments, all dedicated to interpreting the Jewish Scriptures, particularly the Torah. Philo’s distinctive method involves reading these sacred texts through the interpretive frameworks of Greek philosophy, chiefly Middle Platonism and Stoicism, to extract profound philosophical, theological, and ethical meanings.
-
-The corpus is traditionally categorized into several major series. The Exposition of the Law presents a systematic explanation of biblical history and Mosaic legislation. The Allegorical Commentary provides a detailed, verse-by-verse philosophical exegesis of the Book of Genesis. Another group encompasses historical and apologetic writings, including On the Embassy to Gaius, a valuable firsthand account of a Jewish delegation to the Roman emperor Caligula. A separate work, Questions and Answers on Genesis and Exodus, survives primarily in an Armenian translation. The frequently cited figure of 165 individual items refers to the total count of treatises, books, and fragments in comprehensive modern scholarly collections.
-
-Philo’s overarching project was to harmonize his Jewish faith with Greek intellectual culture, aiming to demonstrate that the teachings of Moses were the ultimate source of the truths later articulated by Greek philosophers. Scholars view his work as a seminal synthesis of biblical religion and Hellenistic thought, crafted for an audience of educated Hellenized Jews and potentially interested Gentiles. Central themes include the concept of the Logos, or Divine Reason, as God’s intermediary agent in creation and revelation; the extensive use of allegory to uncover hidden spiritual meanings beneath the literal text; and the narrative of the soul’s ascent toward virtue and knowledge of God.
-
-Philo’s writings were not preserved within mainstream Jewish tradition but by Christian scribes who found his allegorical methods and theological concepts, especially his Logos doctrine, highly congenial for their own exegetical and doctrinal purposes. As a result, the majority of his treatises survive in Greek manuscripts copied in Christian monastic scriptoria. Some works are incomplete or lost in their original Greek, existing only in ancient translations or in fragments quoted by later Christian authors.
 
 ## Text
 

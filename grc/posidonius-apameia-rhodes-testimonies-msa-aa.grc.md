@@ -5,6 +5,7 @@ author: Posidonius of Apameia and Rhodes
 eul_wid: msa-aa
 eul_aid: msa
 canonical: "https://eulogikon.org/works/posidonius-apameia-rhodes-testimonies-msa-aa"
+lang: grc
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Posidonius of Apameia and Rhodes
 
 **eul_wid:** `msa-aa` · [HTML page](https://eulogikon.org/works/posidonius-apameia-rhodes-testimonies-msa-aa)
-
-The Testimonies is a modern scholarly compilation of fragments and reports concerning the ideas of Posidonius of Apameia, a major Stoic philosopher, scientist, and historian of the Hellenistic period. As none of his original works survive intact, knowledge of his thought is derived entirely from quotations and discussions in the writings of later Greek and Roman authors such as Cicero, Seneca, and Strabo. The collection, typically organized into a series of key passages, documents his wide-ranging contributions to ethics, psychology, physics, and history. It reveals Posidonius as a systematic thinker who sought to synthesize core Stoic doctrine with elements drawn from Plato and Aristotle. His influential theory of the soul, which posited irrational faculties requiring education, marked a significant development within the Stoic tradition. The fragments also attest to his work on topics including cosmic sympathy, fate, and historical causation, particularly regarding the expansion of Roman power. The modern standard edition of these fragments is that of Edelstein and Kidd. Through this indirect transmission, Posidonius exercised a profound influence on later Stoics like Seneca, informed Roman intellectual circles via Cicero, and served as an important source for ancient historians and geographers.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Nikephoros Gregoras the Historian
 eul_wid: ryy-aa
 eul_aid: ryy
 canonical: "https://eulogikon.org/works/nikephoros-gregoras-roman-history-ryy-aa"
+lang: grc
 period: Late Antique
 dialect: Byzantine Greek
 domain: History
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Nikephoros Gregoras the Historian
 
 **eul_wid:** `ryy-aa` · [HTML page](https://eulogikon.org/works/nikephoros-gregoras-roman-history-ryy-aa)
-
-The Roman History is a 37-book chronicle composed in Atticizing Greek by the Byzantine scholar Nikephoros Gregoras. Written between approximately 1351 and 1359, it provides a detailed narrative spanning from the sack of Constantinople by the Fourth Crusade in 1204 up to the year 1359. The work integrates political and military history with extensive digressions on theology, intellectual debates, and observations of natural phenomena. It stands as a crucial primary source for fourteenth-century Byzantium, offering particularly detailed, often eyewitness, accounts of the Hesychast theological controversy and the civil wars between emperors Andronikos II and Andronikos III.
-
-Gregoras, a polymath and courtier, compiled the history while under house arrest after falling from political favor. Modern scholarship interprets the chronicle as a comprehensive defense of his own theological and political viewpoints, presenting a critical perspective on the ruling Palaiologan dynasty and serving as a major polemic against the Hesychast movement. The complete text survives, notably preserved in an autograph manuscript written in Gregoras’s own hand. It remains one of the two most important historical sources for its period, offering an indispensable, though highly partisan, window into the turbulent politics, fierce theological debates, and intellectual culture of the late Byzantine world.
 
 ## Text
 

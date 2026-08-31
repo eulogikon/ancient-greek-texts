@@ -5,6 +5,7 @@ author: Ocellus of Lucania
 eul_wid: eoc-aa
 eul_aid: eoc
 canonical: "https://eulogikon.org/works/ocellus-lucania-nature-universe-eoc-aa"
+lang: grc
 period: Classical
 dialect: Ionic
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Ocellus of Lucania
 
 **eul_wid:** `eoc-aa` · [HTML page](https://eulogikon.org/works/ocellus-lucania-nature-universe-eoc-aa)
-
-_On the Nature of the Universe_ is a philosophical treatise pseudepigraphically attributed to the Pythagorean thinker Ocellus of Lucania. The work presents a systematic argument for the eternity, indestructibility, and divine perfection of the cosmos, asserting that the universe is ungenerated and incorruptible. Its complete surviving text is divided into forty-one sections. The treatise develops its position through a sustained defense of several core theses, primarily the absolute eternity of the cosmos, which denies any temporal beginning or end. It further elaborates on the divine nature of cosmic order, derived from its perfect rational arrangement, and offers a critique of rival cosmogonic theories, particularly those found in other Presocratic and Platonic traditions. The argument concludes with ethical implications, proposing that human law should strive to mirror this eternal and rational natural law. Transmitted within the corpus of Pythagorean pseudepigrapha, the text is a complete later composition, most likely dating from the Hellenistic or early Imperial period. Its philosophical content reflects Peripatetic and later Pythagorean influences rather than archaic Pythagoreanism, and modern scholars universally regard its attribution to a historical Ocellus as spurious. The work engaged a central philosophical debate concerning the world's eternity and subsequently influenced later Neopythagorean and Neoplatonic thought. Its survival as a full treatise provides valuable insight into the development and propagation of Pythagorean doctrines in the post-classical era.
 
 ## Text
 

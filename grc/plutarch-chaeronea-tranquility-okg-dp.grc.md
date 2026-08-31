@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-dp
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-tranquility-okg-dp"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-dp` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-tranquility-okg-dp)
-
-On Tranquility of Mind is an ethical essay by the philosopher and biographer Plutarch, composed in Greek around 100 CE as part of his extensive body of practical philosophy known as the Moralia. Presented as a consolatory letter to his friend Paccius, who was experiencing depression and mental turmoil, the work offers systematic guidance for achieving peace of mind. Plutarch addresses common obstacles to tranquility, including political ambition, the pursuit of wealth, and the impact of misfortune, blending philosophical principles from Stoic, Epicurean, and Platonic traditions with a wealth of historical anecdotes and poetic quotations. The result is a practical, eclectic guide for daily living, structured as a continuous discourse rather than a formal dialogue, which moves fluidly through arguments and illustrative examples. Preserved through the medieval manuscript tradition, the essay is interpreted by modern scholars as a form of philosophical consolation, reflecting the concerns of the educated Greek elite under Roman rule. Its therapeutic aim is to draw useful wisdom from multiple schools of thought to manage the passions and cultivate a stable, tranquil life. The work's accessible, advice-driven style has ensured its enduring influence, particularly from the Renaissance onward.
 
 ## Text
 

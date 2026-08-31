@@ -5,6 +5,7 @@ author: Lysias the Orator
 eul_wid: ejc-ap
 eul_aid: ejc
 canonical: "https://eulogikon.org/works/lysias-against-eratosthenes-ejc-ap"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lysias the Orator
 
 **eul_wid:** `ejc-ap` · [HTML page](https://eulogikon.org/works/lysias-against-eratosthenes-ejc-ap)
-
-Against Eratosthenes is a forensic oration composed by the Athenian speechwriter Lysias around 403 BCE. It stands as a prosecution speech delivered before an Athenian jury, formally accusing Eratosthenes, a member of the oligarchic junta known as the Thirty Tyrants, of murder for his direct role in the arrest and execution of the orator's brother, Polemarchus. The speech is a classic example of Attic oratory, structured with a proem, a detailed narrative of events, supporting proofs, and a powerful peroration. In it, Lysias provides a vivid, firsthand account of the reign of terror instituted by the Thirty, detailing their systematic targeting of wealthy metics, or resident aliens, for arrest, property confiscation, and execution. While grounded in a profound personal grievance, the orator masterfully frames his brother's death as a public crime against the citizen body and the recently restored democracy itself.
-
-The historical significance of the speech extends beyond its immediate forensic purpose. Modern scholars regard it as a critical legal and political test of the Amnesty Agreement of 403 BCE, which sought to reconcile Athenian society after civil war by pardoning most acts committed during the conflict but explicitly excluding the ruling oligarchs themselves. Lysias’s prosecution thus navigated the delicate boundary between permissible private grievance and proscribed political retaliation. It is widely interpreted as an effort not only to secure personal justice but also to legitimize and consolidate the revived democracy by publicly condemning the atrocities of the deposed regime. Transmitted through medieval manuscripts, the complete text is accepted as a genuine work of Lysias and remains an indispensable primary source for understanding the violent oligarchic interlude and the fragile process of democratic restoration in late fifth-century Athens.
 
 ## Text
 

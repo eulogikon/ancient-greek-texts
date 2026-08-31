@@ -5,6 +5,7 @@ author: Amphicrates Atheniensis
 eul_wid: ejw-aa
 eul_aid: ejw
 canonical: "https://eulogikon.org/works/amphicrates-athens-illustrious-men-ejw-aa"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Amphicrates Atheniensis
 
 **eul_wid:** `ejw-aa` · [HTML page](https://eulogikon.org/works/amphicrates-athens-illustrious-men-ejw-aa)
-
-The work On Illustrious Men by the Athenian rhetorician Amphicrates is known only through a handful of brief fragments preserved by later authors. These suggest it was a collection of encomiastic orations or biographical sketches praising famous individuals from history and legend. The surviving passages reference figures such as the Athenian statesman Themistocles and the philosopher Theodorus the Atheist, indicating a wide scope that included both political and intellectual heroes. The composition date is generally placed no earlier than the late fourth century BCE. The extant fragments, which celebrate civic virtue, philosophical achievement, and other forms of glory, are transmitted solely through indirect quotations in the works of Athenaeus and Diogenes Laertius. While its direct influence is untraceable, the work belongs to the established genre of biographical encomium and collections of notable men that flourished in Hellenistic and Roman literature, and it was occasionally cited by later authors as a source for biographical details.
 
 ## Text
 

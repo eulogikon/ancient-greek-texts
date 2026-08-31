@@ -5,6 +5,7 @@ author: Pindar
 eul_wid: boa-aa
 eul_aid: boa
 canonical: "https://eulogikon.org/works/pindar-isthmian-odes-boa-aa"
+lang: grc
 period: Archaic
 dialect: Literary Doric
 domain: Poetry
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Pindar
 
 **eul_wid:** `boa-aa` · [HTML page](https://eulogikon.org/works/pindar-isthmian-odes-boa-aa)
-
-The Isthmian Odes are a collection of epinician, or victory, poems composed by the ancient Greek lyric poet Pindar. They were commissioned to honor the achievements of athletes who triumphed at the Isthmian Games, a major Panhellenic festival held near Corinth. The extant odes, traditionally numbered at twelve or thirteen complete works alongside numerous fragments, were written over a period spanning roughly from 480 to 446 BCE. Like Pindar's other victory odes, they are composed in a sophisticated literary dialect that artfully blends Doric, Aeolic, and epic linguistic forms.
-
-Each ode is meticulously structured in triadic patterns of strophe, antistrophe, and epode, a formal complexity suited to their original performance with choral song and dance. Their content follows a conventional but flexible framework: an announcement of the victor's success, praise for the athlete's family and homeland, the narration of a mythic exemplar drawn from heroic legend or divine lore, and a concluding passage of gnomic wisdom or personal reflection. As expensive commissions, these poems served a vital social function, publicly immortalizing the victor's achievement and reflecting enduring glory upon his city-state. Modern scholarship regards the collection as an invaluable record of aristocratic ideals, civic pride, and religious sentiment in classical Greece. Beyond their primary celebratory purpose, certain odes are interpreted as containing subtle commentary on contemporary political events, such as the aftermath of the Persian Wars. The text has been transmitted with relative fidelity; the odes were compiled in antiquity and preserved through medieval manuscripts, primarily from the 13th and 14th centuries, with additional evidence provided by papyrus fragments and ancient scholia.
 
 ## Text
 
@@ -1806,6 +1803,8 @@ Each ode is meticulously structured in triadic patterns of strophe, antistrophe,
 
 λοιγὸν ἀμύνων ἐναντίῳ στρατῷ,
 
+*[crux: λοιγὸν ἀμύνων]*
+
 ### book 7.27.3
 
 ἀστῶν γενεᾷ μέγιστον κλέος αὔξων
@@ -1969,6 +1968,8 @@ Each ode is meticulously structured in triadic patterns of strophe, antistrophe,
 ### book 8.10
 
 γε Ταντάλου λίθον παρά
+
+*[crux: Ταντάλου]*
 
 ### book 8.10
 

@@ -5,6 +5,7 @@ author: Historical Fragments  Anonymous
 eul_wid: mmg-al
 eul_aid: mmg
 canonical: "https://eulogikon.org/works/anon-hist-frag-philosopher-mmg-al"
+lang: grc
 period: Hellenistic
 dialect: Mixed Dialects (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Historical Fragments  Anonymous
 
 **eul_wid:** `mmg-al` · [HTML page](https://eulogikon.org/works/anon-hist-frag-philosopher-mmg-al)
-
-The Anonymous Philosopher is a conventional scholarly designation for unattributed philosophical material preserved in fragmentary form. It does not refer to a single, coherent work but rather serves as a categorical label for individual testimonia or doctrines compiled from doxographical sources. These fragments are typically quotations or paraphrases of lost works by unnamed thinkers, found in the writings of later authors such as Diogenes Laertius, Stobaeus, or the pseudo-Plutarchian Placita Philosophorum. The content ascribed to this notional figure varies by fragment but generally encompasses the core subjects of ancient Greek philosophy, including cosmology, metaphysics, ethics, epistemology, and theology. These fragments possess no independent manuscript tradition and are transmitted solely through their incorporation into other works. Their recovery and systematic collection are products of modern philological scholarship, most notably exemplified by Hermann Diels in his foundational work, Die Fragmente der Vorsokratiker. The significance of these anonymous fragments lies in their provision of crucial, albeit often scant, evidence for reconstructing lost intellectual currents and the ideas of otherwise unknown philosophers, thereby helping to fill gaps in the historical record of ancient thought.
 
 ## Text
 

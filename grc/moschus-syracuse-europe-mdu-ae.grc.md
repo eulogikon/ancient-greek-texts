@@ -5,6 +5,7 @@ author: Moschus of Syracuse
 eul_wid: mdu-ae
 eul_aid: mdu
 canonical: "https://eulogikon.org/works/moschus-syracuse-europe-mdu-ae"
+lang: grc
 period: Hellenistic
 dialect: Doric Bucolic
 domain: Poetry
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Moschus of Syracuse
 
 **eul_wid:** `mdu-ae` · [HTML page](https://eulogikon.org/works/moschus-syracuse-europe-mdu-ae)
-
-Europe is a short epic poem, or epyllion, composed in Greek dactylic hexameter and traditionally ascribed to the Hellenistic bucolic poet Moschus of Syracuse, who flourished in the mid-2nd century BCE. This polished work of 166 lines recounts the myth of the Phoenician princess Europa. It opens with a prophetic dream sent by Aphrodite, followed by a vivid pastoral scene in which Europa gathers flowers with her companions by the seashore. There she encounters a remarkably gentle and beautiful bull, the god Zeus in disguise. Charmed, she decorates the animal with garlands and climbs upon its back, whereupon Zeus carries her across the sea to Crete. The poem concludes with Europa’s lament upon the foreign shore and the bull’s revelation of his divine identity, promising her that she will bear him famous sons and that a continent will bear her name.
-
-A complete and refined example of Hellenistic poetry, Europe is characterized by its emotional focus on the heroine’s perspective, its detailed pictorial descriptions, and its learned, allusive style. A central set-piece is an elaborate ecphrasis describing Europa’s ornate flower basket, which is adorned with mythological scenes that artfully prefigure her own abduction and destiny. Modern scholarship interprets the poem as a miniature epic designed for a sophisticated audience conversant with Homeric tradition, emphasizing themes of divine deception, innocence, and fate. The text survives intact, preserved in medieval manuscripts alongside the works of other bucolic poets such as Theocritus. Although some philological debate has questioned its authorship, occasionally suggesting it may be a later imitation, the traditional attribution to Moschus remains standard.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Sophocles
 eul_wid: buo-ai
 eul_aid: buo
 canonical: "https://eulogikon.org/works/sophocles-ichneutae-buo-ai"
+lang: grc
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Sophocles
 
 **eul_wid:** `buo-ai` · [HTML page](https://eulogikon.org/works/sophocles-ichneutae-buo-ai)
-
-Trackers (also known by its Greek title Ichneutae) is a satyr play by the Athenian tragedian Sophocles, composed in the mid-5th century BCE. It represents the most substantially preserved example of a satyr play, a genre of mythological comedy that traditionally followed a trilogy of tragedies at Athenian dramatic festivals. The plot centers on the infant god Hermes, who has stolen the cattle of Apollo. Apollo enlists a chorus of satyrs—the “trackers” of the title—and their father, Silenus, to recover the animals. The satyrs successfully find the tracks but are then terrified by an unfamiliar sound emanating from a cave. This is revealed to be Hermes playing the newly invented lyre, which he has fashioned from a tortoise shell.
-
-The text survives only in part, preserved on a single, damaged papyrus roll from the 2nd century CE discovered at Oxyrhynchus in Egypt. This fragmentary source provides roughly 400 lines of the play, offering a rare, continuous glimpse into the structure and humorous tone of a satyr drama. Modern scholarship interprets the work as a comic exploration of themes such as divine ingenuity contrasted with rustic simplicity, the fear of the unknown, and the mythical origins of music and culture. It is believed to have been written for performance at the City Dionysia festival, providing a lighthearted conclusion to Sophocles’ more serious tragic productions.
 
 ## Text
 

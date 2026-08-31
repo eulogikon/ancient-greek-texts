@@ -1,10 +1,11 @@
 ---
 title: On Tropes
 title_greek: Περὶ τρόπων
-author: "Tryphon the Grammarian "
+author: Tryphon the Grammarian
 eul_wid: ncu-ac
 eul_aid: ncu
 canonical: "https://eulogikon.org/works/tryphon-grammarian-tropes-ncu-ac"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: Grammar
@@ -16,13 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Περὶ τρόπων*
 
-**Author:** Tryphon the Grammarian 
+**Author:** Tryphon the Grammarian
 
 **eul_wid:** `ncu-ac` · [HTML page](https://eulogikon.org/works/tryphon-grammarian-tropes-ncu-ac)
-
-On Tropes is a grammatical treatise attributed to the Alexandrian grammarian Tryphon, who was active during the reign of Augustus. The work provides a systematic examination of rhetorical and grammatical tropes, defined as figures of speech that involve a deliberate shift in a word's meaning from its literal sense. It opens by establishing a fundamental distinction between literal expression, or kyriologia, and figurative expression, or tropos. The treatise then proceeds to classify and define fourteen primary tropes, including metaphor, catachresis, allegory, enigma, metalepsis, metonymy, synecdoche, onomatopoeia, periphrasis, anastrophe, hyperbaton, pleonasm, ellipsis, and paraple­ro­ma. Tryphon notes that these are often called poetic tropes, as their usage is most prevalent among poets, and grammarians employ them when interpreting passages spoken either literally or figuratively in poetic works. The surviving text begins a detailed discussion of metaphor, describing it as a word transferred from its proper signification to another.
-
-The treatise does not survive as an independent work. Its content is known only through fragments and quotations preserved in the writings of later grammarians and lexicographers, as well as in Byzantine compilations such as the Etymologicum Magnum. Tryphon's works were considered authoritative within the Alexandrian grammatical tradition and are frequently cited by subsequent scholars like Herodian and Apollonius Dyscolus. His methodical approach to categorizing linguistic devices contributed significantly to the standardization of grammatical theory and education in the Greco-Roman world.
 
 ## Text
 

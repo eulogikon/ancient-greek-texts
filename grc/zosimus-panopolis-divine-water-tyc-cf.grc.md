@@ -5,6 +5,7 @@ author: Zosimus of Panopolis
 eul_wid: tyc-cf
 eul_aid: tyc
 canonical: "https://eulogikon.org/works/zosimus-panopolis-divine-water-tyc-cf"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Zosimus of Panopolis
 
 **eul_wid:** `tyc-cf` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-divine-water-tyc-cf)
-
-On Divine Water is a short alchemical treatise written in Greek by Zosimus of Panopolis around 300 CE. The work focuses on the preparation and significance of a substance known as "divine water," a central reagent in Greco-Egyptian alchemy often identified with mercury or a potent solvent for the transmutation of metals. Structured as two instructional passages, the treatise blends precise laboratory directions with spiritual and philosophical interpretation, a characteristic feature of Zosimus's syncretic method. It details procedures involving the careful processing of egg components, specific weights and measures, and controlled heating in a sealed vessel, framing these operations within a symbolic and ritualistic context.
-
-Composed in late antique Egypt, the text emerged from a milieu where Greek technical knowledge, Egyptian craft traditions, and religious-philosophical currents such as Gnosticism and Platonism were converging to form the early practice of alchemy. Modern scholarship interprets works like On Divine Water as serving a dual purpose: conveying esoteric technical knowledge to fellow practitioners while simultaneously presenting the alchemical process as an allegory for the purification and salvation of the practitioner's soul. Consequently, the divine water is understood not merely as a chemical reagent but as a symbol of a transformative spiritual agent.
-
-The treatise survives as part of a larger, fragmentary corpus attributed to Zosimus. It is preserved primarily in later Byzantine Greek manuscripts, notably the 13th-century Parisinus Graecus 2325, a compilation of numerous alchemical texts. The transmission history is complex, with Zosimus's original writings often subject to corruption, abbreviation, and interpolation with later commentaries. The concise, two-passage structure of On Divine Water suggests it may be an excerpt or chapter within this broader manuscript tradition. Through these Byzantine copies and subsequent translations into Syriac and Arabic, Zosimus's ideas exerted a profound influence on the development of alchemy in the Islamic world and later in medieval Latin Europe.
 
 ## Text
 

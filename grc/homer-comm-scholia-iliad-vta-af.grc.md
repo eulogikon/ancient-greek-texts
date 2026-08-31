@@ -5,6 +5,7 @@ author: Homer Commentary
 eul_wid: vta-af
 eul_aid: vta
 canonical: "https://eulogikon.org/works/homer-comm-scholia-iliad-vta-af"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Grammar
@@ -19,22 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Homer Commentary
 
 **eul_wid:** `vta-af` · [HTML page](https://eulogikon.org/works/homer-comm-scholia-iliad-vta-af)
-
-Overview The Scholia Iliad (Σχόλια εἰς Ἰλιάδα) constitute a vast corpus of ancient and Byzantine marginal and interlinear commentary on Homer’s epic. This compilation preserves exegetical material from many centuries, synthesizing the work of Alexandrian, Pergamene, and later grammarians. The scholia address textual criticism, literary analysis, linguistic glosses, mythology, and grammar.
-
-Content
-
-Textual Criticism: Discussion of variant readings and editorial judgments by Hellenistic scholars.
-
-Literary Analysis: Notes on Homeric style, rhetoric, and narrative technique.
-
-Linguistic Exegesis: Explanations of archaic words, dialect, and syntax.
-
-Mythological and Historical Commentary: Identification of characters and stories, often reconciling Homeric narrative with later traditions.
-
-Transmission The scholia survive in a complex manuscript tradition, most notably in the 10th-century Venetus A (Marcianus Graecus 454), which contains the richest collection of "A-scholia" derived from Aristarchus of Samothrace. The original full commentaries are lost; what remains are medieval compilations transmitted fragmentarily in various corpora.
-
-Significance These scholia are foundational for the history of classical scholarship and philology, providing direct insight into ancient interpretive methods. They are an indispensable resource for modern editors of Homer, preserving otherwise lost variant readings and critical judgments, and serve as a crucial repository of cultural and linguistic knowledge.
 
 ## Text
 

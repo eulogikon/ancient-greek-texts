@@ -1,10 +1,11 @@
 ---
 title: Library
 title_greek: Βιβλιοθήκη
-author: "Pseudo-Apollodorus "
+author: Pseudo-Apollodorus
 eul_wid: qgs-aa
 eul_aid: qgs
 canonical: "https://eulogikon.org/works/pseudo-apollodorus-library-qgs-aa"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Fiction
@@ -16,13 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Βιβλιοθήκη*
 
-**Author:** Pseudo-Apollodorus 
+**Author:** Pseudo-Apollodorus
 
 **eul_wid:** `qgs-aa` · [HTML page](https://eulogikon.org/works/pseudo-apollodorus-library-qgs-aa)
-
-The Library, traditionally attributed to Apollodorus of Athens but now recognized as the work of an unknown author conventionally called Pseudo-Apollodorus, is a comprehensive compendium of Greek mythology. Composed in clear, concise Attic Greek prose likely during the 1st or 2nd century CE, the work systematically organizes narratives from the origin of the gods through the events of the Trojan War. Its structure is genealogical, tracing the family lines and exploits of gods, heroes, and legendary dynasties. The original text comprised three books, detailing the succession myths of the gods, the labors and adventures of heroes such as Perseus and Heracles, and the epic cycles centered on Thebes and Troy.
-
-The complete work does not survive intact; the extant text is preserved in a single 14th-century manuscript that breaks off abruptly. The missing conclusion, which would have covered the end of the Trojan War and its aftermath, is supplemented by a separate section known as the Epitome. This Epitome is generally considered an abridgment of the lost original material, providing a continuous narrative as it is studied today. Interpreted by modern scholars as a reference handbook or textbook, the Library appears designed for an educated audience seeking a clear and organized summary of the complex mythological tradition. Its principal value lies in its preservation of systematic summaries for countless myths and variant stories, many of which are otherwise lost, making it an indispensable source for the modern understanding of Greek mythology.
 
 ## Text
 

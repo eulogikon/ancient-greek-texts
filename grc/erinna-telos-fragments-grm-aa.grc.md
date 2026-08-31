@@ -5,6 +5,7 @@ author: Erinna of Telos
 eul_wid: grm-aa
 eul_aid: grm
 canonical: "https://eulogikon.org/works/erinna-telos-fragments-grm-aa"
+lang: grc
 period: Classical
 dialect: Doric (frg)
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Erinna of Telos
 
 **eul_wid:** `grm-aa` · [HTML page](https://eulogikon.org/works/erinna-telos-fragments-grm-aa)
-
-Erinna of Telos was a Greek lyric poet of the 4th century BCE, a contemporary of Sappho. Her most famous work was a hexameter poem traditionally called the Distaff, a profound lament for her childhood friend Baucis, who died young. The surviving fragments vividly recall their shared girlhood—playing with dolls, fearing monsters, and learning to weave—contrasting these memories with intense personal grief. In addition to this poem, three short epigrams attributed to Erinna are preserved. Only a small portion of her poetry survives; approximately 54 lines of the estimated 300-line Distaff remain, recovered from papyrus fragments and quotations by later ancient scholars. The total corpus is structured around 14 identifiable passages. Written in a literary blend of Doric Greek with other dialectal influences, her work is noted for its craftsmanship. Modern scholars interpret her poems as a rare and valuable window into the domestic world and emotional bonds between women in antiquity, personalizing the traditional genre of lament. Despite its fragmentary state, Erinna was highly admired in the ancient world, included in canons of great poets and even called "the female Homer." Her work remains a crucial link in the tradition of women's lyric poetry.
 
 ## Text
 

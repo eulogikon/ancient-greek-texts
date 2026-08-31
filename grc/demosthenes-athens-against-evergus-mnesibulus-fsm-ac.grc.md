@@ -5,6 +5,7 @@ author: Demosthenes of Athens
 eul_wid: fsm-ac
 eul_aid: fsm
 canonical: "https://eulogikon.org/works/demosthenes-athens-against-evergus-mnesibulus-fsm-ac"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Demosthenes of Athens
 
 **eul_wid:** `fsm-ac` · [HTML page](https://eulogikon.org/works/demosthenes-athens-against-evergus-mnesibulus-fsm-ac)
-
-Against Evergus and Mnesibulus is a forensic oration from the Demosthenic corpus, classified as a dikē pseudomartyrion, or private suit for false testimony. The case originates from a complex dispute over a maritime loan. The plaintiff prosecutes two defendants, Evergus and the witness Mnesibulus, alleging that Mnesibulus gave false testimony during an earlier arbitration proceeding. That arbitration itself concerned damages awarded from a prior maritime lawsuit, making this speech a secondary legal action arising from the initial commercial conflict.
-
-The oration provides a detailed view of Athenian legal procedure, particularly the mechanisms for challenging testimony and the role of private arbitration. It serves as an important source for understanding Athenian maritime law, including the specific regulations and high-interest rates associated with maritime loans. The plaintiff's argument relies heavily on constructing a narrative from factual details and documentary evidence to prove the technical charge of false witness, while simultaneously engaging in a broader rhetorical strategy that contrasts the alleged dishonesty and bad character of the defendants with his own presented integrity and lawful conduct.
-
-Preserved within the Demosthenic corpus as Oration 47, the speech's authorship is widely disputed. Many scholars consider it spurious, attributing it not to Demosthenes himself but to another logographer, possibly Apollodorus, the son of Pasion. The complete text survives through the medieval manuscript tradition. Despite questions surrounding its authenticity, the speech remains a significant document, studied both as a model of Attic oratory and as a valuable historical source for the intricacies of Athenian legal practice, commercial law, and rhetorical technique in the fourth century BCE.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Alchemist I
 eul_wid: rrg-ay
 eul_aid: rrg
 canonical: "https://eulogikon.org/works/alchemist-i-trismegistus-instrument-rrg-ay"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alchemist I
 
 **eul_wid:** `rrg-ay` · [HTML page](https://eulogikon.org/works/alchemist-i-trismegistus-instrument-rrg-ay)
-
-The Hermes Trismegistus Instrument is a brief, pseudepigraphal Greek alchemical treatise ascribed to the legendary figure Hermes Trismegistus. Preserved within the larger corpus of Greek alchemical literature, it is a practical manual focused on laboratory processes and apparatus. The text provides specific instructions for alchemical operations, including a method for calculating auspicious times for work based on astronomical observations, such as the rising of the Dog Star. It details the use of an instrument or device for this purpose, assigning symbolic meanings to certain letters to denote outcomes like life, death, or danger. The content is primarily concerned with techniques for the transmutation of metals and the creation of alloys or tinctures.
-
-The treatise survives in medieval Byzantine manuscripts, most notably within the significant alchemical compilation known as Marcianus graecus 299, which dates from the 10th or 11th century CE. It was transmitted in its original Greek as part of a technical alchemical corpus, subject to the copying practices and potential interpolations of later scribes and practitioners. As a component of the Greek alchemical tradition, this technical work contributed to the body of practical knowledge that passed into the Islamic world and later medieval Latin Europe. It represents the practical, or "technical," strand of the Hermetic tradition, which operated alongside the more philosophical Hermetica and played a crucial role in shaping alchemy's development as a protoscientific discipline.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-ac
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-philosopher-rulers-okg-ac"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-ac` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-philosopher-rulers-okg-ac)
-
-On That the Philosopher Should Converse Especially with Rulers is a philosophical essay by Plutarch of Chaeronea, composed around 100 CE as part of his extensive ethical corpus, the Moralia. Written in Attic Greek, the work presents a sustained argument that the philosopher has a moral and civic duty to actively engage with and advise those in political power. Plutarch contends that guiding rulers with wisdom is not a corrupting compromise but the most practical and noble application of philosophical principles, yielding direct benefit to the state and its citizens. The essay systematically builds its case through logical reasoning and illustrative examples drawn from both Greek and Roman history, directly confronting common objections regarding the dangers of courting tyrants or sacrificing philosophical integrity. Surviving intact through the medieval manuscript tradition, the text is interpreted by modern scholars as a characteristic product of the Second Sophistic, a period during which Greek intellectuals sought to articulate their public role within the Roman Empire. The essay functions as a persuasive exhortation, encouraging educated elites to view responsible political engagement not as a distraction from the philosophical life but as its most complete and socially fruitful realization.
 
 ## Text
 

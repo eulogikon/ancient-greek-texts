@@ -5,6 +5,7 @@ author: Alchemist I
 eul_wid: rrg-ac
 eul_aid: rrg
 canonical: "https://eulogikon.org/works/alchemist-i-molds-casts-thunderbolt-rrg-ac"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alchemist I
 
 **eul_wid:** `rrg-ac` · [HTML page](https://eulogikon.org/works/alchemist-i-molds-casts-thunderbolt-rrg-ac)
-
-"If You Want to Make Molds and Casts from Thunderbolt" is a brief technical treatise on alchemical practice, traditionally ascribed to the philosopher Democritus but now recognized by scholars as the work of an anonymous author, often designated as Pseudo-Democritus or Alchemist I. Likely composed between the 1st and 3rd centuries CE in Roman Egypt, the text is written in Koine Greek and comprises five succinct passages of step-by-step instructions. It details the process of creating molds and casts using a material termed "thunderbolt," which in this context is understood to be a special metallic substance, possibly iron or meteoric iron, prized for its hardness and perceived celestial origin. The treatise is a representative artifact of the early Greco-Egyptian alchemical tradition, which synthesized Egyptian craft techniques with Greek philosophical concepts. It was designed for use by practitioners in workshops, serving to transmit practical metallurgical skills. The specific focus on "thunderbolt" illustrates the period's belief in the sympathetic or magical properties of materials, wherein the perceived power of the celestial substance was thought to be imparted to the cast object. The work emphasizes technical procedure, material transformation, and the use of special ingredients, all central concerns in early alchemical literature. The text has been preserved as a component of the larger alchemical corpus known as the Physika kai Mystika, which was copied and studied throughout the Byzantine era. Its primary survival is within medieval Greek manuscripts, most notably the 10th- or 11th-century Marcianus graecus 299, where these practical instructions have remained largely intact.
 
 ## Text
 

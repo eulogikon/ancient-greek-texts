@@ -5,6 +5,7 @@ author: Aretaeus the Cappadocian
 eul_wid: qao-aa
 eul_aid: qao
 canonical: "https://eulogikon.org/works/aretaeus-cappadocian-chronic-diseases-qao-aa"
+lang: grc
 period: Roman
 dialect: Ionic
 domain: Medicine
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aretaeus the Cappadocian
 
 **eul_wid:** `qao-aa` · [HTML page](https://eulogikon.org/works/aretaeus-cappadocian-chronic-diseases-qao-aa)
-
-On Causes and Signs of Chronic Diseases is a systematic medical treatise composed in Ionic Greek by the physician Aretaeus of Cappadocia, who is believed to have practiced during the 1st century CE. As one of his two extant works, it provides a methodical examination of long-term illnesses. The text is divided into 29 chapters, each adhering to a consistent analytical structure: an initial discussion of the causes of a disease, followed by a detailed description of its signs and symptoms, often concluding with remarks on prognosis. It covers a wide range of conditions, including diabetes, epilepsy, pneumonia, and various mental disorders, and is particularly noted for its accurate and vivid clinical observations. Aretaeus’s description of diabetes, for instance, stands as one of the clearest from antiquity, detailing symptoms such as unquenchable thirst and excessive urination.
-
-The treatise reflects the principles of the Pneumatist school of medicine, which was influenced by Stoic philosophy and considered pneuma, or vital spirit, fundamental to physiological function and health. His deliberate use of the archaic Ionic dialect is interpreted by modern scholars as an effort to align his work with the authoritative Hippocratic tradition. The text appears to have been composed for didactic purposes, aimed at instructing fellow physicians and medical students.
-
-The preservation of Aretaeus’s work is a notable historical accident. After being largely lost following antiquity, his writings survived in a single 10th-century manuscript, which was rediscovered in the 16th century. This manuscript contains a largely complete text of both his major treatises, securing his posthumous reputation as one of the ancient world’s most skilled and perceptive clinical observers.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Rhetorical Treatise Anonymous
 eul_wid: rhg-au
 eul_aid: rhg
 canonical: "https://eulogikon.org/works/anon-rhet-treatise-figures-rhg-au"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Rhetorical Treatise Anonymous
 
 **eul_wid:** `rhg-au` · [HTML page](https://eulogikon.org/works/anon-rhet-treatise-figures-rhg-au)
-
-_On Figures_ is an anonymous Greek rhetorical treatise composed as an oration. As its title suggests, the work is a systematic manual dedicated to the classification, definition, and stylistic application of rhetorical figures. It opens with a fundamental definition of a figure as an intentional, artful deviation from ordinary expression, categorizing figures into two primary types: those of thought and those of diction. The text then proceeds to enumerate and analyze eight specific figures of syntax, providing detailed explanations and illustrative examples for each. These include devices such as anticipation, synthesis, and epiphonema, with the analysis often extending to the constituent elements a student must identify to understand the figure's construction. The treatise represents a standard component of advanced rhetorical education in antiquity, functioning as a technical handbook on the artistic manipulation of language for persuasive and expressive effect. While its specific manuscript tradition and direct influence remain obscure due to its anonymity, the work belongs to a prolific genre of rhetorical manuals. The conceptual framework for analyzing figures established in such treatises was instrumental in shaping the development of Western literary and rhetorical theory from late antiquity through the Renaissance.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Ptolemy of Alexandria
 eul_wid: phs-ak
 eul_aid: phs
 canonical: "https://eulogikon.org/works/ptolemy-alexandria-inclinations-phs-ak"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Mathematics
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Ptolemy of Alexandria
 
 **eul_wid:** `phs-ak` · [HTML page](https://eulogikon.org/works/ptolemy-alexandria-inclinations-phs-ak)
-
-On Inclinations is a mathematical treatise by Claudius Ptolemy, composed in Alexandria around 150 CE. The work is a technical manual on the application of spherical geometry to the design of sundials. Its primary focus is the geometric method known as the analemma, a procedure for projecting the three-dimensional arcs of the celestial sphere onto a two-dimensional plane. This projection enabled the accurate construction of hour lines for a sundial at any given terrestrial latitude, solving a central problem in practical astronomy and timekeeping. The original Greek text is lost, and knowledge of the work depends largely on a Latin translation made in 1269 by William of Moerbeke, titled De analemmate. Organized into discrete sections, the treatise exemplifies the advanced application of theoretical Greek geometry to an instrument-making context, likely intended for mathematicians, astronomers, and skilled artisans during the Roman Imperial period.
 
 ## Text
 

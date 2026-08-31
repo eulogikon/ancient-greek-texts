@@ -5,6 +5,7 @@ author: Satyrus of Oxyrhynchus
 eul_wid: jii-aa
 eul_aid: jii
 canonical: "https://eulogikon.org/works/satyrus-oxyrhynchus-life-of-euripides-jii-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine (frg)
 domain: Biography
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Satyrus of Oxyrhynchus
 
 **eul_wid:** `jii-aa` · [HTML page](https://eulogikon.org/works/satyrus-oxyrhynchus-life-of-euripides-jii-aa)
-
-The Life of Euripides is a biography of the Athenian tragedian composed in Greek prose by the Hellenistic author and philosopher Satyrus of Callatis during the third century BCE. It stands as an early and significant example of Greek biographical writing, merging anecdotes about the poet's personal history with critical analysis of his dramatic works and character. The text is distinguished by its lively, dialogic style, structured as a conversation between a primary speaker and an interlocutor. Only a portion of the work survives, preserved in a fragmentary state on a second-century CE papyrus scroll discovered at Oxyrhynchus in Egypt. This papyrus, containing 62 separate passages, offers valuable glimpses into Euripides' reputed personality, his philosophical training, and his innovations within tragic drama. Modern scholarship regards the biography as a prime specimen of Peripatetic biography, a tradition concerned with elucidating the ethical and intellectual constitution of an individual. It was likely composed for an educated readership interested in the relationship between an author's life and literary output. The Oxyrhynchus papyrus remains the principal source for Satyrus's work, attesting to its continued circulation centuries after its initial composition, though the complete original text is lost.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Demetrius On Style
 eul_wid: nvg-ab
 eul_aid: nvg
 canonical: "https://eulogikon.org/works/demetrius-style-epistolary-forms-nvg-ab"
+lang: grc
 period: Roman
 dialect: Attic
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Demetrius On Style
 
 **eul_wid:** `nvg-ab` · [HTML page](https://eulogikon.org/works/demetrius-style-epistolary-forms-nvg-ab)
-
-The treatise Epistolary Forms constitutes the concluding section of the rhetorical work On Style attributed to Demetrius. Preserved as an integral part of the larger manuscript tradition, it occupies the final chapters of the complete text. This section offers a systematic exposition on the theory and practice of letter-writing, defining the epistle as a distinct literary form characterized by concision, artful composition, and a reflection of the writer's character, deliberately set apart from genres like dialogue or history. It elaborates on the ideal characteristics of a letter, prioritizing simplicity, clarity, and brevity, while also examining how style must be adapted to suit the specific relationship between the writer and the recipient. The discussion further encompasses the appropriate use of stylistic figures and the expression of character through prose. The complete work, including this epistolary treatise, survives primarily in a tenth- or eleventh-century manuscript, and while its authenticity as a component of Demetrius's handbook is generally accepted, the precise dating of the author and text remains a subject of scholarly debate. On Style, with its methodical treatment of rhetorical and epistolary theory, proved to be an influential manual, providing a model for later criticism and maintaining a significant place in the study of ancient rhetoric, literary theory, and the art of letter-writing.
 
 ## Text
 

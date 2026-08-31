@@ -5,6 +5,7 @@ author: Philolaus of Croton
 eul_wid: bue-ab
 eul_aid: bue
 canonical: "https://eulogikon.org/works/philolaus-croton-nature-cosmos-bue-ab"
+lang: grc
 period: Classical
 dialect: Doric
 domain: Philosophy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philolaus of Croton
 
 **eul_wid:** `bue-ab` · [HTML page](https://eulogikon.org/works/philolaus-croton-nature-cosmos-bue-ab)
-
-The philosophical work known as On the Nature of the Cosmos is a collection of fragments attributed to Philolaus of Croton, a Pythagorean thinker of the late 5th century BCE. According to ancient tradition, Philolaus was the first to commit the secretive doctrines of the Pythagorean school to writing, and his publication may have borne this title. The text survives not as a continuous manuscript but exclusively through quotations preserved by later Greek and Roman authors.
-
-The central doctrine presented in these fragments posits that the cosmos is constituted by two fundamental and eternal principles: the Unlimited, associated with formless continuity, and the Limiting, associated with defining structure and number. All existing things, including the universe itself, are said to arise from the harmonious combination of these two principles. This metaphysical framework extended into a distinctive astronomical system, which proposed a central cosmic fire around which the Earth, a hypothetical Counter-Earth, the sun, moon, and planets revolved. A famous epistemological fragment asserts that number is a necessary precondition for all knowledge, emphasizing the Pythagorean conviction in the mathematical nature of reality.
-
-The authenticity of the corpus is a subject of significant modern scholarly debate. While a small core of fragments is widely accepted as genuine, others are suspected to be later interpretations or forgeries. Regardless of these philological uncertainties, the ideas ascribed to Philolaus exercised considerable influence on subsequent philosophy, reportedly informing the thought of Plato and serving as a key source for Aristotle’s account of Pythagoreanism.
 
 ## Text
 

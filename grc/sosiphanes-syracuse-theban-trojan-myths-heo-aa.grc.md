@@ -5,6 +5,7 @@ author: Sosiphanes of Syracuse
 eul_wid: heo-aa
 eul_aid: heo
 canonical: "https://eulogikon.org/works/sosiphanes-syracuse-theban-trojan-myths-heo-aa"
+lang: grc
 period: Classical
 dialect: Doric
 domain: Drama
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Sosiphanes of Syracuse
 
 **eul_wid:** `heo-aa` · [HTML page](https://eulogikon.org/works/sosiphanes-syracuse-theban-trojan-myths-heo-aa)
-
-The Fragments on Theban and Trojan Myths comprise fourteen surviving passages from lost tragedies by the fourth-century BCE dramatist Sosiphanes of Syracuse. Preserved as quotations in later anthologies, primarily the fifth-century CE Anthologion of Stobaeus, these fragments indicate the poet’s treatment of standard mythological cycles, though the specific play titles from which they derive are lost. The content engages with traditional tragic forms, featuring moralizing, gnomic statements on themes of governance, intellect, and fortune, alongside narrative allusions to figures such as Semele, the "Cadmeian maiden," which anchor the work within Theban myth. Sosiphanes’s works survive only through such excerptors, who valued them primarily for their sententious quality. The standard modern edition appears in Tragicorum Graecorum Fragmenta. The Byzantine encyclopedia Suda records contemporary criticism of his style as "rather frigid," despite his having achieved a dramatic victory. These fragments are significant as evidence for the continued production of tragedy in the fourth century BCE, particularly outside Athens. While Sosiphanes’s direct influence appears to have been limited, his preservation underscores the perceived moral utility of his gnomic lines and attests to the vast scope of now-lost tragic literature.
 
 ## Text
 

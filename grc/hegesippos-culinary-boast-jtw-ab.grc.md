@@ -5,6 +5,7 @@ author: Hegesippos the Comic Poet
 eul_wid: jtw-ab
 eul_aid: jtw
 canonical: "https://eulogikon.org/works/hegesippos-culinary-boast-jtw-ab"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hegesippos the Comic Poet
 
 **eul_wid:** `jtw-ab` · [HTML page](https://eulogikon.org/works/hegesippos-culinary-boast-jtw-ab)
-
-The Culinary Artisan’s Boast is a lost Athenian comedy by the poet Hegesippos, known today only through twenty-nine fragments. These excerpts are preserved almost exclusively within the Deipnosophistae of Athenaeus, a vast compendium of dining lore compiled in the late second or early third century CE. The translated title reflects the fragments’ thematic focus on food and the likely presence of a boastful cook character. The extant passages suggest the comedy engaged with gastronomy through descriptions of food, recipes, and culinary techniques, while also featuring the humorous self-aggrandizement of a culinary artisan and offering social satire through the mockery of extravagant consumption and food-related social types. The play has no independent manuscript tradition, its text surviving solely through this indirect transmission of anthological citation. Its fragments are collected in modern scholarly editions such as Poetae Comici Graeci. While the work has no documented direct literary influence, its remnants are valuable for scholars, providing insight into the themes of non-extant Greek comedy, particularly its engagement with daily life and specialized trades, and serving as a source for ancient social history and the language of food.
 
 ## Text
 

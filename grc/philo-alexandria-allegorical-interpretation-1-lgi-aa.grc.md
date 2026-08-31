@@ -5,6 +5,7 @@ author: Philo of Alexandria
 eul_wid: lgi-aa
 eul_aid: lgi
 canonical: "https://eulogikon.org/works/philo-alexandria-allegorical-interpretation-1-lgi-aa"
+lang: grc
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philo of Alexandria
 
 **eul_wid:** `lgi-aa` · [HTML page](https://eulogikon.org/works/philo-alexandria-allegorical-interpretation-1-lgi-aa)
-
-The surviving works of Philo of Alexandria constitute the extensive literary corpus of Philo Judaeus, a Jewish philosopher who lived in Roman Egypt from approximately 20 BCE to 50 CE. Written in Koine Greek, this collection is not a unified book but a series of treatises that interpret the Hebrew Bible, particularly the book of Genesis, through a synthesis of Greek philosophical traditions—primarily Middle Platonism and Stoicism—and Jewish theological thought. His writings are traditionally organized into three broad categories. The largest is the Allegorical Commentary, which provides a detailed, philosophical exegesis of Genesis, treating its narratives as symbolic representations of the soul's progress toward knowledge of God. A second group, the Exposition of the Law, presents the Mosaic legislation in a more systematic framework, incorporating biographical accounts of patriarchs such as Abraham. The third category comprises Historical and Apologetic Works, including texts like "Against Flaccus" and "The Embassy to Gaius," which document contemporary events such as the persecution of Alexandria's Jewish community and a failed diplomatic mission to the Emperor Caligula. The entire corpus, transmitted across 437 distinct textual sections, also encompasses standalone philosophical essays and question-and-answer formats. Modern scholarship views Philo's project as an endeavor to articulate the philosophical sophistication and universal validity of Jewish scripture for an educated, Hellenized Jewish audience. His development of the concept of the Logos, the divine reason that mediates between the transcendent God and the material world, proved especially influential. The preservation of his works is attributed almost entirely to later Christian scribes, who found his philosophical framework valuable for the development of early Christian theology. Consequently, the texts survive primarily through medieval Greek manuscripts and ancient Armenian translations produced and maintained within Christian scholarly circles.
 
 ## Text
 

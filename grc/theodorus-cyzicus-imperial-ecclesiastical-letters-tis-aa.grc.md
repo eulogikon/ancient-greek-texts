@@ -5,6 +5,7 @@ author: Theodorus of Cyzicus
 eul_wid: tis-aa
 eul_aid: tis
 canonical: "https://eulogikon.org/works/theodorus-cyzicus-imperial-ecclesiastical-letters-tis-aa"
+lang: grc
 period: Late Antique
 dialect: Koine
 format: Epistle
@@ -18,10 +19,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Theodorus of Cyzicus
 
 **eul_wid:** `tis-aa` · [HTML page](https://eulogikon.org/works/theodorus-cyzicus-imperial-ecclesiastical-letters-tis-aa)
-
-The Imperial and Ecclesiastical Letters is a collection of thirty-three epistles attributed to Theodorus, Bishop of Cyzicus. The title reflects correspondence with both secular and ecclesiastical authorities, a role typical for a metropolitan bishop during the intense doctrinal conflicts following the Council of Chalcedon in the late fifth and early sixth centuries. While the specific contents of the individual letters are not detailed in surviving sources, the historical context strongly suggests they would have engaged with the central Christological controversies of the era, particularly debates concerning the divine and human natures of Christ. Other probable themes include the exercise of episcopal authority, ecclesiastical politics, the evolving relationship between imperial power and the institutional church, and pastoral or disciplinary matters within the diocese.
-
-The transmission history of this specific collection is not documented. Its survival as a set of thirty-three passages indicates a fragmentary preservation, likely within later anthologies, theological compilations known as florilegia, or conciliar records. The integrity of the collection as a discrete, original unit and the full authenticity of its attribution to Theodorus remain unverified. Nevertheless, as a potential corpus from a bishop active in a period of profound doctrinal and political tension, these letters would offer valuable insight into the practical application of theological debate, the mechanisms of ecclesiastical governance, and the complex negotiation of power between church and state in the late Roman Empire.
 
 ## Text
 

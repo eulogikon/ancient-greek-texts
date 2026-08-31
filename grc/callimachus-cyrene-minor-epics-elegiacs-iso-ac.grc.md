@@ -5,6 +5,7 @@ author: Callimachus of Cyrene the Poet and Scholar
 eul_wid: iso-ac
 eul_aid: iso
 canonical: "https://eulogikon.org/works/callimachus-cyrene-minor-epics-elegiacs-iso-ac"
+lang: grc
 period: Hellenistic
 dialect: Literary Koine
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Callimachus of Cyrene the Poet and Scholar
 
 **eul_wid:** `iso-ac` · [HTML page](https://eulogikon.org/works/callimachus-cyrene-minor-epics-elegiacs-iso-ac)
-
-The Minor Epic and Elegiac Poems of Callimachus constitute a significant, though largely fragmentary, portion of the output of this major Hellenistic poet and scholar of the third century BCE. Active at the Library of Alexandria, Callimachus is best known for his six complete Hymns, but his influential aesthetic principles are most fully articulated in his shorter works. The most important of these is the Aetia ("Causes"), a four-book elegiac poem that systematically explored the mythical origins of various religious rites, cultural customs, and local traditions. Other key compositions include the Iambi, a collection of thirteen poems employing invective and moralizing satire, and the Hecale, a short epic that reimagined the myth of Theseus through the lens of a humble, domestic encounter. These works survive only in fragments, recovered principally from papyri discovered at Oxyrhynchus and other Egyptian sites, and have been reconstructed through modern scholarly compilation from these physical remains and quotations in later ancient authors.
-
-Written in refined literary Greek, these poems exemplify Callimachus's learned, allusive, and meticulously concise style. They represent a conscious artistic rejection of the long, continuous narrative of traditional epic in favor of polished, episodic craftsmanship, a principle he famously encapsulated in the dictum "a big book is a big evil." His poetry was crafted for an educated, courtly audience capable of appreciating its deep engagement with obscure mythological lore and literary precedent. The aesthetic ideals and aetiological themes developed in these fragmentary works profoundly shaped the course of later Greek and Roman literature, exerting a direct and substantial influence on major Roman poets including Catullus, Propertius, and Ovid.
 
 ## Text
 

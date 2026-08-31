@@ -5,6 +5,7 @@ author: Alchemist I
 eul_wid: rrg-ar
 eul_aid: rrg
 canonical: "https://eulogikon.org/works/alchemist-i-whitening-copper-rrg-ar"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alchemist I
 
 **eul_wid:** `rrg-ar` · [HTML page](https://eulogikon.org/works/alchemist-i-whitening-copper-rrg-ar)
-
-On the Whitening of Copper is a concise alchemical treatise composed in Koine Greek, likely in the 1st century CE within the Greco-Egyptian workshops of the early Roman Empire. Its author is anonymous, designated by modern scholarship as Alchemist I, though the work was later falsely ascribed to the philosopher Democritus. The text is a brief, practical recipe detailing a process for imparting a silver-white appearance to copper. It instructs the practitioner to mix and grind materials such as arsenic compounds and salt, treat them with vinegar, and subject them to repeated cycles of heating and application. The final step involves dipping prepared copper plates into the resulting mixture to achieve the desired whitening effect.
-
-This technical manual, devoid of theoretical speculation, represents a foundational document of early laboratory practice. It exemplifies the empirical craft traditions of metallurgy and dyeing from which alchemy emerged. The treatise survives as a complete fragment within the larger Byzantine compilation known as the Physika kai Mystika, preserved through medieval manuscripts. As one of the earliest surviving Greek alchemical texts, it provides crucial insight into the material processes and artisan-focused knowledge that preceded the development of more elaborate and philosophical alchemical systems.
 
 ## Text
 

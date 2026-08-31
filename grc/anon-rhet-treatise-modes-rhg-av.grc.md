@@ -5,6 +5,7 @@ author: Rhetorical Treatise Anonymous
 eul_wid: rhg-av
 eul_aid: rhg
 canonical: "https://eulogikon.org/works/anon-rhet-treatise-modes-rhg-av"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Rhetorical Treatise Anonymous
 
 **eul_wid:** `rhg-av` · [HTML page](https://eulogikon.org/works/anon-rhet-treatise-modes-rhg-av)
-
-_On Modes_ is an anonymous Greek rhetorical treatise known only by its title and a notation that it originally comprised three sections, though the specific content and nature of these passages are not detailed in any extant sources. In rhetorical terminology, the Greek word tropos primarily denotes a "trope" or figure of speech, but it can also refer to a mode of argumentation or a particular style. Based on its title and the conventions of the genre, the work almost certainly offered a systematic classification and analysis of rhetorical tropes, such as metaphor and metonymy, alongside instruction on their practical application in speech composition. As a technical handbook, it belongs to the widespread tradition of Hellenistic and Roman rhetorical education, focusing on the detailed dissection of language and style that was central to ancient oratorical training. No information survives regarding its manuscript tradition or current preservation status, leaving it a title known only from secondary listings of anonymous rhetorical works.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Suda
 eul_wid: wus-as
 eul_aid: wus
 canonical: "https://eulogikon.org/works/suda-tau-wus-as"
+lang: grc
 period: Byzantine
 domain: Grammar
 format: Collection
@@ -18,12 +19,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Suda
 
 **eul_wid:** `wus-as` · [HTML page](https://eulogikon.org/works/suda-tau-wus-as)
-
-The tau section of the Suda (Σοῦδα, Στοιχεῖον Τ) contains 1,240 entries ranging from simple glosses to extended biographical and lexical notices. Legal and administrative vocabulary appears early, including ταβελλίων, defined as the civic contract-writer known to the general public as a νομικός. Proverbial expressions are also documented, such as τὰ ἀπὸ Ναννάκου, referring to things admired for their antiquity and traced to a legendary Phrygian king before the age of Deucalion.
-
-Biographical entries grow prominent toward the middle of the letter. Three distinct figures named Τιμόθεος receive separate articles: the Athenian comic poet of Middle Comedy; the lyric poet Timotheus of Miletus, credited with adding the tenth and eleventh strings to the lyre; and Timotheus of Gaza, a grammarian active under the emperor Anastasius. The letter closes with proper names and a brief terminological note distinguishing βαλεῖν, οὐτάσαι, νύξαι, and τύψαι as different modes of striking or wounding.
-
-This section is useful for research into Byzantine lexicography, Greek proverbial tradition, musical history, and the careers of late-antique grammarians and poets.
 
 ## Text
 

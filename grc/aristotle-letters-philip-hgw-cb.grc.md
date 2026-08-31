@@ -5,6 +5,7 @@ author: Aristotle
 eul_wid: hgw-cb
 eul_aid: hgw
 canonical: "https://eulogikon.org/works/aristotle-letters-philip-hgw-cb"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristotle
 
 **eul_wid:** `hgw-cb` · [HTML page](https://eulogikon.org/works/aristotle-letters-philip-hgw-cb)
-
-The Letters to Philip is a collection of seven epistles attributed to Aristotle and addressed to Philip II of Macedon. Modern scholarship regards the work as pseudepigraphical, forming part of a larger corpus of spurious letters ascribed to the philosopher. The letters purport to offer the philosopher's counsel to the king, blending philosophical advice with political matters. Their content presents a series of philosophical and political exhortations, covering themes such as the ideal relationship between philosopher and ruler, practical counsel on kingship and governance, the ethical conduct required of a monarch, and the application of philosophical principles to statecraft. The letters survive within the transmitted Aristotelian corpus, preserved in manuscripts alongside other dubious epistles; their fragmentary nature suggests they may not exist in a complete original form. While inauthentic, the work is significant for reflecting the later Hellenistic and Roman practice of using Aristotle's authoritative name to lend weight to political ideas. It contributed to the enduring literary tradition of "mirrors for princes" and helped shape the later perceived historical link between Aristotle and the Macedonian court.
 
 ## Text
 

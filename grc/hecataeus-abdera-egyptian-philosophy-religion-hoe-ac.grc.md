@@ -5,6 +5,7 @@ author: Hecataeus of Abdera
 eul_wid: hoe-ac
 eul_aid: hoe
 canonical: "https://eulogikon.org/works/hecataeus-abdera-egyptian-philosophy-religion-hoe-ac"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hecataeus of Abdera
 
 **eul_wid:** `hoe-ac` · [HTML page](https://eulogikon.org/works/hecataeus-abdera-egyptian-philosophy-religion-hoe-ac)
-
-On Egyptian Philosophy and Religion is a lost ethnographic treatise by the Greek historian Hecataeus of Abdera, composed in Ionic Greek prose around 320–315 BCE. The original work does not survive; modern knowledge of it derives from 61 separate fragments preserved by later authors, chiefly the Jewish historian Josephus and the Christian writer Clement of Alexandria. These excerpts describe Egyptian history, laws, social organization, and religious customs, presenting a largely favorable portrait of Egypt as an ancient and stable civilization governed by wise priests and pious traditions. Written in the early Hellenistic period following Alexander the Great's conquest of Egypt, the work was likely intended for a Greek-speaking audience, serving to explain and often idealize Egyptian society for the new ruling class by framing its institutions as models of philosophical kingship and social order. The treatise's original structure remains unknown, and our understanding depends entirely on these later quotations and paraphrases. It became a major source for subsequent ancient writers on Egypt, most notably Diodorus Siculus, and played a significant role in shaping the Greco-Roman perception of Egyptian wisdom and antiquity.
 
 ## Text
 

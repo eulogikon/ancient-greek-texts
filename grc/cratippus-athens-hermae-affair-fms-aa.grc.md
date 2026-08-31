@@ -5,6 +5,7 @@ author: Cratippus of Athens
 eul_wid: fms-aa
 eul_aid: fms
 canonical: "https://eulogikon.org/works/cratippus-athens-hermae-affair-fms-aa"
+lang: grc
 period: Classical
 dialect: Attic (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Cratippus of Athens
 
 **eul_wid:** `fms-aa` · [HTML page](https://eulogikon.org/works/cratippus-athens-hermae-affair-fms-aa)
-
-The Fragments on the Hermae Affair by Cratippus of Athens is a lost historical work known only through a few excerpts preserved in later Byzantine sources, primarily the ninth-century Lexicon of Photius and the tenth-century Suda encyclopedia. These fragments provide an account of the 415 BCE Hermae Affair, the mutilation of the Herms statues that created a major political and religious scandal in Athens on the eve of the Sicilian Expedition. The surviving passages indicate Cratippus detailed the sacrilegious mutilation of the Herms and its destabilizing effect on the Athenian state, as well as the subsequent judicial investigations, informant testimony, and the resulting public hysteria and political persecution. No independent manuscript tradition exists for Cratippus’s history; the work survives solely through its citation by later Byzantine scholars interested in historical lexicography. The original scope and full content of his narrative, which was a continuation of Thucydides’ history beginning around 411 BCE, remain largely unknown. Cratippus was recognized in antiquity as a principal successor to Thucydides. His fragments offer a near-contemporary source for the Hermae Affair and represent the post-Thucydidean historiographical tradition. Modern scholarship uses these fragments cautiously as evidence for both the historical event and the development of Greek historical writing.
 
 ## Text
 

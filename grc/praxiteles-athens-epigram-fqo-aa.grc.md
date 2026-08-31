@@ -5,6 +5,7 @@ author: Praxiteles of Athens
 eul_wid: fqo-aa
 eul_aid: fqo
 canonical: "https://eulogikon.org/works/praxiteles-athens-epigram-fqo-aa"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Praxiteles of Athens
 
 **eul_wid:** `fqo-aa` · [HTML page](https://eulogikon.org/works/praxiteles-athens-epigram-fqo-aa)
-
-The Epigram attributed to Praxiteles of Athens is a two-line elegiac couplet preserved in the Greek Anthology, specifically in Book 16, the Planudean Appendix, as number 183. It functions as a dedicatory inscription for a votive statue of Eros, addressing the god directly. The poem centers on a paradox, contrasting the statue's small physical size with the immense burden of power it symbolizes, exploring the nature of Eros as a deity of overwhelming force contained in a diminutive form and reflecting on art's capacity to represent divine power. The work survives within the manuscript tradition of the Greek Anthology, specifically in the 13th-century compilation by Maximus Planudes known as the Anthologia Planudea, where it is transmitted as a complete, non-fragmentary poem. While its individual influence is untraceable, the epigram is a representative example of Greek dedicatory poetry. Its significance lies in its preservation of a common poetic trope—the addressed statue—and its contribution to the broader corpus of epigrammatic verse collected in the Greek Anthology.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Historical Fragments  Anonymous
 eul_wid: mmg-ay
 eul_aid: mmg
 canonical: "https://eulogikon.org/works/anon-hist-frag-pergamene-chronicle-mmg-ay"
+lang: grc
 period: Hellenistic
 dialect: Mixed Dialects (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Historical Fragments  Anonymous
 
 **eul_wid:** `mmg-ay` · [HTML page](https://eulogikon.org/works/anon-hist-frag-pergamene-chronicle-mmg-ay)
-
-The Pergamene Chronicle is a lost historical work known only from a brief citation by the 9th-century Byzantine scholar Photius in his Bibliotheca. Photius classifies it as a chronicle, grouping it with the works of Eusebius and Andronicus. No continuous text survives, and its precise content, chronological scope, and date of composition remain entirely unknown. Based on its title and origin from the major Hellenistic center of Pergamon, it likely presented a chronological record of events, incorporating both mythical and historical material. Its probable subjects included the local history and foundation myths of the city, as well as synchronisms linking Pergamene events with the wider history of the Greek world and the Near East. The chronicle is preserved solely as a reference in Photius's work and is collected among the fragments of lost Greek historians. It possesses no independent manuscript tradition. Its citation by Photius indicates it retained some authority as a chronological reference work into the Byzantine era. For modern scholarship, it serves as a testament to the otherwise lost local historiographical tradition of the Attalid kingdom of Pergamon.
 
 ## Text
 

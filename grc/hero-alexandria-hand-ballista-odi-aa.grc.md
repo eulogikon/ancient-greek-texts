@@ -1,10 +1,11 @@
 ---
 title: Construction and Symmetry of the Hand Ballista
 title_greek: Χειροβαλλίστρας κατασκευὴ καὶ συμμετρία
-author: "Hero of Alexandria "
+author: Hero of Alexandria
 eul_wid: odi-aa
 eul_aid: odi
 canonical: "https://eulogikon.org/works/hero-alexandria-hand-ballista-odi-aa"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -16,13 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Χειροβαλλίστρας κατασκευὴ καὶ συμμετρία*
 
-**Author:** Hero of Alexandria 
+**Author:** Hero of Alexandria
 
 **eul_wid:** `odi-aa` · [HTML page](https://eulogikon.org/works/hero-alexandria-hand-ballista-odi-aa)
-
-The Construction and Symmetry of the Hand Ballista is a technical treatise by the 1st-century CE Greek engineer Hero of Alexandria. It provides detailed instructions for constructing a small, portable torsion-powered catapult operated by a single person. The work is a practical application of geometry and mechanics to military engineering, with its central focus being the principle of "symmetry." This term denotes the precise proportional relationships, such as those between the diameter of the torsion springs and the length of the projectile, which are calculated to ensure the weapon's optimal power and accuracy.
-
-The treatise survives not as an independent work but as a distinct and complete section within Hero's larger compilation on artillery, the Belopoeica. It is preserved in Greek manuscripts, notably the Parisinus Graecus 2442, and its technical content ensured its transmission through later medieval Arabic and Latin translations. Modern scholarship views the work as evidence of sophisticated engineering knowledge under Roman rule, likely intended for military engineers or educated patrons. It is generally dated to the period of the Pax Romana, an era of relative peace that nonetheless witnessed significant military innovation. The hand ballista it describes was probably employed by specialized troops in skirmishes or in the defense of fortifications.
 
 ## Text
 

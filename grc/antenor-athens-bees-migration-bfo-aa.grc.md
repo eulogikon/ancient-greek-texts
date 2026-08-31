@@ -5,6 +5,7 @@ author: Antenor of Athens
 eul_wid: bfo-aa
 eul_aid: bfo
 canonical: "https://eulogikon.org/works/antenor-athens-bees-migration-bfo-aa"
+lang: grc
 period: Archaic
 dialect: Attic
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Antenor of Athens
 
 **eul_wid:** `bfo-aa` · [HTML page](https://eulogikon.org/works/antenor-athens-bees-migration-bfo-aa)
-
-On Cretan Bees and Migration is a fragmentary prose work by Antenor of Athens, known only through later excerpts. The title indicates a specialized focus on apiculture and the migratory behavior of bees within the Cretan context. The surviving passages describe a swarm of bees, referred to as bronze-colored, which afflicted the city of the so-called Raukians with a supernatural attack. Unable to endure this onslaught, the inhabitants abandoned their homeland and settled elsewhere on Crete, founding a new city named Rakos out of affection for their mother city. The text further notes that remnants of this fierce breed of bee could still be found on Mount Ida. The work represents a minor but illustrative example of ancient technical writing, offering a glimpse into the study of regional natural history, animal behavior, and agricultural practices. It survives not as a complete treatise but as an extracted fragment, likely preserved by later grammarians or natural historians.
 
 ## Text
 

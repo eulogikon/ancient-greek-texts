@@ -5,6 +5,7 @@ author: Andreas the Historian
 eul_wid: saw-aa
 eul_aid: saw
 canonical: "https://eulogikon.org/works/andreas-sicilian-cities-saw-aa"
+lang: grc
 period: Late Antique
 dialect: Koine (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Andreas the Historian
 
 **eul_wid:** `saw-aa` · [HTML page](https://eulogikon.org/works/andreas-sicilian-cities-saw-aa)
-
-The Sicelica, attributed to Andreas the Historian, is a lost historical or geographical treatise concerning the cities of Sicily. The work survives only through two brief fragments preserved by later grammarians, offering a glimpse into its content and scholarly use. One fragment, transmitted by Stephanus of Byzantium in his sixth-century CE geographical lexicon, the Ethnica, cites Andreas in relation to the city of Tauromenium. A second fragment is preserved by the second-century CE grammarian Herodian, who references Andreas’s authority on the correct accentuation of the ethnic name for the people of Acragas. These citations indicate the work focused on Sicilian toponymy and ethnography, detailing the names, proper pronunciation, and likely the local history and geography of Sicilian city-states. Having no independent manuscript tradition, the Sicelica was transmitted solely through such indirect quotations. Its significance lies in its role as a minor source for later lexicographical and grammatical scholarship, contributing to the preservation of Sicilian nomenclature. Its citation by authoritative figures like Herodian and Stephanus confirms it was regarded within technical academic circles as a reliable reference on Sicilian subjects.
 
 ## Text
 

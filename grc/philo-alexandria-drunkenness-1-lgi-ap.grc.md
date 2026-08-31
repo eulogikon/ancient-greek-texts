@@ -5,6 +5,7 @@ author: Philo of Alexandria
 eul_wid: lgi-ap
 eul_aid: lgi
 canonical: "https://eulogikon.org/works/philo-alexandria-drunkenness-1-lgi-ap"
+lang: grc
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philo of Alexandria
 
 **eul_wid:** `lgi-ap` · [HTML page](https://eulogikon.org/works/philo-alexandria-drunkenness-1-lgi-ap)
-
-The Works of Philo of Alexandria constitute a vast corpus of treatises composed in Koine Greek by the Jewish philosopher Philo Judaeus during the early Roman Empire. As the most extensive surviving body of Hellenistic Jewish literature, these writings are primarily dedicated to the allegorical interpretation of the Septuagint, the Greek translation of the Hebrew Bible. Philo’s project synthesizes Jewish scripture with elements of Platonic and Stoic philosophy, aiming to present Mosaic law and narrative as repositories of universal philosophical truth. His works are conventionally organized into three broad categories: the Exposition of the Law, which offers a systematic presentation of Mosaic legislation; the Allegorical Commentary, a detailed philosophical exegesis of the Book of Genesis; and various historical and apologetic treatises, such as On the Life of Moses, composed for a Greco-Roman audience.
-
-Philo’s overarching aim was to demonstrate the compatibility and even superiority of Jewish thought within the dominant intellectual culture of the Hellenistic world, addressing both educated Jews and curious Gentiles. Central philosophical themes include the concept of the Logos, or Divine Reason, as a mediating principle between God and creation; the rigorous application of allegory to uncover deeper philosophical meanings within biblical texts; and the narrative of the soul’s ascent toward God. The survival of his corpus is almost entirely due to its preservation by Christian scribes, who valued his interpretive methods and found his theological concepts, especially his theology of the Logos, profoundly influential for the development of early Christian doctrine. Some works are also preserved through ancient Armenian translations.
 
 ## Text
 

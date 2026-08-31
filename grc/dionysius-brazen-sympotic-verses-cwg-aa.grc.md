@@ -5,6 +5,7 @@ author: Dionysius the Brazen
 eul_wid: cwg-aa
 eul_aid: cwg
 canonical: "https://eulogikon.org/works/dionysius-brazen-sympotic-verses-cwg-aa"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Dionysius the Brazen
 
 **eul_wid:** `cwg-aa` · [HTML page](https://eulogikon.org/works/dionysius-brazen-sympotic-verses-cwg-aa)
-
-The Sympotic Verses for Dionysius is a collection of elegiac poems by the 5th-century BCE Athenian poet Dionysius, known by the epithet "the Brazen." The work survives only in fragments, with twenty-two passages preserved primarily through quotations in the later author Athenaeus's compendium on dining and conversation. Composed in the Ionic Greek dialect for performance at aristocratic drinking parties, or symposia, the poems celebrate wine, love, and companionship while also offering moral advice and reflections on themes such as happiness and wealth. The original length and full structure of the work are lost to history. The title Apospasmata, meaning "Extracts," likely reflects the fragmentary nature of its preservation as quotations rather than being the poet's own designation. Modern scholars view these verses as characteristic classical sympotic poetry, intended both to entertain and to edify guests at a communal gathering. Dionysius the Brazen was a contemporary of the playwright Sophocles; his nickname is traditionally thought to refer either to his advocacy for bronze coinage or to his persuasive, forceful style of oratory.
 
 ## Text
 

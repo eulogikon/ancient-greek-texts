@@ -5,6 +5,7 @@ author: Origen of Alexandria
 eul_wid: uhs-bd
 eul_aid: uhs
 canonical: "https://eulogikon.org/works/origen-alexandria-song-of-songs-uhs-bd"
+lang: grc
 period: Late Antique
 dialect: Christian Koine
 domain: Theology
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Origen of Alexandria
 
 **eul_wid:** `uhs-bd` · [HTML page](https://eulogikon.org/works/origen-alexandria-song-of-songs-uhs-bd)
-
-Origen of Alexandria's Ten Books on the Song of Songs is a monumental exegetical treatise composed around 240 CE. Originally spanning ten volumes, this detailed commentary on the biblical Song of Solomon represents the mature scholarship of Origen during his residence in Caesarea. Dedicated to his patron Ambrose, the work was intended for advanced Christian students and engages deeply with Hellenistic philosophical traditions, particularly Platonism, alongside Jewish interpretive methods. Origen explicitly frames the commentary as a spiritual text for mature believers, systematically interpreting the Song’s erotic poetry not literally but as an elaborate allegory of the love between Christ, the divine Bridegroom, and the Church or the individual soul as the Bride.
-
-The original Greek text of the Ten Books is almost entirely lost, surviving only in fragments preserved in later Greek anthologies such as the Philocalia and in catenae. The primary extant version is a Latin translation and substantial abridgment made by Rufinus of Aquileia around 410 CE, titled Commentarium in Canticum Canticorum. Rufinus condensed Origen’s expansive original into two books, omitting many of its longer philosophical digressions while aiming to preserve the core exegetical material. This adaptation proceeds by selecting specific verses from the Song of Songs and furnishing them with extensive allegorical interpretation. The commentary methodically rejects a literal reading, instead presenting the Song as a narrative of the soul’s passionate longing, purification, and ultimate mystical union with God. Central themes include the dynamics of divine love and human desire for the divine, the ascent of the soul, and the preeminence of the spiritual or anagogical sense of Scripture, which Origen held was accessible only to those progressing beyond elementary faith.
-
-The work’s influence on subsequent Christian thought was profound and enduring. It established the allegorical-mystical interpretation of the Song of Songs as the definitive approach in both Eastern and Western Christianity for over a millennium. Major theologians, including Gregory of Nyssa, Ambrose of Milan, and later Bernard of Clairvaux, operated within the exegetical framework Origen created. His reading of the Song as a drama of spiritual ascent became a cornerstone of Christian mystical theology and monastic spirituality, solidifying the Alexandrian school’s emphasis on the spiritual sense of Scripture. Thus, while known primarily through Rufinus’s epitome and scattered fragments, Origen’s Ten Books on the Song of Songs remains a landmark in the history of biblical interpretation.
 
 ## Text
 

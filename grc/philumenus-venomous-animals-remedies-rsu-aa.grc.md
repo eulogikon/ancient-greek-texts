@@ -5,6 +5,7 @@ author: Philumenus the Physician
 eul_wid: rsu-aa
 eul_aid: rsu
 canonical: "https://eulogikon.org/works/philumenus-venomous-animals-remedies-rsu-aa"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Medicine
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philumenus the Physician
 
 **eul_wid:** `rsu-aa` · [HTML page](https://eulogikon.org/works/philumenus-venomous-animals-remedies-rsu-aa)
-
-On Venomous Animals and Their Remedies is a medical treatise written in Greek by the physician Philumenus, likely dating to the late second century CE. Organized into 185 concise sections, the work serves as a practical handbook for the diagnosis and treatment of injuries inflicted by poisonous creatures. It opens with a systematic classification of venomous animals, encompassing terrestrial threats such as snakes, scorpions, spiders, and insects, as well as dangerous marine life including various fish and stingrays. For each creature, the text typically outlines the signs and symptoms of envenomation before prescribing specific therapeutic interventions.
-
-The remedies are predominantly pharmacological, detailing the preparation and application of compound drugs, salves, plasters, and potions derived from herbs, minerals, and animal substances. For more severe cases, the treatise also provides instructions for surgical procedures, including incision and cauteration of wounds. Scholarly analysis identifies the work as a compilation, synthesizing and distilling toxicological knowledge from earlier authorities such as the poet Nicander of Colophon and the Roman encyclopedist Aulus Cornelius Celsus. Its utilitarian, recipe-driven format suggests it was intended as a ready reference for practicing physicians confronting common hazards in the ancient Mediterranean world.
-
-The treatise survives in its complete form, preserved through Byzantine manuscripts and later Latin translations. Its clear, systematic approach ensured its continued relevance as a key text in the study of toxicology well into the medieval period.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Rhetorical Treatise Anonymous
 eul_wid: rhg-ae
 eul_aid: rhg
 canonical: "https://eulogikon.org/works/anon-rhet-treatise-introduction-art-rhg-ae"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Rhetorical Treatise Anonymous
 
 **eul_wid:** `rhg-ae` · [HTML page](https://eulogikon.org/works/anon-rhet-treatise-introduction-art-rhg-ae)
-
-The Introduction to the Art of Rhetoric is an anonymous Greek rhetorical treatise, a type of introductory handbook known as a prolegomenon. It was designed to provide students with the foundational concepts for the systematic study of oratory. Its concise and methodical structure is characteristic of educational texts produced within the late antique and Byzantine pedagogical tradition. The work opens by establishing the essential questions to be asked of any subject: whether it exists, what it is, why it is, and of what sort it is. It proceeds to define rhetoric, tracing its existence to the dawn of human society and its gradual codification into a formal art. Rhetoric is presented as a capacity or power concerned with speech in civic matters, aiming at persuasive discourse, and further described as an inventive and expressive faculty for finding and presenting plausible arguments with propriety in every kind of speech. This power is noted as morally neutral, capable of being used for both good and ill. The treatise justifies the art's existence by its utility in adorning human life and political communities. Following this foundational exposition, the text systematically addresses standard topics of rhetorical introduction, including the definition and utility of rhetoric as an art, its classification into judicial, deliberative, and epideictic genres, the constituent parts of rhetoric or of a speech, and its relationship to philosophy and other disciplines. The work survives through the medieval manuscript tradition, often preserved alongside the texts of major rhetoricians such as Hermogenes, and is typically identified in manuscripts by its opening words. As a foundational textbook, this handbook contributed significantly to the continuity and standardization of rhetorical education, helping to preserve the technical framework of classical rhetoric for generations of students, scholars, and professionals in the Byzantine world.
 
 ## Text
 

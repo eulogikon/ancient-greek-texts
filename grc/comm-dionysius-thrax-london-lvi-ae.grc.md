@@ -5,6 +5,7 @@ author: Commentary on Dionysius Thrax
 eul_wid: lvi-ae
 eul_aid: lvi
 canonical: "https://eulogikon.org/works/comm-dionysius-thrax-london-lvi-ae"
+lang: grc
 period: Hellenistic
 dialect: Technical Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Commentary on Dionysius Thrax
 
 **eul_wid:** `lvi-ae` · [HTML page](https://eulogikon.org/works/comm-dionysius-thrax-london-lvi-ae)
-
-The London Scholia is an anonymous Byzantine collection of 125 prose commentaries on Dionysius Thrax's foundational treatise, the Art of Grammar. Preserved uniquely in the 15th-century manuscript British Library, Burney 86, the scholia systematically explicate, debate, and expand upon the definitions and doctrines presented in Thrax's work. The commentary engages with core grammatical concepts, beginning with a discussion of prosody and encompassing the definition of grammar itself, the parts of speech, and detailed analyses of phonology and morphology. It frequently incorporates scholarly debate, citing earlier authorities such as Apollonius Dyscolus and Herodian, and includes elements of textual criticism on the Dionysian text. The scholia are copied in the margins and between the lines of Thrax's treatise in folios 202r through 208r of the Burney 86 manuscript, which served as the basis for the modern critical edition by Alfred Hilgard published in 1901. As a key source for the history of linguistics and classical scholarship, the London Scholia offers crucial insight into the reception and development of grammatical theory in the Byzantine period. It preserves fragments of otherwise lost grammatical works and is essential for reconstructing the evolution of the Greek grammatical tradition.
 
 ## Text
 

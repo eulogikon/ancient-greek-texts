@@ -5,6 +5,7 @@ author: Sextus the Empiricist
 eul_wid: qou-ab
 eul_aid: qou
 canonical: "https://eulogikon.org/works/sextus-empiricus-outlines-pyrrhonism-qou-ab"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Sextus the Empiricist
 
 **eul_wid:** `qou-ab` · [HTML page](https://eulogikon.org/works/sextus-empiricus-outlines-pyrrhonism-qou-ab)
-
-The Outlines of Pyrrhonism is a foundational philosophical treatise written in Greek by the physician and thinker Sextus Empiricus around the late second century CE. It is a complete, systematic handbook for the Pyrrhonian school of Skepticism. The work is divided into three books comprising 737 short passages. The first book defines the Skeptic way of life, introducing core concepts like the suspension of judgment and the Ten Modes, which are arguments for doubting dogmatic claims based on the variability of perception. The second and third books are dedicated to refuting the doctrines of other philosophical schools, critiquing their theories of logic, physics, and ethics.
-
-Sextus Empiricus wrote during a period of intense philosophical debate in the Roman Empire. The work has a dual purpose: it serves as a practical guide for aspiring Skeptics while also functioning as a polemical defense against rival Dogmatist schools like the Stoics and Epicureans. It presents Skepticism not as a set of beliefs but as a practice aimed at achieving mental tranquility by withholding assent to any non-evident truth claim. The full text of the Outlines survives intact through a manuscript tradition dating to the Byzantine era. It is the primary source for understanding ancient Pyrrhonism. Although it had limited influence in the medieval West, its rediscovery and translation during the Renaissance profoundly shaped early modern philosophy, challenging thinkers like Michel de Montaigne and René Descartes and securing its status as a classic of epistemological inquiry.
 
 ## Text
 

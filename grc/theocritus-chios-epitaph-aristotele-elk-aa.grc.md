@@ -5,6 +5,7 @@ author: Theocritus of Chios
 eul_wid: elk-aa
 eul_aid: elk
 canonical: "https://eulogikon.org/works/theocritus-chios-epitaph-aristotele-elk-aa"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Theocritus of Chios
 
 **eul_wid:** `elk-aa` · [HTML page](https://eulogikon.org/works/theocritus-chios-epitaph-aristotele-elk-aa)
-
-The Epitaph for Aristotele is a brief, fragmentary oration attributed to the sophist Theocritus of Chios. Preserved as a quotation in Diogenes Laertius’s Lives and Opinions of Eminent Philosophers, it is a scornful invective composed after the death of Alexander the Great in 323 BCE. The text mockingly addresses the philosopher’s tomb, accusing its occupant of betraying Alexander’s favors and fleeing to Chalcis out of cowardice and fear of punishment. It functions as a direct attack on Aristotle’s character, employing the form of a tomb inscription to charge him with ingratitude and to portray his retreat as a flight from justice. The fragment reflects the contemporary antagonism held by rhetoricians like Theocritus toward philosophical schools. The work survives solely as a single fragment cited by Diogenes Laertius in his biography of Aristotle; Theocritus’s orations are otherwise lost, and this quotation provides the principal evidence for his hostility to the Peripatetics. As a key historical witness to the intense political backlash Aristotle faced following Alexander’s death, its preservation ensured this polemical view was transmitted within the biographical tradition, illustrating the genre of rhetorical invective in the early Hellenistic period.
 
 ## Text
 

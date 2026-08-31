@@ -5,6 +5,7 @@ author: Aeschylus the Tragedian
 eul_wid: emo-ab
 eul_aid: emo
 canonical: "https://eulogikon.org/works/aeschylus-libation-bearers-emo-ab"
+lang: grc
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aeschylus the Tragedian
 
 **eul_wid:** `emo-ab` · [HTML page](https://eulogikon.org/works/aeschylus-libation-bearers-emo-ab)
-
-Libation Bearers is a tragedy by the ancient Greek playwright Aeschylus, forming the central drama of his Oresteia trilogy first performed in Athens in 458 BCE. Written in Attic Greek verse, the play continues the saga of the House of Atreus, focusing on the return of Orestes to Argos to avenge the murder of his father, Agamemnon. Compelled by a command from the god Apollo and aided by his sister Electra, Orestes plots and executes the killings of his mother, Clytemnestra, and her lover, Aegisthus. The play takes its title from its chorus, a group of captive women who are sent to pour libations at Agamemnon's tomb; it is at this site that the crucial recognition and conspiracy between the two siblings unfolds. The drama concludes with Orestes fleeing the scene, immediately haunted and pursued by the avenging Furies as punishment for his matricide.
-
-The work stands as a profound examination of the concepts of justice, vengeance, and irreconcilable familial duty. Composed for an Athenian audience actively shaping its own legal and civic institutions, the play dramatizes the violent crisis inherent in a system of blood feud, setting the stage for its resolution through judicial process in the trilogy's final installment, Eumenides. The complete text of Libation Bearers survives today primarily through medieval manuscript traditions, most notably a 10th-century codex known as the Mediceus.
 
 ## Text
 

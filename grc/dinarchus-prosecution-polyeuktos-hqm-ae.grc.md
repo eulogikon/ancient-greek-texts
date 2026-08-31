@@ -5,6 +5,7 @@ author: Dinarchus the Orator
 eul_wid: hqm-ae
 eul_aid: hqm
 canonical: "https://eulogikon.org/works/dinarchus-prosecution-polyeuktos-hqm-ae"
+lang: grc
 period: Hellenistic
 dialect: Attic
 domain: Oratory
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Dinarchus the Orator
 
 **eul_wid:** `hqm-ae` · [HTML page](https://eulogikon.org/works/dinarchus-prosecution-polyeuktos-hqm-ae)
-
-The Prosecution of Polyεύktos is a forensic oration composed by the Athenian logographer Dinarchus. Active in the late 4th and early 3rd centuries BCE, Dinarchus was a Corinthian who wrote speeches for clients in Athens, earning a place among the canonical Ten Attic Orators. The speech was written for a prosecutor in a case against an individual named Polyεύktos, who appears to have been a candidate for the office of basileus (king archon) and faced a formal scrutiny, or dokimasia, before taking office. The charges likely involved allegations of financial misconduct or public corruption, with the surviving fragments suggesting the prosecution accused Polyεύktos of being a hireling guilty of every common crime.
-
-The complete text of the oration is lost, and it is known only through approximately 208 brief fragments. These excerpts were preserved not for their literary content but for their utility to later grammarians and lexicographers, such as Harpocration in the 2nd century CE, who quoted them to illustrate obscure Athenian legal terminology and rare words. For instance, fragments clarify the meaning of the verb archairesiazein (to put oneself forward for office) and the compound word epaktrokelēs (a type of vessel used by pirates). Another fragment references a separate procedure, an endeixis (indictment), brought against Polyεύktos after he had been "stripped of his leaves"—a metaphorical expression for being expelled from the council.
-
-Despite its fragmentary state, the speech is considered representative of Dinarchus's forceful and vehement style, which relied on vigorous argument and character denigration to persuade Athenian juries. The surviving passages offer valuable, if piecemeal, insight into the legal mechanisms, political rhetoric, and social vocabulary of Athens in the early Hellenistic period.
 
 ## Text
 

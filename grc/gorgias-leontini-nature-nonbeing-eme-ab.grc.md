@@ -5,6 +5,7 @@ author: Gorgias of Leontini
 eul_wid: eme-ab
 eul_aid: eme
 canonical: "https://eulogikon.org/works/gorgias-leontini-nature-nonbeing-eme-ab"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Gorgias of Leontini
 
 **eul_wid:** `eme-ab` · [HTML page](https://eulogikon.org/works/gorgias-leontini-nature-nonbeing-eme-ab)
-
-On Nature and Non-Being is a philosophical treatise by the Sicilian sophist Gorgias of Leontini, composed in the mid-fifth century BCE. The work survives not as a complete text but through summaries and paraphrases in later philosophical sources, most extensively in the writings of the skeptic Sextus Empiricus. It presents a deliberately paradoxical and tripartite argument: first, that nothing exists; second, that even if something exists, it is incomprehensible to humans; and third, that even if it were comprehensible, it could not be communicated to others. Modern interpretation views the treatise not as a sincere exposition of nihilism but as a virtuosic rhetorical exercise. It systematically inverts the foundational arguments of earlier Eleatic philosophers, particularly Parmenides, who argued for the existence of a single, unchanging reality. By employing the same logical methods to reach opposite and absurd conclusions, Gorgias demonstrated the power of rhetoric to argue any position, thereby showcasing his own professional skill. The work functioned as both a philosophical provocation and an advertisement of his talents for a sophisticated Athenian audience. Its structure and content are reconstructed from fragmentary testimonia, with no original manuscript surviving.
 
 ## Text
 

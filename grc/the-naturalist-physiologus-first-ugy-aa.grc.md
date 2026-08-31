@@ -5,6 +5,7 @@ author: The Naturalist
 eul_wid: ugy-aa
 eul_aid: ugy
 canonical: "https://eulogikon.org/works/the-naturalist-physiologus-first-ugy-aa"
+lang: grc
 period: Late Antique
 dialect: Christian Koine
 domain: Science
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** The Naturalist
 
 **eul_wid:** `ugy-aa` · [HTML page](https://eulogikon.org/works/the-naturalist-physiologus-first-ugy-aa)
-
-The Physiologus is an anonymous early Christian treatise composed in Koine Greek, most likely between the second and fourth centuries CE. It consists of a series of concise chapters, each dedicated to a specific creature, plant, or stone—such as the lion, the phoenix, or the unicorn. Each entry first describes the subject’s characteristic behavior or properties, termed its physis or nature, and then provides an allegorical interpretation that draws a Christian moral or theological lesson. This consistent pattern, moving from natural observation to spiritual meaning, established the work as the foundational prototype for the later medieval bestiary. Its primary purpose was didactic, offering preachers and teachers a rich repository of symbolic material for instruction. Scholars generally place its compilation in a late antique intellectual center such as Alexandria, where it synthesized existing Hellenistic natural lore with scriptural exegesis.
-
-The text does not survive in a single, original authoritative version. The earliest extant Greek manuscripts date from the tenth and eleventh centuries, but they reflect earlier, now-lost recensions. The work was widely translated and adapted into numerous languages including Latin, Syriac, Armenian, and Ethiopic, with chapters frequently being added, omitted, or modified during transmission. Consequently, the core content is preserved within a large family of related texts rather than a fixed original. The Physiologus exerted profound and lasting influence, directly shaping the entire medieval bestiary tradition and providing a symbolic framework that informed Christian art, homiletics, and literature for centuries through its allegorical understanding of the natural world.
 
 ## Text
 

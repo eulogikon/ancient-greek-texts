@@ -5,6 +5,7 @@ author: Pythagoras of Samos
 eul_wid: bgs-aa
 eul_aid: bgs
 canonical: "https://eulogikon.org/works/pythagoras-samos-astrology-bgs-aa"
+lang: grc
 period: Archaic
 dialect: Ionic (frg)
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Pythagoras of Samos
 
 **eul_wid:** `bgs-aa` · [HTML page](https://eulogikon.org/works/pythagoras-samos-astrology-bgs-aa)
-
-The so-called Astrological Fragments attributed to Pythagoras of Samos represents a modern scholarly designation for a body of astrological and physiognomic doctrines retrospectively ascribed to the philosopher by later tradition. Pythagoras himself left no written works, and his teachings were transmitted orally within his school. The content typically gathered under this title reflects the syncretic nature of later Pythagoreanism, blending core philosophical concepts with Hellenistic astrological practices. Common themes include the mathematical harmony of the cosmos, the symbolic significance of numbers in celestial phenomena, and the influence of planetary alignments on human character and destiny. The transmission of these ideas occurred through later figures such as Philolaus and through doxographers like Diogenes Laërtius and Iamblichus, who recorded sayings and biographies. While not an authentic work of the historical Pythagoras, the material compiled under this heading illustrates the enduring and evolving influence of Pythagorean thought, particularly its cosmological and numerological aspects, on subsequent philosophical and esoteric traditions.
 
 ## Text
 

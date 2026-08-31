@@ -5,6 +5,7 @@ author: Anaximenes of Lampsacus
 eul_wid: fhi-aa
 eul_aid: fhi
 canonical: "https://eulogikon.org/works/anaximenes-lampsacus-rhetoric-alexander-fhi-aa"
+lang: grc
 period: Classical
 dialect: Attic
 domain: History
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Anaximenes of Lampsacus
 
 **eul_wid:** `fhi-aa` · [HTML page](https://eulogikon.org/works/anaximenes-lampsacus-rhetoric-alexander-fhi-aa)
-
-The Rhetoric to Alexander is a comprehensive practical handbook on public speaking composed in Attic Greek by the rhetorician and historian Anaximenes of Lampsacus, most likely during the 340s BCE. Structured as an advisory letter, it is addressed to a young Alexander, generally identified as Alexander the Great. The work systematically instructs in the art of persuasion, detailing the conventional parts of a speech and, more significantly, establishing a foundational classification of oratory into seven core types: exhortation, dissuasion, eulogy, invective, accusation, defense, and investigation. Its thirty-eight chapters offer prescriptive techniques for argument, stylistic expression, and speech arrangement, replete with illustrative examples designed for immediate application.
-
-Composed as rhetoric was crystallizing into a formal discipline, the handbook reflects its utilitarian purpose for statesmen, diplomats, and students within the competitive political arenas of the Greek city-states and the Macedonian court. Modern scholarship regards it as a prime exemplar of the "technical" tradition of rhetoric that flourished before and alongside the more philosophical treatises of Aristotle. Unlike many texts from its era, the Rhetoric to Alexander survives in its entirety. Its transmission history is particularly notable; the work was preserved for centuries within medieval manuscripts of the Aristotelian corpus, though ancient sources correctly attributed it to Anaximenes. This survival provides an invaluable window into the applied rhetorical methods taught to aspiring orators in the fourth century BCE.
 
 ## Text
 

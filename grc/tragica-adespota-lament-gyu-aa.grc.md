@@ -1,10 +1,11 @@
 ---
 title: Fragments of Tragic Lament
 title_greek: Ἀποσπάσματα Θρήνων Τραγικῶν
-author: "Tragica Adespota "
+author: Tragica Adespota
 eul_wid: gyu-aa
 eul_aid: gyu
 canonical: "https://eulogikon.org/works/tragica-adespota-lament-gyu-aa"
+lang: grc
 period: Classical
 dialect: Mixed Dialects (frg)
 domain: Drama
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀποσπάσματα Θρήνων Τραγικῶν*
 
-**Author:** Tragica Adespota 
+**Author:** Tragica Adespota
 
 **eul_wid:** `gyu-aa` · [HTML page](https://eulogikon.org/works/tragica-adespota-lament-gyu-aa)
-
-The Fragments of Tragic Lament constitute a modern scholarly corpus of 992 anonymous tragic fragments, classified as laments or thrēnoi. These verses, drawn from otherwise lost Greek tragedies of the Classical and Hellenistic periods, represent the formal expression of grief, a conventional and powerful element within tragic drama. Compiled from scattered quotations found in later Greek authors, grammarians, anthologists like Stobaeus, and papyrus discoveries, the fragments are now assembled in modern editions such as Tragicorum Graecorum Fragmenta. Their content explores profound grief, mourning, and despair, often framed as confrontations with inexorable fate, divine will, and human mortality. The laments frequently mourn social and familial ruin, fallen houses, and lost heroes, sometimes coupled with calls for justice or vengeance. While the original dramatic contexts of these anonymous pieces are almost entirely lost, they remain invaluable for scholarship, offering essential insights into the thematic and poetic breadth of tragic literature beyond the surviving complete plays. Although their direct influence is untraceable, the genre of tragic lament they exemplify significantly shaped the development of later Greek and Roman literary expressions of sorrow.
 
 ## Text
 

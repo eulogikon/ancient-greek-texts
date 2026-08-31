@@ -5,6 +5,7 @@ author: Aristides the Orator
 eul_wid: qwm-ak
 eul_aid: qwm
 canonical: "https://eulogikon.org/works/aristides-orator-peace-athenians-qwm-ak"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristides the Orator
 
 **eul_wid:** `qwm-ak` · [HTML page](https://eulogikon.org/works/aristides-orator-peace-athenians-qwm-ak)
-
-In Favor of Peace with the Athenians is a deliberative oration by the second-century CE orator Aelius Aristides. Composed around 155–156 CE, the speech is a sophisticated appeal for reconciliation, addressed to the civic assembly of Smyrna to end its conflict with Athens. Aristides structures his argument in eight sections, systematically contending that war between the two cities is unnatural, framing them as "sister" cities bound by a shared Hellenic heritage. He intertwines practical political considerations with moral and historical appeals, drawing upon mythology and common cultural traditions to advocate for a diplomatic resolution. The complete text survives through medieval manuscripts dating primarily from the 13th and 14th centuries. As a product of the Second Sophistic, the speech exemplifies the application of classical Athenian rhetorical forms to contemporary civic disputes within the stable framework of the Roman Empire. While likely composed for immediate political effect, it endures as a significant document illuminating the cultural rivalries and civic ideologies that characterized the Greek elite under Roman rule.
 
 ## Text
 

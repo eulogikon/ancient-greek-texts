@@ -5,6 +5,7 @@ author: Aeschylus Scholia
 eul_wid: tro-am
 eul_aid: tro
 canonical: "https://eulogikon.org/works/aeschylus-scholia-persians-tro-am"
+lang: grc
 period: Late Antique
 dialect: Byzantine Greek
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aeschylus Scholia
 
 **eul_wid:** `tro-am` · [HTML page](https://eulogikon.org/works/aeschylus-scholia-persians-tro-am)
-
-The Scholia in Persas is a corpus of ancient and Byzantine marginal annotations on Aeschylus’s tragedy The Persians. These prose commentaries, comprising hundreds of individual notes, elucidate the primary verse text and represent a cumulative compilation of exegetical material from various sources over centuries rather than a single authored work. As a philological tool, the scholia contain textual criticism addressing variant readings and conjectures, lexicographical glosses on rare or archaic words, historical and mythological exegesis clarifying references to figures like Xerxes or events of the Persian Wars, and notes on literary and dramatic technique including meter and style. The scholia survive in the margins of medieval manuscripts, principally the 10th-century Codex Laurentianus Mediceus 32.9, and transmit fragments of older Hellenistic and Roman scholarship, often in layered and abbreviated form. They are directly tied to the Byzantine educational selection that preserved Aeschylus's seven extant plays. This scholastic compilation is indispensable for the modern textual criticism and editing of Aeschylus, providing crucial insight into ancient and medieval interpretative traditions and preserving otherwise lost fragments of classical scholarship, thereby forming a foundational resource for the history of philology.
 
 ## Text
 

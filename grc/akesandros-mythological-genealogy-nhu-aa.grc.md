@@ -5,6 +5,7 @@ author: Akesandros the Historian
 eul_wid: nhu-aa
 eul_aid: nhu
 canonical: "https://eulogikon.org/works/akesandros-mythological-genealogy-nhu-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Akesandros the Historian
 
 **eul_wid:** `nhu-aa` · [HTML page](https://eulogikon.org/works/akesandros-mythological-genealogy-nhu-aa)
-
-The Fragments on Mythological Genealogy is a lost work attributed to the obscure historian Akesandros. It survives only in eight fragmentary passages, preserved through quotation by later ancient authors and cataloged under the number 469 in Felix Jacoby’s Die Fragmente der griechischen Historiker. The work belongs to the early Greek mythographical tradition, which sought to systematize heroic lineages. The extant fragments indicate the work dealt with core themes of its genre, including heroic genealogy, foundation myths, and the systematization of disparate mythological traditions. The text is transmitted entirely indirectly, with the fragments embedded within the works of later compilers such as the paradoxographer Phlegon of Tralles or the geographer Pausanias; no independent manuscript tradition exists. While its direct influence is untraceable, Akesandros’s work represents a minor but typical example of early Greek historiography. Its preservation in later sources demonstrates how such genealogical compilations served as reference material for the mythological knowledge of the Greco-Roman world.
 
 ## Text
 

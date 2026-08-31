@@ -5,6 +5,7 @@ author: Periplus of the Erythraean Sea Anonymous
 eul_wid: oga-aa
 eul_aid: oga
 canonical: "https://eulogikon.org/works/periplus-erythraean-sea-navigation-guide-oga-aa"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Geography
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Periplus of the Erythraean Sea Anonymous
 
 **eul_wid:** `oga-aa` · [HTML page](https://eulogikon.org/works/periplus-erythraean-sea-navigation-guide-oga-aa)
-
-The Periplus of the Erythraean Sea is an ancient Greek merchant’s guide and sailing manual composed by an anonymous author in the mid-1st century CE. Written in straightforward Koine Greek prose, it provides a detailed, port-by-port itinerary of the coasts of the Red Sea, East Africa, the Arabian Peninsula, the Persian Gulf, and western India. The text offers practical navigational advice, including sailing distances measured in stadia and the critical seasonal timing of the monsoon winds, which were essential for crossing the Indian Ocean. It meticulously catalogues the commercial goods available for import and export at each trading station, ranging from Roman wine and gold coinage to African ivory, Arabian frankincense, and Indian spices, textiles, and precious stones.
-
-The work is structured as 58 sequential sections and survives nearly complete in a single 10th-century manuscript. Modern scholarship generally interprets it as a first-hand, functional document written by a Greek-speaking merchant or sea captain operating from Roman Egypt, likely from the port of Berenice. It reflects the zenith of Indo-Roman trade during the early Roman Empire, offering a unique contemporary snapshot of the commercial networks, political landscapes, and cultural geography of the Indian Ocean world. While the identification of some specific place names remains debated, the Periplus stands as a vital primary source for understanding ancient maritime commerce, exploration, and economic history.
 
 ## Text
 

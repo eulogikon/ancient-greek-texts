@@ -5,6 +5,7 @@ author: Medical Writers Anonymous
 eul_wid: umi-ar
 eul_aid: umi
 canonical: "https://eulogikon.org/works/med-writers-anon-fragments-umi-ar"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Medical Writers Anonymous
 
 **eul_wid:** `umi-ar` · [HTML page](https://eulogikon.org/works/med-writers-anon-fragments-umi-ar)
-
-Medical Fragments is a compilation of ten passages attributed to various anonymous medical writers, functioning as a doxographic treatise that collects and compares doctrines from multiple sources. This practice was common in ancient technical writing for the preservation and transmission of teachings. The content centers on medical doxography, presenting the opinions of different authorities, and likely involves comparative approaches to diagnosis, therapy, or physiology. Its primary intent was the preservation of knowledge, safeguarding teachings from works that might otherwise have been lost. The work is not attested in standard histories of ancient medicine or in catalogs of fragmentary authors, and there exists no documented manuscript tradition or modern edition for a compilation specifically bearing this title attributed to anonymous medical writers, rendering it an unattested or lost collection. While the direct influence of this specific compilation cannot be determined, such anthologies were instrumental in the transmission of medical knowledge. They served important educational and reference purposes, allowing later readers to access a range of professional opinions and thereby contributing to the flow of ideas into subsequent scholarly traditions.
 
 ## Text
 

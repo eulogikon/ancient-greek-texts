@@ -5,6 +5,7 @@ author: Isaeus the Orator
 eul_wid: fge-ae
 eul_aid: fge
 canonical: "https://eulogikon.org/works/isaeus-lot-dicaeogenes-fge-ae"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Isaeus the Orator
 
 **eul_wid:** `fge-ae` · [HTML page](https://eulogikon.org/works/isaeus-lot-dicaeogenes-fge-ae)
-
-On the Lot of Dicaeogenes is a forensic oration by the Attic speechwriter Isaeus, composed in the fourth century BCE for delivery by a client in an Athenian court. The speech addresses a protracted and intricate inheritance dispute within an affluent Athenian family. The plaintiff, Menexenus, prosecutes his cousin Dicaeogenes for reneging on a legally binding settlement concerning the estate of their deceased relative, also named Dicaeogenes. The oration systematically presents the convoluted family history, citing multiple wills and prior litigation to demonstrate that the defendant has unlawfully deprived the speaker and his brothers of their agreed-upon portion of the patrimony.
-
-The complete speech, preserved in forty sections within the Isaean corpus, offers a detailed case study of Athenian inheritance law, particularly the mechanisms of testamentary succession and adoption. It illustrates the legal priority given to male descendants and the strategies employed to navigate or manipulate these rules. For modern historians, the oration is an invaluable document for reconstructing the social and legal fabric of classical Athens, revealing how familial duty, economic interest, and forensic rhetoric intersected. The work exemplifies Isaeus’s recognized expertise in inheritance cases, characterized by his methodical construction of complex factual narratives and his adept use of documentary evidence to persuade a jury.
 
 ## Text
 

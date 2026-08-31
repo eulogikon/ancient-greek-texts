@@ -5,6 +5,7 @@ author: Aesop the Fabulist
 eul_wid: aqo-aa
 eul_aid: aqo
 canonical: "https://eulogikon.org/works/aesop-brancatian-fables-aqo-aa"
+lang: grc
 period: Archaic
 dialect: Mixed Dialects
 domain: Fiction
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aesop the Fabulist
 
 **eul_wid:** `aqo-aa` · [HTML page](https://eulogikon.org/works/aesop-brancatian-fables-aqo-aa)
-
-The Fables of the Anonymous Brancatian Rhetorician is a title unattested in the standard manuscript traditions and scholarly literature concerning the ancient Greek fable. While attributed to the legendary fabulist Aesop, the designation itself appears to be a modern descriptive label rather than the name of a known ancient collection. The core Aesopic corpus, comprising brief prose tales offering moral and practical wisdom, is preserved primarily through later medieval compilations such as the Collectio Augustana, as well as through the verse adaptations of Babrius and Phaedrus. The themes suggested for this unattested collection, including social criticism, the consequences of folly, and the value of prudence, are entirely consistent with the broader Aesopic tradition. However, the work is not documented among the recognized families of fable manuscripts or recensions, and its historical status and influence remain unverified.
 
 ## Text
 

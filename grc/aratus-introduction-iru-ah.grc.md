@@ -1,10 +1,11 @@
 ---
 title: Introduction to Aratus
 title_greek: Εἰσαγωγὴ εἰς τὸν Ἄρατον
-author: "Aratus Lives "
+author: Aratus Lives
 eul_wid: iru-ah
 eul_aid: iru
 canonical: "https://eulogikon.org/works/aratus-introduction-iru-ah"
+lang: grc
 period: Hellenistic
 dialect: Mixed Dialects
 domain: Biography
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Εἰσαγωγὴ εἰς τὸν Ἄρατον*
 
-**Author:** Aratus Lives 
+**Author:** Aratus Lives
 
 **eul_wid:** `iru-ah` · [HTML page](https://eulogikon.org/works/aratus-introduction-iru-ah)
-
-The Introduction to Aratus is a prose work serving as an introductory commentary and biographical preface to the Phaenomena, the influential astronomical poem by Aratus of Soli. Attributed uncertainly to an author named Aratus Lives, it consists of twenty-one passages and belongs to the tradition of ancient scholarly notes, or hypomnemata, designed to facilitate the study of a primary text. The content of this introduction typically addresses the biography of Aratus, the literary and scientific sources of his poem—notably the work of the astronomer Eudoxus of Cnidus—an exposition of the poem’s structure and subject matter, and a defense or explanation of its utility and accuracy. The work survives within the medieval manuscript tradition of texts related to Aratus, preserved alongside the Phaenomena and its associated scholia; its current form as discrete passages likely results from editorial segmentation by later copyists or scholars. As part of the extensive exegetical tradition surrounding the Phaenomena, which was a standard school text, this introduction played a role in shaping the poem’s pedagogical reception in late antiquity and the Byzantine period. Such paratexts are crucial for understanding ancient methods of literary and scientific education.
 
 ## Text
 

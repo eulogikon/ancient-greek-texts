@@ -5,6 +5,7 @@ author: Antonius Diogenes the Erotic Writer
 eul_wid: qhw-aa
 eul_aid: qhw
 canonical: "https://eulogikon.org/works/antonius-diogenes-incredible-things-qhw-aa"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Fiction
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Antonius Diogenes the Erotic Writer
 
 **eul_wid:** `qhw-aa` · [HTML page](https://eulogikon.org/works/antonius-diogenes-incredible-things-qhw-aa)
-
-On Incredible Things or Herpyllis is a lost work of Greek prose fiction by Antonius Diogenes, an author of the Imperial period, most likely active in the 2nd century CE. The work survives only through a detailed summary in the Bibliotheca of the 9th-century patriarch Photius and a small number of fragmentary papyrus texts. Its dual title connects it to the literary tradition of paradoxography, which catalogued marvels and unbelievable tales, while also suggesting a central heroine named Herpyllis. According to Photius, the narrative was extraordinarily elaborate, spanning twenty-four books. It featured a complex, nested structure beginning with a fictional frame story concerning the discovery of an ancient manuscript. The core plot follows the adventures and romantic trials of the protagonists Deinias and Dercyllis, whose travels take them to mythical locations such as Thule. Their journey is filled with supernatural encounters involving magic, ghosts, and oracles, and incorporates numerous secondary tales within the main narrative. The work is transmitted almost entirely through Photius's summary in codex 166 of his Bibliotheca; a few papyrus fragments, including one that mentions the character Deinias, have been tentatively identified as belonging to the novel. Antonius Diogenes's elaborate fusion of travelogue, romance, and the fantastical represents a significant forerunner of the later ancient Greek novel, establishing a model for intricate, episodic adventure that influenced subsequent writers in the genre, such as Heliodorus. Consequently, Photius's summary is an invaluable source for understanding the early development and thematic breadth of prose fiction in the ancient world.
 
 ## Text
 

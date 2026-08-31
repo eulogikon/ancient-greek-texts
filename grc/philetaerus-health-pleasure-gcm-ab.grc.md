@@ -5,6 +5,7 @@ author: Philetaerus the Comic Poet
 eul_wid: gcm-ab
 eul_aid: gcm
 canonical: "https://eulogikon.org/works/philetaerus-health-pleasure-gcm-ab"
+lang: grc
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philetaerus the Comic Poet
 
 **eul_wid:** `gcm-ab` · [HTML page](https://eulogikon.org/works/philetaerus-health-pleasure-gcm-ab)
-
-The comedic work Fragments on Health and Pleasure by the Athenian poet Philetaerus is known only by its title and the report that it consisted of 38 passages. No direct quotations or summaries of its content survive. The title indicates it was a collection of comic excerpts treating the subjects of health and pleasure, likely parodying contemporary philosophical or medical discourses. The work presumably treated the theme of health comically, possibly mocking physicians, medical practices, or hypochondria. The subject of pleasure, central to both daily life and philosophical debate, would have been explored humorously in contexts like food, drink, or luxury. The formal title itself was probably a joke, satirizing the serious treatises produced by philosophers and sophists. The work is entirely lost and is not listed among Philetaerus’s known plays in standard ancient catalogs. Its title and structure are preserved solely through a single reference in the Byzantine Etymologicum Magnum, which cites it for a grammatical point. While its content is irrecoverable, the work demonstrates the engagement of Middle Comedy with intellectual themes, showing that comic poets explicitly targeted philosophical and medical subjects for parody during the 4th century BCE.
 
 ## Text
 

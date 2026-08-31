@@ -5,6 +5,7 @@ author: Themistius the Philosopher
 eul_wid: rye-av
 eul_aid: rye
 canonical: "https://eulogikon.org/works/themistius-ordination-polity-rye-av"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Themistius the Philosopher
 
 **eul_wid:** `rye-av` · [HTML page](https://eulogikon.org/works/themistius-ordination-polity-rye-av)
-
-The oration On the Ordination of the Polity, also known as On the Government of the State, is a political panegyric by the philosopher-statesman Themistius. Delivered in the fourth-century late Roman Empire, it belongs to his corpus of political orations which employ praise to offer philosophical counsel to rulers. The speech addresses the selection of magistrates to explore ideals of governance. Its core themes, consistent with Themistius’s political philosophy, include the ideal of the ruler as a living law who governs with virtue and reason, the essential leadership virtues of justice, philanthropy, moderation, and wisdom, the alignment of classical Greek philosophy with Roman imperial rule, and the critical role of education in statecraft and the selection of officials based on merit. The oration survives within the collected manuscript tradition of Themistius’s speeches. The work is a valuable source for the intellectual and political history of the fourth century, demonstrating the adaptation of pagan philosophy within a Christianizing empire. Themistius’s concept of the living law subsequently influenced Byzantine political thought.
 
 ## Text
 

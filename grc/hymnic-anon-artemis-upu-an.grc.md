@@ -5,6 +5,7 @@ author: Hymnic Collection  Anonymous
 eul_wid: upu-an
 eul_aid: upu
 canonical: "https://eulogikon.org/works/hymnic-anon-artemis-upu-an"
+lang: grc
 period: Classical
 dialect: Epic (Homeric)
 domain: Poetry
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hymnic Collection  Anonymous
 
 **eul_wid:** `upu-an` · [HTML page](https://eulogikon.org/works/hymnic-anon-artemis-upu-an)
-
-The Homeric Hymn to Artemis is a brief religious poem belonging to the collection of thirty-three works traditionally ascribed to Homer but composed by various anonymous poets during the Archaic period of Greece, most likely between the seventh and sixth centuries BCE. Composed in the literary epic dialect and dactylic hexameter verse characteristic of Homeric epic, this twenty-two line hymn is a concise celebration of the goddess Artemis. It opens with a series of traditional epithets, invoking her as the revered maiden, the deer-shooting, arrow-pouring sister of Apollo. The narrative describes her traversing shadowy mountains and windy ridges, delighting in the hunt with her golden bow and sending forth grievous arrows that cause the high mountain peaks and the dark wooded glens to tremble. The earth and the fish-filled sea shudder at the fearful clamor of beasts as Artemis, possessing a valiant heart, turns in every direction destroying the tribes of wild creatures.
-
-Having taken her pleasure in the chase, the huntress then slackens her well-curved bow and proceeds to the great house of her dear brother Phoebus Apollo in the rich district of Delphi. There she prepares the beautiful dance of the Muses and Graces. Hanging up her backward-curved bow and arrows, she leads the dances, adorned with graceful adornment, while the divine company sings in immortal voices. They hymn fair-ankled Leto, celebrating how she bore children preeminent among the immortals in counsel and deed. The hymn concludes with a direct address and farewell to the children of Zeus and lovely-haired Leto, followed by the poet’s promise to remember them in another song. Following the conventional tripartite structure of a Greek hymn, it moves from invocation and descriptive attributes to a short narrative of the deity’s actions, culminating in a closing salutation.
-
-Preserved in medieval manuscripts, the Homeric Hymns are generally understood by modern scholarship to have functioned as preludes, recited by rhapsodes at religious festivals to honor a particular deity before the recitation of longer epic poetry. This hymn, which artfully juxtaposes Artemis’s fierce, solitary nature as a huntress with her graceful, sociable role within the divine family, would have been particularly suited for occasions honoring her or her brother Apollo. As a group, the Homeric Hymns provide invaluable insight into early Greek religious conceptions, ritual practice, and the development of poetic tradition.
 
 ## Text
 

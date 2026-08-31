@@ -5,6 +5,7 @@ author: Alexander of Aphrodisias
 eul_wid: reo-an
 eul_aid: reo
 canonical: "https://eulogikon.org/works/alexander-aphrodisias-fevers-reo-an"
+lang: grc
 period: Roman
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alexander of Aphrodisias
 
 **eul_wid:** `reo-an` · [HTML page](https://eulogikon.org/works/alexander-aphrodisias-fevers-reo-an)
-
-On Fevers is a medical treatise by Alexander of Aphrodisias, the prominent Peripatetic philosopher of the late second and early third centuries CE. Written in Attic Greek, the work systematically applies Aristotelian natural philosophy to the analysis of fever, treating it not merely as a clinical symptom but as a physical phenomenon rooted in the body's elemental constitution. Alexander structures his investigation as a series of concise passages, methodically examining the causes, classifications, and essential nature of febrile conditions. He explains fever through the framework of the four primary qualities—hot, cold, wet, and dry—and their disturbance within the body's innate heat. The treatise represents a deliberate synthesis of medical theory with Aristotelian physics, positioning fever as a manifest imbalance in the fundamental qualities that sustain life. Scholarly interpretation views this work as an integral component of Alexander's larger intellectual project to defend and elaborate Aristotelian science against competing philosophical systems, particularly those of the Stoics and the Epicureans. The text survives in full through medieval manuscript transmission, preserved among Alexander's minor works, and offers significant insight into the classical confluence of philosophy and medicine.
 
 ## Text
 

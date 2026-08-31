@@ -5,6 +5,7 @@ author: Archippus the Comic Poet
 eul_wid: ebk-ab
 eul_aid: ebk
 canonical: "https://eulogikon.org/works/archippus-fish-feasting-ebk-ab"
+lang: grc
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Archippus the Comic Poet
 
 **eul_wid:** `ebk-ab` · [HTML page](https://eulogikon.org/works/archippus-fish-feasting-ebk-ab)
-
-Fragments on Fish and Feasting is a modern scholarly compilation of 53 verse passages attributed to the Athenian comic poet Archippus, a contemporary of Aristophanes active in the late 5th century BCE. The collection does not represent a single, extant play but rather assembles surviving fragments from his lost comedies, all originally composed in Attic Greek. These excerpts are unified by their thematic preoccupation with fish, banquets, and food, offering valuable, if piecemeal, insights into the humor and social preoccupations characteristic of Old Comedy.
-
-The content revolves primarily around gastronomy and social satire, featuring elaborate descriptions of luxury foodstuffs and mocking portrayals of characters obsessed with culinary indulgence. Scholars interpret these fragments as extending beyond simple jokes about gluttony to function as pointed social commentary. The plays likely employed fish as potent symbols of wealth and corruption, thereby satirizing contemporary political demagoguery and social inequality in classical Athens. The surviving lines depict vivid scenes of marketplace haggling, extravagant meals, and absurd characters, such as a sacred fish acting as a priest or a herald announcing prices.
-
-No complete play by Archippus has survived antiquity. These fragments owe their preservation entirely to their quotation centuries later by the author Athenaeus in his expansive work The Learned Banqueters, a discursive text focused on dining customs and convivial lore. Consequently, modern understanding of Archippus is inherently filtered through this later compiler’s particular interest in food culture. The fragments are now systematically numbered and analyzed in modern critical editions, where they provide crucial evidence for the thematic diversity and satirical range of ancient Greek comedy beyond its most celebrated practitioners.
 
 ## Text
 

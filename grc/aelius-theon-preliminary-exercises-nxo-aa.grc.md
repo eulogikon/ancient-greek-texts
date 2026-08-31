@@ -5,6 +5,7 @@ author: Aelius Theon the Sophist
 eul_wid: nxo-aa
 eul_aid: nxo
 canonical: "https://eulogikon.org/works/aelius-theon-preliminary-exercises-nxo-aa"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aelius Theon the Sophist
 
 **eul_wid:** `nxo-aa` · [HTML page](https://eulogikon.org/works/aelius-theon-preliminary-exercises-nxo-aa)
-
-The Preliminary Exercises is a first-century CE Greek textbook on rhetoric composed by the sophist and teacher Aelius Theon of Alexandria. As the oldest surviving complete handbook of its kind, it details the standardized curriculum known as the progymnasmata, a graded series of foundational composition exercises. These exercises were designed to equip students with the core skills of narrative, argument, and style necessary for advanced study in oratory. Theon structures his work progressively, beginning with elementary forms such as fable and simple narrative and advancing to more complex tasks like confirmation, refutation, and formal encomium or invective. His treatment is notably practical, blending clear definitions and illustrative examples with detailed advice on effective classroom instruction and student practice.
-
-Preserved in full through medieval manuscripts, the text was lost for centuries before its rediscovery in the nineteenth century. It provides a crucial window into the standardized rhetorical education of the Roman Empire, a system fundamental to careers in law, politics, and public discourse. Theon argues for the broad utility of these exercises, contending they are valuable not only for aspiring orators but also for historians and poets. While later handbooks, such as the one by Aphthonius, achieved greater popularity in Byzantine and Renaissance education, Theon’s earlier and more comprehensive manual remains highly valued for its detailed exposition of pedagogical method and its systematic scope.
 
 ## Text
 

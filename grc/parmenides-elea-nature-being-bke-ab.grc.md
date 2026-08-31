@@ -5,6 +5,7 @@ author: Parmenides of Elea
 eul_wid: bke-ab
 eul_aid: bke
 canonical: "https://eulogikon.org/works/parmenides-elea-nature-being-bke-ab"
+lang: grc
 period: Archaic
 dialect: Epic (Homeric) (frg)
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Parmenides of Elea
 
 **eul_wid:** `bke-ab` · [HTML page](https://eulogikon.org/works/parmenides-elea-nature-being-bke-ab)
-
-On the Nature of Being is a philosophical poem composed in epic Greek verse by the pre-Socratic thinker Parmenides of Elea, written around the early fifth century BCE. The work survives only in fragments, approximately thirty-one in number, which were preserved through quotations by later ancient commentators such as Sextus Empiricus and Simplicius. The poem is structured as a divine revelation, wherein a goddess guides the narrator from the realm of night to the light of truth. It is traditionally divided into two major sections. The first and more complete part, known as the "Way of Truth," employs rigorous logical deduction to argue that true reality, or "what is," must be ungenerated, imperishable, indivisible, unchanging, and eternal. It asserts that thought and speech can coherently refer only to this singular, immutable Being, while non-being is declared to be unthinkable and inexpressible. The second, more fragmentary section, the "Way of Opinion," presents a detailed cosmology concerning the world of sensory appearance, including theories on the composition of celestial bodies and human perception. Parmenides presents this cosmological account not as truth but as the deceptive beliefs of mortals, thereby establishing a critical distinction between reality and appearance, truth and mere opinion.
-
-The work represents a foundational turning point in Western thought, shifting inquiry from mythological and speculative natural philosophy toward abstract questions concerning existence, epistemology, and the limits of language. Its arguments for a unitary, timeless Being posed a direct challenge to earlier philosophers who described a cosmos of change and plurality, such as Heraclitus. The logical framework of the "Way of Truth" profoundly influenced subsequent philosophy, most notably providing a critical stimulus for Plato's theory of Forms and the development of metaphysical reasoning. Although the original poetic structure is lost, the surviving fragments, particularly those detailing the logical attributes of Being, have secured the poem's status as a cornerstone of the philosophical tradition.
 
 ## Text
 

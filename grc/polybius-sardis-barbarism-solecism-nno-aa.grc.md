@@ -5,6 +5,7 @@ author: Polybius of Sardis
 eul_wid: nno-aa
 eul_aid: nno
 canonical: "https://eulogikon.org/works/polybius-sardis-barbarism-solecism-nno-aa"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Polybius of Sardis
 
 **eul_wid:** `nno-aa` · [HTML page](https://eulogikon.org/works/polybius-sardis-barbarism-solecism-nno-aa)
-
-_On Barbarism and Solecism_ is a rhetorical treatise attributed to Polybius of Sardis, a grammarian of the Imperial period, likely active in the second century CE. It functions as a technical manual for identifying and avoiding two fundamental categories of linguistic error: barbarism, defined as a fault in the morphology or pronunciation of an individual word, and solecism, a syntactic error in the construction of a sentence or phrase. Such treatises were standard components of rhetorical education, or progymnasmata, and were dedicated to the cultivation of linguistic purity, or Hellenism. The work systematically addresses the definition and maintenance of correct, classical Attic Greek usage, providing prescriptive grammatical rules for aspiring orators. It classifies errors in detail, distinguishing clearly between word-level barbarisms, which it further subdivides into types such as omission, addition, transposition, and substitution, and sentence-level solecisms. The treatise is not widely attested in independent manuscripts; its existence and attribution are primarily confirmed by an entry in the tenth-century Byzantine encyclopedia known as the Suda. The text itself is likely preserved only fragmentarily or within later compilations of rhetorical materials. As a practical guide for elite rhetorical training, the work exemplifies the pedagogical priorities of the Second Sophistic, a cultural movement that emphasized the mastery of classical Attic Greek as a paramount marker of education and social status. Its contribution to the standardization of Greek grammatical doctrine ensured its influence on the tradition of linguistic scholarship transmitted through Byzantine and later periods.
 
 ## Text
 

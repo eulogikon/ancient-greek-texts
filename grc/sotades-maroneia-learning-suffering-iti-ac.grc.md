@@ -5,6 +5,7 @@ author: Sotades of Maroneia Elder
 eul_wid: iti-ac
 eul_aid: iti
 canonical: "https://eulogikon.org/works/sotades-maroneia-learning-suffering-iti-ac"
+lang: grc
 period: Hellenistic
 dialect: "Ionic (ia, frg)"
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Sotades of Maroneia Elder
 
 **eul_wid:** `iti-ac` · [HTML page](https://eulogikon.org/works/sotades-maroneia-learning-suffering-iti-ac)
-
-"On Learning and Suffering" is a fragmentary satirical poem by the Hellenistic poet Sotades of Maroneia, who was active in the early 3rd century BCE. The work survives only in brief passages quoted by later grammarians, such as Athenaeus, who preserved them for their metrical and lexical interest. Written in the distinctive and innovative Sotadean meter, the poem presents a cynical philosophical paradox, equating the process of learning with the experience of suffering or misfortune. This fragment is characteristic of Sotades's bold and subversive style, which employed lively, often politically charged verse for social critique, appealing to an audience familiar with the daring iambic traditions of the post-Alexandrian Hellenistic era. The original poem's full length, structure, and narrative context are lost to history.
 
 ## Text
 

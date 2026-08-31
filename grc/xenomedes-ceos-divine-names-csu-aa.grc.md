@@ -5,6 +5,7 @@ author: Xenomedes of Ceos
 eul_wid: csu-aa
 eul_aid: csu
 canonical: "https://eulogikon.org/works/xenomedes-ceos-divine-names-csu-aa"
+lang: grc
 period: Classical
 dialect: Ionic (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Xenomedes of Ceos
 
 **eul_wid:** `csu-aa` · [HTML page](https://eulogikon.org/works/xenomedes-ceos-divine-names-csu-aa)
-
-Fragments on Divine Names is a lost work by the Ceian local historian Xenomedes. It survives only through three fragmentary passages preserved by later authors, collected in Felix Jacoby’s Fragmente der griechischen Historiker. These fragments indicate the work was a mythography focusing on the traditions of the island of Ceos. The preserved material includes a myth concerning the nymph Cyrene and an etiological story about Ceos, which mentions the figures Aristaeus and the Ichnaeae nymphs. Another fragment provides a list of cult titles for Apollo, including Aegletes, Nomius, and Cynthius. A third discusses the mythological figure Acontius and his love for Cydippe. The text is transmitted solely through indirect quotations, specifically within the scholia on Apollonius Rhodius’s Argonautica and in the Lexicon of Photius. Xenomedes’s work was employed by later grammarians and scholiasts as an authoritative source for rare Ceian mythological details and explanations of divine epithets. It exemplifies the antiquarian tradition of recording local cultic practices and genealogies, serving to preserve distinctive regional lore within the broader corpus of Greek mythology.
 
 ## Text
 

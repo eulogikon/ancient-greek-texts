@@ -5,6 +5,7 @@ author: Synesius of Cyrene
 eul_wid: sys-ae
 eul_aid: sys
 canonical: "https://eulogikon.org/works/synesius-cyrene-catastases-sys-ae"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Synesius of Cyrene
 
 **eul_wid:** `sys-ae` · [HTML page](https://eulogikon.org/works/synesius-cyrene-catastases-sys-ae)
-
-The Catastases is a political treatise composed in Attic Greek by Synesius of Cyrene around 410 CE. Addressed directly to the Eastern Roman Emperor Arcadius, the work is structured as a ten-part report detailing a profound crisis in the author's home province of Cyrenaica. Synesius provides a vivid eyewitness account of the devastation wrought by nomadic raids, describing the ruin of cities and the collapse of local defensive structures. The narrative blends this descriptive reportage with philosophical exhortation, urging the emperor to fulfill his imperial duty to protect and restore the province. The complete text has been preserved through medieval manuscript transmission alongside Synesius's other works. Modern scholarship regards the Catastases as a significant document from late antiquity, offering critical insight into the practical challenges of governing a fragmenting empire. It exemplifies the continued role of local provincial elites as intermediaries between imperial authority and regional populations, while also demonstrating the enduring application of classical political rhetoric and philosophical counsel in the early Christian era.
 
 ## Text
 

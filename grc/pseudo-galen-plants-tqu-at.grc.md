@@ -5,6 +5,7 @@ author: Pseudo-Galen
 eul_wid: tqu-at
 eul_aid: tqu
 canonical: "https://eulogikon.org/works/pseudo-galen-plants-tqu-at"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Pseudo-Galen
 
 **eul_wid:** `tqu-at` · [HTML page](https://eulogikon.org/works/pseudo-galen-plants-tqu-at)
-
-The Words of Plants is an anonymous Greek pharmacological lexicon, traditionally attributed to the physician Galen. This concise treatise functions as a practical guide to medicinal substances, listing plant names alphabetically alongside their synonyms, descriptions, and therapeutic properties. It operates firmly within the tradition of ancient Greek botanical and medical literature, serving as a specialized reference for the identification and application of materia medica. The text systematically catalogs various herbs, trees, and other botanicals, often providing multiple common names for each entry to aid in accurate identification. Its content focuses on the medicinal applications of these plants, detailing their specific therapeutic actions for a range of ailments.
-
-Preserved in medieval Greek manuscripts, the work is cataloged among the minor texts in the corpus of Greek medical writers. Its survival is attributable to Byzantine scholarly efforts to copy and preserve ancient technical literature. As a representative anonymous compilation, the Words of Plants illustrates the breadth and practical nature of pharmacological writing that existed alongside the major works of authors like Dioscorides. It provides valuable insight into the transmission of herbal knowledge and the standardization of botanical nomenclature, contributing to the study of technical content variation from the Greco-Roman through the Byzantine periods.
 
 ## Text
 

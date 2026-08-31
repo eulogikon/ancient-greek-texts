@@ -5,6 +5,7 @@ author: Galen of Pergamon
 eul_wid: qmm-dq
 eul_aid: qmm
 canonical: "https://eulogikon.org/works/galen-pergamon-critical-days-qmm-dq"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Galen of Pergamon
 
 **eul_wid:** `qmm-dq` · [HTML page](https://eulogikon.org/works/galen-pergamon-critical-days-qmm-dq)
-
-On Critical Days is a medical treatise composed in Greek by the physician Galen of Pergamon around 170–180 CE. The work provides a systematic examination of the ancient medical doctrine of "critical days," which held that specific points in the course of a fever or acute illness marked decisive turns toward either crisis or recovery. Galen structures his argument as a detailed analysis and defense of theories inherited from the Hippocratic tradition, while simultaneously engaging in vigorous polemic against rival medical sects of his era, particularly the Methodists, who rejected the concept entirely. The treatise explores mathematical patterns and numerological principles, with a special emphasis on the number seven, and integrates these temporal cycles into Galen's own comprehensive physiological system based on humoral theory and the body's innate faculties.
-
-The complete text, comprising 173 sections, survives through the medieval Greek manuscript tradition. Modern scholarship interprets the treatise as a key polemical work, composed to re-establish the authority of prognostic theory within Galen's rationalist medical framework during a period of intense professional rivalry in Rome. It was likely intended for an audience of fellow practitioners and advanced students. The work proved highly influential, being translated into Arabic and later into Latin, and remained a standard reference on medical forecasting for centuries.
 
 ## Text
 

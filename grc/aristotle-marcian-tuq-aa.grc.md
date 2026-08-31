@@ -5,6 +5,7 @@ author: Aristotle Lives
 eul_wid: tuq-aa
 eul_aid: tuq
 canonical: "https://eulogikon.org/works/aristotle-marcian-tuq-aa"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: Biography
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristotle Lives
 
 **eul_wid:** `tuq-aa` · [HTML page](https://eulogikon.org/works/aristotle-marcian-tuq-aa)
-
-The Life of Marcian is a brief prose biography of the Eastern Roman emperor Marcian, who reigned from 450 to 457 CE. It constitutes a single entry within a larger pseudepigraphical collection commonly known as the Aristotle Lives or the Lives of the Emperors, a work spuriously attributed to the philosopher Aristotle. Composed in the late antique or Byzantine period, the text offers a concise account of Marcian’s rule, organized into twenty-two sections. Its narrative focuses on conventional portrayals of the emperor’s character and virtues, while also touching upon key military, political, and religious events of his reign. The historical reliability of the biography is limited, owing to its late compilation and its place within a corpus of fictionalized imperial lives. The work survives exclusively in Greek as part of the manuscript tradition of the pseudo-Aristotelian collection, its transmission entirely dependent on that larger corpus. As a component of this spurious tradition, the Life of Marcian serves as a minor source for the study of late antique and Byzantine biographical writing. Its principal significance lies in demonstrating the enduring posthumous authority of Aristotle’s name and in exemplifying the standard conventions of imperial biography within the Byzantine literary world.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Callimachus Scholia
 eul_wid: vmw-ae
 eul_aid: vmw
 canonical: "https://eulogikon.org/works/callimachus-scholia-narratives-iambos-vmw-ae"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: Grammar
@@ -19,20 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Callimachus Scholia
 
 **eul_wid:** `vmw-ae` · [HTML page](https://eulogikon.org/works/callimachus-scholia-narratives-iambos-vmw-ae)
-
-Content The scholia explicate the primary themes of Callimachus's Iambi, which include:
-
-Literary polemic and criticism.
-
-Ethical and social admonition.
-
-The use of mythological and historical exempla.
-
-The adaptation of the archaic iambic tradition for Hellenistic poetry.
-
-Transmission Preserved within the medieval manuscript tradition of Callimachus's works, these scholia were compiled by later grammarians to aid in the study of his allusive text. Their survival is fragmentary, reliant on papyri and manuscript margins, consistent with the transmission of most Callimachean works.
-
-Significance Such ancient scholia are foundational for modern philology, preserving critical interpretive traditions and enabling the reconstruction of fragmentary texts. They are indispensable for producing critical editions and understanding the nuances of Callimachus's Iambi.
 
 ## Text
 

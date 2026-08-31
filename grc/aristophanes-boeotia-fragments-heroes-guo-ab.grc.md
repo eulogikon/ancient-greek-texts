@@ -5,6 +5,7 @@ author: Aristophanes of Boeotia
 eul_wid: guo-ab
 eul_aid: guo
 canonical: "https://eulogikon.org/works/aristophanes-boeotia-fragments-heroes-guo-ab"
+lang: grc
 period: Classical
 dialect: Aeolic (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristophanes of Boeotia
 
 **eul_wid:** `guo-ab` · [HTML page](https://eulogikon.org/works/aristophanes-boeotia-fragments-heroes-guo-ab)
-
-The Fragments on Boeotian Heroes by Aristophanes of Boeotia is a lost prose work surviving only in a single brief fragment. This fragment, preserved by the grammarian Herodian in his second-century CE treatise On Peculiar Diction, records that the hero Trophonius was worshipped at Orchomenus in Boeotia. The title indicates the original was a compilation of notes on the region’s legendary figures. The work belongs to the Hellenistic tradition of local history and mythography, and its scope, inferred from the title and the surviving citation, included the cults of Boeotian heroes and regional myths and heroic genealogies specific to Boeotia. The text is fragmentary and has no independent manuscript tradition; its sole known passage survives through indirect citation in Herodian’s grammatical work, which used it as a source for rare terms or names. The fragment exemplifies the antiquarian effort to systematize local traditions, countering Panhellenic narratives. Its preservation by Herodian illustrates how such regional compilations served later lexicographical and scholarly purposes, even if the work’s broader influence is now untraceable.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Ophelio Comicus
 eul_wid: fvo-ab
 eul_aid: fvo
 canonical: "https://eulogikon.org/works/ophelio-comic-fragments-fvo-ab"
+lang: grc
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Ophelio Comicus
 
 **eul_wid:** `fvo-ab` · [HTML page](https://eulogikon.org/works/ophelio-comic-fragments-fvo-ab)
-
-The Comic Fragments on Daily Life by Ophelio Comicus are a collection of seven brief verse excerpts attributed to the obscure poet Ophelio. These fragments do not survive through a direct manuscript tradition but are preserved as quotations within the works of later ancient authors, most notably the grammarian Athenaeus of Naucratis in his second- or third-century CE work, the Deipnosophistae. They originate from lost plays of the Middle or New Comedy period and were selected by later scholars for their illustrative value regarding specific words, customs, or material culture. The content of the fragments focuses on the minutiae of everyday experience, with particular attention to food, dining, and social practices, observed through a lens of gentle humor and satire. Their transmission is entirely indirect, relying on imperial-era scholarly compilations like that of Athenaeus and later lexicographical sources; they are now standardly collected in modern editions such as Poetae Comici Graeci. Although the complete plays from which they came are lost, these fragments hold significant value as evidence for cultural history, providing rare glimpses into the daily life and vocabulary of the Hellenistic world beyond the major surviving works of Greek comedy.
 
 ## Text
 

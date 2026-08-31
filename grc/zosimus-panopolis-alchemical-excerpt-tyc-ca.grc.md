@@ -5,6 +5,7 @@ author: Zosimus of Panopolis
 eul_wid: tyc-ca
 eul_aid: tyc
 canonical: "https://eulogikon.org/works/zosimus-panopolis-alchemical-excerpt-tyc-ca"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Zosimus of Panopolis
 
 **eul_wid:** `tyc-ca` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-alchemical-excerpt-tyc-ca)
-
-The Alchemical Excerpt is a Greek alchemical treatise attributed to Zosimus of Panopolis, a Greco-Egyptian alchemist of the late third to early fourth century CE. Preserved within the larger corpus of Greek alchemical writings, the text consists of technical passages discussing laboratory processes. It reflects Zosimus’s synthesis of Egyptian and Greek practical knowledge with philosophical and Gnostic concepts. The content provides practical instructions for operations like distillation and the treatment of metals such as lead and mercury, with the stated goal of transmuting base metals into noble ones, a process symbolizing a journey from corruption to purity. A hallmark of Zosimus’s thought is the explicit correspondence drawn between these physical operations and a parallel spiritual transformation.
-
-The text survives fragmentarily within the Byzantine alchemical manuscript tradition, notably in compilations like the tenth- or eleventh-century Marcianus graecus 299. Zosimus’s works were frequently excerpted and recompiled by later scribes, a practice that has obscured the original structure and scope of his individual treatises. As a foundational figure in Western alchemy, Zosimus helped establish the enduring conceptual link between laboratory practice and spiritual philosophy. This excerpt, representative of his encyclopedic output, was extensively copied and cited by later Byzantine, Arabic, and Latin alchemists, securing his influence across centuries.
 
 ## Text
 

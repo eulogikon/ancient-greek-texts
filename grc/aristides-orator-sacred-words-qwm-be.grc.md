@@ -5,6 +5,7 @@ author: Aristides the Orator
 eul_wid: qwm-be
 eul_aid: qwm
 canonical: "https://eulogikon.org/works/aristides-orator-sacred-words-qwm-be"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristides the Orator
 
 **eul_wid:** `qwm-be` · [HTML page](https://eulogikon.org/works/aristides-orator-sacred-words-qwm-be)
-
-The Sacred Words Second is an autobiographical oration by the Greek orator Aelius Aristides, composed around 170–171 CE. It forms the second installment in a series of six works collectively known as the Sacred Tales, a unique blend of sacred narrative, detailed medical history, and refined Attic Greek prose. The text presents a first-person account of the author’s protracted illness and his experiences of healing and divine communication from the god Asclepius at the god’s sanctuary in Pergamum. Spanning several years, the narrative includes his suffering during the great Antonine Plague and meticulously documents his symptoms, the dreams sent by the god, and the often paradoxical prescriptions he received.
-
-The work survives in its entirety through a medieval manuscript tradition. Modern scholarship interprets it as a distinctive document of the Second Sophistic period, where elite rhetorical prowess converged with intense personal piety. It was likely composed both as an act of thanksgiving to Asclepius and as a public demonstration of the author’s privileged divine favor, intended for an audience of his peers and students. Today, the oration is valued as a crucial source for understanding ancient medicine, the practices of religious incubation and healing in the Roman Empire, and the development of autobiographical writing in the classical world.
 
 ## Text
 

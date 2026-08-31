@@ -5,6 +5,7 @@ author: Introduction Platonism Anonymous
 eul_wid: uuk-aa
 eul_aid: uuk
 canonical: "https://eulogikon.org/works/anon-intro-platonism-philosophy-uuk-aa"
+lang: grc
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Introduction Platonism Anonymous
 
 **eul_wid:** `uuk-aa` · [HTML page](https://eulogikon.org/works/anon-intro-platonism-philosophy-uuk-aa)
-
-The Prolegomena to Platonic Philosophy is an anonymous Greek treatise belonging to the genre of introductory handbooks used in late antique Neoplatonic schools. Structured into 32 sections, it provided students with a systematic framework for approaching Plato’s dialogues within the Neoplatonic interpretive tradition. The work systematically addresses standard pedagogical topics for studying Plato, including the purpose of Platonic philosophy, the appropriate order and classification of the dialogues, the life of Plato, the requisite qualities of a commentator, and the first principles of Platonic metaphysics, such as the One, Intellect, and Soul. The text survives within Byzantine-era manuscripts, transmitted among collections of Neoplatonic commentaries and scholia. Its anonymous nature is typical for such compilations of standard school doctrine. As a representative prolegomena, this work was instrumental in systematizing and preserving Platonic doctrine for later centuries. It influenced the medieval and Byzantine understanding of Plato and shaped the philosophical curriculum through which his works were studied in the Greek, Islamic, and Latin traditions.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Sotades of Maroneia Elder
 eul_wid: iti-ab
 eul_aid: iti
 canonical: "https://eulogikon.org/works/sotades-maroneia-fish-feasting-iti-ab"
+lang: grc
 period: Hellenistic
 dialect: "Ionic (ia, frg)"
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Sotades of Maroneia Elder
 
 **eul_wid:** `iti-ab` · [HTML page](https://eulogikon.org/works/sotades-maroneia-fish-feasting-iti-ab)
-
-Fragments on Fish and Feasting is a title ascribed to the Hellenistic poet Sotades of Maroneia, who was active in the 3rd century BCE. Sotades is primarily remembered for two contributions: the invention of the Sotadean meter, a rhythmic form well-suited to his distinctive style, and for composing notoriously obscene and satirical invective, most famously directed against Ptolemy II Philadelphus. No ancient source records a work by Sotades bearing this specific title, and its apparent focus on gastronomic themes stands in contrast to the content of his securely attested fragments, which predominantly feature mythological parody and personal satire. The title implies a collection of verse passages concerning fish and banqueting, subjects prevalent in the contemporary comedy of manners but otherwise alien to Sotades's known literary profile. The poet's work survives only in fragments preserved by later authors such as Athenaeus and compiled in modern scholarly editions. Consequently, this title likely represents a modern, thematic grouping of excerpts rather than an ancient, coherent literary work. Despite the dubious authenticity of this particular attribution, it underscores Sotades's lasting notoriety. His enduring significance rests firmly on his metrical innovation and his reputation for perilous political satire, which together cemented his distinctive place in the history of Greek literature.
 
 ## Text
 

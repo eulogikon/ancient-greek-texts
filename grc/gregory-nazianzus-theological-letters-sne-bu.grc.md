@@ -4,6 +4,7 @@ author: Gregory of Nazianzus
 eul_wid: sne-bu
 eul_aid: sne
 canonical: "https://eulogikon.org/works/gregory-nazianzus-theological-letters-sne-bu"
+lang: grc
 period: Late Antique
 domain: Theology
 format: Epistle

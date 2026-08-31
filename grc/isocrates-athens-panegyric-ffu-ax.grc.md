@@ -5,6 +5,7 @@ author: Isocrates of Athens
 eul_wid: ffu-ax
 eul_aid: ffu
 canonical: "https://eulogikon.org/works/isocrates-athens-panegyric-ffu-ax"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Isocrates of Athens
 
 **eul_wid:** `ffu-ax` · [HTML page](https://eulogikon.org/works/isocrates-athens-panegyric-ffu-ax)
-
-The Panegyricus is a political oration composed by the Athenian rhetorician Isocrates around 380 BCE. Written in Attic Greek as a published pamphlet rather than a speech for actual delivery, it is an extensive and artfully structured work. Its central argument is a call for Greek unity, urging the rival powers of Athens and Sparta to end their conflict and jointly lead a pan-Hellenic military campaign against the Persian Empire. Composed in the aftermath of the Peloponnesian War and a subsequent peace treaty that favored Persian interests, the work responds to a period of profound Greek fragmentation. Isocrates skillfully blends encomiastic praise for Athens's cultural and historical legacy with pragmatic political appeals, contending that a shared expedition would redirect internal Greek aggression outward and secure collective prosperity. Modern scholarship regards it as a foundational text of political pan-Hellenism and a significant ideological precursor to the later conquests of Alexander the Great. The Panegyricus survives in its complete form through the stable medieval manuscript tradition of Isocrates's collected works.
 
 ## Text
 

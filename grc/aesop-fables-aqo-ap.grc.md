@@ -5,6 +5,7 @@ author: Aesop the Fabulist
 eul_wid: aqo-ap
 eul_aid: aqo
 canonical: "https://eulogikon.org/works/aesop-fables-aqo-ap"
+lang: grc
 period: Archaic
 dialect: Mixed Dialects
 domain: Fiction
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aesop the Fabulist
 
 **eul_wid:** `aqo-ap` · [HTML page](https://eulogikon.org/works/aesop-fables-aqo-ap)
-
-Aesop's Fables is a classic and enduring collection of concise, moralizing tales traditionally ascribed to Aesop, a storyteller believed to have lived in the 6th century BCE. While the historical details of his life are obscure, his name has become synonymous with the genre. The work is not a single, fixed text but rather a vast and fluid compilation of stories that evolved over centuries through oral and written transmission. The fables are short prose narratives, typically featuring animals endowed with human traits who enact brief dramas that illustrate universal human foibles, virtues, and social dynamics. Common themes include the triumph of cunning over brute strength, the dangers of pride and dishonesty, and the rewards of patience and diligence.
-
-The fables served as fundamental educational and rhetorical tools in the ancient Greek and Roman worlds, offering practical wisdom for navigating daily life. Their survival to the present day is the result of a complex textual history, as no original manuscript by Aesop exists. The modern standard corpus is drawn from much later compilations, including the Greek prose collections from the Roman Imperial period, the verse versions composed by Babrius in Greek and Phaedrus in Latin, and numerous medieval recensions. Early references in the works of authors such as Aristophanes and Plato attest to their deep roots in classical culture. Each tale conventionally concludes with an explicit, pithy moral, cementing its instructive purpose and contributing to the collection's lasting role as a repository of folk wisdom and ethical observation.
 
 ## Text
 

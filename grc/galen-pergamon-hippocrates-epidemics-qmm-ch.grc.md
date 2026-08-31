@@ -5,6 +5,7 @@ author: Galen of Pergamon
 eul_wid: qmm-ch
 eul_aid: qmm
 canonical: "https://eulogikon.org/works/galen-pergamon-hippocrates-epidemics-qmm-ch"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Galen of Pergamon
 
 **eul_wid:** `qmm-ch` · [HTML page](https://eulogikon.org/works/galen-pergamon-hippocrates-epidemics-qmm-ch)
-
-On Hippocrates' Epidemics I is a detailed medical commentary written by the physician Galen of Pergamon around 175–180 CE. The work provides a line-by-line explanation of the first book of the Hippocratic Epidemics, a foundational text comprising 42 case histories. Galen structured his exegesis into 292 passages, systematically interpreting the often cryptic Hippocratic descriptions of diseases, symptoms, and patient outcomes. His primary aim was to clarify medical terminology and elucidate the underlying physiological processes, frequently employing his own theories concerning the body's humors and innate faculties.
-
-Composed during Galen's residence in Rome, the treatise served a dual purpose: to establish the authoritative meaning of Hippocrates' work and to defend a rational, theory-based approach to medicine against rival empirical and methodological schools. Scholars view this effort as part of Galen's larger project to position himself as the legitimate heir to the Hippocratic tradition and to create a standardized guide for diagnosis and prognosis. It was likely intended for advanced medical students and practicing physicians engaged in scholarly discourse.
-
-The complete Greek text of the commentary survives via medieval Byzantine manuscripts. Its influence extended well beyond antiquity; a substantial portion was translated into Arabic in the 9th century, securing its central role in the development of Islamic medicine. For over a millennium, this work was instrumental in cementing the linked authority of Hippocrates and Galen as the cornerstone of Western medical theory and practice.
 
 ## Text
 

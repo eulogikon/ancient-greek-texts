@@ -5,6 +5,7 @@ author: Alexander of Aphrodisias
 eul_wid: reo-al
 eul_aid: reo
 canonical: "https://eulogikon.org/works/alexander-aphrodisias-mixture-reo-al"
+lang: grc
 period: Roman
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alexander of Aphrodisias
 
 **eul_wid:** `reo-al` · [HTML page](https://eulogikon.org/works/alexander-aphrodisias-mixture-reo-al)
-
-On Mixture is a philosophical treatise by Alexander of Aphrodisias, composed around 200 CE. As the leading Aristotelian commentator of his era, Alexander produced this work as a detailed, systematic critique of the Stoic theory of mixture, particularly the concept of "total blending" championed by the Stoic philosopher Chrysippus. The Stoic position held that two distinct material bodies could completely interpenetrate one another, occupying the same space simultaneously while each retaining its own individual properties. Alexander argues forcefully against this possibility, deeming it a physical and logical absurdity that surpasses even the paradoxes found in myth.
-
-In its place, Alexander defends and elaborates the Aristotelian model of mixture. According to this view, a true mixture results in a genuinely new, homogeneous substance. The original components do not persist as actual, separable entities within the blend; rather, they exist only potentially, their qualities subsumed into the unified character of the resultant compound. This allows for the mixture to be homogeneous—with no part being purely one original ingredient or the other—while also permitting the theoretical separation of the components, as their natures are preserved in potentiality. The treatise, structured in twenty-six chapters, meticulously dismantles the Stoic arguments while clarifying the mechanics and philosophical foundations of the Aristotelian alternative.
-
-Beyond its immediate focus on physical theory, On Mixture carries significant implications for other areas of philosophy, most notably for Aristotelian psychology. The model of mixture it articulates provides the conceptual framework for explaining the union of soul and body, where the soul is seen as the form that actualizes the body's potentialities without being a material body itself that could blend with it. The work survives intact and is valued not only as a cornerstone of late Peripatetic thought but also as a crucial historical source, preserving and critically engaging with Stoic physical doctrines that are otherwise poorly attested.
 
 ## Text
 

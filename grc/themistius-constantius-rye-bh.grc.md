@@ -5,6 +5,7 @@ author: Themistius the Philosopher
 eul_wid: rye-bh
 eul_aid: rye
 canonical: "https://eulogikon.org/works/themistius-constantius-rye-bh"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Themistius the Philosopher
 
 **eul_wid:** `rye-bh` · [HTML page](https://eulogikon.org/works/themistius-constantius-rye-bh)
-
-To Emperor Constantius is a panegyric oration composed and delivered by the philosopher and statesman Themistius to the Roman emperor Constantius II around 350 CE. A complete example of the imperial oration, or basilikos logos, the work is crafted in refined Attic Greek and artfully blends philosophical discourse with political encomium. Themistius structures his argument to reconcile the traditionally separate spheres of the contemplative philosophical life and the active life of governance, presenting Constantius as the embodiment of the Platonic ideal of the philosopher-king, whose rule is guided by wisdom and virtue.
-
-Delivered during a period of consolidation following the emperor’s suppression of a usurper, the oration functioned as a vehicle for political legitimization, grounding imperial authority in philosophical principle rather than mere power. Modern scholarship interprets the speech not as simple flattery but as a substantive effort to articulate a coherent political philosophy wherein imperial virtue, informed by the traditions of Greek paideia, or education, becomes the foundation for justice and stability within the empire. The work survives intact through medieval manuscript traditions and proved instrumental in establishing Themistius’s enduring career as a court philosopher, significantly influencing later Byzantine conceptions of the philosopher’s role in statecraft.
 
 ## Text
 

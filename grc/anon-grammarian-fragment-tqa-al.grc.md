@@ -5,6 +5,7 @@ author: Greek Grammarian Anonymous
 eul_wid: tqa-al
 eul_aid: tqa
 canonical: "https://eulogikon.org/works/anon-grammarian-fragment-tqa-al"
+lang: grc
 period: Late Antique
 dialect: Koine (frg)
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Greek Grammarian Anonymous
 
 **eul_wid:** `tqa-al` · [HTML page](https://eulogikon.org/works/anon-grammarian-fragment-tqa-al)
-
-The Grammatical Fragment is an anonymous Greek treatise surviving as a single, incomplete passage. It represents a brief discussion on a specific point of grammatical theory, focusing on the formation of perfect tense verbs. The extant text analyzes the doubling of consonants in verb stems, distinguishing between those beginning with a single consonant, which undergo reduplication, and those beginning with a double consonant, which do not. It cites examples such as tetheika from tithemi and dedoka from didomi, while also posing counterexamples like hesteka from histemi to test the proposed rule. The fragmentary nature of the text indicates it is a portion of a larger, now-lost grammatical treatise, though its precise manuscript tradition and preservation history are not detailed in available sources. As an anonymous grammatical work, it is representative of the widespread pedagogical and scholarly texts produced for the systematic study of the Greek language during the Hellenistic or Roman periods.
 
 ## Text
 

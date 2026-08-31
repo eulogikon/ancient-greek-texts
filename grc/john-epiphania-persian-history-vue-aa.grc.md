@@ -5,6 +5,7 @@ author: John of Epiphania
 eul_wid: vue-aa
 eul_aid: vue
 canonical: "https://eulogikon.org/works/john-epiphania-persian-history-vue-aa"
+lang: grc
 period: Late Antique
 dialect: Literary Koine
 domain: History
@@ -19,20 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** John of Epiphania
 
 **eul_wid:** `vue-aa` · [HTML page](https://eulogikon.org/works/john-epiphania-persian-history-vue-aa)
-
-Overview The Fragments on Persian History (Ἀποσπάσματα περὶ τῆς Περσικῆς Ἱστορίας) by the Byzantine historian John of Epiphania is a lost historical work, preserved only in six excerpts within the 10th-century encyclopedia, the Suda. The original prose history covered late 6th-century Byzantine-Persian relations, with a significant fragment detailing the negotiations and peace treaty of 591 CE between Emperor Maurice and the restored Persian King Khosrow II.
-
-Content The surviving fragments indicate the work focused on:
-
-The Byzantine-Sasanian war and the diplomatic restoration of Khosrow II.
-
-The strategic geopolitics of territories like Persian Armenia.
-
-The author’s eyewitness authority and access to official records.
-
-Transmission The text survives exclusively through its six cited fragments in the Suda; no independent manuscript tradition exists. The historian Theophylact Simocatta later used John’s work as a source for his own 7th-century history.
-
-Significance John of Epiphania provides a crucial contemporary account of Emperor Maurice’s reign and a key Byzantine-Persian treaty. Though fragmentary, his work supplied important material for later historiography and remains a primary source for modern reconstructions of late 6th-century diplomacy.
 
 ## Text
 

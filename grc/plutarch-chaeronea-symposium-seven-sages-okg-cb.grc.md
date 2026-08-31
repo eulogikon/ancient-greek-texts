@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-cb
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-symposium-seven-sages-okg-cb"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-cb` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-symposium-seven-sages-okg-cb)
-
-Plutarch’s Symposium of the Seven Sages is a philosophical dialogue composed in Greek circa 100 CE. Presented as a story recounted by the author’s grandfather, the work imagines a banquet hosted by Periander, the tyrant of Corinth, for the legendary Seven Sages of ancient Greece, a group that traditionally included figures such as Thales, Solon, and Bias. The narrative, structured across 110 concise sections, depicts these renowned figures exchanging witty aphorisms and engaging in wide-ranging conversation. Their discourse centers on themes of practical wisdom, ethical conduct, the principles of good governance, and the influence of the divine in human life. A complete and surviving text transmitted within Plutarch’s larger collection of ethical works known as the Moralia, the dialogue blends biographical anecdote with philosophical inquiry. Written during the height of the Roman Empire, it reflects Plutarch’s enduring project to preserve and dramatize Greek cultural heritage for a sophisticated contemporary audience. Modern scholarship often interprets the symposium as a literary exploration of the nature of practical, civic-minded wisdom in contrast to more abstract philosophy, and as an examination of the ideal dynamic between intellectual advisors and political rulers. The work remains a principal literary source for the traditional sayings and anecdotes associated with the Seven Sages.
 
 ## Text
 

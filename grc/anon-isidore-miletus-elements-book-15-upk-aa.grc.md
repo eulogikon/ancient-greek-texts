@@ -5,6 +5,7 @@ author: Disciple of Isidore of Miletus Anonymous
 eul_wid: upk-aa
 eul_aid: upk
 canonical: "https://eulogikon.org/works/anon-isidore-miletus-elements-book-15-upk-aa"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Disciple of Isidore of Miletus Anonymous
 
 **eul_wid:** `upk-aa` · [HTML page](https://eulogikon.org/works/anon-isidore-miletus-elements-book-15-upk-aa)
-
-Book XV of Euclid's Elements is a spurious, late antique addition to the original thirteen-book corpus, likely composed in the sixth century CE. It functions as an advanced supplement on solid geometry, structured as a series of geometric propositions and proofs that deliberately imitate Euclid's classical style, though its mathematical sophistication is generally considered inferior. The treatise focuses primarily on the geometry of the five Platonic solids inscribed within a sphere. Its content includes the construction and comparative mensuration of the icosahedron and dodecahedron, with specific propositions comparing the side of an icosahedron to the side of a dodecahedron inscribed in the same sphere.
-
-Transmitted within the medieval Greek manuscript tradition of the Elements, Book XV is fully preserved in major codices such as the ninth-century Codex Vaticanus Graecus 190. It was included in the first printed editions of the work, which ensured its wide dissemination for centuries. As an integral part of the transmitted Euclidean corpus, Book XV subsequently influenced the Renaissance study of solid geometry. Its principal historical value lies in demonstrating the active engagement of early Byzantine scholars, possibly from the intellectual circle associated with the mathematician and architect Isidore of Miletus, with extending and engaging the legacy of classical Greek mathematics.
 
 ## Text
 

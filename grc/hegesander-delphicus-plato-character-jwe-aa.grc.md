@@ -5,6 +5,7 @@ author: Hegesander Delphicus
 eul_wid: jwe-aa
 eul_aid: jwe
 canonical: "https://eulogikon.org/works/hegesander-delphicus-plato-character-jwe-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hegesander Delphicus
 
 **eul_wid:** `jwe-aa` · [HTML page](https://eulogikon.org/works/hegesander-delphicus-plato-character-jwe-aa)
-
-The Anecdotes on Plato's Character is a lost collection of prose passages attributed to Hegesander Delphicus. Preserved only in fragments quoted by later authors, primarily Athenaeus in his Deipnosophistae, the work compiled short, anecdotal stories focused on the personality and wit of the philosopher Plato. Operating within the tradition of instructive sayings and anecdotes, it was not a formal biography but rather a source of colorful details likely drawn from earlier Hellenistic biographical traditions. The surviving passages depict Plato's philosophical character, his ethical demeanor, and his daily conduct, often highlighting his reputed wit and repartee. They also detail his relationships with contemporaries, rivals, and students, presenting moral exempla that illustrate his virtues and, on occasion, his perceived foibles. Through its preservation in authors like Athenaeus, Diogenes Laertius, and the Suda, Hegesander's collection contributed to the popular literary image of Plato during the Roman Empire. Modern scholars use these fragments cautiously to study the anecdotal tradition surrounding the philosopher and the practices of Hellenistic historiography.
 
 ## Text
 

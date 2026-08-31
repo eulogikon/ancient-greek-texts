@@ -5,6 +5,7 @@ author: Sosipater the Comic Poet
 eul_wid: ilg-ab
 eul_aid: ilg
 canonical: "https://eulogikon.org/works/sosipater-cooking-ilg-ab"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Sosipater the Comic Poet
 
 **eul_wid:** `ilg-ab` · [HTML page](https://eulogikon.org/works/sosipater-cooking-ilg-ab)
-
-The comic poem On the Art of Cooking, also referred to as Apospasmata or "Extracts," is attributed to the Hellenistic poet Sosipater. It survives only in fragments preserved by Athenaeus in his Deipnosophistae, a compendium of dining lore compiled around 200 CE. The work consists of verse passages that humorously describe foods, fish, and culinary practices, reflecting the domestic focus characteristic of Middle and New Comedy. Its content blends gastronomic lore with social satire, offering detailed descriptions of specific fish and their preparations while humorously treating the figures of cooks, gourmands, and their dining habits. The poem focuses on domestic life, particularly meal preparation and consumption, and elevates cooking to a skilled art, often in a tone that parodies more serious technical treatises. The work is known exclusively through the quotations in Athenaeus’s compendium, which was itself transmitted through medieval manuscripts. While the Byzantine encyclopedia known as the Suda mentions Sosipater, it does not reference this specific poem, indicating its limited independent circulation after antiquity. As a source for Athenaeus, Sosipater’s fragments subsequently shaped the later understanding of the Greek comic tradition and gastronomic history. They provide valuable linguistic and cultural data for scholars of Hellenistic comedy and the daily life of the ancient world.
 
 ## Text
 

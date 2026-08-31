@@ -5,6 +5,7 @@ author: Aristides the Orator
 eul_wid: qwm-af
 eul_aid: qwm
 canonical: "https://eulogikon.org/works/aristides-orator-leuctrian-helping-neither-qwm-af"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristides the Orator
 
 **eul_wid:** `qwm-af` · [HTML page](https://eulogikon.org/works/aristides-orator-leuctrian-helping-neither-qwm-af)
-
-The Leuctrian E, also known as the Leuctrian Oration E, is a political declamation composed in Attic Greek by the orator Aelius Aristides during the mid-second century CE. It is a rhetorical exercise set in the aftermath of the Battle of Leuctra in 371 BCE, where Thebes achieved a decisive victory over Sparta. The speech adopts the persona of a Theban counselor advocating a policy of strict neutrality, urging the city to refrain from offering military assistance to either the defeated Spartans or the Athenians in the ensuing diplomatic and military realignments. Through twelve carefully constructed sections, the argument builds a case for political isolationism, contending that intervention on behalf of any external power would jeopardize Thebes's newfound security and hard-won ascendancy.
-
-A representative work of the Second Sophistic movement, the oration exemplifies the period's revival of classical rhetorical forms and its preoccupation with historical re-imagination. It functions not as a historical document but as a sophisticated meletē, or practice speech, designed for a literate audience well-versed in the classical past. The exercise explores enduring themes of realpolitik and calculated self-interest by revisiting a famous historical crossroads. Modern scholarship regards it primarily as a demonstration of the era's artistic fascination with recreating pivotal moments from classical Greek history, employing polished Attic prose and complex persuasive techniques to breathe new life into ancient dilemmas.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Diotogenes the Philosopher
 eul_wid: ejm-aa
 eul_aid: ejm
 canonical: "https://eulogikon.org/works/diotogenes-kingship-rule-ejm-aa"
+lang: grc
 period: Classical
 dialect: "Doric (phi, frg)"
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Diotogenes the Philosopher
 
 **eul_wid:** `ejm-aa` · [HTML page](https://eulogikon.org/works/diotogenes-kingship-rule-ejm-aa)
-
-_On Kingship and Rule_, attributed to Diotogenes, is a Neopythagorean treatise on political philosophy concerning the ideal monarch. The text survives only in fragments preserved within the anthology compiled by the Byzantine scholar John Stobaeus. These excerpts present kingship as a divinely ordained office, where the ruler functions as a living law whose duty is to imitate the gods through justice and piety, thereby establishing cosmic harmony within the state. The fragments develop core Neopythagorean political themes, arguing that the king is the animate embodiment of law, personally administering justice. Royal rule is conceived as an imitation of divine governance, aligning the human polity with the cosmic order. The treatise emphasizes the paramount importance of the royal virtues of justice and piety for securing divine favor and civic well-being, with the king's ultimate goal being the creation of a harmonious and well-ordered state. The work is lost as an independent treatise and is known exclusively through this indirect transmission. Diotogenes' writing is part of a corpus of pseudepigraphical Neopythagorean texts that blended Platonic, Aristotelian, and Stoic ideas to guide Hellenistic and Roman rulers. Its concept of the king as a living law significantly influenced later Roman imperial ideology and was subsequently adopted by early Christian, Byzantine, and Renaissance political theorists.
 
 ## Text
 

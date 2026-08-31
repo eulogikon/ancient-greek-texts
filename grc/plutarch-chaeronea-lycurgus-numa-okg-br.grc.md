@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-br
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-lycurgus-numa-okg-br"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-br` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-lycurgus-numa-okg-br)
-
-The Comparison of Lycurgus and Numa is a concise concluding essay by the Greek biographer Plutarch, composed in Attic Greek during the early second century CE. It serves as the final segment of the paired biographies in his Parallel Lives, systematically contrasting Lycurgus, the semi-mythical lawgiver of Sparta, with Numa Pompilius, the second king of Rome. Structured as a series of evaluative points, the essay directly compares the two founders on their methods, institutions, and enduring legacies. Plutarch examines their divergent approaches to political reform, noting Lycurgus’s potential use of force against Numa’s reliance on persuasion, and analyzes their respective employments of religion in statecraft, with Numa establishing fundamental Roman rites and Lycurgus sanctifying his constitutional laws through the authority of the Delphic oracle. The comparison further assesses the outcomes of their systems, contrasting Spartan militarism and austere discipline with the Roman cultivation of peace and piety, and contemplates the relative durability of the institutions each founder established.
-
-An integral component of Plutarch’s larger biographical project, the work was composed for an educated, Greek-speaking elite during the peak of the Roman Empire. It reflects the period’s intellectual endeavor to synthesize Greek cultural heritage with Roman political power, presenting moral and political exemplars for contemplation. The text has been transmitted complete and without interruption from antiquity through medieval manuscripts into modern critical editions. As part of the profoundly influential Parallel Lives, this comparison has contributed significantly to Western political thought concerning state founding, models of leadership, and the intricate relationship between religious authority and civic order.
 
 ## Text
 

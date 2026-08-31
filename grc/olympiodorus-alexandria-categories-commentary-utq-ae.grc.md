@@ -5,6 +5,7 @@ author: Olympiodorus the Younger of Alexandria
 eul_wid: utq-ae
 eul_aid: utq
 canonical: "https://eulogikon.org/works/olympiodorus-alexandria-categories-commentary-utq-ae"
+lang: grc
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Olympiodorus the Younger of Alexandria
 
 **eul_wid:** `utq-ae` · [HTML page](https://eulogikon.org/works/olympiodorus-alexandria-categories-commentary-utq-ae)
-
-Olympiodorus the Younger of Alexandria’s Commentary on Aristotle's Categories is a sixth-century philosophical treatise composed as a series of 123 lectures. Written in Greek, it provides a detailed, line-by-line exegesis of Aristotle’s foundational logical work, systematically addressing perennial interpretive questions such as whether the Categories pertains primarily to words, concepts, or things. The commentary also explores Aristotle’s theory of substance and incorporates pedagogical summaries and reviews, reflecting its origin as lecture notes for students in the Alexandrian school.
-
-Produced during the final era of pagan Neoplatonic instruction under Christian Byzantine governance, the work represents a standard preparatory text within the Neoplatonic curriculum, where Aristotle’s logic was studied as an introduction to the higher philosophy of Plato. Olympiodorus, as a teacher, is generally considered to have maintained a religiously neutral stance in his pedagogy to ensure the school’s survival, and his commentary explicitly aims to harmonize Aristotelian and Platonic thought. The complete text has survived through medieval manuscript transmission and is available in modern critical editions. It served a crucial role in transmitting the late antique philosophical curriculum to the Byzantine, Arabic, and Latin scholarly traditions of the Middle Ages.
 
 ## Text
 

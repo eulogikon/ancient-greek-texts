@@ -5,6 +5,7 @@ author: Arrian of Nicomedia
 eul_wid: pcs-ah
 eul_aid: pcs
 canonical: "https://eulogikon.org/works/arrian-nicomedia-letter-lucius-gellius-pcs-ah"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Arrian of Nicomedia
 
 **eul_wid:** `pcs-ah` · [HTML page](https://eulogikon.org/works/arrian-nicomedia-letter-lucius-gellius-pcs-ah)
-
-The Letter to Lucius Gellius is a brief prose epistle composed in Attic Greek by the Roman historian and official Arrian of Nicomedia, most likely written between 130 and 140 CE. It functions as a philosophical protreptic, or exhortation, addressed to the Roman senator Lucius Gellius, urging him to engage with the teachings of the Stoic philosopher Epictetus. The letter serves as the formal preface to Arrian’s larger editorial project, which comprises the Discourses and the Handbook of Epictetus. In it, Arrian commends the philosopher’s wisdom while carefully disclaiming any authorial role for himself, presenting his work instead as that of a faithful scribe who recorded Epictetus’s spoken words to preserve their substance and directness. He stresses the practical, moral purpose of the teachings, valuing their capacity to improve the listener’s character over any literary polish. The letter is a significant document of the Second Sophistic period, crafted to authenticate Arrian’s subsequent writings and to present them as a reliable record for the educated Roman elite. The text survives in full, transmitted as the preface within the medieval manuscript tradition of the Discourses of Epictetus. Although the Discourses originally consisted of eight books, only four remain extant; the prefatory letter, however, has been consistently preserved alongside them.
 
 ## Text
 

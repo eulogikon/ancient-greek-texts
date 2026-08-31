@@ -5,6 +5,7 @@ author: Pseudo-Galen
 eul_wid: tqu-aa
 eul_aid: tqu
 canonical: "https://eulogikon.org/works/pseudo-galen-urine-tqu-aa"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Pseudo-Galen
 
 **eul_wid:** `tqu-aa` · [HTML page](https://eulogikon.org/works/pseudo-galen-urine-tqu-aa)
-
-On Urine is a concise medical treatise on diagnostic uroscopy, systematically correlating the visual characteristics of urine with a patient's health and prognosis. Though pseudonymously attributed to Hippocrates, it is the work of an anonymous author and forms part of the wider Hippocratic Corpus. The text comprises twenty passages that methodically examine urine as a diagnostic tool, describing its physical properties—such as color, consistency, and the nature of any sediments—and interpreting their clinical significance. These observations are framed within the empirical and humoral traditions of Hippocratic medicine, linking specific urinary signs to predictions about the duration and severity of disease.
-
-The treatise survives through its inclusion in the Hippocratic Corpus and is preserved in modern critical editions. Its pseudo-Hippocratic authorship was recognized in antiquity by authorities such as Galen, yet its practical utility ensured its wide copying and transmission through medieval manuscripts. As an early codification of uroscopic practice, On Urine served as a foundational text, influencing later Byzantine and Islamic medical writers. It provided an authoritative ancient source for the systematic examination of urine, securing the diagnostic method's significant role in the history of medicine for centuries.
 
 ## Text
 

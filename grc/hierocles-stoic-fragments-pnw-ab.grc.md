@@ -5,6 +5,7 @@ author: Hierocles the Stoic
 eul_wid: pnw-ab
 eul_aid: pnw
 canonical: "https://eulogikon.org/works/hierocles-stoic-fragments-pnw-ab"
+lang: grc
 period: Roman
 dialect: "Koine (phi, frg)"
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hierocles the Stoic
 
 **eul_wid:** `pnw-ab` · [HTML page](https://eulogikon.org/works/hierocles-stoic-fragments-pnw-ab)
-
-The Fragments from Suda are five passages attributed to the Stoic philosopher Hierocles, preserved within the 10th-century Byzantine encyclopedia known as the Suda. Extracted from this later source, they represent surviving evidence of Hierocles’s ethical thought, likely originating from a larger, now lost, treatise. The fragments focus on core Stoic ethical theory, particularly the concept of oikeiōsis, or natural affiliation. They primarily address Stoic ethical doctrine, with one significant passage containing the famous “circles of concern” analogy. This model illustrates how natural self-concern rationally expands outward in concentric circles to encompass family, community, and ultimately all humanity, forming the foundation for social ethics and justice. Hierocles’s complete works are lost, and his ideas survive only in fragments quoted by later authors, principally within the Suda and in the commentary on Aristotle’s Enchiridion by the 6th-century Neoplatonist Simplicius. The Suda fragments are thus a crucial source for the Stoic theory of oikeiōsis. These fragments, especially the “circles” analogy, are central to modern scholarly understanding of Stoic social philosophy. They provide a systematic model for how Stoics derived other-regarding virtues and cosmopolitan obligation from a theory of natural self-concern, significantly influencing contemporary interpretations of Hellenistic ethics.
 
 ## Text
 

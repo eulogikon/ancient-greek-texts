@@ -5,6 +5,7 @@ author: Chrysippus of Soli
 eul_wid: kms-aa
 eul_aid: kms
 canonical: "https://eulogikon.org/works/chrysippus-soli-homeric-poems-kms-aa"
+lang: grc
 period: Hellenistic
 dialect: "Koine (phi, frg)"
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Chrysippus of Soli
 
 **eul_wid:** `kms-aa` · [HTML page](https://eulogikon.org/works/chrysippus-soli-homeric-poems-kms-aa)
-
-The Fragments of Chrysippus on Homeric Poems constitutes a modern assemblage of excerpts in which the Stoic philosopher Chrysippus of Soli offers interpretations of Homeric verse. These nine fragments do not survive as an independent work but are preserved within the critical commentaries of later authors, primarily found in Homeric scholia, the biographical writings of Diogenes Laertius, and the skeptical critiques of Sextus Empiricus. The collection exemplifies the Stoic practice of allegorical exegesis, whereby Chrysippus sought to uncover latent philosophical doctrines within epic poetry. He systematically reinterpreted Homer’s mythological narratives and divine characters as expressions of Stoic physics, ethics, and theology. In this framework, the gods become physical principles: Zeus represents the pervasive cosmic reason or logos, while Hera symbolizes passive matter. The fragments also reveal Chrysippus engaging in detailed philological and grammatical analysis, debating points of syntax and word usage with contemporary scholars like Aristarchus to defend Homer’s text against charges of solecism or error. The original context for these remarks is lost; they were likely drawn from Chrysippus’s comprehensive, but no longer extant, treatises. Scholarly assessment views this corpus as a pivotal demonstration of how Stoic philosophers appropriated traditional Greek poetry, arguing that Homer possessed an intuitive, pre-philosophical understanding of cosmic order and human psychology. This allegorical method of reading poetic texts proved profoundly influential, providing a model for subsequent philosophical and religious hermeneutics in the ancient world.
 
 ## Text
 

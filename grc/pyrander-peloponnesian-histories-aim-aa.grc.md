@@ -5,6 +5,7 @@ author: Pyrander the Historian
 eul_wid: aim-aa
 eul_aid: aim
 canonical: "https://eulogikon.org/works/pyrander-peloponnesian-histories-aim-aa"
+lang: grc
 period: Archaic
 dialect: Mixed Dialects (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Pyrander the Historian
 
 **eul_wid:** `aim-aa` · [HTML page](https://eulogikon.org/works/pyrander-peloponnesian-histories-aim-aa)
-
-The Peloponnesian Histories of Pyrander the Historian is a lost work of Greek historiography, known only through its title and a handful of surviving fragments. These fragments, preserved by later authors such as Plutarch, Tzetzes, and an anonymous biographer of Homer, indicate the work comprised at least four books. The scant references suggest its content spanned both mythical and historical periods, touching upon events from the aftermath of the Trojan War, such as the vengeance of Orestes, to the genealogical claims of historical figures like Olympias, the mother of Alexander the Great. The title implies a primary focus on the history of the Peloponnesian region, but the precise chronological scope and narrative structure of the work are irrecoverable. Its transmission is entirely dependent on these incidental quotations; no independent manuscript tradition exists. While the work’s historiographical value and methodology cannot be assessed due to its extremely fragmentary state, it remains a attested, albeit shadowy, component of the broader ancient Greek historical tradition, representing one of many local histories that have not survived to the present day.
 
 ## Text
 

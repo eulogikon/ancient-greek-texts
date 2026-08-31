@@ -5,6 +5,7 @@ author: Galen of Pergamon
 eul_wid: qmm-eb
 eul_aid: qmm
 canonical: "https://eulogikon.org/works/galen-pergamon-customs-qmm-eb"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Galen of Pergamon
 
 **eul_wid:** `qmm-eb` · [HTML page](https://eulogikon.org/works/galen-pergamon-customs-qmm-eb)
-
-_On Customs_ is a lost ethical treatise by the physician and philosopher Galen of Pergamon. The work is known only through a summary in the ninth-century _Bibliotheca_ of the patriarch Photius, which records that it consisted of twenty-five chapters exploring character and moral habits. This treatise represents a significant component of Galen’s broader philosophical project to apply a diagnostic, natural-philosophical approach to the study of ethics, likely connecting the formation of character to his physiological and psychological theories concerning the soul and bodily mixtures. Based on its title and the themes of Galen’s surviving ethical works, the treatise almost certainly examined the development of character and ingrained habits, the complex relationship between innate nature, acquired custom, and rational instruction in moral education, and the diagnosis and correction of flawed character traits. Such analysis would have been consistent with Galen’s medical thought, potentially linking enduring dispositions to his theories on the humors and the balance of the soul’s faculties. The text itself does not survive, and Photius’s summary remains the sole witness to its structure and existence; no direct fragments have been identified in later literature. It appears not to have survived the manuscript transmission that preserved Galen’s more technical medical works. While the lost treatise exerted no direct influence on later ethical thought, its record by Photius confirms the considerable scope of Galen’s ethical writings. It underscores his serious and systematic engagement with practical philosophy as a complement to his medical practice, aligning with the themes found in his extant works such as _On the Passions and Errors of the Soul_.
 
 ## Text
 

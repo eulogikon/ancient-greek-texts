@@ -5,6 +5,7 @@ author: Gorgias of Athens
 eul_wid: dne-aa
 eul_aid: dne
 canonical: "https://eulogikon.org/works/gorgias-athens-courtesans-dne-aa"
+lang: grc
 period: Roman
 dialect: Koine
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Gorgias of Athens
 
 **eul_wid:** `dne-aa` · [HTML page](https://eulogikon.org/works/gorgias-athens-courtesans-dne-aa)
-
-_On Athenian Courtesans_, also known by the alternative title _Apospasmata_ or "Extracts," is a lost prose work attributed to Gorgias of Athens, a minor author distinct from the famous sophist Gorgias of Leontini. Classified within the domain of historical biography, the work focused exclusively on the lives of notable Athenian _hetairai_, or courtesans. No direct fragments of the text survive; knowledge of its existence and content derives entirely from later bibliographic references, most notably its listing in the tenth-century Byzantine encyclopedia known as the _Suda_, which also records its alternative title. The work presumably contained biographical anecdotes detailing the social roles, private lives, witticisms, and influential associations of these women with prominent Athenian figures, offering broader observations on Athenian social history and morals. Its significance lies primarily in its attestation as an example of a specific Hellenistic biographical subgenre dedicated to cataloging courtesans, illustrating the range of ancient historical writing and a scholarly interest in anecdotal social history.
 
 ## Text
 

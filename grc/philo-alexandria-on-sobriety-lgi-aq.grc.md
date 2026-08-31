@@ -5,6 +5,7 @@ author: Philo of Alexandria
 eul_wid: lgi-aq
 eul_aid: lgi
 canonical: "https://eulogikon.org/works/philo-alexandria-on-sobriety-lgi-aq"
+lang: grc
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philo of Alexandria
 
 **eul_wid:** `lgi-aq` · [HTML page](https://eulogikon.org/works/philo-alexandria-on-sobriety-lgi-aq)
-
-The Works of Philo of Alexandria constitute a corpus of approximately fifty to fifty-six treatises composed in Koine Greek during the early Roman Empire, around 20 BCE to 50 CE. Philo, a Jewish philosopher from Alexandria, authored extensive philosophical commentaries on the Jewish Scriptures, focusing primarily on the Pentateuch. His writings are conventionally organized into three major series. The most voluminous is the Allegorical Commentary, a detailed exegetical work on the Book of Genesis that interprets biblical narratives as symbolic lessons on the soul's moral and intellectual progress. A second group, the Exposition of the Law, provides a more systematic presentation of Mosaic legislation and the lives of the patriarchs. A third category includes historical and apologetic works, such as Against Flaccus, which defend the political rights and character of the Jewish community within the Roman Empire.
-
-Philo's foundational hermeneutical method was allegorical exegesis, through which he interpreted the biblical text by applying concepts from Middle Platonic and Stoic philosophy. This approach is widely understood as a sophisticated endeavor to articulate Jewish religious tradition within the dominant intellectual framework of Hellenistic culture. His dual aim was to educate his fellow Alexandrian Jews and to demonstrate to a Greco-Roman audience that Mosaic law was inherently rational and philosophically superior. Central themes permeating his work include the absolute transcendence and unknowability of God, the mediating role of the Logos or Divine Reason, and the soul's potential ascent from sensory bondage toward virtue and the contemplation of the divine.
-
-The survival of Philo's entire corpus is attributable not to Jewish scribal tradition but to early Christian copyists, who found his philosophical treatment of Scripture profoundly useful for their own theological projects. While many treatises survive in complete Greek manuscripts, others are extant only through ancient Armenian translations or fragmentary Latin versions. His pioneering synthesis of Greek philosophical concepts with biblical interpretation exercised a decisive influence on the development of early Christian thought, particularly on figures such as Clement of Alexandria and Origen.
 
 ## Text
 

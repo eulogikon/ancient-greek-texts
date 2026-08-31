@@ -5,6 +5,7 @@ author: Phocylides of Miletus
 eul_wid: bdg-aa
 eul_aid: bdg
 canonical: "https://eulogikon.org/works/phocylides-miletus-sentences-bdg-aa"
+lang: grc
 period: Archaic
 dialect: Ionic Elegiac
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Phocylides of Miletus
 
 **eul_wid:** `bdg-aa` · [HTML page](https://eulogikon.org/works/phocylides-miletus-sentences-bdg-aa)
-
-The Sentences is a collection of moralizing maxims composed in Ionic Greek verse by the archaic poet Phocylides of Miletus, who was active in the mid-sixth century BCE. The work consists of short, pithy lines offering practical advice on living well, often introduced by the signature phrase “And this too of Phocylides.” Its content is secular and pragmatic, emphasizing moderation, justice, wise household management, and the importance of a good reputation within the civic community. Approximately 44 fragments survive, preserved not in a continuous manuscript but through quotations by later authors such as Stobaeus and Aristotle. The work belongs to a tradition of wisdom literature aimed at educating the aristocratic youth of the flourishing Ionian Greek world, serving a didactic purpose by providing memorable guidance for personal conduct and civic life. In antiquity, Phocylides was highly regarded and often paired with the poet Theognis. It is important to distinguish these authentic archaic fragments from a later, pseudonymous Jewish or Christian poem falsely attributed to him during the Hellenistic or Roman period.
 
 ## Text
 

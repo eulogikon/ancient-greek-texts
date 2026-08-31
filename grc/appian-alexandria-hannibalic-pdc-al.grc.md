@@ -5,6 +5,7 @@ author: Appian of Alexandria
 eul_wid: pdc-al
 eul_aid: pdc
 canonical: "https://eulogikon.org/works/appian-alexandria-hannibalic-pdc-al"
+lang: grc
 period: Roman
 dialect: Koine
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Appian of Alexandria
 
 **eul_wid:** `pdc-al` · [HTML page](https://eulogikon.org/works/appian-alexandria-hannibalic-pdc-al)
-
-The Hannibalic is a historical monograph by Appian of Alexandria, composed in Greek during the mid-2nd century CE as a dedicated book within his larger Roman History. Appian’s work eschews a strict chronological framework, instead organizing its material ethnographically by Rome’s conflicts with various nations. This volume focuses exclusively on the Second Punic War, chronicling the sixteen-year campaign of the Carthaginian general Hannibal Barca from his invasion of Italy from Spain to his eventual expulsion by the Romans. The narrative, comprising roughly two hundred sections, is characterized by a dramatic and flowing prose style. The text survives in its entirety through the manuscript tradition of Appian’s history, preserved chiefly in Byzantine copies dating from the 10th and 11th centuries. Modern scholarship regards the Hannibalic as a significant source for the conflict, offering a continuous narrative intended for a Greek-speaking audience under Roman dominion. While its historical reliability is sometimes questioned in comparison to earlier sources, the work is valued for its cohesive presentation and for preserving certain details and perspectives on Rome’s existential struggle that are not found in other major accounts. It serves to illustrate the dramatic challenges Rome overcame in its ascent to imperial power.
 
 ## Text
 

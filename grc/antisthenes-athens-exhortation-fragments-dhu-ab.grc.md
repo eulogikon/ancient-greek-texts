@@ -5,6 +5,7 @@ author: Antisthenes of Athens II
 eul_wid: dhu-ab
 eul_aid: dhu
 canonical: "https://eulogikon.org/works/antisthenes-athens-exhortation-fragments-dhu-ab"
+lang: grc
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Antisthenes of Athens II
 
 **eul_wid:** `dhu-ab` · [HTML page](https://eulogikon.org/works/antisthenes-athens-exhortation-fragments-dhu-ab)
-
-The Fragments on Exhortation is a lost philosophical work by Antisthenes of Athens, a direct follower of Socrates active in the late 5th and early 4th centuries BCE. Known only through scattered quotations preserved by later grammarians and commentators, the text appears to have been a collection of protreptic or hortatory arguments. The extant fragments suggest it employed vivid, sometimes rustic metaphors to advocate for a life of virtue and self-sufficiency. One fragment contrasts force-fed piglets with a more natural state of being, while others mention a specific type of narrow-necked drinking vessel called a bombylios, using it as a symbolic illustration of moderation or measured consumption. The work’s ethical core is consistent with Antisthenes’ known philosophy, emphasizing the intrinsic value of labor and endurance. This is exemplified in a reference, noted by later authors, where Antisthenes upheld the toil of the heroes Heracles and Cyrus as paradigmatic goods, drawing one example from Greek myth and the other from Persian history. The fragments, though meager, indicate a style characteristic of early Socratic literature, using concrete imagery and cultural exempla to exhort listeners toward a life defined by practical wisdom and moral strength.
 
 ## Text
 

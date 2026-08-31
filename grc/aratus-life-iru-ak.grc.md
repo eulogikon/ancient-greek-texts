@@ -1,10 +1,11 @@
 ---
 title: Life of Aratus
 title_greek: Βίος Ἀράτου
-author: "Aratus Lives "
+author: Aratus Lives
 eul_wid: iru-ak
 eul_aid: iru
 canonical: "https://eulogikon.org/works/aratus-life-iru-ak"
+lang: grc
 period: Hellenistic
 dialect: Mixed Dialects
 domain: Biography
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Βίος Ἀράτου*
 
-**Author:** Aratus Lives 
+**Author:** Aratus Lives
 
 **eul_wid:** `iru-ak` · [HTML page](https://eulogikon.org/works/aratus-life-iru-ak)
-
-The Life of Aratus is a concise ancient Greek biography of the Hellenistic poet Aratus, composed in prose and surviving in two brief passages. Though transmitted within the manuscript tradition of Plutarch's Moralia, it is considered spurious by modern scholarship and is thus attributed to an anonymous author, often designated Pseudo-Plutarch. The work was likely compiled during the Roman Imperial period, between the 1st and 2nd centuries CE. It outlines the poet's origins, noting his descent from a distinguished family in Soli, Cilicia, and places him chronologically in the court of King Antigonus II Gonatas, who commissioned his famous astronomical poem, the Phaenomena. The biography situates Aratus within a network of contemporary intellectuals, including the poets Alexander of Aetolia and Philetas, the philosopher Dionysius, and the mathematician Nicander, with whom a tradition claims he exchanged works. It also lists his known writings, emphasizing the Phaenomena and noting disputed authorship for one text. Functioning as a compact scholarly reference for an educated, Greek-speaking audience, the life draws upon earlier Hellenistic sources that blend historical detail with anecdote. Despite its brevity, it has served as a foundational source for later understandings of the poet's life and the genesis of his most significant work.
 
 ## Text
 

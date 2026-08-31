@@ -5,6 +5,7 @@ author: Theseus the Historian
 eul_wid: jmy-aa
 eul_aid: jmy
 canonical: "https://eulogikon.org/works/theseus-corinthian-history-jmy-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Theseus the Historian
 
 **eul_wid:** `jmy-aa` · [HTML page](https://eulogikon.org/works/theseus-corinthian-history-jmy-aa)
-
-The Fragments on Corinthian History is a lost local history of Corinth attributed to an otherwise unknown author named Theseus the Historian. The work survives only through a handful of quotations preserved in later ancient sources, primarily the Byzantine scholar Tzetzes, the etymological lexicon known as the Etymologicum Magnum, and the anthologist Stobaeus. These fragments indicate the original title was likely Korinthiaka, or Corinthian History. As a work of Corinthian horography, it would have followed the conventional structure of such local histories, treating the city's foundation myths, political narrative, religious institutions, and topography. The extant fragments offer glimpses into this broader scope, recounting an aetiological myth for the Boeotian city of Arne and narrating an episode from the Persian Wars involving Spartan volunteers. The work exists today solely through this indirect transmission, with its fragments collected in modern scholarly editions. It represents a typical example of the now-lost local histories that served as vital sources for later geographers and historians, and its remains contribute valuable, if fragmentary, evidence for the reconstruction of Corinthian tradition and the study of Greek historiography.
 
 ## Text
 

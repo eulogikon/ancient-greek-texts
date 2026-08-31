@@ -1,10 +1,11 @@
 ---
 title: "Hermes Trismegistus to His Son Tat, Secret Discourse-Rebirth"
 title_greek: Πρὸς τὸν υἱὸν Τὰτ ἐν ὄρει λόγος ἀπόκρυφος περὶ
-author: "Hermetica "
+author: Hermetica
 eul_wid: oqk-aa
 eul_aid: oqk
 canonical: "https://eulogikon.org/works/hermetica-to-tat-rebirth-oqk-aa"
+lang: grc
 period: Roman
 dialect: Philosophical Koine
 domain: Philosophy
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πρὸς τὸν υἱὸν Τὰτ ἐν ὄρει λόγος ἀπόκρυφος περὶ*
 
-**Author:** Hermetica 
+**Author:** Hermetica
 
 **eul_wid:** `oqk-aa` · [HTML page](https://eulogikon.org/works/hermetica-to-tat-rebirth-oqk-aa)
-
-"Hermes Trismegistus to His Son Tat, Secret Discourse on Rebirth" is a philosophical and theological dialogue attributed to the legendary sage Hermes Trismegistus, a syncretic figure combining Greek and Egyptian traditions. Likely composed by anonymous authors in Roman Egypt between the 1st and 3rd centuries CE, the work is written in Koine Greek and constitutes the thirteenth treatise of the larger Corpus Hermeticum. Structured as a dialogue of twenty-two passages, it details the disciple Tat's quest for spiritual transformation. Having purified himself, Tat asks his divine teacher Hermes for instruction on rebirth, or palingenesia. Hermes guides him through an inward, visionary experience in which Tat perceives a divine light, leading to his mystical regeneration and the revelation of his true, immortal self. Modern scholars interpret the work as an esoteric guide intended for a closed circle of initiates, blending Platonic, Stoic, and Egyptian ideas to present salvational knowledge, or gnosis, as the means to transcend the material world and return to a divine, intellectual realm. The complete text survives as part of the Corpus Hermeticum, transmitted primarily through Byzantine manuscripts such as the 14th-century Codex Parisinus Graecus 1220. Lost to medieval Western Europe, these texts were rediscovered in the 15th century. Their translation ignited the Renaissance, where they were mistakenly believed to contain an ancient theology predating Christianity, profoundly influencing subsequent philosophy, magic, and esoteric thought.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Homer Commentary
 eul_wid: vta-ae
 eul_aid: vta
 canonical: "https://eulogikon.org/works/homer-comm-scholia-vta-ae"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Grammar
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Homer Commentary
 
 **eul_wid:** `vta-ae` · [HTML page](https://eulogikon.org/works/homer-comm-scholia-vta-ae)
-
-The Scholia to the Iliad (Σχόλια εἰς Ἰλιάδα) is a massive, multi-layered compilation of ancient and medieval commentary on Homer’s epic. It is not a single work by one author but an anonymous collection of notes accumulated over nearly a thousand years, from the Hellenistic period through the Byzantine era. Written in Greek prose, these explanatory glosses and comments were written in the margins and between the lines of Iliad manuscripts.
-
-The scholia cover an immense range of topics, from simple explanations of obscure words to advanced literary criticism. They preserve the work of famous scholars from the great libraries of Alexandria and Pergamum, who debated textual variants, analyzed Homeric grammar, and provided mythological background. Modern scholars view this compilation as essential for understanding how the Iliad was studied, taught, and interpreted in antiquity. The scholia offer a direct window into the birth of Western textual criticism and philology.
-
-The text survives primarily through medieval manuscripts of the Iliad, most notably from the 9th century CE onward. The transmission is fragmentary in nature, as the surviving notes are condensed summaries of much longer, original commentaries. The compilation process layered contributions from different eras, sometimes presenting contradictory interpretations side-by-side.
 
 ## Text
 

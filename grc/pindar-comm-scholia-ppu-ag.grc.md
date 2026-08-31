@@ -5,6 +5,7 @@ author: Pindar Commentary
 eul_wid: ppu-ag
 eul_aid: ppu
 canonical: "https://eulogikon.org/works/pindar-comm-scholia-ppu-ag"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Grammar
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Pindar Commentary
 
 **eul_wid:** `ppu-ag` · [HTML page](https://eulogikon.org/works/pindar-comm-scholia-ppu-ag)
-
-The Scholia Vetera to Pindar constitute a vast and heterogeneous corpus of ancient and medieval explanatory notes on the victory odes of the Greek lyric poet Pindar. Compiled anonymously over many centuries, from the Hellenistic period beginning in the third century BCE through the Byzantine era, these marginal and interlinear annotations were designed to aid students and scholars in navigating Pindar’s notoriously dense and allusive verse. The scholia, written in Greek prose and arranged to correspond with specific passages of the odes, address a wide spectrum of interpretive challenges. They elucidate mythological references, historical contexts, geographical details, religious customs, and obscure points of vocabulary, grammar, and meter.
-
-The text is a palimpsest of scholarly activity, preserving layers of commentary from distinct eras. A foundational element derives from the detailed exegetical work of the great Alexandrian grammarians and critics, such as Aristarchus and Didymus. Their original, expansive treatises were subsequently abridged, excerpted, and amalgamated with notes from later pedagogical traditions as they were transcribed into the margins of medieval manuscripts. Consequently, the surviving scholia are fragmentary, representing a distilled and often indirect transmission of classical scholarship. For modern philologists, the collection is an indispensable though complex resource. It provides a unique window into over a millennium of Pindaric reception and interpretation, while also preserving numerous quotations from historical and poetic works that are otherwise lost.
 
 ## Text
 

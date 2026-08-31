@@ -5,8 +5,9 @@ author: Thessalus of Cos
 eul_wid: ece-ad
 eul_aid: ece
 canonical: "https://eulogikon.org/works/thessalus-cos-virtues-herbs-ece-ad"
-period: Classical
-dialect: Ionic
+lang: grc
+period: Roman
+dialect: Koine
 domain: Science
 format: Treatise
 license: "https://creativecommons.org/publicdomain/mark/1.0/"
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Thessalus of Cos
 
 **eul_wid:** `ece-ad` · [HTML page](https://eulogikon.org/works/thessalus-cos-virtues-herbs-ece-ad)
-
-On the Virtues of Herbs is a Greek medical treatise from the 1st century CE attributed to the physician Thessalus of Cos. The work systematically details the healing properties and therapeutic applications of numerous plants. Its structure is organized into eleven distinct passages. A defining feature of the text is its author's claim that the herbal knowledge contained within was not acquired through empirical investigation but was directly revealed to him by the god Asclepius. Modern scholarship interprets this assertion as a rhetorical strategy by Thessalus to advance his own medical methodology and to critique the established medical traditions of his era, positioning divine revelation as an unimpeachable source of authority. The treatise exemplifies a broader trend in the Roman Imperial period that combined practical botanical lore with elements of mystical and occult science. It survives as part of a corpus of works ascribed to Thessalus, though scholars generally consider these texts to be later compilations by his followers which nonetheless reflect his core doctrines.
 
 ## Text
 

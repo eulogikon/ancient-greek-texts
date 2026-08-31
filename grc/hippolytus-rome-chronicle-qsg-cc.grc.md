@@ -5,6 +5,7 @@ author: Hippolytus of Rome
 eul_wid: qsg-cc
 eul_aid: qsg
 canonical: "https://eulogikon.org/works/hippolytus-rome-chronicle-qsg-cc"
+lang: grc
 period: Roman
 dialect: Christian Koine
 domain: Theology
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hippolytus of Rome
 
 **eul_wid:** `qsg-cc` · [HTML page](https://eulogikon.org/works/hippolytus-rome-chronicle-qsg-cc)
-
-The Chronicle is a universal history composed in Koine Greek by Hippolytus of Rome around 234 CE. This early Christian treatise synchronizes biblical events with those from Greek and Roman history and mythology, constructing a unified timeline from the creation of the world to the author's own era. Structured as a series of entries, it details the division of the earth among the sons of Noah, the origins of nations, and the histories of their cities and rulers. It systematically catalogues significant islands, rivers, mountains, and the succession of judges, kings, and high priests in Judea. The work also includes computational tables for calculating the date of Easter, tracing its observance from Moses onward, and integrates the chronologies of Persian, Macedonian, and Roman rulers, as well as the timeline of the Olympic Games. Modern scholarship interprets the Chronicle as a tool for theological argument, designed to settle contemporary debates about Easter and to demonstrate the overarching providence of the Christian God throughout all of world history.
-
-The original Greek text of the Chronicle does not survive in its entirety. It is known today through fragments, including a significant portion inscribed on a statue discovered in Rome, and through later translations into Armenian and Latin. The variations between these versions suggest the text underwent revision after Hippolytus's death. Despite its complex transmission, the Chronicle proved highly influential, providing a foundational model for later Christian historians such as Eusebius of Caesarea and significantly shaping the development of medieval chronography.
 
 ## Text
 

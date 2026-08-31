@@ -5,6 +5,7 @@ author: Manetho Sebennytensis
 eul_wid: imk-aa
 eul_aid: imk
 canonical: "https://eulogikon.org/works/manetho-sebennytensis-effects-imk-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: Science
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Manetho Sebennytensis
 
 **eul_wid:** `imk-aa` · [HTML page](https://eulogikon.org/works/manetho-sebennytensis-effects-imk-aa)
-
-The Apotelesmata, also known as the Apotelesmatika, is an astrological treatise composed in Greek hexameter verse and attributed to Manetho of Sebennytos, an Egyptian priest of the third century BCE. This didactic work systematically integrates Egyptian astrological doctrines, particularly concerning zodiacal signs, planetary influences, and the Egyptian decan star-groups, within the framework of Greek epic poetry. Organized into six books comprising 170 sections, the treatise offers detailed instructions for constructing horoscopes and interpreting celestial phenomena for purposes ranging from natal astrology to weather prediction and agricultural planning.
-
-Scholarly analysis positions the work as a deliberate synthesis of cultural traditions, likely composed under the patronage of Ptolemy II Philadelphus to translate Egyptian priestly knowledge for a Hellenistic audience. The text's transmission history is intricate; while a continuous poetic version is preserved in medieval manuscripts, questions regarding its authorship and connection to the historical Manetho remain unresolved. Some researchers propose a later date of composition in the second or third century CE, whereas others identify a genuine Ptolemaic-era core subsequently expanded. Regardless of these philological debates, the Apotelesmata exerted considerable influence as a principal vehicle for the transmission of Egyptian astrological concepts into the broader Greco-Roman world.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Archestratus of Gela
 eul_wid: gtu-aa
 eul_aid: gtu
 canonical: "https://eulogikon.org/works/archestratus-gela-fragments-gtu-aa"
+lang: grc
 period: Classical
 dialect: Epic (Homeric) (frg)
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Archestratus of Gela
 
 **eul_wid:** `gtu-aa` · [HTML page](https://eulogikon.org/works/archestratus-gela-fragments-gtu-aa)
-
-The Fragments and Titles constitute the extant portions of the Hedypatheia, or "Life of Luxury," a didactic poem composed in epic hexameter by the mid-4th century BCE Greek poet Archestratus of Gela. Preserved primarily through quotations in Athenaeus's The Learned Banqueters, the 302 surviving fragments outline a gourmet's guide to the Mediterranean world. The poem instructs its reader on the geographic origins of the finest local delicacies—with particular emphasis on fish—and advises on optimal methods of preparation. Its structure is interpreted as a systematic geographic tour, mapping the Hellenic world through its celebrated culinary specialties. Composed in an era of expanding travel and trade following the Peloponnesian War, the work reflects a growing cosmopolitan appetite for luxury, likely intended for an affluent and educated audience. Archestratus employs a deliberate parody of the elevated style and instructional tone of serious didactic poetry, applying it to the subject of fine dining to create a sustained humorous effect. A recurring gastronomic principle within the fragments is the advocacy for simple cooking techniques meant to highlight the inherent quality of prime ingredients. While the poem's original length and complete organization are lost, the collected fragments offer a vivid window into ancient gastronomy, trade networks, and literary parody.
 
 ## Text
 

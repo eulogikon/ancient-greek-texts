@@ -5,6 +5,7 @@ author: Song of the Sailors
 eul_wid: puk-ab
 eul_aid: puk
 canonical: "https://eulogikon.org/works/song-sailors-sea-nile-puk-ab"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Song of the Sailors
 
 **eul_wid:** `puk-ab` · [HTML page](https://eulogikon.org/works/song-sailors-sea-nile-puk-ab)
-
-The Fragments on Sea and Nile is a poetic work attributed to an author or source known as the Song of the Sailors. It survives only as a single fragmentary passage, a fact indicated by its title and its explicit designation as fragments. The work's preservation likely occurred through indirect transmission, such as being quoted within another, now-lost, text. Its subject matter, as the title suggests, concerns the sea and the Nile River. The extant fragment directly addresses this theme, calling upon sailors and Nile boatmen to declare the comparison between the fertile river and the open sea. While the surviving text is minimal, the work represents a rare example of Greek poetry focusing on the specific hydrological and experiential contrast between the Mediterranean Sea and the Nile, a subject of enduring geographical and cultural fascination in antiquity.
 
 ## Text
 

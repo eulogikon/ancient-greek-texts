@@ -5,6 +5,7 @@ author: Pythocles
 eul_wid: jjc-aa
 eul_aid: jjc
 canonical: "https://eulogikon.org/works/pythocles-italy-fragments-jjc-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Pythocles
 
 **eul_wid:** `jjc-aa` · [HTML page](https://eulogikon.org/works/pythocles-italy-fragments-jjc-aa)
-
-The Fragments on Italy is a lost prose work of historical or geographical nature attributed to the otherwise obscure author Pythocles. It survives only through a handful of brief passages cited by later authors, including Plutarch and Clement of Alexandria. These fragments suggest the work was a multi-volume treatise, with references to its third and fourth books. The content, as indicated by the surviving excerpts, included narratives of historical and religious events in Italy, such as an account of a Roman general, Metellus, making a vow to the goddess Vesta during a conflict with the Poeni and Sicilians. Another fragment mentions a seer named Gaius Julius Nepos. Based on its title and the nature of these citations, the complete work likely addressed the geography of Italian regions and described the customs of indigenous peoples, continuing the Greek historiographical tradition of writing about the western Mediterranean. The text is preserved solely in these fragmentary quotations, and while its direct influence is unmeasurable due to its scant remains, its existence places it within the broader scholarly tradition of Greek sources on Italy that were potentially consulted by later historians and geographers.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Fronto the Rhetorician
 eul_wid: pmi-ac
 eul_aid: pmi
 canonical: "https://eulogikon.org/works/fronto-marcus-caesar-pmi-ac"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Fronto the Rhetorician
 
 **eul_wid:** `pmi-ac` · [HTML page](https://eulogikon.org/works/fronto-marcus-caesar-pmi-ac)
-
-To Marcus Caesar and Each Other is a collection of five rhetorical exercises and model speeches composed in Greek and Latin by the Roman orator Marcus Cornelius Fronto. Written between approximately 139 and 161 CE, these pieces adopt an epistolary form but function primarily as oratorical demonstrations. They were crafted as educational tools for Fronto’s pupil, the future emperor Marcus Aurelius, and for intellectual exchange within the imperial court. The work showcases deliberative and demonstrative orations on themes central to Roman elite life, such as leadership, public duty, and the cultivation of friendship, seamlessly blending personal mentorship with formal instruction in persuasive speech.
-
-Modern scholarship interprets these exercises as exemplars of the advanced rhetorical training essential for Roman statesmen, designed to teach the construction of sophisticated arguments, stylistic elegance, and the art of eloquence considered vital for effective governance. The collection also reflects a significant intellectual dialogue of the period, subtly exploring the comparative value of rhetorical training against the philosophical studies increasingly favored by Marcus Aurelius himself. The text survives as part of Fronto’s larger corpus of letters, which was lost after antiquity and rediscovered in the 19th century. Its primary sources are palimpsest manuscripts, where Fronto’s original text was erased in the 7th century to be written over with other works, resulting in a fragmentary and challenging recovery process. Consequently, only portions of the original collection exist today, with the five passages in this grouping having been painstakingly reconstructed by editors from these damaged manuscripts.
 
 ## Text
 

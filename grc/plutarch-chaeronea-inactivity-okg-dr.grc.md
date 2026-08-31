@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-dr
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-inactivity-okg-dr"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-dr` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-inactivity-okg-dr)
-
-On Inactivity is a philosophical dialogue by Plutarch, composed in Greek around 100 CE. Also known as On Tranquility or On Quiet of Mind, the work is framed as a response to a request from the author's friend Paccius, a Roman statesman, for counsel on attaining peace of mind. It systematically explores the cultivation of mental tranquility, or euthymia, advocating for its achievement through rational self-examination and the moderation of the passions. The dialogue addresses practical ethical concerns, offering guidance on managing ambition, aligning one's desires with attainable realities, and assessing the true value of external goods such as wealth and public reputation. Surviving intact within Plutarch's collected ethical treatises known as the Moralia, the text is preserved through medieval manuscript traditions. Modern scholarship typically interprets the work as a form of philosophical therapy, synthesizing elements of Platonic, Aristotelian, and Stoic thought. It is generally considered to have been intended for the educated Greco-Roman elite of the early Imperial period, providing a rationale for maintaining equanimity amidst the demands of an active public life rather than prescribing a retreat into solitude.
 
 ## Text
 

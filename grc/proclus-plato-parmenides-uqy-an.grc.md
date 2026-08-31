@@ -5,6 +5,7 @@ author: Proclus the Successor
 eul_wid: uqy-an
 eul_aid: uqy
 canonical: "https://eulogikon.org/works/proclus-plato-parmenides-uqy-an"
+lang: grc
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Proclus the Successor
 
 **eul_wid:** `uqy-an` · [HTML page](https://eulogikon.org/works/proclus-plato-parmenides-uqy-an)
-
-On Plato's Parmenides is a philosophical commentary written in the fifth century CE by the Neoplatonist philosopher Proclus. This extensive treatise, composed in Attic Greek, provides a detailed, line-by-line interpretation of Plato's challenging dialogue of the same name. Proclus advances the argument that Plato's text is not a mere logical exercise but a profound theological work that systematically maps the entire structure of reality. In his view, the dialogue reveals the metaphysical process by which all levels of existence, from the highest divine principles down to the material world, emanate from a single, ineffable source he identifies as the One.
-
-Only a portion of Proclus's commentary survives. The extant text covers his analysis from the beginning of Plato's dialogue through the conclusion of its first major hypothesis. The remainder of the work, which would have addressed the subsequent hypotheses, is lost. Modern scholarship suggests the surviving manuscript may derive from lecture notes compiled by Proclus's students rather than representing a polished final draft from the philosopher himself. It was likely intended for advanced students within the Platonic school, functioning both as sophisticated pedagogical material and as an apologetic defense of Platonic philosophy against competing religious and philosophical traditions of late antiquity.
-
-Despite its incomplete state, the commentary exerted considerable influence. Translated into Latin during the Middle Ages, it shaped the thought of major figures such as Nicholas of Cusa, who drew directly upon Proclus's conceptions of the One and the nature of divine transcendence.
 
 ## Text
 

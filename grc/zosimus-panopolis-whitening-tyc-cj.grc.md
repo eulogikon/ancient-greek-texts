@@ -5,6 +5,7 @@ author: Zosimus of Panopolis
 eul_wid: tyc-cj
 eul_aid: tyc
 canonical: "https://eulogikon.org/works/zosimus-panopolis-whitening-tyc-cj"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Zosimus of Panopolis
 
 **eul_wid:** `tyc-cj` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-whitening-tyc-cj)
-
-On Whitening is a fragmentary Greek alchemical treatise attributed to Zosimus of Panopolis, an author active in the late third or early fourth century CE. The work is dedicated to a single, pivotal operation in the alchemical process known as leukōsis, or whitening. This stage represents a purification following an initial blackening and constitutes a critical step toward the perfection of metals, often in the pursuit of creating silver or as part of the broader quest for the philosopher's stone. The surviving text blends practical instructions, likely involving substances such as arsenic or mercury, with philosophical and allegorical commentary. This synthesis reflects the dual character of late antique alchemy as both a technical craft and a spiritual or symbolic pursuit.
-
-The treatise survives only as part of larger collections of Greek alchemical writings preserved in Byzantine manuscripts dating from the tenth to the fifteenth centuries. Modern scholarship interprets the work as a component of Zosimus's endeavor to systematize earlier technical knowledge while infusing it with theological concepts drawn from contemporary Platonist, Stoic, and Gnostic thought. Written ostensibly for fellow practitioners, it aims to convey both the method and the deeper symbolic significance of this key transformative stage. The original length and complete content of the treatise remain unknown, and its boundaries as an independent work are often ambiguous within the manuscript tradition.
 
 ## Text
 

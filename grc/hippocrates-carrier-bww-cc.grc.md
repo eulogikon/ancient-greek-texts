@@ -5,6 +5,7 @@ author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-cc
 eul_aid: bww
 canonical: "https://eulogikon.org/works/hippocrates-carrier-bww-cc"
+lang: grc
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hippocrates and the Hippocratic Corpus
 
 **eul_wid:** `bww-cc` · [HTML page](https://eulogikon.org/works/hippocrates-carrier-bww-cc)
-
-Carrier is a concise medical treatise from the Hippocratic Corpus, a body of ancient Greek medical writings attributed to Hippocrates of Cos and his followers. Composed in Ionic Greek during the fifth or fourth century BCE, the text consists of 37 brief, aphoristic passages. Its primary subject is prognosis, the practice of predicting a patient's survival or death through clinical observation. The physician is directed to assess specific signs in bodily excretions, fever, respiration, and other symptoms to forecast the course of an illness. The title Carrier is interpreted metaphorically, likely referring to the bearer of disease or fate, or possibly to the individual who transports the sick.
-
-The treatise survives intact within the broader Hippocratic manuscript tradition, preserved through Byzantine scribal copies and subsequent translations. Scholars regard Carrier as a practical, pedagogical instrument for physicians. Its terse, memorable style facilitated learning, while its focus on prognosis aimed to help a practitioner establish authority, determine a course of treatment, and guide the expectations of a patient's family. The work exemplifies the empirical, observational method characteristic of Hippocratic medicine and stands as a representative specimen of the diagnostic and prognostic literature that helped establish the foundations of Western medical practice.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Crates the Comic Poet
 eul_wid: dac-aa
 eul_aid: dac
 canonical: "https://eulogikon.org/works/crates-comic-animated-feast-dac-aa"
+lang: grc
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Crates the Comic Poet
 
 **eul_wid:** `dac-aa` · [HTML page](https://eulogikon.org/works/crates-comic-animated-feast-dac-aa)
-
-The Animated Feast, also known as The Savories, is a lost comedy by the Athenian playwright Crates, active in the mid-5th century BCE. Written in Attic Greek verse as a work of Old Comedy, the play survives only in fragments, primarily preserved in the quotations of later grammarians such as Athenaeus. These 93 brief excerpts, valued for their lexical and cultural interest rather than their narrative continuity, preclude a full reconstruction of the plot. The comedy is interpreted by modern scholars as possessing a fantastical, utopian premise in which inanimate objects—foodstuffs, tableware, and other household items—become animated and serve themselves automatically. This conceit creates a world of effortless abundance and leisure, a source of both humor and social imagination. According to Aristotle, Crates was instrumental in shifting Athenian comedy away from harsh personal invective toward more generalized plots and universal scenarios. The Animated Feast stands as a key exemplar of this innovative, plot-driven style, showcasing the imaginative scope of Old Comedy beyond mere satire.
 
 ## Text
 

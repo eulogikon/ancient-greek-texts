@@ -5,6 +5,7 @@ author: Menander of Athens
 eul_wid: hps-as
 eul_aid: hps
 canonical: "https://eulogikon.org/works/menander-athens-doubtful-fragment-hps-as"
+lang: grc
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Menander of Athens
 
 **eul_wid:** `hps-as` · [HTML page](https://eulogikon.org/works/menander-athens-doubtful-fragment-hps-as)
-
-The Doubtful Fragment is a collection of seventeen comic passages attributed to Menander of Athens, the foremost playwright of New Comedy. Its authenticity remains unverified. Menander's work, immensely popular in antiquity, survives today primarily through papyrus discoveries and quotations preserved by later authors; this fragment represents one such contested attribution. As a collection of lines of uncertain origin, its specific narrative content is undefined. In his authentic comedies, Menander typically explored human character and its relationship to fortune, focusing on themes of love, marriage, and family dynamics within domestic settings, often emphasizing the role of chance and ethical conduct.
-
-Menander's complete texts were lost during the medieval manuscript tradition but were later recovered through papyri and quotations in anthologists such as Stobaeus. This fragment belongs to that secondary tradition of potentially spurious attributions. While the fragment itself lacks a confirmed literary influence, any genuine lines within it would contribute to the scholarly understanding of Menander's distinctive style. His work had a profound impact on Roman comedy, substantially shaping the plays of Plautus and Terence and, through them, the subsequent development of the Western comic tradition.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Apollodorus of Damascus
 eul_wid: owo-aa
 eul_aid: owo
 canonical: "https://eulogikon.org/works/apollodorus-damascus-siegecraft-owo-aa"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Apollodorus of Damascus
 
 **eul_wid:** `owo-aa` · [HTML page](https://eulogikon.org/works/apollodorus-damascus-siegecraft-owo-aa)
-
-The Siegecraft is a technical military treatise composed in Greek by Apollodorus of Damascus, the renowned architect and engineer for the Roman emperors Trajan and Hadrian. Written around 100–130 CE and dedicated to Emperor Hadrian, the work serves as a practical manual on the engineering principles of siege warfare. Its 58 sections offer detailed instructions for constructing a range of offensive machines, including scaling ladders, massive mobile siege towers, battering rams, and protective sheds, while also addressing defensive countermeasures against such engines. The text emphasizes applied geometry, mechanics, and precise material specifications for building these devices efficiently in the field.
-
-The original Greek text survives as a series of descriptive passages designed to be accompanied by illustrative diagrams, though the accuracy of these illustrations in extant manuscripts varies. Modern scholarship interprets the work as a compendium of advanced military knowledge from a master architect, likely reflecting techniques employed in contemporary Roman campaigns. Intended for military commanders and engineers, it embodies the Roman emphasis on practical technical expertise. Its significance extended beyond the Greco-Roman world, as it was later translated into both Latin and Arabic, ensuring its transmission through the medieval period as a key source on ancient military technology.
 
 ## Text
 

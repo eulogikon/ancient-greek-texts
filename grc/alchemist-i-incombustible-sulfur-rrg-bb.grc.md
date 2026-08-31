@@ -5,6 +5,7 @@ author: Alchemist I
 eul_wid: rrg-bb
 eul_aid: rrg
 canonical: "https://eulogikon.org/works/alchemist-i-incombustible-sulfur-rrg-bb"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alchemist I
 
 **eul_wid:** `rrg-bb` · [HTML page](https://eulogikon.org/works/alchemist-i-incombustible-sulfur-rrg-bb)
-
-On the Incombustible Sulfur is a brief pseudepigraphical treatise attributed to the anonymous figure known as Alchemist I, whose works are preserved in Byzantine compilations of Greek alchemical writings. The text is a single procedural passage focused on the concept of a divine, incombustible sulfur, a purified and philosophical form of the substance considered fundamental in Greco-Egyptian alchemical theory. The work provides instructions for processing this material, involving grinding with specific reagents, boiling, and testing until it achieves a state impervious to fire. This quality of incombustibility signifies a perfected, stable principle, central to alchemical ideas of transmutation. The treatise survives within the corpus of Greek alchemical texts found in medieval Byzantine manuscripts, notably the tenth- or eleventh-century Marcianus graecus 299 and the thirteenth-century Parisinus graecus 2327. While minor and fragmentary, its thematic concern with a perfected sulfur principle contributes to the broader alchemical theory of primal components, a concept that remained central in the later development of Islamic and Latin alchemical thought.
 
 ## Text
 

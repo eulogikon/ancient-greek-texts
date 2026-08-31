@@ -5,6 +5,7 @@ author: Anonymous Commentary on Aristotle
 eul_wid: xum-aa
 eul_aid: xum
 canonical: "https://eulogikon.org/works/anon-comm-aristotle-first-book-posterior-analytics-xum-aa"
+lang: grc
 period: Uncertain
 license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ---

@@ -5,6 +5,7 @@ author: Medical Writers Anonymous
 eul_wid: umi-am
 eul_aid: umi
 canonical: "https://eulogikon.org/works/med-writers-anon-generation-seed-umi-am"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Medical Writers Anonymous
 
 **eul_wid:** `umi-am` · [HTML page](https://eulogikon.org/works/med-writers-anon-generation-seed-umi-am)
-
-_On Generation and Seed_ is an anonymous medical treatise from the Hippocratic Corpus that addresses human reproduction, embryology, and the nature of semen across fifteen passages. The work critiques rival theories, particularly those of Diogenes of Apollonia and Hippon of Samos, while advancing its own physiological explanations. It argues against the idea that semen originates from the brain or spinal marrow, positing instead that it is produced from blood through a process of concoction within the vessels. Other key topics include the respective roles of male and female contributions to generation, embryonic development, and the causes of sterility. The text survives as part of the medieval manuscript tradition transmitting the Hippocratic Corpus and is considered an authentic, ancient component of that collection rather than a later forgery, preserved complete in modern critical editions. The treatise represents a critical stage in the development of naturalistic biological explanation, moving from speculative philosophy toward systematic physiological hypothesis. Its arguments contributed to later biological thought, influencing subsequent engagements on the subject of generation by Aristotle and Galen.
 
 ## Text
 

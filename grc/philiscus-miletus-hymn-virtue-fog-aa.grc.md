@@ -1,10 +1,11 @@
 ---
 title: Hymn to Lysias on Virtue
 title_greek: Ἀπόσπασμα
-author: "Philiscus of Miletus "
+author: Philiscus of Miletus
 eul_wid: fog-aa
 eul_aid: fog
 canonical: "https://eulogikon.org/works/philiscus-miletus-hymn-virtue-fog-aa"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀπόσπασμα*
 
-**Author:** Philiscus of Miletus 
+**Author:** Philiscus of Miletus
 
 **eul_wid:** `fog-aa` · [HTML page](https://eulogikon.org/works/philiscus-miletus-hymn-virtue-fog-aa)
-
-The Hymn to Lysias on Virtue is a rhetorical encomium by the 4th-century CE sophist Philiscus of Miletus, surviving only in two fragmentary quotations preserved within Philostratus’s Lives of the Sophists. Philostratus cites these excerpts as illustrative examples of Philiscus’s oratorical style. The first fragment extols the virtue of the classical Athenian orator Lysias, characterizing it as simple, plain, and unadorned. The second employs a vivid metaphor, likening the effect of Lysias’s eloquence to being struck by a ray of the sun, thereby illustrating the transformative power of effective oratory. The work promotes a rhetorical aesthetic that prizes clarity and restraint over elaborate ornamentation. As a composition entirely lost outside of Philostratus’s biographical compilation, the hymn has no independent manuscript tradition. Its significance lies in its embodiment of the practices of the Later Sophistic, wherein rhetoricians displayed their cultivated learning by composing formal praises of canonical Attic models. It thus serves as valuable evidence for the ongoing engagement of Imperial-era rhetoricians with the classical oratorical canon and for the stylistic judgments of Philostratus himself.
 
 ## Text
 

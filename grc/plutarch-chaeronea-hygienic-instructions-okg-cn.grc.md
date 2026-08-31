@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-cn
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-hygienic-instructions-okg-cn"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-cn` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-hygienic-instructions-okg-cn)
-
-Hygienic Instructions, also known as Precepts about Health, is a concise prose treatise by the Greek philosopher Plutarch, composed in the early second century CE. Presented as a collection of 93 aphoristic recommendations, the work offers practical guidance for maintaining physical well-being through the regulation of daily habits. Its advice encompasses diet, exercise, sleep, bathing, and mental equilibrium, reflecting the classical conviction in the interdependence of physical and psychological health. The tone is pragmatic and preventive, consistently advocating for moderation, simplicity, and a natural regimen over complex medical intervention.
-
-Though framed as hygienic counsel, the treatise is fundamentally a work of popular philosophy. It aims to instruct an educated, elite readership on integrating a disciplined personal regimen into the broader pursuit of a virtuous and flourishing life. The recommendations eschew technical medical detail in favor of ethical principles, positioning the care of the body as an integral aspect of philosophical practice. The text is transmitted as part of Plutarch's extensive ethical writings, the Moralia, and survives complete through medieval manuscripts, the oldest of which date from the tenth century. It stands as a characteristic example of Imperial-era thought, applying philosophical tenets to the concrete details of everyday existence.
 
 ## Text
 

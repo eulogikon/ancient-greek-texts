@@ -5,6 +5,7 @@ author: Iamblichus of Chalcis
 eul_wid: udw-aa
 eul_aid: udw
 canonical: "https://eulogikon.org/works/iamblichus-chalcis-nicomachus-arithmetic-udw-aa"
+lang: grc
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Iamblichus of Chalcis
 
 **eul_wid:** `udw-aa` · [HTML page](https://eulogikon.org/works/iamblichus-chalcis-nicomachus-arithmetic-udw-aa)
-
-_On Nicomachus' Introduction to Arithmetic_ is a philosophical commentary by Iamblichus of Chalcis on the foundational Pythagorean textbook by Nicomachus of Gerasa. Structured in 123 sections, the work interprets arithmetic through a Neoplatonic metaphysical framework, treating numbers as fundamental ontological principles rather than mere quantities. The commentary systematically explicates Nicomachus’s text, covering core Pythagorean arithmetical concepts such as the classifications of numbers, the nature of the monad and dyad, and ratios and proportions as the basis of cosmic harmony. Iamblichus expands these topics to explore the divine, mediating role of numbers between the ultimate One and the material cosmos. The treatise survives intact within the manuscript tradition of Iamblichus’s works and other Neoplatonic commentaries. Iamblichus’s commentary cemented the status of Nicomachus’s _Introduction_ as a central textbook in the medieval quadrivium, influencing Byzantine, Arabic, and Latin traditions. Its metaphysical interpretation of number shaped later Neoplatonists like Proclus and reinforced mathematics as a theological and philosophical discipline for centuries.
 
 ## Text
 

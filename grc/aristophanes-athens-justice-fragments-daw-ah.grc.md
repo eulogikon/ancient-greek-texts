@@ -5,6 +5,7 @@ author: Aristophanes of Athens
 eul_wid: daw-ah
 eul_aid: daw
 canonical: "https://eulogikon.org/works/aristophanes-athens-justice-fragments-daw-ah"
+lang: grc
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristophanes of Athens
 
 **eul_wid:** `daw-ah` · [HTML page](https://eulogikon.org/works/aristophanes-athens-justice-fragments-daw-ah)
-
-Fragments on Justice is a modern thematic compilation of excerpts from the comedies of Aristophanes of Athens. It assembles seventy-six passages from his eleven surviving plays and from works now lost, all centered on the concept of justice. This collection illustrates the playwright's pervasive and critical engagement with legal, social, and political themes in classical Athens. The fragments satirize the Athenian legal system and its endemic litigiousness, a central theme in plays like The Wasps. They critique demagogic politicians such as Cleon and parody contemporary intellectuals, most famously Socrates in The Clouds. Other excerpts explore utopian re-imaginings of justice and property, as seen in The Birds and The Assemblywomen, alongside broader examinations of social and economic equity.
-
-The complete texts of Aristophanes' surviving plays have been transmitted through a medieval manuscript tradition, chiefly via Byzantine codices like the tenth-century Ravennas manuscript. Fragments from his lost comedies are preserved in quotations by later Greek authors such as Athenaeus and Plutarch. The modern anthology draws upon this combined transmission history to present a consolidated view of the comic poet's treatment of justice. Aristophanes' comedies constitute an invaluable resource for Athenian social history, political satire, and the discourse of democracy. His humorous yet penetrating critiques of justice, law, and governance have exerted a lasting influence on the tradition of satirical literature and remain a primary source for understanding the culture and anxieties of classical Athens.
 
 ## Text
 

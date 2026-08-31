@@ -5,6 +5,7 @@ author: Thucydides Scholia
 eul_wid: tii-ag
 eul_aid: tii
 canonical: "https://eulogikon.org/works/thuc-scholia-euclid-data-tii-ag"
+lang: grc
 period: Late Antique
 dialect: Byzantine Technical
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Thucydides Scholia
 
 **eul_wid:** `tii-ag` · [HTML page](https://eulogikon.org/works/thuc-scholia-euclid-data-tii-ag)
-
-The Scholia on Euclid's Data constitute a collection of 280 prose annotations on Euclid's mathematical treatise of the same name. As a companion to his foundational Elements, Euclid's Data systematically explores the logical relationships between given geometric magnitudes and those properties that can be deduced from them. These scholia, transmitted as marginal commentary within the Byzantine manuscript tradition, serve a primarily pedagogical function. They provide essential clarifications of technical terms, offer explanatory notes on definitions and proofs, and furnish cross-references to aid students and scholars in navigating the text's deductive logic concerning geometrical analysis. The annotations also engage in textual criticism, noting variations among manuscript copies. Preserved notably in the tenth-century Codex Vaticanus Graecus 190 and later compiled in modern critical editions, these scholia represent a vital component of the ancient and Byzantine commentary tradition. They were instrumental in preserving and interpreting Euclid's advanced work for mathematical education, influencing later mathematicians such as Pappus of Alexandria and forming a key link in the historical transmission of Greek geometry.
 
 ## Text
 

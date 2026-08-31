@@ -5,6 +5,7 @@ author: Aristotle
 eul_wid: hgw-bv
 eul_aid: hgw
 canonical: "https://eulogikon.org/works/aristotle-colors-hgw-bv"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristotle
 
 **eul_wid:** `hgw-bv` · [HTML page](https://eulogikon.org/works/aristotle-colors-hgw-bv)
-
-On Colors is a concise scientific treatise from ancient Greece, traditionally ascribed to Aristotle. Composed in Attic Greek, it presents a systematic investigation of color as a natural phenomenon. The work is organized into eighteen chapters, commencing with fundamental theories on the generation of color through the interaction of light with surfaces and transparent media. It proceeds to detail specific chromatic phenomena observed in the natural world, explaining the hues of plants, animals, minerals, and dyes through principles such as the mixture of elemental colors and the effects of light and perspective.
-
-A product of the Peripatetic school, the treatise aims to apply broader Aristotelian physical principles to the specific study of color for students of natural philosophy. Modern scholarship interprets it as an early attempt to formulate a unified, causal theory of color grounded in observation and elemental theory. The authorship and precise date of the work remain uncertain. Although the complete text survives through the medieval manuscript tradition, its place in the Aristotelian corpus has been contested since antiquity, with many scholars attributing it to a later follower within Aristotle's school.
-
-Despite these doubts concerning its origin, On Colors exerted considerable influence for centuries. Transmitted as part of Aristotle's collected works, it shaped medieval and Renaissance understandings of color and persisted as a significant text in the history of optics and the study of nature.
 
 ## Text
 

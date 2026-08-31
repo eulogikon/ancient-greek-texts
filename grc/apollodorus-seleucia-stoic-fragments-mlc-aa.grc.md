@@ -5,6 +5,7 @@ author: Apollodorus of Seleucia
 eul_wid: mlc-aa
 eul_aid: mlc
 canonical: "https://eulogikon.org/works/apollodorus-seleucia-stoic-fragments-mlc-aa"
+lang: grc
 period: Hellenistic
 dialect: "Koine (phi, frg)"
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Apollodorus of Seleucia
 
 **eul_wid:** `mlc-aa` · [HTML page](https://eulogikon.org/works/apollodorus-seleucia-stoic-fragments-mlc-aa)
-
-The Fragments on Stoic Philosophy is a lost treatise by the 2nd-century BCE Stoic philosopher Apollodorus of Seleucia. The work does not survive intact but is known through approximately eighteen quotations preserved by later doxographers, most prominently by Diogenes Laërtius in the seventh book of his Lives and Opinions of Eminent Philosophers. These fragments indicate that the treatise was a systematic exposition of core Stoic doctrine, organized according to the traditional tripartite division of philosophy into logic, physics, and ethics. Apollodorus followed the teachings of the school's major authorities, particularly Chrysippus, and is cited on fundamental definitions such as the criterion of truth being the cognitive impression, the corporeal nature of substance, and the nature of the void. The work appears to have been a didactic summary, likely used for instruction, reflecting the efforts of later Stoics to consolidate and clarify the complex system established by their predecessors. Apollodorus's clear formulations were highly regarded and, through their preservation in Laërtius, became a principal source for later accounts of Stoic philosophy.
 
 ## Text
 

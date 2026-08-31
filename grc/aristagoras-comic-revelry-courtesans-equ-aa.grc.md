@@ -5,6 +5,7 @@ author: Aristagoras the Comic Poet
 eul_wid: equ-aa
 eul_aid: equ
 canonical: "https://eulogikon.org/works/aristagoras-comic-revelry-courtesans-equ-aa"
+lang: grc
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristagoras the Comic Poet
 
 **eul_wid:** `equ-aa` · [HTML page](https://eulogikon.org/works/aristagoras-comic-revelry-courtesans-equ-aa)
-
-The work Fragments on Revelry and Courtesans is attributed to the obscure comic poet Aristagoras. Preserved only by its title, it indicates a collection of twelve verse passages concerning the comic themes of the komos, or drunken revelry, and hetairai, or courtesans. Based on its title and standard comic tropes, the fragments likely engaged with the festive excess and behavior of the komos, the lives and social roles of courtesans, social satire targeting symposium culture and moral hypocrisy, and the gender and power dynamics in classical Athens. The text itself is entirely lost; its title was likely preserved in an ancient catalog or lexicon, and the twelve passages were presumably excerpted by a later grammarian or anthologist. While no direct influence is documented, the work represents part of the vast corpus of lost Greek comedy that formed the background for surviving works by Aristophanes, Menander, and their Roman adaptors.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Critias of Athens
 eul_wid: bzo-ac
 eul_aid: bzo
 canonical: "https://eulogikon.org/works/critias-athens-heracles-underworld-bzo-ac"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Critias of Athens
 
 **eul_wid:** `bzo-ac` · [HTML page](https://eulogikon.org/works/critias-athens-heracles-underworld-bzo-ac)
-
-Heracles in the Underworld is a modern editorial title for a collection of 112 surviving verse fragments attributed to the Athenian poet and philosopher Critias. Active in the late 5th century BCE, Critias was a complex figure—a pupil of Socrates, a relative of Plato, and later a leading member of the oligarchic regime known as the Thirty Tyrants. The fragments, written in Attic Greek, are drawn from his various lost works, which are believed to have included tragedies, elegies, and possibly a satyr play. No complete work survives; the extant lines are preserved only as quotations in the works of later authors.
-
-The content of the fragments reveals a sophisticated and often radical intellect engaging with the central debates of his time. Among the most significant is a passage presenting a rationalist theory on the origin of religion, arguing that the gods were a human invention designed to instill fear and enforce moral conduct in society. This philosophical stance is balanced by other fragments that praise the austere political order and military discipline of Sparta, reflecting Critias's own oligarchic sympathies. Further variety is shown in a descriptive fragment that narrates the discovery of wine and its effects on humanity. While the modern title implies a focus on the myth of Heracles's katabasis, or descent to the underworld, the direct connection of all fragments to this single theme is uncertain. Collectively, they offer a valuable, if fragmented, window into the interplay of poetry, philosophy, and political thought in the intellectually fertile and turbulent environment of Athens at the close of the Peloponnesian War.
 
 ## Text
 

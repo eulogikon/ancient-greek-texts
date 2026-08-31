@@ -5,6 +5,7 @@ author: Suda
 eul_wid: wus-aw
 eul_aid: wus
 canonical: "https://eulogikon.org/works/suda-psi-wus-aw"
+lang: grc
 period: Byzantine
 domain: Grammar
 format: Collection
@@ -18,12 +19,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Suda
 
 **eul_wid:** `wus-aw` · [HTML page](https://eulogikon.org/works/suda-psi-wus-aw)
-
-The 178 entries under Ψ in the Suda span lexical glosses, literary citations, and theological notes. Early entries address everyday vocabulary — ψαθαρόν (soft, tender), cited from Plato and Aristotle's zoological writings, and ψακάζει (to sprinkle), illustrated by a line from Aristophanes — alongside curiosities such as the Ψαθυριανοί, a heretical sect named after a certain Θεόκτιστος who sold bread-baskets and promoted its doctrines zealously.
-
-Later entries move into figurative and critical language: ψυχρολογία is defined as false or ill-timed speech, and ψυχρός in a literary context brands the tragedian Morsimos, son of the poet Philokles, as a cold and feeble playwright. The final entry cites Aristophanes' Πλοῦτος and the historian Josephus, showing the Suda's typical blend of comedy, historiography, and paraphrase.
-
-The letter is useful for studying Byzantine lexicographic method, the reception of classical comedy and philosophy, and the transmission of otherwise obscure heresiological and medical terminology.
 
 ## Text
 

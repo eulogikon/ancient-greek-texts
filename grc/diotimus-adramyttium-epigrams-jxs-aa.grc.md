@@ -5,6 +5,7 @@ author: Diotimus of Adramyttium
 eul_wid: jxs-aa
 eul_aid: jxs
 canonical: "https://eulogikon.org/works/diotimus-adramyttium-epigrams-jxs-aa"
+lang: grc
 period: Hellenistic
 dialect: Epic (Homeric) (frg)
 domain: Epic
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Diotimus of Adramyttium
 
 **eul_wid:** `jxs-aa` · [HTML page](https://eulogikon.org/works/diotimus-adramyttium-epigrams-jxs-aa)
-
-The Epigrams of Diotimus of Adramyttium constitute a collection of short elegiac poems by a Hellenistic poet known for both epic and epigrammatic composition. His work was preserved within the Garland of Philip, a major anthology compiled by Philip of Thessalonica in the early 1st century CE. The surviving fragments demonstrate conventional literary epigram themes, including erotic and dedicatory subjects. One amatory fragment addresses a beloved named Callistion, while another serves as a dedication for a statue of the lyric poet Anacreon. A mythological inclination, likely influenced by his parallel career as an epic poet, is also discernible. These epigrams survive exclusively as quotations in later anthologies, primarily through their inclusion in the Garland of Philip and its descendant, the Greek Anthology. Key biographical details, including the title of his lost epic The Amazon, are attested in the Byzantine encyclopedia known as the Suda. Diotimus's inclusion in these major collections secured his position within the canon of Hellenistic epigrammatists. His work exemplifies the genre's evolution into a sophisticated literary form for a cultured audience and represents a tangible link between the epic and epigrammatic traditions of the period.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Agathon of Athens
 eul_wid: eaq-aa
 eul_aid: eaq
 canonical: "https://eulogikon.org/works/agathon-athens-art-chance-frailty-eaq-aa"
+lang: grc
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Agathon of Athens
 
 **eul_wid:** `eaq-aa` · [HTML page](https://eulogikon.org/works/agathon-athens-art-chance-frailty-eaq-aa)
-
-The surviving fragments of the Athenian tragedian Agathon, often collectively referred to by the modern title On Art, Chance, and Human Frailty, represent the scant remains of a significant literary figure. A contemporary of Euripides famously depicted in Plato's Symposium, Agathon was an innovative dramatist of the late 5th century BCE. His complete plays are lost, and his work is known only through quotations preserved by later authors such as Aristotle, Athenaeus, and Stobaeus, collected in modern scholarly editions. The fragments reveal a playwright deeply engaged with philosophical themes, particularly the interplay between artistic skill and fortune, encapsulated in his celebrated dictum that art loves chance and chance loves art. His work also explored human psychology and emotion, reflecting a broader interest in character. Agathon's historical importance rests on his formal and conceptual innovations. He is credited with being the first tragedian to compose a play with a wholly fictional plot and characters, a decisive step away from the traditional mythological repertoire. He also pioneered new musical structures, writing choral odes that were independent of the dramatic narrative, and cultivated a refined, antithetical rhetorical style. His influence was considerable; Aristotle frequently cites him in the Poetics as an exemplar of inventive plot construction and stylistic excellence. Thus, despite the loss of his texts, Agathon stands as a pivotal figure in the evolution of tragedy toward greater artistic autonomy and formal experimentation.
 
 ## Text
 

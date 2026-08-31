@@ -5,6 +5,7 @@ author: Hymnic Collection  Anonymous
 eul_wid: upu-bd
 eul_aid: upu
 canonical: "https://eulogikon.org/works/hymnic-anon-zeus-upu-bd"
+lang: grc
 period: Classical
 dialect: Epic (Homeric)
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hymnic Collection  Anonymous
 
 **eul_wid:** `upu-bd` · [HTML page](https://eulogikon.org/works/hymnic-anon-zeus-upu-bd)
-
-Hymn 23 To Zeus is a brief anonymous hexameter poem from the collection known as the Homeric Hymns. Consisting of only three lines, it offers a concise invocation and praise of Zeus. The hymn opens by declaring Zeus the supreme god, naming him the best and greatest of the gods, a wide-seeing ruler who brings things to fulfillment. It highlights his association with Themis, the embodiment of divine law and order, depicting him in intimate communion with her as the foundation of his cosmic authority. The poem follows the traditional hymnic structure, moving from invocation and praise to a direct petition for the god's goodwill and favor. The hymn survives as part of the Homeric Hymns corpus transmitted through medieval manuscripts, with the primary witness being the 15th-century Codex Mosquensis. As a component of this influential collection, which was important in antiquity and remains a key source for the study of Greek religion and poetry, this short poem contributes to the literary and religious portrayal of the king of the Greek gods.
 
 ## Text
 

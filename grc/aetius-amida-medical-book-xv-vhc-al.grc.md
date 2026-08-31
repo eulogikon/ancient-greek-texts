@@ -5,6 +5,7 @@ author: Aëtius of Amida
 eul_wid: vhc-al
 eul_aid: vhc
 canonical: "https://eulogikon.org/works/aetius-amida-medical-book-xv-vhc-al"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aëtius of Amida
 
 **eul_wid:** `vhc-al` · [HTML page](https://eulogikon.org/works/aetius-amida-medical-book-xv-vhc-al)
-
-_Medical Book XV_ is a sixth-century medical treatise by the Byzantine physician Aëtius of Amida. It forms the fifteenth book of his comprehensive medical encyclopedia, the Tetrabiblon, and is devoted to the subjects of gynecology, obstetrics, and pediatric care. The work is organized into 84 chapters, providing a systematic presentation of diagnoses, therapeutic procedures, and complex pharmacological preparations for women and children. As a compilation, it synthesizes the teachings of earlier medical authorities such as Galen and Soranus of Ephesus, functioning primarily as a practical handbook for physicians and students rather than a vehicle for original theory. The complete text survives within the manuscript tradition of the Tetrabiblon. Its content was later translated into Arabic and Latin, securing its influence on the development of both Islamic and medieval European medicine for centuries.
 
 ## Text
 

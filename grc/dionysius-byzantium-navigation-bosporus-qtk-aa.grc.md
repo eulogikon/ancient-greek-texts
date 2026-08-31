@@ -5,6 +5,7 @@ author: Dionysius of Byzantium
 eul_wid: qtk-aa
 eul_aid: qtk
 canonical: "https://eulogikon.org/works/dionysius-byzantium-navigation-bosporus-qtk-aa"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Geography
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Dionysius of Byzantium
 
 **eul_wid:** `qtk-aa` · [HTML page](https://eulogikon.org/works/dionysius-byzantium-navigation-bosporus-qtk-aa)
-
-On the Navigation of the Bosporus is a detailed ancient Greek sailing guide composed by Dionysius of Byzantium in the 2nd century CE. The work is structured as a sequential voyage from the Black Sea to the city of Byzantium, providing a meticulous description of the coastline along the strategically vital Bosporus Strait. It systematically catalogs natural features such as bays and promontories alongside man-made monuments including temples and tombs, often giving distances in stadia. A defining characteristic of the text is its consistent integration of these physical landmarks with stories drawn from Greek mythology and history, thereby embedding the topography within a rich cultural and historical narrative. The original full text is lost; what survives is a 48-passage medieval summary, or epitome, of the longer work. Modern scholarship interprets it as a practical navigational aid for sailors while also recognizing it as a product of its literary era, reflecting the antiquarian interests of educated Greeks under the Roman Empire. It is considered to have been written both for maritime use and for an audience interested in the topography and heritage of this famous waterway.
 
 ## Text
 

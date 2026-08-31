@@ -5,6 +5,7 @@ author: Euclid of Alexandria
 eul_wid: iaw-am
 eul_aid: iaw
 canonical: "https://eulogikon.org/works/euclid-alexandria-elements-alternative-demonstrations-book-11-iaw-am"
+lang: grc
 period: Hellenistic
 dialect: Technical Koine
 domain: Mathematics
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Euclid of Alexandria
 
 **eul_wid:** `iaw-am` · [HTML page](https://eulogikon.org/works/euclid-alexandria-elements-alternative-demonstrations-book-11-iaw-am)
-
-This collection gathers alternative demonstrations — variant proofs of propositions from Book XI of Euclid's Elements, the book that opens the treatment of solid geometry. Book XI establishes the relations of lines and planes in three-dimensional space and the elementary properties of solid figures such as parallelepipeds. The proofs preserved here belong to the supplementary tradition transmitted alongside the main text, supplying different routes to its results on the geometry of space. They illustrate how the transition from plane to solid geometry, and the spatial reasoning it required, prompted later editors to record more than one demonstration of the same theorems.
 
 ## Text
 

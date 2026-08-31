@@ -5,6 +5,7 @@ author: Antiphon of Rhamnus
 eul_wid: dbg-aa
 eul_aid: dbg
 canonical: "https://eulogikon.org/works/antiphon-rhamnus-meleager-hunt-dbg-aa"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Drama
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Antiphon of Rhamnus
 
 **eul_wid:** `dbg-aa` · [HTML page](https://eulogikon.org/works/antiphon-rhamnus-meleager-hunt-dbg-aa)
-
-The Fragments on Meleager and the Hunt consist of five verse passages concerning the myth of Meleager and the Calydonian Boar Hunt. They are spuriously attributed to Antiphon of Rhamnus, the fifth-century BCE Athenian orator known for his prose speeches and philosophical treatise. This attribution is erroneous; the fragments derive from a tragic drama, likely composed by a major playwright such as Aeschylus, Sophocles, or Euripides. They were preserved under the name "Antiphon" due to a historical confusion with Antiphon the tragedian, a distinct contemporary figure. The fragments treat core elements of the Meleager myth, including the collective heroic hunt for the Calydonian Boar, themes of fate and destiny often tied to a prophetic firebrand, familial conflict involving Meleager’s mother Althaea, and the tragic tension between heroic glory and premature death. Preserved as quotations in later grammatical and scholarly works, they form part of the fragmentary remains of Greek tragedy and are cataloged in modern scholarly collections under the tragedian Antiphon. These fragments illustrate the tragic treatment of the Meleager myth in Athenian drama, and their misattribution highlights the persistent historical problem of homonymy among ancient authors, a distinction noted even in antiquity. They remain a subject of philological study for their poetic and mythological content.
 
 ## Text
 

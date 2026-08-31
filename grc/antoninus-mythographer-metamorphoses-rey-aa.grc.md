@@ -5,6 +5,7 @@ author: Antoninus the Mythographer
 eul_wid: rey-aa
 eul_aid: rey
 canonical: "https://eulogikon.org/works/antoninus-mythographer-metamorphoses-rey-aa"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Fiction
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Antoninus the Mythographer
 
 **eul_wid:** `rey-aa` · [HTML page](https://eulogikon.org/works/antoninus-mythographer-metamorphoses-rey-aa)
-
-The Collection of Metamorphoses is a prose mythography compiled in the 2nd century CE by Antoninus Liberalis. This work systematically gathers forty-one brief narratives detailing transformations from Greek mythology, each typically introduced by a phrase such as "Concerning." It functions primarily as a scholarly compilation, drawing extensively from and explicitly citing earlier Hellenistic sources, most notably the lost poem Heteroeumena by Nicander of Colophon. Through these citations, it preserves a wide array of stories in which humans are changed into animals, plants, stones, or celestial bodies as a result of divine intervention, whether as punishment, reward, or a means of salvation.
-
-The central theme of the collection is metamorphosis itself, with each narrative illustrating the power and capricious justice of the gods. Many of the myths also serve an etiological purpose, providing mythical origins for the characteristics of various animals and plants, as well as for certain local cultic practices and place names. The text survives in its complete form solely within a single 9th- or 10th-century manuscript, the Palatinus Graecus 398, where it is preserved alongside the Bibliotheca of Pseudo-Apollodorus. This limited manuscript tradition indicates the work was not widely circulated in antiquity or the Middle Ages, and its ancient influence appears minimal, especially when compared to the monumental poetic treatment of similar themes by Ovid. For modern scholarship, however, Antoninus Liberalis's compilation is an invaluable resource. It provides crucial fragments for reconstructing lost Hellenistic literature, offers important variants for the study of Greek mythology, and sheds light on the methods of mythographic collection and scholarship during the Imperial Roman period.
 
 ## Text
 

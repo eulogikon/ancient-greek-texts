@@ -5,6 +5,7 @@ author: Potamon of Mytilene
 eul_wid: psm-aa
 eul_aid: psm
 canonical: "https://eulogikon.org/works/potamon-mytilene-historical-rhetorical-psm-aa"
+lang: grc
 period: Roman
 dialect: Koine
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Potamon of Mytilene
 
 **eul_wid:** `psm-aa` · [HTML page](https://eulogikon.org/works/potamon-mytilene-historical-rhetorical-psm-aa)
-
-The Historical and Rhetorical Fragments is a lost prose work by the first-century BCE rhetorician and historian Potamon of Mytilene. The surviving evidence indicates it was a compilation of historical and rhetorical material, though its original scope and structure are entirely unknown. The Byzantine lexicon known as the Suda records that Potamon authored works on Alexander the Great, a figure named Horus of Samos, and encomia for Brutus and Caesar, as well as a treatise on the perfect orator. The sole surviving textual fragments, however, are three brief passages preserved through citation in later lexicographical works, primarily the second-century CE Lexicon of Harpocration. These fragments reference points of Athenian history and oratory, mentioning the statesman Lycurgus, the orator Hyperides, and the law proposed by Leptines. Another fragment, transmitted by Plutarch, cites Potamon as a source for an anecdote concerning Alexander the Great naming a city after his dog. The work appears to have been a scholarly collection of historical anecdotes and rhetorical exempla, likely intended for educational use. Its content survives only through this indirect transmission in later reference works, which preserved small portions of Potamon's scholarship for subsequent antiquity.
 
 ## Text
 

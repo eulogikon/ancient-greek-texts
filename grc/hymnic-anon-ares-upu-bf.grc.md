@@ -5,6 +5,7 @@ author: Hymnic Collection  Anonymous
 eul_wid: upu-bf
 eul_aid: upu
 canonical: "https://eulogikon.org/works/hymnic-anon-ares-upu-bf"
+lang: grc
 period: Classical
 dialect: Epic (Homeric)
 domain: Poetry
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hymnic Collection  Anonymous
 
 **eul_wid:** `upu-bf` · [HTML page](https://eulogikon.org/works/hymnic-anon-ares-upu-bf)
-
-The Homeric Hymn to Ares, designated as Hymn 8 in the collection, is a brief, anonymous Greek religious poem composed in the traditional epic dialect. Unlike many hymns that recount mythological narratives, this seventeen-line work functions as a direct prayer. It invokes Ares, the god of war, with a series of epithets that celebrate his martial power, describing him as mighty, chariot-driving, golden-helmed, and shield-bearing. The hymn uniquely frames this destructive deity not only as a warrior but also as a paternal source of Victory, an ally to the goddess Themis who represents divine order and justice, and a ruler over the most righteous of men. The concluding section shifts to a personal plea, asking Ares to grant the inner courage and restraint necessary to repel bitter evil, curb the soul's deceitful impulses, and check the sharp fury that incites conflict. The ultimate request is for the god to provide the strength to live peacefully within the secure laws of community, having escaped the violence and fates imposed by enemies.
-
-The hymn's date of composition remains uncertain. While a significant portion of the Homeric Hymns are generally dated to the 7th and 6th centuries BCE, the philosophical tone and particular conception of Ares in this hymn have led many scholars to propose a later origin. It is often considered one of the latest additions to the collection, with possible composition in the late Classical or Hellenistic period. Like others in the corpus, it is believed to have been performed as a prelude to epic recitations at public festivals. The complete text survives through medieval manuscript tradition, most notably in the 15th-century Codex Laurentianus.
 
 ## Text
 

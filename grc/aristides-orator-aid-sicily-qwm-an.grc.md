@@ -5,6 +5,7 @@ author: Aristides the Orator
 eul_wid: qwm-an
 eul_aid: qwm
 canonical: "https://eulogikon.org/works/aristides-orator-aid-sicily-qwm-an"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristides the Orator
 
 **eul_wid:** `qwm-an` · [HTML page](https://eulogikon.org/works/aristides-orator-aid-sicily-qwm-an)
-
-On Sending Aid to Those in Sicily is a deliberative oration composed by the Greek orator Aelius Aristides around 154 or 155 CE. Written in Attic Greek, the speech was designed to persuade the citizen assembly of Smyrna to approve financial assistance for the Sicilian city of Catana, which had suffered a devastating fire. The work is a prime example of applied rhetoric from the period known as the Second Sophistic, demonstrating how classical oratorical forms were employed in the practical governance of cities within the Roman Empire.
-
-The oration is meticulously structured according to classical rhetorical principles, unfolding across thirteen sections. It opens with a proem that seeks to dispel the assembly's reluctance and establish a tone of civic duty. The central argument carefully balances appeals to justice and honor with pragmatic considerations of benefit, contending that aid to Catana is not mere charity but a strategic opportunity for Smyrna. By acting generously, Smyrna could enhance its prestige and strengthen its position within the wider network of Hellenic cities under Roman sovereignty. The speech systematically anticipates and counters potential objections before building to a forceful peroration aimed at moving the audience to action.
-
-Preserved in full within Aristides' collected works, the text survives primarily through a tenth-century manuscript tradition. It provides a valuable historical window into the dynamics of local politics and inter-city relations in the eastern Roman Empire during the peaceful reign of Emperor Antoninus Pius. For modern scholars, the oration is a significant document that illustrates the real-world function of elite Greek paideia, or education, in civic leadership, highlighting enduring themes of Hellenic solidarity, civic pride, and the instrumental power of eloquence in imperial-era political life.
 
 ## Text
 

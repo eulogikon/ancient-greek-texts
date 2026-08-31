@@ -5,6 +5,7 @@ author: Ariphron of Sicyon
 eul_wid: gze-aa
 eul_aid: gze
 canonical: "https://eulogikon.org/works/ariphron-sicyon-hymn-health-gze-aa"
+lang: grc
 period: Classical
 dialect: Doric (frg)
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Ariphron of Sicyon
 
 **eul_wid:** `gze-aa` · [HTML page](https://eulogikon.org/works/ariphron-sicyon-hymn-health-gze-aa)
-
-The Hymn to Health is a paean composed by the lyric poet Ariphron of Sicyon in the fourth century BCE. It is an invocation to the goddess Hygieia, the personification of health and daughter of the healing god Asclepius. The surviving text celebrates health as the supreme divine blessing for mortals, expressing a profound wish for the goddess's lifelong presence and associating her favor with a virtuous life and a pure household. Written in the Doric dialect, consistent with its Peloponnesian origin, the hymn is considered a work for public, likely choral, performance at a religious sanctuary or festival. This reflects the expanding worship of Asclepius and his family during the Classical period. Although only fragments survive, preserved through quotations by later ancient authors, the hymn enjoyed notable popularity in antiquity. Historical accounts record that it was sung at Athenian banquets, demonstrating its reach far beyond its local Sicyonian context.
 
 ## Text
 

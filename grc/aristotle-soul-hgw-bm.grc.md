@@ -5,6 +5,7 @@ author: Aristotle
 eul_wid: hgw-bm
 eul_aid: hgw
 canonical: "https://eulogikon.org/works/aristotle-soul-hgw-bm"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristotle
 
 **eul_wid:** `hgw-bm` · [HTML page](https://eulogikon.org/works/aristotle-soul-hgw-bm)
-
-On the Soul is a philosophical treatise by Aristotle, composed in the mid-4th century BCE. It presents a systematic investigation into the nature of the soul, which Aristotle defines as the essential principle of life and organization for all living beings. The work is structured in three books. The first book reviews and critiques earlier theories from philosophers such as Plato and Democritus. The second book provides Aristotle's own definition of the soul and examines fundamental life functions, including nutrition and perception. The third book analyzes higher faculties such as imagination, memory, and intellect, introducing the influential concept of the active intellect. The treatise applies Aristotle's doctrine of hylomorphism—the view that beings are composites of matter and form—to living organisms, arguing that the soul is the form of a natural body that possesses the potential for life. Intended for students and colleagues at his school, the Lyceum, the work represents an attempt to provide a scientific, biological account of the soul that avoids treating it as either a purely separate substance or a purely material one. The text survives intact through a complex manuscript tradition, with the oldest Greek copies dating from the 9th or 10th century CE. Its translation into Arabic and Latin established it as a cornerstone of medieval philosophy.
 
 ## Text
 

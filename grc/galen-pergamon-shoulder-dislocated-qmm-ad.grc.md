@@ -5,6 +5,7 @@ author: Galen of Pergamon
 eul_wid: qmm-ad
 eul_aid: qmm
 canonical: "https://eulogikon.org/works/galen-pergamon-shoulder-dislocated-qmm-ad"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Galen of Pergamon
 
 **eul_wid:** `qmm-ad` · [HTML page](https://eulogikon.org/works/galen-pergamon-shoulder-dislocated-qmm-ad)
-
-On the Shoulder Dislocated in Ways Hippocrates Did Not See is a medical treatise by Galen of Pergamon that addresses complex forms of shoulder dislocation absent from the Hippocratic writings, particularly the common anterior dislocation described in the Hippocratic work On Joints. The treatise is structured in 77 passages and systematically fills these gaps in orthopedic knowledge through detailed anatomical description and the proposal of therapeutic interventions, including specific techniques for manual reduction. Galen emphasizes that a precise understanding of shoulder anatomy is the essential foundation for accurate diagnosis and effective treatment. The work advocates for a medical practice grounded in direct empirical observation and logical deduction from established anatomical principles, positioning itself as a critical advancement upon the Hippocratic tradition.
-
-The treatise survives intact within the Galenic corpus, transmitted through Greek manuscripts alongside his other works on bones and joints. It is included in the standard modern edition, the Corpus Medicorum Graecorum. This work exemplifies Galen’s method of synthesizing and critically expanding upon Hippocratic medicine through new clinical discoveries. It contributed significantly to the advanced orthopedic knowledge within the Galenic system, which would dominate Western and Islamic medical thought for centuries, and it reinforced a scholarly, empirically informed approach to surgical practice.
 
 ## Text
 

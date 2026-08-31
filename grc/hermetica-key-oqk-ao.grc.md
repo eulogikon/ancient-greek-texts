@@ -1,10 +1,11 @@
 ---
 title: Hermes Trismegistus Key
 title_greek: Κλείς
-author: "Hermetica "
+author: Hermetica
 eul_wid: oqk-ao
 eul_aid: oqk
 canonical: "https://eulogikon.org/works/hermetica-key-oqk-ao"
+lang: grc
 period: Roman
 dialect: Philosophical Koine
 domain: Philosophy
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Κλείς*
 
-**Author:** Hermetica 
+**Author:** Hermetica
 
 **eul_wid:** `oqk-ao` · [HTML page](https://eulogikon.org/works/hermetica-key-oqk-ao)
-
-The Key is a philosophical and theological treatise from the collection of ancient Greek texts known as the Corpus Hermeticum, where it is numbered as treatise ten. Attributed to the legendary sage Hermes Trismegistus, it was likely composed in Roman Egypt between the 1st and 3rd centuries CE. Written as a didactic dialogue, its 23 passages serve as a summary or "key" to core Hermetic teachings. The text outlines a metaphysical system, describing God as the unbegotten Good, the creation of the cosmos, and the descent of the human soul into the material body. Its central purpose is soteriological, teaching that salvation is achieved through revelatory knowledge and virtue, which allow the soul to ascend and reunite with the divine. The work survives complete as part of a medieval manuscript tradition, primarily through a 14th-century Byzantine manuscript. Modern scholars interpret the Hermetica as products of religious syncretism, blending Platonic, Stoic, and Egyptian ideas. The Key is thought to have been written for a circle of spiritual seekers rather than a public audience. Its rediscovery during the Renaissance had a profound impact on Western esotericism and philosophy, as its ideas about the divine potential of human knowledge influenced thinkers for centuries.
 
 ## Text
 

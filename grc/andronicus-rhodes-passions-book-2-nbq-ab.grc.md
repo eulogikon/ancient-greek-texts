@@ -1,10 +1,11 @@
 ---
 title: "On Passions, Book 2"
 title_greek: Περὶ παθῶν
-author: "Andronicus of Rhodes "
+author: Andronicus of Rhodes
 eul_wid: nbq-ab
 eul_aid: nbq
 canonical: "https://eulogikon.org/works/andronicus-rhodes-passions-book-2-nbq-ab"
+lang: grc
 period: Hellenistic
 dialect: Attic Philosophical
 domain: Philosophy
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Περὶ παθῶν*
 
-**Author:** Andronicus of Rhodes 
+**Author:** Andronicus of Rhodes
 
 **eul_wid:** `nbq-ab` · [HTML page](https://eulogikon.org/works/andronicus-rhodes-passions-book-2-nbq-ab)
-
-On Passions is a philosophical treatise by Andronicus of Rhodes, a leading Peripatetic scholar of the first century BCE. The work is a systematic handbook that classifies and defines the various states of the soul, particularly the passions or emotions, within the framework of Aristotelian psychology and ethics. Book 2 of this work continues this project through twenty-eight distinct passages, offering a methodical catalog of concepts like anger, fear, and pity, as well as dispositions and capacities. The text survives in full and has been transmitted through the centuries as part of the broader corpus of Aristotelian works. Modern scholars interpret this treatise as a key product of a period of revival for Aristotle's school. It is thought to have been written primarily for pedagogical use within the Lyceum, aiming to preserve and clarify Peripatetic doctrine in a textbook style. By providing standardized definitions, the work helped shape the technical vocabulary for later ancient and medieval commentators studying emotion and moral character.
 
 ## Text
 

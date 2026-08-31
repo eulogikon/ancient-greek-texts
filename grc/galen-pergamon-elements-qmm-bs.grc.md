@@ -5,6 +5,7 @@ author: Galen of Pergamon
 eul_wid: qmm-bs
 eul_aid: qmm
 canonical: "https://eulogikon.org/works/galen-pergamon-elements-qmm-bs"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Galen of Pergamon
 
 **eul_wid:** `qmm-bs` · [HTML page](https://eulogikon.org/works/galen-pergamon-elements-qmm-bs)
-
-On the Elements from Hippocrates is a medical and philosophical treatise by the 2nd-century CE physician Galen of Pergamon. The work presents a detailed explication and defense of the four-element theory—earth, air, fire, and water—as the fundamental physical basis of Hippocratic medicine. Galen structures his argument as a systematic commentary on the Hippocratic text On the Nature of Man, positioning it as the authoritative source for this elemental doctrine. The treatise is polemical in nature, vigorously arguing against rival mechanistic and atomistic schools of thought, particularly the theories of the Erasistrateans and Asclepiadeans.
-
-Galen establishes the four elements as the primary constituents of all material bodies, linking each element to a pair of primary qualities: hot, cold, dry, and moist. He employs logical demonstration alongside appeals to sensory evidence to argue that this qualitative physics is indispensable for explaining physiological processes, the states of health and disease, and the therapeutic action of drugs. A central theme of the work is the essential unity of medicine and natural philosophy, with Galen contending that a correct understanding of elemental theory is a prerequisite for medical practice. The treatise survives in its complete form, transmitted through Byzantine and Arabic manuscript traditions. The standard Greek edition appears in Kühn’s collected works of Galen, with notable English translations by Arthur J. Brock and J.S. Wilkie. This work was instrumental in cementing the four-element and four-humor theory as the cornerstone of Galenic medicine, profoundly influencing Western and Islamic medical thought for more than a millennium. By grounding his physiological system in the perceived authority of Hippocrates, Galen established it as the definitive scientific framework for subsequent theories of physiology and pharmacology.
 
 ## Text
 

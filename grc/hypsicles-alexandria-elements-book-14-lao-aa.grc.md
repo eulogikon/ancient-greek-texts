@@ -5,6 +5,7 @@ author: Hypsicles of Alexandria
 eul_wid: lao-aa
 eul_aid: lao
 canonical: "https://eulogikon.org/works/hypsicles-alexandria-elements-book-14-lao-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: Science
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hypsicles of Alexandria
 
 **eul_wid:** `lao-aa` · [HTML page](https://eulogikon.org/works/hypsicles-alexandria-elements-book-14-lao-aa)
-
-Hypsicles' Book, traditionally appended as Book XIV of Euclid's Elements, is a Hellenistic mathematical treatise composed by Hypsicles of Alexandria around 150 BCE. The work is a concise study in advanced solid geometry, dedicated to comparing the properties of the two most complex Platonic solids: the regular dodecahedron and the regular icosahedron inscribed within an identical sphere. Through a sequence of fourteen propositions, the treatise systematically demonstrates that the ratio of the surfaces of these two polyhedra is equal to the ratio of their volumes, culminating in the proof that the dodecahedron possesses the greater volume of the two. Hypsicles explicitly credits the foundation of his first seven propositions to the earlier, now-lost investigations of Apollonius of Perga, while presenting the remaining seven as his own original contributions. The text is framed as a letter to a certain Protarchus, reflecting its origin within a scholarly network engaged in specialized geometric research. Though not part of the original Euclidean corpus, its thematic focus on the regular solids led to its inclusion as a supplement to the Elements in late antiquity. Consequently, it was preserved through the same Byzantine manuscript tradition that safeguarded Euclid's masterwork, most notably in copies such as the 10th-century Vaticanus Graecus 190, ensuring its survival and transmission to the modern era.
 
 ## Text
 

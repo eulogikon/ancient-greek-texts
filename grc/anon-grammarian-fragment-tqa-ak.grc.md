@@ -5,6 +5,7 @@ author: Greek Grammarian Anonymous
 eul_wid: tqa-ak
 eul_aid: tqa
 canonical: "https://eulogikon.org/works/anon-grammarian-fragment-tqa-ak"
+lang: grc
 period: Late Antique
 dialect: Koine (frg)
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Greek Grammarian Anonymous
 
 **eul_wid:** `tqa-ak` · [HTML page](https://eulogikon.org/works/anon-grammarian-fragment-tqa-ak)
-
-The Grammatical Fragment is a lost treatise attributed to an anonymous Greek grammarian, known solely by its title from ancient catalogues of literary works. No content, specific rules, or illustrative examples from the treatise are preserved in the extant record. The title indicates it was a fragmentary text concerned with grammatical subjects, but its precise scope, structure, and theoretical contributions remain entirely unrecorded. Based on the conventions of the genre prevalent during the Hellenistic and Roman periods, its potential content may have included technical analyses of parts of speech, rules of syntax, discussions of correct linguistic usage, or examinations of dialectical variations and linguistic anomalies. The work possesses no extant manuscript tradition and is not directly quoted in any surviving references. While its individual intellectual impact is untraceable, the fragment’s documented existence attests to the vigorous and widespread scholarly tradition of producing systematic grammatical handbooks, which served as essential tools for advanced education and linguistic reference in the ancient world.
 
 ## Text
 

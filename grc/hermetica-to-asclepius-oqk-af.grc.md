@@ -1,10 +1,11 @@
 ---
 title: "Hermes Trismegistus, To Asclepius, Be Well"
 title_greek: Ἀσκληπιῷ εὖ φρονεῖν
-author: "Hermetica "
+author: Hermetica
 eul_wid: oqk-af
 eul_aid: oqk
 canonical: "https://eulogikon.org/works/hermetica-to-asclepius-oqk-af"
+lang: grc
 period: Roman
 dialect: Philosophical Koine
 domain: Philosophy
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀσκληπιῷ εὖ φρονεῖν*
 
-**Author:** Hermetica 
+**Author:** Hermetica
 
 **eul_wid:** `oqk-af` · [HTML page](https://eulogikon.org/works/hermetica-to-asclepius-oqk-af)
-
-_To Asclepius, Be Well_ is a philosophical and religious treatise attributed to the legendary sage Hermes Trismegistus, a syncretic figure embodying both Greek and Egyptian wisdom traditions. Composed in Greek between the first and third centuries CE, it forms part of the larger body of writings known as the Hermetic corpus. The work is presented as a didactic discourse from Hermes to his disciple Asclepius, distilling essential teachings originally delivered to Hermes's son, Tat. It explores foundational Hermetic doctrines concerning a transcendent, unbegotten God as the sole creator of the cosmos, the nature of generated beings, and the path to human salvation through spiritual knowledge, or gnosis. The original Greek text is only partially extant; its content is primarily known through its incorporation as chapters 21–29 of a later, predominantly Latin work titled the _Asclepius_. Additional fragments of the Greek original are preserved in the anthology compiled by the fifth-century writer Stobaeus. Modern scholarship interprets the treatise as a product of the syncretic intellectual environment of Roman Egypt, blending Middle Platonic philosophical concepts with Egyptian religious thought. It is considered a text intended for small circles of spiritual initiates, offering a contemplative path for the soul to recognize its divine origin and achieve liberation from the material world.
 
 ## Text
 

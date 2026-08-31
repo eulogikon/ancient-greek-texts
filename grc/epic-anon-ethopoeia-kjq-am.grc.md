@@ -5,6 +5,7 @@ author: Epic Work  Anonymous
 eul_wid: kjq-am
 eul_aid: kjq
 canonical: "https://eulogikon.org/works/epic-anon-ethopoeia-kjq-am"
+lang: grc
 period: Hellenistic
 dialect: Epic (Homeric) (frg)
 domain: Epic
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Epic Work  Anonymous
 
 **eul_wid:** `kjq-am` · [HTML page](https://eulogikon.org/works/epic-anon-ethopoeia-kjq-am)
-
-The Ethopoeic Exercise is an anonymous example of ethopoeia, a rhetorical exercise from the progymnasmata, the preliminary training in rhetoric. The exercise involves composing a speech in character for a figure from epic poetry, aiming to demonstrate a credible understanding of that character's psychology and emotional state. While most surviving progymnasmata are composed in prose, this particular exercise is notably written in verse, a formal choice that aligns it with its epic model. The text presents a dramatic monologue, as evidenced by its opening lines, which feature a speaker directly addressing an audience with questions that convey a sense of grievance and exhaustion from unacknowledged labors.
-
-The exercise demonstrates the core principles of the ethopoeia form, including the credible portrayal of a known literary figure's psychology, the maintenance of appropriateness to the person's status and the dramatic situation, and the creative engagement with a canonical epic text. A key component is the portrayal of strong emotions, a technique known as pathopoeia, which is immediately apparent in the speaker's tone of indignation and weariness. Such school compositions were typically preserved anonymously within manuscripts containing rhetorical handbooks or collections, such as those by Aelius Theon, Hermogenes, and Aphthonius.
-
-The practice of ethopoeia was foundational to rhetorical education, training students in invention, stylistic variation, and decorum. It exerted a significant influence on literary genres that rely heavily on character speech, including tragedy and the ancient novel. The exercise remained a staple of Byzantine education, where the form was later adapted for Christian contexts, demonstrating its enduring pedagogical and literary utility.
 
 ## Text
 

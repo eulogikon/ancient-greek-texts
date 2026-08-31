@@ -1,10 +1,11 @@
 ---
 title: Asclepius Greek Words Only
 title_greek: Ἑρμοῦ τρισμεγίστου βίβλος ἱερὰ πρὸς Ἀσκληπιὸν
-author: "Hermetica "
+author: Hermetica
 eul_wid: oqk-an
 eul_aid: oqk
 canonical: "https://eulogikon.org/works/hermetica-asclepius-words-oqk-an"
+lang: grc
 period: Roman
 dialect: Philosophical Koine
 domain: Philosophy
@@ -16,13 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἑρμοῦ τρισμεγίστου βίβλος ἱερὰ πρὸς Ἀσκληπιὸν*
 
-**Author:** Hermetica 
+**Author:** Hermetica
 
 **eul_wid:** `oqk-an` · [HTML page](https://eulogikon.org/works/hermetica-asclepius-words-oqk-an)
-
-The Asclepius, formally titled The Sacred Book of Hermes Trismegistus to Asclepius and also known as the Perfect Discourse, is a foundational philosophical and theological treatise of the Hermetic tradition. Composed in Koine Greek in Roman Egypt between the 1st and 3rd centuries CE, the work is structured as an instructional dialogue from the mythical sage Hermes Trismegistus to his disciple Asclepius. It systematically explores core Hermetic doctrines concerning a transcendent, ineffable God, the emanation and structure of the cosmos, the divine nature and celestial origin of the human soul, and the necessity of spiritual knowledge, or gnosis, for achieving salvation and reunion with the divine. A notable and influential passage presents a prophetic lament on the future decline of traditional Egyptian religion and includes a detailed discussion of the ritual animation of statues, a practice intended to invite spiritual powers into material forms.
-
-The complete Greek original of the treatise is lost, surviving only in fragments preserved by later authors. The work’s full content is known primarily through a complete Latin translation made in late antiquity, which remains the principal source for the text. A related but distinct version also exists in Coptic among the documents discovered at Nag Hammadi. Scholarly analysis positions the Asclepius as a seminal document of late antique religious syncretism, artfully synthesizing Platonic metaphysics, Stoic concepts, and native Egyptian theological motifs. It was crafted for an audience of spiritual seekers pursuing personal revelation and transformative wisdom beyond the confines of established philosophical schools or state-sanctioned cults.
 
 ## Text
 

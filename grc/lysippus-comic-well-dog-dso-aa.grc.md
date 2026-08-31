@@ -5,6 +5,7 @@ author: Lysippus the Comic Poet
 eul_wid: dso-aa
 eul_aid: dso
 canonical: "https://eulogikon.org/works/lysippus-comic-well-dog-dso-aa"
+lang: grc
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lysippus the Comic Poet
 
 **eul_wid:** `dso-aa` · [HTML page](https://eulogikon.org/works/lysippus-comic-well-dog-dso-aa)
-
-Fragments of the Well and the Dog is a lost comedy by the Athenian poet Lysippus, known only by its title and the notation that it comprised thirteen fragments. No direct quotations or synopsis of its plot have survived. The title suggests a comedic scenario involving a well and a dog, both familiar elements in the Greek comic tradition where wells often served as public settings for social encounters and dogs could appear as characters or carry symbolic weight. The extant catalog entry implies a narrative likely set in a domestic or public space revolving around social interaction, conflict, or humorous observation of animal behavior. The work's transmission depends entirely on its inclusion in modern scholarly collections of fragmentary Greek comedy, derived from lost indirect sources such as ancient lexicographers or grammarians who once cited it. While its direct literary influence is untraceable, the fragment contributes to the scholarly reconstruction of the lost corpus of Athenian comedy and the repertoire of its lesser-known practitioners.
 
 ## Text
 

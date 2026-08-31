@@ -5,6 +5,7 @@ author: Lucian of Samosata
 eul_wid: pfk-bw
 eul_aid: pfk
 canonical: "https://eulogikon.org/works/lucian-samosata-house-pfk-bw"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lucian of Samosata
 
 **eul_wid:** `pfk-bw` · [HTML page](https://eulogikon.org/works/lucian-samosata-house-pfk-bw)
-
-On the House is a prose encomium by the Syrian satirist and rhetorician Lucian of Samosata. Composed in the tradition of epideictic oratory, this short ceremonial speech is a detailed, 24-section celebration of an unnamed patron’s magnificent villa. The work exemplifies the practice of ekphrasis, or vivid descriptive set-piece, as it systematically praises the dwelling’s harmonious architectural proportions, its luxurious materials including marble, gold, and glass, and its exquisite interior decorations of paintings and sculptures. The oration culminates in a direct, personified address to the house itself, framing its overall splendor and symmetry as a reflection of the owner’s refined taste and wealth. Preserved within the Lucianic corpus through numerous stable medieval manuscripts, the text is considered an authentic product of Lucian’s early career as a traveling sophist, prior to his later turn toward satire. As a key example of imperial Greek rhetorical display, it provides valuable insight into the aesthetics of elite villa culture in the Roman East and the literary conventions of the Second Sophistic movement.
 
 ## Text
 

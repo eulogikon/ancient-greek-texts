@@ -1,10 +1,11 @@
 ---
 title: "On the Nature of Men, Synopsis"
 title_greek: Περὶ Φύσεως Ἀνθρώπων
-author: "Leo of Constantinople "
+author: Leo of Constantinople
 eul_wid: pqo-aa
 eul_aid: pqo
 canonical: "https://eulogikon.org/works/leo-constantinople-nature-men-pqo-aa"
+lang: grc
 period: Roman
 dialect: "Koine (phi, frg)"
 domain: Philosophy
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Περὶ Φύσεως Ἀνθρώπων*
 
-**Author:** Leo of Constantinople 
+**Author:** Leo of Constantinople
 
 **eul_wid:** `pqo-aa` · [HTML page](https://eulogikon.org/works/leo-constantinople-nature-men-pqo-aa)
-
-_On the Nature of Men_ is a 68-chapter Greek treatise attributed to Leo of Constantinople. Functioning as a philosophical and medical compendium, it synthesizes classical doctrines on human physiology, psychology, and pathology from a primarily doxographic perspective. The work systematically addresses the human body’s composition from the four classical elements and the four humors, the nature and faculties of the soul, and detailed topics in embryology, development, and sexual differentiation. It further covers physiology, including the senses, digestion, and brain function, before concluding with discussions on the causes of health, disease, and aging, and the influence of environment. Preserved in Greek manuscripts, the treatise is a complete compilation heavily reliant on prior sources, especially the Hippocratic corpus and Galen. As a Byzantine synoptic reference, its significance lies in preserving and organizing classical Greek medical and philosophical knowledge, representing a scholarly link in the transmission of ancient learning to later traditions.
 
 ## Text
 

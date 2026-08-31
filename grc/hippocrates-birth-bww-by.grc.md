@@ -5,6 +5,7 @@ author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-by
 eul_aid: bww
 canonical: "https://eulogikon.org/works/hippocrates-birth-bww-by"
+lang: grc
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hippocrates and the Hippocratic Corpus
 
 **eul_wid:** `bww-by` · [HTML page](https://eulogikon.org/works/hippocrates-birth-bww-by)
-
-On Birth is a concise medical treatise from ancient Greece, composed in Ionic Greek and preserved within the Hippocratic Corpus. Although traditionally attributed to Hippocrates, it is the work of an unknown author, likely dating to the fifth or fourth century BCE. The text comprises eleven sections devoted exclusively to human reproduction, systematically addressing the formation of the embryo from the union of male and female seed, the physiological conditions necessary for conception, the factors believed to determine the sex of the child, and the perceived causes of infertility.
-
-The treatise survives intact through medieval manuscript traditions of the Hippocratic collection. It exemplifies the naturalistic and empirical approach characteristic of Classical Greek medicine, seeking material explanations for biological processes rather than attributing them to divine intervention. Scholarly analysis suggests the work was intended for practical use by physicians and medical trainees. Its embryological theories, which belong to the period preceding Aristotle, often employ analogical reasoning, such as comparing fetal development to the growth of a plant. As a component of a broader set of texts concerning women's health, On Birth underscores the significant social and professional attention accorded to childbirth and gynecological knowledge in the ancient world.
 
 ## Text
 

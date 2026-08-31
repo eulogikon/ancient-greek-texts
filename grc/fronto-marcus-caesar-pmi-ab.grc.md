@@ -5,6 +5,7 @@ author: Fronto the Rhetorician
 eul_wid: pmi-ab
 eul_aid: pmi
 canonical: "https://eulogikon.org/works/fronto-marcus-caesar-pmi-ab"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Fronto the Rhetorician
 
 **eul_wid:** `pmi-ab` · [HTML page](https://eulogikon.org/works/fronto-marcus-caesar-pmi-ab)
-
-To Marcus Caesar and Each Other is a collection of letters and orations by the Roman rhetorician Marcus Cornelius Fronto, primarily composed in Greek and addressed to his pupil, the future emperor Marcus Aurelius, then known as Marcus Caesar, along with other members of the imperial court. The work, dating from approximately 139 to 161 CE, provides a detailed view of Fronto’s role as a tutor, focusing on the cultivation of eloquence, literary style, and the practical application of rhetoric to governance. Within this instructional correspondence, Fronto championed a return to the stylistic models of early Latin authors and emphasized the importance of finding novel and precise expressions. The letters also reveal a notable degree of personal affection between teacher and student, extending beyond formal pedagogical advice. The text survives only in a fragmentary state; the entire corpus was lost for centuries until its rediscovery in the early 19th century within palimpsest manuscripts, where the original writing had been partially erased and overwritten. Modern scholars value this work as a crucial historical source, offering an intimate glimpse into the education of Marcus Aurelius and the intellectual preoccupations of the Roman elite during the Antonine period.
 
 ## Text
 

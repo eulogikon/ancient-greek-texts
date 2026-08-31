@@ -5,6 +5,7 @@ author: Demosthenes of Athens
 eul_wid: fsm-bn
 eul_aid: fsm
 canonical: "https://eulogikon.org/works/demosthenes-athens-against-aristocrates-fsm-bn"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Demosthenes of Athens
 
 **eul_wid:** `fsm-bn` · [HTML page](https://eulogikon.org/works/demosthenes-athens-against-aristocrates-fsm-bn)
-
-Against Aristocrates is a forensic oration delivered by the Athenian statesman Demosthenes around 352 BCE. The speech constitutes a legal prosecution, known as a graphē paranomōn, against a decree proposed by Aristocrates. This decree sought to grant the mercenary commander Charidemus personal legal inviolability, making it a capital offense for anyone to kill him. Demosthenes argues before an Athenian jury that the proposal is both unconstitutional and dangerously contrary to Athenian interests, particularly regarding security in the Thracian Chersonese, a strategically vital region.
-
-The oration is a meticulously structured legal argument, systematically dismantling the decree on multiple grounds. Demosthenes contends that it violates fundamental Athenian laws by offering protection to an individual regardless of circumstance, thereby potentially shielding a murderer or traitor from justice. He further asserts that the decree foolishly jeopardizes Athenian relations with Thracian kings and undermines the city's authority over its own allies. The speech intertwines detailed legal exegesis with broader appeals to democratic principle and foreign policy realism, portraying the measure as a deceptive gambit that endangers the state under the guise of honoring an ally.
-
-Preserved in full within the Demosthenic corpus, the work spans 204 sections and survives through medieval manuscript traditions. It stands as a significant document for understanding Athenian legal procedure, specifically the mechanism for challenging illegal legislation, and illustrates the complex interplay of law, rhetoric, and geopolitics in the mid-fourth century. Scholars regard it as a mature example of Demosthenes' early oratorical style, showcasing his skill in combining rigorous forensic analysis with potent patriotic appeal.
 
 ## Text
 

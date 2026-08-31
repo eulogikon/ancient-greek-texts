@@ -5,6 +5,7 @@ author: Sosigenes of Alexandria
 eul_wid: mto-aa
 eul_aid: mto
 canonical: "https://eulogikon.org/works/sosigenes-alexandria-testimony-mto-aa"
+lang: grc
 period: Hellenistic
 dialect: Technical Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Sosigenes of Alexandria
 
 **eul_wid:** `mto-aa` · [HTML page](https://eulogikon.org/works/sosigenes-alexandria-testimony-mto-aa)
-
-The work Testimony is attributed to the Peripatetic philosopher Sosigenes of Alexandria, a teacher of Alexander of Aphrodisias and an associate of the astronomer Claudius Ptolemy in the 2nd century CE. It is described as a collection, but the work is entirely lost, with no direct attestation or details of its content preserved in the extant historical record. Sosigenes’ philosophical ideas survive only through fragments and testimonia cited by later Neoplatonist commentators, particularly Simplicius, who references him in discussions of Aristotelian physics, cosmology, time, and motion. While the specific influence of Testimony remains unknown, Sosigenes’ critiques of Ptolemaic astronomy and his interpretations of Aristotelian theory were engaged with by later Peripatetic and Neoplatonic thinkers. His role as the teacher of Alexander of Aphrodisias secured his indirect influence on the subsequent tradition of Aristotelian commentary.
 
 ## Text
 

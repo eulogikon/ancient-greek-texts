@@ -5,6 +5,7 @@ author: Comic Fragments Anonymous II
 eul_wid: kfu-ac
 eul_aid: kfu
 canonical: "https://eulogikon.org/works/anon-comic-fragments-ii-new-comedies-kfu-ac"
+lang: grc
 period: Hellenistic
 dialect: Mixed Dialects
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Comic Fragments Anonymous II
 
 **eul_wid:** `kfu-ac` · [HTML page](https://eulogikon.org/works/anon-comic-fragments-ii-new-comedies-kfu-ac)
-
-The Anonymous New Comedies constitute a modern scholarly collection of 360 fragmentary passages from otherwise lost plays of Greek New Comedy. Attributed by editors to the classification "Comic Fragments Anonymous II," these excerpts are preserved not in original manuscripts but as quotations within the works of later grammarians, lexicographers such as Pollux, and anthologists like Stobaeus. The collection provides fragmentary glimpses into the language, character types, and scenarios of the genre. While the specific plots of the original plays are irrecoverable, the fragments align with standard New Comedy themes, including romantic love and obstacles to marriage, family conflicts between fathers and sons, recognition scenes and the restoration of lost family members, and social tensions involving the clever schemes of slaves. The fragments survive entirely through this indirect transmission, embedded in the texts of later ancient and Byzantine authors who valued them for their linguistic or sententious content. They vary in length from single phrases to short dialogues, though no continuous play text can be reconstructed from them. Though lacking direct literary influence, these anonymous fragments are crucial for understanding the breadth of New Comedy beyond its major canonical authors. They served as important source material for later Roman adaptors like Plautus and Terence and remain valuable for scholarly study of the genre's dramatic conventions and Attic Greek usage.
 
 ## Text
 

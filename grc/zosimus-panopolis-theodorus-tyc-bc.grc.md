@@ -5,6 +5,7 @@ author: Zosimus of Panopolis
 eul_wid: tyc-bc
 eul_aid: tyc
 canonical: "https://eulogikon.org/works/zosimus-panopolis-theodorus-tyc-bc"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Zosimus of Panopolis
 
 **eul_wid:** `tyc-bc` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-theodorus-tyc-bc)
-
-Zosimus to Theodorus is an ancient Greek alchemical treatise composed around 300 CE by Zosimus of Panopolis, a seminal author in the early history of alchemy. Structured as four instructional chapters addressed to a disciple named Theodorus, the work presents a synthesis of practical laboratory techniques and philosophical allegory. It details specific metallurgical operations for the coloring or tincturing of metals, describing the use of particular apparatus and substances while consistently framing this technical work as a sacred, ritual practice. This integration has led modern scholars to interpret the treatise as embodying a soteriological theme, wherein the transformation of base matter is presented as an analogue for the liberation of the divine spirit from the confines of the material body.
-
-The text survives through a complex and often fragmentary manuscript tradition. Like the broader corpus attributed to Zosimus, it is preserved primarily within later Byzantine Greek compilations of alchemical writings, which frequently contain corrupted or abbreviated versions of the original works. Despite these textual challenges, the treatise proved highly influential, forming a crucial link in the transmission of alchemical knowledge. It was later translated into Syriac and Arabic, and through these channels its concepts helped shape the development of alchemical theory and practice in both the Islamic world and medieval Latin Europe.
 
 ## Text
 

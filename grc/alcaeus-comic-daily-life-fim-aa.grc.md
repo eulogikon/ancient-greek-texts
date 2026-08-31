@@ -5,6 +5,7 @@ author: Alcaeus the Comic Poet
 eul_wid: fim-aa
 eul_aid: fim
 canonical: "https://eulogikon.org/works/alcaeus-comic-daily-life-fim-aa"
+lang: grc
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alcaeus the Comic Poet
 
 **eul_wid:** `fim-aa` · [HTML page](https://eulogikon.org/works/alcaeus-comic-daily-life-fim-aa)
-
-The Fragments on Daily Life is a modern descriptive title for excerpts from the comedies of Alcaeus, a poet of Athenian Middle Comedy active in the fourth century BCE. No complete play by Alcaeus survives; the extant fragments consist of quotations preserved by later authors, primarily concerning themes of daily life. The collection reflects the period's broader shift in comic drama away from the direct political satire of Old Comedy and toward social realism, domestic situations, and mythological parody. Key themes in the surviving lines include mythological burlesque, as evidenced by play titles such as Ganymede and Pasiphae, alongside vivid depictions of food, drink, and domestic scenes. Titles like The Sophist also suggest an element of intellectual satire. The fragments survive solely through quotation in later scholarly works, most notably Athenaeus’s Deipnosophistae, which cites Alcaeus approximately thirty times. Other sources include the lexicographer Pollux and the anthologist Stobaeus. Alcaeus represents a transitional figure in Greek comedy; his work exemplifies the Middle Comic focus on social types and mythological humor, forming a bridge between the political Old Comedy of Aristophanes and the domestic, character-driven New Comedy of Menander. These fragments are thus crucial textual evidence for reconstructing the evolution of the genre.
 
 ## Text
 

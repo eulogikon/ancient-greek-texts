@@ -5,6 +5,7 @@ author: Julian the Apostate
 eul_wid: sno-ar
 eul_aid: sno
 canonical: "https://eulogikon.org/works/julian-apostate-epigrams-sno-ar"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Julian the Apostate
 
 **eul_wid:** `sno-ar` · [HTML page](https://eulogikon.org/works/julian-apostate-epigrams-sno-ar)
-
-The Epigrams constitute a brief collection of short Greek poems attributed to the Roman Emperor Julian, historically known as Julian the Apostate. Composed during his reign from 361 to 363 CE, these verses are a direct engagement with the classical tradition of Greek epigrammatic poetry, characterized by its concision and often pointed or philosophically reflective nature. The extant collection is exceptionally small, comprising only three distinct passages.
-
-These poems represent a minor yet characteristic element of Julian’s comprehensive literary and cultural project. As emperor, he was fervently committed to reversing the advance of Christianity and revitalizing traditional Roman and Hellenic religious and intellectual life. His entire written corpus, including philosophical orations, extensive letters, and these epigrams, served this ideological purpose, being crafted for an audience steeped in classical literature. The content of the Epigrams aligns with this broader aim, celebrating traditional deities and exploring Neoplatonic concepts that resonate with the themes developed in his more substantial prose works.
-
-The specific transmission history of these poems is not elaborated in major historical sources, but they survive as an authentic, albeit very limited, component of Julian’s collected works. They were preserved through medieval manuscripts alongside other authors of late antiquity. While the Epigrams themselves exerted minimal direct literary influence, they are a succinct testament to the cultural campaign of an emperor whose efforts to restore paganism secured his lasting and complex significance in the history of the Roman Empire.
 
 ## Text
 

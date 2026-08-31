@@ -5,6 +5,7 @@ author: Paul of Alexandria the Astrologer
 eul_wid: sum-ab
 eul_aid: sum
 canonical: "https://eulogikon.org/works/paul-alexandria-summary-sum-ab"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Paul of Alexandria the Astrologer
 
 **eul_wid:** `sum-ab` · [HTML page](https://eulogikon.org/works/paul-alexandria-summary-sum-ab)
-
-The Synopsis, also known as the Introduction to the Predictive Art, is an introductory astrological textbook composed in Greek by Paul of Alexandria around 378 CE. This systematic treatise serves as a guide to the core principles of Hellenistic astrology, designed to instruct students in the methods of casting and interpreting horoscopes. It provides clear explanations of fundamental concepts, including the characteristics and subdivisions of the twelve zodiac signs, the influences and dignities of the planets, the system of astrological houses, and specific predictive techniques such as those for determining the length of life. The work is structured as a didactic manual in four parts, progressing from basic definitions to more advanced procedures. Modern scholarship regards it as a key pedagogical text from late antiquity, reflecting the formalization and systematization of astrological education during that period. Its influence was significantly extended when the sixth-century philosopher Olympiodorus the Younger composed an extensive commentary on it. Through this commentary and subsequent translations into Arabic and Latin, Paul’s Synopsis played a crucial role in transmitting Hellenistic astrological doctrine and practice to the Byzantine, Islamic, and medieval European worlds.
 
 ## Text
 

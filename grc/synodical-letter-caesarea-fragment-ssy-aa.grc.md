@@ -5,6 +5,7 @@ author: Synodical Letter of the Council of Caesarea
 eul_wid: ssy-aa
 eul_aid: ssy
 canonical: "https://eulogikon.org/works/synodical-letter-caesarea-fragment-ssy-aa"
+lang: grc
 period: Late Antique
 dialect: Christian Koine
 domain: Theology
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Synodical Letter of the Council of Caesarea
 
 **eul_wid:** `ssy-aa` · [HTML page](https://eulogikon.org/works/synodical-letter-caesarea-fragment-ssy-aa)
-
-The Fragment of a Letter is a surviving portion of the Synodical Letter of the Council of Caesarea, an official ecclesiastical document issued to announce conciliar decisions on matters of doctrine and heresy. While the specific council is not definitively identified, it is traditionally associated with a provincial council convened by Eusebius of Caesarea around 321 CE, which addressed Christological controversies preceding the First Council of Nicaea. The extant fragment, preserved by the church historian Eusebius in his Ecclesiastical History, instructs recipients to circulate copies of the letter to every parish to guard against those who easily lead souls astray. It notably coordinates the unified observance of Easter between the churches of Caesarea and Alexandria, indicating an early effort to establish liturgical harmony.
-
-The content of the fragment, though brief, points to the broader concerns of fourth-century synodical literature, which centered on defining orthodox belief, asserting ecclesiastical authority, and condemning heretical positions, such as those associated with Arianism. Such letters were primary instruments for disseminating doctrinal rulings and shaping early Christian orthodoxy. The transmission of this specific fragment is typical of many early church documents; it survives not as an independent manuscript but through its quotation within a later historical work, in this case the writings of Eusebius. If authentic to the pre-Nicene period, this fragment provides valuable evidence for the theological debates and administrative communications that culminated in the formal creedal statements of the fourth century, illustrating the procedural and doctrinal groundwork laid by regional councils before major ecumenical gatherings.
 
 ## Text
 

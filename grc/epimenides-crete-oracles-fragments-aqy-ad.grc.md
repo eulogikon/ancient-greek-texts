@@ -5,6 +5,7 @@ author: Epimenides of Crete
 eul_wid: aqy-ad
 eul_aid: aqy
 canonical: "https://eulogikon.org/works/epimenides-crete-oracles-fragments-aqy-ad"
+lang: grc
 period: Archaic
 dialect: Epic (Homeric)
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Epimenides of Crete
 
 **eul_wid:** `aqy-ad` · [HTML page](https://eulogikon.org/works/epimenides-crete-oracles-fragments-aqy-ad)
-
-The Oracles and Theological Fragments is a modern compilation of sayings attributed to the semi-legendary Cretan sage Epimenides, traditionally dated to the 7th or 6th century BCE. No complete work by Epimenides survives; the collection consists of 28 passages preserved only as quotations by later Greek and Christian authors. These fragments include oracular verses, theological ideas, and critiques, most famously the hexameter line quoted by the Apostle Paul in his Epistle to Titus that declares "Cretans are always liars, evil beasts, lazy gluttons." The themes encompass ritual purification, cosmology, and the nature of the gods. Epimenides was remembered in antiquity as a prophet and purifier who performed important rituals for cities such as Athens. The fragments represent early Greek wisdom literature, where such sages offered religious guidance and sometimes critiqued popular theology. Some passages suggest a theological perspective in which a supreme god, Zeus, subsumes all other deities. The entire transmission of this material is indirect, relying wholly on the texts of later writers who quoted or mentioned Epimenides.
 
 ## Text
 

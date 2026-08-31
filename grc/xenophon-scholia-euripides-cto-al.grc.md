@@ -5,6 +5,7 @@ author: Xenophon Scholia
 eul_wid: cto-al
 eul_aid: cto
 canonical: "https://eulogikon.org/works/xenophon-scholia-euripides-cto-al"
+lang: grc
 period: Classical
 dialect: Mixed Dialects
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Xenophon Scholia
 
 **eul_wid:** `cto-al` · [HTML page](https://eulogikon.org/works/xenophon-scholia-euripides-cto-al)
-
-The Lives of Euripides is an anonymous biographical compilation preserved within the scholiastic tradition on the plays of Euripides. Erroneously attributed to the historian Xenophon in some manuscripts, the work is not a unified biography but an anthology of nine distinct passages that gather anecdotal and historical traditions about the poet. These passages compile conflicting data on Euripides’s life, including his birthplace, parentage, teachers, career, and death, while also presenting various characterizations of his personality, often depicting him as misanthropic or scholarly. The compilation incorporates numerous anecdotes that seek to link events of his life to themes in his literary works or to contemporary historical events, drawing from lost Hellenistic and Roman sources. The text survives exclusively as part of the marginal scholia in medieval manuscripts of Euripides’s plays and was not transmitted as an independent work. Its transmission is therefore entirely dependent on this manuscript tradition, and the passages are edited in modern collections of the Vitae Euripidis. This compilation served as the foundational source for later understandings of Euripides’s biography from the medieval period through the Renaissance. Modern scholarship treats it as a critical source, carefully distinguishing elements of historical likelihood from later legendary accretions and inferences drawn from the dramas themselves.
 
 ## Text
 

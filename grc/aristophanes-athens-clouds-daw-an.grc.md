@@ -5,6 +5,7 @@ author: Aristophanes of Athens
 eul_wid: daw-an
 eul_aid: daw
 canonical: "https://eulogikon.org/works/aristophanes-athens-clouds-daw-an"
+lang: grc
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristophanes of Athens
 
 **eul_wid:** `daw-an` · [HTML page](https://eulogikon.org/works/aristophanes-athens-clouds-daw-an)
-
-Clouds is a comedy by the ancient Athenian playwright Aristophanes. Written in verse, the play is a prime example of Old Comedy. The plot follows an elderly farmer, Strepsiades, who enrolls in a "Thinkery" run by a caricature of the philosopher Socrates to learn clever argumentation and escape his debts. The play satirizes the new intellectual trends of its time, contrasting them with traditional morality, and features a chorus of Clouds who embody these shifting, ambiguous ideas. The text preserved today is a revised version; the original was performed in 423 BCE and failed in competition, after which Aristophanes reworked it, likely between 418 and 416 BCE. This complete revised version is structured across typical comic sections including a prologue, a formal debate, and a direct address to the audience. Modern scholars interpret the work as a conservative critique of the Sophistic movement and its perceived corrosive influence on Athenian society during the Peloponnesian War. Its memorable, though distorted, portrayal of Socrates is historically significant for its contribution to the philosopher's controversial public image.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Callimachus Scholia
 eul_wid: vmw-af
 eul_aid: vmw
 canonical: "https://eulogikon.org/works/callimachus-scholia-narratives-lyrica-vmw-af"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: Grammar
@@ -19,22 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Callimachus Scholia
 
 **eul_wid:** `vmw-af` · [HTML page](https://eulogikon.org/works/callimachus-scholia-narratives-lyrica-vmw-af)
-
-Overview The Narratives-Lyrica Ancient Scholia (Διηγήσεις εἰς Λυρικὰ Ἀρχαῖα Σχόλια) is a collection of ancient prose commentaries, or scholia, on early Greek lyric poetry. Attributed to the scholarly tradition of Callimachus of Cyrene, it provides glosses, interpretations, and narrative explanations for the works of lyric poets. The surviving text consists of four passages, representing the layered work of Alexandrian and later grammarians.
-
-Content The scholia address characteristic exegetical themes:
-
-Textual criticism, including variant readings and editorial notes.
-
-Exegesis of difficult words and grammatical constructions.
-
-Mythological narrative (διήγησις) clarifying references within the poetry.
-
-Historical, biographical, and metrical analysis.
-
-Transmission Like most ancient scholia, this collection survives fragmentarily, likely preserved within medieval manuscripts of the lyric poets or Byzantine compilations. The original Hellenistic commentaries are lost; extant passages are later epitomes from Roman and Byzantine scholarship.
-
-Significance Scholia such as these are invaluable for modern scholarship, preserving fragments of lost works, recording ancient textual variants, and illuminating classical interpretive practices. They are crucial for reconstructing the fragmentary corpus of Greek lyric poetry and demonstrate the philological methodologies established by Alexandrian scholars that influenced subsequent literary criticism.
 
 ## Text
 

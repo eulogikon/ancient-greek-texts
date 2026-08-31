@@ -5,6 +5,7 @@ author: Aristophanes Scholia
 eul_wid: mlw-ac
 eul_aid: mlw
 canonical: "https://eulogikon.org/works/aristophanes-scholia-knights-mlw-ac"
+lang: grc
 period: Hellenistic
 dialect: Technical Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristophanes Scholia
 
 **eul_wid:** `mlw-ac` · [HTML page](https://eulogikon.org/works/aristophanes-scholia-knights-mlw-ac)
-
-The Argument to the Knights is a prose introduction to Aristophanes' comedy The Knights, composed by an anonymous ancient or medieval scholiast. As part of the scholia tradition, it represents compiled marginal commentary designed to explicate the play. These commentaries typically clarify textual difficulties, historical and political references, mythological allusions, and provide dramaturgical context. The content of this particular argument serves as a historical preface, explaining that the poet produced the play as an attack against the Athenian demagogue Cleon, whom it characterizes as a fiery orator and formidable soldier. It recounts Cleon's promise to capture Spartan-held territory at Pylos within twenty days and his subsequent military success against the renowned Spartan general Brasidas, an event which turned Spartan songs of victory into lamentation. The scholia are transmitted within medieval manuscripts of Aristophanes' comedies, the oldest surviving copies dating from the Byzantine era. They are a composite text, condensed from earlier Hellenistic and Roman scholarly sources, including works now lost. The Aristophanic scholia are indispensable for modern scholarship, as they preserve fragments of lost historical works and offer crucial insights into the historical context of Old Comedy by interpreting obscure contemporary jokes and political references. They also provide valuable evidence for the history of classical scholarship and textual criticism.
 
 ## Text
 

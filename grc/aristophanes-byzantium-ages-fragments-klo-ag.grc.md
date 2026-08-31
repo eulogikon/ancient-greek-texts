@@ -5,6 +5,7 @@ author: Aristophanes of Byzantium
 eul_wid: klo-ag
 eul_aid: klo
 canonical: "https://eulogikon.org/works/aristophanes-byzantium-ages-fragments-klo-ag"
+lang: grc
 period: Hellenistic
 dialect: Technical Koine
 domain: Grammar
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristophanes of Byzantium
 
 **eul_wid:** `klo-ag` · [HTML page](https://eulogikon.org/works/aristophanes-byzantium-ages-fragments-klo-ag)
-
-The Names of Ages Fragments is a lost grammatical treatise by the Hellenistic scholar Aristophanes of Byzantium, head of the Library of Alexandria during the 3rd and 2nd centuries BCE. The work was a specialized lexicographical study, systematically cataloging and defining the Greek terminology for the successive stages of human life from infancy to old age. It compiled and explained these terms as they appeared in the works of classical poets and prose authors, serving as a scholarly reference tool for the systematic study and classification of Greek language and literature undertaken at Alexandria.
-
-The complete treatise has not survived; knowledge of its content derives entirely from seven brief fragments preserved through quotation by later Byzantine grammarians and lexicographers. These excerpts are found in sources such as the Suda encyclopedia and the lexicon of Hesychius of Alexandria, who incorporated Aristophanes' precise definitions into their own compilations. The surviving fragments demonstrate the methodical approach of the work, offering definitions that distinguish terms like brephos (newborn infant), paidion (nursling), and meirakion (young man), while also noting dialectal variations, such as the Spartan use of hippeis for youths. The treatise exemplifies the Alexandrian scholarly project of meticulous textual analysis, glossary creation, and the preservation of precise poetic vocabulary, thereby forming a foundational contribution to the development of Greek philology.
 
 ## Text
 

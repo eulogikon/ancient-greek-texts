@@ -5,6 +5,7 @@ author: Hesiod
 eul_wid: aau-ad
 eul_aid: aau
 canonical: "https://eulogikon.org/works/hesiod-testimonies-aau-ad"
+lang: grc
 period: Archaic
 dialect: Epic (Homeric)
 domain: Epic
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hesiod
 
 **eul_wid:** `aau-ad` · [HTML page](https://eulogikon.org/works/hesiod-testimonies-aau-ad)
-
-The Testimonies is a lost work attributed to the early Greek poet Hesiod, surviving only as a title and a handful of references in later antiquity. Unlike Hesiod’s major extant epic poems, the Theogony and Works and Days, it is not discussed as a complete text but exists as a fragmentary collection known through indirect citation. The title suggests a composition of authoritative statements or accounts, though its precise content remains unspecified. Given its attribution to Hesiod and the nature of his other works, it may plausibly have contained mythological genealogies, declarations on divine or heroic subjects, or didactic narratives concerning the origins of the world and the gods. The work is preserved solely through quotations by later grammarians and compilers, with the few surviving passages constituting the entirety of its known tradition. As part of the broader Hesiodic corpus, the Testimonies would have contributed to the poet’s established authority as a foundational source for Greek mythology and cosmological thought, even though its direct influence and specific contents are now irrecoverable.
 
 ## Text
 

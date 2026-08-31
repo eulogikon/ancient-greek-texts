@@ -5,6 +5,7 @@ author: Lyric Work Anonymous
 eul_wid: aeq-aa
 eul_aid: aeq
 canonical: "https://eulogikon.org/works/popular-songs-swallow-song-aeq-aa"
+lang: grc
 period: Archaic
 dialect: Mixed Dialects (frg)
 domain: Poetry
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lyric Work Anonymous
 
 **eul_wid:** `aeq-aa` · [HTML page](https://eulogikon.org/works/popular-songs-swallow-song-aeq-aa)
-
-The Fragments of the Swallow Song refer to the surviving passages of an ancient Greek ritual folk song, traditionally performed to welcome the return of swallows in spring. Ancient sources describe it as a popular custom in which children, sometimes carrying a model of a swallow, would go from door to door singing the song and soliciting gifts of food, such as cakes, wine, and cheese. The song itself celebrates the arrival of the swallow as a herald of the fair season and good years, describing the bird's distinctive white belly and dark back. The lyrics contain a playful, demanding tone, with the singers threatening to take a door, lintel, or even the woman sitting inside the house if no gift is given, while also insisting they are merely children. The performance is framed as an offering to a god, likely Dionysus, with references to making space for the deity to pass through. The textual fragments that survive emphasize novelty and purity in the hymn, invoking traditional spring flowers and herbs like roses, violets, and celery.
-
-The song is not preserved as a complete, unified literary work but is known through descriptions and quotations in later authors, most notably in Athenaeus’s Deipnosophistae, which cites the lyric poet Alcman and the philosopher Clearchus of Soli as sources. Consequently, its transmission is entirely indirect, surviving as a proverbial example of a recurring folk ritual rather than a fixed poetic text. The Swallow Song tradition remained a recognizable cultural reference for centuries, and its basic structure of a seasonal processional song performed by children is considered a precursor to later, and even modern, Greek spring festivals, demonstrating the remarkable continuity of ancient celebratory practices within folk culture.
 
 ## Text
 

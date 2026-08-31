@@ -5,6 +5,7 @@ author: Aristotle
 eul_wid: hgw-br
 eul_aid: hgw
 canonical: "https://eulogikon.org/works/aristotle-economics-hgw-br"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristotle
 
 **eul_wid:** `hgw-br` · [HTML page](https://eulogikon.org/works/aristotle-economics-hgw-br)
-
-The Oeconomica (Economics) is a three-book treatise on household management traditionally included in the Aristotelian corpus, though its authorship is a subject of significant scholarly dispute. Modern consensus largely rejects Aristotle’s direct authorship for the work as a whole, with only the first of its three books considered a possibly authentic or early Peripatetic composition. Books II and III are generally regarded as later additions from the Hellenistic or early Roman periods. The first book, organized into 22 sections, provides a systematic analysis of the theory and practice of oikonomia, or household administration. It begins by distinguishing household management from political rule, noting that while the latter involves many rulers, the former is a kind of monarchy. The text defines the household as the fundamental unit of the city-state and examines its essential components: the relationships between husband and wife, father and children, and master and slaves. It further explores the nature of property, the acquisition of wealth, and the ethical use of resources, carefully differentiating between proper stewardship for the needs of the household and the art of trade for mere moneymaking.
-
-Composed for an audience of educated Greek men, the treatise served a pedagogical function, outlining the principles of sound domestic governance considered a necessary foundation for participation in political life. Its conceptual framework aligns with Aristotelian political philosophy, wherein the household is analyzed as the primary constituent of the political community. Although transmitted as a complete text within the Aristotelian tradition, its heterogeneous nature and stylistic variations have led to its classification as a composite work. Despite questions surrounding its provenance, the Oeconomica exerted considerable influence in later antiquity, the medieval period, and the early modern era, shaping enduring discourses on domestic economy, ethical wealth management, and the social structure of the household.
 
 ## Text
 

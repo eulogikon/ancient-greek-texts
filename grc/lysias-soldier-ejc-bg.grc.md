@@ -5,6 +5,7 @@ author: Lysias the Orator
 eul_wid: ejc-bg
 eul_aid: ejc
 canonical: "https://eulogikon.org/works/lysias-soldier-ejc-bg"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lysias the Orator
 
 **eul_wid:** `ejc-bg` · [HTML page](https://eulogikon.org/works/lysias-soldier-ejc-bg)
-
-"For the Soldier" is a forensic oration composed by the Athenian speechwriter Lysias, dating to the early fourth century BCE. The work survives only in fragmentary form, preserved through quotations in later ancient sources rather than in a continuous manuscript tradition. The extant portions of the text indicate it was a defense speech written for a client, identified by the title as a soldier, to deliver in an Athenian court. While the precise nature of the legal case remains unclear due to the fragmentary evidence, the context suggests a dispute related to military service, possibly concerning pay, inheritance, or conduct. The surviving fragments exemplify Lysias's characteristically clear and persuasive style, adept at constructing a credible persona for the litigant as a dutiful citizen who had served the state. The speech belongs to the period of the restored democracy following the oligarchic revolutions at the end of the Peloponnesian War, a time when Lysias produced numerous logoi, or written speeches, for private clients involved in litigation. Although the complete argument cannot be reconstructed, these fragments remain significant for the study of Athenian legal rhetoric and the professional practice of logography in classical Athens.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Dionysius of Halicarnassus
 eul_wid: ndy-an
 eul_aid: ndy
 canonical: "https://eulogikon.org/works/dionysius-halicarnassus-deinarchus-ndy-an"
+lang: grc
 period: Hellenistic
 dialect: Attic
 domain: History
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Dionysius of Halicarnassus
 
 **eul_wid:** `ndy-an` · [HTML page](https://eulogikon.org/works/dionysius-halicarnassus-deinarchus-ndy-an)
-
-On Deinarchus is a critical essay by the historian and rhetorician Dionysius of Halicarnassus, dedicated to a certain Ammaeus. The work systematically establishes the authentic corpus of the orator Deinarchus, who was active in Athens during the late fourth and early third centuries BCE. Dionysius opens by explaining his initial omission of Deinarchus from his earlier critical writings, noting that the orator was neither an innovator of a distinct style, like Lysias or Isocrates, nor a perfecter of styles invented by others, like Demosthenes. However, recognizing Deinarchus's considerable contemporary reputation and the substantial body of public and private speeches attributed to him, Dionysius deemed it necessary to provide a thorough examination. The treatise aims to clarify the orator's life and stylistic character and, most crucially, to distinguish his genuine works from spurious attributions, a task he considers essential for serious students of rhetoric.
-
-The core of the essay is a meticulous philological investigation. Dionysius employs detailed stylistic and historical analysis to rectify widespread misattributions, which arose primarily from similarities between Deinarchus’s style and those of his more famous contemporaries, Hyperides and Demosthenes. His method involves a rigorous criticism of style and compositional technique, assessing each disputed speech against the known hallmarks of Deinarchan prose. Furthermore, he contextualizes the speeches within specific historical events, such as the Harpalus affair, to test their plausibility. Through this process, Dionysius presents Deinarchus as a practitioner of a effective "middle style," one that successfully blended elements from his rhetorical predecessors without achieving their individual distinction. He explicitly criticizes earlier scholars, including Callimachus and the grammarians of Pergamum, for their inaccurate catalogues, which had erroneously assigned to Deinarchus speeches that were in no way his own.
-
-The complete text of the essay survives within the medieval manuscript tradition of Dionysius’s collected rhetorical works. Its significance is twofold. First, it remains the foundational source for reconstructing the Deinarchan corpus; of the many speeches once circulating under his name, only three are widely accepted as extant today, and they are preserved independently of Dionysius's treatise. Second, the essay is a key document in the history of classical scholarship, exemplifying the advanced textual and historical methodology of Hellenistic philology. It stands as a primary source for understanding the later classical Athenian oratorical tradition and the critical practices used to study it.
 
 ## Text
 

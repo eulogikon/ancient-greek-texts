@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-cz
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-questions-okg-cz"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-cz` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-questions-okg-cz)
-
-Platonic Questions is a philosophical work by the Greek writer Plutarch of Chaeronea, composed around 100 CE. Written in Attic Greek prose, it belongs to a genre of scholarly literature known as problemata, which presents a series of specific puzzles and their proposed solutions. The work is structured as 71 short entries, each beginning with a question about a passage or doctrine from Plato’s dialogues, such as the Timaeus or Republic, followed by one or more interpretive answers. It serves as a focused commentary, covering topics from cosmology and metaphysics to psychology and ethics. The text reflects Plutarch’s role as a leading Platonist philosopher of the early Roman Empire, aiming to clarify and defend Plato’s ideas for educated students and readers. Modern scholars view the work as a key example of Middle Platonist exegesis, illustrating how Plato’s texts were studied and explained in antiquity. The complete text survives as part of Plutarch’s larger collection known as the Moralia and has been transmitted through medieval manuscripts.
 
 ## Text
 

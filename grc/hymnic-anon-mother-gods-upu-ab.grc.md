@@ -5,6 +5,7 @@ author: Hymnic Collection  Anonymous
 eul_wid: upu-ab
 eul_aid: upu
 canonical: "https://eulogikon.org/works/hymnic-anon-mother-gods-upu-ab"
+lang: grc
 period: Classical
 dialect: Epic (Homeric)
 domain: Poetry
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hymnic Collection  Anonymous
 
 **eul_wid:** `upu-ab` · [HTML page](https://eulogikon.org/works/hymnic-anon-mother-gods-upu-ab)
-
-Hymn 14 to the Mother of the Gods is a brief, anonymous religious poem from the collection traditionally known as the Homeric Hymns. Composed in the epic dactylic hexameter, this six-line hymn directly invokes and praises the goddess, addressing her as the Mother of the Gods and the spouse of Heaven. The singer asks for her favor in return for a song that will also commemorate her Phrygian consort, often identified as the hero Attis. The hymn exemplifies the concise structure of the ancient Greek hymnic form, moving from invocation to a prayer for divine favor.
-
-It is one of thirty-three such hymns that functioned either as preludes to epic recitations or as standalone devotional pieces. Though attributed to Homer in antiquity, these hymns were not composed by him but belong to a long oral tradition spanning the Archaic to Classical periods, approximately from the seventh to the fifth centuries BCE. The specific allusion to Phrygian myth situates Hymn 14 within the cultic context of the Great Mother, a powerful deity of Anatolian origin whose worship was integrated into Greek religion. Scholars regard the hymn as valuable evidence for the poetic and ritual assimilation of this foreign goddess into the Greek world. The text survives complete within the medieval manuscript tradition of the Homeric Hymns, preserved primarily in copies from the fifteenth and sixteenth centuries. Its precise authorship and date of composition remain uncertain, a characteristic common to works from this oral-formulaic tradition.
 
 ## Text
 

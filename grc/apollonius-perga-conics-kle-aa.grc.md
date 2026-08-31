@@ -5,6 +5,7 @@ author: Apollonius of Perga
 eul_wid: kle-aa
 eul_aid: kle
 canonical: "https://eulogikon.org/works/apollonius-perga-conics-kle-aa"
+lang: grc
 period: Hellenistic
 dialect: Technical Koine
 domain: Mathematics
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Apollonius of Perga
 
 **eul_wid:** `kle-aa` · [HTML page](https://eulogikon.org/works/apollonius-perga-conics-kle-aa)
-
-Conics is a comprehensive mathematical treatise by Apollonius of Perga, written circa 200 BCE, which systematically established the classical theory of conic sections. The work, originally comprising eight books, presents a complete geometric investigation of the curves—the parabola, ellipse, and hyperbola—produced by intersecting a plane with a cone. Apollonius himself coined the names for these three primary curves. The first four books cover fundamental definitions, properties, and the generation of the sections from an oblique double cone, introducing key concepts such as the characteristic equation, or symptom, and the latus rectum. Books five through seven contain more advanced studies, including investigations into normals, conjugate diameters, and the conditions for similarity and intersection between conics. The eighth book is lost.
-
-The treatise is characterized by its rigorous synthetic geometric method and superseded all prior treatments to become the definitive ancient work on the subject. Its transmission was pivotal for later mathematical development. Books one through four survive in their original Greek, preserved in Byzantine manuscripts, the oldest of which dates from the tenth century. The advanced books, five through seven, are extant primarily through a ninth-century Arabic translation made by the Banū Mūsā scholars and later edited by Thābit ibn Qurra. The work was recovered for European scholarship during the Renaissance, with the first printed Greek edition of books one through four, alongside a Latin reconstruction of books five through seven, published by Edmund Halley in 1710. The geometric framework established in the Conics provided essential tools for the scientific revolution, most directly enabling Johannes Kepler's discovery of elliptical planetary orbits, and profoundly influenced the subsequent development of analytic geometry.
 
 ## Text
 

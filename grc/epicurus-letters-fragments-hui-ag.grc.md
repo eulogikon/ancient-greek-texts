@@ -5,6 +5,7 @@ author: Epicurus the Philosopher
 eul_wid: hui-ag
 eul_aid: hui
 canonical: "https://eulogikon.org/works/epicurus-letters-fragments-hui-ag"
+lang: grc
 period: Hellenistic
 dialect: Attic Philosophical
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Epicurus the Philosopher
 
 **eul_wid:** `hui-ag` · [HTML page](https://eulogikon.org/works/epicurus-letters-fragments-hui-ag)
-
-The Fragments of Letters constitutes a collection of philosophical excerpts attributed to the Hellenistic philosopher Epicurus. Numbering eighty-nine in total, it is not a unified literary composition but a compilation of pivotal passages, most likely extracted from his more extensive correspondence and treatises. The collection survives almost exclusively within the tenth book of Diogenes Laertius's 3rd-century CE work Lives of Eminent Philosophers, where it was incorporated to provide a systematic summary of Epicurus's core doctrines. The fragments concisely delineate the foundational pillars of Epicurean thought: a canon of knowledge grounded in sensory evidence, a physical theory of atomism, a theology positing blissful and detached deities, and an ethical system aimed at attaining tranquility, or ataraxia. This state is achieved through the prudent pursuit of natural and necessary pleasures and, crucially, the elimination of psychological disturbances, most notably the fear of death and divine punishment.
-
-Organized thematically, the work presents succinct tenets suitable for study and memorization. Modern scholarship generally interprets this compilation as a later, perhaps pedagogical, effort to distill Epicurus's teachings into an accessible handbook for students. This function aligns with the historical practice of Epicurus's own school, the Garden, which utilized letters as central instructional texts disseminated throughout the Hellenistic world. The transmission of these fragments is entirely dependent on the manuscript tradition of Diogenes Laertius's biographical work; no independent copy of this specific collection is known to exist.
 
 ## Text
 

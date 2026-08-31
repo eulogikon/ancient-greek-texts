@@ -5,6 +5,7 @@ author: Rhianus of Crete
 eul_wid: izm-ab
 eul_aid: izm
 canonical: "https://eulogikon.org/works/rhianus-crete-human-folly-divine-gifts-izm-ab"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: Epic
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Rhianus of Crete
 
 **eul_wid:** `izm-ab` · [HTML page](https://eulogikon.org/works/rhianus-crete-human-folly-divine-gifts-izm-ab)
-
-On Human Folly and Divine Gifts, a fragmentary epic poem by the 3rd-century BCE Hellenistic poet Rhianus of Crete, survives only in 85 brief passages quoted by the later author Athenaeus in his Deipnosophistae. Also known by the Greek title Apospasmata, meaning Extracts, the work is not a continuous narrative but a collection of episodic verses. These fragments primarily offer detailed descriptions of foods, wines, and dining customs, often contrasting human indulgence with the natural bounty provided by the gods. The poem reflects the antiquarian interests of the Hellenistic period, employing epic diction to catalog material culture and social practices. Modern scholars view it as part of a scholarly tradition that blended poetry with encyclopedic curiosity, likely intended for an educated audience with interests in philology and the details of everyday life. While Rhianus was more renowned for his historical epics, this collection remains a valuable source for understanding Hellenistic gastronomy and social history. The original structure and full scope of the poem are lost; its survival depends entirely on its quotations within Athenaeus's compendium, and the original order of the fragments is unknown.
 
 ## Text
 

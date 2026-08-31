@@ -5,6 +5,7 @@ author: Lucian of Samosata
 eul_wid: pfk-ai
 eul_aid: pfk
 canonical: "https://eulogikon.org/works/lucian-samosata-encom-fatherland-pfk-ai"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lucian of Samosata
 
 **eul_wid:** `pfk-ai` · [HTML page](https://eulogikon.org/works/lucian-samosata-encom-fatherland-pfk-ai)
-
-The Encomium of the Fatherland is a short rhetorical exercise composed in the 2nd century CE by Lucian of Samosata. Written in Attic Greek as a model oration, it belongs to the epideictic branch of oratory, specifically the formal speech of praise known as an encomium. The work is structured in twelve sections and serves as a demonstration of how to praise one's native land. Its distinctive feature is that it does not celebrate any specific, identifiable city but instead praises the abstract concept of the "fatherland" itself, while simultaneously illustrating the proper rhetorical methods for such praise. This approach exemplifies the sophisticated rhetorical culture of the Roman Imperial period known as the Second Sophistic, where technical skill and formal argument were often prized above concrete subject matter.
-
-The complete text survives as part of the larger corpus of Lucian’s works, transmitted through Byzantine manuscripts. Modern scholarship generally interprets it as a pedagogical tool, likely used in advanced rhetorical schools to instruct students in the standard techniques, themes, and structured progression required for composing a formal encomium. The oration reflects common topics of its era, including the nature of patriotic duty and the superior emotional bond to one's homeland over admiration for more splendid foreign cities. As such, it showcases the formal, highly stylized oratorical tradition that Lucian both engaged with professionally and frequently satirized in his more famous comic works.
 
 ## Text
 

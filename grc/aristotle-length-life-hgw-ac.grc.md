@@ -5,6 +5,7 @@ author: Aristotle
 eul_wid: hgw-ac
 eul_aid: hgw
 canonical: "https://eulogikon.org/works/aristotle-length-life-hgw-ac"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristotle
 
 **eul_wid:** `hgw-ac` · [HTML page](https://eulogikon.org/works/aristotle-length-life-hgw-ac)
-
-On the Length and Shortness of Life is a concise scientific treatise by Aristotle, composed around 350 BCE. It belongs to his series of investigations into biological phenomena known collectively as the Parva Naturalia, or "Short Treatises on Nature." Written in Attic Greek and structured into seven sections, the work methodically explores the causes underlying the differing lifespans observed across the plant and animal kingdoms. Aristotle surveys a broad spectrum of organisms, from insects and fish to birds, mammals, and humans, critically assessing prior explanations before advancing his own causal theory. He argues that longevity is fundamentally governed by an internal balance of the primary elemental qualities—hot, cold, wet, and dry. According to his hypothesis, a constitution that is cooler and moister preserves an organism's innate "vital moisture," consuming this essential fuel slowly and thus promoting a longer life. Conversely, a hotter and drier nature accelerates the consumption of this moisture, leading to a shorter lifespan. The treatise exemplifies Aristotle's overarching endeavor to furnish naturalistic, causal accounts for the processes of life, distancing his inquiry from myth and unfounded speculation. Likely intended for his students and associates at the Lyceum, the text has survived intact through the manuscript tradition of Aristotle's collected works. Its theories concerning vital heat and moisture exerted a considerable influence on subsequent medical and philosophical thought for many centuries.
 
 ## Text
 

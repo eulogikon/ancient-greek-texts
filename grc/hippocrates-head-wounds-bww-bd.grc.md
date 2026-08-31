@@ -5,6 +5,7 @@ author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-bd
 eul_aid: bww
 canonical: "https://eulogikon.org/works/hippocrates-head-wounds-bww-bd"
+lang: grc
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hippocrates and the Hippocratic Corpus
 
 **eul_wid:** `bww-bd` · [HTML page](https://eulogikon.org/works/hippocrates-head-wounds-bww-bd)
-
-On Head Wounds is a surgical treatise from the Hippocratic Corpus, a collection of ancient Greek medical works attributed to the school of Hippocrates of Cos. Written in Ionic Greek around 400 BCE, this practical manual provides detailed instructions for diagnosing and treating injuries to the skull and brain. The text systematically classifies different types of cranial fractures, such as contusions, fissures, and depressions, and offers step-by-step guidance on procedures, most notably trepanation, which involves drilling or scraping a hole in the skull. The author emphasizes careful examination, precise technique, and avoiding harm to the delicate membranes protecting the brain. The work is structured into 23 sections and survives completely as part of the larger Hippocratic Corpus through medieval manuscripts. Modern scholars view it as a prime example of the empirical, rational approach to medicine that developed in Classical Greece, intended for practicing surgeons and students. It is thought to have been written as a guide for trauma and battlefield surgery, and it explicitly argues against folk healing and magic, promoting a technical, professional medical practice. While traditionally attributed to Hippocrates himself, the treatise is now understood to be the work of the broader Hippocratic school from the late fifth or early fourth century BCE.
 
 ## Text
 

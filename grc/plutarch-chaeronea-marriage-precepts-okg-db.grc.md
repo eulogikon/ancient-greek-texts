@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-db
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-marriage-precepts-okg-db"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-db` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-marriage-precepts-okg-db)
-
-Marriage Precepts is a prose treatise by the philosopher and biographer Plutarch of Chaeronea, composed around 100 CE. Presented as a series of forty-seven concise passages, the work takes the form of advice from an experienced husband to a newly married man, offering a systematic examination of conjugal life. Its guidance spans the wedding ceremony and the initial period of adjustment to the long-term management of the household, relations with extended family, and the couple's conduct in both public and private spheres.
-
-Plutarch constructs his vision of an ideal marriage by drawing extensively on poetry, history, and philosophical tradition. He advocates for a union founded not merely on legal obligation or physical attraction, but on mutual respect, deep friendship, and shared philosophical values. The treatise is regarded by modern scholars as a practical ethical manual for the Greco-Roman elite of the Imperial era, skillfully blending traditional Greek social morals with Platonic and Stoic ideals. Its purpose is to define the virtuous marital partnership as the essential foundation for a harmonious household and, by extension, a stable society. The complete text survives as part of Plutarch's collected ethical works, known as the Moralia, and has been transmitted through medieval manuscripts without significant loss.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: The Naupactia
 eul_wid: cyy-aa
 eul_aid: cyy
 canonical: "https://eulogikon.org/works/the-naupactia-fragments-cyy-aa"
+lang: grc
 period: Classical
 dialect: Epic (Homeric) (frg)
 domain: Epic
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** The Naupactia
 
 **eul_wid:** `cyy-aa` · [HTML page](https://eulogikon.org/works/the-naupactia-fragments-cyy-aa)
-
-The Poem of Naupactus, also known as the Naupaktia, is a lost genealogical epic composed in dactylic hexameter. Its authorship was disputed in antiquity, with attributions variously given to Carcinus of Naupactus, an anonymous Milesian, or the Spartan poet Eumelus. The poem's subject was the origins and migrations of Greek tribes, covering mythological narratives from the generations preceding the Trojan War. Surviving fragments indicate its content included the voyage of the Argonauts, the myth of the daughters of Proetus, and foundational stories that connected heroic lineages to specific cities and regions. The work survives only in approximately nine fragmentary passages, preserved through quotation by later authors such as the geographer Pausanias, scholiasts commenting on Apollonius Rhodius, and the Byzantine encyclopedia known as the Suda; it possesses no independent manuscript tradition. As a component of the early Epic Cycle, the Naupaktia played a significant role in systematizing Panhellenic myth. It served as an important source for later mythographers and historians, with Pausanias notably citing its genealogical authority. The poem functioned to legitimize the origins and territorial claims of various Greek communities during the Archaic period.
 
 ## Text
 

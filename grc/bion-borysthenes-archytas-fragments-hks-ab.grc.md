@@ -5,6 +5,7 @@ author: Bion of Borysthenes
 eul_wid: hks-ab
 eul_aid: hks
 canonical: "https://eulogikon.org/works/bion-borysthenes-archytas-fragments-hks-ab"
+lang: grc
 period: Classical
 dialect: "Koine (phi, frg)"
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Bion of Borysthenes
 
 **eul_wid:** `hks-ab` · [HTML page](https://eulogikon.org/works/bion-borysthenes-archytas-fragments-hks-ab)
-
-The Fragments on Archytas by Bion of Borysthenes is a lost Hellenistic doxography preserved exclusively through two passages quoted in Diogenes Laertius’s Lives of the Eminent Philosophers. The work reports on the Pythagorean philosopher Archytas of Tarentum. The first fragment attributes to Archytas a foundational classification of the sciences into logistics, geometry, astronomy, and music. The second records his famous intervention to secure Plato’s safety from Dionysius II of Syracuse, detailing a letter of appeal and the dispatch of a trireme to rescue the philosopher. The treatise survives solely as embedded quotations within Diogenes Laertius’s third-century CE biographical compilation, with no independent manuscript tradition; its title suggests it was itself a collection of excerpts concerning Archytas. While Bion’s original work is lost, the content he preserved proved highly influential. The classification of sciences became a standard reference in histories of Pythagorean thought, and the anecdote of Archytas aiding Plato became a staple in biographies of both philosophers, consistently cited to illustrate ideals of philosophical solidarity against political tyranny.
 
 ## Text
 

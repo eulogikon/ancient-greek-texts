@@ -5,6 +5,7 @@ author: Epicharmus of Syracuse
 eul_wid: bhm-aa
 eul_aid: bhm
 canonical: "https://eulogikon.org/works/epicharmus-syracuse-pseudepicharmea-bhm-aa"
+lang: grc
 period: Archaic
 dialect: Doric
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Epicharmus of Syracuse
 
 **eul_wid:** `bhm-aa` · [HTML page](https://eulogikon.org/works/epicharmus-syracuse-pseudepicharmea-bhm-aa)
-
-The Pseudepicharmea is a collection of 88 philosophical and moralizing verses spuriously attributed to the Sicilian comic poet Epicharmus. Written in Doric Greek, these gnomic fragments address themes of ethical wisdom, moderation, the nature of the soul and divinity, the value of learning and intelligence, and practical morality concerning character and friendship. Their content more closely resembles later Pythagorean or Cynic thought than the known comedies of Epicharmus. The work is lost as an independent text and survives only through quotations by later authors, most significantly the fifth-century CE anthologist Stobaeus, whose excerpts form the basis of modern editions that segregate these spurious fragments from the poet's authentic comic remains. The Pseudepicharmea was an influential source of aphorisms, quoted by philosophers including Chrysippus and Diogenes Laërtius. Its pseudepigraphical attribution exemplifies a common practice of claiming authoritative early figures for philosophical schools, which significantly shaped the later perception of Epicharmus as a wise man beyond his original identity as a playwright.
 
 ## Text
 

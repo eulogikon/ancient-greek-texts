@@ -5,6 +5,7 @@ author: Alchemist I
 eul_wid: rrg-ce
 eul_aid: rrg
 canonical: "https://eulogikon.org/works/alchemist-i-lime-management-rrg-ce"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alchemist I
 
 **eul_wid:** `rrg-ce` · [HTML page](https://eulogikon.org/works/alchemist-i-lime-management-rrg-ce)
-
-The Management of Lime is a brief pseudepigraphical Greek alchemical treatise attributed to an author identified only as Alchemist I. Preserved within the broader corpus of Greek alchemical texts, it survives primarily in Byzantine manuscripts, most notably the tenth- or eleventh-century codex Marcianus graecus 299. The work is transmitted not as an independent text but as a short entry within larger alchemical anthologies, with its critical editions appearing in modern collections such as those of Berthelot and Ruelle and the Catalogue des Alchimistes Grecs. Its content consists of two passages of technical instruction focused on the preparation and use of lime as a reagent, detailing procedures involving the treatment of materials with waters of different colors and the management of sublimates. The treatise provides a window into the practical, workshop-based material practices of late antique alchemy. While its direct influence is obscure, as a minor technical recipe it contributes to the corpus of Greco-Egyptian and Byzantine alchemy, informing the tradition that would later influence Arabic and European proto-chemistry.
 
 ## Text
 

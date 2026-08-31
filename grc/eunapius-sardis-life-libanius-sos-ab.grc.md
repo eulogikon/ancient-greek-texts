@@ -5,6 +5,7 @@ author: Eunapius of Sardis
 eul_wid: sos-ab
 eul_aid: sos
 canonical: "https://eulogikon.org/works/eunapius-sardis-life-libanius-sos-ab"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Eunapius of Sardis
 
 **eul_wid:** `sos-ab` · [HTML page](https://eulogikon.org/works/eunapius-sardis-life-libanius-sos-ab)
-
-The entry on Libanius by Eunapius of Sardis constitutes a biographical sketch within his larger work, the Lives of the Sophists. It follows the conventions of sophistic biography, providing a narrative of Libanius's origins in Antioch, his education in Athens, and his subsequent career as a master rhetorician and teacher. The account assesses his rhetorical skill and profound influence, placing him firmly within the tradition of Hellenic paideia and thus affirming the continuity of pagan intellectual culture during the Christianization of the Roman Empire. The biography survives as an integral part of the complete manuscript tradition of the Lives of the Sophists, most notably in the Laurentianus graecus 56.7 from the 12th or 13th century. As a contemporary, though perspectival, witness, it serves as a fundamental primary source for understanding one of late antiquity's most prominent literary figures, the later Sophistic movement, and the intellectual world of the fourth century.
 
 ## Text
 

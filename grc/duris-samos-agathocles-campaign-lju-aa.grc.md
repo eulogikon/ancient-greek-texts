@@ -5,6 +5,7 @@ author: Duris of Samos
 eul_wid: lju-aa
 eul_aid: lju
 canonical: "https://eulogikon.org/works/duris-samos-agathocles-campaign-lju-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Duris of Samos
 
 **eul_wid:** `lju-aa` · [HTML page](https://eulogikon.org/works/duris-samos-agathocles-campaign-lju-aa)
-
-The Fragments on Agathocles' Campaign by Duris of Samos is a historical work surviving only in eight excerpts preserved by the later author Athenaeus in his Deipnosophistae. These fragments provide episodic, dramatic glimpses into the Sicilian tyrant Agathocles’ military campaign against Carthage in North Africa, which took place approximately between 310 and 307 BCE. They do not form a continuous narrative but instead exemplify Duris’s method of so-called tragic history, employing vivid and emotionally charged scenes designed to offer both readerly pleasure and moral insight. The surviving passages focus on illustrative episodes that highlight the extreme hardships of war, such as soldiers resorting to using their shields as cooking griddles, and contrast these with depictions of the luxurious decadence within Agathocles’ own court. These vignettes function as pointed critiques of tyranny and the brutal realities of military expedition. The work is entirely lost as an independent text and is known solely through the citations by Athenaeus from the second or third century CE; the fragments are conventionally collected under the reference FGrHist 76 F 10–17. Despite their fragmentary nature, they remain a crucial source for the reign of Agathocles and a key example of the Hellenistic historiographical trend toward dramatic, emotionally engaging narrative. This approach, pioneered by Duris, significantly influenced later historiography, though it was also criticized by historians such as Polybius for prioritizing dramatic effect over factual rigor.
 
 ## Text
 

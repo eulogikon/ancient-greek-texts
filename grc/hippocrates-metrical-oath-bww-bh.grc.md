@@ -5,6 +5,7 @@ author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-bh
 eul_aid: bww
 canonical: "https://eulogikon.org/works/hippocrates-metrical-oath-bww-bh"
+lang: grc
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hippocrates and the Hippocratic Corpus
 
 **eul_wid:** `bww-bh` · [HTML page](https://eulogikon.org/works/hippocrates-metrical-oath-bww-bh)
-
-The Metrical Oath is a brief poetic treatise within the Hippocratic Corpus, distinguished from the more famous prose Hippocratic Oath by its composition in dactylic hexameter verse. It presents a series of ethical pledges for the practicing physician, invoking divine witness and outlining core professional duties. These include obligations to one's teachers, a fundamental prohibition against causing harm or administering poison, and a commitment to maintain patient confidentiality. Preserved as a single, complete poem within the manuscript tradition, its specific authorship and date remain uncertain, like much of the corpus nominally attributed to Hippocrates. Scholars propose that its poetic form likely served mnemonic, pedagogical, or ritual functions, perhaps for recitation within a medical school or professional guild. The ethical principles it articulates, which closely parallel those in the prose oath, reflect the emergent ideals of medical professionalism in classical Greece, emphasizing the physician's solemn responsibility to heal and to abstain from causing injury.
 
 ## Text
 

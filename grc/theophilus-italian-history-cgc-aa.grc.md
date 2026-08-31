@@ -5,6 +5,7 @@ author: Theophilus the Historian
 eul_wid: cgc-aa
 eul_aid: cgc
 canonical: "https://eulogikon.org/works/theophilus-italian-history-cgc-aa"
+lang: grc
 period: Classical
 dialect: Attic
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Theophilus the Historian
 
 **eul_wid:** `cgc-aa` · [HTML page](https://eulogikon.org/works/theophilus-italian-history-cgc-aa)
-
-The Fragments on Italian History is a lost historical work attributed to Theophilus the Historian. Its existence is known solely from its title, which is recorded in the tenth-century Byzantine encyclopedia known as the Suda. The Greek title indicates a focus on the history of Italy, though the work’s precise chronological scope, narrative structure, and specific content are entirely unrecoverable. The term used for "fragments" suggests the work was either a compilation of excerpts from earlier sources or that it survived only in fragmentary condition by the time it was cited. No direct quotations or descriptions of its content are preserved in any other source, and it left no discernible manuscript tradition. The attribution to Theophilus signifies a continuing Greek historiographical interest in Italian affairs, likely during the late antique or early Byzantine period, but the work’s complete loss and absence from all other historical records indicate it exerted no measurable influence on subsequent historical writing.
 
 ## Text
 

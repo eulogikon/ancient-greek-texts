@@ -5,6 +5,7 @@ author: Demosthenes Scholia
 eul_wid: vky-aa
 eul_aid: vky
 canonical: "https://eulogikon.org/works/demosthenes-scholia-text-vky-aa"
+lang: grc
 period: Late Antique
 dialect: Mixed Dialects
 domain: Grammar
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Demosthenes Scholia
 
 **eul_wid:** `vky-aa` · [HTML page](https://eulogikon.org/works/demosthenes-scholia-text-vky-aa)
-
-The Scholia on Demosthenes is a collection of ancient and medieval explanatory notes, or commentaries, written in the margins of speeches by the famed Athenian orator Demosthenes. It is not a single book by one author, but a compilation of material added by generations of scholars, teachers, and copyists over more than a thousand years, from the Hellenistic period into the Byzantine era. Written in Greek, the scholia consist of nearly 4,800 individual comments, each tied to a specific word or passage in Demosthenes' texts.
-
-The content of these notes is highly varied, serving as a vital toolkit for readers. They explain difficult words and grammar, clarify historical events and people, analyze rhetorical techniques, and record different readings of the text from old manuscripts. The work was primarily intended for students and teachers of advanced rhetoric, as Demosthenes remained a core model of Attic prose in the educational system for centuries. Modern scholars view the scholia as an indispensable resource, not only for interpreting Demosthenes but also for understanding the history of classical scholarship itself, as they preserve fragments of lost ancient commentaries and historical works.
-
-The text survives only as it was transmitted in the margins of medieval manuscripts of Demosthenes' speeches. The original, longer commentaries from scholars in Alexandria and Pergamum were condensed and added to over time, resulting in the layered compilation we have today. Key manuscripts, like the 10th-century Parisinus Graecus 2934, preserve this accumulated scholarly tradition.
 
 ## Text
 

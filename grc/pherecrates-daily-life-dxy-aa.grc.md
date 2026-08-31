@@ -5,6 +5,7 @@ author: Pherecrates the Comic Poet
 eul_wid: dxy-aa
 eul_aid: dxy
 canonical: "https://eulogikon.org/works/pherecrates-daily-life-dxy-aa"
+lang: grc
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Pherecrates the Comic Poet
 
 **eul_wid:** `dxy-aa` · [HTML page](https://eulogikon.org/works/pherecrates-daily-life-dxy-aa)
-
-The Fragments on Daily Life is a modern collective title for the surviving remnants of the Athenian comic poet Pherecrates, a significant figure in Old Comedy and a contemporary of Aristophanes. The 443 fragments are not excerpts from a single work but are quotations from his many lost plays, preserved by later authors such as Athenaeus and in papyri. They reflect his ancient reputation for crafting plots focused on the details of everyday affairs. These fragments provide crucial insights into the characteristic themes of Old Comedy, including social and cultural satire of Athenian manners and professions, critique of contemporary musical innovation, and commentary on gastronomy, hedonistic pleasure, and mythological parody. Several fragments also address gender and domestic life, originating from plays such as The Corianno and The Petale. No complete play by Pherecrates survives; the fragments are transmitted indirectly through quotations in later Greek and Roman authors, primarily Athenaeus’s Deipnosophistae, and from papyrus discoveries, with the standard modern edition being Poetae Comici Graeci (PCG). Pherecrates was recognized in antiquity as an innovative comic poet, mentioned by Aristotle in the Poetics. His fragments are essential for understanding the breadth of Old Comedy beyond the works of Aristophanes and provide valuable evidence for Athenian social history, the history of music, and the evolution of comic drama.
 
 ## Text
 

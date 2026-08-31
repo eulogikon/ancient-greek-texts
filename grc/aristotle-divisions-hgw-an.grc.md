@@ -5,6 +5,7 @@ author: Aristotle
 eul_wid: hgw-an
 eul_aid: hgw
 canonical: "https://eulogikon.org/works/aristotle-divisions-hgw-an"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristotle
 
 **eul_wid:** `hgw-an` · [HTML page](https://eulogikon.org/works/aristotle-divisions-hgw-an)
-
-The Aristotelian Divisions is a philosophical treatise from antiquity attributed to Aristotle but almost certainly not authored by him. Composed in Attic Greek, the work is a systematic compilation of 99 brief passages. Each entry addresses a subject—such as the nature of philosophy or a concept from ethics or natural science—and proceeds to analyze it through a methodical process of dichotomous division, classifying the subject into its constituent types. The date of composition is uncertain, but modern scholarship identifies it as a product of the early Peripatetic school, likely compiled by Aristotle's followers in the centuries following his death. It is considered a practical handbook for students, designed to illustrate the logical method of definition and classification central to Aristotelian logic. The text survives in its entirety within the medieval manuscript tradition of Aristotle's works, though it is now categorized among his doubtful or spurious writings. While not a work of original philosophical argument, its structured approach to organizing knowledge exerted a discernible influence. It was referenced by later authors such as the physician Galen and, through its transmission as part of the Aristotelian corpus, served as a model for the method of logical division in both the medieval Latin and Arabic philosophical traditions.
 
 ## Text
 

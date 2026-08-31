@@ -5,6 +5,7 @@ author: Comic Fragments Anonymous II
 eul_wid: kfu-ab
 eul_aid: kfu
 canonical: "https://eulogikon.org/works/anon-comic-fragments-ii-dorians-kfu-ab"
+lang: grc
 period: Hellenistic
 dialect: Mixed Dialects
 domain: Comedy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Comic Fragments Anonymous II
 
 **eul_wid:** `kfu-ab` · [HTML page](https://eulogikon.org/works/anon-comic-fragments-ii-dorians-kfu-ab)
-
-The Anonymous Comedies of the Dorians is a modern scholarly title for a collection of eight fragmentary passages attributed to unknown comic poets from the Doric-speaking regions of the ancient Greek world. These fragments are classified under the designation "Comic Fragments Anonymous II" in standard reference works such as Poetae Comici Graeci. The title reflects both the comic genre and the works' geographical and linguistic origin, distinct from the more fully documented tradition of Attic comedy centered in Athens.
-
-The content of these fragments points to the vibrant tradition of Dorian comedy, a regional precursor and contemporary to Attic Old Comedy, which flourished in areas like Syracuse and the Peloponnese. While the surviving text is highly lacunose, the pieces suggest characteristic themes of the genre, including mythological parody, scenes from daily life featuring stock characters, and satire employing physical humor and farce. A defining feature is their composition in the Doric dialect, which would have infused the performances with local color and specific cultural references. The text survives not through direct manuscript tradition but entirely through indirect transmission, having been quoted by later ancient authors and scholars, such as Athenaeus, primarily for the purpose of illustrating peculiarities of dialect, meter, or rare vocabulary. Consequently, their preservation is accidental and highly selective, compiled in modern editions from these secondary sources.
-
-The significance of these anonymous fragments lies in the crucial, albeit limited, evidence they provide for the diversity of early Greek comic performance outside the Athenian sphere. They offer a valuable glimpse into the popular performance traditions that contributed to the broader development of Greek comedy, informing both Attic and later Roman comedic forms. Furthermore, they serve as an important linguistic resource for the study of the Doric dialect as used in literary and performative contexts.
 
 ## Text
 

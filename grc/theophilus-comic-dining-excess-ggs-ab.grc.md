@@ -5,6 +5,7 @@ author: Theophilus the Comic Poet
 eul_wid: ggs-ab
 eul_aid: ggs
 canonical: "https://eulogikon.org/works/theophilus-comic-dining-excess-ggs-ab"
+lang: grc
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Theophilus the Comic Poet
 
 **eul_wid:** `ggs-ab` · [HTML page](https://eulogikon.org/works/theophilus-comic-dining-excess-ggs-ab)
-
-The Comic Fragments on Dining and Excess constitute a modern thematic compilation of forty-three passages from the lost comedies of Theophilus, an Athenian poet of the fourth century BCE belonging to the era of Middle Comedy. These fragments, grouped around the topics of dining and licentious behavior, preserve isolated lines and jokes quoted by later ancient authors primarily for their linguistic or cultural interest. They illustrate the characteristic interests of Middle Comedy, including detailed depictions of symposia and gastronomy, humorous portrayals of social excess such as gluttony and drunkenness, and the presentation of stock character types like the parasite, the boastful cook, and the extravagant host. The fragments also offer glimpses into domestic and social life through scenes of private interaction. They survive exclusively through quotation in the works of later scholars, most notably Athenaeus of Naucratis in his third-century CE Deipnosophistae, with additional excerpts preserved by lexicographers and grammarians. This collection, drawn from modern scholarly assemblages such as the Poetae Comici Graeci, is a valuable resource for understanding the evolution of Greek comedy between the eras of Aristophanes and Menander. The fragments provide important evidence for theatrical trends, social history, and the vernacular language of classical Athens, thereby contributing significantly to the reconstruction of the largely lost landscape of Middle Comedy.
 
 ## Text
 

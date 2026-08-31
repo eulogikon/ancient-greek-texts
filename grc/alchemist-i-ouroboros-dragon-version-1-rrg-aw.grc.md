@@ -5,6 +5,7 @@ author: Alchemist I
 eul_wid: rrg-aw
 eul_aid: rrg
 canonical: "https://eulogikon.org/works/alchemist-i-ouroboros-dragon-version-1-rrg-aw"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alchemist I
 
 **eul_wid:** `rrg-aw` · [HTML page](https://eulogikon.org/works/alchemist-i-ouroboros-dragon-version-1-rrg-aw)
-
-The Ouroboros Dragon is a treatise attributed to an author known only as Alchemist I. The work is a technical alchemical manual describing a symbolic and practical process for the creation of the philosophers' stone. Its central metaphor is the ouroboros, the serpent or dragon consuming its own tail, which represents the cyclical, self-sufficient, and transformative nature of the alchemical work. The text details a sequence of operations—including dissolution, congelation, and coloration—through which a compound is processed. This process yields intermediate products described as black-green and golden-flowered, culminating in a red cinnabar, identified as the true cinnabar of the philosophers. The dragon's anatomy is allegorically mapped onto the alchemical process: its four feet symbolize the tetrasomy, or the four elements, while its three ears represent the three sublimates or soots. The treatise emphasizes that nature works upon itself through a single, unified operation requiring great labor and painstaking care, advising the practitioner to maintain diligent focus until the final goal is achieved. It concludes with an enigmatic warning about a dragon guarding the temple, instructing the adept to first sacrifice and flay it, taking its flesh down to the bone. The work exists within the broader tradition of Greco-Egyptian alchemy, drawing on the rich symbolic lexicon of Hellenistic and late antique esoteric texts, though its specific transmission history and influence remain unclear.
 
 ## Text
 

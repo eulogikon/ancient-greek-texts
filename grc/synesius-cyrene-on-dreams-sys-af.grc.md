@@ -5,6 +5,7 @@ author: Synesius of Cyrene
 eul_wid: sys-af
 eul_aid: sys
 canonical: "https://eulogikon.org/works/synesius-cyrene-on-dreams-sys-af"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Synesius of Cyrene
 
 **eul_wid:** `sys-af` · [HTML page](https://eulogikon.org/works/synesius-cyrene-on-dreams-sys-af)
-
-On Dreams is a philosophical treatise composed by Synesius of Cyrene around 405–406 CE. Written in Attic Greek, the work comprises twenty-eight chapters and offers a sustained defense of dreams as a legitimate source of divine knowledge and philosophical insight. Synesius directly counters contemporary materialist views that dismissed dreams as meaningless physiological phenomena. He argues instead that during sleep, the soul is liberated from bodily distractions and becomes uniquely receptive to communication from higher, divine realms. The treatise synthesizes Neoplatonic metaphysics with practical guidance, incorporating the author’s personal dream experiences and outlining ritual preparations intended to cultivate prophetic dreaming.
-
-Composed during a pivotal period in Synesius’s life, shortly before his consecration as a Christian bishop, the work remains fundamentally Neoplatonic in its philosophical framework. It is dedicated to his teacher, the philosopher Hypatia, and draws extensively on thinkers such as Plotinus and Iamblichus. The text reflects an intellectual endeavor to validate contemplative and theurgic practices within the sophisticated cultural milieu of the late Roman Empire. The complete treatise has been preserved through medieval manuscript transmission, surviving intact alongside Synesius’s other works.
 
 ## Text
 

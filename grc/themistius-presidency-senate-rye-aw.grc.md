@@ -5,6 +5,7 @@ author: Themistius the Philosopher
 eul_wid: rye-aw
 eul_aid: rye
 canonical: "https://eulogikon.org/works/themistius-presidency-senate-rye-aw"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Themistius the Philosopher
 
 **eul_wid:** `rye-aw` · [HTML page](https://eulogikon.org/works/themistius-presidency-senate-rye-aw)
-
-On the Presidency in the Senate is a formal oration by the philosopher and statesman Themistius, delivered to the Roman Senate in Constantinople around 384 CE. Also known as Oration 34, the speech was given to express gratitude upon Themistius receiving the high honor of the senate presidency from the emperors. Thematically, it moves beyond simple thanks to offer a philosophical defense of his public career. Themistius argues for the essential role of the philosopher as a political advisor, promoting ideals of civic harmony and good governance while directly answering critics who saw his political involvement as a betrayal of philosophical principles. He frames his life’s work as following the path of philosophers like Socrates and Aristotle, who blended practical action with theoretical wisdom, and aligns himself with the legendary Seven Sages. The oration, structured in 15 passages, survives in full as part of Themistius’s collected speeches. Modern scholars interpret it as a key document of late Roman political culture, illustrating the integration of Greek philosophical ideals into the imperial system and the dynamics of the Constantinopolitan senate under Emperor Theodosius I.
 
 ## Text
 

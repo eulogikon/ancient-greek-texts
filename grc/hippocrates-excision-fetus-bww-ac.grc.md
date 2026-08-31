@@ -5,6 +5,7 @@ author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-ac
 eul_aid: bww
 canonical: "https://eulogikon.org/works/hippocrates-excision-fetus-bww-ac"
+lang: grc
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hippocrates and the Hippocratic Corpus
 
 **eul_wid:** `bww-ac` · [HTML page](https://eulogikon.org/works/hippocrates-excision-fetus-bww-ac)
-
-On the Excision of the Fetus is a concise surgical treatise within the Hippocratic Corpus, the collection of ancient Greek medical works associated with Hippocrates but composed by various authors. Written in Ionic Greek during the fifth or fourth century BCE, this technical manual provides explicit instructions for performing an embryotomy. This procedure involved the dismemberment and extraction of a deceased fetus from the womb when natural delivery was impossible and the mother’s life was at risk. The text methodically details the use of instruments, such as hooks and knives, to locate, grasp, and remove fetal limbs and the head in a specific sequence. Surviving complete within the larger manuscript tradition, the work was evidently intended for fellow practitioners, offering a stark glimpse into the high-stakes realities of ancient obstetrics. Modern scholarship interprets it as a documented last-resort intervention, reflecting both the advanced technical knowledge of the period and its severe ethical parameters, as the instructions apply solely to a fetus already dead.
 
 ## Text
 

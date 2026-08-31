@@ -5,6 +5,7 @@ author: Theophrastus of Eresus
 eul_wid: ljk-aj
 eul_aid: ljk
 canonical: "https://eulogikon.org/works/theophrastus-eresus-physics-ljk-aj"
+lang: grc
 period: Hellenistic
 dialect: Attic Philosophical
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Theophrastus of Eresus
 
 **eul_wid:** `ljk-aj` · [HTML page](https://eulogikon.org/works/theophrastus-eresus-physics-ljk-aj)
-
-Opinions-Physics is a foundational treatise by Theophrastus, the successor to Aristotle as head of the Lyceum in the late 4th century BCE. This work represents a pioneering achievement in doxography, the systematic compilation and analysis of earlier philosophical doctrines. It collects and examines the theories of Pre-Socratic and other Greek thinkers concerning nature, encompassing first principles, cosmology, meteorology, and psychology. The original, complete text is lost, surviving only in fragments preserved through lengthy quotations by later authors such as the 6th-century commentator Simplicius. Modern scholarly reconstructions organize these excerpts into a coherent sequence, with one notable edition presenting 28 passages. The treatise was likely composed as a resource for Theophrastus's own school, serving both pedagogical and scholarly aims by charting the history of ideas to better articulate and defend Aristotelian natural philosophy. Its methodological innovation of organizing philosophical history by topic rather than by individual thinker proved profoundly influential, establishing the model for subsequent doxographical collections. Despite its fragmentary state, it remains an indispensable source for the study of early Greek thought.
 
 ## Text
 

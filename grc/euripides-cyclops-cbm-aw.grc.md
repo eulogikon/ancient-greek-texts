@@ -5,6 +5,7 @@ author: Euripides
 eul_wid: cbm-aw
 eul_aid: cbm
 canonical: "https://eulogikon.org/works/euripides-cyclops-cbm-aw"
+lang: grc
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Euripides
 
 **eul_wid:** `cbm-aw` · [HTML page](https://eulogikon.org/works/euripides-cyclops-cbm-aw)
-
-Cyclops is a satyr play by the ancient Greek tragedian Euripides, written in verse around 408 BCE. It stands as the only complete satyr play to survive from antiquity. The work dramatizes the episode from Homer's Odyssey in which Odysseus and his men are captured by the one-eyed giant Polyphemus on Sicily. Euripides follows the epic narrative, in which Odysseus intoxicates the Cyclops with wine and blinds him with a heated stake to facilitate escape, but infuses the story with robust comedy through a chorus of satyrs. These half-human, half-equine followers of Dionysus are enslaved by Polyphemus, and their leader, Silenus, contributes layers of humorous cowardice and gluttony. The play's structure, spanning 681 lines, blends dialogue with choral odes.
-
-It was originally performed in Athens at the City Dionysia festival as the concluding piece of a tragic tetralogy, where the satyr play traditionally provided comic and ribald relief after three serious tragedies. Modern interpretation often views the Cyclops as an exploration of the conflict between civilization and barbarism, contrasting Odysseus's cunning and the civilizing influence of wine with the lawless, solitary nature of the Cyclops. The play also engages with themes of slavery and freedom through the satyrs' fervent desire to escape servitude and return to their Dionysian revelry. It is largely considered a parody of its Homeric source, skillfully reworking heroic epic into a humorous theatrical format designed for a public Athenian audience.
-
-The text survives intact through the medieval manuscript tradition of Euripides' works, preserved within a Byzantine collection known as the alphabetic plays. With no major sections missing, the Cyclops serves as the primary model for understanding the structure and conventions of the otherwise fragmentary satyr play genre.
 
 ## Text
 

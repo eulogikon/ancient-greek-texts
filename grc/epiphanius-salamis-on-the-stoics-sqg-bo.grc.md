@@ -5,6 +5,7 @@ author: Epiphanius of Salamis
 eul_wid: sqg-bo
 eul_aid: sqg
 canonical: "https://eulogikon.org/works/epiphanius-salamis-on-the-stoics-sqg-bo"
+lang: grc
 period: Late Antique
 domain: Theology
 format: Treatise

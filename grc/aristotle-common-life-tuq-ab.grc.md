@@ -5,6 +5,7 @@ author: Aristotle Lives
 eul_wid: tuq-ab
 eul_aid: tuq
 canonical: "https://eulogikon.org/works/aristotle-common-life-tuq-ab"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: Biography
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristotle Lives
 
 **eul_wid:** `tuq-ab` · [HTML page](https://eulogikon.org/works/aristotle-common-life-tuq-ab)
-
-The Common Life is a lost biographical work attributed to Aristotle, recorded as being one book in length in the ancient catalogue of his writings preserved by Diogenes Laertius. No fragments or direct quotations from the text survive, rendering its precise subject matter a matter of scholarly inference based on its title and genre; it likely concerned the nature of a shared or communal existence or presented a biographical or comparative study of lifestyles. The work’s existence is attested solely by its entry in Diogenes Laertius’s Lives and Opinions of Eminent Philosophers, and it is absent from the extant Aristotelian corpus, with no known manuscript tradition or papyri fragments. As a completely lost text, the Common Life has no direct influence on the later philosophical or biographical tradition. Its significance is primarily historical, serving to illustrate the considerable breadth of Aristotle’s literary output, which, beyond his surviving technical treatises, included numerous popular and biographical works that are now lost.
 
 ## Text
 

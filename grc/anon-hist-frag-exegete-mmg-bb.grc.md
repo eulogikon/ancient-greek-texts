@@ -5,6 +5,7 @@ author: Historical Fragments  Anonymous
 eul_wid: mmg-bb
 eul_aid: mmg
 canonical: "https://eulogikon.org/works/anon-hist-frag-exegete-mmg-bb"
+lang: grc
 period: Hellenistic
 dialect: Mixed Dialects (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Historical Fragments  Anonymous
 
 **eul_wid:** `mmg-bb` · [HTML page](https://eulogikon.org/works/anon-hist-frag-exegete-mmg-bb)
-
-The Anonymous Exegete is a lost Greek work of historical commentary, known only from a single fragment preserved in later compilations. The fragment, which concerns the nature of the Tritopatores, demonstrates the work's character as a piece of explanatory exegesis on mythological or cultic subjects. It records and compares varying traditions about these ancestral deities, citing earlier authorities such as Demon, Philochorus, and Phanodemus, as well as an Orphic text, before presenting its own interpretation that identifies the Tritopatores with the primordial figures Cottus, Briareus, and Gyges, whom it describes as the offspring of Uranus and Earth. The work's survival within collections of historical fragments, such as the Fragmenta Historicorum Graecorum, indicates that its scholarly interpretations were considered valuable by later antiquarians and lexicographers. It stands as a representative example of the numerous minor, erudite commentaries that circulated in antiquity, contributing to the preservation and analysis of local Athenian traditions and mythological lore.
 
 ## Text
 

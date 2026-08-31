@@ -5,6 +5,7 @@ author: Callimachus of Cyrene the Poet and Scholar
 eul_wid: iso-ar
 eul_aid: iso
 canonical: "https://eulogikon.org/works/callimachus-cyrene-iambs-iso-ar"
+lang: grc
 period: Hellenistic
 dialect: Literary Koine
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Callimachus of Cyrene the Poet and Scholar
 
 **eul_wid:** `iso-ar` · [HTML page](https://eulogikon.org/works/callimachus-cyrene-iambs-iso-ar)
-
-The Iambs is a collection of thirteen poems by the Hellenistic poet and scholar Callimachus, composed in Greek around 280–270 BCE. Though titled for its predominant meter, the work exhibits metrical variety, most notably reviving the aggressive, choliambic meter traditionally linked to the archaic poet Hipponax. Callimachus repurposes this ancient form, not for personal invective, but as a vehicle for literary and intellectual critique. The poems engage with themes of literary theory, moralizing narrative, and the censure of philosophical hypocrisy. The collection opens programmatically with the imagined ghost of Hipponax addressing the scholarly community of Alexandria, thereby situating Callimachus’s own critical voice within a venerable poetic tradition.
-
-Composed in Alexandria, a preeminent center of learning, the work reflects the vigorous literary debates of the period. It is widely interpreted as a defense of the poet’s own aesthetic principles—which favored concise, polished, and erudite composition—against proponents of lengthy, conventional epic poetry. The intended audience was likely a circle of educated peers and fellow poets within the Alexandrian intellectual milieu. The text survives only in fragmentary form, primarily reconstructed from papyrus discoveries of the twentieth century. These fragments have enabled scholars to establish the sequence of the thirteen poems, though the precise order and content of certain sections remain conjectural. The Iambs stands as a seminal demonstration of how Hellenistic poets fused scholarly innovation with archaic formal models.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Lucian of Samosata
 eul_wid: pfk-at
 eul_aid: pfk
 canonical: "https://eulogikon.org/works/lucian-samosata-dialogues-dead-pfk-at"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lucian of Samosata
 
 **eul_wid:** `pfk-at` · [HTML page](https://eulogikon.org/works/lucian-samosata-dialogues-dead-pfk-at)
-
-The Dialogues of the Dead is a collection of thirty short prose dialogues by the Syrian-born satirist Lucian of Samosata, composed in Greek during the latter half of the second century CE. A definitive example of Menippean satire, the work is set entirely in the underworld and features conversations between deceased figures from mythology, history, and philosophy, including Charon, Diogenes, Alexander the Great, and various philosophers and kings. Through these brief, witty exchanges, Lucian relentlessly critiques human vanity, demonstrating the absurdity of earthly pursuits such as political power, material wealth, and intellectual pretension in the face of universal mortality. The overarching theme is the leveling power of death, which reduces all to the same bare, shadowy existence.
-
-The text has survived intact through a rich manuscript tradition, with the oldest substantial copies dating from the tenth and eleventh centuries. A product of the Second Sophistic, a period marked by a revival of Greek rhetoric and literary culture under the Roman Empire, the dialogues were crafted for a sophisticated, educated audience familiar with the classical canon that Lucian so deftly parodies. Its enduring influence is evident in its adoption as a direct model by later European writers, particularly during the Renaissance and early modern periods, who emulated its use of the afterlife as a stage for social and philosophical critique.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Milon the Philosopher
 eul_wid: nos-aa
 eul_aid: nos
 canonical: "https://eulogikon.org/works/milon-lightning-fragments-nos-aa"
+lang: grc
 period: Roman
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Milon the Philosopher
 
 **eul_wid:** `nos-aa` · [HTML page](https://eulogikon.org/works/milon-lightning-fragments-nos-aa)
-
-The Fragments on Lightning is a lost treatise attributed to Milon the Philosopher, an otherwise unattested figure in the major histories of ancient thought. The work survives only as a title, referenced in a single source, and thus constitutes a mere testimonium to its existence rather than a collection of recoverable textual fragments. The title indicates it was a work of natural philosophy concerned with examining the meteorological phenomenon of lightning, but its specific theories and arguments are entirely unknown. Its historical significance is negligible, as it exerted no discernible influence on the scientific or philosophical tradition. Its documented existence solely by name serves to illustrate the vast number of such minor specialized treatises from antiquity that have not survived the transmission of texts.
 
 ## Text
 

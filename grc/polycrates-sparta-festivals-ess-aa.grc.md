@@ -1,10 +1,11 @@
 ---
 title: Fragments on Spartan Festivals
 title_greek: Ἀποσπάσματα περὶ Σπαρτιατικῶν Ἑορτῶν
-author: "Polycrates of Sparta "
+author: Polycrates of Sparta
 eul_wid: ess-aa
 eul_aid: ess
 canonical: "https://eulogikon.org/works/polycrates-sparta-festivals-ess-aa"
+lang: grc
 period: Classical
 dialect: Doric
 domain: History
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀποσπάσματα περὶ Σπαρτιατικῶν Ἑορτῶν*
 
-**Author:** Polycrates of Sparta 
+**Author:** Polycrates of Sparta
 
 **eul_wid:** `ess-aa` · [HTML page](https://eulogikon.org/works/polycrates-sparta-festivals-ess-aa)
-
-The Fragments on Spartan Festivals by Polycrates of Sparta is a lost antiquarian work known only through two brief glosses preserved by the lexicographer Hesychius of Alexandria. These surviving fragments explain specific Spartan religious terms, indicating the original text was a specialized treatise on the rituals and customs of Spartan religious festivals. The first fragment defines the term Karnetai as the nine tents erected by Sparta’s nine phratriai, or brotherhoods, during the Karneia, a major festival dedicated to Apollo Karneios. The second fragment explains Obalia as a type of cake offered to the gods at Sparta. The work survives solely through its inclusion in Hesychius’s alphabetical lexicon from the fifth or sixth century CE, which excerpted it as a source for obscure Spartan vocabulary, suggesting the full text was lost by late antiquity. These fragments provide valuable, specific evidence for the organizational structure of the Spartan Karneia and details of religious offerings. Their preservation by Hesychius transmitted this specialized knowledge to later scholars, contributing to the modern understanding of Spartan civic religion and the nature of antiquarian scholarship in the Hellenistic or Roman periods.
 
 ## Text
 

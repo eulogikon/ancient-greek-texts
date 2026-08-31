@@ -5,6 +5,7 @@ author: Sophistical Refutations Anonymous
 eul_wid: vls-ab
 eul_aid: vls
 canonical: "https://eulogikon.org/works/anon-soph-ref-commentary-vls-ab"
+lang: grc
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,20 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Sophistical Refutations Anonymous
 
 **eul_wid:** `vls-ab` · [HTML page](https://eulogikon.org/works/anon-soph-ref-commentary-vls-ab)
-
-Overview The Commentary on Sophistical Refutations (Ὑπόμνημα εἰς τὰ Σοφιστικὰ Ἐλέγχη) is an anonymous Greek prose commentary on Aristotle’s Sophistical Refutations. The work survives only in 16 fragmentary passages preserved as scholia within a single, later manuscript. It represents a scholarly exegesis typical of the late antique or Byzantine tradition on Aristotle’s logical works.
-
-Content The extant fragments provide analysis of:
-
-The thirteen types of sophistical refutations Aristotle outlines.
-
-Core concepts in Aristotelian logic concerning language, ambiguity, and fallacious reasoning.
-
-Specific textual interpretation of arguments and examples in the source treatise.
-
-Transmission The entire known text is contained in the 14th-century manuscript Venice, Biblioteca Nazionale Marciana, gr. 201 (coll. 590). The fragments were first published in the modern era by Maximilian Wallies in the Commentaria in Aristotelem Graeca series (1901).
-
-Significance While its fragmentary state precludes assessing its direct influence, the commentary is a material witness to the enduring study of the Organon. It exemplifies the exegetical tradition that preserved and transmitted Aristotelian logic through the medieval period.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Callimachus of Cyrene the Poet and Scholar
 eul_wid: iso-af
 eul_aid: iso
 canonical: "https://eulogikon.org/works/callimachus-cyrene-grammatical-fragments-iso-af"
+lang: grc
 period: Hellenistic
 dialect: Literary Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Callimachus of Cyrene the Poet and Scholar
 
 **eul_wid:** `iso-af` · [HTML page](https://eulogikon.org/works/callimachus-cyrene-grammatical-fragments-iso-af)
-
-The Grammatical Fragments are scholarly excerpts attributed to the poet and scholar Callimachus of Cyrene, representing his philological work distinct from his celebrated poetry. Preserved solely through citations by later grammarians and scholiasts, such as Orion and the commentators on Homer, the surviving passages address specific words, their meanings, origins, and usage in earlier Greek literature, with a particular focus on the Homeric epics. The fragments exemplify the core Alexandrian scholarly pursuits of lexicography, etymology, and textual criticism, often investigating linguistic correctness and noting dialectal variations across the Greek world. The original treatise is entirely lost, and knowledge of it depends on these fragmentary quotations collected in modern editions. These remnants illustrate Callimachus's integral role in the systematic philology developed at the Library of Alexandria, contributing directly to the tradition of Homeric scholarship and lexicography that influenced later grammarians who frequently cited his authoritative judgments. This grammatical work complemented his broader legacy in library science and literary history, most famously embodied in his bibliographical masterpiece, the Pinakes.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Antonius Diogenes the Erotic Writer
 eul_wid: qhw-ab
 eul_aid: qhw
 canonical: "https://eulogikon.org/works/antonius-diogenes-incredible-things-qhw-ab"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Fiction
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Antonius Diogenes the Erotic Writer
 
 **eul_wid:** `qhw-ab` · [HTML page](https://eulogikon.org/works/antonius-diogenes-incredible-things-qhw-ab)
-
-_On Incredible Things_ is a lost prose work of paradoxography attributed to Antonius Diogenes, an author best known for his novel _The Wonders Beyond Thule_. The work is known only from a brief notice in the _Bibliotheca_ of the 9th-century Byzantine patriarch Photius, who describes it as a compilation of marvelous and unbelievable tales. As a work within the paradoxographical tradition, its content would have consisted of collected accounts of geographical and ethnographic wonders from distant lands, alongside descriptions of unusual natural, astronomical, and biological phenomena, all unified by a focus on narratives that defy ordinary belief. Photius’s reference confirms the author’s activity in this separate genre of sensational compilation, which typifies the imperial-era practice of gathering extraordinary lore from earlier authorities for purposes of erudition and entertainment. This tradition contributed significantly to the encyclopedic currents in later ancient and medieval writing. No fragments of the original text survive.
 
 ## Text
 

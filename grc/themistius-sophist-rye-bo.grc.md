@@ -5,6 +5,7 @@ author: Themistius the Philosopher
 eul_wid: rye-bo
 eul_aid: rye
 canonical: "https://eulogikon.org/works/themistius-sophist-rye-bo"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Themistius the Philosopher
 
 **eul_wid:** `rye-bo` · [HTML page](https://eulogikon.org/works/themistius-sophist-rye-bo)
-
-The Sophist is an oration composed and delivered in Greek by the philosopher and statesman Themistius around 355 CE. It functions as a work of self-defense, in which Themistius responds to contemporary critics who denounced him as a mere sophist—a rhetorician concerned with profit and theatrical display rather than authentic wisdom. Structured in fifty-eight sections, the speech methodically delineates the essential differences between the true philosopher and the sophist. Themistius contends that the genuine philosopher, in contrast to the deceptive sophist, is dedicated to the pursuit of virtue and truth and bears a responsibility to participate in public affairs by offering counsel to rulers for the benefit of the commonwealth.
-
-The oration was delivered during the reign of Emperor Constantius II, a period when Themistius, a prominent non-Christian Hellenic intellectual, occupied a significant political position in Constantinople. Modern scholarship interprets the work not only as a personal apology but also as a substantive manifesto on the civic duty of the philosopher. It seeks to justify the application of eloquence as a necessary instrument for translating philosophical principles into effective statecraft and political guidance. The complete text of the oration survives, transmitted through medieval manuscripts and available in modern critical editions.
 
 ## Text
 

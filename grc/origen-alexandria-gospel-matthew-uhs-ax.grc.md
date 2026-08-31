@@ -5,6 +5,7 @@ author: Origen of Alexandria
 eul_wid: uhs-ax
 eul_aid: uhs
 canonical: "https://eulogikon.org/works/origen-alexandria-gospel-matthew-uhs-ax"
+lang: grc
 period: Late Antique
 dialect: Christian Koine
 domain: Theology
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Origen of Alexandria
 
 **eul_wid:** `uhs-ax` · [HTML page](https://eulogikon.org/works/origen-alexandria-gospel-matthew-uhs-ax)
-
-The Fragments on the Gospel of Matthew consist of excerpts from the exegetical writings of Origen of Alexandria on that gospel. Origen originally composed an extensive 25-book commentary on Matthew, but only Books 10 through 17 survive complete in the original Greek. The remainder of the work is lost, surviving only in fragments preserved within later catenae, which are chains of excerpts compiled by later editors, and in a partial Latin translation. The commentary's transmission is fragmentary, a state common to much of Origen's work and partly attributable to later controversies over his theological orthodoxy. Scholars must therefore rely on these catenae compilations, the anonymous Latin translation, and quotations found in other patristic authors to reconstruct his full exposition.
-
-In his exegesis, Origen characteristically employed a threefold hermeneutical method, seeking a literal or historical explanation, a moral or tropological sense, and an allegorical or spiritual sense. Key themes in his commentary on Matthew include the allegorical interpretation of scripture, the soul's ascent toward the contemplation of God, a robust defense of free will against deterministic views, Christological interpretations of Old Testament prophecy, and demonstrations of the essential harmony between the Old and New Testaments. Despite the controversies that later surrounded his name, Origen's exegetical methods and commentary material remained profoundly influential. His work on Matthew was utilized by later major Greek commentators such as Eusebius and Jerome, and his pioneering allegorical approach helped shape the entire subsequent tradition of Christian biblical interpretation.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Demosthenes of Athens
 eul_wid: fsm-bq
 eul_aid: fsm
 canonical: "https://eulogikon.org/works/demosthenes-athens-demagogic-prologues-fsm-bq"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Demosthenes of Athens
 
 **eul_wid:** `fsm-bq` · [HTML page](https://eulogikon.org/works/demosthenes-athens-demagogic-prologues-fsm-bq)
-
-The Demagogic Prologues is a collection of 134 short rhetorical openings, traditionally ascribed to the Athenian orator Demosthenes. Composed in Attic Greek during the mid-4th century BCE, these prologues were crafted as prefatory material for deliberative speeches intended for delivery before the Athenian assembly. Their function was to swiftly secure the audience's attention and goodwill across a range of political subjects. The collection is systematically arranged under 56 thematic headings, such as "On Peace" or "On the Need for Speed," providing multiple introductory options for each specific oratorical situation.
-
-The work is preserved within the medieval manuscript tradition of Demosthenes' orations, most notably in the 10th- or 11th-century Codex F. While the text of the individual passages is complete, they constitute only the opening sections of speeches, not full orations. Modern scholarship widely regards the collection as not being the authentic work of Demosthenes in its entirety. It is generally considered a later compilation, likely assembled as a set of model exercises for rhetorical education or as a practical handbook of effective openings inspired by the orator's distinctive style. Despite questions of authorship, the Demagogic Prologues remains a significant resource, exemplifying the conventional techniques and recurring themes—including appeals to civic duty, urgency, and political unity—that defined the practice of political oratory in classical Athens.
 
 ## Text
 

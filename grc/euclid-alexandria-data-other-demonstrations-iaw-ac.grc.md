@@ -5,6 +5,7 @@ author: Euclid of Alexandria
 eul_wid: iaw-ac
 eul_aid: iaw
 canonical: "https://eulogikon.org/works/euclid-alexandria-data-other-demonstrations-iaw-ac"
+lang: grc
 period: Hellenistic
 dialect: Technical Koine
 domain: Mathematics
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Euclid of Alexandria
 
 **eul_wid:** `iaw-ac` · [HTML page](https://eulogikon.org/works/euclid-alexandria-data-other-demonstrations-iaw-ac)
-
-Data is a mathematical treatise by Euclid of Alexandria, composed around 300 BCE. It functions as a companion work to his foundational Elements, concentrating on the logical principles underlying geometric problem-solving. The treatise systematically examines the concept of "given" information—the known quantities or conditions at the outset of a geometric problem—and demonstrates through a sequence of 94 propositions how, if certain geometric elements are given, other related elements are necessarily determined. This process, known as geometric analysis, was a critical method for advanced students, involving reasoning backward from a solved figure to the conditions that make its construction possible.
-
-The text is structured with rigorous logical progression, with later propositions depending on earlier ones, and it presumes familiarity with the contents of the Elements. Modern scholarship interprets the work primarily as a pedagogical tool, likely used to train students at institutions such as the Museum of Alexandria in the analytic method. The treatise has survived intact from antiquity through medieval Greek manuscripts and was subsequently translated into Arabic and Latin. It held significant influence, being included by the later mathematician Pappus in his essential "Treasury of Analysis." Its logical framework contributed substantially to the development of mathematical thought in the Islamic world and Renaissance Europe.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Chares of Mytilene
 eul_wid: hfs-ab
 eul_aid: hfs
 canonical: "https://eulogikon.org/works/chares-mytilene-text-hfs-ab"
+lang: grc
 period: Classical
 dialect: Attic (frg)
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Chares of Mytilene
 
 **eul_wid:** `hfs-ab` · [HTML page](https://eulogikon.org/works/chares-mytilene-text-hfs-ab)
-
-The Sentences is a collection of brief, pithy maxims attributed to Chares of Mytilene. As a work of gnomic literature, it belongs to the tradition of concise prose or verse sayings that convey general truths and ethical wisdom. The extant text is structured as ten prose passages, which offer advice on virtuous living and proper social conduct. The maxims cover themes of piety, justice, and self-control, advising against envy of the fortunate, urging respect for the gods and one's elders, and recommending restraint in speech and anger. The work’s survival status is largely unknown, as it is not attested in major digital or print repositories of classical texts. The author, Chares of Mytilene, is otherwise unidentifiable among known historical figures from that city. This attribution places the Sentences within the broader and significant tradition of Greek gnomic literature, which includes collections ranging from archaic poets to Hellenistic philosophers. Its obscurity underscores the fragmentary nature of the historical record for many minor philosophical and didactic works.
 
 ## Text
 

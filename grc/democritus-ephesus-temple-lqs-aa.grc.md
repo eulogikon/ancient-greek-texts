@@ -5,6 +5,7 @@ author: Democritus of Ephesus
 eul_wid: lqs-aa
 eul_aid: lqs
 canonical: "https://eulogikon.org/works/democritus-ephesus-temple-lqs-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Democritus of Ephesus
 
 **eul_wid:** `lqs-aa` · [HTML page](https://eulogikon.org/works/democritus-ephesus-temple-lqs-aa)
-
-On the Temple at Ephesus by Democritus of Ephesus is a lost local history dedicated to the Artemision, the celebrated Temple of Artemis at Ephesus, which was counted among the Seven Wonders of the Ancient World. The work survives only in fragmentary form, with its sole extant passage preserved not in a historical manuscript but within the medical writings of Alexander of Tralles, a physician of the sixth century CE. Alexander cites Democritus as the source for a medicinal recipe that was purportedly inscribed upon a statue within the temple precinct. This citation indicates that Democritus’s monograph contained detailed descriptions of the temple’s sacred artifacts and recorded associated lore, blending antiquarian interest with practical knowledge. The fragment suggests the original work likely encompassed the temple’s topography, an inventory of its votive offerings and treasures, and the preservation of local Ephesian cult traditions and narratives. As a representative of the tradition of local historians, or horographoi, who documented the monuments and customs of individual cities, Democritus’s treatise served as an authoritative source on the Artemision in later antiquity. Its citation by a technical writer centuries after its composition underscores how such specialized local histories functioned as reservoirs of information that extended beyond mere historical narrative into areas of cultural and even practical significance.
 
 ## Text
 

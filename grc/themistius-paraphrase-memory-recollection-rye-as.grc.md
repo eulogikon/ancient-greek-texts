@@ -5,6 +5,7 @@ author: Themistius the Philosopher
 eul_wid: rye-as
 eul_aid: rye
 canonical: "https://eulogikon.org/works/themistius-paraphrase-memory-recollection-rye-as"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Themistius the Philosopher
 
 **eul_wid:** `rye-as` · [HTML page](https://eulogikon.org/works/themistius-paraphrase-memory-recollection-rye-as)
-
-Themistius's Commentary on Aristotle is a fourth-century CE philosophical work composed in Attic Greek. As a prominent orator and statesman in the Eastern Roman Empire, Themistius did not produce a line-by-line exegesis but rather a selective paraphrase. His objective was to clarify and summarize the dense arguments of Aristotle's foundational texts, recasting them into clearer and more elegant prose for students and educated elites. The work addresses core Aristotelian subjects, including the nature of memory and recollection, examining their definitions, causes, and the faculties of the soul involved. Themistius distinguishes between the capacity for retention and the act of recollection, noting that different intellectual temperaments excel at each.
-
-Modern scholars interpret the commentary as a key educational tool of its time, designed to make Peripatetic philosophy accessible and to defend its value within the late antique curriculum. It is considered part of a broader project to sustain Hellenic learning in a Christianizing empire. The complete Greek text has survived, and its influence extended far beyond the Byzantine world through translations. It was rendered into Arabic in the ninth century, profoundly influencing Islamic philosophers such as Avicenna, and was later translated from Arabic into Latin in the twelfth century, becoming a significant vehicle for transmitting Aristotelian thought to medieval Europe.
 
 ## Text
 

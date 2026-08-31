@@ -5,6 +5,7 @@ author: Isaeus the Orator
 eul_wid: fge-aj
 eul_aid: fge
 canonical: "https://eulogikon.org/works/isaeus-chiron-fge-aj"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Isaeus the Orator
 
 **eul_wid:** `fge-aj` · [HTML page](https://eulogikon.org/works/isaeus-chiron-fge-aj)
-
-On the Lot of Chiron is a complete forensic oration by the fourth-century BCE Athenian logographer Isaeus. Written for a private inheritance dispute, the speech argues the case of a claimant to the estate of a man named Ciron, who died without a direct male heir. The unnamed speaker identifies himself as Ciron’s grandson through a daughter, asserting his right as the closest legitimate descendant. He contends against the rival claims of Ciron’s nephews, who are portrayed as motivated by greed for a substantial estate. The speaker’s argument systematically employs witness testimony, references to public records and documentation of family rituals, and pointed appeals to Athenian laws governing intestate succession. The core of his rhetorical strategy is to establish his mother’s legitimacy and his own consequent status as a genuine grandson, while undermining the credibility and motives of his opponents.
-
-The speech survives intact among the eleven authentic orations of Isaeus and exemplifies his specialized practice in the intricate field of inheritance law. Composed for delivery before a large jury of Athenian citizens, it illuminates the critical importance of proving familial descent in Athenian society, where a successful claim conferred not only wealth but also social standing and religious obligations to maintain the household cult. Modern scholarship regards the oration as a masterful specimen of Isaeus’s methodical and clear argumentation, as well as an invaluable historical source for the practical application of Athenian family law, the structure of kinship, and the professional craft of speechwriting for the courts.
 
 ## Text
 

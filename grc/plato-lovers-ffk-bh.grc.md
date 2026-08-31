@@ -5,6 +5,7 @@ author: Plato of Athens
 eul_wid: ffk-bh
 eul_aid: ffk
 canonical: "https://eulogikon.org/works/plato-lovers-ffk-bh"
+lang: grc
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plato of Athens
 
 **eul_wid:** `ffk-bh` · [HTML page](https://eulogikon.org/works/plato-lovers-ffk-bh)
-
-The Lovers, also known as the Rivals, is a short Socratic dialogue of disputed authorship preserved within the Platonic corpus. The text depicts a conversation initiated by Socrates in a grammar school, where he encounters two youths engaged in a dispute, apparently over astronomical diagrams related to the theories of Anaxagoras or Oenopides. Their respective lovers are present, one of whom expresses a dismissive view of philosophy. This prompts Socrates to examine the competing claims of different types of knowledge and education. The discussion contrasts the value of encyclopedic, polymathic learning with the pursuit of wisdom concerning virtue and the good life, a characteristically Socratic theme. The dialogue concludes in an aporia, offering no definitive resolution.
-
-While transmitted in medieval manuscripts as a work of Plato, its authenticity has been questioned since antiquity. Modern scholarship typically classifies it among the Dubia, works of uncertain Platonic authorship, due to perceived stylistic and philosophical departures from the core dialogues. Some interpreters consider it a possible early experiment by Plato, while others argue it is a later product of his Academy, composed in imitation of his early Socratic style. Its primary significance resides in philological debates concerning the boundaries of the Platonic canon rather than in exerting substantial independent philosophical influence.
 
 ## Text
 

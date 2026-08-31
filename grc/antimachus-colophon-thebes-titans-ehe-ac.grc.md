@@ -5,6 +5,7 @@ author: Antimachus of Colophon
 eul_wid: ehe-ac
 eul_aid: ehe
 canonical: "https://eulogikon.org/works/antimachus-colophon-thebes-titans-ehe-ac"
+lang: grc
 period: Classical
 dialect: Epic (Homeric) (frg)
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Antimachus of Colophon
 
 **eul_wid:** `ehe-ac` · [HTML page](https://eulogikon.org/works/antimachus-colophon-thebes-titans-ehe-ac)
-
-The Fragments on Thebes and Titans is a modern designation for a collection of 43 surviving passages from a lost epic poem by the Greek poet Antimachus of Colophon, who was active around 400 BCE. These fragments are generally considered to originate from his major work, the Thebaid, a lengthy narrative composed in the epic dialect and dactylic hexameter verse. The poem's central subject was the myth of the Seven Against Thebes, the tragic civil war stemming from the legacy of Oedipus. The inclusion of material related to the Titans, as indicated by the fragments, suggests the poet incorporated themes of divine prehistory, potentially creating a thematic link between the heroic saga and the primordial conflict between the Titans and the Olympian gods. The text survives only in part, preserved through quotations by later ancient grammarians and commentators. Antimachus was renowned for a learned and allusive style, dense with obscure mythological references and crafted for a sophisticated, educated audience. His work represents a direct yet erudite engagement with the earlier Homeric tradition. The poem was dedicated to the Spartan general Lysander, reflecting the cultural patronage of the period. Although the complete work is lost, it was the subject of significant critical study in antiquity and is believed to have exerted a considerable influence on later Hellenistic poets through its scholarly and recondite approach to epic mythology.
 
 ## Text
 

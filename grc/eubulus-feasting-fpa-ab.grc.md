@@ -5,6 +5,7 @@ author: Eubulus the Comic Poet
 eul_wid: fpa-ab
 eul_aid: fpa
 canonical: "https://eulogikon.org/works/eubulus-feasting-fpa-ab"
+lang: grc
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Eubulus the Comic Poet
 
 **eul_wid:** `fpa-ab` · [HTML page](https://eulogikon.org/works/eubulus-feasting-fpa-ab)
-
-"Fragments on Feasting" is a modern collective title for the surviving quotations from the comedies of Eubulus, a prominent Athenian playwright of the 4th century BCE. Active during the era of Middle Comedy, Eubulus was a prolific author credited with over 100 plays and several festival victories. Although no complete work of his survives, his output is represented by 342 fragments preserved in later sources. Written in Attic Greek verse, these excerpts predominantly focus on the convivial world of the banquet, offering detailed and humorous observations on food, drink, and the social dynamics of the symposium.
-
-The fragments exemplify the thematic shift characteristic of Middle Comedy, moving away from the direct political satire of earlier Old Comedy toward a greater emphasis on literary parody and depictions of daily life. They contain elaborate gastronomic descriptions, parody lines from renowned tragedians such as Euripides, and often recast mythological figures in gluttonous or otherwise comic scenarios. Stock characters typical of the period, including boastful cooks and obsequious parasites, frequently appear. Scholars value these fragments as important evidence for the evolution of comic theater, illustrating the genre's increasing preoccupation with social types, domestic settings, and literary allusion. While originally composed for the Athenian public at dramatic festivals, the content reflects broader Hellenic cultural interests in cuisine and social ritual.
-
-The text survives solely through indirect transmission. The fragments were preserved primarily by later ancient authors, most notably Athenaeus in his expansive work "The Learned Banqueters," as well as by various grammarians and commentators. Additional fragments have been recovered from papyri discovered in Egypt. In modern scholarly editions, these pieces are collected and organized by play title where identifiable, though many remain unattributed to any specific comedy by Eubulus.
 
 ## Text
 

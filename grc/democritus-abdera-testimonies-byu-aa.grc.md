@@ -5,6 +5,7 @@ author: Democritus of Abdera
 eul_wid: byu-aa
 eul_aid: byu
 canonical: "https://eulogikon.org/works/democritus-abdera-testimonies-byu-aa"
+lang: grc
 period: Classical
 dialect: Ionic
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Democritus of Abdera
 
 **eul_wid:** `byu-aa` · [HTML page](https://eulogikon.org/works/democritus-abdera-testimonies-byu-aa)
-
-The Testimonies attributed to Democritus of Abdera is a modern scholarly compilation rather than an extant ancient text. As the original writings of Democritus are lost, his philosophical system is reconstructed from fragments and testimonia—reports and quotations preserved by later authors. These are systematically collected in modern editions, most notably in Diels and Kranz's Die Fragmente der Vorsokratiker. The compiled evidence reveals the core doctrines of Democritean thought. His atomist ontology posits that reality consists of indivisible particles, or atoms, moving through void space. From this foundation arises a comprehensive materialism and determinism, asserting that all phenomena result from the mechanical interactions of these atoms. His ethical teachings focus on achieving a state of cheerfulness, or euthymia, through moderation and the cultivation of the intellect. In epistemology, he distinguished between knowledge derived from the senses, which he considered obscure, and that attained through reason. His speculative thought also extended to cosmogony and anthropology, offering theories on the formation of worlds and the development of human society.
-
-The transmission of Democritus’s ideas occurred entirely through the works of later philosophers, doxographers, and compilers, including Aristotle, Theophrastus, Sextus Empiricus, and Stobaeus. The definitive modern organization of this disparate material into fragments and testimonial citations remains the Diels-Kranz collection, which serves as the standard reference. The significance of Democritus's philosophy is profound. Developed alongside his predecessor Leucippus, his atomist system represented antiquity's most sophisticated and complete materialist worldview. Although heavily criticized by Aristotle and the subsequent Platonic tradition, it was revived, modified, and championed by Epicurus and his followers, becoming a cornerstone of Hellenistic philosophy. Through this Epicurean channel, the conceptual seeds of atomism endured, later exerting a considerable influence on the development of early modern scientific thought and the theoretical foundations of atomic theory.
 
 ## Text
 

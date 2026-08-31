@@ -5,6 +5,7 @@ author: Eunapius of Sardis
 eul_wid: sos-aa
 eul_aid: sos
 canonical: "https://eulogikon.org/works/eunapius-sardis-historical-fragments-sos-aa"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: History
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Eunapius of Sardis
 
 **eul_wid:** `sos-aa` · [HTML page](https://eulogikon.org/works/eunapius-sardis-historical-fragments-sos-aa)
-
-The Historical Fragments are the surviving portions of a larger historical work by Eunapius of Sardis. These seventy prose passages are preserved within the tenth-century Byzantine compilation known as the Excerpta de Sententiis, commissioned by Emperor Constantine VII Porphyrogennetos, where they are categorized under the thematic heading "On Virtues and Vices." They represent disjointed sections of Eunapius's original narrative, selectively extracted for their moral or illustrative content. His history was conceived as a continuation of the work of the third-century historian Dexippus, and its original scope covered events from approximately 270 CE to at least 404 CE, spanning the reigns of Claudius Gothicus through those of the emperors Honorius and Arcadius.
-
-Eunapius, a devoted Neoplatonist and committed pagan, composed his history with a pronounced polemical purpose. The fragments present a distinctly pagan interpretation of the turbulent fourth century, characterized by a vigorous defense of traditional Hellenic religion and sharp criticism of Christian emperors, particularly Constantine I and Theodosius I. In stark contrast, the work expresses profound admiration for the pagan emperor Julian, often referred to as "the Apostate." The overarching narrative frames the political and military challenges of the era as a direct consequence of moral and spiritual decline, which Eunapius attributes to the empire's abandonment of the old gods, an analysis deeply informed by his Neoplatonic philosophical perspective.
-
-The complete text of Eunapius's history is lost. Its content survives indirectly through three principal channels: the seventy fragments contained in the Excerpta de Sententiis; other scattered fragments preserved in later Byzantine compilations such as the Suda lexicon; and, most significantly, as a major, though largely unacknowledged, source for the early sixth-century historian Zosimus. Zosimus's New History extensively paraphrases and relies upon Eunapius's narrative framework and ideological stance. As the primary pagan historical narrative for the fourth century, Eunapius's work, transmitted through Zosimus, profoundly shaped later historiography's understanding of the period. It remains an indispensable and contentious source for modern scholarship on the religious, cultural, and political conflicts of late antiquity, offering crucial insight into the intellectual response of pagan elites to the progressive Christianization of the Roman Empire.
 
 ## Text
 

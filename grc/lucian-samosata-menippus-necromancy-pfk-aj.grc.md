@@ -5,6 +5,7 @@ author: Lucian of Samosata
 eul_wid: pfk-aj
 eul_aid: pfk
 canonical: "https://eulogikon.org/works/lucian-samosata-menippus-necromancy-pfk-aj"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lucian of Samosata
 
 **eul_wid:** `pfk-aj` · [HTML page](https://eulogikon.org/works/lucian-samosata-menippus-necromancy-pfk-aj)
-
-_Menippus or the Necromancy_ is a satirical dialogue by the 2nd-century CE author Lucian of Samosata. Presented as a first-person narrative, it recounts the story of the Cynic philosopher Menippus, who, disillusioned by the contradictions of contemporary philosophical schools, descends to the underworld. His aim is to consult the shade of the prophet Tiresias to discover the best and most practical way to live. The narrative details the necromantic ritual near Babylon that facilitates his journey, his observations among the dead—where the distinctions of wealth and status are rendered meaningless—and the simple counsel he ultimately receives. Tiresias advises him to disregard abstract philosophical speculation, attend to the ordinary affairs of daily life, and treat the pretensions of humanity with mockery.
-
-Composed during the period known as the Second Sophistic, the work is a prime example of Lucian’s serio-comic style. By employing the figure of Menippus, Lucian perfects a form of critical prose known as Menippean satire, which blends philosophical themes with inventive narrative and sharp humor. The dialogue functions as a comprehensive critique of dogmatic philosophy, intellectual vanity, and superstition, using the conceit of an underworld journey to expose the ultimate folly of human ambition and scholarly pride. The complete text, structured in 22 sections, survives through medieval manuscript tradition and was intended for a sophisticated, Greek-literate audience within the Roman Empire.
 
 ## Text
 

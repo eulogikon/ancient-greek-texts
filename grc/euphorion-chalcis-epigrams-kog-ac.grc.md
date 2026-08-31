@@ -5,6 +5,7 @@ author: Euphorion of Chalcis
 eul_wid: kog-ac
 eul_aid: kog
 canonical: "https://eulogikon.org/works/euphorion-chalcis-epigrams-kog-ac"
+lang: grc
 period: Hellenistic
 dialect: Attic
 domain: Epic
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Euphorion of Chalcis
 
 **eul_wid:** `kog-ac` · [HTML page](https://eulogikon.org/works/euphorion-chalcis-epigrams-kog-ac)
-
-The Epigrams constitute a collection of short elegiac poems ascribed to the Hellenistic poet and scholar Euphorion of Chalcis, active in the third century BCE. The work survives only in a fragmentary state, its original extent and arrangement now lost. The poems are preserved exclusively through quotations found in the works of later Greek and Roman authors. Reflecting Euphorion's broader literary reputation, these epigrams are characterized by a dense, allusive, and erudite style, designed to appeal to a sophisticated and learned audience. Their typical subject matter encompasses mythological lore, aetiological narratives explaining origins, and erotic themes, all rendered in a refined and often deliberately obscure diction. Despite their fragmentary preservation, Euphorion's poetry, including these epigrams, exerted a considerable influence on subsequent Roman literature, notably on poets such as Catullus and Virgil, who admired his recondite and learned approach.
 
 ## Text
 

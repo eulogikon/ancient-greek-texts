@@ -5,6 +5,7 @@ author: Zosimus of Panopolis
 eul_wid: tyc-af
 eul_aid: tyc
 canonical: "https://eulogikon.org/works/zosimus-panopolis-substances-four-bodies-tyc-af"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Zosimus of Panopolis
 
 **eul_wid:** `tyc-af` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-substances-four-bodies-tyc-af)
-
-On the Substances and the Four Bodies According to Democritus is an alchemical treatise composed in Greek by Zosimus of Panopolis around 300 CE. A technical and instructional work, it examines fundamental alchemical principles concerning the nature of primary substances and the "four bodies," a term typically denoting base metals such as lead or copper that were the subjects of transformative operations. The treatise is structured in six distinct passages. Its title invokes the pre-Socratic philosopher Democritus, a conventional attribution in alchemical literature designed to anchor the text's authority in ancient wisdom.
-
-Zosimus authored this work in Roman Egypt, a milieu where alchemy synthesized Greek philosophical concepts, Egyptian craft techniques, and nascent religious thought. Scholars view the treatise as part of his broader project to systematize alchemical knowledge for fellow practitioners, situating practical laboratory procedures within a theoretical and occasionally spiritual framework. The complete text survives in later Byzantine manuscripts, most importantly a copy dating from the 10th or 11th century, which has preserved the bulk of Zosimus's corpus. His writings are regarded as foundational, exerting a profound influence on subsequent Byzantine, Islamic, and later Western alchemical traditions.
 
 ## Text
 

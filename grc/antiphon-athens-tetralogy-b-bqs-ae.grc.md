@@ -1,10 +1,11 @@
 ---
 title: Tetralogy B
 title_greek: Τετραλογία Β΄
-author: "Antiphon of Athens "
+author: Antiphon of Athens
 eul_wid: bqs-ae
 eul_aid: bqs
 canonical: "https://eulogikon.org/works/antiphon-athens-tetralogy-b-bqs-ae"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -16,15 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Τετραλογία Β΄*
 
-**Author:** Antiphon of Athens 
+**Author:** Antiphon of Athens
 
 **eul_wid:** `bqs-ae` · [HTML page](https://eulogikon.org/works/antiphon-athens-tetralogy-b-bqs-ae)
-
-_Tetralogy B_ is a model forensic exercise attributed to the Athenian orator Antiphon. It forms the second of three surviving sets of speeches known as the Tetralogies, each comprising four orations: two for the prosecution and two for the defense in a hypothetical legal case. This particular tetralogy argues a case of involuntary homicide stemming from a fatal javelin accident in a gymnasium. The prosecution contends that the thrower is guilty of intentional murder, while the defense maintains the death was an accidental result of the victim stepping into the javelin's trajectory.
-
-Composed in Attic Greek during the late fifth century BCE, the work is a complete rhetorical artifact. Its arguments systematically explore foundational legal and philosophical concepts such as causation, intent, and the religious pollution, or miasma, believed to follow acts of bloodshed. Scholars generally interpret the Tetralogies as advanced pedagogical tools, or meletai, designed to train students in the art of persuasion by mastering both sides of a complex dispute. They exemplify the techniques taught to aspiring speechwriters and reflect the sophisticated intellectual milieu of late fifth-century Athens, particularly the influence of the sophistic movement on rhetorical theory. Traditional authorship is assigned to Antiphon the Orator, though some ancient and modern sources have debated whether the works originated from his school or from Antiphon the Sophist, figures who may in fact be identical.
-
-Preserved intact through the medieval manuscript tradition of Antiphon's works, Tetralogy B remains a crucial document for understanding the early development of Greek forensic oratory, the use of probability-based argumentation, and nascent legal reasoning.
 
 ## Text
 

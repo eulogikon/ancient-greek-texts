@@ -5,6 +5,7 @@ author: Epictetus the Stoic
 eul_wid: ojw-ab
 eul_aid: ojw
 canonical: "https://eulogikon.org/works/epictetus-letter-to-gellius-ojw-ab"
+lang: grc
 period: Roman
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Epictetus the Stoic
 
 **eul_wid:** `ojw-ab` · [HTML page](https://eulogikon.org/works/epictetus-letter-to-gellius-ojw-ab)
-
-The Letter of Arrian to Lucius Gellius is a dedicatory preface composed by the Roman historian and philosopher Arrian, also known as Lucius Flavius Arrianus. Written in Attic Greek around 108 CE, this brief epistle introduces Arrian's compilation of the Discourses of the Stoic teacher Epictetus. It is addressed to a Roman senator, likely named Lucius Gellius Menander. In the letter, Arrian explicitly disclaims authorship of the philosophical teachings, explaining that his role was merely that of a recorder. He states that his aim was to transcribe, as faithfully as possible, the exact words spoken by Epictetus during his lectures. This effort, he notes, was undertaken to create a personal memorandum for his own future use, intended to preserve the distinctive force of Epictetus's thought and his characteristic frankness of speech.
-
-The letter characterizes the resulting text as the spontaneous, living discourse of a teacher addressing a student, rather than a polished literary work composed for publication. Arrian expresses puzzlement as to how these private notes subsequently circulated among the public without his knowledge or consent. He concludes by asserting that the value of the Discourses lies solely in their capacity to move the minds of listeners toward moral betterment, which was Epictetus's only aim when speaking. The letter has been transmitted intact through the medieval manuscript tradition as the prefatory material to the surviving four books of the original eight-book set of Discourses. Modern scholarship views this epistle as a crucial paratextual device, functioning as a claim of authenticity that positions the following Discourses not as a literary or philosophical treatise by Arrian, but as a direct and reliable record of Epictetus's oral teachings, intended for a serious Roman audience seeking practical ethical guidance.
 
 ## Text
 

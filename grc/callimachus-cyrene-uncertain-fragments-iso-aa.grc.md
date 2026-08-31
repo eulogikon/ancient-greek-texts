@@ -5,6 +5,7 @@ author: Callimachus of Cyrene the Poet and Scholar
 eul_wid: iso-aa
 eul_aid: iso
 canonical: "https://eulogikon.org/works/callimachus-cyrene-uncertain-fragments-iso-aa"
+lang: grc
 period: Hellenistic
 dialect: Literary Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Callimachus of Cyrene the Poet and Scholar
 
 **eul_wid:** `iso-aa` · [HTML page](https://eulogikon.org/works/callimachus-cyrene-uncertain-fragments-iso-aa)
-
-The Fragments of Uncertain Placement constitute a modern editorial classification for the scattered remnants of prose scholarship by the Hellenistic poet and librarian Callimachus of Cyrene. These fragments are not derived from a single ancient work but are excerpts, preserved by later authors and commentators, that cannot be confidently assigned to any of Callimachus's known treatises. While Callimachus achieved lasting fame for his influential poetry, he was equally pivotal as a scholar at the Library of Alexandria, where he authored numerous specialized prose studies on diverse subjects including geography, etymology, mythology, and literary criticism. The surviving fragments, quoted by figures such as Athenaeus and Stephanus of Byzantium, offer valuable, if fragmented, insight into the advanced philological methodologies developed at Alexandria. They reveal a systematic approach to textual analysis, cataloging, and criticism that would fundamentally shape subsequent classical scholarship. Modern editions gather these orphaned passages under the title of uncertain placement to signify both their intellectual provenance and the irretrievable loss of their original scholarly context.
 
 ## Text
 

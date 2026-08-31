@@ -5,6 +5,7 @@ author: Galen of Pergamon
 eul_wid: qmm-cm
 eul_aid: qmm
 canonical: "https://eulogikon.org/works/galen-pergamon-instrument-smell-qmm-cm"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Galen of Pergamon
 
 **eul_wid:** `qmm-cm` · [HTML page](https://eulogikon.org/works/galen-pergamon-instrument-smell-qmm-cm)
-
-On the Instrument of Smell is a specialized anatomical treatise by the Roman physician Galen of Pergamon. It forms part of his larger project on the usefulness of bodily parts, systematically arguing that the true organ of smell is the olfactory lobes of the brain, rather than the flesh of the nostrils as Aristotle had maintained. The work survives as a complete text comprising seventy-six sections. The treatise details the anatomy of the nasal cavities, the ethmoid bone, and the passages leading to the brain's ventricles. Galen supports his argument with observations from dissection and physiological reasoning, framing the investigation within his teleological view of the body's design. Central themes include the brain as the seat of sensory faculties and the use of empirical method to challenge established philosophical doctrine. Preserved within the Galenic corpus, the text is found in Greek manuscripts transmitted by Byzantine scholars. The standard modern edition appears in Karl Gottlob Kühn's Claudii Galeni Opera Omnia. This work was instrumental in establishing the brain as the central sensory organ in Western medicine. Its argument for the olfactory lobes and its detailed anatomical descriptions supported the ventricular theory of brain function, maintaining its authority in medical thought until the Renaissance.
 
 ## Text
 

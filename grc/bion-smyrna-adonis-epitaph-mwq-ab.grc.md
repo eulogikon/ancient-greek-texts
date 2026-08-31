@@ -5,6 +5,7 @@ author: Bion of Smyrna
 eul_wid: mwq-ab
 eul_aid: mwq
 canonical: "https://eulogikon.org/works/bion-smyrna-adonis-epitaph-mwq-ab"
+lang: grc
 period: Hellenistic
 dialect: Doric Bucolic
 domain: Poetry
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Bion of Smyrna
 
 **eul_wid:** `mwq-ab` · [HTML page](https://eulogikon.org/works/bion-smyrna-adonis-epitaph-mwq-ab)
-
-The Adonis Epitaph is a pastoral lament attributed to the Hellenistic poet Bion of Smyrna. Structured as a monody, the poem mourns the death of the beautiful youth Adonis, the mortal lover of the goddess Aphrodite. It presents a series of lamentations voiced primarily by the grieving goddess, joined by the Erotes and personified natural forces, culminating in a promise of annual ritual mourning. The work is a distinct composition from the later Lament for Bion traditionally ascribed to Moschus.
-
-The poem explores the profound grief of Aphrodite over her lover's violent death, which is caused by a wound from a boar's tusk. It dwells on the transience of youth and beauty, embodied by the fading corpse of Adonis, and examines the violent intersection of erotic love and death. The text incorporates elements of ritualized mourning, reflecting practices linked to the contemporary cult of Adonis, and depicts the sympathetic participation of the natural world, including mountains, rivers, and flowers, in the divine sorrow. The narrative moves from the initial cry of loss through vivid descriptions of the fatal wound and Aphrodite's distraught wanderings, concluding with a directive for perpetual lamentation.
-
-The text survives within the manuscript tradition of the Hellenistic bucolic poets, transmitted alongside the works of Theocritus and Moschus. It is preserved in numerous manuscripts, with a key witness being the 13th–14th century codex Laurentianus 32.16. A polished literary adaptation of ritual lament, the poem was highly influential. It directly inspired the Lament for Bion and served as a foundational model for the pastoral elegy tradition, shaping the treatment of mythological themes of love and loss in later European poetry.
 
 ## Text
 

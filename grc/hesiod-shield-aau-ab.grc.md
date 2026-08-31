@@ -5,6 +5,7 @@ author: Hesiod
 eul_wid: aau-ab
 eul_aid: aau
 canonical: "https://eulogikon.org/works/hesiod-shield-aau-ab"
+lang: grc
 period: Archaic
 dialect: Epic (Homeric)
 domain: Epic
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hesiod
 
 **eul_wid:** `aau-ab` · [HTML page](https://eulogikon.org/works/hesiod-shield-aau-ab)
-
-The Shield of Heracles is a short epic poem of 480 lines composed in the traditional Greek epic dialect. Although attributed since antiquity to the poet Hesiod, its authenticity is widely disputed by modern scholars. The work narrates a heroic episode in which Heracles and his nephew Iolaus confront the violent brigand Cycnus, son of the war god Ares. Its most celebrated passage is an extended description of the magnificent shield crafted for Heracles by the god Hephaestus. This detailed section depicts scenes of war and peace, city life, and the cosmos, directly imitating and rivaling the famous description of Achilles' shield in Homer's Iliad. The complete poem survives within the medieval manuscript tradition of Hesiod's works. Scholars generally date its composition later than Hesiod's undisputed works, likely to the sixth century BCE. It opens with a connective link to the Hesiodic Catalogue of Women, suggesting it was intended as a focused heroic narrative celebrating Heracles for an audience well-versed in epic poetry. The poem's primary purpose is considered to be a demonstration of poetic skill, elaborating on a traditional myth with a spectacular descriptive set-piece.
 
 ## Text
 

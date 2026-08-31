@@ -5,6 +5,7 @@ author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-cf
 eul_aid: bww
 canonical: "https://eulogikon.org/works/hippocrates-oath-bww-cf"
+lang: grc
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hippocrates and the Hippocratic Corpus
 
 **eul_wid:** `bww-cf` · [HTML page](https://eulogikon.org/works/hippocrates-oath-bww-cf)
-
-The Oath, a seminal treatise within the Hippocratic Corpus, stands as the most famous articulation of medical ethics from the ancient Greek world. Although traditionally ascribed to the physician Hippocrates of Cos, its authorship, like that of many works in the corpus, remains uncertain. Composed in Ionic Greek during the late 5th or 4th century BCE, the text is a concise, solemn declaration through which a physician binds himself to a stringent code of professional conduct. It opens with an invocation to Apollo and other healing deities, establishing the pledge's sacred character. The first section outlines obligations to one's teacher, vowing to honor him as a parent, share resources, and teach the art freely to his sons and to other sworn students, thereby defining a closed, guild-like professional lineage.
-
-The subsequent section enumerates specific ethical directives that form the oath's enduring core. The physician swears to use dietary regimens for the benefit of the sick according to his ability and judgment, while abstaining from harm and injustice. Explicit prohibitions include providing a deadly drug or advising its use, as well as supplying a pessary to cause abortion. Further injunctions require refraining from the "stone" (likely cutting for bladder stones), leaving such procedures to specialists, and maintaining confidentiality regarding all matters learned in practice. The oath concludes with a commitment to live a pure and holy life in both personal and professional spheres.
-
-Scholarly analysis suggests the oath reflects the values of a specific medical sect, with its prohibitions on surgery and abortion possibly indicating Pythagorean philosophical influences. Its primary function was likely to define and elevate the medical profession, fostering a vital bond of public trust. While its specific rules were not universally adopted in antiquity, its foundational principles of beneficence, non-maleficence, confidentiality, and professional integrity have resonated across centuries. As such, the Hippocratic Oath has served as the iconic ethical prototype for the Western medical tradition, directly inspiring modern codes of conduct including the Declaration of Geneva.
 
 ## Text
 

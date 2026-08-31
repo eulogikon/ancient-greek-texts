@@ -1,10 +1,11 @@
 ---
 title: "On the Tyrant's Art"
 title_greek: Ἀπόσπασμα
-author: "Demetrius the Younger "
+author: Demetrius the Younger
 eul_wid: khs-ab
 eul_aid: khs
 canonical: "https://eulogikon.org/works/demetrius-younger-tyrant-art-khs-ab"
+lang: grc
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀπόσπασμα*
 
-**Author:** Demetrius the Younger 
+**Author:** Demetrius the Younger
 
 **eul_wid:** `khs-ab` · [HTML page](https://eulogikon.org/works/demetrius-younger-tyrant-art-khs-ab)
-
-No record exists of a comedic verse work titled On the Tyrant’s Art attributed to Demetrius the Younger within standard academic sources. The Greek term Apospasma, meaning "Extract" or "Fragment," is a generic descriptor for excerpts rather than a specific literary title, rendering both the attribution and the work itself undocumented. The purported text is described as a comedy in verse consisting of several passages with a theme satirizing tyrannical rule. Its manuscript tradition and preservation status are entirely unknown, and the fragmentary designation cannot be verified. While the work itself is unattested, its suggested theme aligns with the longstanding tradition of political satire in ancient Greek comedy, which frequently scrutinized figures of power. Its hypothetical existence would pertain to scholarly discussions on the critique of tyranny within performative genres.
 
 ## Text
 

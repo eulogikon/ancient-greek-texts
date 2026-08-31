@@ -5,6 +5,7 @@ author: Alcaeus of Mytilene
 eul_wid: asm-ab
 eul_aid: asm
 canonical: "https://eulogikon.org/works/alcaeus-mytilene-war-exile-asm-ab"
+lang: grc
 period: Archaic
 dialect: Aeolic
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alcaeus of Mytilene
 
 **eul_wid:** `asm-ab` · [HTML page](https://eulogikon.org/works/alcaeus-mytilene-war-exile-asm-ab)
-
-The Fragments on War and Exile constitute a modern scholarly assemblage of thirty-eight surviving passages from the lyric poetry of Alcaeus of Mytilene, an archaic Greek poet active around 600 BCE. These verses, composed in the Aeolic dialect for solo performance to the lyre, are drawn from the scattered remnants of his work, preserved only in quotations by later authors and on fragmentary papyri. They do not form a continuous poem but are unified by their intense focus on the poet's direct involvement in the political strife of his native Lesbos. The fragments vividly lament the hardships of exile, celebrate the martial bonds of his aristocratic faction, and launch fierce invective against his rivals, the tyrants of Mytilene. Alcaeus's poetry is renowned for its powerful imagery, most notably his enduring metaphor of the storm-tossed ship to depict the city's civil turmoil. Modern interpretation holds that these songs were performed for his political comrades in the context of the symposium, functioning simultaneously as personal lament and partisan propaganda. His sophisticated metrical invention, especially the Alcaic stanza, established a formal legacy that would later exert a profound influence on the Roman poet Horace.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Clearchus of Soli
 eul_wid: hki-aa
 eul_aid: hki
 canonical: "https://eulogikon.org/works/clearchus-soli-hunting-mirrors-hki-aa"
+lang: grc
 period: Classical
 dialect: "Attic (phi, frg)"
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Clearchus of Soli
 
 **eul_wid:** `hki-aa` · [HTML page](https://eulogikon.org/works/clearchus-soli-hunting-mirrors-hki-aa)
-
-On Hunting with Mirrors is a lost treatise by the Peripatetic philosopher Clearchus of Soli, a pupil of Aristotle active around 300 BCE. Written in Attic Greek, the work investigated natural phenomena, with its title derived from a described method of capturing birds using mirrors. The technique involved placing a mirror opposite a snare; the birds, seeing their own reflection during mating season, would rush toward it and become entangled. This placed the work within a popular Hellenistic genre of paradoxography, which collected and sought to explain marvels of the natural world. The treatise is also known by the alternative title Apostasmata, meaning "Extracts," indicating it was structured as a collection of observations or excerpts.
-
-The work survives only in fragments, with 127 passages preserved by later authors such as Athenaeus in his Deipnosophistae and Plutarch. These fragments reveal a blend of zoological curiosity, optical interest, and anecdotal compilation, reflecting the broader Peripatetic tradition of empirical inquiry. The content ranged from the hunting habits of quail and jackdaws to discussions of animal behavior and natural philosophy, likely intended for an educated audience fascinated by scientific curiosities. As a lost text, its influence is discernible only through these later citations, which transmitted Clearchus's observations into the enduring stream of ancient natural history and paradoxographical literature.
 
 ## Text
 

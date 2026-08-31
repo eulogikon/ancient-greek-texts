@@ -5,6 +5,7 @@ author: Anaxagoras of Clazomenae
 eul_wid: btk-ab
 eul_aid: btk
 canonical: "https://eulogikon.org/works/anaxagoras-clazomenae-nature-btk-ab"
+lang: grc
 period: Classical
 dialect: Ionic (frg)
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Anaxagoras of Clazomenae
 
 **eul_wid:** `btk-ab` · [HTML page](https://eulogikon.org/works/anaxagoras-clazomenae-nature-btk-ab)
-
-On the Nature of Things is a philosophical treatise by the Pre-Socratic thinker Anaxagoras of Clazomenae, composed in Ionic Greek prose during the mid-5th century BCE. The work survives only in fragments and testimonia preserved by later authors; its original title is uncertain, though it is conventionally known as On Nature. In it, Anaxagoras sets forth a comprehensive theory of the cosmos, arguing that the universe originated from an undifferentiated, infinite mixture containing all things. He posited that a cosmic principle called Nous, or Mind—characterized as pure, all-knowing, and entirely separate from matter—initiated a rotational motion. This motion began a process of separation and combination that formed the ordered world. A central doctrine of the work is that "everything is in everything," meaning all substances contain portions of every other kind of substance, with their apparent character determined by which ingredients predominate.
-
-Written within the intellectual milieu of Periclean Athens, where Anaxagoras was an influential figure, the treatise represents a pioneering attempt to explain cosmic order through a rational, non-mythological cause. His theories, which included the controversial claim that the sun was an incandescent mass of stone, contributed to his prosecution for impiety. The complete text did not survive antiquity, and modern understanding depends entirely on fragments quoted by later philosophers such as Simplicius, Sextus Empiricus, and Plutarch. These surviving passages collectively outline Anaxagoras's groundbreaking ideas on cosmology, the nature of matter, and the role of a governing intelligence in the universe.
 
 ## Text
 

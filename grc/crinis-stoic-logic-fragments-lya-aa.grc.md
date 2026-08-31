@@ -5,6 +5,7 @@ author: Crinis the Stoic
 eul_wid: lya-aa
 eul_aid: lya
 canonical: "https://eulogikon.org/works/crinis-stoic-logic-fragments-lya-aa"
+lang: grc
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Crinis the Stoic
 
 **eul_wid:** `lya-aa` · [HTML page](https://eulogikon.org/works/crinis-stoic-logic-fragments-lya-aa)
-
-The Fragments on Stoic Logic represent the scant surviving evidence for the logical theories of Crinis, a Stoic philosopher active after Chrysippus. The work itself is lost, and its title is a modern descriptive label applied to a handful of fragmentary testimonia. These fragments are preserved primarily by the later Aristotelian commentator Alexander of Aphrodisias, who quoted them for the purpose of refutation in his work on Aristotle's Prior Analytics. The excerpts focus on highly technical aspects of Stoic logical doctrine, including the detailed classification of propositions and the analysis of conditional statements, specifically those introduced by the connective "since" (ἐπεί). One fragment illustrates this with the example, "since it is day, it is light," explaining that such a compound asserts both that the second clause follows from the first and that the first clause holds true. The citations by Alexander, writing centuries after Crinis, indicate that Crinis was considered a significant figure in the development of post-Chrysippean Stoic logic. Although his direct influence is otherwise obscure, these fragments remain a valuable, if limited, source for understanding the internal debates and scholastic refinements within the Stoic logical tradition.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Euclid of Alexandria
 eul_wid: iaw-ad
 eul_aid: iaw
 canonical: "https://eulogikon.org/works/euclid-alexandria-review-optics-iaw-ad"
+lang: grc
 period: Hellenistic
 dialect: Technical Koine
 domain: Mathematics
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Euclid of Alexandria
 
 **eul_wid:** `iaw-ad` · [HTML page](https://eulogikon.org/works/euclid-alexandria-review-optics-iaw-ad)
-
-The Review of Optics by Theon is a critical commentary traditionally attributed to Euclid of Alexandria. This work, consisting of fifty-two passages, offers a mathematical critique of an optical treatise by Theon, most likely the second-century Platonist philosopher Theon of Smyrna. It functions as a scholarly examination, analyzing and correcting propositions concerning vision, perspective, and the geometry of light rays within the established Euclidean tradition. The text systematically addresses the behavior of light, arguing for its rectilinear propagation and explaining phenomena such as the formation of shadows and the effects of different light sources. It critiques the original treatise's geometrical models, seeking to impose greater mathematical rigor on the physical theory of optics.
-
-The work's transmission is obscure, as it is not widely attested within the principal manuscript traditions of Euclid's major geometrical works. Its survival in discrete passages suggests a fragmentary state or preservation within later anthologies of scientific material. The attribution to Euclid himself is traditional but requires careful scrutiny, as his name was often generically applied to mathematical texts in antiquity. While its direct influence on later optical science is difficult to trace, the review provides valuable insight into the critical discourse of post-Euclidean mathematics. It exemplifies the Hellenistic scholarly practice of rigorously engaging with and refining predecessor theories, thereby contributing to our understanding of the transmission and evolution of ancient mathematical science.
 
 ## Text
 

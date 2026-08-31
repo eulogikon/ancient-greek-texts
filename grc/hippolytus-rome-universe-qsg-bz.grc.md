@@ -5,6 +5,7 @@ author: Hippolytus of Rome
 eul_wid: qsg-bz
 eul_aid: qsg
 canonical: "https://eulogikon.org/works/hippolytus-rome-universe-qsg-bz"
+lang: grc
 period: Roman
 dialect: Christian Koine
 domain: Theology
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hippolytus of Rome
 
 **eul_wid:** `qsg-bz` · [HTML page](https://eulogikon.org/works/hippolytus-rome-universe-qsg-bz)
-
-On the Universe is a lost theological treatise by Hippolytus of Rome, a prominent Christian theologian of the early 3rd century. Composed in Greek, this work of apologetics sought to articulate a Christian cosmology while refuting contemporary Greek philosophical perspectives on the natural world. The treatise survives only in a single fragment, which is not preserved through its own manuscript tradition but is quoted within the Chronographia, a historical chronicle compiled by John Malalas in the 6th century. This brief passage engages in exegetical discussion on the nature of the firmament as described in the Book of Genesis, specifically contesting an interpretation offered by the Jewish historian Josephus. The original structure, arguments, and full scope of Hippolytus's work are consequently irrecoverable. Scholarly analysis positions the treatise within Hippolytus's broader intellectual project of engaging with Hellenistic science and philosophy, representing an early effort to defend and explain Christian doctrine regarding creation and cosmic order to an educated audience, likely comprising both Christians and curious non-Christians. While its fragmentary state precludes any assessment of its direct historical influence, On the Universe remains a notable artifact of early Christian attempts to construct a theological framework for understanding the physical world.
 
 ## Text
 

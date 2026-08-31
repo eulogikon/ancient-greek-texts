@@ -5,6 +5,7 @@ author: Euclid of Alexandria
 eul_wid: iaw-aj
 eul_aid: iaw
 canonical: "https://eulogikon.org/works/euclid-alexandria-elements-alternative-demonstrations-books-1-3-iaw-aj"
+lang: grc
 period: Hellenistic
 dialect: Technical Koine
 domain: Mathematics
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Euclid of Alexandria
 
 **eul_wid:** `iaw-aj` · [HTML page](https://eulogikon.org/works/euclid-alexandria-elements-alternative-demonstrations-books-1-3-iaw-aj)
-
-This short collection gathers alternative demonstrations (ἄλλαι ἀποδείξεις) — variant proofs of propositions drawn from the first three books of Euclid's Elements, the books on plane geometry: the construction and congruence of triangles, the theory of parallels and parallelograms, and the geometry of the circle. Rather than the treatise itself, it preserves a supplementary tradition of proofs that ancient and medieval editors transmitted alongside the main text, offering different routes to the same results. Such alternative demonstrations show how Euclid's deductive method admitted more than one valid path through a theorem, and how the geometrical corpus accreted scholia and variant arguments over centuries of teaching and copying.
 
 ## Text
 

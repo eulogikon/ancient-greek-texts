@@ -5,6 +5,7 @@ author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-ag
 eul_aid: bww
 canonical: "https://eulogikon.org/works/hippocrates-doctors-workshop-bww-ag"
+lang: grc
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hippocrates and the Hippocratic Corpus
 
 **eul_wid:** `bww-ag` · [HTML page](https://eulogikon.org/works/hippocrates-doctors-workshop-bww-ag)
-
-On the Doctor's Workshop is a concise, practical treatise from the Hippocratic Corpus, the collection of ancient Greek medical texts associated with Hippocrates but composed by various authors. Written in Ionic Greek during the 5th or 4th century BCE, this professional manual consists of approximately twenty brief passages. It offers direct instructions for establishing and managing a physician’s surgery or consulting room, detailing the arrangement of instruments, the optimal use of natural and artificial lighting, the requisite cleanliness of the practitioner’s hands and nails, and the proper preparation of bandages and medicaments.
-
-The work survives intact within the broader manuscript tradition of the Hippocratic writings. It exemplifies the increasing professionalization of medicine in Classical Greece, moving beyond theoretical speculation to codify clinical practice. Its emphasis on an orderly workspace and the physician’s composed, hygienic appearance served a dual function: promoting practical efficiency and basic sanitation while simultaneously cultivating patient confidence through a disciplined and professional demeanor. The treatise is considered a foundational text on medical etiquette and clinical management, likely intended for the guidance of practicing physicians or medical students.
 
 ## Text
 

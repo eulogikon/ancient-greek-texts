@@ -5,6 +5,7 @@ author: Posidonius of Olbia
 eul_wid: lzy-aa
 eul_aid: lzy
 canonical: "https://eulogikon.org/works/posidonius-olbia-historical-account-lzy-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Posidonius of Olbia
 
 **eul_wid:** `lzy-aa` · [HTML page](https://eulogikon.org/works/posidonius-olbia-historical-account-lzy-aa)
-
-The Historical Account of Perseus is a lost prose work attributed to Posidonius of Olbia, a minor historian of uncertain date who is distinct from the more famous Stoic philosopher from Apamea. This mythographical compilation, also known by the title Apospasmata meaning "Extracts," was structured in four passages and focused exclusively on the narratives surrounding the hero Perseus. Its existence is known only through fragmentary citations in later ancient scholarship, with no independent manuscript tradition surviving. The work likely treated the core heroic cycles of Perseus, including the slaying of Medusa and the rescue of Andromeda, while also exploring genealogical and foundation myths that traced his divine descent from Zeus and his role as a progenitor of the Heraclidae. It probably incorporated ethnographic and geographic elements as well, connecting the hero to the origins of the Persian people and to specific locations such as Seriphos and Ethiopia. As a representative of Hellenistic or later mythographical compilation, the work served to systematize local legends for a learned audience. Its primary historical significance lies in its contribution to the stream of scholarly sources that were utilized and transmitted by late antique and Byzantine mythographers and commentators.
 
 ## Text
 

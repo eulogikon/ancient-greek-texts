@@ -5,6 +5,7 @@ author: Hermogenes of Tarsus
 eul_wid: qng-ab
 eul_aid: qng
 canonical: "https://eulogikon.org/works/hermogenes-tarsus-preliminary-exercises-qng-ab"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hermogenes of Tarsus
 
 **eul_wid:** `qng-ab` · [HTML page](https://eulogikon.org/works/hermogenes-tarsus-preliminary-exercises-qng-ab)
-
-The Preliminary Exercises is a foundational textbook on rhetoric attributed to the 2nd-century CE Greek orator Hermogenes of Tarsus. Composed in Attic Greek during the Second Sophistic, a period of revived classical learning within the Roman Empire, the work provides a structured curriculum for rhetorical schools. It consists of fourteen graded composition exercises designed to prepare elite students for advanced declamation and public life. The exercises progress from simple forms, such as fable and narrative, to more complex tasks like impersonation and arguing for or against a law. Its clear, practical style systematically outlines the building blocks of persuasive speech and writing. The complete text survives through medieval manuscripts, though some scholars from antiquity onward have questioned its direct attribution to Hermogenes. Nevertheless, it is widely accepted as his work. The handbook became one of the most influential textbooks in history, serving as the standard introductory manual for rhetoric in the Byzantine Empire for over a millennium. Translated into Syriac, Armenian, and Arabic, it later played a key role in Renaissance education in Western Europe, shaping the teaching of composition for centuries.
 
 ## Text
 

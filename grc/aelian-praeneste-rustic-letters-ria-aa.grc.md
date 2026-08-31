@@ -5,6 +5,7 @@ author: Aelian of Praeneste
 eul_wid: ria-aa
 eul_aid: ria
 canonical: "https://eulogikon.org/works/aelian-praeneste-rustic-letters-ria-aa"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aelian of Praeneste
 
 **eul_wid:** `ria-aa` · [HTML page](https://eulogikon.org/works/aelian-praeneste-rustic-letters-ria-aa)
-
-The Rustic Letters is a collection of twenty short epistles composed in Greek by the Roman author Claudius Aelianus, commonly known as Aelian, during the early third century CE. These are not genuine letters but rhetorical exercises in which Aelian adopts the personas of Attic farmers to dramatize complaints and scenarios from rural life, including property disputes and comic encounters with urban customs. Each self-contained letter serves as an example of ethopoeia, the rhetorical practice of character portrayal. Aelian, a major figure of the Second Sophistic, wrote the entire collection in an archaizing, pure Attic Greek. The work survives complete and is interpreted by scholars as a stylistic demonstration intended for an educated audience. It functions simultaneously as a pedagogical model for rhetorical composition and as a nostalgic, often humorous, literary portrait that contrasts rustic simplicity with urban sophistication, its primary purpose being to showcase linguistic artistry and the construction of a consistent ethical character.
 
 ## Text
 

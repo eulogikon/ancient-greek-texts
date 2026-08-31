@@ -5,6 +5,7 @@ author: Moschion the Tragic Poet
 eul_wid: jme-aa
 eul_aid: jme
 canonical: "https://eulogikon.org/works/moschion-human-progress-jme-aa"
+lang: grc
 period: Hellenistic
 dialect: Atticizing
 domain: Drama
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Moschion the Tragic Poet
 
 **eul_wid:** `jme-aa` · [HTML page](https://eulogikon.org/works/moschion-human-progress-jme-aa)
-
-The Fragments on Human Progress is a collection of forty-one fragmentary passages attributed to the Hellenistic tragic poet Moschion. Preserved not through direct manuscript tradition but through quotation by later anthologists, primarily the fifth-century CE compiler Stobaeus, these excerpts are grouped thematically around the development of human civilization. They consist of philosophical, lyrical, or dialogic passages believed to originate from one or more of Moschion’s lost tragedies, offering a speculative exploration of humanity’s origins and societal advancement.
-
-The content of the fragments addresses the evolution of civilization from a primitive, beast-like state, where humans lived in caves and ravines, to the establishment of organized society. This progress is portrayed as driven by necessity, which compelled the invention of fundamental technologies and social structures. The texts enumerate key innovations such as the construction of shelters and fortified cities, the development of agriculture with the plow, and the advent of seafaring and language. A central theme is the subsequent establishment of law and justice as stabilizing forces for the new social order. The tragic context from which these fragments are drawn suggests an awareness of the potential ambiguity of progress, implying that such advancements possess a double-edged nature.
-
-The work survives exclusively in fragmentary form, transmitted through excerpts in later anthologies rather than continuous manuscripts. Stobaeus’s Anthology serves as the principal source, with additional fragments appearing in the works of authors such as Athenaeus and Photius. These passages are cataloged in modern scholarly editions like the Fragmenta Tragicorum Graecorum. Their significance lies in the study of the history of ideas, particularly the ancient Greek concept of social evolution and the integration of philosophical speculation into the genre of Hellenistic tragedy. Their preservation by Stobaeus underscores their later value as repositories of ethical wisdom, and they remain a crucial source for understanding ancient anthropological thought.
 
 ## Text
 

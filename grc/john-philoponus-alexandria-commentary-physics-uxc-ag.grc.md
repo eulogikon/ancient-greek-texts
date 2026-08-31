@@ -5,6 +5,7 @@ author: John Philoponus of Alexandria
 eul_wid: uxc-ag
 eul_aid: uxc
 canonical: "https://eulogikon.org/works/john-philoponus-alexandria-commentary-physics-uxc-ag"
+lang: grc
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** John Philoponus of Alexandria
 
 **eul_wid:** `uxc-ag` · [HTML page](https://eulogikon.org/works/john-philoponus-alexandria-commentary-physics-uxc-ag)
-
-John Philoponus of Alexandria’s Commentary on Aristotle’s Physics is a comprehensive sixth-century philosophical treatise providing a detailed exegesis of Aristotle’s foundational work. Composed in Greek for advanced students within the Alexandrian scholastic tradition, the commentary systematically addresses the eight books of the Physics, analyzing core concepts such as nature, motion, place, time, and the infinite. Its structure follows the original text closely through 909 discrete explanatory sections, offering a line-by-line interpretation. Philoponus, however, frequently departs from mere exposition to engage in substantive critique and innovation upon Aristotelian doctrine. His analysis is particularly noted for challenging Peripatetic dynamics, introducing an early theory of "impetus" to explain projectile motion, and advancing philosophical arguments for a finite, created universe, reflecting an intellectual project often interpreted as an attempt to reconcile Aristotelian natural philosophy with Christian thought. The complete work survives through Byzantine manuscripts and exerted significant indirect influence on later natural philosophy. Its ideas, transmitted via Arabic translations, informed the development of medieval Islamic and Latin European scholarship, securing its place as a critical and original engagement with the Aristotelian tradition.
 
 ## Text
 

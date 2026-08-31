@@ -5,6 +5,7 @@ author: Julian the Apostate
 eul_wid: sno-ap
 eul_aid: sno
 canonical: "https://eulogikon.org/works/julian-apostate-beard-hater-sno-ap"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Julian the Apostate
 
 **eul_wid:** `sno-ap` · [HTML page](https://eulogikon.org/works/julian-apostate-beard-hater-sno-ap)
-
-The Misopogon, or "Beard-Hater," is a satirical prose treatise composed in Attic Greek by the Roman Emperor Julian, commonly known as Julian the Apostate, in early 363 CE. Structured as a mock encomium across 44 brief passages, the work serves as an ironic and direct rejoinder to the citizens of Antioch, who had publicly derided the emperor's philosophical beard and austere personal conduct. Julian adopts the persona of a critic of his own beard to invert this mockery, systematically contrasting his personal values of philosophical simplicity and traditional pagan piety with what he perceived as the Antiochene populace's Christianized decadence, love of luxury, and devotion to frivolous spectacle. The complete text is preserved in medieval manuscripts, chiefly within collections of Julian's extant works. Scholars regard the Misopogon as a singular historical document offering direct insight into the profound cultural and religious tensions of the late fourth-century Roman Empire. It vividly illustrates the clash between Julian's program of Hellenic religious revival and the entrenched, pleasure-oriented urban culture of the eastern provinces. The treatise functions simultaneously as a public self-defense, a moral polemic, and a pointed critique of the very society the emperor sought to reform.
 
 ## Text
 

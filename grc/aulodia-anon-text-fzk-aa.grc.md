@@ -5,6 +5,7 @@ author: Aulodia  Anonymous
 eul_wid: fzk-aa
 eul_aid: fzk
 canonical: "https://eulogikon.org/works/aulodia-anon-text-fzk-aa"
+lang: grc
 period: Classical
 dialect: Epic (Homeric) (frg)
 domain: Poetry
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aulodia  Anonymous
 
 **eul_wid:** `fzk-aa` · [HTML page](https://eulogikon.org/works/aulodia-anon-text-fzk-aa)
-
-The Anonymous Aulody refers to a lost genre of ancient Greek musical performance rather than a specific surviving text. Aulody, meaning song to the aulos, was a distinct art form in which a vocalist performed poetry accompanied by the aulos, a double-reed instrument. This genre stood in contrast to citharody, which employed the lyre, and was a formal competitive event at major Panhellenic festivals such as the Pythian Games. The aulos itself was deeply associated with Dionysiac worship, the dithyramb, and the musical foundations of tragedy.
-
-While no complete aulodic poem survives, the genre's content can be inferred from its cultural context. Performances typically involved mythological narratives, hymns praising deities—especially Dionysus—and convivial or erotic themes suitable for symposium settings. The transmission of specific aulodic works is virtually nonexistent; no manuscript tradition or identifiable fragments for a named "Anonymous Aulody" are known. Our understanding of the genre relies entirely on secondary literary accounts, victor lists from musical contests, and artistic depictions on vases and in sculpture.
-
-The significance of aulody lies in its central role within Greek musical and civic culture. It exemplifies the profoundly performative nature of ancient poetry, where word, melody, and instrumentation were inseparable. The practice of aulody contributed to the development of more complex choral forms, including those in drama, and highlights the integral function of music in both religious ritual and public competition. Its study, though reliant on indirect evidence, offers crucial insight into the auditory and social dimensions of ancient Greek artistic life.
 
 ## Text
 

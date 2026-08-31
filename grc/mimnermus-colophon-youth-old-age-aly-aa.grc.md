@@ -5,6 +5,7 @@ author: Mimnermus of Colophon
 eul_wid: aly-aa
 eul_aid: aly
 canonical: "https://eulogikon.org/works/mimnermus-colophon-youth-old-age-aly-aa"
+lang: grc
 period: Archaic
 dialect: Koine
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Mimnermus of Colophon
 
 **eul_wid:** `aly-aa` · [HTML page](https://eulogikon.org/works/mimnermus-colophon-youth-old-age-aly-aa)
-
-On Youth and Old Age is the conventional modern title for a collection of poetic fragments attributed to the archaic Greek poet Mimnermus of Colophon, who was active in the late seventh century BCE. The work is not a unified composition but a compilation of excerpts preserved by later authors, most notably in the fifth-century CE anthology of Stobaeus. Written in the Ionic dialect and elegiac meter, the surviving verses present a stark and poignant contrast between the vitality of youth and the infirmities of old age. A central, recurring theme is the ephemeral nature of human life, famously encapsulated in a simile comparing the brief flourishing of youth to a sunlit leaf that quickly fades. The poetry advocates for the passionate pursuit of love, beauty, and pleasure during life’s transient prime, while depicting old age as a time of physical decline, social irrelevance, and sorrow. Though the original structure and full extent of Mimnermus’s poetry are lost, his melancholic and hedonistic verses are considered a significant reflection of aristocratic symposium culture in Ionian Greece. His work helped establish a tradition of personal, reflective elegy that exerted a lasting influence on later Greek and Roman poets.
 
 ## Text
 

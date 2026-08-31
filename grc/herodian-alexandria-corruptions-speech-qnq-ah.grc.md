@@ -5,6 +5,7 @@ author: Herodian of Alexandria
 eul_wid: qnq-ah
 eul_aid: qnq
 canonical: "https://eulogikon.org/works/herodian-alexandria-corruptions-speech-qnq-ah"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Grammar
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Herodian of Alexandria
 
 **eul_wid:** `qnq-ah` · [HTML page](https://eulogikon.org/works/herodian-alexandria-corruptions-speech-qnq-ah)
-
-On the Corruptions of Speech, Later Part is a grammatical treatise by the second-century CE Alexandrian scholar Herodian. Composed as an oration, it systematically identifies and corrects perceived errors in contemporary Greek usage, advocating for a return to the classical standards of Attic Greek. The work addresses deviations in pronunciation, accentuation, morphology, and syntax, offering prescriptive rules to purify the language. It was produced during the Second Sophistic, a period of revived interest in classical Greek culture under the Roman Empire, and functioned as an authoritative manual for advanced students and teachers of rhetoric and grammar.
-
-The complete text of the treatise is lost, with its contents known only through fragments preserved in later Byzantine grammatical compilations, lexicons, and scholia. These excerpts, such as those discussing the correct forms of adverbs, the improper stacking of comparative adjectives, and the temporal distinctions between certain negative particles, reveal Herodian's methodical, analogical approach. He argued that language should follow consistent, rational patterns, and his rigorous analysis, particularly his rules governing accentuation, proved foundational for the Byzantine grammatical tradition and influenced the development of the modern Greek accent system. The work stands as a significant monument of ancient linguistic scholarship, reflecting the era's intense preoccupation with linguistic purity and the codification of classical norms.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Josephus the Historian
 eul_wid: ofq-ad
 eul_aid: ofq
 canonical: "https://eulogikon.org/works/josephus-antiquities-ofq-ad"
+lang: grc
 period: Roman
 dialect: Koine
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Josephus the Historian
 
 **eul_wid:** `ofq-ad` · [HTML page](https://eulogikon.org/works/josephus-antiquities-ofq-ad)
-
-Jewish Antiquities is a twenty-volume historical work composed in Koine Greek by the Jewish historian Flavius Josephus and completed in Rome around 93 or 94 CE. It presents a comprehensive narrative of Jewish history from the biblical creation story through the Hellenistic period and Roman rule, concluding just before the outbreak of the First Jewish-Roman War in 66 CE. The first ten books closely paraphrase the Hebrew Scriptures, while the latter ten cover post-biblical history, utilizing sources that are now lost. Josephus wrote under the patronage of the Roman Flavian emperors in the aftermath of the destruction of the Jerusalem Temple. The work is widely regarded as an apologetic history, crafted to explain and defend the antiquity and philosophical sophistication of Jewish law and tradition to an educated Greco-Roman audience. It also seeks to contextualize the recent conflict, frequently attributing its cause to extremist factions rather than to the Jewish people collectively. The complete text has been preserved through medieval Greek manuscripts dating from the eleventh to the fifteenth centuries. Its transmission includes a much-debated passage concerning Jesus of Nazareth, known as the Testimonium Flavianum, which scholars have extensively analyzed for potential later Christian interpolation. The Jewish Antiquities remains an indispensable source for the history of Second Temple Judaism and the Roman administration of Judea.
 
 ## Text
 

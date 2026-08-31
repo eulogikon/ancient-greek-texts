@@ -5,6 +5,7 @@ author: Bacchylides of Ceos
 eul_wid: brw-aa
 eul_aid: brw
 canonical: "https://eulogikon.org/works/bacchylides-ceos-uncertain-works-brw-aa"
+lang: grc
 period: Classical
 dialect: Doric
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Bacchylides of Ceos
 
 **eul_wid:** `brw-aa` · [HTML page](https://eulogikon.org/works/bacchylides-ceos-uncertain-works-brw-aa)
-
-The Fragments from Uncertain Works, sometimes referred to as the Apospasmata, constitute a collection of thirty isolated lines and stanzas from the lost lyric poetry of Bacchylides of Ceos. A major figure of fifth-century BCE Greek choral lyric and a contemporary rival of Pindar, Bacchylides composed for both public festivals and private patrons, producing victory odes, hymns, and encomiastic poetry. These fragments, whose original poems, genres, and occasions are now unknown, are written in the literary Doric dialect characteristic of the choral tradition. While a significant portion of Bacchylides' surviving work derives from a papyrus discovered in Egypt in 1896, these particular fragments owe their preservation to being quoted by later ancient authors. Although their fragmentary state obscures original structures and contexts, they are interpreted as reflecting the poet's hallmark concerns: vivid mythological narrative, the celebration of human excellence, and meditation on the boundaries between divine power and mortal limitation. Despite their brevity, they offer valuable glimpses into the artistry of one of classical Greece's most refined lyric voices.
 
 ## Text
 

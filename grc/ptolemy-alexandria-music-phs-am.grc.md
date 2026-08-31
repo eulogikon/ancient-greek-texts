@@ -5,6 +5,7 @@ author: Ptolemy of Alexandria
 eul_wid: phs-am
 eul_aid: phs
 canonical: "https://eulogikon.org/works/ptolemy-alexandria-music-phs-am"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Mathematics
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Ptolemy of Alexandria
 
 **eul_wid:** `phs-am` · [HTML page](https://eulogikon.org/works/ptolemy-alexandria-music-phs-am)
-
-Ptolemy’s Harmonics is a three-book scientific treatise on music theory composed in Greek around the middle of the 2nd century CE. The Alexandrian scholar applies mathematical principles to the analysis of musical scales, intervals, and tuning systems. The work proceeds as a rigorous investigation: the first book establishes foundational acoustic concepts and offers critiques of earlier theorists such as Aristoxenus and the Pythagoreans; the second book develops Ptolemy’s own elaborate systems of scales, genera, and keys; the third and final book expands the discussion to connect musical harmony with the nature of the human soul and the mathematical order of the cosmos. A defining characteristic of Ptolemy’s method is his principle that valid musical theory must satisfy both mathematical reason and the evidence of auditory perception, an empirical standard he demonstrated through the use of instruments like the monochord.
-
-The complete text survives in Greek primarily through Byzantine manuscripts and was later translated into Arabic and Latin. Modern scholarship interprets the Harmonics as an integral component of Ptolemy’s broader endeavor to construct a unified, mathematically-based system of knowledge, alongside his major works on astronomy, optics, and geography. It was likely written for an audience of fellow philosophers and scientists engaged in the advanced study of the mathematical arts. The treatise became a profoundly influential authority in medieval Islamic, Byzantine, and later Renaissance music theory, where its detailed tuning systems and its commitment to empirical verification were extensively debated, studied, and revived.
 
 ## Text
 

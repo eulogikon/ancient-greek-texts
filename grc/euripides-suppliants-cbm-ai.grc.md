@@ -5,6 +5,7 @@ author: Euripides
 eul_wid: cbm-ai
 eul_aid: cbm
 canonical: "https://eulogikon.org/works/euripides-suppliants-cbm-ai"
+lang: grc
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Euripides
 
 **eul_wid:** `cbm-ai` · [HTML page](https://eulogikon.org/works/euripides-suppliants-cbm-ai)
-
-Supplicants is a tragedy by Euripides, written around 423 BCE. The play dramatizes events following the legendary war of the Seven against Thebes. It centers on the mothers of the slain Argive leaders, who, accompanied by their king, Adrastus, journey to Eleusis to beg the Athenian king Theseus for assistance. Their plea is to recover the bodies of their sons from the Thebans, who refuse to release them for burial, a denial that constitutes a profound violation of Greek religious custom. The plot traces their supplication, the rhetorical debate that persuades Theseus to intervene, his subsequent military victory over Thebes, and the eventual recovery and lamentation over the dead warriors.
-
-The drama is structured with extensive choral odes and formal debates, most notably an argument between Theseus and a Theban herald on the comparative virtues of democracy and tyranny. The complete text of the play survives through medieval manuscripts, preserved among a collection of Euripides' works used for educational purposes in later antiquity. Modern scholarship frequently interprets the play within the context of the Peloponnesian War. Its depiction of Athens as a pious, democratic champion of panhellenic law is seen as a form of civic idealization and self-promotion. Furthermore, its focus on an alliance between Athens and Argos reflects contemporary diplomatic realities, suggesting the tragedy engaged directly with the political discourse of its time.
 
 ## Text
 

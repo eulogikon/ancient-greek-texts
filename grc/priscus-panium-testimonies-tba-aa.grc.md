@@ -5,6 +5,7 @@ author: Priscus of Panium
 eul_wid: tba-aa
 eul_aid: tba
 canonical: "https://eulogikon.org/works/priscus-panium-testimonies-tba-aa"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Priscus of Panium
 
 **eul_wid:** `tba-aa` · [HTML page](https://eulogikon.org/works/priscus-panium-testimonies-tba-aa)
-
-The Testimonies is a historical work by the fifth-century Roman diplomat and historian Priscus of Panium. Composed in Greek, it provides a detailed eyewitness account of the Eastern Roman Empire during a period of profound transformation, chronicling events from approximately 430 to 476 CE. Priscus’s narrative is particularly esteemed for its vivid and firsthand descriptions of diplomatic engagements, military campaigns, and cultural exchanges along the empire's frontiers, most famously detailing encounters with the court of the Hun leader Attila. Though the original text is lost, substantial fragments survive through their preservation in later Byzantine compilations, most notably the tenth-century Excerpta de Legationibus, which collected material on embassies. Modern scholarly editions typically organize these remnants into a sequence of key passages. Priscus’s work is considered an invaluable primary source for the era, offering a rare contemporary perspective on late Roman statecraft, the dynamics of barbarian kingdoms, and the complex political landscape that witnessed the dissolution of the Western Roman Empire. Written in the tradition of classical Greek historiography, it blends meticulous factual reporting with acute ethnographic observation, crafted for an educated audience familiar with its literary precedents.
 
 ## Text
 

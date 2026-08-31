@@ -5,6 +5,7 @@ author: Hesychius the Alexandrian
 eul_wid: taq-ac
 eul_aid: taq
 canonical: "https://eulogikon.org/works/hesychius-alexandria-lexicon-taq-ac"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hesychius the Alexandrian
 
 **eul_wid:** `taq-ac` · [HTML page](https://eulogikon.org/works/hesychius-alexandria-lexicon-taq-ac)
-
-The Lexicon of Hesychius of Alexandria is a major ancient Greek dictionary compiled in the 5th or 6th century CE. This extensive reference work, written in prose, collects and defines thousands of rare, obscure, dialectal, and technical words drawn from the breadth of Greek literature, including poetry, classical prose, and specialized writings. It functions as a treasury of vocabulary, preserving definitions and glosses for terms from many sources that are otherwise lost to history. The complete original lexicon does not survive; the extant text covers only entries from the Greek letter Pi through Omega, amounting to 3,876 entries in modern critical editions. Compiled in Alexandria as a scholarly and pedagogical tool, it served students and scholars engaged with the older Greek literary tradition. Despite its fragmentary state and the complexities of its transmission through a single, late manuscript, the lexicon remains an invaluable resource for philologists, offering crucial insights into ancient Greek dialects, obscure vocabulary, and the fragments of lost literary works.
 
 ## Text
 

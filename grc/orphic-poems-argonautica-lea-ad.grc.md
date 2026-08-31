@@ -1,10 +1,11 @@
 ---
 title: Argonautica
 title_greek: Ἀργοναυτικά
-author: "Orphic Poems "
+author: Orphic Poems
 eul_wid: lea-ad
 eul_aid: lea
 canonical: "https://eulogikon.org/works/orphic-poems-argonautica-lea-ad"
+lang: grc
 period: Hellenistic
 dialect: Epic (Homeric)
 domain: Philosophy
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀργοναυτικά*
 
-**Author:** Orphic Poems 
+**Author:** Orphic Poems
 
 **eul_wid:** `lea-ad` · [HTML page](https://eulogikon.org/works/orphic-poems-argonautica-lea-ad)
-
-The Orphic Argonautica is a Greek epic poem from the Roman Imperial period, likely composed between the 2nd and 4th centuries CE, and pseudepigraphically attributed to the mythical poet and musician Orpheus. It presents a first-person narrative of the quest for the Golden Fleece, recounting the voyage of the Argo and its heroes from the perspective of Orpheus himself. The poem distinguishes itself by weaving the traditional Panhellenic myth with distinctive Orphic theological and cosmological doctrines. A central episode describes the protagonist's initiation into mysteries on the island of Samothrace, integrating themes of ritual practice and secret knowledge into the heroic saga. The work functions as a vehicle to legitimize and disseminate Orphic teachings, syncretizing them with a widely known mythological framework. It survives complete, transmitted primarily through medieval manuscripts, with a key witness being the 15th-century codex Parisinus Graecus 2771, where it is preserved alongside other pseudepigraphical Orphic texts such as the Orphic Hymns. Later used by Neoplatonists for allegorical interpretation, the Orphic Argonautica remains a crucial source for the study of late Orphic literature and religious syncretism in the ancient world.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Crates of Thebes II
 eul_wid: hia-ac
 eul_aid: hia
 canonical: "https://eulogikon.org/works/crates-thebes-epigrams-hia-ac"
+lang: grc
 period: Classical
 dialect: Koine
 format: Epistle
@@ -18,8 +19,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Crates of Thebes II
 
 **eul_wid:** `hia-ac` · [HTML page](https://eulogikon.org/works/crates-thebes-epigrams-hia-ac)
-
-The Epigrams attributed to Crates of Thebes constitute a collection of poetic fragments that distill the principles of Cynic philosophy into concise, often witty verse. These are not formal dedicatory or funerary inscriptions but rather philosophical sayings, or chreiai, crafted in metrical form. They survive exclusively through quotation by later authors, most notably Diogenes Laërtius in his biographical compendium of Greek philosophers. The fragments champion the central Cynic ideals of self-sufficiency and freedom achieved through the deliberate rejection of material wealth and social convention. This advocacy for a life of voluntary poverty is frequently delivered with humor and pointed satire, including parodies of revered texts like the Homeric epics to undermine traditional notions of honor and success. The collection also gives voice to the Cynic concept of cosmopolitanism, the idea of being a citizen of the world rather than of any single city-state. Beyond their preservation by Diogenes Laërtius, excerpts are found in the anthology of Stobaeus. No complete independent manuscript of these verses exists; the modern title and collection are scholarly reconstructions from these scattered references. The significance of Crates's epigrams lies in their method of using popular poetic forms to disseminate philosophy, a technique that influenced later Cynic and satirical literature. Furthermore, as the teacher of Zeno of Citium, the founder of Stoicism, Crates's ideas and his manner of expressing them had a direct and formative impact on the development of early Stoic ethics. These fragments remain an essential source for understanding the practical application and popular communication of Cynic doctrine in the Hellenistic period.
 
 ## Text
 

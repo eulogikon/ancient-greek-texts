@@ -5,6 +5,7 @@ author: Heniochus the Comic Poet
 eul_wid: fdm-aa
 eul_aid: fdm
 canonical: "https://eulogikon.org/works/heniochus-comic-food-drink-fdm-aa"
+lang: grc
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Heniochus the Comic Poet
 
 **eul_wid:** `fdm-aa` · [HTML page](https://eulogikon.org/works/heniochus-comic-food-drink-fdm-aa)
-
-The work is a modern compilation of 29 fragmentary passages from the Athenian comic poet Heniochus, who was active in the 4th century BCE during the period of Middle Comedy. Written in Attic Greek verse, these fragments are thematically unified around the subjects of food and drink, preserving jokes, vivid descriptions of meals, and references to contemporary culinary and social customs. They offer glimpses of stock comic characters, such as parasites and boastful cooks, reflecting the broader shift in comedy of this era away from direct political satire and toward a focus on social types and scenes from everyday domestic life.
-
-No complete play by Heniochus survives. The preservation of these fragments is due entirely to their quotation by later ancient authors, most notably the scholar Athenaeus in his work Deipnosophistae, or The Learned Banqueters, who cited them as illustrative examples of dining habits and linguistic usage. Modern scholarship interprets these fragments as valuable evidence for reconstructing the thematic preoccupations of Middle Comedy and for understanding the material and social details of daily life in classical Athens.
 
 ## Text
 

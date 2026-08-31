@@ -5,6 +5,7 @@ author: Medical Writers Anonymous
 eul_wid: umi-aa
 eul_aid: umi
 canonical: "https://eulogikon.org/works/med-writers-anon-instruments-by-element-umi-aa"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Medical Writers Anonymous
 
 **eul_wid:** `umi-aa` · [HTML page](https://eulogikon.org/works/med-writers-anon-instruments-by-element-umi-aa)
-
-The anonymous Greek treatise Names of Medical Instruments by Element Used in Surgeries is a concise medical glossary that systematically categorizes surgical instruments according to the material from which they are made, such as iron or bronze. This text belongs to a genre of ancient technical lexicography aimed at standardizing professional terminology, a practice also evident in similar glossaries within the Hippocratic corpus. Its primary function is to define and organize specialized surgical vocabulary, and its structure by material offers insight into the physical composition and implied practical considerations for different tools. The work represents a deliberate effort to systematize surgical knowledge for educational or reference purposes. While not attested as a distinct surviving work in major sources, it is likely a minor text preserved within a larger Byzantine manuscript collection of medical glossaries or scholia. Collectively, such anonymous lexicons were crucial for preserving and standardizing Greek medical terminology. They served as a bridge between classical surgical practice and later medical traditions, ensuring the names and functions of instruments described by earlier authorities remained comprehensible to subsequent generations of practitioners.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Simylus the Elegiac Poet
 eul_wid: gfe-aa
 eul_aid: gfe
 canonical: "https://eulogikon.org/works/simylus-nature-art-wisdom-gfe-aa"
+lang: grc
 period: Classical
 dialect: Epic (Homeric)
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Simylus the Elegiac Poet
 
 **eul_wid:** `gfe-aa` · [HTML page](https://eulogikon.org/works/simylus-nature-art-wisdom-gfe-aa)
-
-The elegiac work On the Nature of Art and Wisdom, attributed to the poet Simylus, is a fragmentary collection of philosophical verse. It survives only through three quoted passages preserved by later authors, a common transmission path for lost Greek poetry. The title indicates its likely focus on the concepts of art or craft and wisdom. Based on this title and its elegiac form, the fragments presumably address the nature and value of artistic skill, the definition and pursuit of wisdom, and offer gnomic reflection on practical and philosophical knowledge. This aligns with the instructional tradition of elegy exemplified by poets such as Theognis. The work possesses no independent manuscript tradition and is known exclusively from these later citations, being collected in modern editions of Greek poetic fragments. While its ancient influence is untraceable due to its fragmentary state, it remains a minor but notable datum within the study of Greek elegiac poetry, particularly regarding its application to didactic and philosophical subjects.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Pseudo-Galen
 eul_wid: tqu-an
 eul_aid: tqu
 canonical: "https://eulogikon.org/works/pseudo-galen-weights-measures-tqu-an"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Pseudo-Galen
 
 **eul_wid:** `tqu-an` · [HTML page](https://eulogikon.org/works/pseudo-galen-weights-measures-tqu-an)
-
-On Weights and Measures is an anonymous Greek metrological treatise from late antiquity, traditionally but erroneously attributed to the physician Galen. Scholarly consensus dates its composition to between the 4th and 7th centuries CE. The work functions as a comprehensive technical manual, systematically cataloging and comparing the diverse systems of weights, measures, and coinage employed across the ancient Mediterranean and Near Eastern world. Structured as a series of approximately 160 concise entries, its core purpose is to provide practical conversion ratios between units from Greek, Roman, Egyptian, Persian, and Hebrew traditions, with special attention given to measurements referenced in the Bible. This detailed reference was indispensable for pharmacists requiring precise drug dosages, as well as for merchants, administrators, and biblical exegetes navigating a complex metrological environment. Preserved in full within medieval manuscripts of Galen’s corpus due to its enduring utility, the treatise is a spurious addition to his authentic works. It stands as a characteristic product of late antique encyclopedism, reflecting the multicultural fabric of the early Byzantine Empire. For centuries it served as a standard authority on metrology, significantly influencing later lexicographers and translators.
 
 ## Text
 
@@ -358,7 +357,7 @@ On Weights and Measures is an anonymous Greek metrological treatise from late an
 
 ### 60 1 (t1)
 
-Ἡ μνᾶ ὄνομα σταθμοῦ ἔχει οὐγγίας ιϛʹ, 𐅻 ρκηʹ, γράμματα τπδʹ, ὀβολοὺς ψξηʹ, θέρμους ͵ αρνβʹ, κεράτια ͵ βτδʹ, χαλκοῦς ͵ ϛρμδʹ. ἡ Ἀττικὴ μνᾶ ἔχει οὐγγίας ιβʹ 𐅶 , 𐅻 ρʹ, γράμματα τʹ, ὀβολοὺς χʹ, θέρμους ϡʹ, κεράτια ͵ αωʹ, χαλκοῦς ͵ δωʹ [ἄλλοι ͵ γχʹ]. ἡ Πτολεμαϊκὴ μνᾶ ἔχει 𐆄 ιηʹ, 𐅻 ρμδʹ, γράμματα υλβʹ, ὀβολοὺς ωξδʹ, θέρμους ͵ αcϞϛʹ, κεράτια ͵ βφϞβʹ, χαλκοῦς ͵ ϛ ϡιβʹ. Ἡ λίτρα ἔχει 𐆄 ιβʹ, 𐅻 Ϟϛʹ, γράμματα cπηʹ, ὀβολοὺς φοϛʹ, θέρμους ωξδʹ, κεράτια ͵ αψκηʹ, χαλκοῦς ͵ δχηʹ [ἢ ͵ γχηʹ]. [5]
+Ἡ μνᾶ ὄνομα σταθμοῦ ἔχει οὐγγίας ιϛʹ, 𐅻 ρκηʹ, γράμματα τπδʹ, ὀβολοὺς ψξηʹ, θέρμους ͵ αρνβʹ, κεράτια ͵ βτδʹ, χαλκοῦς ͵ ϛρμδʹ. ἡ Ἀττικὴ μνᾶ ἔχει οὐγγίας ιβʹ 𐅶 , 𐅻 ρʹ, γράμματα τʹ, ὀβολοὺς χʹ, θέρμους ϡʹ, κεράτια ͵ αωʹ, χαλκοῦς ͵ δωʹ [ἄλλοι ͵ γχʹ]. ἡ Πτολεμαϊκὴ μνᾶ ἔχει 𐆄 ιηʹ, 𐅻 ρμδʹ, γράμματα υλβʹ, ὀβολοὺς ωξδʹ, θέρμους ͵ ασϞϛʹ, κεράτια ͵ βφϞβʹ, χαλκοῦς ͵ ϛ ϡιβʹ. Ἡ λίτρα ἔχει 𐆄 ιβʹ, 𐅻 Ϟϛʹ, γράμματα σπηʹ, ὀβολοὺς φοϛʹ, θέρμους ωξδʹ, κεράτια ͵ αψκηʹ, χαλκοῦς ͵ δχηʹ [ἢ ͵ γχηʹ]. [5]
 
 ### 60 3
 

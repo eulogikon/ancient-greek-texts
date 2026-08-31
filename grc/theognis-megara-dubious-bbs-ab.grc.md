@@ -5,6 +5,7 @@ author: Theognis of Megara
 eul_wid: bbs-ab
 eul_aid: bbs
 canonical: "https://eulogikon.org/works/theognis-megara-dubious-bbs-ab"
+lang: grc
 period: Archaic
 dialect: Ionic Elegiac
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Theognis of Megara
 
 **eul_wid:** `bbs-ab` · [HTML page](https://eulogikon.org/works/theognis-megara-dubious-bbs-ab)
-
-The work titled Dubious Fragments is attributed to the archaic Greek elegiac poet Theognis of Megara, who is known solely for his poetic output. The authentic Theognidean corpus consists of over 1,400 lines of elegiac verse addressing aristocratic values and social strife, preserved in an anthology within two medieval manuscripts. The description of Dubious Fragments as a prose work is unattested in the standard scholarly sources on Theognis and contradicts the universal characterization of his literary production. No substantive themes or content for this specific prose compilation are recorded, nor is it mentioned in any account of the manuscript tradition. Theognis's historical influence derives entirely from his canonical elegiac poetry, which was widely quoted in antiquity and used for moral education; the Dubious Fragments possesses no independent reception history or attested scholarly significance.
 
 ## Text
 

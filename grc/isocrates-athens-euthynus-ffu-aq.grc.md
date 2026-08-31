@@ -5,6 +5,7 @@ author: Isocrates of Athens
 eul_wid: ffu-aq
 eul_aid: ffu
 canonical: "https://eulogikon.org/works/isocrates-athens-euthynus-ffu-aq"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Isocrates of Athens
 
 **eul_wid:** `ffu-aq` · [HTML page](https://eulogikon.org/works/isocrates-athens-euthynus-ffu-aq)
-
-To Euthynus is a forensic oration composed by the Athenian rhetorician Isocrates for a client involved in a private lawsuit concerning an assault charge. The speech, structured in nineteen sections, follows the conventional arrangement of Attic forensic oratory, comprising a proem, narration, proofs, and peroration. The defendant’s core argument is that his actions constituted lawful self-defense against the plaintiff, Euthynus. The oration employs standard rhetorical techniques for legal persuasion, including a character attack against the opponent, and operates within the established framework of Athenian law and litigation procedure. The work survives complete as part of the Isocratic corpus, transmitted through medieval manuscripts and included among his six extant forensic orations. As an early example of Isocrates’s logography, it provides a valuable specimen of practical rhetorical theory applied in fourth-century BCE Athenian legal practice, contributing to the study of everyday forensic oratory in classical Athens.
 
 ## Text
 

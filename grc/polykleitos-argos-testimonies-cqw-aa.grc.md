@@ -5,6 +5,7 @@ author: Polykleitos of Argos
 eul_wid: cqw-aa
 eul_aid: cqw
 canonical: "https://eulogikon.org/works/polykleitos-argos-testimonies-cqw-aa"
+lang: grc
 period: Classical
 dialect: Doric (frg)
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Polykleitos of Argos
 
 **eul_wid:** `cqw-aa` · [HTML page](https://eulogikon.org/works/polykleitos-argos-testimonies-cqw-aa)
-
-The Testimonies is a work attributed to Polykleitos of Argos, the celebrated fifth-century BCE sculptor best known for his bronze statue the Doryphoros and his theoretical treatise the Canon. This attribution, however, is exceptionally obscure. The work is recorded merely as a collection of three passages, with no surviving description of its content, subject matter, or scope. It receives no mention in the major ancient sources that discuss Polykleitos’s artistic legacy and theoretical contributions, such as Pliny the Elder or Galen, who reference his Canon. Furthermore, it is absent from standard modern scholarly references and encyclopedic treatments of the sculptor, which focus exclusively on his extant sculptural work and his known treatise on proportion. The provenance of the three passages constituting the Testimonies is unspecified, and the work is not attested within the standard manuscript or doxographical traditions. Consequently, its status remains unconfirmed; it may represent a lost work, a later misattribution, or a minor text that never entered the surviving corpus associated with Polykleitos’s thought.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Autolycus of Pitane
 eul_wid: liq-ab
 eul_aid: liq
 canonical: "https://eulogikon.org/works/autolycus-pitane-moving-sphere-liq-ab"
+lang: grc
 period: Hellenistic
 dialect: Attic
 domain: Science
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Autolycus of Pitane
 
 **eul_wid:** `liq-ab` · [HTML page](https://eulogikon.org/works/autolycus-pitane-moving-sphere-liq-ab)
-
-_On the Moving Sphere_ by Autolycus of Pitane, written around 310 BCE, is the earliest surviving Greek mathematical treatise on astronomy. This foundational work of spherical geometry consists of sixteen propositions that systematically describe the behavior of circles on a uniformly rotating sphere, thereby modeling the daily rotation of the heavens. Employing a rigorous, deductive style, it establishes essential theorems for observational astronomy. The treatise focuses purely on the geometry of a sphere with a fixed axis, exploring the properties of great and small circles, how these circles rise and set relative to a horizon, and the conditions under which a point on the sphere is always visible, always invisible, or alternately rises and sets. The complete Greek text survives, having been transmitted as part of the medieval "Little Astronomy" collection. Its translation into Arabic and later into Latin secured its enduring place in the scientific tradition. For centuries, _On the Moving Sphere_ served as a standard and influential textbook. Its methodology of applying pure geometry to celestial motion set a vital precedent for the Hellenistic astronomical tradition and remained a part of the scientific curriculum well into the early modern period.
 
 ## Text
 

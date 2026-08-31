@@ -5,6 +5,7 @@ author: Nausicrates the Comic Poet
 eul_wid: fqe-aa
 eul_aid: fqe
 canonical: "https://eulogikon.org/works/nausicrates-fish-sea-creatures-fqe-aa"
+lang: grc
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Nausicrates the Comic Poet
 
 **eul_wid:** `fqe-aa` · [HTML page](https://eulogikon.org/works/nausicrates-fish-sea-creatures-fqe-aa)
-
-The Fragments on Fish and Sea Creatures is a lost comedic work by the poet Nausicrates, known only by its title and thirteen surviving passages. It belongs to the genre of Middle Comedy and was written in verse for the Athenian theater. Based on its title and the author's thematic associations, the fragments likely concern gastronomy and cookery with a focus on fish and seafood, employing social satire that targets figures such as fishmongers, cooks, or gluttons. The work represents the period's characteristic humorous treatment of daily life and culinary detail. It survives solely through later quotations, most notably by Athenaeus in his Deipnosophistae, who cites Nausicrates among comic poets writing on food. The thirteen passages constitute the extant citations identified by modern scholarship. These fragments contribute to the corpus of Middle Comedy, illustrating the genre's shift toward generalized humor and its interest in domestic and gastronomic themes. Their preservation by Athenaeus provides valuable evidence for this comic tradition and for Nausicrates' place within it.
 
 ## Text
 

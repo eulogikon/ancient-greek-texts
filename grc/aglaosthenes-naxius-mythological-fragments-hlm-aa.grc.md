@@ -5,6 +5,7 @@ author: Aglaosthenes Naxius
 eul_wid: hlm-aa
 eul_aid: hlm
 canonical: "https://eulogikon.org/works/aglaosthenes-naxius-mythological-fragments-hlm-aa"
+lang: grc
 period: Classical
 dialect: Ionic (frg)
 domain: History
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aglaosthenes Naxius
 
 **eul_wid:** `hlm-aa` · [HTML page](https://eulogikon.org/works/aglaosthenes-naxius-mythological-fragments-hlm-aa)
-
-The Naxian Mythological Fragments is the modern scholarly designation for the lost work of Aglaosthenes of Naxos, a local historian of uncertain date, though likely active in the Hellenistic period. His work was titled Naxiaka, meaning "Naxian Matters" or "Naxian History," and was a single-volume compilation of the island's myths and traditions. Our knowledge of the text derives entirely from fragmentary citations preserved by later authors, most notably a summary recorded in the 9th-century Bibliotheca of Photius and references in astronomical mythographies. These fragments indicate the work was a prime example of khorographia, or local history, which sought to document regional lore distinct from the dominant pan-Hellenic narratives.
-
-The surviving testimonia reveal a particular focus on Dionysiac mythology, reflecting the god's strong cultic associations with Naxos. Aglaosthenes provided an alternative account of the god's travels, recording that Dionysus, on his journey from Icaria to Naxos, was escorted by nymphs named Philia, Coronis, and Cleide. These nymphs were subsequently transformed into the star cluster known as the Hyades. Other fragments suggest the work contained etiological myths explaining local cults, rituals, and the origins of settlements, weaving astronomical phenomena into the island's sacred landscape. The original text is completely lost, with no surviving manuscript tradition; it exists only through these secondary citations in later mythographic and astronomical compilers. The significance of Aglaosthenes's work lies in its preservation of unique insular variants, illustrating how local histories served as vital reservoirs for mythological diversity and enriched the broader Greek mythological tradition.
 
 ## Text
 

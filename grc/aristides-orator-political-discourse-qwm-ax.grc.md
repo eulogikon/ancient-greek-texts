@@ -5,6 +5,7 @@ author: Aristides the Orator
 eul_wid: qwm-ax
 eul_aid: qwm
 canonical: "https://eulogikon.org/works/aristides-orator-political-discourse-qwm-ax"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristides the Orator
 
 **eul_wid:** `qwm-ax` · [HTML page](https://eulogikon.org/works/aristides-orator-political-discourse-qwm-ax)
-
-On Political Discourse is a rhetorical treatise composed by the Greek orator Aelius Aristides around 160–170 CE. Written in Attic Greek and structured as a formal oration, the work is a comprehensive defense of the political style of oratory, which is characterized by clarity, seriousness, and civic utility. Aristides champions this classical ideal in deliberate opposition to the more theatrical and ornamental sophistic style that was prevalent in his own time. The treatise systematically defines the virtues of the ideal civic speaker, critiques the performative excesses of contemporary rhetoricians, and upholds the Athenian orator Demosthenes as the paramount model of political eloquence.
-
-Composed during the period known as the Second Sophistic, a movement marked by a revived emphasis on Greek cultural identity under Roman imperial rule, the text engages directly with a central intellectual debate concerning the proper function and form of rhetoric. The work survives intact through the medieval manuscript tradition, most notably within a 13th-century codex preserving Aristides' collected works. Modern scholarship interprets On Political Discourse not only as a polemic against the author's professional rivals but also as a performative justification of his own rhetorical practice, positioning him as a legitimate heir to the classical Athenian tradition. As such, it remains a crucial source for understanding the aesthetic conflicts and cultural values that shaped Greek intellectual life during the Roman Empire.
 
 ## Text
 

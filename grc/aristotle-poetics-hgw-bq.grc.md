@@ -5,6 +5,7 @@ author: Aristotle
 eul_wid: hgw-bq
 eul_aid: hgw
 canonical: "https://eulogikon.org/works/aristotle-poetics-hgw-bq"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristotle
 
 **eul_wid:** `hgw-bq` · [HTML page](https://eulogikon.org/works/aristotle-poetics-hgw-bq)
-
-Aristotle's Poetics is a foundational treatise of literary theory, composed in Attic Greek around 335–323 BCE. The work systematically analyzes the art of poetry, though the surviving portion focuses primarily on tragedy and epic. The text as it exists today is incomplete, consisting of 32 chapters that break off during the discussion of epic poetry; a promised section on comedy is lost. Aristotle defines tragedy as the imitation of a serious and complete action, which through pity and fear brings about a catharsis, or purgation, of these emotions. He identifies six constituent elements of tragedy: plot, character, thought, diction, melody, and spectacle, arguing that plot is the most important. The analysis introduces enduring critical concepts such as the tragic hero's error, or hamartia; the reversal of fortune, or peripeteia; and the moment of recognition, or anagnorisis. Modern scholars often interpret the treatise as a response to Plato's criticism of poetry, reframing imitation, or mimesis, as a natural and instructive human activity. It is believed to have been written as a text for Aristotle's students at the Lyceum rather than for public dissemination. The Poetics was not widely influential in antiquity, and its transmission depends on medieval manuscripts, the oldest of which date from the 10th or 11th century. The treatise was rediscovered during the Renaissance, where it became a cornerstone of Western literary criticism and profoundly shaped the development of early modern drama.
 
 ## Text
 

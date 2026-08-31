@@ -5,6 +5,7 @@ author: Historical Fragments  Anonymous
 eul_wid: mmg-ab
 eul_aid: mmg
 canonical: "https://eulogikon.org/works/anon-hist-frag-founding-hermopolis-mmg-ab"
+lang: grc
 period: Hellenistic
 dialect: Mixed Dialects (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Historical Fragments  Anonymous
 
 **eul_wid:** `mmg-ab` · [HTML page](https://eulogikon.org/works/anon-hist-frag-founding-hermopolis-mmg-ab)
-
-The work known as Anonymous On the Founding of Hermopolis is a lost text belonging to the genre of ktiseis, or city-foundation accounts. Its title indicates it concerned the origins of Hermopolis Magna in Egypt, a major cult center for the god Thoth, whom the Greeks identified with Hermes. No direct fragments or summaries of its content survive, and it is preserved only by its title, likely mentioned as a testimonium in a lost ancient source; it is not attested in extant papyri or medieval manuscripts. Based on its genre and subject, the text would have addressed the narrative foundation of Hermopolis, the divine patronage of Hermes-Thoth, and the cultural syncretism blending Egyptian and Greek traditions to establish civic identity and prestige. As a ktisis, the work would have served to articulate the city’s Hellenized identity for a Greek-speaking audience during the Hellenistic or Roman period. It represents the broader literary trend of creating local histories that connected cities to a mythic past, contributing to the circulated knowledge of Egyptian topography and foundation legends.
 
 ## Text
 

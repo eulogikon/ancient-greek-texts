@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-ao
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-elder-politics-okg-ao"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-ao` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-elder-politics-okg-ao)
-
-Whether An Elder Should Engage In Politics is a philosophical essay by the Greek writer Plutarch, composed in the late first or early second century CE as part of his ethical corpus, the Moralia. Structured as a 73-section deliberation, the work systematically examines the question of whether an older man should retire from public affairs or remain politically active. Plutarch opens by acknowledging common excuses for withdrawal, such as physical decline and the perceived ingratitude of public life, which often use old age as a final justification for retreat. He then proceeds to weigh arguments on both sides, confronting practical concerns while building a case for sustained engagement.
-
-The essay ultimately advocates vigorously for the continued participation of elders in politics. Plutarch contends that the wisdom, experience, and tempered judgment accrued with age are indispensable assets to the state, framing retirement not as a deserved rest but as a dereliction of civic duty. He argues that the political life and the philosophical pursuit of virtue are inseparable, and that abandoning public service diminishes one's moral purpose. The work reflects the outlook of a provincial Greek notable, like Plutarch himself, who operated within the local governance structures of the High Roman Empire. Modern scholarship views it as a piece of practical advice literature for the educated elite, engaging with perennial classical debates concerning the active versus the contemplative life. Preserved in full through medieval manuscripts, the essay stands as a clear example of Plutarch's applied political philosophy, emphasizing the enduring responsibility of the individual to the community.
 
 ## Text
 

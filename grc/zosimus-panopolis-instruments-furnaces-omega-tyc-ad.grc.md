@@ -5,6 +5,7 @@ author: Zosimus of Panopolis
 eul_wid: tyc-ad
 eul_aid: tyc
 canonical: "https://eulogikon.org/works/zosimus-panopolis-instruments-furnaces-omega-tyc-ad"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Zosimus of Panopolis
 
 **eul_wid:** `tyc-ad` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-instruments-furnaces-omega-tyc-ad)
-
-On Instruments and Furnaces, Genuine Notes is an alchemical treatise composed in Greek by Zosimus of Panopolis around 300 CE. The work functions as a practical manual, offering detailed technical descriptions of the apparatus and furnaces essential for alchemical operations such as distillation and the processing of metals. Its structure is comprised of five distinct passages or notes. The specific designation of "Genuine Notes" in the title underscores its intended purpose as an authoritative and reliable guide to proper laboratory technique, serving to differentiate it from other, less trustworthy writings circulating at the time. Zosimus authored this text during an era when alchemy was a complex fusion of material craft, philosophical speculation, and spiritual doctrine. Modern scholarship interprets the treatise as a manual written for fellow practitioners, providing a valuable window into the workshop culture of late antique Egypt. The text survives as part of larger collections of Greek alchemical writings preserved in medieval Byzantine manuscripts, most notably the Codex Marcianus Graecus 299. As with many ancient technical texts, it has suffered from copyist errors and fragmentation over centuries of transmission. Despite this, its precise descriptions of specialized equipment exerted a significant influence on subsequent alchemical traditions, both in the Islamic world and in medieval Europe.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Xenophon of Athens
 eul_wid: ezq-aa
 eul_aid: ezq
 canonical: "https://eulogikon.org/works/xenophon-athens-constitution-lacedaemonians-ezq-aa"
+lang: grc
 period: Classical
 dialect: Attic
 domain: History
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Xenophon of Athens
 
 **eul_wid:** `ezq-aa` · [HTML page](https://eulogikon.org/works/xenophon-athens-constitution-lacedaemonians-ezq-aa)
-
-Xenophon's Constitution of the Lacedaemonians is a fourth-century BCE prose treatise offering a systematic analysis of the laws, customs, and institutions of Sparta. The work is structured as a series of concise chapters examining the foundational elements of Spartan society, including the rigorous state-controlled education system known as the agoge, the communal dining halls, military organization, and the political roles of kings and elders. Xenophon frames the entire Spartan system as a coherent and deliberate design attributed to the legendary lawgiver Lycurgus, whose ordinances he credits with producing the city-state's renowned discipline, stability, and military power.
-
-The complete text, preserved in 103 sections, concludes with a significant final chapter in which Xenophon contrasts the Sparta of his own era with its idealized past. He argues that contemporary Spartans had deviated from Lycurgus's original laws, a corruption he directly links to the city's political and moral decline. Modern scholarship interprets the treatise as a didactic analysis, likely composed for an aristocratic Greek audience. Written during Xenophon's exile and informed by his firsthand experience with Spartan society following his military service, the work functions not only as an explanation of Spartan success but also as an implicit critique of Athenian democratic practices, presenting the Spartan model as one of superior order and cohesion.
 
 ## Text
 

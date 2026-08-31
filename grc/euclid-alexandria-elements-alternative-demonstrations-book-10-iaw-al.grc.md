@@ -5,6 +5,7 @@ author: Euclid of Alexandria
 eul_wid: iaw-al
 eul_aid: iaw
 canonical: "https://eulogikon.org/works/euclid-alexandria-elements-alternative-demonstrations-book-10-iaw-al"
+lang: grc
 period: Hellenistic
 dialect: Technical Koine
 domain: Mathematics
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Euclid of Alexandria
 
 **eul_wid:** `iaw-al` · [HTML page](https://eulogikon.org/works/euclid-alexandria-elements-alternative-demonstrations-book-10-iaw-al)
-
-This is the largest of the alternative-demonstration collections, gathering variant proofs of propositions from Book X of Euclid's Elements — the longest and most intricate book of the treatise, devoted to the classification of incommensurable magnitudes and the many species of irrational lines (the medial, binomial, apotome, and their relatives). Because Book X is so technically demanding, it accumulated an especially rich tradition of supplementary and alternative arguments, preserved here apart from the main text. These proofs offer different demonstrations of results in the theory of irrationals and document how this notoriously difficult portion of the Elements was studied, reworked, and re-proved by later mathematicians and editors.
 
 ## Text
 

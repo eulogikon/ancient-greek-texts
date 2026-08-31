@@ -5,6 +5,7 @@ author: Speusippus of Athens
 eul_wid: ega-aa
 eul_aid: ega
 canonical: "https://eulogikon.org/works/speusippus-athens-king-philip-ega-aa"
+lang: grc
 period: Classical
 dialect: "Attic (phi, frg)"
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Speusippus of Athens
 
 **eul_wid:** `ega-aa` · [HTML page](https://eulogikon.org/works/speusippus-athens-king-philip-ega-aa)
-
-The Letter to King Philip is an epistolary treatise composed in Attic Greek by Speusippus of Athens, the nephew and successor of Plato as head of the Academy. Written around 343–342 BCE and addressed to Philip II of Macedon, the work survives only in fragmentary form, primarily through quotations preserved by the biographer Diogenes Laertius. The extant portion reveals a carefully constructed political argument, opening with a request for the king to aid a historian named Antipater before pivoting to its central rhetorical purpose. Speusippus directly counters a discourse sent to Philip by the Athenian orator Isocrates, criticizing him for omitting the benefactions of Philip’s ancestors to Greece and for making disparaging remarks about Plato. In the most famous surviving fragment, Speusippus mounts a defense of the hero Heracles, an ancestral figure of the Macedonian royal house, portraying him as a great Panhellenic benefactor who was justly honored by Athens. This historical argument served to flatter the king by connecting Macedonian royalty to revered Hellenic ideals.
-
-The letter’s structure, inferred from the fragments, suggests a composed political essay rather than a casual note, likely comprising several distinct passages. Modern scholarship interprets the work as a significant document reflecting a practical turn within the Platonic school, representing an attempt by the head of the Academy to engage directly in political advising and to vie for intellectual influence with a powerful monarch. It is seen as part of a broader rivalry with rhetorical schools, particularly that of Isocrates, for the ear of Philip. While nominally addressed to the king, such letters were often intended for wider circulation among the Greek political elite, amplifying their diplomatic and propagandistic impact. The full scope, content, and precise structure of the letter remain irrecoverable due to its fragmentary state, but it stands as a notable example of philosophical engagement with contemporary power politics in the late Classical period.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Lucian of Samosata
 eul_wid: pfk-ab
 eul_aid: pfk
 canonical: "https://eulogikon.org/works/lucian-samosata-parasite-art-pfk-ab"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lucian of Samosata
 
 **eul_wid:** `pfk-ab` · [HTML page](https://eulogikon.org/works/lucian-samosata-parasite-art-pfk-ab)
-
-"On the Parasite, that Parasite is an Art" is a satirical oration by the second-century CE author Lucian of Samosata. Written in Greek, the work presents a mock-serious argument that the profession of the parasite—a figure who lives by flattery and securing invitations to meals—constitutes a legitimate and highly skilled art. Structured as a paradoxical encomium, a rhetorical exercise that praises a conventionally despised subject, the text employs the formal logic of philosophical debate to humorously defend an indefensible lifestyle. Over the course of its argument, the speaker compares the parasite's purported expertise to that of respected professionals such as orators and soldiers, systematically applying the criteria of a technical art to the practices of sycophancy and convivial opportunism.
-
-A product of the Roman Imperial period and the Second Sophistic, a cultural movement that revived classical Greek rhetoric and prized intellectual display, Lucian's piece functions as a parody of contemporary sophistic speech-making. It demonstrates how the tools of advanced rhetoric could be leveraged to justify any position, no matter how morally or socially dubious. Modern scholarship interprets the work not merely as a jest but as a pointed critique of hollow rhetorical virtuosity and the ethical flexibility exhibited by certain professional classes in Lucian's era. The text survives complete through medieval manuscript transmission as part of Lucian's extensively preserved literary corpus.
 
 ## Text
 

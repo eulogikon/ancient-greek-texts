@@ -5,6 +5,7 @@ author: John of Gaza the Grammarian and Poet
 eul_wid: vuy-aa
 eul_aid: vuy
 canonical: "https://eulogikon.org/works/john-gaza-cosmic-tablet-vuy-aa"
+lang: grc
 period: Late Antique
 dialect: Christian Koine
 domain: Grammar
@@ -19,20 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** John of Gaza the Grammarian and Poet
 
 **eul_wid:** `vuy-aa` · [HTML page](https://eulogikon.org/works/john-gaza-cosmic-tablet-vuy-aa)
-
-Overview The Description of the Cosmic Tablet (Ἔκφρασις τοῦ κοσμικοῦ πίνακος) is a 6th-century CE hexameter poem by John of Gaza, a grammarian and poet. This ekphrasis—a detailed rhetorical description—depicts a large, complex allegorical painting or mosaic (the "Cosmic Tablet") displayed in a public building, likely a winter bath complex, in Gaza. The poem systematically describes the three-tiered cosmic tableau: the celestial realm with Time (Aion) and the Zodiac; the terrestrial realm with Earth (Ge) and the Seasons; and the subterranean realm with Oceanus.
-
-Content
-
-A hierarchical cosmos divided into celestial, terrestrial, and chthonic realms.
-
-Allegorical personifications of abstract concepts like Time (Aion) and Earth (Ge).
-
-A syncretic blend of classical Greek mythology and late-antique philosophical allegory.
-
-Transmission The complete text survives in a single 10th-century manuscript, Codex Marcianus Graecus 524, which also contains Paul the Silentiary’s Ekphrasis of the Church of the Holy Apostles.
-
-Significance The poem is a key example of late antique descriptive poetry and illustrates the persistence of classical themes in early Byzantine Gaza. It provides valuable evidence for reconstructing lost monumental art and reflects the syncretic intellectual culture of the 6th-century "Gaza school".
 
 ## Text
 

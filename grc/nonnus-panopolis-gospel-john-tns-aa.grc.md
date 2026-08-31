@@ -5,6 +5,7 @@ author: Nonnus of Panopolis
 eul_wid: tns-aa
 eul_aid: tns
 canonical: "https://eulogikon.org/works/nonnus-panopolis-gospel-john-tns-aa"
+lang: grc
 period: Late Antique
 dialect: Epic (Homeric)
 domain: Epic
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Nonnus of Panopolis
 
 **eul_wid:** `tns-aa` · [HTML page](https://eulogikon.org/works/nonnus-panopolis-gospel-john-tns-aa)
-
-The Paraphrase of the Gospel of John is a fifth-century epic poem by the Egyptian poet Nonnus of Panopolis, who is equally renowned for his extensive mythological epic, the Dionysiaca. This work constitutes a complete and meticulous poetic transformation of the biblical Gospel of John, recasting its prose narrative into formal Homeric Greek hexameter verse. Encompassing all twenty-one chapters of the gospel, the poem is organized into 287 sections and systematically applies the traditional apparatus of classical epic—including ornamental epithets, extended similes, and amplified descriptive passages—to the Christian text. Modern scholarship generally views this ambitious project as a conscious synthesis of classical paideia and Christian doctrine, designed to render sacred scripture both accessible and artistically dignified for a Hellenized, educated audience. It is believed to date from the later period of Nonnus’s career, potentially indicating a personal religious conversion or a commission within a Christian community. The poem survives in its entirety through numerous medieval manuscripts, reflecting its sustained popularity within Byzantine religious and educational circles. Its exceptional state of preservation is largely attributed to its Christian subject matter, and the work served as a crucial stylistic exemplar for subsequent Byzantine religious poetry, effectively consecrating the classical epic form for theological expression.
 
 ## Text
 

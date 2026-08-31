@@ -1,10 +1,11 @@
 ---
 title: Loves
 title_greek: Ἔρωτες
-author: "Pseudo-Lucian "
+author: Pseudo-Lucian
 eul_wid: qeu-aj
 eul_aid: qeu
 canonical: "https://eulogikon.org/works/pseudo-lucian-loves-qeu-aj"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -16,13 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἔρωτες*
 
-**Author:** Pseudo-Lucian 
+**Author:** Pseudo-Lucian
 
 **eul_wid:** `qeu-aj` · [HTML page](https://eulogikon.org/works/pseudo-lucian-loves-qeu-aj)
-
-Loves is a rhetorical dialogue in ancient Greek, traditionally but incorrectly ascribed to the satirist Lucian of Samosata. Modern scholarship classifies it among the works of Pseudo-Lucian, likely composed in the 2nd or 3rd century CE. The text is structured as a formal debate on the relative merits of two types of love: the love for women and the love for boys. It opens with a character named Theomnestus requesting that Lycinus adjudicate this question. Lycinus responds by recounting a speech he once heard between two advocates, Charicles, who defends the love of women, and Callicratidas, who champions pederastic love.
-
-The dialogue proceeds as an advanced rhetorical exercise, systematically comparing the physical, emotional, and philosophical dimensions of each relationship. The arguments draw upon classical ideals, with the defense of boy-love often invoking traditional Platonic concepts of virtue and philosophical companionship. The work concludes without a definitive verdict, leaving the judgment ostensibly to the listener. A product of the Second Sophistic period, Loves is designed primarily to showcase rhetorical virtuosity for a highly educated audience familiar with longstanding cultural and philosophical debates on eros, nature, and ethics. The complete text survives within the medieval manuscript tradition of Lucian’s corpus, though its spurious authorship was recognized even in antiquity.
 
 ## Text
 

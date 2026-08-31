@@ -5,6 +5,7 @@ author: Zosimus of Panopolis
 eul_wid: tyc-bs
 eul_aid: tyc
 canonical: "https://eulogikon.org/works/zosimus-panopolis-white-lead-tyc-bs"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Zosimus of Panopolis
 
 **eul_wid:** `tyc-bs` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-white-lead-tyc-bs)
-
-The Excerpt on White Lead is a concise technical treatise on alchemy attributed to Zosimus of Panopolis, a Greco-Egyptian alchemist active around 300 CE. Composed in Koine Greek, the work provides methodical instructions for producing a substance historically termed white lead, which was significant in ancient metallurgy, cosmetics, and medicine and is identified by modern scholars as a lead carbonate compound. The text functions as a practical, workshop-oriented manual, detailing the requisite materials and procedural steps for creating this substance, and was likely intended for fellow practitioners within the craft traditions of Roman Egypt. It survives as a distinct excerpt within larger Byzantine manuscripts preserving Zosimus's corpus, notably the 10th- or 11th-century Marcianus graecus 299. While its transmission may include minor later scribal modifications, the excerpt is regarded as an authentic component of Zosimus's writings. As a foundational figure in the history of alchemy, Zosimus authored works that preserved and transmitted practical craft knowledge for centuries, influencing Byzantine, Islamic, and later Latin alchemical traditions. This particular text remains a valuable source for understanding the material techniques and laboratory practices of late antiquity.
 
 ## Text
 

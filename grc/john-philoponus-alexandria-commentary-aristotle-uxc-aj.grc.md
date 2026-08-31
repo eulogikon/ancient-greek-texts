@@ -5,6 +5,7 @@ author: John Philoponus of Alexandria
 eul_wid: uxc-aj
 eul_aid: uxc
 canonical: "https://eulogikon.org/works/john-philoponus-alexandria-commentary-aristotle-uxc-aj"
+lang: grc
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** John Philoponus of Alexandria
 
 **eul_wid:** `uxc-aj` · [HTML page](https://eulogikon.org/works/john-philoponus-alexandria-commentary-aristotle-uxc-aj)
-
-John Philoponus of Alexandria’s Commentary on Aristotle's Prior Analytics is a systematic philosophical treatise from the early sixth century CE. Composed in Attic Greek for advanced students within the Neoplatonic school of Alexandria, it belongs to the author’s early, scholarly career before his more controversial theological writings. The work provides a detailed exegesis of Aristotle’s foundational text on logic, methodically structured as a series of 484 lectures. Each section typically quotes a lemma from Aristotle’s Prior Analytics, which establishes the theory of the syllogism, and then offers extensive analytical commentary. Philoponus explains core logical doctrines, including syllogistic figures and the rules of propositional conversion, while frequently engaging with and critiquing the interpretations of earlier authorities such as Alexander of Aphrodisias. The commentary follows a conventional scholastic format, beginning with an introduction that outlines the standard points of examination for any Aristotelian work: its purpose, utility, order of study, reason for its title, authenticity, and division into chapters, to which Philoponus adds a seventh concerning its place within the divisions of philosophy. Modern scholarship regards the work as a proficient and insightful example of late antique philosophical commentary, aimed at integrating Aristotelian logic within a Neoplatonic curriculum. The complete text survives, primarily transmitted through a tenth-century manuscript, and remains a valuable resource for understanding the reception and teaching of Aristotelian logic in the final centuries of classical antiquity.
 
 ## Text
 

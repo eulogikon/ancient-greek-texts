@@ -5,6 +5,7 @@ author: Crates of Thebes II
 eul_wid: hia-aa
 eul_aid: hia
 canonical: "https://eulogikon.org/works/crates-thebes-fragments-hia-aa"
+lang: grc
 period: Classical
 dialect: Koine
 format: Treatise
@@ -18,8 +19,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Crates of Thebes II
 
 **eul_wid:** `hia-aa` · [HTML page](https://eulogikon.org/works/crates-thebes-fragments-hia-aa)
-
-The work conventionally titled Fragments and Title comprises a modern assemblage of fourteen passages attributed to the Cynic philosopher Crates of Thebes, an influential figure of the late fourth and early third centuries BCE. These excerpts do not derive from a single, continuous text but are rather a collection of poetic lines, maxims, and anecdotes preserved through quotation by later authors, most notably Diogenes Laertius in the third century CE. Written in Attic Greek, the fragments employ parody and satirical invention to convey fundamental Cynic doctrines. A notable example is the description of an ideal, simple state named "Pera," a metaphorical leather pouch representing a life free from material excess, which critiques societal pursuits of wealth, status, and pleasure. The extant sayings advocate for radical self-sufficiency, freedom from conventional desires, and a cosmopolitan outlook. As the teacher of Zeno of Citium, the founder of Stoicism, Crates served as a crucial link between Cynicism and later Hellenistic philosophy, with his emphasis on living in accordance with nature directly influencing Stoic ethical thought. The modern editorial arrangement into fourteen fragments represents a scholarly reconstruction, as Crates's complete writings are lost, leaving these cited passages as the primary window into his public teachings and literary style.
 
 ## Text
 

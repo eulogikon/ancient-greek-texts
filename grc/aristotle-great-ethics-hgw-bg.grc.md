@@ -5,6 +5,7 @@ author: Aristotle
 eul_wid: hgw-bg
 eul_aid: hgw
 canonical: "https://eulogikon.org/works/aristotle-great-ethics-hgw-bg"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristotle
 
 **eul_wid:** `hgw-bg` · [HTML page](https://eulogikon.org/works/aristotle-great-ethics-hgw-bg)
-
-The Great Ethics, also known as the Magna Moralia, is an ancient Greek treatise on ethical philosophy transmitted within the Aristotelian corpus. Composed in Attic Greek and divided into two books comprising 51 chapters, the work systematically addresses central themes of Aristotelian ethics. These include the definition of happiness, the nature of moral and intellectual virtue, the doctrine of the mean, and a detailed analysis of friendship. Scholarly consensus holds that Aristotle did not author the text; it is generally considered a later compilation, likely produced by a member of the Peripatetic school during the Hellenistic period. The content largely synthesizes and summarizes arguments found in Aristotle's two major ethical works, the Nicomachean Ethics and the Eudemian Ethics. Its literary style is notably less polished and more repetitive than that of Aristotle's authentic writings, leading many to interpret it as a set of lecture notes or a student handbook derived from his teachings. Preserved complete through the medieval manuscript tradition of Aristotle's works, the Great Ethics possesses historical significance primarily for the window it provides into the early reception and pedagogical transmission of Aristotelian thought. The title itself is somewhat paradoxical, as the treatise is not particularly lengthy; it is believed the designation may have resulted from a later confusion in the cataloguing of manuscripts.
 
 ## Text
 

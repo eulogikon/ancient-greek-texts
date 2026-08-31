@@ -5,6 +5,7 @@ author: Hypereides the Orator
 eul_wid: fci-ag
 eul_aid: fci
 canonical: "https://eulogikon.org/works/hypereides-epitaph-fci-ag"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hypereides the Orator
 
 **eul_wid:** `fci-ag` · [HTML page](https://eulogikon.org/works/hypereides-epitaph-fci-ag)
-
-The Epitaphios is a funeral oration delivered by the Athenian orator Hypereides in 322 BCE. It belongs to the traditional genre of public speeches honoring soldiers who died in war, specifically commemorating the Athenians who fell in the Lamian War. This conflict was a final, unsuccessful revolt against Macedonian hegemony following the death of Alexander the Great. The oration praises the valor of the fallen and their general, Leosthenes, while defending Athens’ decision to fight for its freedom and aiming to console the citizenry after a devastating military and political defeat. Only a portion of the text survives, recovered from fragments of ancient papyrus rolls discovered in Egypt, the most significant of which dates to the first century BCE. These fragments are organized into fifteen passages, but the complete speech is lost. Modern scholars regard the oration as a crucial historical source for understanding the end of the classical Athenian democracy and as a powerful, late exemplar of a classic Athenian rhetorical form, skillfully adapted to a moment of profound civic crisis.
 
 ## Text
 

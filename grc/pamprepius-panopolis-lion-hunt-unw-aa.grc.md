@@ -5,6 +5,7 @@ author: Pamprepius of Panopolis
 eul_wid: unw-aa
 eul_aid: unw
 canonical: "https://eulogikon.org/works/pamprepius-panopolis-lion-hunt-unw-aa"
+lang: grc
 period: Late Antique
 dialect: Epic (Homeric)
 domain: Epic
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Pamprepius of Panopolis
 
 **eul_wid:** `unw-aa` · [HTML page](https://eulogikon.org/works/pamprepius-panopolis-lion-hunt-unw-aa)
-
-The Fragments on a Lion Hunt is an epic poem by the 5th-century poet Pamprepius of Panopolis. It survives in a highly fragmentary state, with 162 passages recovered from a palimpsest manuscript where the original text was scraped away in the 10th century to make room for historical chronicles. The poem narrates a lion hunt, treating this activity as a subject for traditional heroic verse. The surviving lines depict the conflict between humans and the beast, focusing on descriptions of action and martial prowess. The work’s sole textual witness is a 5th-century manuscript that was later reused, with the underlying text identified and published only in the 20th century. As the work of a pagan intellectual in a Christianizing empire, Pamprepius’s choice of a classic epic theme reflects his cultural affiliations. The poem’s fragmentary preservation highlights the precarious transmission of late antique pagan literature, and its recovery offers valuable direct evidence for the style and thematic concerns of 5th-century epic poetry, a period from which very little such work remains.
 
 ## Text
 

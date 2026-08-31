@@ -5,6 +5,7 @@ author: Empedocles of Acragas
 eul_wid: die-ab
 eul_aid: die
 canonical: "https://eulogikon.org/works/empedocles-acragas-nature-perception-die-ab"
+lang: grc
 period: Classical
 dialect: Doric
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Empedocles of Acragas
 
 **eul_wid:** `die-ab` · [HTML page](https://eulogikon.org/works/empedocles-acragas-nature-perception-die-ab)
-
-Empedocles of Acragas, a pre-Socratic philosopher of the fifth century BCE, authored a seminal philosophical poem in epic hexameter verse known as On Nature. The work, addressed to his student Pausanias, survives only in fragments preserved by later authors such as Aristotle and Sextus Empiricus. It presents a comprehensive and rational account of the cosmos, grounded in a system of four eternal, indestructible elements or "roots": earth, air, fire, and water. All physical phenomena result from the combination and separation of these roots, processes governed by two fundamental cosmic forces, Love and Strife. Love acts as a unifying principle, drawing the roots together into mixtures, while Strife is a separating force that pulls them apart. Empedocles posited an eternal cyclical universe, alternating between a state of perfect unity under the dominion of Love and one of total separation under Strife, with the present world existing in an intermediate phase where both forces are active.
-
-Beyond its physical cosmology, the poem delves into epistemology and the theory of perception. Empedocles argued that human senses, while limited, are not wholly unreliable; perception occurs through a principle of like recognizing like, where effluences from objects meet corresponding pores in the sense organs. However, he maintained that sensory data alone is insufficient for grasping ultimate truth, which requires the correct application of reason. The fragments also explore the origin and nature of living beings, proposing a form of evolutionary biology, and discuss the soul, linking physical knowledge with ethical and purificatory themes. The work thus represents a unified attempt to explain the natural world while providing a guide to human understanding and flourishing.
 
 ## Text
 

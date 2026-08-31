@@ -5,6 +5,7 @@ author: Callimachus Scholia
 eul_wid: vmw-ah
 eul_aid: vmw
 canonical: "https://eulogikon.org/works/callimachus-scholia-hymns-ii-iii-vmw-ah"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: Grammar
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Callimachus Scholia
 
 **eul_wid:** `vmw-ah` · [HTML page](https://eulogikon.org/works/callimachus-scholia-hymns-ii-iii-vmw-ah)
-
-The Scholia on Hymns II and III is an anonymous collection of ancient explanatory notes, or scholia, on two poems by the Hellenistic Greek poet Callimachus: his Hymn to Apollo and Hymn to Artemis. Written in prose Greek, this work is not a standalone literary piece but a scholarly commentary. It consists of 44 discrete passages that clarify the dense, allusive style of Callimachus's poetry. The notes typically explain rare vocabulary, identify mythological figures and places, and illuminate references to religious cults and earlier literature.
-
-The date of the compilation is uncertain, but it was assembled after Callimachus's lifetime (c. 310–240 BCE), likely during the Hellenistic or Roman Imperial period. It represents the accumulated work of multiple grammarians over time, compiled for an audience of advanced students and scholars to aid in studying these complex hymns. Only part of this ancient commentary survives today, preserved in the margins of medieval manuscripts that contain Callimachus's poems. The most important of these is an 11th-century manuscript known as the Codex Laurentianus. Modern scholars view these scholia as a crucial resource for understanding how Callimachus was read and taught in antiquity and for reconstructing the text and context of his influential poetry.
 
 ## Text
 
@@ -53,6 +50,8 @@ The date of the compilation is uncertain, but it was assembled after Callimachus
 ### book 55
 
 ἔγκυοι. [ἄ]κυθοι: ἀνέγκυοι. ὕπ[αρνοι: ἔγκυοι. διεμετρήσαντο:]
+
+*[crux: ἔγκυοι]*
 
 ### book 56
 

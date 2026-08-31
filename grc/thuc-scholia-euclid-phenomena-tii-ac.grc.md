@@ -5,6 +5,7 @@ author: Thucydides Scholia
 eul_wid: tii-ac
 eul_aid: tii
 canonical: "https://eulogikon.org/works/thuc-scholia-euclid-phenomena-tii-ac"
+lang: grc
 period: Late Antique
 dialect: Byzantine Technical
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Thucydides Scholia
 
 **eul_wid:** `tii-ac` · [HTML page](https://eulogikon.org/works/thuc-scholia-euclid-phenomena-tii-ac)
-
-The Scholia on Euclid's Phenomena is a Byzantine commentary on Euclid's astronomical treatise of the same name, which applies geometric principles to the apparent motions of celestial bodies on a spherical cosmos. The work is attributed in the manuscript tradition to a figure named Thucydides, though this cannot be the famous historian of the 5th century BCE, who lived before Euclid and left no association with mathematical scholarship. The commentary is notably reported to be composed in verse, an unusual format for a technical scholium, and comprises 141 individual explanatory passages. Its content focuses on clarifying Euclid's descriptions of stellar motions and the principles of spherical astronomy, providing glosses on geometric proofs and technical terminology. The choice of a verse format may have served a pedagogical function as a mnemonic device for students. The specific transmission history of the scholia is not documented in detail, but like many such Byzantine commentaries, it was likely preserved through medieval manuscripts copied alongside Euclid's main text, thereby aiding the continuity of astronomical knowledge. While its direct influence on later astronomy is unrecorded, the work exemplifies the enduring scholarly tradition of annotating and teaching classical scientific texts, and its purported metrical form represents a unique pedagogical approach to Euclid's astronomy.
 
 ## Text
 

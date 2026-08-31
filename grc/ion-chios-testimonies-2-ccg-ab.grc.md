@@ -5,6 +5,7 @@ author: Ion of Chios
 eul_wid: ccg-ab
 eul_aid: ccg
 canonical: "https://eulogikon.org/works/ion-chios-testimonies-2-ccg-ab"
+lang: grc
 period: Classical
 dialect: Ionic
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Ion of Chios
 
 **eul_wid:** `ccg-ab` · [HTML page](https://eulogikon.org/works/ion-chios-testimonies-2-ccg-ab)
-
-Testimonies 2 was a collection of personal memoirs by the fifth-century BCE Greek poet and writer Ion of Chios. The work, now lost, compiled Ion’s firsthand anecdotes and observations about prominent contemporaries he encountered, including the philosopher Socrates and the tragedians Sophocles and Aeschylus. Written in a mixture of prose and verse, it presented vivid, informal character sketches drawn largely from Ion’s experiences at symposia and other social gatherings within Athenian intellectual circles. Modern scholarship regards the Testimonies not as formal history but as intimate biographical portraiture, offering an early and personal perspective on major cultural figures. Ion, a well-connected poet from Chios, moved among the Athenian elite, and his work appears to have been intended for an educated audience curious about the private lives and personalities of public men. The text survives only in fragments, preserved through quotations by later authors such as Athenaeus and Diogenes Laertius, who valued these anecdotes for their own compilations.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Demosthenes of Athens
 eul_wid: fsm-bj
 eul_aid: fsm
 canonical: "https://eulogikon.org/works/demosthenes-athens-letter-philip-fsm-bj"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Demosthenes of Athens
 
 **eul_wid:** `fsm-bj` · [HTML page](https://eulogikon.org/works/demosthenes-athens-letter-philip-fsm-bj)
-
-To the Letter of Philip is a political oration attributed to the Athenian statesman Demosthenes. Composed around 340 BCE, the work is a forensic rebuttal to a diplomatic missive sent by King Philip II of Macedon to the Athenian citizen assembly. The speech is structured as a systematic refutation, with the orator sequentially quoting passages from Philip's letter and then arguing against their veracity and intent. Its central thesis is that Philip's overtures of peace were a strategic deception designed to obscure his true ambition of dominating the Greek city-states, and it fervently urges Athens to reject appeasement and mobilize for imminent war.
-
-The complete text is preserved within the medieval manuscript tradition of Demosthenes' works, but its authenticity has been a persistent subject of scholarly debate. Some historians accept it as a genuine product of the tense political climate preceding the Macedonian conquest, reflecting the intense struggle between Athenian factions advocating negotiation and those, like Demosthenes, championing armed resistance. Others, however, consider it a later rhetorical exercise, or declamation, skillfully composed in the Demosthenic style to emulate the orator's techniques and ideological stance. Regardless of its authorship, the speech stands as a vivid artifact of the profound diplomatic and ideological conflicts that characterized the final years of classical Athenian independence.
 
 ## Text
 

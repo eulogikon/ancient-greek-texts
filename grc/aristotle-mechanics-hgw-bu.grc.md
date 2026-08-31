@@ -5,6 +5,7 @@ author: Aristotle
 eul_wid: hgw-bu
 eul_aid: hgw
 canonical: "https://eulogikon.org/works/aristotle-mechanics-hgw-bu"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristotle
 
 **eul_wid:** `hgw-bu` · [HTML page](https://eulogikon.org/works/aristotle-mechanics-hgw-bu)
-
-The Mechanics is a concise scientific treatise from the 4th century BCE, traditionally included within the Aristotelian corpus though its authorship remains a subject of scholarly debate. Composed in Attic Greek and structured as a sequence of 24 passages, the work begins by defining the fundamental marvel of mechanical art: the capacity for a small force to overcome a great weight, as exemplified by the lever. The treatise proceeds to offer a detailed geometrical analysis of the lever's operation, grounding its explanation in the properties of the circle. This core principle is then systematically applied to elucidate the function of various practical devices and natural phenomena, including balances, oars, rudders, and wagons.
-
-Modern scholarship typically regards the work not as a product of Aristotle's own hand but as a composition originating from his intellectual school, likely authored by a student or associate for didactic purposes in the period following his death. Its objective is to furnish rational, mathematical explanations for practical wonders that appear to contravene natural tendencies. The complete text has been preserved through medieval manuscript traditions as part of the Aristotelian collection, despite questions concerning its authenticity being raised as early as antiquity. The treatise subsequently attained foundational status in the history of mechanics, exerting a significant influence on later scientists from Archimedes to Galileo.
 
 ## Text
 

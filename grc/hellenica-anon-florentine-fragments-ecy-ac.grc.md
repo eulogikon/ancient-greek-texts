@@ -5,6 +5,7 @@ author: Hellenica  Anonymous
 eul_wid: ecy-ac
 eul_aid: ecy
 canonical: "https://eulogikon.org/works/hellenica-anon-florentine-fragments-ecy-ac"
+lang: grc
 period: Classical
 dialect: Attic
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hellenica  Anonymous
 
 **eul_wid:** `ecy-ac` · [HTML page](https://eulogikon.org/works/hellenica-anon-florentine-fragments-ecy-ac)
-
-The Florentine Fragments are a collection of thirteen prose excerpts preserved in the 10th-century Codex Florentinus. They derive from a lost historical work focusing on Sicilian and South Italian affairs in the fourth century BCE, particularly the reigns of the Syracusan tyrants Dionysius I and Dionysius II. The extant passages break off during the younger Dionysius’s fall and are discontinuous selections from a larger original narrative. Their content covers the military campaigns and political maneuvers of Dionysius I, interactions between Syracuse and the Italiote League and Lucanians, and the dynastic politics surrounding the transfer of power to Dionysius II. The text survives solely in this Byzantine manuscript, a sylloge containing excerpts from various historians compiled by an unknown scholar, likely for educational use. First identified in the 19th century, the fragments are considered a probable direct witness to the lost Sikelika of Philistus of Syracuse. As such, they are critically important for reconstructing fourth-century Sicilian history and for evaluating the reliability of later accounts, such as that of Diodorus Siculus, providing otherwise unattested details from a major contemporary source.
 
 ## Text
 

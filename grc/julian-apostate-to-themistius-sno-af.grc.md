@@ -5,6 +5,7 @@ author: Julian the Apostate
 eul_wid: sno-af
 eul_aid: sno
 canonical: "https://eulogikon.org/works/julian-apostate-to-themistius-sno-af"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Julian the Apostate
 
 **eul_wid:** `sno-af` · [HTML page](https://eulogikon.org/works/julian-apostate-to-themistius-sno-af)
-
-"To Themistius the Philosopher" is a philosophical treatise composed by Julian, later the Roman emperor known as Julian the Apostate, around 356–357 CE. Written in Attic Greek and structured as a series of fourteen passages, the work takes the form of an extended letter addressed to the prominent rhetorician and senator Themistius. It constitutes a detailed rebuttal to Themistius's conception of ideal leadership, which advocated for a ruler modeled on the Platonic philosopher-king. Julian directly challenges this view, arguing for a more pragmatic and virtue-centered paradigm of imperial rule. He emphasizes the sovereign's practical duties, the administration of justice, and the competent management of fortune over the possession of theoretical wisdom alone.
-
-Composed during Julian's tenure as a junior emperor under Constantius II, the treatise is a crucial document of his early political philosophy. Scholars interpret it as Julian's effort to articulate a personal, Stoic-influenced ethic of governance while subtly distinguishing his own ideological position from the courtly rhetoric espoused by Themistius and the senior emperor. The complete text survives through medieval manuscript transmission, notably in the Codex Vaticanus Graecus 95. As a record of a direct philosophical exchange between a reigning emperor and a leading intellectual, the work provides invaluable insight into the intersection and occasional conflict of philosophical ideals and political realities in the late Roman Empire.
 
 ## Text
 

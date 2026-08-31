@@ -5,6 +5,7 @@ author: Aristotle
 eul_wid: hgw-bf
 eul_aid: hgw
 canonical: "https://eulogikon.org/works/aristotle-physiognomics-hgw-bf"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristotle
 
 **eul_wid:** `hgw-bf` · [HTML page](https://eulogikon.org/works/aristotle-physiognomics-hgw-bf)
-
-The Physiognomics is a short scientific treatise in Attic Greek, traditionally included within the Aristotelian corpus but now considered the work of an unknown follower from Aristotle's school, likely composed around 300 BCE. The work systematically explores the art of inferring a person's character from their physical appearance. It opens by establishing a foundational methodological principle, arguing that the soul and body mutually influence one another, creating observable correlations. This premise is supported by examples from states like drunkenness and illness, where mental faculties are altered by bodily conditions, and from emotions like love and fear, where the body visibly reacts to the soul's passions. The treatise asserts a necessary connection between a specific bodily form and a corresponding type of mind, drawing an analogy to experts who can judge the nature of horses or dogs from their physical forms.
-
-The second part of the work functions as a practical catalog, detailing how specific physical features are thought to reveal character traits. It examines the diagnostic significance of elements such as the shape of the eyes, nose, and forehead, the texture and color of hair, the quality of the flesh, and the overall build and movement of the body. These features are correlated with dispositions like courage, cowardice, laziness, irascibility, and shamelessness. The complete text survives as part of the collected works attributed to Aristotle. Modern scholarship interprets it as a product of the Peripatetic school after Aristotle's death, reflecting a broader ancient interest in classifying and diagnosing character. It was likely composed as a technical guide for philosophical students or practitioners needing to assess individuals. Despite its spurious authorship, the treatise was profoundly influential, serving as a key source for later physiognomic writers in the Greco-Roman world and shaping related ideas in medieval and Renaissance thought.
 
 ## Text
 

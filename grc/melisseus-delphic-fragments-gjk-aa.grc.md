@@ -5,6 +5,7 @@ author: Melisseus the Historian
 eul_wid: gjk-aa
 eul_aid: gjk
 canonical: "https://eulogikon.org/works/melisseus-delphic-fragments-gjk-aa"
+lang: grc
 period: Classical
 dialect: Attic (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Melisseus the Historian
 
 **eul_wid:** `gjk-aa` · [HTML page](https://eulogikon.org/works/melisseus-delphic-fragments-gjk-aa)
-
-The Delphic Historical Fragments is a prose historical work attributed to Melisseus the Historian, an otherwise unknown author. The conventional title suggests its content concerned the Delphic sanctuary. The work survives only as two prose passages, though their specific subject matter is not detailed in surviving sources. The fragments’ precise narrative and historical scope remain unspecified, but their association with Delphi implies potential topics include the sanctuary’s history, oracles, or institutions. The work is fragmentary, preserved as two excerpts. The generic title indicates these passages were likely extracted and preserved by a later compiler or commentator, though the specific medium of transmission is not recorded. These fragments represent a lost source of Delphic history. The author’s epithet “the Historian” distinguishes him from the mythological and poetic figures named Melisseus, confirming the existence of a historical writer under this name, albeit one whose work remains elusive.
 
 ## Text
 

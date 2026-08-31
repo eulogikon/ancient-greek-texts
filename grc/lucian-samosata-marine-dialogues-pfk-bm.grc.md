@@ -5,6 +5,7 @@ author: Lucian of Samosata
 eul_wid: pfk-bm
 eul_aid: pfk
 canonical: "https://eulogikon.org/works/lucian-samosata-marine-dialogues-pfk-bm"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lucian of Samosata
 
 **eul_wid:** `pfk-bm` · [HTML page](https://eulogikon.org/works/lucian-samosata-marine-dialogues-pfk-bm)
-
-The Marine Dialogues is a collection of forty-two brief satirical dialogues composed in Greek by the Syrian-born author Lucian of Samosata in the second century CE. A work of rhetorical invention, it humorously relocates the concerns of human and divine society to an underwater realm. The dialogues present self-contained conversations among a cast of marine deities, including Poseidon and Nereus, mythical figures such as Tritons and Nereids, and even personified natural elements like Waves and Winds. Through these whimsical encounters, Lucian parodies traditional mythological narratives, philosophical disputation, and social affectations.
-
-The complete text survives within Lucian’s extensive corpus. Its format as a series of vignettes aligns with his other satirical dialogic works. Scholars regard the collection as an exercise in the rhetorical technique of ethopoeia, or the composition of speech appropriate to a given character, and as a product of the Second Sophistic, a period characterized by a revival of classical Greek rhetoric and literary forms. It was likely intended for a literate audience conversant with this tradition, employing its aquatic setting to deliver witty and indirect critique of contemporary intellectual culture.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-bp
 eul_aid: bww
 canonical: "https://eulogikon.org/works/hippocrates-prognostic-bww-bp"
+lang: grc
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hippocrates and the Hippocratic Corpus
 
 **eul_wid:** `bww-bp` · [HTML page](https://eulogikon.org/works/hippocrates-prognostic-bww-bp)
-
-The Prognostic is a seminal medical treatise from the Hippocratic Corpus, the collection of ancient Greek works attributed to Hippocrates of Cos and his school. Composed in Ionic Greek, likely in the late fifth or early fourth century BCE, it serves as a systematic manual on the art of prognosis—the practice of predicting the course and eventual outcome of a disease. The text opens by asserting that the best physician is one who exercises foresight, arguing that the ability to accurately forecast future developments, explain past symptoms, and account for omissions in a patient's history builds essential trust and authority. This predictive skill is presented not merely as a diagnostic exercise but as the very foundation for effective treatment, allowing the physician to intervene appropriately based on the anticipated progression of the illness.
-
-The treatise methodically details the procedure for a thorough patient examination across its 26 sections. It instructs the physician to observe a comprehensive set of signs, beginning with the patient's general facial appearance and the condition of the eyes, then proceeding to assess respiration, sleep patterns, and the nature of bodily excretions and discharges. Its most famous passage provides a classic description of the so-called Hippocratic facies—the pinched nose, sunken eyes, and cold, pallid ears that signal imminent death. This emphasis on empirical observation and systematic data collection marks a decisive shift toward a rational, naturalistic understanding of disease, moving away from attributing illness primarily to supernatural causes. The work is presented as a practical guide for practicing physicians and students, aiming to establish medicine as a technical craft grounded in repeatable method rather than speculation.
-
-Transmitted through medieval manuscripts as a core component of the Hippocratic Corpus, the Prognostic has been regarded by modern scholars as a foundational document of clinical medicine. Its detailed diagnostic framework, which integrates multiple physical signs to form a coherent prediction, remained profoundly influential for centuries. The treatise was held in particularly high esteem by the later physician Galen, who considered it an essential model of medical reasoning. By defining prognosis as the cornerstone of medical expertise and patient trust, the work not only provided a practical clinical tool but also helped to articulate the professional identity of the physician in the ancient world.
 
 ## Text
 

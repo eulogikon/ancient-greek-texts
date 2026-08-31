@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-eb
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-hearing-okg-eb"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-eb` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-hearing-okg-eb)
-
-On Hearing is an ethical essay by the Greek philosopher Plutarch, composed around 100 CE. Addressed to a young student named Nicander, the work provides a comprehensive guide on how to listen productively to philosophical lectures, framing the act of attentive listening as a crucial discipline for moral and intellectual development. Structured as a series of concise admonitions, the essay systematically covers proper conduct before, during, and after a discourse. Plutarch instructs on maintaining a respectful demeanor, practicing attentive silence, engaging thoughtfully with the material, and posing questions appropriately. He presents good listening not as a passive reception but as an active, integral component of philosophical training and self-improvement, essential for submitting one's desires to the governance of reason.
-
-The essay survives intact within Plutarch's extensive corpus of ethical works, collectively known as the Moralia, preserved through medieval manuscript traditions. It offers a detailed window into the educational customs of the early Roman Empire, where attendance at lectures formed a key part of higher education for elite youth. Scholars value the text as a significant source for reconstructing the social etiquette and pedagogical ideals within ancient philosophical schools, exemplifying Plutarch's characteristic project of applying philosophical principles to the practical concerns of daily life.
 
 ## Text
 

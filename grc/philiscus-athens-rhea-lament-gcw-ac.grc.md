@@ -5,6 +5,7 @@ author: Philiscus of Athens
 eul_wid: gcw-ac
 eul_aid: gcw
 canonical: "https://eulogikon.org/works/philiscus-athens-rhea-lament-gcw-ac"
+lang: grc
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philiscus of Athens
 
 **eul_wid:** `gcw-ac` · [HTML page](https://eulogikon.org/works/philiscus-athens-rhea-lament-gcw-ac)
-
-Rhea’s Lament to Cronus, attributed to the Athenian comic poet Philiscus, is a work of Attic comedy known only by title and a single surviving fragment. The Greek title, often rendered as "Extracts" or "Excerpts," suggests the work was a collection of comic passages, likely parodying the mythological scene in which the Titan Rhea laments the actions of her husband Cronus. The extant fragment presents a monologue by Rhea, who complains in a domestic, farcical tone about Cronus devouring their children. She frames his cannibalistic fear of a prophecy not as grand tragedy but as petty, economic grievance, accusing him of swallowing their offspring to avoid paying a debt to Apollo. This treatment transforms the horrific myth into a scene of marital strife and absurd household economy, exemplifying the comic tradition of mythological parody prevalent in Middle and New Comedy. The work's survival solely as a fragmentary quotation, with no detailed manuscript tradition, indicates it was likely known in antiquity only through anthologies or scholarly excerpts and did not achieve a prominent place in the comic canon. Nevertheless, it represents the broader repertoire of humorous themes and parodic techniques employed by Athenian playwrights.
 
 ## Text
 

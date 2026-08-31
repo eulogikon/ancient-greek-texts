@@ -5,6 +5,7 @@ author: Philodemus of Gadara
 eul_wid: msu-aa
 eul_aid: msu
 canonical: "https://eulogikon.org/works/philodemus-of-gadara-existing-music-books-msu-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philodemus of Gadara
 
 **eul_wid:** `msu-aa` · [HTML page](https://eulogikon.org/works/philodemus-of-gadara-existing-music-books-msu-aa)
-
-On the Existing Books of Music is a philosophical treatise by the Epicurean thinker Philodemus of Gadara, composed in Koine Greek during the 1st century BCE. The work survives only as a single, severely damaged papyrus scroll, carbonized during the eruption of Mount Vesuvius in 79 CE and recovered from the Villa of the Papyri in Herculaneum. Known as PHerc. 1497, it contains 132 columns of text, an arrangement resulting from modern reconstruction, with substantial portions remaining lost or illegible. The treatise is not an exposition of Philodemus's own musical theory but a critical doxography targeting the ideas of earlier philosophers from rival schools, particularly the Peripatetics and Pythagoreans. Philodemus systematically argues against figures such as Aristoxenus, challenging the prevalent ancient belief that music possesses an intrinsic ethical power to shape character. Interpreted by scholars as a polemical defense of core Epicurean principles, the work promotes a view of music as a source of pleasure devoid of deeper moral or metaphysical significance. It was likely written for an educated audience of Roman patrons and students engaged in the philosophical debates of the period.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Lucian of Samosata
 eul_wid: pfk-cm
 eul_aid: pfk
 canonical: "https://eulogikon.org/works/lucian-samosata-apology-pfk-cm"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lucian of Samosata
 
 **eul_wid:** `pfk-cm` · [HTML page](https://eulogikon.org/works/lucian-samosata-apology-pfk-cm)
-
-Lucian of Samosata’s Apology is a prose oration and autobiographical defense composed around 165–170 CE. Addressed to his fellow Greek intellectuals, the work is a formal rhetorical response to criticism Lucian received for accepting a salaried position as a legal secretary within the Roman administration in Egypt. Structured as a speech in thirteen sections, it employs rigorous argumentation infused with the author’s characteristic irony. Its central theme is the justification of Lucian’s choice to prioritize financial security and practical necessity over the traditional sophist ideal of intellectual independence and unpaid eloquence. He contends that providing for his old age and securing a stable livelihood are legitimate motives, openly challenging the cultural expectation that a learned man should remain aloof from paid imperial service. The Apology serves as a significant personal document, illuminating the economic realities and professional dilemmas faced by Greek writers under Roman rule during the period known as the Second Sophistic. It articulates the tension between intellectual purity and the pragmatic benefits of engagement with the imperial system. Transmitted intact through the medieval manuscript tradition of Lucian’s works and composed in refined Attic Greek, the oration stands as a clear demonstration of Lucian’s rhetorical artistry and offers a revealing insight into the practical career considerations of a Second Sophistic author.
 
 ## Text
 

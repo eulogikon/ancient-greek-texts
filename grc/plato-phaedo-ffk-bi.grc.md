@@ -5,6 +5,7 @@ author: Plato of Athens
 eul_wid: ffk-bi
 eul_aid: ffk
 canonical: "https://eulogikon.org/works/plato-phaedo-ffk-bi"
+lang: grc
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plato of Athens
 
 **eul_wid:** `ffk-bi` · [HTML page](https://eulogikon.org/works/plato-phaedo-ffk-bi)
-
-Plato's Phaedo is a philosophical dialogue dramatizing the final hours of Socrates, the teacher of Plato. The narrative is framed as a recollection by a follower named Phaedo, who recounts for a group of friends the events in an Athenian prison on the day in 399 BCE when Socrates was executed by drinking a poison hemlock. The dialogue depicts Socrates' last conversation with his companions, during which he presents a series of interconnected arguments intended to prove the immortality of the soul. These discussions are designed to console his grieving friends and demonstrate his own unwavering commitment to philosophical truth in the face of death. The work culminates in Socrates' narration of a myth concerning the soul's journey in the afterlife, followed by a famously serene and detailed description of his own death.
-
-Composed by Plato years after the historical event, likely between 380 and 360 BCE, the Phaedo is considered a work of his middle period. It serves a dual purpose as both a powerful literary memorial defending the character and philosophical mission of Socrates and a foundational exposition of Plato's own developing metaphysical doctrines. The dialogue is a principal source for the Theory of Forms, the concept that true reality consists of eternal, unchanging essences apprehended by the intellect, which the soul is argued to have known prior to its incarnation. The work has survived in its entirety through a medieval manuscript tradition and exerted profound influence on subsequent philosophical, Neoplatonic, and early Christian thought concerning the nature of the soul and the afterlife.
 
 ## Text
 

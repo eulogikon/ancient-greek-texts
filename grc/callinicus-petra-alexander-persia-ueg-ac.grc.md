@@ -5,6 +5,7 @@ author: Callinicus of Petra
 eul_wid: ueg-ac
 eul_aid: ueg
 canonical: "https://eulogikon.org/works/callinicus-petra-alexander-persia-ueg-ac"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Callinicus of Petra
 
 **eul_wid:** `ueg-ac` · [HTML page](https://eulogikon.org/works/callinicus-petra-alexander-persia-ueg-ac)
-
-The work known as Fragments on Alexander and Persia is a lost oration by the 3rd-century CE rhetorician Callinicus of Petra. Its existence is recorded solely by its title in the Suda, a 10th-century Byzantine encyclopedia, which provides no surviving content. Based on the conventions of Imperial-era sophistic rhetoric, to which Callinicus belonged as part of the Second Sophistic movement, the declamation likely addressed the character and achievements of Alexander the Great and the historical conflict between Macedonia and the Achaemenid Persian Empire. Such exercises typically explored themes of leadership, virtue, and fortune. The work's significance lies in its documentation of the enduring literary and rhetorical interest in Alexander as a paradigmatic subject during this period, illustrating the scholarly pursuits of a minor sophist from the Roman Near East. No manuscripts, papyri, or direct quotations from the oration are known.
 
 ## Text
 

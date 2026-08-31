@@ -5,6 +5,7 @@ author: Alchemist I
 eul_wid: rrg-bn
 eul_aid: rrg
 canonical: "https://eulogikon.org/works/alchemist-i-beer-making-rrg-bn"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alchemist I
 
 **eul_wid:** `rrg-bn` · [HTML page](https://eulogikon.org/works/alchemist-i-beer-making-rrg-bn)
-
-On the Making of Beer is a brief technical recipe attributed to the anonymous author designated "Alchemist I." Preserved within the corpus of Greek alchemical texts, it provides concise instructions for creating a fermented beverage from grain. The text details the process of selecting and soaking white barley, drying it, grinding it into flour, and baking it into loaves. These loaves are then soaked in sweet water, strained, and left to ferment in a covered vessel. An alternative method involves briefly boiling the loaves in water before straining and fermenting the liquid. The work is a clear example of cheirokmēta literature, which documents practical crafts, and it illustrates the broad range of material transformations—including food-related processes—that were recorded within Greco-Egyptian alchemical collections. The text survives as a fragment within medieval Byzantine manuscripts, notably Marcianus graecus 299 and Parisinus graecus 2327, and was first published in the modern era by Marcelin Berthelot in his Collection des anciens alchimistes grecs. While it had no direct influence on later brewing traditions, its preservation highlights the diverse practical interests encompassed by the ancient alchemical tradition.
 
 ## Text
 

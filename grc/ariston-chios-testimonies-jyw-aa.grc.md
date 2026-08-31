@@ -5,6 +5,7 @@ author: Ariston of Chios
 eul_wid: jyw-aa
 eul_aid: jyw
 canonical: "https://eulogikon.org/works/ariston-chios-testimonies-jyw-aa"
+lang: grc
 period: Hellenistic
 dialect: "Koine (phi, frg)"
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Ariston of Chios
 
 **eul_wid:** `jyw-aa` · [HTML page](https://eulogikon.org/works/ariston-chios-testimonies-jyw-aa)
-
-The work known as Testimonies and Fragments is a modern scholarly compilation that assembles the surviving evidence for the philosopher Ariston of Chios, an early Stoic active in the 3rd century BCE. As none of his original writings survive, our understanding of his thought depends entirely on 73 individual passages preserved by later authors such as Diogenes Laertius, Cicero, Seneca, and Plutarch. These passages are categorized as either testimonia, which are ancient reports about his life and doctrines, or fragmenta, which purport to be direct quotations from his lost works. Ariston was a heterodox and influential figure within the early Stoa, known for his sharp divergence from the school's founder, Zeno of Citium. He championed the radical view that ethics constituted the sole legitimate branch of philosophy, dismissing the study of physics and logic as irrelevant to the pursuit of wisdom. His most famous doctrine asserted a strict dichotomy between virtue and vice, classifying everything else—including health, wealth, reputation, and even life and death—as utterly indifferent and of equal value. This extreme ethical rigorism, which sought to purify Stoicism by focusing exclusively on moral character, provoked considerable debate and criticism both within and outside the Stoic community. The standard structure and numbering of the collection follow established philological practices for reconstructing the ideas of lost authors from scattered and often polemical sources, providing the essential foundation for all modern study of Ariston's philosophy.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Thucydides Scholia
 eul_wid: tii-ae
 eul_aid: tii
 canonical: "https://eulogikon.org/works/thuc-scholia-optics-tii-ae"
+lang: grc
 period: Late Antique
 dialect: Byzantine Technical
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Thucydides Scholia
 
 **eul_wid:** `tii-ae` · [HTML page](https://eulogikon.org/works/thuc-scholia-optics-tii-ae)
-
-The Scholia on Euclid's Optics constitute a collection of ninety-four marginal annotations providing commentary on Euclid's foundational treatise on the mathematical theory of vision. These explanatory notes, typical of the genre, were composed to clarify the geometric propositions and proofs of the primary text for pedagogical use within the Hellenistic and subsequent Byzantine educational traditions. The scholia engage directly with the core tenets of Euclidean optics, which models sight as rays emanating from the eye to form a visual cone. They offer detailed explanations of propositions concerning visual rays and the geometric perception of size, shape, and distance, often elucidating the accompanying diagrams and logical steps of Euclid's arguments. As part of the manuscript tradition, the scholia are transmitted in the margins or between the lines of Greek codices preserving the Optics, with the oldest surviving witness dating from the tenth century. Their significance lies in their role as ancillary scholarly material that shaped the teaching and interpretation of mathematical optics throughout the medieval period, both in the Byzantine East and, following translation, the Latin West. They represent an anonymous but critical layer of exegetical engagement, reflecting the ongoing scholarly effort to master and transmit classical Greek mathematical science.
 
 ## Text
 

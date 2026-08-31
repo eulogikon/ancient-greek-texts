@@ -5,6 +5,7 @@ author: Nicostratus Son of Aristophanes
 eul_wid: hsu-ab
 eul_aid: hsu
 canonical: "https://eulogikon.org/works/nicostratus-aristophanes-banquets-hsu-ab"
+lang: grc
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Nicostratus Son of Aristophanes
 
 **eul_wid:** `hsu-ab` · [HTML page](https://eulogikon.org/works/nicostratus-aristophanes-banquets-hsu-ab)
-
-The Fragments on Banquets is a modern scholarly compilation of quotations from the lost comedies of Nicostratus, the son of the celebrated playwright Aristophanes. This collection consists of 83 fragments, which are not preserved as a continuous text but are excerpted from the works of later authors, most prominently from Athenaeus’s Deipnosophistae. The fragments originate from various plays by Nicostratus that contained scenes set at symposia, or drinking parties, and have been thematically grouped together by modern editors based on their shared banquet setting.
-
-As a poet of the Middle Comedy period, roughly spanning the fourth century BCE, Nicostratus represents the genre’s transition away from the political satire of Old Comedy toward a greater focus on social manners, domestic life, and stereotypical characters. The collected fragments illustrate this shift, showcasing themes inherent to the symposium. They feature satire on social conduct and gluttony, discussions of food and drink, observations on domestic and familial relationships, and parodies of mythological figures. The cast of characters typical of this era is also present, including the boastful cook, the parasitic hanger-on, and the swaggering soldier.
-
-The transmission of these texts is entirely indirect, relying on their preservation as citations within the works of later grammarians and compilers. They are assembled in modern critical editions such as Poetae Comici Graeci. These fragments hold significant value as evidence for the evolution of Athenian comedy, serving as a crucial link between the politically engaged Old Comedy of the fifth century and the more domestic, character-driven New Comedy that would follow. They offer important historical insight into the social customs, daily life, and literary language of fourth-century Athens.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Antoninus Pius Letters
 eul_wid: ppk-aa
 eul_aid: ppk
 canonical: "https://eulogikon.org/works/antoninus-pius-asia-letter-ppk-aa"
+lang: grc
 period: Roman
 dialect: Koine
 domain: History
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Antoninus Pius Letters
 
 **eul_wid:** `ppk-aa` · [HTML page](https://eulogikon.org/works/antoninus-pius-asia-letter-ppk-aa)
-
-The Letter to the Community of Asia is an imperial rescript composed in Koine Greek by the Roman emperor Antoninus Pius, dating to approximately 145–147 CE. It is formally addressed to the Koinon, or provincial league, representing the cities of the Roman province of Asia. The document constitutes an official reply to a petition from the league regarding the legal status and prosecution of Christians. In his response, the emperor provides clear judicial instructions to provincial authorities, decreeing that individuals are not to be sought out or prosecuted solely on the basis of being Christian. He stipulates that if Christians are accused of specific, verifiable crimes and convicted, they must face punishment accordingly. However, Antoninus Pius explicitly orders that if an accusation is brought forward "merely for the sake of the accusation" without substantive charge, the accuser themselves is to be punished, thereby attempting to curb vexatious litigation.
-
-The complete text of the letter does not survive as an independent document but is preserved exclusively as a quotation within the Christian apologetic work First Apology by Justin Martyr, composed roughly a decade later. Modern scholarly analysis interprets the rescript as emblematic of Antoninus Pius's characteristically legalistic and pragmatic approach to imperial administration during a period of general stability. The letter is understood as an effort to suppress mob violence and malicious prosecutions by reinforcing proper judicial procedure and upholding public order. While some historians have questioned its authenticity, suggesting possible editorial modification by Christian sources, the majority accept it as genuine, noting its consistency in tone and content with other known imperial rescripts of the period.
 
 ## Text
 

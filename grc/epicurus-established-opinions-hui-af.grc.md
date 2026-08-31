@@ -5,6 +5,7 @@ author: Epicurus the Philosopher
 eul_wid: hui-af
 eul_aid: hui
 canonical: "https://eulogikon.org/works/epicurus-established-opinions-hui-af"
+lang: grc
 period: Hellenistic
 dialect: Attic Philosophical
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Epicurus the Philosopher
 
 **eul_wid:** `hui-af` · [HTML page](https://eulogikon.org/works/epicurus-established-opinions-hui-af)
-
-The Principal Doctrines, also known as the Sovereign Maxims, is a collection of forty philosophical aphorisms composed by Epicurus around 300 BCE. Written in Attic Greek, the work functions as a concise handbook of core Epicurean teachings, designed for memorization by students within his Athenian philosophical community, the Garden. It systematically outlines a philosophy for achieving a tranquil life, beginning with propositions on the nature of the divine and mortality, establishing pleasure as the proper goal of existence, and concluding with practical advice concerning justice, self-sufficiency, and friendship. The text is structured as a logical sequence of maxims, where later doctrines frequently build upon earlier foundational statements. It asserts that the gods exist in a state of blissful indifference to human affairs, rendering fear of divine punishment irrational, and posits that death is merely the cessation of sensation and therefore holds no terror. Its ethical system defines the highest pleasure as the absence of physical pain and mental disturbance, advocating for a life of modest satisfaction secured through prudence and virtuous social bonds. The work is widely interpreted as a pedagogical tool intended to ensure doctrinal consistency and to provide a clear, memorable path to the Epicurean ideal of ataraxia, or freedom from worry. The complete text survives through its preservation in the Lives and Opinions of Eminent Philosophers by the third-century biographer Diogenes Laërtius; no independent manuscript tradition exists outside of this compilation, which has served as the primary source for the work throughout history.
 
 ## Text
 

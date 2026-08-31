@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-as
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-land-water-animals-wiser-okg-as"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-as` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-land-water-animals-wiser-okg-as)
-
-_Whether Land or Water Animals Are Wiser_, also known by its Latin title _De sollertia animalium_, is a philosophical dialogue by Plutarch of Chaeronea. Presented as a lively debate between advocates for the superior wisdom of land animals and aquatic creatures, the work features interlocutors such as Autobulus and Soclarus. In its twenty-four complete sections, the dialogue employs a wealth of anecdotes and observational examples to mount a sustained argument against the Stoic denial of reason to non-human animals. Plutarch systematically contends that creatures of both land and sea exhibit clear signs of intelligence, including foresight and technical skill, and that they demonstrate analogues of moral virtues such as courage, temperance, and devoted parental care. The text further challenges anthropocentric assumptions by detailing complex social organization among various species. Preserved within the manuscript tradition of Plutarch’s _Moralia_, the dialogue stands as a significant contribution to ancient debates on animal rationality, arguing for a continuum of cognitive and ethical capacity between humans and other animals. Its arguments later influenced thinkers such as Porphyry and contributed to Renaissance natural philosophy, remaining an essential text for the study of ancient perspectives on animal cognition and ethics.
 
 ## Text
 

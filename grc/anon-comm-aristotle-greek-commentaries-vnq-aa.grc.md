@@ -5,6 +5,7 @@ author: Anonymous Commentary on Aristotle
 eul_wid: vnq-aa
 eul_aid: vnq
 canonical: "https://eulogikon.org/works/anon-comm-aristotle-greek-commentaries-vnq-aa"
+lang: grc
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,20 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Anonymous Commentary on Aristotle
 
 **eul_wid:** `vnq-aa` · [HTML page](https://eulogikon.org/works/anon-comm-aristotle-greek-commentaries-vnq-aa)
-
-Overview The Ἑλληνικὰ σχόλια εἰς Ἀριστοτέλην (Greek Commentaries on Aristotle) is an anonymous collection of 72 scholia, or explanatory notes, on Aristotelian texts. As a set of scholia, it belongs to the tradition of marginal and interlinear annotations in medieval manuscripts, compiled to clarify words, phrases, and concepts. The generic title indicates it is a compilation from various Greek commentators rather than a continuous exposition by a single author.
-
-Content
-
-Exegesis of Aristotelian texts.
-
-Clarification of philosophical terminology.
-
-Synthesis of interpretations from earlier Greek commentators.
-
-Transmission The work is known only by its title and the notation of its 72 passages. No details are provided in sources regarding its specific manuscript tradition, the Aristotelian works it addresses, or its preservation status.
-
-Significance While the influence of this specific compilation is undocumented, the broader tradition of Greek Aristotelian commentaries was fundamental for transmitting and interpreting Aristotle's philosophy in Byzantine, Islamic, and medieval Latin scholarly worlds. Such anonymous collections often served as key conduits for earlier exegetical traditions.
 
 ## Text
 

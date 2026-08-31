@@ -5,6 +5,7 @@ author: Historical Fragments  Anonymous
 eul_wid: mmg-bm
 eul_aid: mmg
 canonical: "https://eulogikon.org/works/anon-hist-frag-handbook-mmg-bm"
+lang: grc
 period: Hellenistic
 dialect: Mixed Dialects (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Historical Fragments  Anonymous
 
 **eul_wid:** `mmg-bm` · [HTML page](https://eulogikon.org/works/anon-hist-frag-handbook-mmg-bm)
-
-The Handbook is an anonymous Greek work known only from a single fragment preserved within a collection of historical excerpts. The title, which typically denotes a manual or concise instructional treatise, suggests it may have belonged to a genre encompassing philosophical summaries, military guides, or other didactic texts. The surviving fragment, however, offers no clear indication of the work's original subject matter or scope. It recounts episodes from the Trojan War, including the theft of the Palladium by Odysseus and Diomedes, the subsequent killing of the Phrygian ally Coroebus, the fetching of Neoptolemus from Scyros, and the arrival of Eurypylus as an ally for the Trojans. This narrative content, while coherent, is too brief and generic to determine whether the Handbook was a historical compendium, a mythological manual, or a text with another purpose entirely. The work survives solely through this fragmentary transmission, likely quoted or excerpted by a later author, with no further details regarding its manuscript tradition or source. Its significance lies primarily as a testament to the vast number of minor or lost works from antiquity that are known only by title or through such isolated citations, their original form and influence remaining obscured.
 
 ## Text
 

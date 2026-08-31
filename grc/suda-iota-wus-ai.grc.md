@@ -5,6 +5,7 @@ author: Suda
 eul_wid: wus-ai
 eul_aid: wus
 canonical: "https://eulogikon.org/works/suda-iota-wus-ai"
+lang: grc
 period: Byzantine
 domain: Grammar
 format: Collection
@@ -18,12 +19,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Suda
 
 **eul_wid:** `wus-ai` · [HTML page](https://eulogikon.org/works/suda-iota-wus-ai)
-
-The iota section of the Suda (Σοῦδα, Στοιχεῖον Ι) spans 796 entries ranging from terse one-word glosses to extended biographical and mythographic notices. Short lexical entries such as Ἴχνος (path, step), Ἰχώρ (congealed blood), Ἴψ (worm), and Ἰξύν (the loins or spine) illustrate the letter's core glossographical function, while poetic citations embedded in entries like Ἰξύν preserve fragments of otherwise obscure verse.
-
-Biographical and historical entries give the letter much of its scholarly interest. The notice on Ἰάδμων of Samos links to the story of Rhodopis and to the cross-reference at Αἴσωπος Σάμιος, tracing the social world of archaic Aegean slave-ownership. Ἰόβας records Juba II, king of Libya and Mauretania under Augustus, his triumphal humiliation at Rome, and his marriage to Cleopatra Selene, daughter of Cleopatra. Ἰοβάτης preserves the mythographic kernel of the Bellerophon cycle, naming the father of Stheneboea and the letter sent by Proetus.
-
-The opening entries (Ἴα, Ἰαβώκ, Ἰαβίν, Ἰαζάρτης, Ἰαζύγων) reflect the Suda's habitual incorporation of Biblical proper names and ethnonyms alongside classical material, making this letter useful for studying both Byzantine lexicographic method and the transmission of Hellenistic and Roman-era historical data.
 
 ## Text
 

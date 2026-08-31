@@ -5,6 +5,7 @@ author: Anthemius of Tralles
 eul_wid: vdg-ab
 eul_aid: vdg
 canonical: "https://eulogikon.org/works/anthemius-tralles-paradoxical-machines-vdg-ab"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Mathematics
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Anthemius of Tralles
 
 **eul_wid:** `vdg-ab` · [HTML page](https://eulogikon.org/works/anthemius-tralles-paradoxical-machines-vdg-ab)
-
-_On Paradoxical Machines_ is a sixth-century CE treatise on mechanics and geometry by the Byzantine architect and mathematician Anthemius of Tralles. The original text is lost, surviving only in fragments and summaries preserved by later scholars, most notably within a tenth-century compilation commissioned by Emperor Constantine VII Porphyrogennetos. The work describes the design of ingenious devices and optical arrangements intended to produce astonishing or seemingly miraculous effects. Its most famous subject is the construction of parabolic burning-mirrors capable of focusing sunlight to a single point. Other described mechanisms include pneumatic and steam-powered devices, such as a bronze sphere engineered to produce a loud noise. The treatise applies advanced geometric principles, including the properties of conic sections, to practical engineering problems. Written by one of the chief architects of the Hagia Sophia, the work represents a significant conduit for the transmission of Hellenistic mechanical and optical knowledge into the Byzantine scholarly tradition. Its descriptions of remarkable devices helped perpetuate legendary accounts of ancient inventors and maintained the study of catoptrics, or reflected light, through the medieval period.
 
 ## Text
 

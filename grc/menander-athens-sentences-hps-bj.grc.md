@@ -5,6 +5,7 @@ author: Menander of Athens
 eul_wid: hps-bj
 eul_aid: hps
 canonical: "https://eulogikon.org/works/menander-athens-sentences-hps-bj"
+lang: grc
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Menander of Athens
 
 **eul_wid:** `hps-bj` · [HTML page](https://eulogikon.org/works/menander-athens-sentences-hps-bj)
-
-The Sentences is a collection of 86 brief, single-line verses of practical wisdom traditionally ascribed to the Athenian comic playwright Menander. Composed in the Attic Greek dialect and the iambic trimeter meter typical of dramatic speech, these pithy sayings offer ethical observations on daily life, addressing themes such as friendship, marriage, fortune, and personal character. Modern scholarship concurs that the extant collection is not a continuous work authored by Menander himself but a later compilation. It is believed to have been assembled long after his death in the late fourth or early third century BCE, likely drawing maxims from his popular comedies or circulating under his name due to his enduring reputation for wit and moral insight.
-
-The work belongs to the ancient tradition of gnomic literature, which was used for both educational and rhetorical purposes. Its intended audience was broad, potentially including students and general readers seeking accessible moral guidance. The text is preserved through medieval manuscript traditions, frequently appearing in anthologies alongside sayings from other authors. While the attribution to Menander is traditional and similar sentiments are found in the fragmentary remains of his authentic plays, this specific collection of 86 sentences is considered a product of later antiquity or the Byzantine period. Its popularity endured for centuries, with translations into Syriac and Arabic, which helped cement Menander's posthumous reputation across cultures as a source of worldly wisdom.
 
 ## Text
 

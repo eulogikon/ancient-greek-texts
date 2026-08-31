@@ -5,6 +5,7 @@ author: Hermippus the Comic Poet
 eul_wid: djs-ac
 eul_aid: djs
 canonical: "https://eulogikon.org/works/hermippus-satirical-cityscape-djs-ac"
+lang: grc
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hermippus the Comic Poet
 
 **eul_wid:** `djs-ac` · [HTML page](https://eulogikon.org/works/hermippus-satirical-cityscape-djs-ac)
-
-The Satirical Cityscape Fragments is a modern designation for the surviving verse of Hermippus, an Athenian poet of Old Comedy active in the late fifth century BCE. No complete play by Hermippus is extant. These fragments, composed in Attic Greek primarily using iambic trimeter, are preserved through quotation by later ancient authors such as Athenaeus. They provide a valuable glimpse into the era's pointed political and social satire. One notable fragment launches a sustained comic invective against the statesman Pericles, holding him responsible for instigating the Peloponnesian War. Another significant piece humorously catalogues the wide variety of goods imported into Athens, offering scholars important evidence for the city's extensive commercial networks. Modern interpretation places these works firmly within the conventions of Old Comedy, composed for the festival audience of Athens and dependent upon a shared awareness of contemporary politics and public personalities. The standard scholarly collection of these pieces is categorized under the generic title Apospasmata, meaning "Fragments."
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Julian the Apostate
 eul_wid: sno-ak
 eul_aid: sno
 canonical: "https://eulogikon.org/works/julian-apostate-uneducated-dogs-sno-ak"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Julian the Apostate
 
 **eul_wid:** `sno-ak` · [HTML page](https://eulogikon.org/works/julian-apostate-uneducated-dogs-sno-ak)
-
-To the Uneducated Dogs is a polemical treatise composed in Attic Greek by the Roman emperor Julian, commonly known as Julian the Apostate. Written around 362–363 CE, the work constitutes a fierce critique of the Cynic philosophers contemporary with Julian. He structures his argument as a series of pointed contrasts, lambasting what he perceived as the vulgar and hypocritical conduct of modern Cynics while upholding the rigorous, ascetic virtue embodied by the classical exemplar Diogenes of Sinope. Julian’s core contention is that authentic Cynic philosophy demands profound intellectual education and unwavering moral integrity, not merely the superficial adoption of its traditional external symbols like the cloak and staff.
-
-The treatise was produced during Julian’s brief reign, a period marked by his active promotion of traditional Hellenic religion and philosophy and his opposition to Christianity. Scholars interpret the work as an integral component of his broader campaign to reform intellectual and spiritual life by discrediting figures he deemed debased or unworthy heirs to the philosophical tradition. The complete text survives through medieval manuscript transmission and is preserved within the corpus of Julian’s orations, typically designated as his sixth oration.
 
 ## Text
 

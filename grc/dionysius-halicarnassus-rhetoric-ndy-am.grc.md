@@ -5,6 +5,7 @@ author: Dionysius of Halicarnassus
 eul_wid: ndy-am
 eul_aid: ndy
 canonical: "https://eulogikon.org/works/dionysius-halicarnassus-rhetoric-ndy-am"
+lang: grc
 period: Hellenistic
 dialect: Attic
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Dionysius of Halicarnassus
 
 **eul_wid:** `ndy-am` · [HTML page](https://eulogikon.org/works/dionysius-halicarnassus-rhetoric-ndy-am)
-
-The Rhetorical Art is a systematic rhetorical treatise attributed to Dionysius of Halicarnassus, structured as a handbook of 121 sections. It synthesizes Aristotelian and Hellenistic doctrines to serve as a practical guide for students, covering the core components of classical rhetorical theory. The work begins by defining rhetoric and discussing its utility before systematically addressing the three established genres of oratory: deliberative, judicial, and epideictic. It details the structural parts of a speech, including the proem, narrative, proof, and epilogue. The treatise also expounds upon the theory of proof, distinguishing inartificial evidence from the artificial proofs of ethos, pathos, and logos, and provides treatment of style, invention, and arrangement. The text survives in full within the medieval manuscript tradition of Dionysius’s works, preserved alongside his critical essays. While transmitted under his name, some scholars debate its authenticity due to stylistic and doctrinal features, suggesting it may be a later compilation. The work provides key insight into the pedagogical tools used to teach rhetoric in the early Roman Empire. As a standard handbook, it helped transmit Greco-Roman rhetorical theory into the Byzantine era, ensuring the endurance of classical categories in later educational traditions.
 
 ## Text
 

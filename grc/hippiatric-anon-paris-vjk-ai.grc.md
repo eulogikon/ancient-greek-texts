@@ -5,6 +5,7 @@ author: Hippiatric Compilation Anonymous
 eul_wid: vjk-ai
 eul_aid: vjk
 canonical: "https://eulogikon.org/works/hippiatric-anon-paris-vjk-ai"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: Medicine
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hippiatric Compilation Anonymous
 
 **eul_wid:** `vjk-ai` · [HTML page](https://eulogikon.org/works/hippiatric-anon-paris-vjk-ai)
-
-The Paris Veterinary Works is a Byzantine Greek compilation on veterinary medicine preserved in the 10th-century manuscript known as Parisinus graecus 2244. This treatise, comprising 335 individual passages, represents a significant source for the study of ancient hippiatry, or veterinary science, as it synthesizes practical knowledge drawn from earlier Greek and Latin authorities. The work offers comprehensive diagnostic and therapeutic guidance, with its primary focus on the health of horses. It details a wide range of equine diseases, their symptoms, and corresponding treatments, alongside instructions for surgical procedures. While centered on equine care, the compilation also extends its coverage to include advice on the management of other animals such as cattle, dogs, and birds.
-
-The text survives principally in its namesake manuscript, Parisinus graecus 2244. As a compilation, it functions as a vital conduit for transmitting excerpts from earlier veterinary writers, including Apsyrtus from the 3rd or 4th century CE, Theomnestus, and Vegetius. In doing so, it preserves fragments of texts that are otherwise lost. The Paris Veterinary Works stands as a key document for tracing the continuity of technical knowledge from antiquity through the Byzantine period. It serves as an indispensable resource for scholars investigating the history of ancient and medieval veterinary medicine, animal husbandry, and the practical logistics of maintaining cavalry and livestock.
 
 ## Text
 

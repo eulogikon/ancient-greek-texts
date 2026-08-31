@@ -5,6 +5,7 @@ author: Homer Life-anonymous
 eul_wid: jho-ah
 eul_aid: jho
 canonical: "https://eulogikon.org/works/homer-fourth-life-jho-ah"
+lang: grc
 period: Hellenistic
 dialect: Mixed Dialects
 domain: Biography
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Homer Life-anonymous
 
 **eul_wid:** `jho-ah` · [HTML page](https://eulogikon.org/works/homer-fourth-life-jho-ah)
-
-The Fourth Life is an anonymous prose biography of Homer, forming one of the entries in the ancient collection known as the Lives of Homer. This brief text compiles legendary and anecdotal material concerning the poet, whose historical existence remains obscure. It presents competing traditions regarding Homer's parentage, suggesting he was the son of either Maion and Hyrnetho or the river god Meles and the nymph Critheis, while other accounts trace his lineage to the Muse Calliope. The biography records that he was originally called Melesigenes or Melesianax and was later named Homer after becoming blind, a condition the text explains by noting that the Aeolians used the term "homêros" for the blind. Various cities, including Smyrna, Chios, Colophon, and Athens, are cited as his possible birthplace.
-
-The narrative describes Homer as an itinerant poet who traveled from city to city performing his works. It includes the tradition that the Athenian tyrant Peisistratus later collected these scattered poems. The account of Homer's death claims he died on the island of Ios from despair after failing to solve a riddle posed to him by some fishermen. The text is preserved in medieval manuscripts of Homer's works, most notably in the tenth-century Venetus Marcianus 454 codex of the Iliad, where it is transmitted alongside other Homeric Lives. The standard critical edition appears in Thomas W. Allen's Homeri Opera. While historically unreliable, the Fourth Life exemplifies the Hellenistic and later scholarly impulse to construct a biography for a foundational cultural figure. These Lives, routinely prefaced to editions of the epics, were instrumental in shaping the legendary image of Homer for centuries and remain valuable sources for understanding his ancient reception and the early development of literary biography.
 
 ## Text
 

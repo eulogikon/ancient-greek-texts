@@ -5,6 +5,7 @@ author: Oppian Lives
 eul_wid: qvi-aa
 eul_aid: qvi
 canonical: "https://eulogikon.org/works/oppian-life-qvi-aa"
+lang: grc
 period: Roman
 dialect: Mixed Dialects
 domain: Biography

@@ -5,6 +5,7 @@ author: Themistius the Philosopher
 eul_wid: rye-bn
 eul_aid: rye
 canonical: "https://eulogikon.org/works/themistius-philopolis-rye-bn"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Themistius the Philosopher
 
 **eul_wid:** `rye-bn` · [HTML page](https://eulogikon.org/works/themistius-philopolis-rye-bn)
-
-The Philopolis, or "Lover of the City," is a panegyric oration by the philosopher-statesman Themistius. Delivered in Constantinople in the late 350s CE, it praises the city and Emperor Constantius II as a philosopher-king embodying peace, justice, and philanthropy. The speech celebrates Constantinople's beauty and institutions, positioning it as the new cultural heart of the empire. Its central themes include philanthropy as the core virtue of the ideal ruler, the emperor as a Platonic philosopher-king guided by reason, and the celebration of Constantinople as a unifying political center. The oration also advocates for political harmony and legal order while presenting the orator himself in the role of a philosophical advisor to the sovereign. The complete text survives within the corpus of Themistius's speeches preserved in medieval Greek manuscripts, with the modern standard edition being the first volume of Themistii Orationes quae supersunt in the Teubner series. The Philopolis is a key document for the political ideology of the late Roman Empire, illustrating the synthesis of Hellenic philosophy and imperial rhetoric. It influenced Byzantine conceptions of imperial virtue and the ideology of Constantinople, remaining a primary source for studying fourth-century political thought and the public role of philosophy.
 
 ## Text
 

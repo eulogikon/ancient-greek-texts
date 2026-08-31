@@ -5,6 +5,7 @@ author: Xenarchus the Comic Poet
 eul_wid: lli-ab
 eul_aid: lli
 canonical: "https://eulogikon.org/works/xenarchus-fate-fragments-lli-ab"
+lang: grc
 period: Hellenistic
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Xenarchus the Comic Poet
 
 **eul_wid:** `lli-ab` · [HTML page](https://eulogikon.org/works/xenarchus-fate-fragments-lli-ab)
-
-The comedic work Fragments on Fate is attributed to Xenarchus, a poet of Middle or New Comedy. Only its title and a collection of fragmentary passages survive, indicating a play that satirized contemporary philosophical debates concerning destiny and necessity. Based on the conventions of the genre, the plot likely revolved around the humorous conflict between human agency and predetermined events, featuring parody of philosophical doctrines, seers, oracles, and divination practices. The play itself is lost and survives solely through quotations in later authors such as Athenaeus; its fragments are collected in modern scholarly editions. While its direct influence is untraceable, the work exemplifies the comic tradition of parodying intellectual and cultural trends. Xenarchus was himself cited by later writers for details on social customs, and this thematic critique of philosophy persisted into Roman and later European satire.
 
 ## Text
 

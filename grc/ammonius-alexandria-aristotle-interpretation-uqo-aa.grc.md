@@ -5,6 +5,7 @@ author: Ammonius of Alexandria Phil
 eul_wid: uqo-aa
 eul_aid: uqo
 canonical: "https://eulogikon.org/works/ammonius-alexandria-aristotle-interpretation-uqo-aa"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Ammonius of Alexandria Phil
 
 **eul_wid:** `uqo-aa` · [HTML page](https://eulogikon.org/works/ammonius-alexandria-aristotle-interpretation-uqo-aa)
-
-Ammonius of Alexandria’s Commentary on Aristotle’s De Interpretatione is a late antique philosophical treatise composed in Greek around 500 CE. As the head of the Neoplatonic school in Alexandria, Ammonius delivered this work as a series of 272 lectures, which were subsequently recorded by his students to guide advanced pupils through Aristotle’s foundational logical text. The commentary adheres to a conventional exegetical structure, commencing with a prolegomenon that situates Aristotle’s work within the philosophical curriculum before proceeding with a meticulous, line-by-line analysis of its arguments concerning language, meaning, and truth.
-
-The treatise systematically elucidates the core doctrines of Aristotle’s De Interpretatione, including the nature of nouns and verbs, the relationship between affirmation and negation, and the celebrated philosophical dilemma of future contingent statements—the question of whether propositions about future events possess a determinate truth value in the present. Modern scholarship interprets this commentary as an integral component of a structured Neoplatonic educational program, wherein Aristotle’s logic was taught as an indispensable preparatory discipline for the study of Plato’s metaphysics. The work exemplifies the Alexandrian school’s pedagogical objective of furnishing a clear and comprehensive introduction to Aristotelian thought.
-
-The complete text survives in Greek manuscripts and is regarded as a faithful record of Ammonius’s teaching. It attained considerable influence, serving as a model for subsequent commentators within the Byzantine and Arabic traditions. Its legacy indirectly shaped the development of medieval Western logic through its impact on later thinkers such as Boethius.
 
 ## Text
 

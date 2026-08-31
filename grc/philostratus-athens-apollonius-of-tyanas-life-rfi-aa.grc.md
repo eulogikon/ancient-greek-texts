@@ -5,6 +5,7 @@ author: Philostratus the Athenian
 eul_wid: rfi-aa
 eul_aid: rfi
 canonical: "https://eulogikon.org/works/philostratus-athens-apollonius-of-tyanas-life-rfi-aa"
+lang: grc
 period: Roman
 dialect: Atticizing Literary
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philostratus the Athenian
 
 **eul_wid:** `rfi-aa` · [HTML page](https://eulogikon.org/works/philostratus-athens-apollonius-of-tyanas-life-rfi-aa)
-
-The Life of Apollonius of Tyana is an extensive eight-book biography composed in Attic Greek by the sophist Philostratus the Athenian, likely in the early third century CE. Commissioned by the empress Julia Domna, the work chronicles the life of the first-century Neopythagorean sage Apollonius of Tyana, portraying him as a divinely inspired philosopher and wonder-worker. The narrative blends biography with adventure, tracing Apollonius’s extensive journeys across the Roman Empire, India, and Ethiopia. Throughout these travels, he is depicted performing miraculous healings, engaging in philosophical debates with rulers, and championing traditional religious piety. The complete text, organized into 388 chapters across its eight books, survives through medieval manuscripts, the oldest of which date from the tenth and eleventh centuries. Philostratus asserts that his account is based on the memoirs of Apollonius’s disciple Damis, though modern scholarship generally regards this source as a literary fiction. The biography appears to have been written for the educated Greco-Roman elite, presenting a sophisticated pagan ideal of a holy man. Many interpreters view it as a contemporary cultural response to the rising influence of Christianity, offering Apollonius as a paradigmatic philosopher-sage within the Hellenic tradition. Its reception has been historically contentious, sparking vigorous debates between pagan and Christian authors in antiquity and later serving as a focal point for Enlightenment-era critiques of religious belief.
 
 ## Text
 

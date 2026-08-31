@@ -5,6 +5,7 @@ author: Aristocrates of Sparta
 eul_wid: fau-aa
 eul_aid: fau
 canonical: "https://eulogikon.org/works/aristocrates-sparta-customs-fau-aa"
+lang: grc
 period: Classical
 dialect: Doric (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristocrates of Sparta
 
 **eul_wid:** `fau-aa` · [HTML page](https://eulogikon.org/works/aristocrates-sparta-customs-fau-aa)
-
-The Fragments on Spartan Customs by Aristocrates of Sparta is a lost antiquarian work known only through eight surviving passages. These fragments, preserved in later Byzantine lexicographical and scholiastic sources, systematically explain distinctive Spartan terms, institutions, and rituals. The extant material focuses on elucidating specific Spartan political and social roles, such as the karykos, a type of herald. It also details religious offices, including the Karneatas, the priest of Apollo Karneios, and interprets vocabulary unique to Spartan Doric usage. The work survives entirely through indirect citation, quoted in the 12th-century Etymologicum Magnum and in ancient scholia on Thucydides, with no independent manuscript tradition. As a representative of the Laconica genre, the fragments contribute to the corpus of Spartan local history. Their preservation demonstrates post-classical scholarly interest in Sparta and provides a source for rare terminology used by later commentators and lexicographers.
 
 ## Text
 

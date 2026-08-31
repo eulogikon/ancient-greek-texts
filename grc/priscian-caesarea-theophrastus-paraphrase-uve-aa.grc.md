@@ -5,6 +5,7 @@ author: Priscian of Caesarea
 eul_wid: uve-aa
 eul_aid: uve
 canonical: "https://eulogikon.org/works/priscian-caesarea-theophrastus-paraphrase-uve-aa"
+lang: grc
 period: Late Antique
 dialect: Byzantine Greek
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Priscian of Caesarea
 
 **eul_wid:** `uve-aa` · [HTML page](https://eulogikon.org/works/priscian-caesarea-theophrastus-paraphrase-uve-aa)
-
-The Paraphrase-Theophrastus is a philosophical treatise composed in Greek by the sixth-century Neoplatonist Priscian of Caesarea. It constitutes a detailed commentary and paraphrase of On the Soul, a lost work by Aristotle’s successor, Theophrastus. Structured in thirty-seven sections, the treatise systematically examines the nature of the soul, its faculties of perception and intellect, and its relationship to the body. Its primary aim is to elucidate Theophrastus’s Peripatetic doctrines and to harmonize them with later Platonic and Neoplatonic philosophy. Composed within the late antique tradition of scholarly commentary, the work was likely intended for advanced students and fellow philosophers as part of the broader Neoplatonic project to synthesize the Greek philosophical heritage. The text survives in its entirety only in a single manuscript from the sixteenth century, rendering it a uniquely critical witness. For modern scholarship, it serves as an invaluable source both for reconstructing the lost ideas of Theophrastus and for understanding the interpretation of Aristotelian psychology in the final centuries of ancient philosophical thought.
 
 ## Text
 

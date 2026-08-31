@@ -5,6 +5,7 @@ author: Achaios of Eretria
 eul_wid: dha-aa
 eul_aid: dha
 canonical: "https://eulogikon.org/works/achaios-eretria-athletes-satyrs-dha-aa"
+lang: grc
 period: Classical
 dialect: "Attic (dr, frg)"
 domain: Drama
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Achaios of Eretria
 
 **eul_wid:** `dha-aa` · [HTML page](https://eulogikon.org/works/achaios-eretria-athletes-satyrs-dha-aa)
-
-The Fragments on Athletes and Satyrs is a modern title for the collected remnants of the lost satyr plays by the 5th-century BCE tragedian Achaios of Eretria. The 105 extant fragments, preserved by later authors such as Athenaeus and in the Suda lexicon, originate from known plays including Aithon, Hephaistos, Iris, Omphale, and Philoctetes. These fragments indicate that his satyr plays treated mythological subjects with a comic and Dionysiac perspective, likely featuring parody of gods and heroes, revelry centered on the satyr chorus, and metatheatrical humor involving disguise. No complete play survives; the fragments were transmitted indirectly, quoted by later grammarians and lexicographers for their linguistic or proverbial content. Aristotle criticized Achaios's style as ambiguous when taken out of context, though the Suda ranked his satyr plays second only to those of Aeschylus. Achaios was included in the Hellenistic tragic canon, and his fragments are of significant scholarly importance, providing crucial evidence for the scope and variety of the satyr play genre in classical Athens beyond the sole complete surviving example, Euripides' Cyclops.
 
 ## Text
 

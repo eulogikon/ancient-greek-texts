@@ -5,6 +5,7 @@ author: Demosthenes of Athens
 eul_wid: fsm-ch
 eul_aid: fsm
 canonical: "https://eulogikon.org/works/demosthenes-athens-fragments-fsm-ch"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Demosthenes of Athens
 
 **eul_wid:** `fsm-ch` · [HTML page](https://eulogikon.org/works/demosthenes-athens-fragments-fsm-ch)
-
-The Fragments of Demosthenic Orations constitute a collection of passages attributed to the Athenian orator Demosthenes that survive outside the traditional corpus of his sixty-one complete speeches. Preserved through quotation by later ancient authors, these seventy fragments include excerpts from otherwise lost forensic and political orations, as well as variant readings from known works. They offer valuable, if partial, insight into legal cases and public addresses not represented in the transmitted oeuvre. The content reflects the primary concerns of Demosthenes' career, encompassing forensic argumentation from Athenian court cases, political advocacy before the citizen assembly regarding foreign policy—particularly his opposition to Philip II of Macedon—and the defense of democratic ideals such as Athenian autonomy and constitutional governance. The fragments also provide examples of his renowned rhetorical technique, including his mastery of periodic structure and vivid narration.
-
-These texts are indirectly transmitted, preserved not in medieval manuscripts of Demosthenes but as citations in the works of later grammarians, lexicographers, and commentators. While the fragments themselves had limited post-classical influence, they are crucial for modern scholarship. They aid in reconstructing the scope of Demosthenes' output, clarifying the subjects of his lost speeches, and providing additional evidence for the practice of Athenian oratory during the fourth century BCE. The standard modern compilation appears in the Oxford Classical Texts edition of Demosthenes.
 
 ## Text
 

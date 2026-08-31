@@ -5,6 +5,7 @@ author: Antisthenes of Athens II
 eul_wid: dhu-aa
 eul_aid: dhu
 canonical: "https://eulogikon.org/works/antisthenes-athens-declamations-dhu-aa"
+lang: grc
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Antisthenes of Athens II
 
 **eul_wid:** `dhu-aa` · [HTML page](https://eulogikon.org/works/antisthenes-athens-declamations-dhu-aa)
-
-Ajax or The Speech of Ajax is a prose declamation by the Athenian philosopher Antisthenes, a disciple of Socrates. Composed in the late 5th or early 4th century BCE, it is a rhetorical exercise in which the Homeric hero Ajax defends his claim to the armor of the slain Achilles. The surviving fragments present Ajax arguing before a panel of judges that his physical recovery of Achilles' body from the battlefield was a greater and more perilous act of martial virtue than Odysseus's seizure of the armor. The work engages with themes of virtue, justice, and heroic ideals, contrasting Ajax's straightforward courage with the cunning intelligence of his rival. It functions as both a demonstration of rhetorical skill and a vehicle for philosophical inquiry, using Homeric characters to debate ethical concepts. Modern scholars view it as an early example of this practice, reflecting Antisthenes' role in the development of Cynic thought. The complete speech is lost, and our knowledge of it depends entirely on quotations preserved by later authors such as Athenaeus and Dio Chrysostom.
 
 ## Text
 

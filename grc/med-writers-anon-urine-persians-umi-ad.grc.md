@@ -5,6 +5,7 @@ author: Medical Writers Anonymous
 eul_wid: umi-ad
 eul_aid: umi
 canonical: "https://eulogikon.org/works/med-writers-anon-urine-persians-umi-ad"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Medical Writers Anonymous
 
 **eul_wid:** `umi-ad` · [HTML page](https://eulogikon.org/works/med-writers-anon-urine-persians-umi-ad)
-
-On Urine According to the Persians is a brief, anonymous Greek medical treatise surviving as a single fragment. It belongs to the ancient genre of uroscopy, the diagnosis of disease through the inspection of urine. The text explicitly attributes its described diagnostic techniques to Persian medical practice, indicating a specific interest in cross-cultural knowledge transmission. The surviving fragment details specific characteristics of urine for diagnostic purposes, correlating visual qualities like color and clarity with the patient's dominant bodily humor and its corresponding elemental qualities. For instance, red and turbid urine is said to indicate a dominance of blood, characterized as hot and wet, while white and clear urine suggests an excess of black bile, understood as cold and dry. The work is preserved as a fragment within medieval manuscripts that compiled short medical excerpts, notably appearing as fragment 74 in the 19th-century corpus of ancient medical texts compiled by J.L. Ideler. The treatise serves as a direct witness to the intercultural exchange of medical knowledge between Greek and Near Eastern traditions in late antiquity. It exemplifies the practical diversity of technical medical literature and contributes to the historical study of both uroscopic diagnosis and Greco-Roman engagement with Persian science.
 
 ## Text
 

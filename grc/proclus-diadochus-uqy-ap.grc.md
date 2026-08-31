@@ -5,6 +5,7 @@ author: Proclus the Successor
 eul_wid: uqy-ap
 eul_aid: uqy
 canonical: "https://eulogikon.org/works/proclus-diadochus-uqy-ap"
+lang: grc
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Proclus the Successor
 
 **eul_wid:** `uqy-ap` · [HTML page](https://eulogikon.org/works/proclus-diadochus-uqy-ap)
-
-Proclus's Commentary on Plato's Republic is a major philosophical treatise from the 5th century CE. Composed in Greek by Proclus Diadochus, the head of the Platonic Academy in Athens, the work consists of seventeen essays examining key themes within Plato's dialogue. It is not a line-by-line exegesis but a focused exploration of specific topics, including the nature of poetry, the allegory of the cave, and the myth of Er. Proclus interprets the Republic through a sophisticated Neoplatonic framework, treating it as a text that reveals profound metaphysical truths concerning the divine, the hierarchical structure of reality, and the soul's journey toward the One. The complete text survives through Byzantine manuscript traditions. Modern scholarship regards it as a central document of late antique Neoplatonism, reflecting a period of intense philosophical and religious discourse. It was likely composed for an advanced academic audience, synthesizing centuries of Platonic interpretation to articulate and defend a comprehensive pagan theological system. Its methods of allegorical reading and its metaphysical synthesis later exerted a significant influence on Renaissance Platonism.
 
 ## Text
 

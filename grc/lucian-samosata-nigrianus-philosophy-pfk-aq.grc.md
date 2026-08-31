@@ -5,6 +5,7 @@ author: Lucian of Samosata
 eul_wid: pfk-aq
 eul_aid: pfk
 canonical: "https://eulogikon.org/works/lucian-samosata-nigrianus-philosophy-pfk-aq"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lucian of Samosata
 
 **eul_wid:** `pfk-aq` · [HTML page](https://eulogikon.org/works/lucian-samosata-nigrianus-philosophy-pfk-aq)
-
-The Philosophy of Nigrianus is a prose oration by the Syrian-born Greek satirist Lucian of Samosata, composed in Attic Greek around 170 CE. A characteristic product of the Second Sophistic period, it blends philosophical protreptic, encomium, and satire within a rhetorical framework. The work opens as a conversation in which the narrator recounts to a friend his transformative visit to Rome. There he encountered the Platonic philosopher Nigrianus, whose extended discourse constitutes the central portion of the text. This speech delivers a vigorous critique of Roman society's obsession with wealth, status, and luxury, contrasting it with the freedom and tranquility found in a life dedicated to philosophy and embraced poverty. The character of Nigrianus is believed to be modeled on a genuine, though otherwise obscure, Platonist thinker of the era. Modern scholarship interprets the work as a sophisticated exhortation to philosophy that channels social criticism safely through the voice of a philosopher and a narrative of personal conversion. The complete text survives as part of Lucian's transmitted corpus, preserved in medieval manuscripts such as the 10th-century Codex Palatinus Graecus 355.
 
 ## Text
 

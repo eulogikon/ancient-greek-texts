@@ -5,6 +5,7 @@ author: Lucian of Samosata
 eul_wid: pfk-by
 eul_aid: pfk
 canonical: "https://eulogikon.org/works/lucian-samosata-zeus-refuted-pfk-by"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lucian of Samosata
 
 **eul_wid:** `pfk-by` · [HTML page](https://eulogikon.org/works/lucian-samosata-zeus-refuted-pfk-by)
-
-Zeus Refuted is a satirical dialogue by the Roman Imperial era author Lucian of Samosata. Composed in Attic Greek during the latter half of the second century CE, the work stages a comic debate between Zeus, the sovereign of the Olympian gods, and a Cynic philosopher named Cyniscus. The dialogue opens with Cyniscus requesting not material wealth but a simple answer to a philosophical question. He proceeds to interrogate Zeus on the nature of fate as described in the epic poetry of Homer and Hesiod, specifically the power of the Moirai, or Fates. Through a sequence of pointed and logical questions, Cyniscus leads Zeus into a series of contradictions concerning divine foreknowledge, omnipotence, and moral responsibility. The philosopher argues that if fate is immutable and predetermined by the Fates, then Zeus is powerless to alter it, rendering his divine authority and the practice of human prayer meaningless. Conversely, if Zeus can change fate, then the traditional descriptions of an inexorable cosmic order are false. Trapped by this logic, a frustrated Zeus ultimately resorts to threatening the impertinent philosopher with his thunderbolt, thus ending the debate with a comedic inversion of pious deference.
-
-A concise example of Lucian’s characteristic blend of humor and serious philosophical critique, the dialogue is a product of the Second Sophistic, a period marked by a revival of Greek rhetorical and literary culture. It presumes an educated audience familiar with both classical mythology and contemporary Stoic doctrines, which advocated for a rational, providential fate. The work functions as a sharp satire of Stoic theology, exposing the logical difficulties inherent in reconciling divine omnipotence with a fixed deterministic system. By using the figure of a Cynic—a philosopher associated with challenging conventions—to refute the king of the gods himself, Lucian extends his mockery to dogmatic thinking and traditional religious conceptions more broadly. The text survives in full through medieval manuscript traditions and remains a staple of the Lucianic corpus, exemplifying the author’s enduring legacy as a master of ironic prose and intellectual satire.
 
 ## Text
 

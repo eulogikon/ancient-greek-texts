@@ -5,6 +5,7 @@ author: Erotic Narrative Anonymous
 eul_wid: skw-ag
 eul_aid: skw
 canonical: "https://eulogikon.org/works/erotica-anon-theano-skw-ag"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: Fiction
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Erotic Narrative Anonymous
 
 **eul_wid:** `skw-ag` · [HTML page](https://eulogikon.org/works/erotica-anon-theano-skw-ag)
-
-_Theano: An Erotic Narrative_ is a fragmentary ancient Greek prose novel, surviving only in two brief passages preserved within the anthology of erotic texts compiled by the Byzantine scholar Maximus Planudes. The work belongs to the genre of ancient Greek novels, which includes longer, complete works like Chariton’s Chaereas and Callirhoe. The extant fragments concern the character Theano, and the use of a female name in the title suggests the narrative likely centered on a female protagonist, a common feature of the genre where plots typically involve love, desire, and the separation, trials, and eventual reunion of lovers. The work’s transmission depends entirely on the Planudean manuscript tradition, with no independent manuscript history for the otherwise lost complete text. While too fragmentary to trace any specific literary influence, the text is a significant trace of the wider corpus of ancient Greek prose fiction, indicating that more narratives of this popular type circulated in antiquity than have survived to the present day.
 
 ## Text
 

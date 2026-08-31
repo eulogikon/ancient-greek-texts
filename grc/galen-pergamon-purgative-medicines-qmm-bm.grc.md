@@ -5,6 +5,7 @@ author: Galen of Pergamon
 eul_wid: qmm-bm
 eul_aid: qmm
 canonical: "https://eulogikon.org/works/galen-pergamon-purgative-medicines-qmm-bm"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Galen of Pergamon
 
 **eul_wid:** `qmm-bm` · [HTML page](https://eulogikon.org/works/galen-pergamon-purgative-medicines-qmm-bm)
-
-On the Power of Purgative Medicines is a pharmacological treatise by the Greek physician Galen of Pergamon, composed in the second century CE. The work provides a systematic examination of drugs used to evacuate harmful humors from the body, a cornerstone of Galenic therapeutics. It details the actions, strengths, appropriate dosages, and clinical indications for various purgative substances, grounding its analysis firmly within the framework of humoral theory and the qualitative properties of materia medica. Galen argues against contemporary medical sects that denied the specific attractive power of purgatives, positioning himself as a defender of rational principles and of the Hippocratic tradition, which he claims offers implicit support for his views.
-
-The treatise applies Galen’s fundamental medical doctrines to pharmacology. Disease is understood as an imbalance of the four humors—blood, phlegm, yellow bile, and black bile—and drug action is explained as a corrective intervention. Each medicinal substance is analyzed according to its primary qualities of hot, cold, wet, or dry, and its specific dynamic power to attract and expel a particular morbid humor. The text advocates a reasoned and systematic approach to drug selection, opposing empirical or indiscriminate use by emphasizing the importance of understanding a substance’s inherent properties and its targeted effect on the body’s physiology.
-
-The text was transmitted through Greek manuscripts and was subsequently translated into Arabic and Latin, ensuring its preservation and wide influence. It is included in modern critical editions of Galen’s works, such as the Corpus Medicorum Graecorum. The treatise’s doctrines on purgatives and drug qualities formed an essential component of Western and Islamic materia medica for centuries. Its principles remained standard until the Renaissance, directly influencing later medical encyclopedists and physicians, including Oribasius in the Byzantine world and al-Razi and Ibn Sina in the Islamic tradition.
 
 ## Text
 

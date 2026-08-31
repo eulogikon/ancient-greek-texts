@@ -5,6 +5,7 @@ author: Timaeus of Tauromenium
 eul_wid: hxk-ac
 eul_aid: hxk
 canonical: "https://eulogikon.org/works/timaeus-tauromenium-heracles-fragments-hxk-ac"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Timaeus of Tauromenium
 
 **eul_wid:** `hxk-ac` · [HTML page](https://eulogikon.org/works/timaeus-tauromenium-heracles-fragments-hxk-ac)
-
-The Fragments on Heracles consist of excerpts from the historical writings of Timaeus of Tauromenium, preserved by later authors. These surviving passages detail the hero's activities in the western Mediterranean, blending mythological narrative with historical and geographical claims about Italy and Sicily. The fragments portray Heracles as a civilizing founder in the West. One account, cited by Strabo, describes his journey through Italy, where he drove Tyrrhenians, depicted as pirates or indigenous peoples, from a promontory, leading to its renaming from Satyrion to Heraion. Another, preserved by Diodorus Siculus, recounts Heracles founding a Sicilian city with the captured daughters of Thespius and establishing a sacred precinct for Iolaus. These narratives function as colonial foundation myths, integrating local legends into the Panhellenic heroic tradition. The work survives only as quotations within the texts of later historians, primarily Strabo and Diodorus Siculus, with the modern title being an editorial convenience. Timaeus's treatment of Heracles's western travels exemplifies Hellenistic historiography's fusion of myth and history to legitimize Greek colonial presence, and his accounts became a foundational source for later geographical and historical writing about the region.
 
 ## Text
 

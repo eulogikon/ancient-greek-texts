@@ -5,6 +5,7 @@ author: Athanis of Syracuse
 eul_wid: gvi-aa
 eul_aid: gvi
 canonical: "https://eulogikon.org/works/athanis-syracuse-historical-fragments-gvi-aa"
+lang: grc
 period: Classical
 dialect: Doric (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Athanis of Syracuse
 
 **eul_wid:** `gvi-aa` · [HTML page](https://eulogikon.org/works/athanis-syracuse-historical-fragments-gvi-aa)
-
-The Sicilian Historical Fragments constitute the surviving excerpts from the lost history of Athanis of Syracuse, a historian of the fourth century BCE. Athanis continued the historical work of Philistus, chronicling Sicilian affairs during a turbulent period that encompassed the later reign of the tyrant Dionysius II of Syracuse and the subsequent military and political interventions of the Corinthian general Timoleon. The work does not survive as a continuous text; its scant remains are preserved solely as quotations embedded within the works of later authors, most notably the Byzantine encyclopedia known as the Suda and Athenaeus in his Deipnosophists. These fragments, though brief, offer valuable glimpses into mid-fourth century Sicilian history, touching upon themes of political instability under Dionysius II, military conflicts with Carthaginian forces, and the liberation of Sicilian cities under Timoleon’s leadership. As a continuator of a major historiographical tradition and a historian of contemporary events, Athanis is considered an important source for later Sicilian historians, particularly Timaeus of Tauromenium, and through such intermediaries his account contributed to the broader Greco-Roman historical tradition. The fragments are systematically collected in modern scholarly editions such as Die Fragmente der griechischen Historiker and Brill’s New Jacoby.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-es
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-lysander-okg-es"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-es` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-lysander-okg-es)
-
-The Life of Lysander is a biography by the Greek writer Plutarch, composed around 100–120 CE as part of his celebrated series Parallel Lives. In this work, Plutarch pairs the Spartan commander with the Roman dictator Sulla, drawing a comparative moral portrait of two formidable military leaders whose careers were marked by extraordinary success and subsequent political controversy, inviting reflection on the corrupting influence of absolute power. The biography chronicles the career of Lysander, the Spartan admiral whose decisive victory at the naval battle of Aegospotami effectively ended the Peloponnesian War in 405 BCE. Plutarch narrates the key events of Lysander’s life, including his adept diplomacy with the Persian prince Cyrus the Younger to secure funding for the Spartan fleet, his establishment of oligarchic decarchies in former Athenian allied cities, his complex and often strained relationship with the Spartan state, and his eventual death during a conflict in Boeotia.
-
-True to his biographical method, Plutarch interweaves historical narrative with illustrative anecdotes and ethical commentary, seeking to illuminate the character and motivations of his subject rather than provide a mere chronicle of events. He portrays Lysander as a man of great ability, austerity, and ambition, whose immense personal influence and accumulation of wealth after the war challenged Spartan traditions of equality and law, raising questions about the tension between individual merit and institutional authority. The work survives intact through medieval manuscript tradition and was composed for an educated Greco-Roman audience during the cultural period known as the Second Sophistic. Modern scholars regard it not as strict historiography but as a philosophical exploration of enduring themes such as the role of fortune in human affairs, the nature of political ambition, and the moral consequences of military triumph.
 
 ## Text
 

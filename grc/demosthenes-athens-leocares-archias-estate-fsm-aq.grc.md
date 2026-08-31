@@ -5,6 +5,7 @@ author: Demosthenes of Athens
 eul_wid: fsm-aq
 eul_aid: fsm
 canonical: "https://eulogikon.org/works/demosthenes-athens-leocares-archias-estate-fsm-aq"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Demosthenes of Athens
 
 **eul_wid:** `fsm-aq` · [HTML page](https://eulogikon.org/works/demosthenes-athens-leocares-archias-estate-fsm-aq)
-
-Against Leochares concerning the Estate of Archiades is a forensic oration preserved within the corpus of Demosthenes, dating to approximately 355–354 BCE. Composed for a client engaged in a private inheritance dispute, the speech argues before an Athenian jury for the rights of the speaker’s wife to the estate of Archiades, who died without a direct male heir. The speaker contends that his wife, as the daughter of Archiades’ sister, represents the closest surviving relative according to Athenian laws of intestate succession, which prioritized kinship proximity. His opponent, Leochares, has advanced a rival claim supported by a formal witness deposition. The oration systematically builds its case through meticulous genealogical argument, citation of relevant statutes, appeals to witness testimony, and pointed criticism of the adversary’s motives and character. As a complete, 64-section address, it exemplifies the strategic construction of a legal argument in classical Athenian courts, combining technical legal reasoning with persuasive rhetoric aimed at a jury of citizen peers. While traditionally ascribed to Demosthenes, modern scholarly consensus attributes the work to a contemporary professional speechwriter, reflecting common practice in Athenian litigation. Its preservation within the Demosthenic tradition has secured its status as an important document for the study of Athenian family law, property rights, and the daily operation of the legal system in the fourth century BCE.
 
 ## Text
 

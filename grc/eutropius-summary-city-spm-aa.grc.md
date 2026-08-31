@@ -5,6 +5,7 @@ author: Eutropius the Historian
 eul_wid: spm-aa
 eul_aid: spm
 canonical: "https://eulogikon.org/works/eutropius-summary-city-spm-aa"
+lang: grc
 period: Late Antique
 dialect: Mixed Dialects
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Eutropius the Historian
 
 **eul_wid:** `spm-aa` · [HTML page](https://eulogikon.org/works/eutropius-summary-city-spm-aa)
-
-The Summary from the Founding of the City is a Koine Greek translation by Paeanius of the Latin historical compendium Breviarium ab Urbe Condita by the Roman historian Eutropius. The original Latin work, composed around 369 CE, is a concise epitome of Roman history spanning from the legendary founding of Rome by Romulus in 753 BCE to the death of Emperor Jovian in 364 CE. Paeanius produced his translation, likely in the late fourth or early fifth century, to make the text accessible to the Greek-speaking administration of the Eastern Roman Empire. The work is a rapid chronological narrative divided into 206 brief chapters, focusing almost exclusively on political and military events such as the succession of rulers, major conflicts, and territorial expansion, while omitting deeper cultural or social commentary. This utilitarian focus reflects the handbook's original commission by Emperor Valens, who sought a clear and digestible summary of Roman history for practical use. The Greek translation is generally faithful to Eutropius's Latin original but is believed to have incorporated occasional minor clarifications for an audience less acquainted with specific Roman institutions. The survival of the text in both its Latin and Greek versions underscores its historical significance as a key bridge between the Latin and Greek historiographical traditions in late antiquity, ensuring its preservation and continued utility throughout the Byzantine period.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-cj
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-uneducated-governor-okg-cj"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-cj` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-uneducated-governor-okg-cj)
-
-To an Uneducated Governor is a short prose treatise by the Greek philosopher and biographer Plutarch, composed during the early second century CE. It belongs to the genre of ethical and political advice literature, offering a series of twenty concise admonitions to a ruler who possesses political authority but lacks a formal philosophical education. The work opens with an illustrative anecdote about Plato declining to legislate for the prosperous city of Cyrene, suggesting that success breeds arrogance and makes men resistant to sound guidance. Plutarch uses this premise to argue that a governor must overcome this natural pride and willingly accept the counsel of reason and philosophy.
-
-The subsequent passages provide practical and moral instruction on the essentials of just governance. Key themes include the critical importance of controlling anger and passion, administering justice with strict impartiality, and the careful selection of virtuous advisors. Plutarch emphasizes that a ruler’s personal conduct sets the standard for the entire community; his self-discipline and virtue are foundational to political stability. The treatise functions as a protreptic, or exhortation, urging the governor toward the philosophical cultivation that Plutarch, drawing from Platonic and Stoic thought, deemed indispensable for effective and ethical rule. It stands as an early example of the "mirror for princes" tradition, representing an effort to apply classical Hellenic philosophical values to the practical realities of Roman imperial administration, where educated local elites often served as provincial officials. The complete text is preserved within Plutarch’s collected ethical works, the Moralia, transmitted through the medieval Byzantine manuscript tradition and accepted as a genuine part of his corpus.
 
 ## Text
 

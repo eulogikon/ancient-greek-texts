@@ -5,6 +5,7 @@ author: Serenus of Antinoöpolis
 eul_wid: sam-aa
 eul_aid: sam
 canonical: "https://eulogikon.org/works/serenus-antinoopolis-section-cylinder-sam-aa"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Mathematics
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Serenus of Antinoöpolis
 
 **eul_wid:** `sam-aa` · [HTML page](https://eulogikon.org/works/serenus-antinoopolis-section-cylinder-sam-aa)
-
-_On the Section of a Cylinder_ by Serenus of Antinoöpolis is a fourth-century CE mathematical treatise consisting of fifty-eight propositions. It systematically investigates the curves formed by intersecting a right cylinder with planes. The central aim of the work is to correct a contemporary misconception, as Serenus states that many geometers erroneously believed the oblique section of a cylinder to be a different curve from the conic section known as the ellipse. He argues against such assertions made without proof, deeming them unworthy of geometers. The treatise's principal demonstration is that a plane cutting through the cylinder's axis at a symmetrical angle produces a true elliptical section, and it further proves that for this specific cut, the ellipse's major axis is equal to the diameter of the cylinder. Serenus also compares the areas of different sections, showing that this symmetrical elliptical section has a greater area than any other non-circular oblique section. He clarifies that not all non-parallel plane cuts of a cylinder yield ellipses, thereby refining the general understanding of the relationship between cylindrical and conic sections. The Greek text of the work survives, preserved alongside Serenus's related treatise _On the Section of a Cone_ in medieval manuscripts such as the Codex Parisinus Graecus 2342. It was later edited in the seventeenth century and exists in modern scholarly editions. The treatise represents a competent continuation of Hellenistic geometric tradition into the late Roman period and is historically valuable for illustrating the state of conic section theory in the centuries following Apollonius of Perga and preceding the contributions of Byzantine and Islamic scholars.
 
 ## Text
 

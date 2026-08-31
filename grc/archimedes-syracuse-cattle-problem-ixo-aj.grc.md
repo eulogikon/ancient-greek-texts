@@ -5,6 +5,7 @@ author: Archimedes of Syracuse
 eul_wid: ixo-aj
 eul_aid: ixo
 canonical: "https://eulogikon.org/works/archimedes-syracuse-cattle-problem-ixo-aj"
+lang: grc
 period: Hellenistic
 dialect: Doric
 domain: Mathematics
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Archimedes of Syracuse
 
 **eul_wid:** `ixo-aj` · [HTML page](https://eulogikon.org/works/archimedes-syracuse-cattle-problem-ixo-aj)
-
-The Cattle Problem is a 44-line Greek mathematical epigram attributed to the Hellenistic scientist Archimedes of Syracuse. Composed around 250 BCE, it was transmitted in a letter to the Alexandrian scholar Eratosthenes. The poem presents an arithmetical puzzle framed within a mythological context, describing the herds of the sun god Helios. It details a complex set of precise numerical ratios governing the populations of bulls and cows of four different colors: white, black, yellow, and dappled. The first part of the problem establishes a system of seven linear equations with eight unknowns, which yields a particular integer solution. The second part introduces two additional conditions that transform the problem into a much more difficult challenge, equivalent to what is now recognized as a Pell equation.
-
-The work survives not through the principal manuscript traditions of Archimedes' treatises but from a single copy discovered in a German library in the 18th century. This solitary transmission has made its precise textual history an object of scholarly investigation. Modern interpretation views the problem as a sophisticated intellectual exercise intended for fellow mathematicians, artfully combining Homeric poetic style with advanced number theory. The second part is of exceptional difficulty; the smallest solution to the complete problem is an integer with over 200,000 digits, and it was not fully solved until the application of electronic computers in the 20th century. Some scholarly debate exists regarding whether the immensely complex second part is authentically Archimedean or represents a later addition by a commentator.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-cv
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-isis-osiris-okg-cv"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-cv` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-isis-osiris-okg-cv)
-
-On Isis and Osiris is a philosophical treatise by the Roman-era scholar Plutarch, composed around 120 CE as part of his ethical works known as the Moralia. Addressed to Clea, a priestess at Delphi, the extended essay systematically interprets the Egyptian myth of the gods Osiris, Isis, and their brother Typhon. Plutarch recounts the narrative of Osiris's murder, Isis's quest to recover his dismembered body, and the subsequent rise of their son Horus. His primary aim, however, is not to preserve a foreign legend but to explicate it as a sophisticated allegory for universal philosophical truths.
-
-Through the interpretive framework of Middle Platonism, Plutarch presents the struggle between Osiris and Typhon as the cosmic conflict between good and evil, order and chaos. He identifies Isis with the receptive principle of nature and with divine wisdom. A central theme is the rehabilitation of Egyptian religion against accusations of superstition by revealing its concealed rational theology. The treatise is notably comparative, drawing parallels between Egyptian beliefs and Greek philosophy, as well as other traditions such as Persian Zoroastrianism, to argue for a common, underlying truth in all ancient wisdom. The complete text survives within the manuscript tradition of the Moralia and has been a subject of continuous study since antiquity. Modern scholarship regards it as an essential source for understanding ancient religious syncretism, allegorical exegesis, and the Greco-Roman reception of Egyptian thought. Its influence extended to later Neoplatonists and to Renaissance thinkers captivated by the idea of Egyptian wisdom.
 
 ## Text
 

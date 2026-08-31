@@ -5,6 +5,7 @@ author: Aristophanes of Byzantium
 eul_wid: klo-af
 eul_aid: klo
 canonical: "https://eulogikon.org/works/aristophanes-byzantium-names-ages-klo-af"
+lang: grc
 period: Hellenistic
 dialect: Technical Koine
 domain: Grammar
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristophanes of Byzantium
 
 **eul_wid:** `klo-af` · [HTML page](https://eulogikon.org/works/aristophanes-byzantium-names-ages-klo-af)
-
-The Names of Ages Parisian Fragment is a grammatical treatise attributed to the Hellenistic scholar Aristophanes of Byzantium, a leading figure at the Library of Alexandria during the 3rd and 2nd centuries BCE. This lexicographical work, composed in scholarly Koine Greek, systematically lists and examines Greek terminology for the successive stages of human life. Only a fragment of the original text survives, consisting of thirteen passages preserved within a single Byzantine manuscript. The extant portion demonstrates the treatise's structure as a reference work composed of discrete entries that define and illustrate precise vocabulary, often clarifying gender, form, or specific usage of words related to social roles, familial relationships, and personal attributes.
-
-As a product of the Alexandrian scholarly tradition, the work exemplifies the systematic effort to standardize and clarify Greek linguistic usage for educational and archival purposes. It was likely intended for fellow librarians and advanced students as a tool for the accurate interpretation of classical literature. The fragment offers valuable insight into ancient Greek social concepts and the meticulous philological methods practiced by one of antiquity's most influential grammarians, providing a direct link to the lexical studies that underpinned the preservation and study of Greek texts in the Hellenistic period.
 
 ## Text
 

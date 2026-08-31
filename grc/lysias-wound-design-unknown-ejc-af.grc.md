@@ -5,6 +5,7 @@ author: Lysias the Orator
 eul_wid: ejc-af
 eul_aid: ejc
 canonical: "https://eulogikon.org/works/lysias-wound-design-unknown-ejc-af"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lysias the Orator
 
 **eul_wid:** `ejc-af` · [HTML page](https://eulogikon.org/works/lysias-wound-design-unknown-ejc-af)
-
-On a Wound by Premeditation is a forensic oration composed by the Athenian logographer Lysias, dating to the early fourth century BCE. The speech was written for a client defending himself against a private lawsuit for intentionally inflicting a wound with premeditated design, a serious charge in Athenian law. Its unusual subtitle, "For Which and to Whom Unknown," directly references a procedural ambiguity central to the case: the identity of the alleged victim and the specific details of the charge were apparently unclear or contested at the time of the trial. The surviving text is a concise example of a courtroom speech, structured conventionally with a proem, narrative section, proofs, and epilogue. The speaker's primary rhetorical strategy is to capitalize on the confusion highlighted in the title, portraying his accuser as a vexatious litigant exploiting legal technicalities and vigorously denying that any wounding occurred with the deliberate forethought required by the charge. As a work of Lysias, it demonstrates the practical application of his clear and persuasive style to a complex legal scenario, offering modern readers significant insight into Athenian juridical procedure, the nuanced definitions of criminal intent, and the tactical use of procedural arguments in the popular courts of classical Athens. The complete text is preserved within the medieval manuscript tradition of the Attic orators.
 
 ## Text
 

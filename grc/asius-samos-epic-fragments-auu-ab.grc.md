@@ -5,6 +5,7 @@ author: Asius of Samos
 eul_wid: auu-ab
 eul_aid: auu
 canonical: "https://eulogikon.org/works/asius-samos-epic-fragments-auu-ab"
+lang: grc
 period: Archaic
 dialect: Epic (Homeric) (frg)
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Asius of Samos
 
 **eul_wid:** `auu-ab` · [HTML page](https://eulogikon.org/works/asius-samos-epic-fragments-auu-ab)
-
-The Epic Fragments are a collection of thirteen surviving passages of genealogical epic poetry attributed to the Archaic Greek poet Asius of Samos. Preserved not as a continuous poem but as quotations in later prose authors, the fragments are composed in dactylic hexameter and focus on the mythological origins and heroic lineages of Samos and the Peloponnese. Their content includes the genealogies of regional heroes, such as the Spartan king Lelex, and local foundation myths, including the naming of Samos. One notable fragment describes the luxurious attire and elaborate hairstyles of Samian aristocrats, offering valuable insight into Archaic material culture and aristocratic ideals. Asius’s work survives entirely through citation by later antiquarians and grammarians, principally Pausanias and Athenaeus, with no independent manuscript tradition for the original poem. These fragments are significant as evidence for the tradition of regional epic poetry that existed alongside the Homeric canon. Scholars utilize them to study the development of early Greek epic and as a source for Archaic social history, material culture, and local mythology.
 
 ## Text
 

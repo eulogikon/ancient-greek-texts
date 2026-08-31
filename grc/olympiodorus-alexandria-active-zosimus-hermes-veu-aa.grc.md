@@ -5,6 +5,7 @@ author: Olympiodorus the Alchemist of Alexandria
 eul_wid: veu-aa
 eul_aid: veu
 canonical: "https://eulogikon.org/works/olympiodorus-alexandria-active-zosimus-hermes-veu-aa"
+lang: grc
 period: Late Antique
 dialect: Philosophical Koine
 domain: Science
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Olympiodorus the Alchemist of Alexandria
 
 **eul_wid:** `veu-aa` · [HTML page](https://eulogikon.org/works/olympiodorus-alexandria-active-zosimus-hermes-veu-aa)
-
-"To the Active Zosimus, What Was Said by Hermes and the Philosophers" is an alchemical treatise attributed to Olympiodorus the Alchemist of Alexandria, a figure traditionally dated to the 6th century CE. The work is structured as a series of thirty-six passages, framed as a commentary on the teachings of the legendary sage Hermes Trismegistus and other ancient philosophers. It is addressed to a figure named Zosimus, generally identified as the influential 3rd- or 4th-century alchemist Zosimus of Panopolis. The text systematically explores core alchemical theories and practices, including the transmutation of metals and the interpretation of the discipline's characteristically obscure and symbolic technical language.
-
-The treatise survives in its original Greek, with its primary witness being the 10th- or 11th-century manuscript known as the Codex Marcianus graecus 299. Composed in Alexandria, a major hub of philosophical and scientific activity, the work exemplifies the late-antique effort to synthesize and systematize earlier canonical alchemical knowledge. It reflects the period's intellectual climate, in which practical laboratory procedures were increasingly framed within the metaphysical contexts of Neoplatonic and Hermetic thought. The treatise was likely intended for a specialized, practicing audience, and its influence persisted within the Byzantine scholarly tradition and among later Renaissance humanists who studied the corpus of Greek alchemical manuscripts.
 
 ## Text
 

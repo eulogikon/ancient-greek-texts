@@ -5,6 +5,7 @@ author: Metrophanes Historicus
 eul_wid: tzg-aa
 eul_aid: tzg
 canonical: "https://eulogikon.org/works/metrophanes-fertility-phrygia-tzg-aa"
+lang: grc
 period: Late Antique
 dialect: Koine (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Metrophanes Historicus
 
 **eul_wid:** `tzg-aa` · [HTML page](https://eulogikon.org/works/metrophanes-fertility-phrygia-tzg-aa)
-
-The work On the Fertility of Phrygia, attributed to the obscure author Metrophanes Historicus, survives only as three brief prose passages preserved in later, unspecified works. These fragments describe the agricultural and natural wealth of Phrygia in central Anatolia. The title indicates it was known to later compilers as an excerpt, not a complete, independently transmitted text. The extant fragments focus on the agricultural and pastoral fertility of the Phrygian region, its natural resources and products, and the descriptive geography and ethnography of the province. The work is lost and survives fragmentarily through quotation in later texts. Its transmission is entirely secondary, with no direct manuscript tradition, and the identity of the compilers who preserved these excerpts is unknown. The text belongs to the tradition of regional geography. While its direct influence appears minimal, as it is noted primarily in catalogs of fragmentary historians, it served as a minor source of geographical data, likely for later Byzantine compilations or lexicons.
 
 ## Text
 

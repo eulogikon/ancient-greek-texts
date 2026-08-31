@@ -5,6 +5,7 @@ author: Epictetus the Stoic
 eul_wid: ojw-ad
 eul_aid: ojw
 canonical: "https://eulogikon.org/works/epictetus-gnomology-ojw-ad"
+lang: grc
 period: Roman
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Epictetus the Stoic
 
 **eul_wid:** `ojw-ad` · [HTML page](https://eulogikon.org/works/epictetus-gnomology-ojw-ad)
-
-The Gnomology of Epictetus is a collection of ethical maxims attributed to the Stoic philosopher Epictetus. It stands apart from his principal surviving works, the Discourses and the Enchiridion, representing a posthumous compilation drawn from the broader tradition of his teachings. Such gnomic collections functioned as accessible handbooks of philosophical wisdom. The work is composed in a concise, aphoristic style that distills core Stoic doctrines, including the fundamental distinction between what is within one's control and what is not, the identification of virtue as the sole good, the acceptance of external events, and the disciplined management of desire, aversion, and judgment. It offers practical exercises for living in accordance with nature. The specific transmission history of this particular compilation is obscure, as gnomic texts were commonly excerpted and reconfigured over time. It likely exists within the wider and complex manuscript tradition surrounding Epictetus's works, wherein the Enchiridion was far more frequently copied and circulated. Although this gnomology is itself a minor compilation, the dissemination of Epictetus's ideas in a succinct, maxim form has exercised a profound and lasting influence. This tradition significantly impacted later Stoic thought, early Christian ascetic writers, Renaissance Neostoicism, and modern psychological approaches to resilience and well-being.
 
 ## Text
 

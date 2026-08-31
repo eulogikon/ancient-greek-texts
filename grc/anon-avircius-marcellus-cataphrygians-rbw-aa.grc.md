@@ -5,6 +5,7 @@ author: Anonymous
 eul_wid: rbw-aa
 eul_aid: rbw
 canonical: "https://eulogikon.org/works/anon-avircius-marcellus-cataphrygians-rbw-aa"
+lang: grc
 period: Uncertain
 license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ---

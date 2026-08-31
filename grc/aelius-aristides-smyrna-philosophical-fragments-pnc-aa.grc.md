@@ -5,6 +5,7 @@ author: Aelius Aristides of Smyrna
 eul_wid: pnc-aa
 eul_aid: pnc
 canonical: "https://eulogikon.org/works/aelius-aristides-smyrna-philosophical-fragments-pnc-aa"
+lang: grc
 period: Roman
 dialect: Attic
 domain: Theology
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aelius Aristides of Smyrna
 
 **eul_wid:** `pnc-aa` · [HTML page](https://eulogikon.org/works/aelius-aristides-smyrna-philosophical-fragments-pnc-aa)
-
-The Philosophical Fragments are two brief passages of theological philosophy attributed to the 2nd-century CE Greek orator Aelius Aristides. While Aristides is primarily celebrated for his elaborate orations and prose hymns, these surviving fragments attest to his engagement with Platonic metaphysics. The text discusses the divine craftsman, or Demiurge, as the father of creation and distinguishes this active, shaping principle from the eternal, intelligible model upon which it draws. The work does not survive as an independent treatise; the fragments are preserved exclusively through quotation by the 5th-century Neoplatonist philosopher Proclus in his commentary on Plato’s Timaeus. Their content, which aligns Platonic doctrine with theological exposition, illustrates how sophists of the Roman imperial period frequently integrated rigorous philosophical study with rhetorical artistry. The fragments’ preservation by Proclus further demonstrates their perceived value in late antiquity as a connective thread between classical Platonic thought and the systematic theology of the Neoplatonic tradition.
 
 ## Text
 

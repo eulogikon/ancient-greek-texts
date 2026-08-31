@@ -5,6 +5,7 @@ author: Lucian of Samosata
 eul_wid: pfk-bh
 eul_aid: pfk
 canonical: "https://eulogikon.org/works/lucian-samosata-ship-or-prayers-pfk-bh"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lucian of Samosata
 
 **eul_wid:** `pfk-bh` · [HTML page](https://eulogikon.org/works/lucian-samosata-ship-or-prayers-pfk-bh)
-
-The Ship or Prayers is a satirical oration by the 2nd-century CE author Lucian of Samosata. Written in Greek as a prolalia, or rhetorical introductory talk, the work opens with a detailed eyewitness account of the arrival at the Piraeus of the Isis, an enormous Egyptian grain ship bound for Italy. Lucian describes the vessel as a marvel of human engineering, comparing its size and complexity to a floating city, complete with towers, gardens, and a vast crew. This vivid depiction of a symbol of Roman imperial commerce and logistical power sets the stage for the oration's central satire. The narrative shifts when Lucian overhears an old man onboard fervently praying to the gods for immense wealth and prosperity. This prompts Lucian to articulate his own contrasting "prayer." He expresses a desire not for material grandeur, which he associates with vulnerability and envy, but for the modest, safe, and agile course of his literary career, symbolized by a small boat. The great ship thus becomes a metaphor for overweening ambition and the perils of conspicuous success, while Lucian champions intellectual moderation, self-sufficiency, and the virtues of a modest artistic endeavor. A product of the Second Sophistic, the work employs characteristic rhetorical flair and classical allusion to deliver an ethical critique of greed and a defense of Lucian's own satirical style, favoring nimble wit over grandiose and hazardous projects. The text survives complete in the Byzantine manuscript tradition.
 
 ## Text
 

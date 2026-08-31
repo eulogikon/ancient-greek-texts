@@ -1,10 +1,11 @@
 ---
 title: Chronicles of Athens
 title_greek: Ἀποσπάσματα
-author: "Stesiclides "
+author: Stesiclides
 eul_wid: bya-aa
 eul_aid: bya
 canonical: "https://eulogikon.org/works/stesiclides-athens-chronicles-bya-aa"
+lang: grc
 period: Classical
 dialect: Ionic
 domain: History
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀποσπάσματα*
 
-**Author:** Stesiclides 
+**Author:** Stesiclides
 
 **eul_wid:** `bya-aa` · [HTML page](https://eulogikon.org/works/stesiclides-athens-chronicles-bya-aa)
-
-The Chronicles of Athens, a lost chronographical work attributed to Stesiclides of Athens, belongs to the Atthidographic tradition of compiling Athenian history and mythology. Known only through fragments preserved by later authors, the work provided a systematic timeline for early Athens. Its content included the reigns of mythical kings, such as dating Cecrops to 1556 BCE, and the origins of civic and religious institutions like the Synoikia festival. The text survives indirectly through transmission by later scholars including the chronographer Castor of Rhodes, the lexicographer Harpocration, and the church historian Eusebius of Caesarea. The alternative title Apospásmata, meaning "Extracts," likely reflects how these passages were compiled and cited by these subsequent sources. Stesiclides' work served as an important early authority for Atthidographers and scholars of Athenian antiquities. Its chronological data, incorporated into later Greco-Roman and early Christian historical systems, contributed to the standardization of ancient timelines.
 
 ## Text
 

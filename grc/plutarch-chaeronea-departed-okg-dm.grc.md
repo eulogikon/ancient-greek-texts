@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-dm
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-departed-okg-dm"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-dm` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-departed-okg-dm)
-
-_On the Departed_ is a consolatory treatise by Plutarch of Chaeronea, written to comfort a bereaved father named Aristion. The work employs a method of philosophical therapy for grief, using reasoned argument, mythological exempla, and poetic citations to refute common causes of sorrow. Its central aim is to demonstrate that death is not an evil and to affirm the immortality of the soul. The treatise draws eclectically on Platonic, Stoic, and Peripatetic doctrines, systematically applying reason as a curative for irrational passion while strategically invoking poetic and mythological authorities for rhetorical support. As a complete prose text preserved within Plutarch’s _Moralia_, it is transmitted through the manuscript tradition of that corpus, relying on key witnesses such as the 14th-century codices _Parisinus Graecus_ 1672 and _Laurentianus_ 80.11. The work exemplifies the practical application of Hellenistic philosophy to personal emotion and daily life in the Imperial period, and it subsequently exerted a notable influence on the later development of the consolation genre in both Byzantine and Western literary traditions.
 
 ## Text
 

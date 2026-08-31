@@ -5,6 +5,7 @@ author: Ergias of Rhodes
 eul_wid: grc-aa
 eul_aid: grc
 canonical: "https://eulogikon.org/works/ergias-rhodes-fragments-grc-aa"
+lang: grc
 period: Classical
 dialect: Doric (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Ergias of Rhodes
 
 **eul_wid:** `grc-aa` · [HTML page](https://eulogikon.org/works/ergias-rhodes-fragments-grc-aa)
-
-The Fragments on Rhodes by Ergias of Rhodes is a lost work of local history, or horography, known only through two brief passages preserved by later authors. The work focused on the myths, history, and distinctive features of the island. One fragment, preserved by the lexicographer Hesychius of Alexandria, records the tradition that Rhodes was also known by the alternative name Ophioussa. A second fragment is cited by the grammarian Herodian in a context suggesting it concerned Rhodian topography or mythology, though its precise content is not detailed in the surviving reference. The work is transmitted entirely through these indirect citations in the scholarly compilations of Herodian from the second century CE and Hesychius from the fifth or sixth century CE. The fragments are collected in Felix Jacoby’s Die Fragmente der griechischen Historiker. As an example of Hellenistic local patriotic antiquarianism, the fragments provide minor evidence for Rhodian traditions and illustrate how later grammarians and lexicographers mined such specialized histories as sources for rare words and obscure facts.
 
 ## Text
 

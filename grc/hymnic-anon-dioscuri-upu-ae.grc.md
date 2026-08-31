@@ -5,6 +5,7 @@ author: Hymnic Collection  Anonymous
 eul_wid: upu-ae
 eul_aid: upu
 canonical: "https://eulogikon.org/works/hymnic-anon-dioscuri-upu-ae"
+lang: grc
 period: Classical
 dialect: Epic (Homeric)
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hymnic Collection  Anonymous
 
 **eul_wid:** `upu-ae` · [HTML page](https://eulogikon.org/works/hymnic-anon-dioscuri-upu-ae)
-
-Hymn 33 to the Dioscuri is a brief hexameter poem from the anonymous collection known as the Homeric Hymns. Dedicated to the twin gods Castor and Polydeuces, collectively the Dioscuri, the hymn invokes them as the splendid sons of Tyndareus and Leda. It celebrates Castor as a tamer of horses and Polydeuces as the blameless boxer, born from Leda's union with the cloud-gathering son of Cronus. The hymn details their primary role as saviors of men on earth and of swift ships when storm winds rush across the relentless sea in winter. Sailors caught in such tempests pray to the great sons of Zeus, sacrificing white lambs upon the ship's stern. The twins then appear, swooping through the air on tawny wings to still the grievous winds and calm the waves upon the white sea, providing clear signs of respite from toil that bring the sailors joy and an end to their misery. The poem concludes with a direct address, hailing the Tyndaridae as riders of swift horses and promising future remembrance in song. Transmitted within the manuscript tradition of the Homeric Hymns, such as the 15th-century Codex Laurentianus, the hymn exemplifies the concise, formulaic preludes used in epic recitation, solidifying the Dioscuri's standard depiction as equestrian savior deities within Greek literature and influencing subsequent hymnodic tradition.
 
 ## Text
 

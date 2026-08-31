@@ -5,6 +5,7 @@ author: Dionysius of Syracuse the Elder
 eul_wid: eii-aa
 eul_aid: eii
 canonical: "https://eulogikon.org/works/dionysius-syracuse-philosophical-maxims-eii-aa"
+lang: grc
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Dionysius of Syracuse the Elder
 
 **eul_wid:** `eii-aa` · [HTML page](https://eulogikon.org/works/dionysius-syracuse-philosophical-maxims-eii-aa)
-
-The Fragments of Philosophical Maxims is a collection of 26 poetic passages attributed to Dionysius I, the tyrant of Syracuse who reigned from 405 to 367 BCE. Preserved exclusively through quotations by later authors, most notably Diogenes Laertius in the third century CE, the verses constitute a satirical critique aimed at Plato and his philosophical doctrines. The work survives not as an independent manuscript but embedded within the doxographical tradition, particularly in the biography of Plato. The content mocks core Platonic concepts such as the Theory of Forms and the ideal of the philosopher-king, blending philosophical satire with personal invective against Plato’s character. Its themes advocate a pragmatic, anti-intellectual stance that favors the exercise of tyrannical power over abstract speculation, serving also as an assertion of that authority through cultural production. These fragments hold historical significance as a vivid artifact of the classical conflict between political power and philosophy, providing key testimony to the fraught relationship between Plato and Dionysius I and illustrating the hostile reception Platonic ideas could encounter from contemporary rulers.
 
 ## Text
 

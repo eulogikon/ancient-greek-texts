@@ -5,6 +5,7 @@ author: Apollonius of Tyana
 eul_wid: nxe-ac
 eul_aid: nxe
 canonical: "https://eulogikon.org/works/apollonius-tyana-effects-nxe-ac"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Biography
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Apollonius of Tyana
 
 **eul_wid:** `nxe-ac` · [HTML page](https://eulogikon.org/works/apollonius-tyana-effects-nxe-ac)
-
-A work titled Effects is attributed to the Neopythagorean sage Apollonius of Tyana. This text is not mentioned in the primary biographical source, Philostratus’s Life of Apollonius of Tyana, nor is it recorded in the Byzantine Suda encyclopedia. Surviving metadata describes it as a prose work consisting of twenty passages, suggesting a concise and possibly fragmentary collection. Given its title, the work likely contained accounts of miraculous deeds or the powerful outcomes of Apollonius’s teachings, analogous to the narrative found in Philostratus’s biography. Its themes would presumably align with Apollonius’s attested philosophy, which emphasized asceticism, ritual purity, piety, the immortality of the soul, and the philosopher’s role as a moral critic and miracle-worker. The Effects is not attested in major sources for Apollonius’s writings, and its survival in only twenty passages suggests it may be known through later anthologies, though no specific transmission history is documented. The authentic surviving corpus of Apollonius primarily consists of a debated collection of letters. While Apollonius himself became a significant figure in later pagan polemic against Christianity, the Effects appears to be a lost or very minor work with no documented influence.
 
 ## Text
 

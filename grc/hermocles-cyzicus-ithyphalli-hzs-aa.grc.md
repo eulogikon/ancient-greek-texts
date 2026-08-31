@@ -5,6 +5,7 @@ author: Hermocles of Cyzicus
 eul_wid: hzs-aa
 eul_aid: hzs
 canonical: "https://eulogikon.org/works/hermocles-cyzicus-ithyphalli-hzs-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hermocles of Cyzicus
 
 **eul_wid:** `hzs-aa` · [HTML page](https://eulogikon.org/works/hermocles-cyzicus-ithyphalli-hzs-aa)
-
-The Ithyphalli is a processional hymn composed by Hermocles of Cyzicus around 290 BCE to celebrate the ceremonial entry of the Hellenistic kings Demetrius I Poliorcetes and Antigonus I Monophthalmus into Athens. Its title refers to a genre of metrically simple, often exuberant songs performed in Dionysiac processions. Preserved in two fragments within Athenaeus's Deipnosophistae, the hymn stands as a seminal example of the divine honors accorded to living rulers in the Hellenistic period. It portrays the kings as present and tangible deities, contrasting them vividly with the traditional Olympian gods, who are described as either distant, indifferent, or non-existent. The text functions as a political panegyric, hailing Demetrius as the city's savior and liberator, thereby ritually affirming Athenian allegiance to the Antigonid dynasty. Framed as a public ritual, the hymn calls for festive celebration, integrating the royal entry into the structure of a religious procession. Transmitted solely through the work of Athenaeus of Naucratis, the Ithyphalli remains a crucial document for understanding the theological and political syncretism of the early Hellenistic ruler cult.
 
 ## Text
 

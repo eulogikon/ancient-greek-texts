@@ -5,6 +5,7 @@ author: Demosthenes of Athens
 eul_wid: fsm-bv
 eul_aid: fsm
 canonical: "https://eulogikon.org/works/demosthenes-athens-against-philip-fsm-bv"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Demosthenes of Athens
 
 **eul_wid:** `fsm-bv` · [HTML page](https://eulogikon.org/works/demosthenes-athens-against-philip-fsm-bv)
-
-Demosthenes’ Against Philip II, commonly known as the Second Philippic, is a deliberative oration delivered to the Athenian assembly around 344 BCE. In this speech, the orator confronts the growing threat posed by Philip II of Macedon, arguing that the king’s diplomatic overtures are a calculated ruse masking his expansionist ambitions. Demosthenes systematically dismantles the illusion of security, criticizing Athenian politicians who advocate trust in Philip and warning that complacency will lead to disaster. He urges immediate and practical military preparations to defend not only Athenian interests but the broader freedom of the Greek city-states. The work, comprising 27 sections, survives intact through the medieval manuscript tradition of Demosthenes’ orations and is universally accepted as authentic.
-
-A pivotal document of Athenian foreign policy, the speech represents Demosthenes’ strategic response to Philip’s political maneuvering in the aftermath of the Peace of Philocrates. Its primary aim was to counteract Macedonian propaganda and rally public opinion for a more assertive resistance. Celebrated for its forceful logic and passionate defense of liberty, the oration became a canonical model of anti-tyrannical rhetoric. Its influence endured for centuries, most notably inspiring the form and fervor of Cicero’s Philippics against Mark Antony in republican Rome.
 
 ## Text
 

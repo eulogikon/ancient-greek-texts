@@ -5,6 +5,7 @@ author: Anaxagoras of Clazomenae
 eul_wid: btk-aa
 eul_aid: btk
 canonical: "https://eulogikon.org/works/anaxagoras-clazomenae-testimonies-btk-aa"
+lang: grc
 period: Classical
 dialect: Ionic (frg)
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Anaxagoras of Clazomenae
 
 **eul_wid:** `btk-aa` · [HTML page](https://eulogikon.org/works/anaxagoras-clazomenae-testimonies-btk-aa)
-
-The Testimonies attributed to Anaxagoras of Clazomenae is a modern scholarly compilation rather than an original ancient work. It assembles 125 passages from later Greek and Roman authors, such as Plato, Aristotle, and Simplicius, which report on his life, doctrines, and intellectual legacy. This collection serves to reconstruct his philosophical system from indirect evidence, as his own writings, including a book known as On Nature, do not survive intact. The gathered testimonia address the core elements of Anaxagoras's thought. Central is his doctrine of the cosmic Mind, or Nous, an infinite, pure, and autonomous intelligence he posited as the ordering principle of the universe. Closely related is his theory of matter, summarized by the principle that "everything is in everything," wherein all change results from the mixture and separation of an infinite variety of seeds or ingredients. The reports also detail his cosmology and astronomy, including his naturalistic explanations for the formation of the world and the nature of celestial bodies like the sun and moon. Further themes include his theories on perception and knowledge, exploring how sensory experience and qualitative distinctions arise from physical processes.
-
-The transmission of Anaxagoras's philosophy depends entirely on such second-hand sources. Scholars distinguish between direct quotations from his lost book, preserved as fragments primarily by the commentator Simplicius, and the broader category of testimonia, which encompasses paraphrases, summaries, and critiques from the doxographical tradition. The standard modern edition organizing this material is found in Diels and Kranz's Die Fragmente der Vorsokratiker. The significance of Anaxagoras's thought, as documented through these testimonia, is considerable. His introduction of a cosmic ordering intelligence directly influenced Socrates and Plato, while his intricate theories of matter and causation became a major focus for Aristotle's critical analysis. His mechanistic and naturalistic explanations of astronomical and meteorological phenomena solidified his reputation as a pivotal and radical figure in Presocratic philosophy, marking a decisive turn toward rationalist inquiry into the natural world.
 
 ## Text
 

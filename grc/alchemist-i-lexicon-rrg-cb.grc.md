@@ -5,6 +5,7 @@ author: Alchemist I
 eul_wid: rrg-cb
 eul_aid: rrg
 canonical: "https://eulogikon.org/works/alchemist-i-lexicon-rrg-cb"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alchemist I
 
 **eul_wid:** `rrg-cb` · [HTML page](https://eulogikon.org/works/alchemist-i-lexicon-rrg-cb)
-
-The Alchemical Lexicon is a Greek glossary of alchemical terms arranged alphabetically, attributed to the pseudonymous author known as Alchemist I. It consists of entries defining the technical terminology, symbols, substances, and processes of Greco-Egyptian alchemy, such as minerals, apparatus, and stages of transmutation, often explaining the symbolic language characteristic of the field. The work provides definitions for specialized vocabulary concerning materials and operations, decodes metaphorical terms, and focuses on the properties and transformations of metals, minerals, and alloys. It serves as a key to the deliberately obscured language of alchemical texts. The work survives within the Greek alchemical corpus preserved in medieval manuscripts, primarily the 10th- or 11th-century Codex Marcianus Graecus 299 in Venice. Its authorship and precise date of composition remain uncertain and are reconstructed through analysis of the broader corpus. The lexicon standardized alchemical terminology for later Byzantine and Arabic practitioners and remains a crucial reference for modern scholars interpreting opaque procedural texts. It provides foundational evidence for the study of ancient chemistry and the history of science.
 
 ## Text
 

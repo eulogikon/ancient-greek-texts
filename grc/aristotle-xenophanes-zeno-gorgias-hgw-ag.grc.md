@@ -5,6 +5,7 @@ author: Aristotle
 eul_wid: hgw-ag
 eul_aid: hgw
 canonical: "https://eulogikon.org/works/aristotle-xenophanes-zeno-gorgias-hgw-ag"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristotle
 
 **eul_wid:** `hgw-ag` · [HTML page](https://eulogikon.org/works/aristotle-xenophanes-zeno-gorgias-hgw-ag)
-
-On Xenophanes, Zeno, Gorgias is a lost philosophical treatise by Aristotle. The work systematically examined the doctrines of three pre-Socratic thinkers: Xenophanes of Colophon, Zeno of Elea, and Gorgias of Leontini. It served as a crucial doxographical source, particularly for reconstructing the arguments of Gorgias from his own work On Non-Being. The treatise analyzed major themes from its subjects, including critiques of Eleatic monism concerning the nature of the One and plurality, Gorgias’s radical theses on being and non-being and the impossibility of knowledge and communication, and broader sophistic challenges to epistemology and reliable discourse. The treatise survives only in fragments and testimonia. Key evidence for its content comes from later authors such as Sextus Empiricus and the pseudo-Aristotelian work On Melissus, Xenophanes, and Gorgias, which is believed to paraphrase Aristotle’s original text. This lost work is indispensable for the modern understanding of pre-Socratic and Sophistic philosophy. It significantly shaped the ancient historiography of philosophy through figures like Diogenes Laertius and remains central to scholarly reconstructions of Gorgias’s thought.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Londoner on Medicine Anonymous
 eul_wid: nzm-aa
 eul_aid: nzm
 canonical: "https://eulogikon.org/works/londoner-medicine-anonymous-fragments-nzm-aa"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Londoner on Medicine Anonymous
 
 **eul_wid:** `nzm-aa` · [HTML page](https://eulogikon.org/works/londoner-medicine-anonymous-fragments-nzm-aa)
-
-The Anonymous Londinensis is a fragmentary medical papyrus roll written in Koine Greek and dated to the late first century CE. Preserved in a single, damaged copy, the work is structured as a compilation of three distinct parts: a series of medical definitions, an extensive doxographical survey concerning the causes of disease, and a collection of pharmacological recipes. The most historically significant section is the doxography, which systematically records the theories of earlier physicians and philosophers, including Hippocrates, Plato, and Aristotle, on the origins of illness. Modern scholarship suggests this central survey is likely an epitome of a lost medical history written by Aristotle's pupil Menon. Compiled as a practical reference for students or practitioners, the text exemplifies the Roman Imperial period's tendency to systematize earlier Greek knowledge. Despite its incomplete state, with both the beginning and end lost and the text riddled with lacunae, the Anonymous Londinensis remains a vital source for reconstructing pre-Hippocratic medical debates and understanding the profound philosophical underpinnings of early Greek medical theory.
 
 ## Text
 

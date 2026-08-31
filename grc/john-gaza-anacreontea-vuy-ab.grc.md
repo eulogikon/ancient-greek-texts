@@ -5,6 +5,7 @@ author: John of Gaza the Grammarian and Poet
 eul_wid: vuy-ab
 eul_aid: vuy
 canonical: "https://eulogikon.org/works/john-gaza-anacreontea-vuy-ab"
+lang: grc
 period: Late Antique
 dialect: Christian Koine
 domain: Grammar
@@ -19,24 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** John of Gaza the Grammarian and Poet
 
 **eul_wid:** `vuy-ab` · [HTML page](https://eulogikon.org/works/john-gaza-anacreontea-vuy-ab)
-
-Overview The Anacreontea is a collection of 63 short lyric poems that imitate the style of the archaic Greek poet Anacreon. Composed by various authors over several centuries, from the Hellenistic period to late antiquity, the poems celebrate the pleasures of wine, love, and the symposium. The collection was erroneously attributed to Anacreon himself until the 19th century. It is preserved in a single 10th-century manuscript, the Palatinus Graecus 23, which forms part of the Palatine Anthology.
-
-Content The poems employ primarily anacreontic meters and explore characteristic themes:
-
-The celebration of wine and symposia.
-
-Erotic desire and the pursuit of love.
-
-A carpe diem ethos, emphasizing present enjoyment.
-
-Light-hearted treatments of mythological figures like Eros and Dionysus.
-
-Reflections on the brevity of youth and life.
-
-Transmission The survival of the Anacreontea depends entirely on its inclusion in Book 11 of the 10th-century Palatine Anthology. Prior to this compilation, the poems likely circulated in smaller collections or educational texts, separate from the authentic fragments of Anacreon’s work.
-
-Significance The collection profoundly shaped the post-classical reception of Anacreon. During the Renaissance, it was widely accepted as authentic, cementing the poet’s reputation as a convivial hedonist and inspiring a major European tradition of “Anacreontic” verse, influencing poets such as the French Pléiade and Abraham Cowley in England.
 
 ## Text
 

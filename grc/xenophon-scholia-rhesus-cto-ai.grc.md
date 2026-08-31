@@ -5,6 +5,7 @@ author: Xenophon Scholia
 eul_wid: cto-ai
 eul_aid: cto
 canonical: "https://eulogikon.org/works/xenophon-scholia-rhesus-cto-ai"
+lang: grc
 period: Classical
 dialect: Mixed Dialects
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Xenophon Scholia
 
 **eul_wid:** `cto-ai` · [HTML page](https://eulogikon.org/works/xenophon-scholia-rhesus-cto-ai)
-
-The Scholia on Euripides' Rhesus is a corpus of ancient grammatical and exegetical commentary on the tragedy of that name, traditionally attributed to Euripides. Compiled under the name of the grammarian Xenophon, it aggregates notes from earlier Hellenistic and Roman scholars, offering a multifaceted analysis of the play. The commentary encompasses glosses on obscure vocabulary, explanations of mythological and historical references, observations on textual variants and conjectures, and notes on dramaturgy and metrical structure. It occasionally provides literary interpretation, including assessments of plot and character that frequently draw comparisons with the narrative of Homer's Iliad. Transmitted through medieval manuscripts, with the 14th-century codex Vaticanus Graecus 909 being a principal witness, the scholia represent a compilation of earlier, now lost, critical traditions, resulting in textual variations among the surviving copies. As a key document of ancient scholarship, this work is an indispensable resource for philologists editing the text of Rhesus and for historians of classical literary criticism, preserving valuable fragments of lost grammatical literature and insights into the ancient reception of Euripidean drama.
 
 ## Text
 

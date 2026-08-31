@@ -5,6 +5,7 @@ author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-ai
 eul_aid: bww
 canonical: "https://eulogikon.org/works/hippocrates-airs-waters-places-bww-ai"
+lang: grc
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hippocrates and the Hippocratic Corpus
 
 **eul_wid:** `bww-ai` · [HTML page](https://eulogikon.org/works/hippocrates-airs-waters-places-bww-ai)
-
-On Airs, Waters, Places is a foundational medical treatise from the Hippocratic Corpus, a collection of ancient Greek medical works attributed to the physician Hippocrates of Cos. Written in Ionic Greek in the late fifth century BCE, the complete text is structured in 28 chapters and stands as a prime example of the shift toward rational, naturalistic medicine during the Classical period. The work is divided into two main parts. The first provides a practical guide for a physician arriving in a new city, instructing them to study the local climate, water sources, and topography, as these environmental factors are presented as the primary determinants of public health. The second part expands this into a comparative ethnography, contrasting the peoples of Asia and Europe. It argues that climate and geography shape not only physical health but also national character and political institutions, reflecting contemporary Greek ideologies following the Persian Wars. Modern scholars view the treatise as a core, early text of the Hippocratic Corpus, though its specific authorship is uncertain and it was likely written by a contemporary of Hippocrates rather than by him personally. Its theories of environmental determinism were profoundly influential, affecting medical, geographical, and anthropological thought for centuries. The text survives intact through medieval manuscripts as part of the larger Hippocratic collection.
 
 ## Text
 

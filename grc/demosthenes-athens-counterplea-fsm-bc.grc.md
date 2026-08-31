@@ -5,6 +5,7 @@ author: Demosthenes of Athens
 eul_wid: fsm-bc
 eul_aid: fsm
 canonical: "https://eulogikon.org/works/demosthenes-athens-counterplea-fsm-bc"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Demosthenes of Athens
 
 **eul_wid:** `fsm-bc` · [HTML page](https://eulogikon.org/works/demosthenes-athens-counterplea-fsm-bc)
-
-Against Lacritus, also known as Against the Counterplea of Lacritus, is a forensic oration from the 340s BCE attributed to the Athenian statesman Demosthenes. The speech was composed for a private lawsuit concerning a defaulted maritime loan. The plaintiff, an unnamed Athenian creditor, brings suit against Lacritus, who acts as the legal representative for his deceased brother, Artemon, and another man, both from Phaselis. The borrowers had taken a loan to finance a trading voyage to the Black Sea but failed to repay it. Lacritus has entered a formal counterplea, a procedural objection asserting that the contract stipulated for any disputes to be settled by arbitration in Phaselis, not Athens. The entire speech constitutes the plaintiff's argument against this jurisdictional challenge, insisting the case properly belongs before the Athenian maritime courts as per Athenian commercial law.
-
-The oration provides a detailed view of fourth-century Athenian commerce and legal practice. Its most notable feature is the extensive quotation of the original loan contract, which specifies the terms of the high-risk venture, including a cargo of three thousand jars of wine from Mende, the interest rate, and the required return voyage to Athens. This document offers a rare and precise record of ancient Athenian business agreements and maritime finance. The speech also catalogs the alleged bad faith and litigious reputation of merchants from Phaselis, whom the plaintiff portrays as habitual defaulters. While transmitted among the works of Demosthenes, some stylistic variations have led scholars to debate its authorship, suggesting it may be a client speech written by Demosthenes or perhaps composed by another contemporary logographer. Regardless of its precise authorship, the text remains a crucial source for understanding Athenian contract law, legal procedure, and the mechanisms of maritime trade in the classical period.
 
 ## Text
 

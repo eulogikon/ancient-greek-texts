@@ -5,6 +5,7 @@ author: Pindar Commentary
 eul_wid: ppu-ac
 eul_aid: ppu
 canonical: "https://eulogikon.org/works/pindar-comm-nemean-isthmian-ppu-ac"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Pindar Commentary
 
 **eul_wid:** `ppu-ac` · [HTML page](https://eulogikon.org/works/pindar-comm-nemean-isthmian-ppu-ac)
-
-The Scholia on the Nemean and Isthmian Odes of Pindar constitute an ancient compilation of Greek scholarly commentary on the victory odes of the poet Pindar. This collection is not a unified work by a single author but rather an aggregation of explanatory notes, or scholia, compiled over many centuries from the Hellenistic period through the Byzantine era. It comprises 893 individual commentary passages that function as a guide to Pindar's complex poetry, providing explanations of mythological references, historical context for the athletic victories celebrated, definitions of obscure words, and analyses of meter and grammar. The scholia survive indirectly, preserved in the margins and within the text of medieval manuscripts of Pindar's odes, the oldest of which date from the 10th century CE or later. Modern scholarship regards the scholia as a layered text, in which notes from renowned Hellenistic scholars are intermingled with later additions and abbreviations. Consequently, only a portion of the original ancient commentary is extant, often in a compressed form. This compilation was likely created for students and scholars engaged in the advanced study of Greek literature, reflecting a continuous pedagogical tradition from antiquity through the Middle Ages. Today, these notes serve as a primary source for understanding the ancient reception of Pindar and remain an indispensable tool for modern editors and interpreters of his poetry.
 
 ## Text
 

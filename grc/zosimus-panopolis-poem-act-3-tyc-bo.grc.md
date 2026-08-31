@@ -5,6 +5,7 @@ author: Zosimus of Panopolis
 eul_wid: tyc-bo
 eul_aid: tyc
 canonical: "https://eulogikon.org/works/zosimus-panopolis-poem-act-3-tyc-bo"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Zosimus of Panopolis
 
 **eul_wid:** `tyc-bo` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-poem-act-3-tyc-bo)
-
-The Poem of Zosimus is a seminal Greek alchemical treatise attributed to Zosimus of Panopolis, composed around 300 CE. Written in Koine Greek, the work is structured as a series of instructional sections known as Acts, of which Act 3 forms an integral part. This section exemplifies the treatise's characteristic fusion of practical laboratory technique and profound spiritual allegory. It presents a vision of a priest performing sacred mysteries, described in terms of a ritualistic process intended to "bloody the bodies, give eyes to the eyeless, and raise the dead," a clear metaphor for the alchemical operations of dissolution, coloration, and revival of metals. The narrative continues with a symbolic sacrifice and dismemberment, instructions laden with esoteric meaning pointing to stages of purification and transformation.
-
-The text survives within a larger, fragmentary corpus preserved in Byzantine manuscripts, and the precise original architecture of the complete Poem remains uncertain. Zosimus wrote in Panopolis, Egypt, a major intellectual center where Greek philosophical traditions converged with Egyptian craft knowledge and temple practices. His work is directed toward fellow initiates, reflecting a sophisticated syncretism of Platonic, Gnostic, and Hermetic thought. In this worldview, the physical transmutation of substances—such as employing a "divine water" solvent or achieving metallic coloration—serves as a direct analogue for the soul's spiritual purification and ascent toward divine knowledge. Act 3, with its vivid dreamlike imagery and encoded procedural language, stands as a quintessential example of how Zosimus embedded operational alchemy within a framework of mystical revelation.
 
 ## Text
 

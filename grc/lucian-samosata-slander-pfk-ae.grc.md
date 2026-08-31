@@ -5,6 +5,7 @@ author: Lucian of Samosata
 eul_wid: pfk-ae
 eul_aid: pfk
 canonical: "https://eulogikon.org/works/lucian-samosata-slander-pfk-ae"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lucian of Samosata
 
 **eul_wid:** `pfk-ae` · [HTML page](https://eulogikon.org/works/lucian-samosata-slander-pfk-ae)
-
-On Not Easily Believing Slander is a rhetorical oration by the second-century CE author Lucian of Samosata. Composed in Attic Greek, this 28-part speech offers a systematic and earnest ethical treatise on the grave social dangers of credulity. Lucian opens by framing ignorance as a profound evil that obscures truth and leads humanity to stumble blindly through life, a theme he illustrates with references to the catastrophic familial curses of Greek tragedy. The oration’s central argument is a detailed condemnation of the uncritical acceptance of malicious gossip. Lucian meticulously analyzes the personal and civic ruin caused by slander, explores the psychological vulnerabilities that make individuals prone to believe false accusations, and exposes the base motives characteristically driving the slanderer. The work culminates in practical advice, urging the suspension of judgment and a commitment to fair investigation before accepting any damaging report. Transmitted intact through medieval manuscripts as part of Lucian’s larger corpus, the oration is considered a significant example of popular moral philosophy from the Second Sophistic period. It was crafted for an educated, Greek-speaking audience, demonstrating sophisticated rhetorical technique while providing direct instruction on preserving social harmony and personal integrity. In contrast to Lucian’s more famously ironic satires, this work maintains a predominantly serious tone, blending his characteristic sharpness with direct ethical exhortation.
 
 ## Text
 

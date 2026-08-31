@@ -5,6 +5,7 @@ author: Mnaseas of Patara
 eul_wid: kpu-aa
 eul_aid: kpu
 canonical: "https://eulogikon.org/works/mnaseas-patara-europe-kpu-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine (frg)
 domain: Geography
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Mnaseas of Patara
 
 **eul_wid:** `kpu-aa` · [HTML page](https://eulogikon.org/works/mnaseas-patara-europe-kpu-aa)
-
-The Fragments on Europe constitutes the surviving portions of a geographical treatise by the Hellenistic scholar Mnaseas of Patara, a pupil of Eratosthenes. Composed in Greek prose around 200 BCE, the work was originally part of a larger, multi-volume descriptive guide to the known world. Its text is now lost in its complete form, preserved only in 59 brief fragments quoted by later authors such as Strabo, Hesychius of Alexandria, and Harpocration. These remnants reveal a work that blended catalogues of European places—including cities, rivers, mountains, and peoples—with etiological myths explaining their origins and names. For instance, one fragment attributes the invention of the chariot to an Athena described as a daughter of Poseidon, thereby explaining her epithet "Hippia." This fusion of emerging empirical geography with traditional storytelling is characteristic of the Hellenistic literary genre of periegesis, or descriptive circuit. The original work was likely intended for an educated, curious audience interested in the marvels and legendary foundations associated with distant lands. Though its full structure is irrecoverable, the collected fragments provide valuable insight into ancient scholarly methods of connecting physical landscape to cultural memory and myth.
 
 ## Text
 

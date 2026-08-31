@@ -5,6 +5,7 @@ author: Dionysius of Corinth
 eul_wid: qrw-aa
 eul_aid: qrw
 canonical: "https://eulogikon.org/works/dionysius-corinth-christian-charity-qrw-aa"
+lang: grc
 period: Roman
 dialect: Christian Koine
 domain: Epic
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Dionysius of Corinth
 
 **eul_wid:** `qrw-aa` · [HTML page](https://eulogikon.org/works/dionysius-corinth-christian-charity-qrw-aa)
-
-Dionysius of Corinth, a bishop active around 170 CE, is known exclusively as an author of pastoral letters within the early Christian church; no verse composition titled On Christian Charity and Tradition is attested among his genuine works. His literary corpus, which survives only in fragments and descriptions preserved by the historian Eusebius in the fourth book of his Ecclesiastical History, consists entirely of epistles addressed to various Christian communities. These letters, sent to churches in locations such as Lacedaemon, Athens, Nicomedia, and Gortyna, addressed practical and doctrinal concerns of the second-century church. Their content included discussions on marriage and chastity, exhortations to repentance, and polemics against emerging heresies, notably Marcionism. Dionysius’s epistolary activity provides valuable historical evidence for the networks of communication, theological debate, and pastoral authority that characterized early Christian ecclesiastical organization, significantly informing later church historians' understanding of this formative period.
 
 ## Text
 

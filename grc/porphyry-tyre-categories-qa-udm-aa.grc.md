@@ -5,6 +5,7 @@ author: Porphyry of Tyre
 eul_wid: udm-aa
 eul_aid: udm
 canonical: "https://eulogikon.org/works/porphyry-tyre-categories-qa-udm-aa"
+lang: grc
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Porphyry of Tyre
 
 **eul_wid:** `udm-aa` · [HTML page](https://eulogikon.org/works/porphyry-tyre-categories-qa-udm-aa)
-
-On Aristotle's Categories, Exposition by Question and Answer is a philosophical commentary by the Neoplatonist Porphyry of Tyre, composed in Greek around 268–270 CE. Written in the form of a didactic dialogue, it offers a meticulous, line-by-line exegesis of Aristotle's foundational logical treatise, the Categories. The work is systematically divided into 837 sections, each crafted to elucidate specific passages and resolve interpretative difficulties within Aristotle's often dense text. Modern scholarship views it primarily as an advanced pedagogical instrument, designed to clarify Aristotelian logic for students within the Neoplatonic school. Its enduring significance lies in its function as a crucial bridge, integrating Aristotelian logical theory with the broader framework of Platonic metaphysics that characterized later antique philosophy. The commentary survives in its complete form through a robust Greek manuscript tradition. It exerted considerable influence on late antique and Byzantine education and was subsequently translated into Syriac and Arabic, where it became a pivotal text for the study and transmission of Aristotelian logic in the Islamic world.
 
 ## Text
 

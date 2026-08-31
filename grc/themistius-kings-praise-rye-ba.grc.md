@@ -5,6 +5,7 @@ author: Themistius the Philosopher
 eul_wid: rye-ba
 eul_aid: rye
 canonical: "https://eulogikon.org/works/themistius-kings-praise-rye-ba"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Themistius the Philosopher
 
 **eul_wid:** `rye-ba` · [HTML page](https://eulogikon.org/works/themistius-kings-praise-rye-ba)
-
-On the King's Love of Praise is a political oration by the fourth-century philosopher and statesman Themistius. Composed in Attic Greek and delivered before the Roman emperor Theodosius I in Constantinople around 384 CE, the work belongs to the genre of royal addresses, which traditionally blended panegyric with counsel for the ruler. Its central thesis draws a deliberate distinction between two forms of royal ambition. Themistius argues that a sovereign should not be a mere lover of praise, a disposition that renders him susceptible to the flattery of courtiers, but should instead aspire to be a lover of genuine good repute, earning honor through virtuous actions that benefit the state and its citizens. The oration, which survives complete in 31 sections within medieval manuscripts and is cataloged as Oration 8 in modern editions, is considered a significant document of late antique political thought. It reflects the intricate dynamics of the imperial court following Theodosius's military triumphs and exemplifies Themistius's enduring project of employing classical Greek philosophy, particularly concepts from Plato and Aristotle, to advise a Christian Roman emperor. Through this synthesis, he promotes ideals of philosophical kingship, civic virtue, and the essential role of the philosopher as a truthful counselor to power.
 
 ## Text
 

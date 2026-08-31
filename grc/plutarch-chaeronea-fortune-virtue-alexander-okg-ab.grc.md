@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-ab
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-fortune-virtue-alexander-okg-ab"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-ab` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-fortune-virtue-alexander-okg-ab)
-
-On the Fortune or Virtue of Alexander, Discourse A is a rhetorical essay by the Greek philosopher and biographer Plutarch, composed in Attic Greek during the early 2nd century CE. It forms a complete work within his larger collection of ethical treatises known as the Moralia. In this text, Plutarch directly engages with a central debate of his era: whether the world-altering success of Alexander the Great was the product of mere fortune or the result of his personal excellence and virtue. Plutarch argues forcefully for the primacy of character, presenting Alexander not as a passively fortunate conqueror but as a philosopher in arms, whose cultivated virtues of self-control, magnanimity, rational leadership, and strategic wisdom were the genuine causes of his unprecedented achievements.
-
-The essay is structured as a series of interconnected arguments, often framed as rebuttals to hypothetical critics who would attribute Alexander’s empire to chance. Plutarch systematically compares Alexander’s documented actions and decisions to the core teachings of various philosophical schools, notably Stoicism, suggesting that the king embodied and enacted philosophical ideals more effectively than many who merely theorized about them. Modern scholarship interprets this work as a sophisticated piece of cultural argumentation from the period known as the Second Sophistic. It employs the celebrated figure of Alexander to assert the enduring power and value of traditional Greek education and cultivated character within the expansive context of the Roman Empire, functioning simultaneously as moral philosophy and cultural polemic.
-
-The text survives intact through the medieval manuscript tradition of Plutarch’s Moralia, with the oldest extant copies dating from the 10th century CE. The modern editorial convention of dividing the discourse into 106 distinct passages or chapters is a later development for ease of reference and study. This discourse has exercised a profound influence on the Western reception of Alexander the Great, significantly shaping later European perceptions of him as a civilizing force and a paramount model of the philosopher-king ideal.
 
 ## Text
 

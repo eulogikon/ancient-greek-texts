@@ -5,6 +5,7 @@ author: Aristides the Orator
 eul_wid: qwm-ah
 eul_aid: qwm
 canonical: "https://eulogikon.org/works/aristides-orator-leuctrian-b-thebans-first-qwm-ah"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristides the Orator
 
 **eul_wid:** `qwm-ah` · [HTML page](https://eulogikon.org/works/aristides-orator-leuctrian-b-thebans-first-qwm-ah)
-
-The Leuctrian B (In Favor of Thebans First) is a declamatory oration composed in Attic Greek by the orator Aelius Aristides around the middle of the second century CE. It is a rhetorical exercise, or meletē, set in a historical context following the Theban victory over Sparta at the Battle of Leuctra in 371 BCE. The speech is crafted as an address by a Theban ambassador to the Athenian assembly, presenting a detailed legal and ethical argument for why Athens should form an alliance with Thebes against Spartan power. The oration systematically contends that Theban military actions constituted a just response to prior Spartan aggression and occupation, portrays Theban leadership as a legitimate force for Greek freedom, and seeks to persuade Athens that such a political and military partnership aligns with its own strategic interests.
-
-As a complete text preserved in medieval manuscripts, the work is a prominent example of the declamatory practices of the Second Sophistic period. Modern scholarship generally interprets the oration not as a commentary on contemporary Roman politics but as an advanced display of rhetorical artistry and classical erudition, or paideia, intended for a sophisticated audience. It is considered a demonstration of Aristides’ command of historical argumentation and the Attic prose style, using a critical juncture from the classical Greek past to examine perennial themes of justice, hegemony, and the dynamics of alliance. Some analyses suggest that such deep engagement with historical precedent allowed Greek intellectuals living under Roman dominion to reflect indirectly on concepts of autonomy, imperial power, and moral leadership.
 
 ## Text
 

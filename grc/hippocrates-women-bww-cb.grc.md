@@ -5,6 +5,7 @@ author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-cb
 eul_aid: bww
 canonical: "https://eulogikon.org/works/hippocrates-women-bww-cb"
+lang: grc
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hippocrates and the Hippocratic Corpus
 
 **eul_wid:** `bww-cb` · [HTML page](https://eulogikon.org/works/hippocrates-women-bww-cb)
-
-On Women is an ancient Greek medical treatise from the Hippocratic Corpus, a collection of works traditionally attributed to Hippocrates but composed by various authors in the 5th or 4th century BCE. Written in Ionic Greek, it functions as a practical manual dedicated exclusively to women's health, systematically detailing symptoms, diagnoses, and therapeutic interventions across 227 passages. Its scope encompasses a wide range of gynecological and obstetric conditions, including menstrual disorders, infertility, pregnancy, and childbirth.
-
-A foundational concept within the treatise is the theory of the wandering womb, which posited that the uterus could move within the body and cause various ailments, such as a sensation of suffocation, by exerting pressure on other organs. Therapeutic strategies were designed to correct this displacement and restore bodily equilibrium, employing a repertoire of herbal potions, pessaries, fumigations, and bloodletting. The text operates within the prevailing humoral framework of its time, emphasizing the critical importance of the balanced flow of bodily fluids, with particular attention to the regular discharge of menstrual blood as a cornerstone of female health.
-
-The work's comprehensive focus on reproductive health and uterine pathology offers significant insight into the social values of ancient Greece, where a woman's primary role and social worth were closely tied to her capacity for motherhood. Preserved through medieval manuscript copies of the larger Hippocratic collection, On Women served as a cornerstone for gynecological theory and practice in Western medicine for many centuries, profoundly influencing subsequent medical thought.
 
 ## Text
 

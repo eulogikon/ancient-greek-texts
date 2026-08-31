@@ -5,6 +5,7 @@ author: Porphyry of Tyre
 eul_wid: udm-ai
 eul_aid: udm
 canonical: "https://eulogikon.org/works/porphyry-tyre-homeric-questions-udm-ai"
+lang: grc
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Porphyry of Tyre
 
 **eul_wid:** `udm-ai` · [HTML page](https://eulogikon.org/works/porphyry-tyre-homeric-questions-udm-ai)
-
-The Homeric Questions is a work of scholarly commentary by the third-century Neoplatonist philosopher Porphyry of Tyre. Written in Greek, it addresses specific problems in Homer's Iliad, such as obscure words, narrative inconsistencies, and seemingly implausible myths. The work survives only in fragments; the most substantial portion is a manuscript containing 127 short passages or "questions," identified as Book I of a larger collection. For each problem, Porphyry provides a solution, blending precise philological analysis with allegorical interpretation to uncover deeper philosophical and ethical meanings beneath the surface of the poetry. As exemplified in the opening discussion of the term "emporos," Porphyry meticulously distinguishes its Homeric usage—denoting a passenger on another's ship—from later Attic conventions, while also exploring its etymological connection to words for passage or crossing. This approach is characteristic of the work, which moves from lexical precision to broader conceptual insights.
-
-Modern scholars interpret this treatise as part of a long tradition of defending Homer's value for education and philosophy. Porphyry, a student of Plotinus, sought to demonstrate that Homer's epics were not only great poetry but also repositories of philosophical truth when read correctly. The intended audience was likely advanced students of literature and philosophy. The fragmentary text that remains, often designated by scholars as "Version X," is thought to be a later compilation of Porphyry's notes. Despite its incomplete state, it remains a crucial source for understanding the methods of ancient Homeric scholarship and the application of Neoplatonic allegorical exegesis to classical literary texts.
 
 ## Text
 

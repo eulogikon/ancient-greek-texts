@@ -5,6 +5,7 @@ author: Zeno of Tarsus
 eul_wid: kve-aa
 eul_aid: kve
 canonical: "https://eulogikon.org/works/zeno-tarsus-stoic-succession-kve-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine (frg)
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Zeno of Tarsus
 
 **eul_wid:** `kve-aa` · [HTML page](https://eulogikon.org/works/zeno-tarsus-stoic-succession-kve-aa)
-
-The Fragments on Stoic Succession was a philosophical work composed in Koine Greek by Zeno of Tarsus, a scholarch of the Stoic school in Athens, during the 2nd century BCE. As a text belonging to the popular Hellenistic genre of "successions" literature, its primary purpose was to document the official leadership lineage and intellectual heritage of the Stoic philosophical tradition. The work specifically traced the direct line of succession from the school's founder, Zeno of Citium, through his immediate successors, including Cleanthes and Chrysippus. The original text is now entirely lost, with only its title and an indication that it contained five sections surviving through later references. Modern scholarship classifies it as a doxography, a collection of biographical sketches and doctrinal summaries intended to establish the school's authoritative orthodoxy, particularly following the comprehensive systematization of Stoic thought by Chrysippus. It was likely composed for an audience of Stoic adherents and educated Hellenistic readers with an interest in philosophical history. Although the work itself has not endured, the succession genre in which it participated was profoundly influential, serving as a vital source for later biographers and doxographers such as Diogenes Laërtius, whose writings preserve much of the extant information on the early leaders of Stoicism.
 
 ## Text
 

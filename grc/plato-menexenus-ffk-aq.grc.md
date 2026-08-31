@@ -5,6 +5,7 @@ author: Plato of Athens
 eul_wid: ffk-aq
 eul_aid: ffk
 canonical: "https://eulogikon.org/works/plato-menexenus-ffk-aq"
+lang: grc
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plato of Athens
 
 **eul_wid:** `ffk-aq` · [HTML page](https://eulogikon.org/works/plato-menexenus-ffk-aq)
-
-The Menexenus is a short philosophical dialogue by Plato, written in Attic Greek. It opens with Socrates encountering the young Athenian Menexenus, who has come from the council chamber where officials are selecting an orator to deliver the annual public funeral speech for the city's war dead. Socrates claims to have learned a suitable oration from Aspasia, the companion of the statesman Pericles, and proceeds to recite the entire speech from memory. The work thus consists of a brief framing conversation, the lengthy funeral oration itself, and a short concluding remark.
-
-The recited speech meticulously follows the conventional structure of the Athenian epitaphios logos, or funeral oration. It praises the virtuous ancestry of the Athenians, glorifies their military history and civic ideals, offers consolation to the living, and exhorts the survivors to honorable conduct. Modern scholars generally date the composition to the period after 386 BCE, as the speech references a peace with Persia that corresponds to the King's Peace treaty of that year. The dialogue is widely interpreted as a parody and a critique of Athenian patriotic rhetoric. By having Socrates deliver a polished, politically expedient speech he attributes to another, Plato satirizes how such public orations often distort historical truth for ideological effect, contrasting their rhetorical flourishes with the substance of genuine philosophical inquiry.
-
-The Menexenus survives in full through the medieval manuscript tradition of Plato's works. Although its authenticity was occasionally doubted in antiquity, modern scholarship accepts it as a genuine, albeit minor, Platonic composition that provides a distinctive perspective on the philosopher's engagement with the political culture and public discourse of Athens.
 
 ## Text
 

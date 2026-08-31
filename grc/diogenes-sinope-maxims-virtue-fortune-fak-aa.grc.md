@@ -5,6 +5,7 @@ author: Diogenes of Sinope
 eul_wid: fak-aa
 eul_aid: fak
 canonical: "https://eulogikon.org/works/diogenes-sinope-maxims-virtue-fortune-fak-aa"
+lang: grc
 period: Classical
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Diogenes of Sinope
 
 **eul_wid:** `fak-aa` · [HTML page](https://eulogikon.org/works/diogenes-sinope-maxims-virtue-fortune-fak-aa)
-
-The Cynic Maxims on Virtue and Fortune is a collection of philosophical sayings attributed to Diogenes of Sinope, the fourth-century BCE founder of the Cynic school. Preserved only in fragmentary excerpts within later works, these maxims distill the core Cynic ethical doctrine into concise, provocative statements. Written in Attic Greek and presented in a dialogic format, the text champions virtue as the sole good and advocates for a life of radical self-sufficiency achieved through rigorous ascetic training. It systematically rejects dependence on fortune, wealth, pleasure, and social status, portraying them as sources of enslavement. The maxims instruct the practitioner to find contentment in satisfying only basic natural needs, to endure physical hardship, and to cultivate a mental independence that renders external circumstances irrelevant. While no writings of Diogenes survive directly, this collection, likely compiled centuries after his death, represents a portable summation of his teachings intended to guide individuals toward a life of freedom and moral integrity.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Rhetorical Treatise Anonymous
 eul_wid: rhg-am
 eul_aid: rhg
 canonical: "https://eulogikon.org/works/anon-rhet-treatise-figures-speech-rhg-am"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Rhetorical Treatise Anonymous
 
 **eul_wid:** `rhg-am` · [HTML page](https://eulogikon.org/works/anon-rhet-treatise-figures-speech-rhg-am)
-
-On the Figures of Speech is an anonymous Greek rhetorical treatise that functions as a technical handbook dedicated to the systematic classification and explanation of the various figures of speech used in oratory. The work comprises fifty-one passages, each treating a specific figure or a related group, and belongs to the tradition of Hellenistic and later rhetorical progymnasmata designed for pedagogical use. Its primary content involves the definition of rhetorical figures, the explanation of their role in the stylistic enhancement of oratory through deliberate linguistic patterning, and the pedagogical transmission of this technical knowledge. The author explicitly positions the treatise as a third methodological approach, seeking to avoid the excesses or omissions of prior compilers by following the authoritative system of Hermogenes of Tarsus while reserving the right to add supplementary material separately.
-
-The treatise survives through the medieval manuscript tradition of Greek rhetorical texts, where it is often compiled alongside the works of authors like Hermogenes. Its preservation as a discrete unit of fifty-one passages indicates its circulation as a standard technical manual within Byzantine educational contexts, though its precise relationship to other rhetorical collections remains unclear. While its direct influence is untraceable due to its anonymity, the treatise exemplifies the instrumental role such handbooks played in standardizing rhetorical education. Collectively, these works preserved a common technical vocabulary for stylistic analysis, shaping instruction from the Greco-Roman world through the Byzantine and Renaissance periods.
 
 ## Text
 

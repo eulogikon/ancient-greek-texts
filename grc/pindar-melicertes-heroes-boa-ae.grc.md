@@ -5,6 +5,7 @@ author: Pindar
 eul_wid: boa-ae
 eul_aid: boa
 canonical: "https://eulogikon.org/works/pindar-melicertes-heroes-boa-ae"
+lang: grc
 period: Archaic
 dialect: Literary Doric
 domain: Poetry
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Pindar
 
 **eul_wid:** `boa-ae` · [HTML page](https://eulogikon.org/works/pindar-melicertes-heroes-boa-ae)
-
-The Fragments on Melicertes and Heroes constitute a modern assemblage of poetic excerpts attributed to Pindar, focusing on the hero Melicertes, also known as Palaemon, and related heroic figures. These 942 passages are individual lines extracted from lost poems, likely including paeans and dithyrambs, and survive solely through quotation by later ancient authors such as scholiasts and grammarians. While Pindar's four books of Epinician Odes were preserved in medieval manuscripts, his broader corpus did not survive intact, making these citations compiled by modern editors an essential resource.
-
-The content of the fragments centers on several interconnected themes fundamental to Greek religious and cultural thought. A primary concern is hero cult and foundation myths, particularly detailing the establishment of rituals and the Isthmian Games in honor of Melicertes. Closely linked is the theme of divine metamorphosis, illustrating the transformation of mortals into deities, as seen in the figures of Melicertes and his mother, Ino. The fragments also shed light on the interplay between local and panhellenic religion, tracing how specific Corinthian and Boeotian hero cults were integrated into broader athletic and religious contexts. Furthermore, they explore the connection between athletic glory and divine favor, emphasizing the patronage heroes associated with contest sites could bestow upon victors.
-
-These fragments are of significant scholarly importance for reconstructing the scope and themes of Pindar's lost poetry. His treatment of the Melicertes myth was central to the cultural identity of the Isthmian Games, and his literary rendition established a standard for mythological narrative that served as a key source for later antiquity.
 
 ## Text
 
@@ -376,6 +371,8 @@ Melicertes Ἀθαμαντιάδας, filius Ἰνοῦς.
 
 χρὴ παντὶ λαῷ[ln_5]δεικνύναι· εἰ δέ τις ἀνθρώ‐ [para]ποισι θεόσδοτος ἀτληκηκότας
 
+*[crux: ἀτληκηκότας]*
+
 ### book 42.4
 
 προστύχῃ, ταύταν
@@ -407,6 +404,12 @@ Melicertes Ἀθαμαντιάδας, filius Ἰνοῦς.
 ### book 44*
 
 Ὠγυγιως δὲ εὗρεν ΟΠΟΝΝΗ τη〈λ〉εφανέσσι ΝΠΥΗΑ
+
+*[crux: δὲ]*
+
+*[crux: ΟΠΟΝΝΗ]*
+
+*[crux: ΝΠΥΗΑ]*
 
 ### book 45
 
@@ -1920,6 +1923,10 @@ Melicertes Ἀθαμαντιάδας, filius Ἰνοῦς.
 
 φρίσσων Βορέας ἐπι‐ [para]σπέρχης’ ὠκύαλον τε πόντου [ln_20]ῥ]ιπὰν ἐτάραξε καὶ [ln_20](desunt vv. aut 8 aut 23)[ln_29]........]φεν[[ln_30]⸐.....]ασ⟦ικ⟧μ[ι]ζωννα[ πολ]λὰ μὲν [τ]ὰ πάροιθ[––– [para]δαιδάλλοις’ ἔπεσιν, τὰ δ’ α[–– Ζεὺς οἶδ’, ἐμὲ δὲ πˈρέπει [para]παρθενήϊα μὲν
 
+*[crux: τε πόντου]*
+
+*[crux: ἐτάραξε καὶ]*
+
 ### book 94b.12
 
 φρονεῖν[ln_35]γλώσσᾳ τε λέγεσθαι· ἀνδρὸς δ’ οὔτε γυναικός, ὧν θάλεσσιν ἔγ‐ [para]κειμαι, χρή μ[ε] λαθεῖν ἀοιδὰν
@@ -2212,6 +2219,8 @@ Melicertes Ἀθαμαντιάδας, filius Ἰνοῦς.
 
 ψυχρᾷ φλογί, πρὸς δ’ Ἀφροδί‐ [para]τας ἀτιμασθεὶς ἑλικογˈλεφάρου ἢ περὶ χρήμασι μοχθίζει βιαίως ἢ γυναικείῳ θράσει[ln_10]ψυχρὰν φορεῖται πᾶσαν ὁδὸν θεραπεύων.[ln_10]ἀλλ’ ἐγὼ τᾶς ἕκατι κηρὸς ὣς δαχθεὶς ἕλᾳ ἱρᾶν μελισσᾶν τάκομαι, εὖτ’ ἂν ἴδω
 
+*[crux: φορεῖται]*
+
 ### book 123*.4
 
 παίδων νεόγυιον ἐς ἥβαν· ἐν δ’ ἄρα καὶ Τενέδῳ Πειθώ τ’ ἔναιεν καὶ Χάρις[ln_15]υἱὸν Ἁγησίλα.
@@ -2411,6 +2420,8 @@ Melicertes Ἀθαμαντιάδας, filius Ἰνοῦς.
 ### book 129.4
 
 τοὶ δὲ φορμίγγεσσι τέρπονται, παρὰ δέ σφισιν [para]εὐανθὴς ἅπας τέθαλεν ὄλβος·[ln_10]ὀδμὰ δ’ ἐρατὸν κατὰ χῶρον κίδναται αἰεὶ..θύματα μειγνύντων πυρὶ τηλεφανεῖ[ln_10]〈παντοῖα θεῶν ἐπὶ βωμοῖσ〉 [ ]εοι μοῖρ’ ἔνθα.[ [ ]δώροις βουθυ[ [ ]φαν ἄλοχόν [ [ ]αν·
+
+*[crux: αἰεὶ..θύματα]*
 
 ### book 129
 
@@ -2908,6 +2919,8 @@ Melicertes Ἀθαμαντιάδας, filius Ἰνοῦς.
 
 ἔστι δέ τοι χέκων κᾱκίει καπνός
 
+*[crux: ἔστι δέ τοι χέκων]*
+
 ### book 187
 
 ἥρωες αἰδοίαν ἐμείγνυντ’ ἀμφὶ τράπεζαν θαμά
@@ -3052,6 +3065,8 @@ Melicertes Ἀθαμαντιάδας, filius Ἰνοῦς.
 
 πυθμένα πτίξεις ἀφανοῦς
 
+*[crux: πτίξεις]*
+
 ### book 207.3
 
 σφυρηλάτοις ἀνάγκαις
@@ -3184,6 +3199,8 @@ fort. huc trahendum II30 fr. 3:[ln_1]...[ln_1][ χαλεπώτατοι ἄγαν
 
 πολυχˈρύσοις θαλάμοις βιοτά· τέρπεται δὲ καί τις ἐπ’ οἶδμ’ ἅλιον[ln_5]ναῒ θοᾷ διαστείβων
 
+*[crux: διαστείβων]*
+
 ### book 222.1
 
 Διὸς
@@ -3191,6 +3208,8 @@ fort. huc trahendum II30 fr. 3:[ln_1]...[ln_1][ χαλεπώτατοι ἄγαν
 ### book 222.2
 
 παῖς ὁ χρυσός· κεῖνον οὐ σὴς οὐδὲ κὶς δάπτει, βροτεᾶν φρένα κράτιστον
+
+*[crux: φρένα]*
 
 ### book 222.3
 

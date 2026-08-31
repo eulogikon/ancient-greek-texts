@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-dg
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-laconian-sayings-okg-dg"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-dg` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-laconian-sayings-okg-dg)
-
-The Laconian Sayings, also known as the Sayings of Spartan Women, is a collection of 205 brief anecdotes compiled by the Greek essayist and biographer Plutarch around 100 CE. Written in Attic Greek prose, the work belongs to the popular genre of apophthegmata, or memorable sayings. It presents short, self-contained stories in which Spartan women and girls deliver pithy, often stern remarks. These pronouncements typically respond to events such as the death of a son in battle or questions about Spartan discipline, illustrating core values like extreme patriotism, courage, contempt for cowardice, and the characteristic Spartan brevity known as laconic speech. Composed during the Roman Imperial period, a time of revived Greek interest in its classical past, the collection forms part of Plutarch's larger ethical writings, the Moralia. It reflects a contemporary idealization of Sparta's legendary social order. Modern scholars interpret the sayings not as verbatim historical records but as literary constructs designed to encapsulate the Spartan ethical ideal, particularly the celebrated role of women in shaping warrior citizens. The text survives complete within the manuscript tradition of Plutarch's Moralia and has been influential in perpetuating the later idealized image of Spartan society.
 
 ## Text
 

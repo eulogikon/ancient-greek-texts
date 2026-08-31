@@ -5,6 +5,7 @@ author: Galen of Pergamon
 eul_wid: qmm-dv
 eul_aid: qmm
 canonical: "https://eulogikon.org/works/galen-pergamon-black-bile-qmm-dv"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Galen of Pergamon
 
 **eul_wid:** `qmm-dv` · [HTML page](https://eulogikon.org/works/galen-pergamon-black-bile-qmm-dv)
-
-On Black Bile is a medical treatise composed in Greek by the physician Galen of Pergamon around 170–180 CE. The work presents a systematic examination of black bile, one of the four fundamental humors in ancient medical theory. Galen posits a dual nature for the substance, distinguishing between a natural, beneficial form essential to bodily function and a morbid, pathogenic form responsible for disease. The treatise methodically defines black bile, explains its generation from dietary intake and physiological processes, and catalogs the extensive range of ailments it can produce. These conditions span from skin disorders and ulcers to more severe diseases, including cancer and the mental affliction known as melancholy.
-
-The text survives complete through Byzantine Greek manuscripts and was later translated into Arabic and Latin, securing its influence throughout medieval and early modern medicine. Scholars view the treatise as a component of Galen’s broader endeavor to construct a coherent and authoritative medical system. It is directed at an educated readership with the aim of defending humoral theory against competing medical sects and establishing Galen as the legitimate heir to Hippocratic doctrine. The work synthesizes concepts from Hippocratic writings with Aristotelian philosophy and Galen’s own clinical observations, illustrating how theoretical physiology underpins practical diagnosis and therapeutic intervention.
 
 ## Text
 

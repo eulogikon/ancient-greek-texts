@@ -1,10 +1,11 @@
 ---
 title: Testimonies
 title_greek: Μαρτυρίαι
-author: "Archelaus of Miletus "
+author: Archelaus of Miletus
 eul_wid: byk-aa
 eul_aid: byk
 canonical: "https://eulogikon.org/works/archelaus-miletus-testimonies-byk-aa"
+lang: grc
 period: Classical
 dialect: Ionic
 domain: Philosophy
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μαρτυρίαι*
 
-**Author:** Archelaus of Miletus 
+**Author:** Archelaus of Miletus
 
 **eul_wid:** `byk-aa` · [HTML page](https://eulogikon.org/works/archelaus-miletus-testimonies-byk-aa)
-
-The Testimonies by Archelaus of Miletus is a lost philosophical work, known only by its title and the report that it consisted of a collection of twenty passages. Based on the title and common practices in ancient philosophical literature, it is almost certainly a doxography, a genre dedicated to compiling the opinions and doctrines of earlier thinkers. No direct quotations or descriptions of its specific content survive, leaving its precise themes and the philosophers it covered a matter of inference. It may have addressed subjects typical of such collections, including physics, cosmology, theology, or ethical maxims. The work is completely lost, with no extant fragments and no identifiable manuscript tradition; its existence is attested only through an indirect, unspecified later source. As a potential example of a Hellenistic philosophical handbook, its significance lies in illustrating the period's scholarly methods of organizing and transmitting philosophical history, though any direct influence on later doxographical traditions remains undocumented.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-bl
 eul_aid: bww
 canonical: "https://eulogikon.org/works/hippocrates-fractures-bww-bl"
+lang: grc
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hippocrates and the Hippocratic Corpus
 
 **eul_wid:** `bww-bl` · [HTML page](https://eulogikon.org/works/hippocrates-fractures-bww-bl)
-
-On Fractures is an ancient Greek medical treatise attributed to Hippocrates and his school, composed around 400 BCE. Written in Ionic Greek, it is a practical surgical manual providing systematic, step-by-step instructions for the treatment of bone fractures and joint dislocations. The work covers injuries to bones throughout the body, from the nose and ribs to the arms and legs, with particular attention given to the complex anatomy of the upper arm. Its 49 chapters offer detailed guidance on diagnosis, the mechanical reduction of broken or displaced bones, the application of splints and bandages, and the subsequent management of patient aftercare.
-
-As a core text of the Hippocratic Corpus, it exemplifies the emergence of medicine as a distinct technical profession in Classical Greece, emphasizing empirical observation, manual skill, and a naturalistic approach to healing. Modern scholars interpret it as a foundational teaching manual for practicing physicians. The treatise survives intact through medieval Greek manuscripts and exerted a profound influence on surgical theory and practice from antiquity through the Renaissance, transmitted reliably as a complete and authoritative work over the centuries.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Erotic Narrative Anonymous
 eul_wid: skw-au
 eul_aid: skw
 canonical: "https://eulogikon.org/works/erotica-anon-sacred-rites-skw-au"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: Fiction
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Erotic Narrative Anonymous
 
 **eul_wid:** `skw-au` · [HTML page](https://eulogikon.org/works/erotica-anon-sacred-rites-skw-au)
-
-Fragments on Sacred Rites is a title attributed in modern inquiry to an otherwise unattested work of ancient Greek literature. The attribution to an author designated as Erotic Narrative Anonymous finds no corroboration in standard scholarly catalogs or fragment collections. The title itself suggests a compilation of excerpts pertaining to religious rituals or initiations, described in available metadata as a single prose passage. The provided fragmentary Greek text, which is highly damaged, contains phrases evocative of ritual practice, including references to auspicious omens, orderly movement, an eternal burning fire, and the playing of a pipe or reed instrument to accompany sacred actions. The conspicuous disjunction between a title concerning sacred rites and an authorial descriptor implying erotic narrative has no known parallel within the extant corpus of Greek fragmentary texts. The work's complete absence from established references precludes any substantive analysis of its content, transmission history, or literary significance, underscoring the inherent difficulties in verifying texts that lie outside the conventionally documented tradition.
 
 ## Text
 

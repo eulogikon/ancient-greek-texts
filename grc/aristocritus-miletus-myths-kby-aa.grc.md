@@ -5,6 +5,7 @@ author: Aristocritus of Miletus
 eul_wid: kby-aa
 eul_aid: kby
 canonical: "https://eulogikon.org/works/aristocritus-miletus-myths-kby-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristocritus of Miletus
 
 **eul_wid:** `kby-aa` · [HTML page](https://eulogikon.org/works/aristocritus-miletus-myths-kby-aa)
-
-Fragments on Miletus and Its Myths is a lost local history by Aristocritus of Miletus, a work of patriography that compiled the etiological myths and traditions specific to that major Ionian city. The text survives only through a handful of fragments preserved through quotation or paraphrase in later antiquarian and lexicographical authors, such as Athenaeus, Harpocration, and the scholiast on Apollonius of Rhodes. It has no independent manuscript tradition, and its content is known solely from these citations, which are collected in modern editions of Greek historical fragments. The work’s scope, as indicated by its title and the extant passages, encompassed the foundational myths of Miletus, including the origins of its eponymous founder, the hero Miletus, whose birth from Apollo and Areia and subsequent exposure in an ash tree is detailed. It also treated the city’s colonial history, local cults, rituals, and genealogies linking prominent Milesian families to heroic or divine figures, such as the tragic story of Caunus and Byblis, the children of Miletus. As a representative of local history, the work served to codify and assert the prestige of Miletus’s ancient heritage, providing later grammarians and historians with valuable source material for Ionian mythography and aiding modern scholarly reconstruction of the city’s legendary past.
 
 ## Text
 

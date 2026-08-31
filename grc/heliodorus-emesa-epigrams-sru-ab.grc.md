@@ -5,6 +5,7 @@ author: Heliodorus of Emesa
 eul_wid: sru-ab
 eul_aid: sru
 canonical: "https://eulogikon.org/works/heliodorus-emesa-epigrams-sru-ab"
+lang: grc
 period: Late Antique
 dialect: Atticizing Literary
 domain: Fiction
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Heliodorus of Emesa
 
 **eul_wid:** `sru-ab` · [HTML page](https://eulogikon.org/works/heliodorus-emesa-epigrams-sru-ab)
-
-The Epigrams of Heliodorus of Emesa comprise sixteen short poems preserved within Book 9 of the Greek Anthology. While Heliodorus is primarily celebrated as the author of the prose romance Aethiopica, these verses attest to his engagement with a different literary tradition. The poems employ conventional epigrammatic themes, including dedications to deities, reflections on life and mortality, and descriptive pieces on art and place. Their survival is owed entirely to the manuscript tradition of the Greek Anthology, most notably the 10th-century Palatinus Graecus 23 codex. The attribution to the novelist Heliodorus, whose precise date remains uncertain with proposals ranging from the third to the fourth century CE, is traditional but not definitively established. Although his literary reputation rests on his novel, these epigrams situate Heliodorus within the continuum of Greek epigrammatic poetry and their inclusion in the anthology contributed to the transmission and later European reception of the form.
 
 ## Text
 

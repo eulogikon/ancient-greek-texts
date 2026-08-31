@@ -5,6 +5,7 @@ author: Philo of Alexandria
 eul_wid: lgi-al
 eul_aid: lgi
 canonical: "https://eulogikon.org/works/philo-alexandria-flight-and-finding-lgi-al"
+lang: grc
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philo of Alexandria
 
 **eul_wid:** `lgi-al` · [HTML page](https://eulogikon.org/works/philo-alexandria-flight-and-finding-lgi-al)
-
-The extant works of Philo of Alexandria constitute a substantial corpus of treatises composed in Koine Greek during the first century CE. As a Jewish philosopher from Alexandria, Philo undertook a systematic interpretation of the Jewish scriptures, primarily the Greek Septuagint, through the conceptual frameworks of contemporary Greek philosophy, with Middle Platonism and Stoicism being particularly influential. His writings are conventionally organized into three broad categories. The Exposition of the Law presents a structured account of the teachings and narratives of the Pentateuch. The Allegorical Commentary provides a detailed, philosophical exegesis of the Book of Genesis, seeking deeper spiritual and ethical meanings beneath the literal text. A third group comprises historical and apologetic works, which address specific events of his time, such as the persecution of Alexandrian Jews.
-
-Philo’s central intellectual endeavor was to articulate the philosophical sophistication inherent in Jewish tradition for an audience of Hellenized Jews and educated Gentiles. Prominent themes throughout his work include the concept of the Logos as a mediating principle between the transcendent God and the material creation, the rigorous application of allegorical exegesis to uncover universal truths within scripture, and the depiction of the soul’s progressive ascent toward virtue and the vision of the divine. His writings were not preserved within mainstream Jewish tradition but by Christian scribes and theologians who found his interpretive methods and theological concepts highly valuable. As a result, the majority of his treatises survive in Greek manuscripts, while a portion are extant only in ancient Armenian translations; several other works are known to have been lost.
-
-In modern scholarship, Philo’s work is recognized as a foundational synthesis of biblical faith and Hellenistic philosophy. His thought provided crucial conceptual tools that would profoundly shape the development of early Christian theology and biblical hermeneutics in the subsequent centuries.
 
 ## Text
 

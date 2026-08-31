@@ -5,6 +5,7 @@ author: Lycurgus of Athens
 eul_wid: hfi-ab
 eul_aid: hfi
 canonical: "https://eulogikon.org/works/lycurgus-athens-defense-speeches-hfi-ab"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lycurgus of Athens
 
 **eul_wid:** `hfi-ab` · [HTML page](https://eulogikon.org/works/lycurgus-athens-defense-speeches-hfi-ab)
-
-The Political Defense and Speeches is a collection of fragments from the lost orations of the Athenian statesman Lycurgus, who was active in the late 4th century BCE. These excerpts, preserved through citations by later ancient lexicographers and commentators, do not constitute a continuous text but are valuable remnants of his forensic and political rhetoric. The fragments illuminate Lycurgus's role as a formidable public prosecutor and financial administrator, consistently emphasizing themes of patriotic duty, legal integrity, and the severe punishment of crimes considered treasonous or impious against the state.
-
-While one complete speech, Against Leocrates, survives independently, the remainder of Lycurgus's oratorical output is known almost exclusively through these scattered passages. They were transmitted indirectly, quoted by authorities such as Harpocration for their precise and authoritative use of the Attic Greek language, often to illustrate specific legal or architectural terms. For modern scholarship, the collection provides critical insight into Athenian law and political ideology during the turbulent period following the city's defeat by Macedon. The fragments reflect Lycurgus's staunch advocacy for legal conservatism, moral accountability, and the rigorous use of public finance to restore Athenian strength and civic virtue.
 
 ## Text
 

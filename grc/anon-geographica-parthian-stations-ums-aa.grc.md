@@ -5,6 +5,7 @@ author: Geographical Work Anonymous
 eul_wid: ums-aa
 eul_aid: ums
 canonical: "https://eulogikon.org/works/anon-geographica-parthian-stations-ums-aa"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: Geography
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Geographical Work Anonymous
 
 **eul_wid:** `ums-aa` · [HTML page](https://eulogikon.org/works/anon-geographica-parthian-stations-ums-aa)
-
-The Parthian Stations is a concise geographical itinerary, traditionally attributed to Isidore of Charax, composed in Koine Greek likely during the late 1st century BCE or early 1st century CE. It details the principal overland trade route from the eastern frontier of the Roman Empire, across the territory of the Parthian Empire, to the approaches of India. Functioning as a practical guide, it systematically lists the stopping points along the road, measures the intervening distances in the Persian unit known as the schoenus, and frequently notes the character of settlements, identifying them as Greek cities, villages, fortified posts, or royal residences. The surviving text is fragmentary, preserved not as an independent manuscript but through excerpts incorporated into the later Geographica of the 6th-century Byzantine scholar Stephanus of Byzantium. Its structure unfolds as a sequential series of passages corresponding to segments of the journey. The work includes a dedication to a "Caesar," whom modern scholars identify as either the emperor Augustus or a subsequent successor, indicating it was compiled for Roman administrative, military, or commercial purposes. It stands as a vital historical source, reflecting the significant trade and diplomatic activity along this crucial Silk Road corridor and providing invaluable evidence for the historical geography of the Parthian realm and ancient long-distance trade networks.
 
 ## Text
 

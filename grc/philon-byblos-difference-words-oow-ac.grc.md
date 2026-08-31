@@ -5,6 +5,7 @@ author: Philon of Byblos
 eul_wid: oow-ac
 eul_aid: oow
 canonical: "https://eulogikon.org/works/philon-byblos-difference-words-oow-ac"
+lang: grc
 period: Roman
 dialect: Koine (frg)
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philon of Byblos
 
 **eul_wid:** `oow-ac` · [HTML page](https://eulogikon.org/works/philon-byblos-difference-words-oow-ac)
-
-On the Difference of Related Words is a lexicographical treatise composed in Koine Greek by the grammarian Philon of Byblos, who flourished in the early 2nd century CE. The work is a systematic examination of the nuanced semantic and contextual distinctions between near-synonyms and closely related terms in the Greek language. Structured as a series of prose entries, it methodically contrasts pairs of words, clarifying their proper application. For instance, it differentiates between athlon, meaning the contest itself, and epathlon, the prize given to the victor; or between amynai, to retaliate against a wrongdoer, and epamynai, to come to someone's aid. The complete text is lost, surviving only in fragmentary quotations preserved by later lexicographers, most notably the 5th-century grammarian Orion of Thebes. A product of the intellectual milieu of the Second Sophistic, the treatise reflects the era's preoccupation with linguistic precision, Attic purity, and the authoritative command of classical vocabulary. It functioned as a practical scholarly manual for orators, writers, and educated individuals seeking to employ the Greek language with exactitude and rhetorical force.
 
 ## Text
 

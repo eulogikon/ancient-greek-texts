@@ -5,6 +5,7 @@ author: Historical Fragments  Anonymous
 eul_wid: mmg-aq
 eul_aid: mmg
 canonical: "https://eulogikon.org/works/anon-hist-frag-historical-mmg-aq"
+lang: grc
 period: Hellenistic
 dialect: Mixed Dialects (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Historical Fragments  Anonymous
 
 **eul_wid:** `mmg-aq` · [HTML page](https://eulogikon.org/works/anon-hist-frag-historical-mmg-aq)
-
-The Historical Fragments is an anonymous collection of eight historical excerpts that does not constitute a continuous narrative but rather a compilation of isolated passages. These passages were likely extracted from larger historical works that are now lost. The Greek term for such collections, Apospasmata, meaning "torn-off pieces," suggests these excerpts were deliberately selected and preserved, possibly for educational purposes or as source material for other writers. The fragments survive through the common ancient and medieval practice of indirect transmission, where passages were copied from deteriorating texts into new compilations to preserve their content. While the specific thematic content of the eight passages is not detailed in available sources, the collection's significance lies in its potential role as a vessel for otherwise lost historical information. If the fragments contain unique data, they contribute to modern scholarly reconstructions of ancient historiography and the transmission of historical knowledge.
 
 ## Text
 

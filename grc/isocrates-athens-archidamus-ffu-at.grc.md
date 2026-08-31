@@ -5,6 +5,7 @@ author: Isocrates of Athens
 eul_wid: ffu-at
 eul_aid: ffu
 canonical: "https://eulogikon.org/works/isocrates-athens-archidamus-ffu-at"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Isocrates of Athens
 
 **eul_wid:** `ffu-at` · [HTML page](https://eulogikon.org/works/isocrates-athens-archidamus-ffu-at)
-
-The Archidamus is a political oration composed by the Athenian rhetorician Isocrates around 366 BCE. Written in Attic Greek, it is crafted as a deliberative speech delivered by the Spartan prince Archidamus III before a Spartan assembly. The rhetorical fiction addresses a critical moment following Sparta's defeat by Thebes, arguing vehemently against accepting a peace treaty that would compel Sparta to surrender the territory of Messenia. Through 74 carefully structured sections, the oration mounts a multifaceted appeal to Spartan honor, ancestral military virtue, and the profound disgrace of territorial loss, advocating for the continuation of war over what is portrayed as a dishonorable and debilitating peace.
-
-While adopting a Spartan persona, the work functions as Isocrates's own rhetorical intervention into the contemporary political crisis. It uses the dramatic scenario to explore broader Panhellenic concerns, including the nature of legitimate leadership, the ethical and strategic considerations of war and peace, and the destabilizing shifts in the Greek balance of power during the fourth century. The oration was likely intended for circulation among a literate, elite Greek audience, serving both as a model of persuasive argumentation and a sophisticated exercise in speech-in-character, or prosopopoeia. The Archidamus survives in its complete form, transmitted securely through medieval manuscripts as part of the extant corpus of Isocrates's works.
 
 ## Text
 

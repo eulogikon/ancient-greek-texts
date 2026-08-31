@@ -5,6 +5,7 @@ author: Aristarchus of Samos
 eul_wid: hzi-aa
 eul_aid: hzi
 canonical: "https://eulogikon.org/works/aristarchus-samos-sizes-distances-sun-moon-hzi-aa"
+lang: grc
 period: Hellenistic
 dialect: Ionic
 domain: Science
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristarchus of Samos
 
 **eul_wid:** `hzi-aa` · [HTML page](https://eulogikon.org/works/aristarchus-samos-sizes-distances-sun-moon-hzi-aa)
-
-On the Sizes and Distances of the Sun and Moon is a mathematical treatise by the Greek astronomer Aristarchus of Samos, composed around 280–270 BCE. The work applies geometric principles to calculate the relative distances and sizes of the Sun and Moon. It survives complete in Greek, transmitted primarily through medieval manuscripts within collections known as the "Little Astronomy."
-
-The treatise is structured as a series of geometric propositions. It opens with six foundational hypotheses, the most critical being that when the Moon appears exactly half-illuminated, the angle at the Moon within the Earth-Moon-Sun triangle is a right angle. From this geometric premise, Aristarchus deduces that the Sun is between 18 and 20 times farther from Earth than the Moon. By incorporating observations of solar eclipses, he further calculates that the Sun's diameter is 18 to 20 times that of the Moon, and that the Earth's diameter is roughly three times that of the Moon. While his geometric method was groundbreaking, his initial observational data was imprecise; his estimate of the key lunar angle as 87 degrees was inaccurate, leading to a significant underestimation of the Sun's true distance and size relative to the Earth.
-
-The text is preserved in the medieval manuscript tradition, with the principal witness being Codex Vaticanus Graecus 204. Although the manuscript contains scribal errors, the core mathematical content remains intact. This treatise represents a pioneering application of rigorous geometry to cosmological questions. Despite its flawed numerical results, its methodological framework established a model for mathematical astronomy, directly influencing later astronomers such as Hipparchus and Ptolemy. It provided an early demonstration of the vast scale of the cosmos and correctly established, albeit with incorrect ratios, that the Sun is considerably larger than the Earth.
 
 ## Text
 

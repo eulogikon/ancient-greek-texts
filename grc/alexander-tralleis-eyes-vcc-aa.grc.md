@@ -5,6 +5,7 @@ author: Alexander of Tralles
 eul_wid: vcc-aa
 eul_aid: vcc
 canonical: "https://eulogikon.org/works/alexander-tralleis-eyes-vcc-aa"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alexander of Tralles
 
 **eul_wid:** `vcc-aa` · [HTML page](https://eulogikon.org/works/alexander-tralleis-eyes-vcc-aa)
-
-On the Eyes is a specialized medical treatise written in Greek by the sixth-century physician Alexander of Tralles. This practical handbook is devoted entirely to the treatment of ocular diseases and is structured as a series of twenty-three distinct passages. Each section addresses a specific condition, such as cataracts, inflammation, or night blindness, and provides detailed recipes for medicinal preparations. These include salves, poultices, and washes that combine ingredients drawn from Greek, Roman, and Near Eastern pharmacological traditions. The work reflects the hands-on, clinical medicine of late antiquity, written for practicing physicians. Alexander synthesizes knowledge from earlier authorities like Galen with remedies gathered from his own extensive travels and personal experience, which he frequently cites. The complete text has survived through medieval manuscripts as part of Alexander’s larger collected works. Modern scholars regard it as an important example of the pragmatic and eclectic nature of late antique medicine, which prioritized effective treatment over theoretical debate. Its detailed formulas ensured its lasting influence, as the treatise was later translated and utilized by physicians within both the Byzantine and Arabic medical traditions.
 
 ## Text
 

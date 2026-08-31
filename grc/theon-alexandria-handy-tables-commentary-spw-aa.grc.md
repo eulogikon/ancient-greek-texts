@@ -5,6 +5,7 @@ author: Theon of Alexandria
 eul_wid: spw-aa
 eul_aid: spw
 canonical: "https://eulogikon.org/works/theon-alexandria-handy-tables-commentary-spw-aa"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: Mathematics
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Theon of Alexandria
 
 **eul_wid:** `spw-aa` · [HTML page](https://eulogikon.org/works/theon-alexandria-handy-tables-commentary-spw-aa)
-
-The Commentary on the Handy Tables of Ptolemy, Books 1–3 is a fourth-century CE astronomical treatise by the mathematician Theon of Alexandria. This extensive work, comprising 153 chapters, provides a systematic explanation of Ptolemy’s Handy Tables, a set of practical computational charts used for determining planetary positions, eclipses, and other celestial phenomena. Theon’s commentary functions as a detailed instructional guide, walking the reader through the application of the tables with clear procedures and worked examples. Its primary focus encompasses the chronological frameworks, solar theory, and lunar theory necessary for astronomical calculation. The explicit aim was pedagogical: to render the sophisticated astronomy of Ptolemy’s Almagest accessible for both teaching and practical computation.
-
-The treatise is of particular historical value for its precise dating. Theon includes a sample calculation for a solar eclipse observed in 364 CE and notes that he is writing sixteen years after that event, allowing scholars to securely date the composition to approximately 380 CE. It was almost certainly composed for advanced students and practicing astronomers in Alexandria who required a reliable manual for their work. The commentary survives in its complete form through Greek manuscripts, most notably a well-preserved Byzantine copy. For centuries thereafter, it served as a standard textbook for Ptolemaic astronomy throughout the Greek-speaking world.
 
 ## Text
 

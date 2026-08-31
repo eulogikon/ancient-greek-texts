@@ -5,6 +5,7 @@ author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-cd
 eul_aid: bww
 canonical: "https://eulogikon.org/works/hippocrates-diet-bww-cd"
+lang: grc
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hippocrates and the Hippocratic Corpus
 
 **eul_wid:** `bww-cd` · [HTML page](https://eulogikon.org/works/hippocrates-diet-bww-cd)
-
-On Diet is a medical treatise from the Hippocratic Corpus, a collection of ancient Greek works traditionally attributed to Hippocrates but composed by various authors. Written around 400 BCE in Ionic Greek prose, the work is structured in 94 chapters across four principal sections. It opens by establishing a philosophical foundation, positing that health is maintained through the proper balance of the fundamental elements of fire and water within the human body. Building upon this theory, the treatise provides a comprehensive regimen for healthy living, detailing specific dietary and lifestyle prescriptions. These recommendations are further refined for application in different seasons and for the treatment of various illnesses. The final section offers prognostic guidance, notably interpreting dreams as indicators of bodily imbalance.
-
-The text survives in its complete form through medieval manuscripts as part of the larger Hippocratic collection. Modern scholarship views the work as a significant product of its era, demonstrating the direct influence of pre-Socratic natural philosophy on medical theory. It appears to have been composed for an audience of fellow practitioners, advocating for a systematic and theoretical approach to treatment over purely empirical methods. Its emphasis on preventative care and on tailoring a patient's regimen according to their individual constitution and the seasonal environment proved highly influential, substantially shaping the subsequent development of Western dietetics and medical thought.
 
 ## Text
 

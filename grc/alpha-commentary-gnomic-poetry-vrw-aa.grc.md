@@ -5,6 +5,7 @@ author: Alphabetical Commentary
 eul_wid: vrw-aa
 eul_aid: vrw
 canonical: "https://eulogikon.org/works/alpha-commentary-gnomic-poetry-vrw-aa"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Grammar
@@ -19,14 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alphabetical Commentary
 
 **eul_wid:** `vrw-aa` · [HTML page](https://eulogikon.org/works/alpha-commentary-gnomic-poetry-vrw-aa)
-
-Overview The work titled Gnomic Poetry Fragments by Alphabetical Commentary (Γνωμικῆς Ποιήσεως Ἀποσπάσματα) is not attested within standard reference works for ancient Greek literature. Metadata describes it as a grammatical treatise comprising nine passages. The title implies a scholarly compilation that collected and commented on gnomic verse fragments, arranged alphabetically, a common organizational method in Hellenistic and later scholarship for lexica and collections of sayings.
-
-Content The proposed content would involve ethical maxims from earlier gnomic poets, such as Theognis or Solon, accompanied by explanatory commentary. Its classification within the domain of "Grammar" suggests it was likely an educational or illustrative text used to exemplify poetic usage and interpretation.
-
-Transmission There is no record of this specific treatise in accounts of textual transmission. Its existence and described structure are known only from the provided metadata.
-
-Significance If genuine, such a work would exemplify the Alexandrian scholarly tradition of cataloging and analyzing poetic fragments, highlighting the grammatical and exegetical practices applied to gnomic literature in antiquity.
 
 ## Text
 

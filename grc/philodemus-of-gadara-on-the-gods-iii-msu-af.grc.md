@@ -5,6 +5,7 @@ author: Philodemos of Gadara
 eul_wid: msu-af
 eul_aid: msu
 canonical: "https://eulogikon.org/works/philodemus-of-gadara-on-the-gods-iii-msu-af"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: Philosophy

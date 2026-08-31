@@ -5,6 +5,7 @@ author: Philo of Alexandria
 eul_wid: lgi-am
 eul_aid: lgi
 canonical: "https://eulogikon.org/works/philo-alexandria-posterity-of-cain-lgi-am"
+lang: grc
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philo of Alexandria
 
 **eul_wid:** `lgi-am` · [HTML page](https://eulogikon.org/works/philo-alexandria-posterity-of-cain-lgi-am)
-
-The Works of Philo of Alexandria constitute an extensive corpus of Greek philosophical and exegetical treatises composed in the early Roman Empire, approximately between 20 BCE and 50 CE. Philo, a Hellenized Jewish philosopher from Alexandria, produced a unique synthesis of Jewish scriptural tradition and Greek philosophical thought. His writings are primarily philosophical commentaries that interpret the Jewish Scriptures, specifically the Greek Septuagint translation, through the conceptual framework of Middle Platonism. The corpus is traditionally organized into several major groups. The Exposition of the Law presents a systematic explanation of the Pentateuch and its legal ordinances, often framed for a broader Hellenistic audience. The Allegorical Commentary offers a detailed, symbolic reading of the Book of Genesis, seeking deeper philosophical and ethical truths beneath the literal narrative. A further category comprises Historical and Apologetic Works, which address contemporary political events, such as the persecution of Alexandrian Jews, and defend the antiquity and wisdom of Jewish tradition. Additional surviving texts include standalone philosophical treatises and a series known as the Questions and Answers on Genesis and Exodus, which adopts a more straightforward question-and-answer format for exegesis.
-
-Philo’s intended audience is understood to have been primarily Hellenized Jews, for whom he provided a philosophically sophisticated defense and interpretation of their scriptural heritage. His works also possess a clear apologetic dimension, likely aimed at educated Gentiles to demonstrate the profound wisdom and rationality of Mosaic law. Central thematic pillars of his thought include the extensive use of allegory to uncover universal philosophical truths within scripture, the development of the concept of the Logos (Divine Reason) as the creative and mediating principle between a transcendent God and the material world, and the depiction of the soul’s ethical and contemplative ascent toward knowledge of the divine. Philo’s writings were preserved almost exclusively by Christian scribes and theologians, who valued his allegorical method for their own biblical interpretation. While the majority of treatises survive in the original Greek through medieval manuscripts, some works are extant only in ancient Armenian translations or as fragments quoted in later authors. Modern critical editions of the collected works contain dozens of individual treatises, with the full corpus often encompassing approximately 178 separate items, including genuine works, fragments, and some later attributions.
 
 ## Text
 

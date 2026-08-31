@@ -5,6 +5,7 @@ author: Plato of Athens
 eul_wid: ffk-bn
 eul_aid: ffk
 canonical: "https://eulogikon.org/works/plato-meno-ffk-bn"
+lang: grc
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plato of Athens
 
 **eul_wid:** `ffk-bn` · [HTML page](https://eulogikon.org/works/plato-meno-ffk-bn)
-
-The Meno is a philosophical dialogue by Plato, composed around 385 BCE. It stages a conversation between Socrates and Meno, a young aristocrat from Thessaly, later joined by one of Meno’s slaves and the Athenian politician Anytus. The dialogue opens with Meno abruptly asking whether virtue can be taught. Socrates responds that such a question cannot be answered without first defining virtue itself. Their subsequent attempts to establish a stable definition repeatedly fail, exposing the conceptual confusion in Meno’s conventional understanding. This impasse leads to Meno’s Paradox, which challenges the very possibility of inquiry by asking how one can search for knowledge of something one does not already know.
-
-Socrates counters this paradox by introducing the theory of recollection. He argues that learning is not the acquisition of new information but the remembrance of knowledge the immortal soul possessed before birth. To demonstrate this, Socrates guides Meno’s untutored slave through a series of questions about a geometric problem, ultimately leading the boy to recognize a mathematical truth he had not been explicitly taught. This episode aims to show that the soul inherently contains latent knowledge. Following this epistemological interlude, the dialogue returns to the original question of whether virtue can be taught. Through an examination of examples and a logical investigation, Socrates and Meno conclude that if virtue is knowledge, it should be teachable. Yet they find no true teachers of virtue, leading to the tentative suggestion that virtue may instead be a form of true belief divinely bestowed, not knowledge proper.
-
-Set dramatically in 402 BCE, a politically volatile period in Athens shortly before Socrates’ trial, the dialogue engages critically with the claims of contemporary Sophists like Gorgias, who professed to teach virtue for a fee. The work serves as a pivotal presentation of Plato’s developing thought, blending ethical inquiry with foundational epistemological concepts. The complete text has been preserved through the medieval manuscript tradition, most notably in the 9th-century Codex Oxoniensis Clarkianus 39.
 
 ## Text
 

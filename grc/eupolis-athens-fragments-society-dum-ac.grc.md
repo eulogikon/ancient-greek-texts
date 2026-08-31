@@ -5,6 +5,7 @@ author: Eupolis Atheniensis
 eul_wid: dum-ac
 eul_aid: dum
 canonical: "https://eulogikon.org/works/eupolis-athens-fragments-society-dum-ac"
+lang: grc
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Eupolis Atheniensis
 
 **eul_wid:** `dum-ac` · [HTML page](https://eulogikon.org/works/eupolis-athens-fragments-society-dum-ac)
-
-The modern title Fragments on Athenian Society refers to the collected remnants of comedies by Eupolis, a major poet of Old Comedy active in late 5th-century BCE Athens alongside Aristophanes and Cratinus. Celebrated in antiquity as one of the genre's canonical masters, his work survives only in fragments from lost plays such as The Flatterers, The Demes, and The Maricas. The fragments reveal the core themes of his politically engaged satire, including direct political invective against contemporary figures like the demagogue Hyperbolus, mockery of aristocratic luxury and sophistic educators such as Protagoras, and the exploration of utopian fantasy. His play The Demes, for instance, brought past Athenian statesmen back to life to critique the city's contemporary politics. His comedies also offered commentary on the Peloponnesian War and Athenian civic life. No complete plays survive; the approximately 500 extant fragments are preserved indirectly through quotations in later authors, grammarians, and lexicographers such as Athenaeus, Plutarch, and Pollux. Eupolis was highly influential, ranked by critics like Horace and Quintilian among the greatest comic poets. His distinctive blend of personal satire with political fantasy influenced Aristophanes, and his fragments provide crucial historical insight into the social and political tensions of Athens during its turbulent wartime period.
 
 ## Text
 

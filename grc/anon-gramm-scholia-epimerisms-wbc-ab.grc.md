@@ -5,6 +5,7 @@ author: Anonymous Grammatical Scholia
 eul_wid: wbc-ab
 eul_aid: wbc
 canonical: "https://eulogikon.org/works/anon-gramm-scholia-epimerisms-wbc-ab"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Grammar

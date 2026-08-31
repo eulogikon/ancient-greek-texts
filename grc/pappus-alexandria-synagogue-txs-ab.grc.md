@@ -5,6 +5,7 @@ author: Pappus of Alexandria
 eul_wid: txs-ab
 eul_aid: txs
 canonical: "https://eulogikon.org/works/pappus-alexandria-synagogue-txs-ab"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Mathematics
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Pappus of Alexandria
 
 **eul_wid:** `txs-ab` · [HTML page](https://eulogikon.org/works/pappus-alexandria-synagogue-txs-ab)
-
-The Synagogue, also known as the Collection, is a comprehensive mathematical treatise composed by Pappus of Alexandria around 320 CE. Functioning primarily as a compilation and commentary, its purpose was to preserve and elucidate the advanced geometry of earlier Greek mathematicians, including Euclid, Archimedes, and Apollonius. Originally comprising eight books, the work is incomplete; the first book and the start of the second are lost. The extant sections cover a wide array of topics, such as methods for expressing large numbers, geometric means, the properties of special curves, isoperimetric problems, astronomy, and mechanics. Its most renowned section, Book VII, is a detailed commentary on a corpus of advanced problem-solving texts collectively referred to as the "Treasury of Analysis."
-
-Composed during an era when Greek mathematical activity had largely transitioned from original discovery to systematization, the Synagogue is interpreted by modern scholars as a sophisticated didactic guide. It was designed to enable advanced students to navigate and comprehend the classical mathematical tradition. The work frequently offers alternative solutions to problems and provides critical assessments of earlier methodologies. The text survives mainly through a single 10th-century Byzantine manuscript, with the remainder of the textual tradition being fragmentary. Its transmission to Renaissance Europe, significantly aided by a Latin translation published in 1588, proved highly influential. The analytical problems posed in Book VII later served as a direct inspiration for mathematicians such as René Descartes, thereby forming a crucial link between ancient geometric methods and the eventual development of modern analytic geometry.
 
 ## Text
 

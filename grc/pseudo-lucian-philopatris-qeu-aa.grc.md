@@ -1,10 +1,11 @@
 ---
 title: Philopatris or The Student
 title_greek: Φιλόπατρις ἢ Διδασκόμενος
-author: "Pseudo-Lucian "
+author: Pseudo-Lucian
 eul_wid: qeu-aa
 eul_aid: qeu
 canonical: "https://eulogikon.org/works/pseudo-lucian-philopatris-qeu-aa"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -16,13 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Φιλόπατρις ἢ Διδασκόμενος*
 
-**Author:** Pseudo-Lucian 
+**Author:** Pseudo-Lucian
 
 **eul_wid:** `qeu-aa` · [HTML page](https://eulogikon.org/works/pseudo-lucian-philopatris-qeu-aa)
-
-The Philopatris or The Student is a short satirical dialogue preserved in the manuscript tradition of works attributed to Lucian of Samosata but is now considered spurious, the product of an unknown author conventionally termed Pseudo-Lucian. Written in Attic Greek, the text presents a conversation between two characters, Critias and Triephon. The dialogue opens with Critias finding Triephon in a state of profound agitation. Triephon explains that his distress stems from having overheard a group engaged in abstruse philosophical and theological debate concerning the nature of the cosmos, the soul, and divine providence. The work functions as a satire on the opaque jargon and esoteric speculation characteristic of such discussions. Its climax arrives when Triephon, seeking refuge from this confusing intellectual tumult, swears a solemn oath to remain a loyal patriot and to cling steadfastly to a "holy and heavenly doctrine."
-
-Scholarly consensus places the composition of the Philopatris considerably later than the era of Lucian, most likely in the late third or fourth century CE. The precise target of its satire remains a subject of debate. Interpretations vary, with some scholars viewing the work as a mockery of early Christian theological disputes, others arguing it lampoons pagan philosophers or astrologers, and a further perspective suggesting it reflects later Byzantine religious controversies. The dialogue survives in full only because it was incorporated into the corpus of Lucian's works transmitted through the medieval period.
 
 ## Text
 

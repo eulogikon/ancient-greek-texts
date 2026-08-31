@@ -5,6 +5,7 @@ author: Parthax the Historian
 eul_wid: npm-aa
 eul_aid: npm
 canonical: "https://eulogikon.org/works/parthax-italian-geography-npm-aa"
+lang: grc
 period: Roman
 dialect: Koine
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Parthax the Historian
 
 **eul_wid:** `npm-aa` · [HTML page](https://eulogikon.org/works/parthax-italian-geography-npm-aa)
-
-The Fragments of Italian Geography is a lost geographical work attributed to Parthax the Historian, an author otherwise unknown in the extant Greek literary record. The work is referenced only by its title, which indicates it comprised at least four passages concerning the Italian peninsula. No direct quotations or summaries of its content survive, though the title suggests its subject was the geography of Italy, potentially detailing its regions, cities, landmarks, or ethnography. The work is completely lost and known solely by its title; the term used for it suggests it was either fragmentary in antiquity or conceived as a collection of excerpts. No manuscript tradition or later citations are recorded. The absence of Parthax and his work from all standard catalogs of ancient historians and geographers indicates it was either an exceedingly minor text, lost at a very early date, or possibly a ghost entry from a later catalogue. Its title places it within the broader Hellenistic tradition of Greek geographical writing on the western Mediterranean.
 
 ## Text
 

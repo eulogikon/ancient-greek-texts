@@ -5,6 +5,7 @@ author: Galen of Pergamon
 eul_wid: qmm-cw
 eul_aid: qmm
 canonical: "https://eulogikon.org/works/galen-pergamon-method-healing-qmm-cw"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Galen of Pergamon
 
 **eul_wid:** `qmm-cw` · [HTML page](https://eulogikon.org/works/galen-pergamon-method-healing-qmm-cw)
-
-On the Method of Healing is a comprehensive medical treatise composed in Greek by the physician Galen of Pergamon around 170–180 CE. Organized into fourteen books, this extensive work systematically details Galen’s therapeutic principles, beginning with general doctrines before advancing to the treatment of specific diseases. Its structure progresses logically from systemic conditions, such as fevers, to localized ailments, and concludes with discussions of injuries including wounds and fractures. The text survives largely intact and represents Galen’s ambitious endeavor to establish a definitive and rational methodology for medicine. Written during his residence in Rome, the treatise aims to codify medical practice and defend his synthetic approach against competing schools of thought. Modern scholarship interprets the work as a deliberate synthesis, seeking to integrate valuable elements from various medical sects while advocating for a therapeutic system grounded in the understanding of disease causation. It appears to have been composed both for a specific patron and for the instruction of Galen’s students, reflecting his aspiration to create an authoritative medical curriculum. For centuries, On the Method of Healing served as a foundational textbook of therapeutics, exerting a profound influence on medical education within the Byzantine, Arabic, and Latin traditions before its preeminence gradually waned in the face of new scientific discoveries during the early modern period.
 
 ## Text
 

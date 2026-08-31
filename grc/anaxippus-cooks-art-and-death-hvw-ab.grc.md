@@ -5,6 +5,7 @@ author: Anaxippus the Comic Poet
 eul_wid: hvw-ab
 eul_aid: hvw
 canonical: "https://eulogikon.org/works/anaxippus-cooks-art-and-death-hvw-ab"
+lang: grc
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Anaxippus the Comic Poet
 
 **eul_wid:** `hvw-ab` · [HTML page](https://eulogikon.org/works/anaxippus-cooks-art-and-death-hvw-ab)
-
-The Cook's Art and Death is a lost comedy by the Athenian poet Anaxippus, dating to approximately 300 BCE during the Hellenistic period. The play survives only in fifty-nine brief fragments, the majority of which are preserved by the later author Athenaeus in his compendium The Learned Banqueters. These remnants indicate the work was a characteristic example of Middle Comedy, a genre that shifted away from the direct political satire of earlier Old Comedy toward social humor built around recurring character types. The central figure was almost certainly a boastful professional cook, a popular stock character of the era, and the surviving passages largely focus on culinary techniques, ingredients, and the cook's presentation of his expertise as a sophisticated art.
-
-While the complete plot is unrecoverable, the modern descriptive title derives from the fragmentary text's apparent themes. The "Death" mentioned may refer to a specific comic incident within the original narrative, though its precise context is lost. Scholars value these fragments as evidence for the conventions of Middle Comedy, particularly its reliance on professional and social types for humor. The text also provides incidental insight into ancient Greek food culture, culinary trends, and professional slang. Originally performed at an Athenian festival, the play reflects the period's broader interest in deriving comedy from social roles, specialized trades, and the pretensions of self-styled experts.
 
 ## Text
 

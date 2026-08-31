@@ -5,6 +5,7 @@ author: Apollodorus of Carystus I
 eul_wid: iie-ac
 eul_aid: iie
 canonical: "https://eulogikon.org/works/apollodorus-carystus-household-harmony-iie-ac"
+lang: grc
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Apollodorus of Carystus I
 
 **eul_wid:** `iie-ac` · [HTML page](https://eulogikon.org/works/apollodorus-carystus-household-harmony-iie-ac)
-
-On Household Harmony is a fragmentary comedy by the Athenian playwright Apollodorus of Carystus, a significant author of New Comedy in the 3rd century BCE. The work survives only in a few brief excerpts, insufficient for reconstructing its plot or characters. Its conventional title, derived from the content of the largest surviving fragment, indicates a thematic concern with domestic relations, a staple of the New Comedy genre. In this fragment, a speaker advises that household wealth is best secured not by external toil but through spousal concord, using the metaphor of a bee working within the hive. The text is transmitted not through a manuscript tradition of the complete play but through these isolated quotations, likely preserved by later grammarians or anthologists. Although the specific merits of this comedy cannot be judged, Apollodorus's broader body of work was influential; two of his plays were later adapted by the Roman dramatist Terence, cementing his role in the transmission of Greek comic conventions to Roman and subsequent Western theatrical traditions.
 
 ## Text
 

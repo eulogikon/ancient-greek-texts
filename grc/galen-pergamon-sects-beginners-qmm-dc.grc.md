@@ -5,6 +5,7 @@ author: Galen of Pergamon
 eul_wid: qmm-dc
 eul_aid: qmm
 canonical: "https://eulogikon.org/works/galen-pergamon-sects-beginners-qmm-dc"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Galen of Pergamon
 
 **eul_wid:** `qmm-dc` · [HTML page](https://eulogikon.org/works/galen-pergamon-sects-beginners-qmm-dc)
-
-On Sects for Beginners is a concise introductory medical treatise composed in Greek by the physician Galen of Pergamon during the late second century CE. Intended for new students of medicine, the work systematically delineates the three principal competing schools of medical thought prominent in the Roman Empire: the Dogmatists, who emphasized theoretical reasoning and the investigation of hidden causes; the Empiricists, who relied solely on observation, experience, and recorded case histories; and the Methodists, who based diagnosis and treatment on general assessments of bodily states. Galen methodically compares their fundamental doctrines regarding the acquisition of medical knowledge and its application in diagnosis and therapy.
-
-Functioning as an accessible map of medical philosophy, the treatise also introduces Galen’s own critical viewpoint. Scholars interpret it as a pedagogical guide designed to direct students toward Galen’s preferred rationalist approach, which aimed to synthesize valuable elements from various traditions under the overarching authority of Hippocratic principles. The complete Greek text survives in numerous manuscripts, reflecting its enduring role in medical education. Its translation into Latin, Syriac, and Arabic ensured its wide influence across centuries, cementing Galen’s threefold division of medical sects as a standard framework for understanding the history and practice of medicine.
 
 ## Text
 

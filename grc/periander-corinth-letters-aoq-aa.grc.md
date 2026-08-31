@@ -5,6 +5,7 @@ author: Periander of Corinth
 eul_wid: aoq-aa
 eul_aid: aoq
 canonical: "https://eulogikon.org/works/periander-corinth-letters-aoq-aa"
+lang: grc
 period: Archaic
 dialect: Doric
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Periander of Corinth
 
 **eul_wid:** `aoq-aa` · [HTML page](https://eulogikon.org/works/periander-corinth-letters-aoq-aa)
-
-The Letters of Periander are four brief advisory statements attributed to the seventh- and sixth-century BCE tyrant Periander of Corinth. Preserved solely as quotations within later texts, they are cited by Diogenes Laërtius in his third-century CE work Lives and Opinions of Eminent Philosophers. Presented as counsel to the tyrant Thrasybulus of Miletus, they exemplify the gnomic, political wisdom tradition associated with the Seven Sages. The passages offer shrewd, often ruthless advice on maintaining autocratic power, with key themes including the preemptive elimination of potential rivals, encapsulated in the proverbial metaphor to cut down the tallest ears of corn, the importance of surveillance and informants, and the inherent fear and misery of the tyrant’s condition.
-
-The letters have no independent manuscript tradition, and their survival depends entirely on their inclusion in the biographical works of Diogenes Laërtius. Scholars generally consider them pseudepigrapha, likely composed in the fourth century BCE or later to project a stereotypical wise tyrant persona onto the archaic figure. Though not historically authentic, the letters were influential in shaping the classical image of Periander. The tallest ears of corn anecdote became a proverbial example of tyrannical logic, discussed by Herodotus and Aristotle, and the letters contributed significantly to ancient political discourse on the methods and nature of autocratic rule.
 
 ## Text
 

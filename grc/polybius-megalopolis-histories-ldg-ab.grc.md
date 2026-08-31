@@ -5,6 +5,7 @@ author: Polybius of Megalopolis
 eul_wid: ldg-ab
 eul_aid: ldg
 canonical: "https://eulogikon.org/works/polybius-megalopolis-histories-ldg-ab"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Polybius of Megalopolis
 
 **eul_wid:** `ldg-ab` · [HTML page](https://eulogikon.org/works/polybius-megalopolis-histories-ldg-ab)
-
-The Histories of Polybius is a seminal work of ancient historiography composed in Greek during the second century BCE. Originally spanning forty books, the work provides a comprehensive account of Rome's swift ascent to hegemony over the Mediterranean world from 220 to 146 BCE. A Greek statesman from Megalopolis who spent years as a detainee and later an affiliate in Rome, Polybius wrote from a distinctive position of privileged access to Roman political figures and archival material. His stated aim was pragmatic and didactic: to furnish his fellow Greeks with a clear explanation of the mechanisms behind Rome's unprecedented political success, thereby offering instructive lessons for future statesmen.
-
-The narrative is systematically organized, commencing with a programmatic introduction that outlines the author's historical methodology. The core of the work chronicles the key events of Roman expansion, including the Second Punic War and the subsequent conflicts in the Hellenistic East, culminating in the Roman destruction of Carthage and Corinth in 146 BCE. Throughout the account, Polybius regularly interrupts the narrative to elaborate on his principles of historical investigation. He champions firsthand inquiry, the critical evaluation of sources, and the analysis of underlying political and military causality over mere chronology. A central and famous thematic contribution is his theory of political cycles, or anacyclosis, wherein he posits Rome's mixed constitution—blending monarchic, aristocratic, and democratic elements—as an ideally balanced and stable form of government resistant to inevitable decay.
-
-The complete text of the Histories has not survived antiquity. The first five books are preserved intact, while the remainder are known through substantial fragments, excerpts, and summaries compiled by later Byzantine scholars and other authors. Despite its fragmentary state, the work's influence has been profound and enduring. Modern scholarship regards it as an indispensable historical source for the period of the Roman conquests and as a pioneering treatise in historical method and political theory. Its analysis of constitutional balance and the causes of imperial success resonated with later thinkers, notably Cicero, and informed the political philosophy of the framers of the United States Constitution.
 
 ## Text
 

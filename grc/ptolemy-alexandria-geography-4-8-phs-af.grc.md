@@ -5,6 +5,7 @@ author: Ptolemy of Alexandria
 eul_wid: phs-af
 eul_aid: phs
 canonical: "https://eulogikon.org/works/ptolemy-alexandria-geography-4-8-phs-af"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Mathematics
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Ptolemy of Alexandria
 
 **eul_wid:** `phs-af` · [HTML page](https://eulogikon.org/works/ptolemy-alexandria-geography-4-8-phs-af)
-
-Claudius Ptolemy’s Geography is an eight-book scientific treatise composed in Greek around 150 CE. Books 4 through 8 constitute the second half of the work, offering a systematic, mathematical description of the known world. Book 4 is devoted to Libya, the ancient term for the African continent, detailing its provinces and regions from Mauretania to Egypt and the interior of Ethiopia. Books 5, 6, and 7 survey Europe and Asia, encompassing the Balkans, Asia Minor, the Indian subcontinent, and parts of Central Asia. The final book, Book 8, provides instructions on constructing regional maps from the extensive geographical data compiled in the preceding volumes. The core of these books is a vast catalogue of more than 8,000 locations, each assigned precise coordinates of longitude and latitude, designed to enable the creation of accurate world and regional maps.
-
-Ptolemy composed the treatise in Alexandria, synthesizing and critically revising earlier geographical knowledge, particularly that of Marinus of Tyre. The work is fundamentally a technical manual aimed at philosophers and scientists, positioning geography firmly within the mathematical sciences, consistent with Ptolemy’s astronomical writings. Its objective was to provide a systematic, gridded model of the inhabited world, or oikoumenē, utilizing principles of spherical projection.
-
-The complete text survives through a complex manuscript tradition. The most renowned manuscripts contain both the text and elaborate maps, though these illustrations are later Byzantine reconstructions rather than originals from Ptolemy’s era. The work was translated into Arabic in the 9th century and into Latin in the early 15th century. Its Latin translation became a cornerstone of Renaissance cartography, reintroducing coordinate-based mapping to Europe and exerting a profound influence on exploration and geographical thought for centuries.
 
 ## Text
 

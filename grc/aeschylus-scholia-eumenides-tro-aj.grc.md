@@ -5,6 +5,7 @@ author: Aeschylus Scholia
 eul_wid: tro-aj
 eul_aid: tro
 canonical: "https://eulogikon.org/works/aeschylus-scholia-eumenides-tro-aj"
+lang: grc
 period: Late Antique
 dialect: Byzantine Greek
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aeschylus Scholia
 
 **eul_wid:** `tro-aj` · [HTML page](https://eulogikon.org/works/aeschylus-scholia-eumenides-tro-aj)
-
-The Scholia on Eumenides represent the body of ancient and Byzantine exegetical notes preserved in the margins of manuscripts of Aeschylus's tragedy. These scholia are not a single, coherent work but a layered compilation of grammatical, historical, and critical commentary from various scholars across centuries. Contributors include notable figures such as the first-century BCE scholar Didymus Chalcenterus and later Byzantine grammarians. Functioning as a prose commentary, they elucidate difficult passages within the play. Their content engages with the text through multiple critical lenses, including textual criticism with notes on variant readings, linguistic exegesis explaining rare words and Attic dialect, and mythological and historical references that identify allusions to myth and Athenian institutions like the Areopagus. Further notes comment on dramatic technique, such as staging and meter, and explore philosophical and theological concepts like justice and the transformation of the Erinyes. The scholia are transmitted primarily through the medieval manuscript tradition, most importantly the tenth-century Codex Mediceus Laurentianus. These marginal notes derive from earlier, now lost commentaries, representing a selective and cumulative compilation of scholarship. The scholia are invaluable for the modern textual criticism of Aeschylus, as they preserve fragments of lost ancient scholarship and offer significant insight into the historical reception and interpretation of classical tragedy. They remain a primary tool for editors and scholars studying ancient hermeneutics and education.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Euclid of Alexandria
 eul_wid: iaw-ap
 eul_aid: iaw
 canonical: "https://eulogikon.org/works/euclid-alexandria-optics-iaw-ap"
+lang: grc
 period: Hellenistic
 dialect: Technical Koine
 domain: Mathematics
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Euclid of Alexandria
 
 **eul_wid:** `iaw-ap` · [HTML page](https://eulogikon.org/works/euclid-alexandria-optics-iaw-ap)
-
-The Optics is a foundational treatise on the geometry of vision attributed to Euclid of Alexandria, dating from around 300 BCE. Structured with definitions followed by a series of geometrical propositions, it establishes a mathematical science of sight based on the extramission theory. This model posits that vision is an active process in which straight-line visual rays emanate from the eye, forming a cone with its vertex at the eye and its base at the boundaries of the objects seen. The work's 63 propositions systematically explore the consequences of this model, explaining phenomena of perspective such as why objects appear larger or smaller when viewed from different distances, why straight lines can appear curved when observed from certain angles, and how the relative position and clarity of objects are determined by the angles of the visual rays. The treatise is rigorously geometrical in scope, concerned solely with the lines of sight and their properties, and does not address the physical nature of light or color.
-
-The text survives primarily through a later edition prepared by Theon of Alexandria in the fourth century CE, which dominates the medieval Greek manuscript tradition. Scholars reconstruct Euclid's original work by comparing Theon's recension with an older, fragmentary Latin translation and indirect references in other ancient sources. Translated into Arabic in the ninth century and later into Latin, the treatise was transmitted complete and exerted a profound influence. For over a millennium, Euclid's Optics served as the cornerstone of visual theory, directly informing later Greek writers like Ptolemy. Through the work of Arabic scholars, most notably Alhazen, who developed his influential intromission theory partly in critique of Euclid's premises, its geometrical approach to perspective shaped optical science and philosophy throughout the medieval period and into the Renaissance.
 
 ## Text
 

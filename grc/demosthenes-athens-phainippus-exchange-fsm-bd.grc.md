@@ -5,6 +5,7 @@ author: Demosthenes of Athens
 eul_wid: fsm-bd
 eul_aid: fsm
 canonical: "https://eulogikon.org/works/demosthenes-athens-phainippus-exchange-fsm-bd"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Demosthenes of Athens
 
 **eul_wid:** `fsm-bd` · [HTML page](https://eulogikon.org/works/demosthenes-athens-phainippus-exchange-fsm-bd)
-
-Against Phaenippus concerning the Antidosis is a forensic oration from classical Athens, traditionally ascribed to Demosthenes. Dating to the mid-fourth century BCE, the speech was composed for a legal dispute arising from the unique Athenian institution of the antidosis, or exchange. This procedure allowed a citizen assigned an expensive public liturgy to challenge another man he considered wealthier either to assume the financial duty or to exchange all properties with him. The speaker, having issued such a challenge to the defendant Phaenippus, accuses him of evading a fair exchange by submitting a fraudulent declaration of his assets. The speech alleges that Phaenippus systematically undervalued his substantial agricultural estate, concealing the true worth of its timber, barley, wine, and other productive resources.
-
-The oration offers a detailed glimpse into Athenian legal mechanics, social rivalries among the propertied class, and the operation of a large rural farm. It meticulously cites procedural laws and chronicles the speaker’s allegations of bad faith, including delayed disclosures and the unauthorized removal of sealed crops. While the complete text survives, its authorship has been debated since antiquity. Many ancient and modern scholars have questioned its authenticity, suggesting it may be the work of a contemporary speechwriter rather than Demosthenes himself. Nevertheless, the speech remains an invaluable historical document for understanding the practical application of Athenian civic finance, litigation strategy, and the economic realities underlying elite social obligations.
 
 ## Text
 

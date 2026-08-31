@@ -5,6 +5,7 @@ author: Phoenix of Colophon
 eul_wid: ale-aa
 eul_aid: ale
 canonical: "https://eulogikon.org/works/phoenix-colophon-ninus-fragments-ale-aa"
+lang: grc
 period: Archaic
 dialect: "Ionic (ia, frg)"
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Phoenix of Colophon
 
 **eul_wid:** `ale-aa` · [HTML page](https://eulogikon.org/works/phoenix-colophon-ninus-fragments-ale-aa)
-
-The Fragments on Ninus the Assyrian by Phoenix of Colophon is a lost poetic work, known only by its title and a reported structure of fifty-four passages. No direct quotations from the poem survive. The author is an obscure figure, mentioned in the Suda lexicon solely for a work titled The Founding of Colophon and for unspecified other compositions. The title indicates the subject was Ninus, the legendary founder of Nineveh and the Assyrian Empire in Greek mythological tradition. The lost poem would have engaged with established Greek legendary traditions about the Near East, treating Ninus as a paradigm of the empire-builder and likely narrating martial exploits, dynastic foundations, and the origins of Nineveh, consistent with accounts that link him to the queen Semiramis. The work is not directly attested in any extant ancient source, and its purported details remain unverified. While the poem itself is lost and its direct influence untraceable, its presumed subject matter connects it to the enduring Greek and Roman historical imagination regarding Assyria, a tradition transmitted through historians such as Ctesias and Diodorus Siculus.
 
 ## Text
 

@@ -1,10 +1,11 @@
 ---
 title: Introductory Canons-Noun Inflection
 title_greek: Εἰσαγωγικοὶ Κανόνες περὶ Κλίσεως Ὀνομάτων
-author: "Theodosius of Alexandria "
+author: Theodosius of Alexandria
 eul_wid: vdq-ac
 eul_aid: vdq
 canonical: "https://eulogikon.org/works/theodosius-alexandria-canons-noun-inflection-vdq-ac"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Grammar
@@ -16,13 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Εἰσαγωγικοὶ Κανόνες περὶ Κλίσεως Ὀνομάτων*
 
-**Author:** Theodosius of Alexandria 
+**Author:** Theodosius of Alexandria
 
 **eul_wid:** `vdq-ac` · [HTML page](https://eulogikon.org/works/theodosius-alexandria-canons-noun-inflection-vdq-ac)
-
-The Introductory Canons on the Inflection of Nouns is a concise Greek grammatical treatise authored by Theodosius of Alexandria, most likely during the fourth or fifth century CE. Composed in Koine Greek, this late antique work functions as a systematic pedagogical manual dedicated to the declension of nouns, adjectives, and pronouns. Its instructional framework is organized around forty succinct rules, or canons, which are designed to enable students to logically derive the correct case and number forms for a vast vocabulary, thereby avoiding the necessity of rote memorization of extensive paradigms. The treatise also incorporates fundamental rules governing Greek accentuation, presenting them as an integral component of inflection.
-
-As a foundational primer, the work exemplifies a broader shift in contemporary grammar education toward more schematic and efficient teaching methodologies. Scholars view it as a significant artifact of the ongoing effort within the Christian Roman Empire to systematize and preserve the Greek language, particularly within major intellectual centers such as Alexandria. The text survives in its complete form and remained a standard grammatical handbook for centuries. Its influence persisted throughout the Byzantine era and extended into other linguistic traditions, evidenced by translations into languages such as Armenian and Syriac, which secured its enduring role in the history of grammatical instruction.
 
 ## Text
 

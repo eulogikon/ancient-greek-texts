@@ -5,6 +5,7 @@ author: Philemon Syracusius
 eul_wid: lpe-ae
 eul_aid: lpe
 canonical: "https://eulogikon.org/works/philemon-syracusius-slavery-nature-lpe-ae"
+lang: grc
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philemon Syracusius
 
 **eul_wid:** `lpe-ae` · [HTML page](https://eulogikon.org/works/philemon-syracusius-slavery-nature-lpe-ae)
-
-Philemon of Syracuse, a prominent poet of Middle Comedy in the 4th century BCE, is credited with a fragmentary work known as Apospasmata, or "Extracts." The title suggests the surviving text is a collection of excerpts rather than a complete, continuous play. Eleven passages from the work are preserved through citations by later authors, such as Athenaeus, and are compiled in modern scholarly editions. While the specific fragments are not detailed in standard sources, the thematic context indicates the comedy engaged with contemporary treatments of slavery. In the tradition of Middle Comedy, this likely involved the stock character of the clever slave, using the figure to explore contrasts between legal status and innate human capability, social hierarchy, and universal nature. Philemon was a successful rival to Menander and significantly influenced the development of Roman comedy. Although Apospasmata is not a known direct source for a specific surviving Roman play, its thematic engagement with slavery and cunning servants contributed to the stock characters and plots of Roman palliata comedy, thereby shaping later European dramatic traditions.
 
 ## Text
 

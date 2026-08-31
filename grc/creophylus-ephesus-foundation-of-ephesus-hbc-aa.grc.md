@@ -5,6 +5,7 @@ author: Creophylus of Ephesus
 eul_wid: hbc-aa
 eul_aid: hbc
 canonical: "https://eulogikon.org/works/creophylus-ephesus-foundation-of-ephesus-hbc-aa"
+lang: grc
 period: Classical
 dialect: Ionic (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Creophylus of Ephesus
 
 **eul_wid:** `hbc-aa` · [HTML page](https://eulogikon.org/works/creophylus-ephesus-foundation-of-ephesus-hbc-aa)
-
-_The Foundation of Ephesus_ is a lost prose foundation narrative attributed to Creophylus of Ephesus, which detailed the mythical and early historical origins of the Ionian city of Ephesus. Classified as fragment 448 in the standard collection of Greek historical fragments, the work is known only by its title and a single surviving excerpt. This excerpt preserves a foundation oracle and etiological tale: the city's founders, instructed by a god to settle where a fish would show them and a wild boar would lead them, eventually founded the settlement after a fish, leaping from a fire, ignited a thicket and startled a boar, which was then slain on the spot where the temple of Athena would later stand. As a typical foundation account, or ktisis, the complete work likely treated subjects such as the city's mythical origins involving figures like Androclus or the Amazons, the Ionian migration, the establishment of civic institutions, and the foundation of the paramount cult of Artemis Ephesia, alongside descriptions of local topography. The work was transmitted in antiquity under the title "Extract," indicating it was preserved as a fragment within the text of a later author. Such local histories were instrumental in shaping civic identity and prestige, and Creophylus's narrative would have provided source material for later historians and geographers like Strabo, contributing to the corpus of Ionian historical tradition.
 
 ## Text
 

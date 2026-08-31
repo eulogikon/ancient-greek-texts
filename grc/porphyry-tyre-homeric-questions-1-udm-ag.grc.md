@@ -5,6 +5,7 @@ author: Porphyry of Tyre
 eul_wid: udm-ag
 eul_aid: udm
 canonical: "https://eulogikon.org/works/porphyry-tyre-homeric-questions-1-udm-ag"
+lang: grc
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Porphyry of Tyre
 
 **eul_wid:** `udm-ag` · [HTML page](https://eulogikon.org/works/porphyry-tyre-homeric-questions-1-udm-ag)
-
-The Homeric Questions is a scholarly treatise by the third-century Neoplatonic philosopher Porphyry of Tyre. Surviving only in fragments, the work is a collection of discrete inquiries, each addressing a specific philological, historical, or philosophical problem in the text of Homer’s Iliad and Odyssey. For a given Homeric line, Porphyry typically poses a question concerning a perceived difficulty and then provides a detailed resolution. His exegetical method synthesizes precise textual scholarship, drawing on the work of earlier Homeric commentators, with allegorical interpretation, often aiming to defend Homeric poetry as a repository of profound ethical and theological wisdom. The extant fragments are preserved through two distinct medieval manuscript traditions, known as Version B and Version T, which contain different selections and arrangements of the original questions. Consequently, the complete scope and original structure of Porphyry’s work remain uncertain. Modern scholarship regards the Homeric Questions as a significant document of late antique intellectual culture, illustrating how Neoplatonic philosophers engaged with classical literature for both pedagogical instruction and philosophical inquiry.
 
 ## Text
 

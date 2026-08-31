@@ -5,6 +5,7 @@ author: Plato of Athens
 eul_wid: ffk-bj
 eul_aid: ffk
 canonical: "https://eulogikon.org/works/plato-crito-ffk-bj"
+lang: grc
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plato of Athens
 
 **eul_wid:** `ffk-bj` · [HTML page](https://eulogikon.org/works/plato-crito-ffk-bj)
-
-Plato’s Crito is a short philosophical dialogue set in an Athenian prison at dawn on the day scheduled for the execution of Socrates in 399 BCE. It presents a conversation between Socrates and his friend Crito, who has come with a final, urgent plea for escape. Crito offers financial resources and the promise of safe refuge in exile, arguing that Socrates’ acceptance of death will bring shame upon his friends and constitute an abandonment of his sons. Socrates systematically rejects these appeals, dismissing the importance of public opinion and considerations of mere expediency. He insists that the only valid guide for action is the reasoned argument of those who understand justice.
-
-The philosophical center of the dialogue is Socrates’ personification of the Laws of Athens, which address him in an extended imagined speech. The Laws argue that by choosing to live his entire life in Athens, enjoying its benefits and raising his family under its protection, Socrates has entered into an implicit agreement to abide by its legal judgments, even unjust ones. To escape now, they contend, would be to commit an injustice by violating this foundational social contract and thereby destroying the laws themselves. The work concludes with Socrates affirming this reasoning, choosing to remain and accept his sentence out of a principled obligation to justice as he understands it.
-
-As a complete literary and philosophical text, the Crito is a foundational exploration of political obligation, civic duty, and the moral limits of state authority. It examines the critical question of whether a citizen is bound to obey the laws of the state when faced with a verdict he believes to be wrongful. Traditionally read alongside Plato’s Apology and Phaedo, it forms a crucial part of the narrative and philosophical examination of Socrates’ trial and death, emphasizing the priority of the soul’s integrity and ethical consistency over bodily preservation. The dialogue’s enduring significance lies in its early and powerful formulation of social contract theory and its enduring inquiry into the relationship between the individual and the rule of law.
 
 ## Text
 

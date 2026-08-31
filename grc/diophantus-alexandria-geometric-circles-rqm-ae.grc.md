@@ -5,6 +5,7 @@ author: Diophantus of Alexandria II
 eul_wid: rqm-ae
 eul_aid: rqm
 canonical: "https://eulogikon.org/works/diophantus-alexandria-geometric-circles-rqm-ae"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Diophantus of Alexandria II
 
 **eul_wid:** `rqm-ae` · [HTML page](https://eulogikon.org/works/diophantus-alexandria-geometric-circles-rqm-ae)
-
-The work titled Geometric Fragments on Circles, attributed to a figure designated as Diophantus of Alexandria II, is unattested in the standard scholarly corpus for ancient Greek mathematics. The known Diophantus of Alexandria, the 3rd-century CE algebraist famed for his Arithmetica, focused exclusively on number theory and algebraic equations; no geometric treatise by him is recorded in historical sources. While the 10th-century Byzantine encyclopedia known as the Suda lists other works by Diophantus, including a collection of "Porisms," these references pertain to arithmetical investigations, and no geometric work on circles is documented. The purported content of the Fragments, described as a series of problems concerning circles, cannot be verified, and no specific theorems or calculations from it are preserved in the historical record. There exists no known manuscript tradition or preservation history for this specific text in major digital libraries or reference works. Consequently, as both the work and its attributed author lack any corroboration in established sources, it holds no recognized place in the history of Greek geometry and falls entirely outside the verified and influential corpus of Diophantine mathematics.
 
 ## Text
 

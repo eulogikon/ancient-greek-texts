@@ -5,6 +5,7 @@ author: Julia Balbilla Princess of Commagene
 eul_wid: pkk-aa
 eul_aid: pkk
 canonical: "https://eulogikon.org/works/julia-balbilla-epigrams-pkk-aa"
+lang: grc
 period: Roman
 dialect: Aeolic
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Julia Balbilla Princess of Commagene
 
 **eul_wid:** `pkk-aa` · [HTML page](https://eulogikon.org/works/julia-balbilla-epigrams-pkk-aa)
-
-The Epigrams of Julia Balbilla comprise four complete poems and one fragmentary passage, composed around 130 CE and inscribed directly onto the Colossus of Memnon at Egyptian Thebes. Written in literary Aeolic Greek infused with Homeric diction, these verse inscriptions commemorate two visits to the statue by the Roman emperor Hadrian and his wife, the empress Sabina, during whose imperial tour Balbilla traveled. The poems personally record the statue's famed "singing" at dawn—a natural acoustic phenomenon attributed to the monument—and celebrate the event as a divine omen of favor for the imperial couple. Structured as first-person commemorations, the epigrams name Balbilla as their author and prominently detail her distinguished lineage, which included royal ancestry from Commagene and connections to Roman consular families. Modern scholarship interprets these inscriptions as sophisticated acts of self-presentation, designed for contemporary visitors and future tourists alike. They permanently associate Balbilla's name and elite heritage with the imperial presence while demonstrating her profound Hellenic education through the use of an archaic poetic dialect. The poems survive exclusively as physical carvings on the statue itself, having never been transmitted through medieval manuscript traditions. All five texts remain on the monument, with four fully legible and one extant only as a brief fragment. Their preservation is thus entirely archaeological, offering a direct epigraphic snapshot of a moment during Hadrian's travels.
 
 ## Text
 

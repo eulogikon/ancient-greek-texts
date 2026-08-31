@@ -5,6 +5,7 @@ author: Hymn to the Idaean Dactyls Anonymous
 eul_wid: rgw-aa
 eul_aid: rgw
 canonical: "https://eulogikon.org/works/hymn-idaean-dactyls-text-rgw-aa"
+lang: grc
 period: Roman
 dialect: Epic (Homeric)
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hymn to the Idaean Dactyls Anonymous
 
 **eul_wid:** `rgw-aa` · [HTML page](https://eulogikon.org/works/hymn-idaean-dactyls-text-rgw-aa)
-
-The "Hymn to the Idaean Dactyls" is a brief, fragmentary ritual invocation preserved as Hymn 38, titled "To the Curetes," within the late antique collection known as the Orphic Hymns. In this context, the Curetes are identified by scholars with the Idaean Dactyls, mythical beings often conflated in ancient sources as divine craftsmen and protectors. The text summons these figures, addressing them as defenders of Zeus and guardians of his mother Rhea, and calls for their joyful and benevolent presence at a ceremony. Its survival is owed to the manuscript tradition of the Orphic Hymns, most notably a 15th-century codex that transmits the entire corpus. As a component of this collection, the hymn exemplifies the syncretic religious poetry of the later Greco-Roman era, often associated with Orphic or mystery cult circles, and reflects the enduring mythological significance of the Dactyls as archetypal artisans and divine guardians.
 
 ## Text
 

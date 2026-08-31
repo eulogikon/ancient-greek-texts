@@ -5,6 +5,7 @@ author: Oppian Lives
 eul_wid: qvi-ab
 eul_aid: qvi
 canonical: "https://eulogikon.org/works/oppian-life-of-tzetzes-qvi-ab"
+lang: grc
 period: Roman
 dialect: Mixed Dialects
 domain: Biography

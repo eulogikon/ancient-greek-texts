@@ -5,6 +5,7 @@ author: Ammonius of Alexandria Phil
 eul_wid: uqo-ac
 eul_aid: uqo
 canonical: "https://eulogikon.org/works/ammonius-alexandria-categories-commentary-uqo-ac"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Ammonius of Alexandria Phil
 
 **eul_wid:** `uqo-ac` · [HTML page](https://eulogikon.org/works/ammonius-alexandria-categories-commentary-uqo-ac)
-
-Ammonius of Alexandria’s Commentary on Aristotle’s Categories is a seminal treatise in the late antique philosophical tradition. Composed in Greek between approximately 485 and 517 CE, the work transmits the lectures of Ammonius, a prominent Neoplatonist scholar, as he instructed students in Aristotle’s foundational logical text. The commentary is systematically organized into 106 sections. It commences by examining a series of ten preliminary questions customary for approaching Aristotle’s works, concerning matters such as the origin of philosophical sect names, the division of Aristotelian writings, the proper starting point for study, the utility of Aristotelian philosophy, the prerequisites for engaging with it, the necessary preparation for a student, the style of presentation, the philosopher’s apparent obscurity, the required preliminary knowledge for each treatise, and the qualities of a good commentator. Following this extensive prolegomena, the work proceeds to a meticulous, line-by-line exegesis of Aristotle’s Categories.
-
-The commentary seeks to explicate Aristotelian logic within a Neoplatonic intellectual framework, characteristic of the Alexandrian school where Aristotle’s works were studied as a preparatory curriculum for the higher truths of Plato. A principal objective is the harmonization of Aristotelian and Platonic doctrine. Scholars interpret the commentary as advancing the view that Aristotle’s categories pertain to linguistic expressions insofar as they signify realities in the world, thereby engaging substantively with contemporary debates on universals and the ontology of the ten categories. Produced during a period of increasing tension between pagan philosophical heritage and Christian authority, the work exemplifies a rigorous pedagogical methodology committed to the preservation and transmission of classical Greek learning.
-
-The complete text survives in Greek manuscripts and exerted considerable influence. Ammonius’s teachings directly shaped the commentaries of his students, most notably John Philoponus, and his interpretations were disseminated through Byzantine, Syriac, and subsequently Arabic and Latin scholarly channels, establishing the work as a vital conduit in the historical reception of Aristotelian logic.
 
 ## Text
 

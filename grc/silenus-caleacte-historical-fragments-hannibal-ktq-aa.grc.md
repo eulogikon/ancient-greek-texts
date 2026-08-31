@@ -5,6 +5,7 @@ author: Silenus of Caleacte
 eul_wid: ktq-aa
 eul_aid: ktq
 canonical: "https://eulogikon.org/works/silenus-caleacte-historical-fragments-hannibal-ktq-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Silenus of Caleacte
 
 **eul_wid:** `ktq-aa` · [HTML page](https://eulogikon.org/works/silenus-caleacte-historical-fragments-hannibal-ktq-aa)
-
-The Historical Fragments on Hannibal by Silenus of Caleacte is a lost Hellenistic history, composed in Greek prose in the late third or early second century BCE. Known only through quotations in later Roman authors, it provided a contemporary, eyewitness account of the Second Punic War from the perspective of Hannibal's camp. Cicero praised its clear and pleasing style, noting it was a key source for the Roman historian Coelius Antipater. The surviving fragments cover pivotal episodes including Hannibal's crossing of the Alps, details of specific battles and military strategies, and various divine omens and prophetic dreams, such as one in which Hannibal is guided by a youth sent by Jupiter. The work also contained ethnographic and geographic descriptions of the regions encountered during the campaigns. No independent manuscript tradition exists; the text survives in approximately eleven fragments preserved primarily by Cicero and the epitomizer Lucius Ampelius, collected in modern scholarly editions. As a primary source from the Carthaginian perspective, Silenus's history was crucial for later historians like Coelius Antipater, Livy, and Polybius, and its fragments remain invaluable for the modern historical reconstruction of Hannibal's campaigns.
 
 ## Text
 

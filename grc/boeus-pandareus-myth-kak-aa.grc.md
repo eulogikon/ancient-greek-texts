@@ -5,6 +5,7 @@ author: Boeus the Epic Poet
 eul_wid: kak-aa
 eul_aid: kak
 canonical: "https://eulogikon.org/works/boeus-pandareus-myth-kak-aa"
+lang: grc
 period: Hellenistic
 dialect: Epic (Homeric)
 domain: Epic
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Boeus the Epic Poet
 
 **eul_wid:** `kak-aa` · [HTML page](https://eulogikon.org/works/boeus-pandareus-myth-kak-aa)
-
-The Fragments of the Pandareus Myth are remnants of epic poetry attributed to the Hellenistic poet Boeus. Preserved primarily through later mythographical sources, the most substantial fragment is recorded by Antoninus Liberalis. It recounts a Cretan version of the myth involving Pandareus, a son of Merops. The narrative details how Pandareus committed sacrilege by stealing a golden dog from a temple of Zeus on Crete. As punishment for this theft, Zeus transformed him into stone. The fragment further relates the fate of Pandareus's daughters, Aëdon and Chelidon, who were turned into birds—a nightingale and a swallow, respectively—by the gods, an act intended for their salvation. This etiological focus on avian metamorphosis aligns with Boeus's apparent interest in cataloguing myths of transformation, a genre sometimes referred to as Ornithogonia. The work has no independent manuscript tradition and survives solely in such citations. Its significance lies in preserving a local variant of the Pandareus story, which differs notably from its brief Homeric counterpart, and in exemplifying the Hellenistic scholarly impulse to systematically compile and explain mythological and natural phenomena.
 
 ## Text
 

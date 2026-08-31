@@ -5,6 +5,7 @@ author: Euripides
 eul_wid: cbm-ao
 eul_aid: cbm
 canonical: "https://eulogikon.org/works/euripides-hector-cassandra-cbm-ao"
+lang: grc
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Euripides
 
 **eul_wid:** `cbm-ao` · [HTML page](https://eulogikon.org/works/euripides-hector-cassandra-cbm-ao)
-
-The Fragments on Hector and Cassandra constitute a collection of 477 fragmentary passages attributed to Euripides that concern the Trojan War figures of Hector and Cassandra. These excerpts are drawn from several of the playwright's lost tragedies, including Alexander, Palamedes, and Phrygians, also known as Hector's Ransom, which dramatized events such as the recovery of Hector's body from Achilles. The fragments pertaining to the prophetess Cassandra derive primarily from the lost play Alexandros. The surviving lines, preserved through quotations in later authors like Athenaeus and Stobaeus as well as papyrus discoveries, are modern scholarly reconstructions compiled in reference works such as Tragicorum Graecorum Fragmenta.
-
-The thematic content of these fragments explores the brutality and futility of war, emphasizing the suffering of the defeated and the moral ambiguity of victory. A prominent focus is the fate of women in wartime, exemplified by Cassandra's enslavement and her prophetic madness, which renders her warnings powerless. The fragments also engage with the heroic ethos, offering a critique through the portrayal of Hector, and examine themes of divine injustice and human powerlessness, central to the tragedy of Cassandra's disbelieved prophecies. Collectively, these fragments significantly expand modern understanding of Euripides' dramatic treatment of the Trojan mythos. His characteristically subversive focus on psychological realism, rhetorical debate, and the perspectives of marginalized figures, as evidenced in these remnants, exerted a profound influence on later Hellenistic and Roman literature. The Euripidean portrayal of Cassandra within these fragments was particularly instrumental in solidifying her enduring archetype as the tragic prophetess of doom whose truths are forever ignored.
 
 ## Text
 
@@ -374,6 +371,8 @@ The thematic content of these fragments explores the brutality and futility of w
 
 χωρεῖτε, [παῖδε]ς, ἄστυ δ’ Ἰσμηνὸν πάρα ἑπτάσ[τομ]ον πύλαισιν ἐξαρτύετε. σὺ μὲν [.....]ντο
 
+*[crux: [.....]ντο]*
+
 ### book 10.3
 
 πνεῦμα
@@ -465,6 +464,8 @@ The thematic content of these fragments explores the brutality and futility of w
 ### book 11.3
 
 φημὶ τολμῆσαι τάδε· σὺ δ’ ἐκ κακῶν, ἄναξ, φρόντισον εὖ καλύψαι. ΠΑΣΙΦΑ[Η] ἀρνουμένη μὲν οὐκέτ’ ἂν πίθοιμί σε,[ln_5]πάντως γὰρ ἤδη δῆλον ὡς ἔχει τάδε. ἐγ[ὼ] γὰρ εἰ μὲν ἀνδρὶ προὔβαλον δέμας
+
+*[crux: δ’ ἐκ κακῶν]*
 
 ### book 11.4
 
@@ -1714,9 +1715,13 @@ The thematic content of these fragments explores the brutality and futility of w
 
 χθονί· ὁ μὲν γεγὼς ἔχθιστος εἰς Ἅιδην φέρει, ὁ δ’ εἰς τὸ σῶφρον ἐπ’ ἀρετήν τ’ ἄγων ἔρως[ln_25]ζηλωτὸς ἀνθρώποισιν, ὧν εἴην ἐγώ. οὐκοῦν νομίζω καὶ θανεῖν γε
 
+*[crux: οὐκοῦν]*
+
 ### book 16.8
 
 σωφρονῶν· ἀλλ’ εἰς ἀγρὸν γὰρ ἐξιέναι βουλήσομαι οὐ γάρ με λύει
+
+*[crux: οὐ]*
 
 ### book 16.9
 
@@ -1857,6 +1862,8 @@ The thematic content of these fragments explores the brutality and futility of w
 ### book 26.5
 
 πατρώ[ι]οις, οὔτοι τ[ό] γε μὴ πεφυ[κὸς . . . . . . . . . . . . ἐν ἐσθλοῖς δὲ καθήσεσθ’ ἄνολβοι.
+
+*[crux: καθήσεσθ’]*
 
 ### book 27.1
 

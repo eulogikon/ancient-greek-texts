@@ -5,6 +5,7 @@ author: Athenaeus the Epigrammatist
 eul_wid: kcs-ab
 eul_aid: kcs
 canonical: "https://eulogikon.org/works/athenaeus-epigrammatist-epigram-kcs-ab"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Athenaeus the Epigrammatist
 
 **eul_wid:** `kcs-ab` · [HTML page](https://eulogikon.org/works/athenaeus-epigrammatist-epigram-kcs-ab)
-
-The epigrams of Athenaeus the Epigrammatist comprise six short poems preserved within the Greek Anthology. Composed in elegiac couplets, five are erotic poems addressing youths named Diocles, Diphilus, and Theocles, while the sixth is a sepulchral piece. The poems treat conventional Hellenistic themes, with the erotic verses celebrating male youthful beauty through standardized praise and metaphors, such as comparisons to Ganymede. The single funerary epigram reflects on death and the purpose of tombstones. These six epigrams survive solely through the manuscript tradition of the Greek Anthology, appearing in both the Palatine Anthology and the Planudean Anthology. The primary textual source is the 10th-century CE Palatine manuscript, Codex Palatinus 23. Athenaeus is a minor figure, generally placed stylistically in the late Hellenistic or early Imperial period, approximately the first century BCE to the first century CE. His work contributes to the collective body of Hellenistic epigrammatic poetry and is primarily of scholarly interest for the study of erotic epigram and the anthology’s composition.
 
 ## Text
 

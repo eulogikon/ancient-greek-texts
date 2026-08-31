@@ -5,6 +5,7 @@ author: Anaxandrides Comicus
 eul_wid: hbw-ab
 eul_aid: hbw
 canonical: "https://eulogikon.org/works/anaxandrides-fate-hbw-ab"
+lang: grc
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Anaxandrides Comicus
 
 **eul_wid:** `hbw-ab` · [HTML page](https://eulogikon.org/works/anaxandrides-fate-hbw-ab)
-
-The Fragments on Fate is a modern scholarly compilation of excerpts from the lost comedies of the Athenian poet Anaxandrides. It is not an ancient, unified text but rather a collection of 194 fragments, ranging from single lines to short passages, which have been preserved through quotation by later authors such as Athenaeus. The modern title reflects a thematic grouping of content within these excerpts, which often touch upon concepts of fortune and destiny, rather than denoting an original work by that name. The fragments showcase the standard repertoire of Middle Comedy, including mythological parody, romantic and domestic plots, and social satire with a notable emphasis on gastronomy. They also contain sententious or proverbial remarks, a feature that likely inspired their modern categorization. No complete play by Anaxandrides survives; the fragments are transmitted indirectly through the works of later antiquarians and lexicographers, most extensively in Athenaeus's Deipnosophistae, and are assembled in modern editions like Poetae Comici Graeci. As a successful poet of Middle Comedy, Anaxandrides played a role in the genre's evolution away from direct political satire and toward the social comedy and romantic narratives that would characterize New Comedy. His works remained a valued source of Attic idiom and humor well into the Roman imperial period.
 
 ## Text
 

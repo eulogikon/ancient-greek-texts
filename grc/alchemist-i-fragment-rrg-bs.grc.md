@@ -5,6 +5,7 @@ author: Alchemist I
 eul_wid: rrg-bs
 eul_aid: rrg
 canonical: "https://eulogikon.org/works/alchemist-i-fragment-rrg-bs"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alchemist I
 
 **eul_wid:** `rrg-bs` · [HTML page](https://eulogikon.org/works/alchemist-i-fragment-rrg-bs)
-
-The Alchemical Fragment is a brief, pseudonymous Greek treatise attributed to an author known only as Alchemist I. Preserved within larger medieval compilations of Greco-Egyptian alchemical writings, the work consists of two short passages of practical instruction. The first describes a process for metallic transmutation involving a special stone and the observation of a color change to a leek-green hue before treatment with a substance termed divine water. The second passage provides a technical recipe for producing asem, a silver-gold alloy, using copper, tin, and mercury. The text survives primarily in two major manuscripts: the Codex Marcianus graecus 299 from the 10th or 11th century and the Parisinus graecus 2327 from the 13th century. It is included in modern critical editions of the Greek alchemical corpus. Characteristic of the practical, recipe-based core of late antique alchemy, the fragment exemplifies the technical knowledge that was transmitted through Arabic and Byzantine traditions to medieval Latin Europe, thereby influencing the development of later alchemical practice and early chemistry.
 
 ## Text
 

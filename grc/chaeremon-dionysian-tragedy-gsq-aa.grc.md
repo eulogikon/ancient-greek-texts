@@ -5,6 +5,7 @@ author: Chaeremon the Tragic Poet
 eul_wid: gsq-aa
 eul_aid: gsq
 canonical: "https://eulogikon.org/works/chaeremon-dionysian-tragedy-gsq-aa"
+lang: grc
 period: Classical
 dialect: "Attic (dr, frg)"
 domain: Drama
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Chaeremon the Tragic Poet
 
 **eul_wid:** `gsq-aa` · [HTML page](https://eulogikon.org/works/chaeremon-dionysian-tragedy-gsq-aa)
-
-The Fragments of a Dionysian Tragedy comprises 94 surviving passages from a lost play by the fourth-century BCE Athenian poet Chaeremon. Written in Attic Greek verse for the tragic stage, the work’s original plot and complete structure remain unknown, though its title indicates a traditional subject involving the god Dionysus. The extant text is characterized by a highly descriptive and visually elaborate style, marked by detailed imagery and refined language. These fragments survive not in a continuous manuscript but through quotations by later ancient authors such as Athenaeus. Modern scholarship interprets Chaeremon’s ornate literary manner as representative of a trend in later classical tragedy, which at times prioritized intricate poetic detail over direct theatrical spectacle. The philosopher Aristotle observed that this stylistic quality rendered Chaeremon’s work more suitable for reading than for stage performance. Collectively, the fragments provide a valuable glimpse into the evolution of Greek dramatic poetry following the era of the great fifth-century tragedians.
 
 ## Text
 

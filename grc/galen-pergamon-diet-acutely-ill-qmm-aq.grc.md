@@ -5,6 +5,7 @@ author: Galen of Pergamon
 eul_wid: qmm-aq
 eul_aid: qmm
 canonical: "https://eulogikon.org/works/galen-pergamon-diet-acutely-ill-qmm-aq"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Galen of Pergamon
 
 **eul_wid:** `qmm-aq` · [HTML page](https://eulogikon.org/works/galen-pergamon-diet-acutely-ill-qmm-aq)
-
-On Hippocrates' 'On the Diet of the Acutely Ill' is a medical commentary composed by the physician Galen of Pergamon in Greek, likely between 170 and 180 CE. The work provides a systematic, line-by-line exegesis of the earlier Hippocratic treatise concerning the management of severe and sudden illnesses. Galen structures his analysis around 501 specific excerpts from the source text, each followed by his own interpretive remarks. While the commentary addresses practical therapeutic measures, such as the administration of particular foods and drinks, its primary function is to advance Galen’s own theoretical framework for medicine. He uses the Hippocratic text as a platform to argue that successful treatment depends on a profound understanding of the body’s physiological systems, moving beyond the application of simple empirical rules.
-
-Composed during Galen’s residence in Rome, a period marked by intense doctrinal conflict among medical sects, the commentary served as a polemical instrument. Galen positions Hippocrates as the foundational medical authority and, through his interpretation, critiques rival methodologies while legitimizing his own integrative approach. The intended audience was likely advanced students and fellow practitioners, for whom the work aimed to establish both Galen’s personal authority and the validity of his hermeneutical principles. The treatise survives in its entirety through the medieval manuscript tradition and is part of Galen’s extensive corpus. Its subsequent translation into Syriac, Arabic, and Latin ensured its influence, cementing Galen’s interpretation of Hippocratic doctrine as a cornerstone of humoral theory and medical practice for more than a millennium.
 
 ## Text
 
@@ -1772,7 +1769,7 @@ Composed during Galen’s residence in Rome, a period marked by intense doctrina
 
 ### 15 855
 
-Ἢν δὲ μὴ ῥηϊδίως ἀπαλλάcc ῃ , ἔλασσόν τε τὸ πόμα καὶ τὸ ῥόφημ α , ὀλίγον χυλὸν λεπτὸν καὶ ἅπα ξ , ἐν ὁκοτέρῃ ἂν ὥρῃ βέλτιον διάγῃ · γνώσῃ δὲ ἐκ τῶν οὔρω ν . δεῖ δὲ ῥόφημα προσφέρειν τοῖσιν ἐκ τῶν νοσημάτων μὴ πρότερον ἢ πέπονα τὰ οὖρα ἢ πτύσματα ἴδῃς γεγενημέν α . ἢν δὲ φαρμακευθεὶς συχνὰ καθαρθ ῇ , ἀναγκαῖον διδόνα ι , ἔλασσον δὲ καὶ λεπτότερον · οὐ γὰρ δυνήσεται ὑπὸ κενεαγγείης ὑπνώσσειν οὐδὲ πέσσειν ὁμοίως οὐδὲ τὰς κρίσεις ὑπο μένειν · ἀλ λ ’ ἐπειδὰν συντήξιες ὠμῶν γένωνται καὶ τὰ ἀντέχοντα ἀποβάλ ῃ , ἀνθέξει οὐδέ ν . [10]
+Ἢν δὲ μὴ ῥηϊδίως ἀπαλλάσσ ῃ , ἔλασσόν τε τὸ πόμα καὶ τὸ ῥόφημ α , ὀλίγον χυλὸν λεπτὸν καὶ ἅπα ξ , ἐν ὁκοτέρῃ ἂν ὥρῃ βέλτιον διάγῃ · γνώσῃ δὲ ἐκ τῶν οὔρω ν . δεῖ δὲ ῥόφημα προσφέρειν τοῖσιν ἐκ τῶν νοσημάτων μὴ πρότερον ἢ πέπονα τὰ οὖρα ἢ πτύσματα ἴδῃς γεγενημέν α . ἢν δὲ φαρμακευθεὶς συχνὰ καθαρθ ῇ , ἀναγκαῖον διδόνα ι , ἔλασσον δὲ καὶ λεπτότερον · οὐ γὰρ δυνήσεται ὑπὸ κενεαγγείης ὑπνώσσειν οὐδὲ πέσσειν ὁμοίως οὐδὲ τὰς κρίσεις ὑπο μένειν · ἀλ λ ’ ἐπειδὰν συντήξιες ὠμῶν γένωνται καὶ τὰ ἀντέχοντα ἀποβάλ ῃ , ἀνθέξει οὐδέ ν . [10]
 
 ### 15 856
 

@@ -5,6 +5,7 @@ author: Aeschylus Scholia
 eul_wid: tro-ae
 eul_aid: tro
 canonical: "https://eulogikon.org/works/aeschylus-scholia-prometheus-bound-tro-ae"
+lang: grc
 period: Late Antique
 dialect: Byzantine Greek
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aeschylus Scholia
 
 **eul_wid:** `tro-ae` · [HTML page](https://eulogikon.org/works/aeschylus-scholia-prometheus-bound-tro-ae)
-
-The Scholia on Prometheus Bound is an extensive collection of 842 explanatory notes, or scholia, composed in Greek as a commentary on Aeschylus's tragedy. It is not a unified work by a single author but a stratified compilation, with its foundational material deriving from the scholarship of the Hellenistic period between the 3rd and 1st centuries BCE. This core received successive layers of addition and condensation throughout the Byzantine era. The scholia function as a line-by-line exegetical apparatus, offering glosses on obscure vocabulary, elucidations of grammatical constructions and mythological references, records of textual variants, and sporadic literary analysis. Compiled primarily as an aid for students, teachers, and scribes grappling with the play's archaic and complex language, it served as a crucial educational tool. These marginal annotations were copied, abbreviated, and transmitted over centuries within the manuscript tradition. The complete corpus survives chiefly in a single 10th-century Byzantine codex, the Codex Mediceus Laurentianus, though the more expansive and detailed Hellenistic commentaries from which these notes were distilled are largely lost. For contemporary scholarship, the scholia constitute an indispensable resource for the critical editing of Aeschylus's text and for tracing the history of the play's interpretation from antiquity through the medieval period.
 
 ## Text
 

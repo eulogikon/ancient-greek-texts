@@ -5,6 +5,7 @@ author: Favorinus of Arelate
 eul_wid: peq-aa
 eul_aid: peq
 canonical: "https://eulogikon.org/works/favorinus-arelate-old-age-pleasure-peq-aa"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Favorinus of Arelate
 
 **eul_wid:** `peq-aa` · [HTML page](https://eulogikon.org/works/favorinus-arelate-old-age-pleasure-peq-aa)
-
-The Fragments on Old Age and Pleasure constitutes a collection of philosophical excerpts attributed to Favorinus of Arelate, a prominent Gallo-Roman sophist and philosopher of the second century CE. Preserved not as a continuous treatise but as a later compilation within the fifth-century CE anthology of Johannes Stobaeus, the work comprises 166 passages that distill Favorinus's thoughts on two interconnected ethical themes: the nature and experience of old age, and the proper philosophical understanding of pleasure. Written in Attic Greek, these concise fragments engage with the central moral debates of the era, reflecting dialogues among Stoic, Epicurean, and Skeptical schools. The original scope and structure of Favorinus's discussion are lost, as the text survives solely through Stobaeus's selective transcription, with no independent manuscript tradition. It is representative of the popular "peri" literature, designed to offer moral guidance and rhetorical demonstration for an educated elite. Through its preservation in Stobaeus's influential Anthologion, the compilation ensured that Favorinus's pragmatic insights on life's later stages and the governance of desire were transmitted within the broader stream of later Greek ethical thought.
 
 ## Text
 

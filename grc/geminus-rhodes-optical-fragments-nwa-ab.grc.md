@@ -5,6 +5,7 @@ author: Geminus of Rhodes
 eul_wid: nwa-ab
 eul_aid: nwa
 canonical: "https://eulogikon.org/works/geminus-rhodes-optical-fragments-nwa-ab"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Geminus of Rhodes
 
 **eul_wid:** `nwa-ab` · [HTML page](https://eulogikon.org/works/geminus-rhodes-optical-fragments-nwa-ab)
-
-The Optical Fragments is a collection of five passages from a lost scientific treatise on optics attributed to the Hellenistic mathematician and astronomer Geminus of Rhodes. Written in Koine Greek around 70 BCE, the work explores fundamental principles of light and vision. It discusses the rectilinear propagation of light, the geometry of reflection, and the visual distortions that cause straight colonnades to appear curved and square towers to seem round when viewed from a distance. The text adopts a mathematical approach to optics, explicitly distinguishing itself from physiological inquiries into the nature of vision. The surviving fragments are preserved not as an independent manuscript but through quotations in later works, primarily a sixth-century CE commentary on Aristotle by John Philoponus. Modern scholars interpret these excerpts as part of Geminus's broader work within the advanced Hellenistic scientific tradition, likely intended for students of philosophy and mathematics and thought to have been composed under the influence of the Stoic thinker Posidonius. Although the original treatise is lost, the ideas transmitted through these fragments influenced later Greek, Byzantine, and medieval Islamic optics, serving as a conceptual link between the foundational geometrical work of Euclid and the later empirical synthesis by Ptolemy.
 
 ## Text
 

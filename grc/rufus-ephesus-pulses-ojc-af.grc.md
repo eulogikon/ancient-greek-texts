@@ -5,6 +5,7 @@ author: Rufus of Ephesus
 eul_wid: ojc-af
 eul_aid: ojc
 canonical: "https://eulogikon.org/works/rufus-ephesus-pulses-ojc-af"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Medicine
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Rufus of Ephesus
 
 **eul_wid:** `ojc-af` · [HTML page](https://eulogikon.org/works/rufus-ephesus-pulses-ojc-af)
-
-The Synopsis on Pulses is a concise medical treatise written in Greek by the physician Rufus of Ephesus around 100 CE. A systematic handbook, it distills the ancient art of pulse diagnosis into a series of brief chapters. The work opens by asserting the indispensable role of pulse knowledge in proper treatment, tracing its historical origins and providing a precise physiological definition of the pulse as the dilation and contraction of the heart and arteries. It proceeds to methodically classify pulses according to their speed, strength, rhythm, and other qualitative differences, while carefully distinguishing the pulse from similar phenomena like palpitations, spasms, and tremors. The treatise explains the diagnostic significance of various pulses in relation to specific diseases, as well as to factors such as the patient's age, the season, and different parts of the body.
-
-Intended as a practical guide for students and practicing physicians, the Synopsis represents Rufus's effort to synthesize and transmit the sophisticated pulse theories developed by earlier schools of medicine, particularly the Alexandrian tradition. The complete text survives, preserved among his collected works, and reflects the paramount importance placed on pulse-reading in ancient diagnostic practice. As a respected authority, Rufus's clear and systematic summaries helped preserve this specialized knowledge for later generations. His works, including this treatise, were subsequently translated and studied extensively within the Byzantine and Islamic medical traditions, maintaining their influence on physicians for centuries.
 
 ## Text
 

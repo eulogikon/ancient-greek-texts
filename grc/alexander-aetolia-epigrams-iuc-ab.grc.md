@@ -5,6 +5,7 @@ author: Alexander of Aetolia
 eul_wid: iuc-ab
 eul_aid: iuc
 canonical: "https://eulogikon.org/works/alexander-aetolia-epigrams-iuc-ab"
+lang: grc
 period: Hellenistic
 dialect: Attic (frg)
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alexander of Aetolia
 
 **eul_wid:** `iuc-ab` · [HTML page](https://eulogikon.org/works/alexander-aetolia-epigrams-iuc-ab)
-
-The Epigrams of Alexander of Aetolia comprise a collection of fourteen short poems composed in Greek during the 3rd century BCE. Written in the elegiac couplet meter, these works engage with the conventional themes of the epigrammatic tradition, including erotic longing, votive offerings, and commemorative epitaphs. Among the most notable is an epitaph for the poet Erinna, which extols her literary skill and laments her premature death. The poems do not survive as an independent volume but are preserved within the later Byzantine compilation known as the Greek Anthology. Seven are contained in the core 10th-century manuscript of the Palatine Anthology, with the remaining seven attributed from other sources. This mode of transmission is characteristic of Hellenistic lyric poetry, where original collections are often lost and works persist through subsequent anthologies. Alexander was a scholar-poet associated with the Library of Alexandria, and his epigrams are considered products of a refined, courtly milieu. They exemplify the polished and allusive style cultivated in early Hellenistic literary circles, marking the epigram's evolution from a simple inscribed form to a sophisticated genre of literary expression.
 
 ## Text
 

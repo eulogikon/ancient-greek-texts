@@ -5,6 +5,7 @@ author: Lysias the Orator
 eul_wid: ejc-am
 eul_aid: ejc
 canonical: "https://eulogikon.org/works/lysias-defense-murder-eratosthenes-ejc-am"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lysias the Orator
 
 **eul_wid:** `ejc-am` · [HTML page](https://eulogikon.org/works/lysias-defense-murder-eratosthenes-ejc-am)
-
-Lysias’s Defense in the Murder of Eratosthenes is a complete Athenian courtroom oration composed in the early fourth century BCE for a client named Euphiletus, who stood trial for the killing of Eratosthenes. The speech presents Euphiletus’s admission of the homicide but frames it as a lawful and justifiable act. He asserts that he discovered Eratosthenes in the act of adultery with his wife within his own home, a circumstance under which Athenian law granted a husband the right to use lethal force immediately. The defense is a carefully constructed first-person narrative in which Euphiletus portrays himself as a wronged but honorable citizen, detailing how he learned of the affair through an informant, verified it with a household slave, and ultimately ambushed the lover. His entire argument rests on persuading the jury that his response was a spontaneous execution of the law against adultery rather than a premeditated murder motivated by personal vengeance. The oration is a masterful example of forensic rhetoric, offering a vital window into Athenian social values, the legal principles surrounding justifiable homicide, and the profound connection between a man’s domestic honor and the civic order. Preserved intact through medieval manuscripts and securely attributed to the speechwriter Lysias, it remains a foundational text for the study of Greek law, society, and rhetorical practice.
 
 ## Text
 

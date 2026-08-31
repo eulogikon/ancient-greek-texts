@@ -5,6 +5,7 @@ author: Philo of Alexandria
 eul_wid: lgi-aj
 eul_aid: lgi
 canonical: "https://eulogikon.org/works/philo-alexandria-life-of-moses-lgi-aj"
+lang: grc
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philo of Alexandria
 
 **eul_wid:** `lgi-aj` · [HTML page](https://eulogikon.org/works/philo-alexandria-life-of-moses-lgi-aj)
-
-On the Life of Moses is a two-book treatise composed in Greek by the Hellenistic Jewish philosopher Philo of Alexandria, likely written in the mid-first century CE. This philosophical biography presents the story of the biblical lawgiver to a Greco-Roman audience, recasting the traditional narrative within an intellectual framework familiar to Hellenistic readers. The first book offers a chronological account of Moses’s life from his birth and upbringing in the Egyptian court to the Exodus of the Israelites from Egypt, closely following the sequence of events found in the biblical books of Exodus and Numbers. The second book departs from strict chronology to present a systematic, thematic analysis of Moses’s character and achievements, portraying him successively as the ideal king, the supreme legislator, the perfect high priest, and the definitive prophet.
-
-Philo’s method blends historical narrative with extensive allegorical interpretation, aiming to demonstrate that the laws given through Moses are not particular ethnic ordinances but embodiments of universal, rational principles accessible to all. The work functions as both an exposition of Jewish tradition and an apologetic defense, seeking to explain and elevate Jewish thought in terms admired by the broader Hellenistic world. In Philo’s portrait, Moses emerges as the consummate philosopher-king, a figure whose life exemplifies the cardinal virtues of Greek philosophy and manifests a profound harmony between divine revelation and human reason. The complete text of the treatise survives in the original Greek through its transmission in medieval Byzantine manuscripts, and an early Armenian translation also exists. Historically significant for its synthesis of biblical narrative and philosophical idealism, On the Life of Moses proved highly influential in the development of early Christian thought, providing a durable model for interpreting scriptural figures through a philosophical lens.
 
 ## Text
 

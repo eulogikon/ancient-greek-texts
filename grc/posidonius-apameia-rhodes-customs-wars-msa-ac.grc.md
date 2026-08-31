@@ -5,6 +5,7 @@ author: Posidonius of Apameia and Rhodes
 eul_wid: msa-ac
 eul_aid: msa
 canonical: "https://eulogikon.org/works/posidonius-apameia-rhodes-customs-wars-msa-ac"
+lang: grc
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Posidonius of Apameia and Rhodes
 
 **eul_wid:** `msa-ac` · [HTML page](https://eulogikon.org/works/posidonius-apameia-rhodes-customs-wars-msa-ac)
-
-Fragments on Customs and Wars is a modern scholarly compilation of passages attributed to the Stoic philosopher and historian Posidonius of Apameia and Rhodes, who was active in the first century BCE. The collection, comprising 197 fragments extracted from the works of later ancient authors such as Strabo and Athenaeus, focuses primarily on ethnographic descriptions and historical accounts of military conflicts. These excerpts vividly document the social customs, rituals, and daily life of various peoples, with particular attention given to Celtic and Germanic tribes, while also analyzing the wars and political upheavals that characterized the period of Roman expansion in the Mediterranean and beyond. Posidonius’s original, expansive historical writings are lost; what survives are these quotations preserved within the texts of other writers.
-
-The work itself is not a surviving ancient book but a modern reconstruction, piecing together the philosopher’s observations from scattered sources. Posidonius wrote from a distinctly Stoic philosophical perspective, seeking to explain the fundamental character of different societies and the underlying causes of historical events within a rational, cosmic framework. Modern interpretation of his ethnographic details suggests they served a dual purpose: they provided empirical, often firsthand data on so-called barbarian life for a Greco-Roman audience, while simultaneously offering a lens for implicit social critique, using descriptions of foreign simplicity or excess to reflect on contemporary Hellenistic and Roman practices. His method of combining personal travel, philosophical inquiry, and historical narrative made his descriptions exceptionally influential, shaping the classical world’s understanding of Western Europe and its peoples for centuries.
 
 ## Text
 

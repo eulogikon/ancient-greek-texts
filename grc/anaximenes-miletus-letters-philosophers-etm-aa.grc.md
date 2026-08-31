@@ -5,6 +5,7 @@ author: Anaximenes-pseudo Miletus Letters
 eul_wid: etm-aa
 eul_aid: etm
 canonical: "https://eulogikon.org/works/anaximenes-miletus-letters-philosophers-etm-aa"
+lang: grc
 period: Classical
 dialect: Ionic
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Anaximenes-pseudo Miletus Letters
 
 **eul_wid:** `etm-aa` · [HTML page](https://eulogikon.org/works/anaximenes-miletus-letters-philosophers-etm-aa)
-
-The Letters on Philosophers is a pseudepigraphic work falsely attributed to the pre-Socratic philosopher Anaximenes of Miletus. Comprising four epistles, it belongs to a common genre of later philosophical writings composed under the name of an authoritative ancient figure. The content, as suggested by the title and the surviving Greek text, consists of anecdotal and doxographical material presented in an epistolary format. One preserved section narrates the death of Thales, who is said to have fallen from a cliff while stargazing, and includes reflections on the contemporary political turmoil in Ionia under Persian threat. The work is absent from major scholarly catalogs of Anaximenes’s genuine fragments, indicating it is a minor, spurious text with a poorly documented manuscript tradition. Its significance is negligible for the study of pre-Socratic philosophy, holding interest primarily for specialists in ancient pseudepigraphy and the later reception of early Greek thinkers.
 
 ## Text
 

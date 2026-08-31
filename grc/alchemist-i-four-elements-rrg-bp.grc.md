@@ -5,6 +5,7 @@ author: Alchemist I
 eul_wid: rrg-bp
 eul_aid: rrg
 canonical: "https://eulogikon.org/works/alchemist-i-four-elements-rrg-bp"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alchemist I
 
 **eul_wid:** `rrg-bp` · [HTML page](https://eulogikon.org/works/alchemist-i-four-elements-rrg-bp)
-
-On the Four Elements is a pseudepigraphical Greek alchemical treatise attributed to the pseudonymous author designated by modern scholars as Alchemist I. An instructional text, it structures its exploration of material transformation around the theory of the four classical elements—earth, water, air, and fire. Its ten passages systematically connect this theoretical framework to practical laboratory procedures concerning metals and other substances. The work details the manipulation of the four elements as fundamental matter, focusing on the transformation and purification of metals while positing a relationship between laboratory processes and cosmic principles. It provides specific descriptions of practical techniques, including the use of eggs, distillation apparatus, and various heating methods to produce purified waters and oils.
-
-The treatise survives within the corpus of Greek alchemical writings, preserved primarily in Byzantine manuscripts such as the 10th-century Parisinus Graecus 2327 and the 13th-century Laurentianus 86.16. These codices were instrumental in transmitting the traditions of Greco-Egyptian alchemy to later Arabic and Latin scholarly traditions. As part of this influential corpus, the text played a role in preserving ancient chemical knowledge and operational practices. Translated and studied by Arabic scholars and later by Latin Europeans, the ideas contained within this and similar works contributed to the conceptual development of medieval and early modern chemistry and natural philosophy.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Lucian of Samosata
 eul_wid: pfk-cs
 eul_aid: pfk
 canonical: "https://eulogikon.org/works/lucian-samosata-gout-pfk-cs"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lucian of Samosata
 
 **eul_wid:** `pfk-cs` · [HTML page](https://eulogikon.org/works/lucian-samosata-gout-pfk-cs)
-
-_Podagra_, or "Gout," is a satirical mock-tragedy traditionally ascribed to the second-century CE author Lucian of Samosata. Composed in Attic Greek and structured in tragic iambic trimeters, the work is a comic dialogue or oration of forty-three sections featuring a chorus. It personifies the disease Gout as a goddess who delivers a grandiose speech, engaging in debate with a tormented victim while a chorus of fellow sufferers laments their condition. By applying the elevated style and formal conventions of classical tragedy to a commonplace physical affliction, the piece creates a sustained and humorous incongruity.
-
-The work belongs to the cultural milieu of the Roman Imperial period known as the Second Sophistic, characterized by a revived engagement with classical Athenian rhetoric and literary forms. It exemplifies Lucian's signature mode of blending literary parody with social satire. Modern interpretation views the piece as a critique of human physical vulnerability, simultaneously mocking the ornate conventions of tragic theater and the futile medical remedies and indulgent lifestyles often associated with the painful ailment. Its intended audience was the educated elite, who would possess the literary familiarity necessary to appreciate its parodic layers.
-
-The text survives intact in medieval manuscripts as part of the larger Lucianic corpus. While its transmission is secure, some scholars have questioned its authenticity due to perceived stylistic differences from Lucian's undisputed works, leaving its attribution a subject of ongoing debate.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Protagoras of Abdera
 eul_wid: coy-aa
 eul_aid: coy
 canonical: "https://eulogikon.org/works/protagoras-abdera-testimonies-coy-aa"
+lang: grc
 period: Classical
 dialect: Ionic
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Protagoras of Abdera
 
 **eul_wid:** `coy-aa` · [HTML page](https://eulogikon.org/works/protagoras-abdera-testimonies-coy-aa)
-
-The Testimonies is a lost work attributed to the 5th-century BCE sophist Protagoras of Abdera. Written in Attic Greek, this collection comprised 32 model arguments or commonplaces intended for forensic oratory. Its specific purpose was to furnish strategies for examining and refuting witness testimony within Athenian law courts, where the ability to challenge an opponent's evidence was a critical skill. The work does not survive as a complete text; our knowledge derives entirely from later reports by authors such as Aristotle, Quintilian, and Diogenes Laertius. These sources describe it as an early, systematic handbook on rhetorical technique, particularly the art of disputation known as eristic. Modern scholars interpret it as a practical product of its era, created to meet the high demand for persuasive speaking skills in the democratic and litigious society of Classical Athens. It is thought to have instructed students in undermining witness credibility by arguing from probability and logical consistency. Despite its fragmentary state, the Testimonies is considered historically significant. It represents a key step in the formalization of rhetoric as a teachable discipline and influenced later thinkers, including Aristotle, in the development of rhetorical theory.
 
 ## Text
 

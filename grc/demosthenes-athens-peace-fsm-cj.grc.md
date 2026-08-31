@@ -5,6 +5,7 @@ author: Demosthenes of Athens
 eul_wid: fsm-cj
 eul_aid: fsm
 canonical: "https://eulogikon.org/works/demosthenes-athens-peace-fsm-cj"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Demosthenes of Athens
 
 **eul_wid:** `fsm-cj` · [HTML page](https://eulogikon.org/works/demosthenes-athens-peace-fsm-cj)
-
-On Peace is a deliberative oration delivered by the Athenian statesman Demosthenes in 346 BCE. In this complete speech of twenty-one sections, Demosthenes urgently counsels the Athenian assembly to ratify the recently negotiated Peace of Philocrates with King Philip II of Macedon. He presents a starkly pragmatic argument, acknowledging the treaty's unfavorable terms but insisting that Athens, being militarily unprepared, has no viable alternative. Rejection, he warns, would precipitate immediate disaster. The oration prioritizes the city's survival over abstract honor, stresses the critical importance of upholding sworn agreements to maintain Athenian credibility abroad, and cautions against the perils of forming impulsive foreign alliances.
-
-The speech was composed in a moment of profound crisis following the Third Sacred War, as Philip's influence in Greece was expanding rapidly. Modern scholarship regards the work as a crucial document capturing Athenian democracy in the process of a fateful diplomatic decision, revealing a pragmatic and calculating dimension of Demosthenes often overshadowed by his later, more confrontational stance against Macedon. The oration is generally interpreted as an attempt to secure a period of stability during which Athens could recuperate and rebuild its strength. Transmitted in full through the medieval manuscript tradition of Demosthenes' works, the speech's authenticity is widely accepted due to its precise correspondence with the known historical circumstances of 346 BCE.
 
 ## Text
 

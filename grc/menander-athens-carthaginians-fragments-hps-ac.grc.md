@@ -5,6 +5,7 @@ author: Menander of Athens
 eul_wid: hps-ac
 eul_aid: hps
 canonical: "https://eulogikon.org/works/menander-athens-carthaginians-fragments-hps-ac"
+lang: grc
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Menander of Athens
 
 **eul_wid:** `hps-ac` · [HTML page](https://eulogikon.org/works/menander-athens-carthaginians-fragments-hps-ac)
-
-The Fragments of Carthaginians Known Elsewhere is a lost comedy by Menander of Athens, the principal playwright of New Comedy. Only eleven brief fragments survive, transmitted through later anthologies, primarily the 5th-century CE Anthology of Stobaeus. These remnants are cataloged in modern scholarly editions, but no papyrus fragments of the play have been discovered, and the scant evidence prevents any reconstruction of the plot. The title suggests the play may have been alternatively known simply as The Carthaginians.
-
-The extant fragments offer minimal insight into the comedy's content. One mentions a character named Moschion, a typical name for a young lover in Menander’s dramatic repertoire. Another preserves a proverbial sentiment, stating that a man who is doing well ought to do well by his friends. The title’s reference to Carthaginians is unusual within the conventions of New Comedy, which typically features domestic Athenian settings and characters. This has led to scholarly speculation about a potential plot involving travel or cultural interaction with the Phoenician city-state, though the surviving fragments provide no confirmation of such a narrative. While the play’s direct influence is untraceable, it forms part of Menander’s seminal body of work, which fundamentally shaped the development of Roman comedy and the broader Western comic tradition. The atypical title remains a point of interest for its departure from the playwright's usual focus.
 
 ## Text
 

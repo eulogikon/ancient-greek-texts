@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-ez
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-on-fate-okg-ez"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-ez` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-on-fate-okg-ez)
-
-On Fate is a philosophical dialogue by Plutarch of Chaeronea, composed in Greek around 100 CE. The work addresses the classical problem of reconciling fate with human freedom, engaging directly with the deterministic cosmology of the Stoic school. Plutarch employs the dialogue form to stage a critical examination of competing theories, ultimately advocating for a Platonic framework that safeguards moral accountability and the principle of divine justice. The original, complete text is lost; our knowledge of the treatise derives from 41 excerpts preserved in the fifth-century CE anthology compiled by Stobaeus. These fragments indicate a structured debate concerning the nature of necessity, providence, and autonomous action. Considered a significant document of Middle Platonism, the dialogue systematically defends and develops Platonic doctrine while rigorously contesting rival philosophical positions. It is written for a literate audience, presenting a sophisticated alternative to Stoic determinism, which may have incorporated the concept of intermediary spiritual beings as instruments within a providential cosmic order.
 
 ## Text
 

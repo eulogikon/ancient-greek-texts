@@ -5,6 +5,7 @@ author: Greek Grammarian Anonymous
 eul_wid: tqa-as
 eul_aid: tqa
 canonical: "https://eulogikon.org/works/anon-grammarian-fragment-tqa-as"
+lang: grc
 period: Late Antique
 dialect: Koine (frg)
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Greek Grammarian Anonymous
 
 **eul_wid:** `tqa-as` · [HTML page](https://eulogikon.org/works/anon-grammarian-fragment-tqa-as)
-
-The Grammatical Fragment is an anonymous Greek grammatical treatise preserved only in excerpts within later scholarship. It provides definitions and discussions on technical points of Hellenistic grammatical analysis. The surviving passages address core topics, including the definition of case, which it describes as a form of a declinable word that indicates a relation of meaning. The fragment also engages in doctrinal debates concerning the classification of the parts of speech, specifically arguing for the article to be considered a distinct category from the pronoun. The work survives fragmentarily through quotation, with the primary source for the extant text being the sixth-century CE commentary on Dionysius Thrax's Art of Grammar by Stephanus of Byzantium. While its anonymous and fragmentary state obscures its direct influence, its preservation by Stephanus demonstrates its perceived value to later grammarians. The fragment contributes to modern understanding of the technical discourse and evolving theoretical debates within the Greek grammatical tradition.
 
 ## Text
 

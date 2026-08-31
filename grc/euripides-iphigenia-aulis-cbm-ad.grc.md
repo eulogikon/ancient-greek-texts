@@ -5,6 +5,7 @@ author: Euripides
 eul_wid: cbm-ad
 eul_aid: cbm
 canonical: "https://eulogikon.org/works/euripides-iphigenia-aulis-cbm-ad"
+lang: grc
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Euripides
 
 **eul_wid:** `cbm-ad` · [HTML page](https://eulogikon.org/works/euripides-iphigenia-aulis-cbm-ad)
-
-Iphigenia at Aulis is a tragedy by the ancient Greek playwright Euripides, written in verse around 406 BCE and produced posthumously in Athens. The play dramatizes the myth of Agamemnon, the commander of the Greek expedition against Troy, who is compelled to sacrifice his daughter Iphigenia to appease the goddess Artemis and secure favorable winds for the fleet. Set in the Greek camp at Aulis, the drama centers on the profound psychological torment of Agamemnon as he wrestles with this horrific demand, the forceful intervention of his brother Menelaus, and the poignant evolution of Iphigenia herself. Initially a terrified young woman arriving under the false pretext of marriage to Achilles, she ultimately embraces her fate, transforming into a figure who willingly accepts death for the perceived glory of Greece. The transmitted conclusion features a divine intervention where Iphigenia is miraculously replaced by a deer at the altar, though scholars widely consider this ending a later addition.
-
-Comprising 1,573 lines, the work belongs to the final period of Euripides' career and was staged during the closing years of the Peloponnesian War. Its exploration of coerced sacrifice, the moral failings of political and military leadership, and the manipulation of patriotic rhetoric has led many modern interpreters to view the play as a critical reflection of its era's prolonged civic strife and violence. The text's transmission is notably complex, with scholarly debate surrounding the authenticity of both its prologue and its epilogue, the latter likely appended to connect the narrative to Euripides' earlier play Iphigenia among the Taurians. Despite these editorial uncertainties, the core drama remains a powerful and psychologically acute examination of duty, deception, and tragic choice, representing a quintessential example of the playwright's late style.
 
 ## Text
 
@@ -354,6 +351,8 @@ Comprising 1,573 lines, the work belongs to the final period of Euripides' caree
 
 κἀμὲ στρατηγεῖν κἆτα Μενέλεω χάριν
 
+*[crux: κἆτα]*
+
 ### 85.1
 
 εἵλοντο, σύγγονόν γε· τἀξίωμα δὲ
@@ -429,6 +428,8 @@ Comprising 1,573 lines, the work belongs to the final period of Euripides' caree
 ### 105.1
 
 ψευδῆ συνάψας ἀντὶ παρθένου γάμον.
+
+*[crux: ἀντὶ παρθένου]*
 
 ### 105.2
 
@@ -597,6 +598,8 @@ Comprising 1,573 lines, the work belongs to the final period of Euripides' caree
 ### 145.5
 
 Πρ. ἔσται. Αγ. κλήιθρων δ’ ἐξόρμα ἤν νιν πομπαῖς ἀντήσηις,
+
+*[crux: ἐξόρμα]*
 
 ### 145.6
 
@@ -910,6 +913,8 @@ Comprising 1,573 lines, the work belongs to the final period of Euripides' caree
 
 ὡς πλήσαιμι μείλινον ἁδονάν.
 
+*[crux: μείλινον]*
+
 ### 235.1
 
 καὶ κέρας μὲν ἦν
@@ -1114,6 +1119,8 @@ Comprising 1,573 lines, the work belongs to the final period of Euripides' caree
 
 Τάφιον ἦγεν ὧν Μέγης ἄνασσε,
 
+*[crux: ἦγεν ὧν Μέγης ἄνασσε]*
+
 ### 285.1
 
 Φυλέως λόχευμα,
@@ -1129,6 +1136,8 @@ Comprising 1,573 lines, the work belongs to the final period of Euripides' caree
 ### 285.4
 
 Αἴας δ’ ὁ Σαλαμῖνος ἔντροφος δεξιὸν κέρας
+
+*[crux: δεξιὸν]*
 
 ### 290.1
 
@@ -2046,6 +2055,8 @@ Comprising 1,573 lines, the work belongs to the final period of Euripides' caree
 
 Με. κοὐδέν γ’ ἄχρηστον οὐδὲ χρήσιμον παρόν.
 
+*[crux: κοὐδέν γ’ ἄχρηστον οὐδὲ χρήσιμον παρόν.]*
+
 ### 520.3
 
 Αγ. ἐκεῖνο δ’ οὐ δέδοικας οὕμ’ ἐσέρχεται;
@@ -2206,6 +2217,8 @@ Comprising 1,573 lines, the work belongs to the final period of Euripides' caree
 
 τάν τ’ ἐξαλλάσσουσαν ἔχει
 
+*[crux: τάν]*
+
 ### 565.1
 
 χάριν ὑπὸ γνώμας ἐσορᾶν
@@ -2234,13 +2247,19 @@ Comprising 1,573 lines, the work belongs to the final period of Euripides' caree
 
 κόσμος ἔνδον ὁ μυριοπλη‐
 
+*[crux: κόσμος]*
+
 ### 570.3
 
 θὴς μείζω πόλιν αὔξει.
 
+*[crux: μείζω]*
+
 ### 570.4
 
 ἔμολες, ὦ Πάρις, ἧιτε σύ γε
+
+*[crux: ἔμολες, ὦ Πάρις, ἧιτε σύ γε]*
 
 ### 570.5
 
@@ -2258,6 +2277,8 @@ Comprising 1,573 lines, the work belongs to the final period of Euripides' caree
 
 μιμήματα πνέων.
 
+*[crux: πνέων]*
+
 ### 575.4
 
 εὔθηλοι δὲ τρέφοντο βόες,
@@ -2265,6 +2286,8 @@ Comprising 1,573 lines, the work belongs to the final period of Euripides' caree
 ### 580.1
 
 ὅτι σε κρίσις ἔμενε θεᾶν,
+
+*[crux: ὅτι σε κρίσις ἔμενε]*
 
 ### 580.2
 
@@ -2301,6 +2324,8 @@ Comprising 1,573 lines, the work belongs to the final period of Euripides' caree
 ### 585.5
 
 ἐς Τροίας πέργαμα.
+
+*[crux: ἐς Τροίας πέργαμα]*
 
 ### 590.1
 
@@ -2590,6 +2615,8 @@ Comprising 1,573 lines, the work belongs to the final period of Euripides' caree
 
 Αγ. θέλω γε, τὸ θέλειν δ’ οὐκ ἔχων ἀλγύνομαι.
 
+*[crux: θέλειν]*
+
 ### 655.4
 
 Ιφ. ὄλοιντο λόγχαι καὶ τὰ Μενέλεω κακά.
@@ -2614,9 +2641,13 @@ Comprising 1,573 lines, the work belongs to the final period of Euripides' caree
 
 εἴθ’ ἦν καλόν μοι σοί τ’ ἄγειν σύμπλουν ἐμέ.
 
+*[crux: μοι σοί τ’ ἄγειν σύμπλουν ἐμέ]*
+
 ### 666.2
 
 Αγ. ἔτ’ ἔστι καὶ σοὶ πλοῦς, ἵνα μνήση πατρός.
+
+*[crux: μνήση]*
 
 ### 666.3
 
@@ -3038,6 +3069,8 @@ Comprising 1,573 lines, the work belongs to the final period of Euripides' caree
 
 λαιμοτόμους κεφαλὰς σπάσας
 
+*[crux: σπάσας]*
+
 ### 775.3
 
 πόλισμα Τροίας
@@ -3098,6 +3131,8 @@ Comprising 1,573 lines, the work belongs to the final period of Euripides' caree
 
 ἔρυμα δακρυόεν τανύσας
 
+*[crux: ἔρυμα δακρυόεν τανύσας]*
+
 ### 790.4
 
 πατρίδος ὀλομένας ἀπολωτιεῖ;
@@ -3113,6 +3148,8 @@ Comprising 1,573 lines, the work belongs to the final period of Euripides' caree
 ### 795.2
 
 ἔτυχε Λήδα ὄρνιθι πταμένωι,
+
+*[crux: ἔτυχε Λήδα]*
 
 ### 795.3
 
@@ -3373,6 +3410,8 @@ Comprising 1,573 lines, the work belongs to the final period of Euripides' caree
 ### 865
 
 Αχ. ὁ λόγος ἐς μέλλοντ’ ἂν ὤσηι χρόνον· ἔχει δ’ ὄκνον
+
+*[crux: ἂν ὤσηι]*
 
 ### 865.1
 
@@ -3794,6 +3833,8 @@ Comprising 1,573 lines, the work belongs to the final period of Euripides' caree
 
 ἐλθεῖν φόνου κηλῖσιν αἵματι χρανῶ,
 
+*[crux: αἵματι]*
+
 ### 970.3
 
 εἴ τίς με τὴν σὴν θυγατέρ’ ἐξαιρήσεται.
@@ -3970,6 +4011,8 @@ Comprising 1,573 lines, the work belongs to the final period of Euripides' caree
 
 εἴη γὰρ τὸ χρῆζον ἐπίθετ’ οὐ τοὐμὸν χρεὼν
 
+*[crux: εἴη γὰρ τὸ χρῆζον ἐπίθετ’]*
+
 ### 1015.4
 
 χωρεῖν· ἔχει γὰρ τοῦτο τὴν σωτηρίαν.
@@ -3989,6 +4032,8 @@ Comprising 1,573 lines, the work belongs to the final period of Euripides' caree
 ### 1020.3
 
 καλῶς δὲ κρανθέντων καὶ πρὸς ἡδονὴν φίλοις
+
+*[crux: καλῶς]*
 
 ### 1020.4
 
@@ -4065,6 +4110,8 @@ Comprising 1,573 lines, the work belongs to the final period of Euripides' caree
 ### 1040.2
 
 Πιερίδες ἐν δαιτὶ θεῶν
+
+*[crux: ἐν δαιτὶ θεῶν]*
 
 ### 1040.3
 
@@ -4486,6 +4533,8 @@ Comprising 1,573 lines, the work belongs to the final period of Euripides' caree
 
 βρέφος τε τοὐμὸν σῶι προσούρισας πάλωι,
 
+*[crux: σῶι προσούρισας πάλωι]*
+
 ### 1145.7
 
 μαστῶν βιαίως τῶν ἐμῶν ἀποσπάσας.
@@ -4550,6 +4599,8 @@ Comprising 1,573 lines, the work belongs to the final period of Euripides' caree
 
 Μενέλαος Ἑλένην ἵνα λάβηι. καλὸν γένος,
 
+*[crux: γένος]*
+
 ### 1165.5
 
 κακῆς γυναικὸς μισθὸν ἀποτεῖσαι τέκνα.
@@ -4594,6 +4645,8 @@ Comprising 1,573 lines, the work belongs to the final period of Euripides' caree
 
 τοιόνδε μισθὸν καταλιπὼν πρὸς τοὺς δόμους.
 
+*[crux: τοιόνδε μισθὸν καταλιπὼν πρὸς τοὺς δόμους]*
+
 ### 1180.1
 
 ἐπεὶ βραχείας προφάσεως ἐνδεῖ μόνον,
@@ -4621,6 +4674,8 @@ Comprising 1,573 lines, the work belongs to the final period of Euripides' caree
 ### 1185.1
 
 θύσεις δὲ παῖδ’ ἔνθα τίνας εὐχὰς ἐρεῖς;
+
+*[crux: δὲ παῖδ’ ἔνθα]*
 
 ### 1185.2
 
@@ -4701,6 +4756,8 @@ Comprising 1,573 lines, the work belongs to the final period of Euripides' caree
 ### 1205.2
 
 τούτων ἄμειψαί μ’ εἴ τι μὴ καλῶς λέγω· εἰ δ’ εὖ λέλεκται νῶϊ μὴ δή γε κτάνηις
+
+*[crux: νῶϊ μὴ δή γε]*
 
 ### 1205.3
 
@@ -4854,6 +4911,8 @@ Comprising 1,573 lines, the work belongs to the final period of Euripides' caree
 
 ἀλλ’ αἴδεσαί με καὶ κατοίκτιρον βίον.
 
+*[crux: βίον]*
+
 ### 1245.3
 
 ναί, πρὸς γενείου ς’ ἀντόμεσθα δύο φίλω·
@@ -4982,6 +5041,8 @@ Comprising 1,573 lines, the work belongs to the final period of Euripides' caree
 
 Ιφ. οἲ ’γώ, μῆτερ· ταὐτὸν ταὐτὸν γὰρ
 
+*[crux: ταὐτὸν γὰρ]*
+
 ### 1280.1
 
 μέλος εἰς ἄμφω πέπτωκε τύχης,
@@ -5058,6 +5119,8 @@ Comprising 1,573 lines, the work belongs to the final period of Euripides' caree
 
 Ἥρα θ’ Ἑρμᾶς ὁ Διὸς ἄγγελος,
 
+*[crux: Ἥρα θ’ Ἑρμᾶς ὁ Διὸς ἄγγελος]*
+
 ### 1302.2
 
 ἁ μὲν ἐπὶ πόθωι τρυφῶσα
@@ -5129,6 +5192,8 @@ Comprising 1,573 lines, the work belongs to the final period of Euripides' caree
 ### 1320.2
 
 τούσδ’ εἰς ὅρμους εἰς Τροίαν
+
+*[crux: εἰς]*
 
 ### 1320.3
 
@@ -5245,6 +5310,8 @@ Comprising 1,573 lines, the work belongs to the final period of Euripides' caree
 ### 1345.4
 
 Αχ. ὡς χρεὼν σφάξαι νιν. Κλ. κοὐδεὶς ἐναντία λέγει;
+
+*[crux: κοὐδεὶς ἐναντία λέγει;]*
 
 ### 1345.5
 
@@ -5386,6 +5453,8 @@ Comprising 1,573 lines, the work belongs to the final period of Euripides' caree
 
 μηκέθ’ ἁρπάζειν ἐᾶν τὰς ὀλβίας ἐξ Ἑλλάδος,
 
+*[crux: τὰς]*
+
 ### 1380.3
 
 τὸν Ἑλένης τείσαντας ὄλεθρον, ἣν ἀνήρπασεν Πάρις.
@@ -5422,6 +5491,8 @@ Comprising 1,573 lines, the work belongs to the final period of Euripides' caree
 
 τί τὸ δίκαιον τοῦτ’ ἄρ’ ἔχοιμεν ἀντειπεῖν ἔπος;
 
+*[crux: τί τὸ δίκαιον τοῦτ’ ἄρ’ ἔχοιμεν]*
+
 ### 1390.3
 
 κἀπ’ ἐκεῖν’ ἔλθωμεν· οὐ δεῖ τόνδε διὰ μάχης μολεῖν
@@ -5437,6 +5508,8 @@ Comprising 1,573 lines, the work belongs to the final period of Euripides' caree
 ### 1395.1
 
 εἰ δ’ ἐβουλήθη σῶμα τοὐμὸν Ἄρτεμις λαβεῖν,
+
+*[crux: δ’ ἐβουλήθη]*
 
 ### 1395.2
 
@@ -5513,6 +5586,8 @@ Comprising 1,573 lines, the work belongs to the final period of Euripides' caree
 ### 1415.2
 
 Ιφ. λέγω τάδε 〈〉
+
+*[crux: λέγω τάδε 〈〉]*
 
 ### 1415.3
 
@@ -5617,6 +5692,8 @@ Comprising 1,573 lines, the work belongs to the final period of Euripides' caree
 ### 1440.3
 
 Ιφ. ἥκιστ’, ἐπεί μοι τύμβος οὐ χωσθήσεται. Κλ. τί δὲ τὸ θνήισκειν οὐ τάφος νομίζεται;
+
+*[crux: τί δὲ τὸ θνήισκειν οὐ τάφος νομίζεται;]*
 
 ### 1440.4
 
@@ -5882,6 +5959,8 @@ Comprising 1,573 lines, the work belongs to the final period of Euripides' caree
 
 θανοῦσαν εὐφυῆ τε σώματος δέρην
 
+*[crux: θανοῦσαν]*
+
 ### 1515.3
 
 σφαγεῖσαν. εὔδροσοι παγαὶ
@@ -5921,6 +6000,8 @@ Comprising 1,573 lines, the work belongs to the final period of Euripides' caree
 ### 1525.2
 
 γαῖαν Ἑλλάνων στρατὸν καὶ δολόεντα Τροίας ἕδη
+
+*[crux: καὶ]*
 
 ### 1525.3
 

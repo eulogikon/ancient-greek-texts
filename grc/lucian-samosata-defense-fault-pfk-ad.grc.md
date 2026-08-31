@@ -5,6 +5,7 @@ author: Lucian of Samosata
 eul_wid: pfk-ad
 eul_aid: pfk
 canonical: "https://eulogikon.org/works/lucian-samosata-defense-fault-pfk-ad"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lucian of Samosata
 
 **eul_wid:** `pfk-ad` · [HTML page](https://eulogikon.org/works/lucian-samosata-defense-fault-pfk-ad)
-
-In Defense of the Addressed Fault is a short rhetorical declamation by the 2nd-century CE satirist Lucian of Samosata. The work presents a formal apology for a social misstep, termed a fault, committed during a public address or greeting. The speaker opens by lamenting the difficulty of escaping a daemonic influence and the greater challenge of defending an illogical, daemon-induced error, which he claims has befallen him. He recounts his specific lapse: while offering a morning salutation, he mistakenly used the phrase "be healthy" instead of the customary "rejoice." This gaffe caused him immediate shame and confusion, while onlookers interpreted it variably as senility, foolishness, or the residue of drunkenness. Although the addressee bore the error with mildness, the speaker resolves to compose a consolatory discourse to alleviate his own distress over stumbling so publicly in his old age.
-
-The speech follows a conventional defensive structure, expressing dismay, asserting pure intention, minimizing the error's significance, and implying the pettiness of those who would treat it as a serious charge. Written in Attic Greek during the period known as the Second Sophistic, which prized elaborate rhetorical performance, the piece functions as a serious display of oratorical skill. It is also typically interpreted as containing Lucian's characteristic satire, subtly mocking the hypersensitivity to linguistic protocol and minor breaches of etiquette among the educated elite. The complete work, preserved in sixteen sections within the manuscript tradition of Lucian's writings, serves modern scholars as a concise illustration of the era's preoccupations with public performance, social anxiety, and the power of oratory to rehabilitate reputation over ostensibly trivial matters.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Choerilus of Athens
 eul_wid: epg-aa
 eul_aid: epg
 canonical: "https://eulogikon.org/works/choerilus-athens-genealogical-heroes-epg-aa"
+lang: grc
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Choerilus of Athens
 
 **eul_wid:** `epg-aa` · [HTML page](https://eulogikon.org/works/choerilus-athens-genealogical-heroes-epg-aa)
-
-The Genealogical Fragments of Heroes is a lost work attributed to the early Athenian tragic poet Choerilus, a contemporary and rival of Thespis. No content or structure of the work survives beyond its title, which is recorded in the tenth-century Byzantine encyclopedia known as the Suda. That source lists it among Choerilus's non-dramatic writings. The title indicates the work treated heroic genealogies, a common thematic concern in early Greek epic and mythographic poetry. Its existence, though undocumented in any direct influence, suggests that Choerilus engaged in the systematization of mythological tradition beyond his known career as a dramatist.
 
 ## Text
 

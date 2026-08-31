@@ -5,6 +5,7 @@ author: Pindar Commentary
 eul_wid: ppu-af
 eul_aid: ppu
 canonical: "https://eulogikon.org/works/pindar-comm-scholia-ppu-af"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Grammar
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Pindar Commentary
 
 **eul_wid:** `ppu-af` · [HTML page](https://eulogikon.org/works/pindar-comm-scholia-ppu-af)
-
-The Scholia to Pindar is an extensive collection of ancient and medieval explanatory notes on the victory odes of the Greek lyric poet Pindar. This compilation is not a unified work but an aggregation of thousands of individual comments, known as scholia, which were written in the margins of Pindar's manuscripts over many centuries, from the Hellenistic period to the Byzantine era. Composed primarily in Koine Greek, these marginal notes function as a detailed scholarly commentary. They elucidate Pindar's complex Doric dialect, identify historical figures and geographical references, summarize mythological narratives, and analyze aspects of poetic style and meter.
-
-The tradition originated with the philological work of Hellenistic scholars, particularly those associated with institutions like the Library of Alexandria, who produced comprehensive commentaries to facilitate the study of classical poetry. These original, often voluminous, studies were subsequently condensed, interwoven with notes from other grammarians and critics, and transmitted into the manuscript tradition of the medieval period. The scholia survive in their complete form as marginal annotations within these later codices, though they represent only a selective preservation of a far more extensive body of ancient scholarship that is now lost. Modern scholarship regards the collection as an indispensable resource, essential not only for interpreting Pindar's dense and allusive poetry but also for recovering fragments of lost historical and literary works. The scholia thus constitute a vital conduit for the transmission of ancient literary criticism and exegetical practice.
 
 ## Text
 

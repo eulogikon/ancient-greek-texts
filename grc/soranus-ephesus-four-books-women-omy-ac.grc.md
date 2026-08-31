@@ -5,6 +5,7 @@ author: Soranus of Ephesus
 eul_wid: omy-ac
 eul_aid: omy
 canonical: "https://eulogikon.org/works/soranus-ephesus-four-books-women-omy-ac"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Soranus of Ephesus
 
 **eul_wid:** `omy-ac` · [HTML page](https://eulogikon.org/works/soranus-ephesus-four-books-women-omy-ac)
-
-The Gynecology is a four-book medical treatise written in Greek by Soranus of Ephesus around 100–120 CE. It stands as the most comprehensive and systematic work on women’s health to survive from classical antiquity. Composed as a practical manual for midwives and physicians, the treatise reflects the professionalization of women’s healthcare in the Roman world. Soranus, a practitioner of the Methodist school of medicine, advocates for rational and gentle treatments while frequently criticizing earlier superstitious or excessively drastic remedies. The work is methodically organized: the first book discusses the qualifications of the ideal midwife, female anatomy, and general hygiene; the second covers conception, pregnancy, and prenatal care; the third details the process of childbirth and the immediate care of the newborn; and the fourth addresses a wide range of diseases and therapeutic treatments specific to women. The original Greek text survives largely intact, primarily through a 15th-century manuscript. It proved highly influential for over a millennium, being translated into Latin and later Arabic, and served as the definitive authority on the subject. Modern scholars regard it as an unparalleled source for understanding ancient medical practice, social history, and the development of midwifery.
 
 ## Text
 

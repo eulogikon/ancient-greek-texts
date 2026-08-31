@@ -5,6 +5,7 @@ author: Themistius the Philosopher
 eul_wid: rye-al
 eul_aid: rye
 canonical: "https://eulogikon.org/works/themistius-exhortation-nicomedians-rye-al"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Themistius the Philosopher
 
 **eul_wid:** `rye-al` · [HTML page](https://eulogikon.org/works/themistius-exhortation-nicomedians-rye-al)
-
-The Exhortation to the Nicomedians to Philosophy is a protreptic oration by the fourth-century philosopher and statesman Themistius, urging the citizens of Nicomedia to embrace the study of philosophy. Composed in Greek and likely delivered in the 350s CE, the speech frames philosophy not as an esoteric retreat but as the indispensable foundation for personal virtue and effective civic leadership. Themistius employs classical rhetorical techniques, contrasting the substantial but unadorned teachings of Socrates with the flashy, expensive displays of sophists like Prodicus and Gorgias to argue that true wisdom is a public good. He positions the philosopher as a vital benefactor to the city, whose role is to cultivate ethical character and practical wisdom in its citizens. The work is a key document in Themistius's lifelong project of defending and integrating traditional Greek paideia within the political and cultural landscape of the Christian Roman Empire. Preserved among his 34 surviving orations, it illustrates the adaptation of classical philosophical discourse to the public needs of late antique urban society.
 
 ## Text
 

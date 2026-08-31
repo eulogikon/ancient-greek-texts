@@ -5,6 +5,7 @@ author: Galen of Pergamon
 eul_wid: qmm-cz
 eul_aid: qmm
 canonical: "https://eulogikon.org/works/galen-pergamon-causes-pulses-qmm-cz"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Galen of Pergamon
 
 **eul_wid:** `qmm-cz` · [HTML page](https://eulogikon.org/works/galen-pergamon-causes-pulses-qmm-cz)
-
-On the Causes of Pulses is a medical treatise by the Roman-era physician Galen of Pergamon, composed in Greek around 170–180 CE. The work provides a systematic theoretical explanation for the various qualities perceived in the arterial pulse, with the explicit aim of establishing pulse diagnosis as a rational science grounded in causal principles. Galen posits that the pulse is a natural faculty inherent to the arteries, originating from the heart, and that its alterations in size, speed, strength, and rhythm are direct indicators of specific pathological or physiological states within the body. These variations are meticulously linked to underlying causes derived from his comprehensive physiological system, including imbalances among the four humors or disturbances in the fundamental qualities of hot, cold, wet, and dry.
-
-Organized into 203 concise sections, the treatise survives in its entirety. It was written in Rome for an audience of fellow physicians and advanced students during a period of intense doctrinal debate among competing medical sects. Galen conceived the work as a robust defense of rational, theory-based diagnosis against the challenges of empiricist rivals, who regarded pulse-reading primarily as a practical skill acquired through observation and experience rather than theoretical understanding. Modern scholarship identifies this treatise as a central component of Galen’s broader project to construct a unified, causal framework for all of medicine, synthesizing Hippocratic concepts with his own elaborate theories. The text proved highly influential, transmitted through a rich tradition of Greek, Arabic, and Latin manuscripts. It fundamentally shaped the theory and practice of pulse diagnosis in both the Islamic world and medieval Europe for centuries, cementing its status as a cornerstone of Galenic medicine.
 
 ## Text
 

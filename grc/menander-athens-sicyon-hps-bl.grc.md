@@ -5,6 +5,7 @@ author: Menander of Athens
 eul_wid: hps-bl
 eul_aid: hps
 canonical: "https://eulogikon.org/works/menander-athens-sicyon-hps-bl"
+lang: grc
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Menander of Athens
 
 **eul_wid:** `hps-bl` · [HTML page](https://eulogikon.org/works/menander-athens-sicyon-hps-bl)
-
-The Sicyonian is a comedy by the Athenian playwright Menander, composed around 300 BCE. It stands as a characteristic work of New Comedy, a genre that shifted focus from the political satire of earlier periods to intricate domestic and romantic plots. The play’s narrative revolves around mistaken identity, abduction, and eventual recognition. A young woman named Philoumene, kidnapped as a child, becomes the object of a rivalry between a soldier, Stratophanes, and an Athenian youth, Moschion. The resolution hinges on the discovery of tokens—a ring and a necklace—which ultimately prove Philoumene’s legitimate Athenian citizenship and simultaneously reveal that Stratophanes himself is an Athenian by birth.
-
-The text survives only in fragments, with 445 pieces known to modern scholarship. A substantial continuous section comprising lines 1–423 was recovered from a papyrus codex discovered in Egypt. The play’s exploration of identity, citizenship, and the restoration of familial and social order is interpreted as a reflection of the preoccupations of Athenian society during the Hellenistic era. The character of the soldier, a common stock figure in New Comedy, often functions as an outsider whose integration into the civic community is central to the plot’s resolution. Through later Roman adaptations by playwrights such as Plautus and Terence, the conventions and themes exemplified by plays like the Sicyonian exerted a profound influence on the subsequent development of European comedic tradition.
 
 ## Text
 

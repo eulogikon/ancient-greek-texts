@@ -5,6 +5,7 @@ author: Julian the Apostate
 eul_wid: sno-aq
 eul_aid: sno
 canonical: "https://eulogikon.org/works/julian-apostate-testimonies-sno-aq"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Julian the Apostate
 
 **eul_wid:** `sno-aq` · [HTML page](https://eulogikon.org/works/julian-apostate-testimonies-sno-aq)
-
-The Testimonies is a lost work by the Roman emperor Julian, known as Julian the Apostate. It survives only as a title and a small collection of three fragmentary passages, likely excerpts compiled from his other writings or preserved by later authors. The title suggests the work functioned as a set of proof-texts, marshaling quotations to support Julian’s philosophical and religious arguments. Given Julian’s broader literary campaign against Christianity, the work’s probable themes included pagan theology and the advocacy of traditional Hellenic cult, the authority of classical Greek literature and philosophy, polemical criticism of Christian doctrine, and the use of oracular prophecies as evidence. The work is not attested among Julian’s major surviving works, such as his orations, letters, or Against the Galilaeans. Its existence is known only from limited references, indicating it was either a minor, fragmentary composition or a later editorial collection of testimonial passages drawn from his extant corpus. While the work’s direct influence is untraceable, it formed part of Julian’s concerted effort to revive paganism through literary means. His polemical projects provoked detailed refutations from Christian theologians like Cyril of Alexandria, ensuring his arguments were preserved and contested within the Christian tradition.
 
 ## Text
 

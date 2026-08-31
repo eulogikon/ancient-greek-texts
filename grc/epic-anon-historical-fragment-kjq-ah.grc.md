@@ -5,6 +5,7 @@ author: Epic Work  Anonymous
 eul_wid: kjq-ah
 eul_aid: kjq
 canonical: "https://eulogikon.org/works/epic-anon-historical-fragment-kjq-ah"
+lang: grc
 period: Hellenistic
 dialect: Epic (Homeric) (frg)
 domain: Epic
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Epic Work  Anonymous
 
 **eul_wid:** `kjq-ah` · [HTML page](https://eulogikon.org/works/epic-anon-historical-fragment-kjq-ah)
-
-The Historical Epic Fragment is a descriptive title applied to a purported work of ancient Greek epic poetry for which no verifiable textual evidence exists. The label itself is modern and generic, and no anonymous epic fragment corresponding to this description is attested in the classical literary record, major scholarly corpora, or standard reference works. Consequently, no narrative, thematic, or specific content can be ascribed to it from any documented source. The fragment has no known transmission history and is absent from established collections of fragmentary epic poetry, including both print editions and digital repositories specializing in ancient texts. Due to this complete lack of attestation, the so-called fragment holds no established significance within the study of Greek epic; its occasional mention appears to originate from unverified metadata rather than from any surviving textual artifact.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Dorotheus of Sidon
 eul_wid: oho-ab
 eul_aid: oho
 canonical: "https://eulogikon.org/works/dorotheus-sidon-ancient-fragments-oho-ab"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Dorotheus of Sidon
 
 **eul_wid:** `oho-ab` · [HTML page](https://eulogikon.org/works/dorotheus-sidon-ancient-fragments-oho-ab)
-
-The Other Ancient Fragments is a collection of seven astrological passages attributed to the first-century poet-astrologer Dorotheus of Sidon. Written in instructional Greek verse, these fragments constitute supplementary material to Dorotheus's major lost work, the Carmen Astrologicum. The content is highly technical, covering core doctrines of Hellenistic astrology, including the calculation of planetary periods of influence and the interpretation of specific points in a horoscope known as "lots." Only these fragments of the original Greek text survive; the complete five-book poem is lost. Knowledge of Dorotheus's work derives primarily from a much later ninth-century Arabic translation and quotations preserved by other ancient astrological writers. The work was likely composed as a professional manual for students and practitioners. Modern scholars regard Dorotheus as a pivotal figure who systematized astrological knowledge; his work, transmitted through the Islamic world, became a foundational textbook for the entire Western astrological tradition.
 
 ## Text
 

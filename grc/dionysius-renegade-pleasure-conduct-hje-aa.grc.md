@@ -5,6 +5,7 @@ author: Dionysius the Renegade
 eul_wid: hje-aa
 eul_aid: hje
 canonical: "https://eulogikon.org/works/dionysius-renegade-pleasure-conduct-hje-aa"
+lang: grc
 period: Classical
 dialect: "Attic (phi, frg)"
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Dionysius the Renegade
 
 **eul_wid:** `hje-aa` · [HTML page](https://eulogikon.org/works/dionysius-renegade-pleasure-conduct-hje-aa)
-
-Fragments on Pleasure and Conduct is a lost ethical treatise by the Hellenistic philosopher Dionysius of Heraclea, commonly known as Dionysius the Renegade. The work, originally composed in Greek, is known only by title and description from later sources, primarily the biographical compilation of Diogenes Laërtius. According to these accounts, it was a collection of writings examining the nature of pleasure and offering practical guidance on conduct and training. The extant book list attributes several titles to Dionysius, including the central works On Pleasure in four books and On Training in two books, which are presumed to constitute the core of this collection. The work is irrevocably linked to the author’s notorious philosophical defection. Originally a devoted Stoic and pupil of Zeno of Citium, Dionysius famously renounced Stoicism later in life, an event tradition ascribes to his suffering from a painful eye ailment that led him to reject the Stoic doctrine that pain is indifferent. He subsequently aligned himself with the Cyrenaic school, which upheld pleasure as the supreme good. Modern scholarship therefore interprets Fragments on Pleasure and Conduct as a product of his later period, constituting a critique of Stoic ethics, particularly its ideal of passionless virtue (apatheia), and a defense of a hedonistic worldview. It represents a tangible contribution to the vigorous ethical debates among Stoic, Epicurean, and Cyrenaic thinkers in the early Hellenistic period. No manuscript of the work survives; our entire knowledge of it derives from indirect testimony in doxographical sources.
 
 ## Text
 

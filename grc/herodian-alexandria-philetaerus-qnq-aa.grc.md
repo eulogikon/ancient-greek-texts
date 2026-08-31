@@ -5,6 +5,7 @@ author: Herodian of Alexandria
 eul_wid: qnq-aa
 eul_aid: qnq
 canonical: "https://eulogikon.org/works/herodian-alexandria-philetaerus-qnq-aa"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Grammar
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Herodian of Alexandria
 
 **eul_wid:** `qnq-aa` · [HTML page](https://eulogikon.org/works/herodian-alexandria-philetaerus-qnq-aa)
-
-The Philetaerus is a grammatical treatise from the 2nd century CE by the Alexandrian scholar Herodian, dedicated to an otherwise unknown individual of that name. It is a systematic work on Greek prosody, methodically classifying words by their morphological endings in order to establish definitive rules for their accentuation. The treatise does not survive in its complete form but is preserved through numerous fragments and quotations found in later grammatical commentaries, lexica, and scholia, most notably within the Byzantine encyclopedia known as the Suda. Herodian’s profound influence on the study of Greek grammar ensured that his precepts were extensively excerpted and compiled by subsequent generations of scholars, which constitutes the primary means of the text’s transmission.
-
-As the foremost authority on Greek accents throughout antiquity and the Byzantine era, Herodian established the standard pedagogical framework for the subject. The Philetaerus, alongside his other grammatical works, served as a foundational textbook for centuries, with its rules being cited as definitive by later commentators such as Eustathius of Thessalonica in the 12th century. The work exemplifies the broader intellectual currents of the Second Sophistic period, reflecting a concerted scholarly effort to systematize, preserve, and teach the Attic standard of the Greek language.
 
 ## Text
 

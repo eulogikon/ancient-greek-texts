@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-bw
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-alexandrian-proverbs-okg-bw"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-bw` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-alexandrian-proverbs-okg-bw)
-
-Proverbs Used by Alexandrians is a collection of 87 brief entries cataloguing and explaining Greek proverbs, traditionally included among the works of the philosopher and biographer Plutarch. Each entry presents a proverb or saying, followed by a concise note on its meaning, origin, or the specific context in which it was employed by the inhabitants of Alexandria, the major Hellenistic center in Egypt. The work is a straightforward compilation within the genre of paremiography, blending folk wisdom, historical anecdotes, and linguistic commentary to document a facet of regional Greek culture. It survives in full within the medieval manuscript tradition of Plutarch's collected essays, the Moralia. While its Plutarchan authorship is widely doubted by modern scholars, who often consider it a later compilation attributed to him, the text reflects the Roman-era interest in preserving elements of Greek cultural heritage. It was likely intended for an educated audience with interests in rhetoric, local history, and linguistic nuance, providing a window into how Alexandrian speech and popular wisdom were perceived in the ancient world.
 
 ## Text
 

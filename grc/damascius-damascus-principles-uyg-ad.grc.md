@@ -5,6 +5,7 @@ author: Damascius of Damascus
 eul_wid: uyg-ad
 eul_aid: uyg
 canonical: "https://eulogikon.org/works/damascius-damascus-principles-uyg-ad"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Damascius of Damascus
 
 **eul_wid:** `uyg-ad` · [HTML page](https://eulogikon.org/works/damascius-damascus-principles-uyg-ad)
-
-On Principles is a major philosophical treatise written in the early sixth century CE by Damascius of Damascus, the final head of the Neoplatonic school in Athens. Composed in dense, technical Attic Greek, the work represents a critical and introspective culmination of the late Athenian Neoplatonic tradition. It employs an aporetic method, structured as a series of 328 passages that systematically raise problems concerning the first principles of reality before proposing solutions. Damascius subjects the logical architecture of earlier Neoplatonic systems, particularly the highly structured schema of his predecessor Proclus, to rigorous scrutiny. The central content revolves around the nature and interrelation of ultimate metaphysical principles, including the Ineffable First Cause, the emergence of plurality from absolute unity, and the procession of all reality through the hierarchical levels of Intellect and Soul.
-
-The treatise was produced in the final years of the Athenian Academy, on the eve of its forced closure by the emperor Justinian in 529 CE. Modern scholarship interprets it as a sophisticated, last-ditch defense of pagan Greek metaphysical theology, crafted for an advanced philosophical audience during a period of increasing Christian dominance. The text survives in an incomplete and fragmentary state, and its full original scope remains unknown. The extant material has been reconstructed by modern editors primarily from a single sixteenth-century manuscript. The standard critical edition organizes these sometimes disjointed fragments into the coherent sequence of problems and solutions that constitutes the work as it is studied today.
 
 ## Text
 

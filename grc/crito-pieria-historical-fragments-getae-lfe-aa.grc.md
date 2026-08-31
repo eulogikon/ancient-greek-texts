@@ -5,6 +5,7 @@ author: Crito of Pieria
 eul_wid: lfe-aa
 eul_aid: lfe
 canonical: "https://eulogikon.org/works/crito-pieria-historical-fragments-getae-lfe-aa"
+lang: grc
 period: Hellenistic
 dialect: Attic
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Crito of Pieria
 
 **eul_wid:** `lfe-aa` · [HTML page](https://eulogikon.org/works/crito-pieria-historical-fragments-getae-lfe-aa)
-
-The Historical Fragments on the Getae by Crito of Pieria is a lost historical and ethnographic work, known today only through a single surviving quotation. The second-century CE grammarian Aelius Herodianus preserves this fragment in his treatise On Peculiar Diction, which records that Crito, in the first book of his work, stated the Getae called their king Zalmoxis, though some referred to him as Zamolxis. This citation confirms the work was structured in at least one book and was focused on the Thracian people known as the Getae, whom the Romans also identified with the Dacians. Based on its title and this fragment, the work likely addressed the customs, political structures, and religious beliefs of the Getae, with particular attention to the central figure of Zalmoxis, a god or priest-king. As Crito is identified in other sources as a historian who possibly served the emperor Trajan, it is probable his account also covered contemporary events, notably Trajan's Dacian Wars in the early second century CE. The work is entirely lost beyond Herodianus's citation, though the tenth-century Byzantine encyclopedia known as the Suda notes that Crito also wrote a work titled Getica, which is likely the same or a closely related text. Crito's fragments represent a Roman-era contribution to the Greek ethnographic tradition concerning the northern Balkans. As a potential contemporary source on Trajan's military campaigns, it may have informed later historical accounts, while its sole surviving fragment demonstrates its later utility for grammarians studying specialized terminology and nomenclature.
 
 ## Text
 

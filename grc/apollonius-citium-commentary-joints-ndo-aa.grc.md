@@ -5,6 +5,7 @@ author: Apollonius of Citium
 eul_wid: ndo-aa
 eul_aid: ndo
 canonical: "https://eulogikon.org/works/apollonius-citium-commentary-joints-ndo-aa"
+lang: grc
 period: Hellenistic
 dialect: Technical Koine
 domain: Medicine
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Apollonius of Citium
 
 **eul_wid:** `ndo-aa` · [HTML page](https://eulogikon.org/works/apollonius-citium-commentary-joints-ndo-aa)
-
-The Commentary on Hippocrates’ On Joints is a medical treatise composed by the Empiricist physician Apollonius of Citium around 60 BCE. It provides a systematic, line-by-line exegesis of the Hippocratic work On Joints, a foundational text on orthopedic surgery and the treatment of dislocations. Apollonius structures his commentary around thirty-four specific passages, first quoting the Hippocratic text and then offering his own detailed clarifications, practical expansions, and occasional critiques. A defining and historically significant feature of the work is its incorporation of detailed colored illustrations. These diagrams, which depict procedures for reducing dislocations and applying therapeutic bandages, constitute some of the earliest surviving examples of scientific medical drawings created explicitly for pedagogical purposes.
-
-Composed during a period of intense doctrinal rivalry among medical sects, the commentary is a polemical work that champions Empiricist methodology. Apollonius explicitly aims to make the practical techniques described by Hippocrates accessible and clear for working surgeons, and he frequently criticizes rival interpreters, particularly those from the Dogmatic school, for obscuring useful knowledge with abstract theoretical speculation. For modern scholars, the treatise serves as a crucial document of the Empiricist school, illustrating how authoritative medical texts were studied, interpreted, and applied in the Hellenistic period to inform contemporary practice.
-
-The work survives only in part. Its primary witness is a Byzantine manuscript, Vaticanus Graecus 276, dating from the tenth or eleventh century. This manuscript preserves both the commentary text and its renowned illustrations, and is considered a reliable copy that faithfully transmits the original illustrative program. These illustrations remain an invaluable resource for understanding the techniques and pedagogical tools of Hellenistic medicine.
 
 ## Text
 

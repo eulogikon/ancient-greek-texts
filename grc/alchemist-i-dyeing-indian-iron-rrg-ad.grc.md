@@ -5,6 +5,7 @@ author: Alchemist I
 eul_wid: rrg-ad
 eul_aid: rrg
 canonical: "https://eulogikon.org/works/alchemist-i-dyeing-indian-iron-rrg-ad"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alchemist I
 
 **eul_wid:** `rrg-ad` · [HTML page](https://eulogikon.org/works/alchemist-i-dyeing-indian-iron-rrg-ad)
-
-On the Dyeing of Indian Iron is a pseudepigraphical Greek alchemical treatise preserved in five distinct passages within the Byzantine manuscript tradition. Its subject is the processing and coloration—a term synonymous with transmutation—of a specific material referred to as Indian iron. The text provides concise, technical instructions in a recipe style characteristic of later Greek alchemical works, detailing the sequential steps for altering the base metal. These procedures focus on the careful preparation and combination of ingredients, including specific plant barks and a substance called magnesia, within a furnace setting to achieve a transformation of the iron's quality and appearance.
-
-The treatise emphasizes the specificity of its primary material, Indian iron, a term which may relate to traded materials such as wootz steel known for its distinctive properties. The core theme is the practical transmutation and coloration of this iron to achieve a valuable, noble-metal-like state through controlled chemical processes. Its anonymous attribution to a figure simply called Alchemist I follows the genre's convention of pseudepigraphy, a device used to lend antiquity and authority to the technical knowledge presented.
-
-The work survives exclusively within the major Byzantine compilations of the Greek alchemical corpus, most notably the 10th- or 11th-century Codex Marcianus Graecus 299 and the 13th-century Parisinus Graecus 2327. Its preservation depends entirely on these later copies, which themselves are transcriptions of earlier, now-lost materials. As a specific technical recipe, the treatise represents a tangible piece of the collective Greco-Egyptian alchemical knowledge that was later transmitted via Arabic science to medieval Europe. Historians value it as evidence for the practical workshop techniques and material culture that underpinned the speculative theories of late antique alchemy.
 
 ## Text
 

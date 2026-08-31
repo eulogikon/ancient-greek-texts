@@ -5,6 +5,7 @@ author: Iamblichus of Chalcis
 eul_wid: udw-ac
 eul_aid: udw
 canonical: "https://eulogikon.org/works/iamblichus-chalcis-common-mathematics-udw-ac"
+lang: grc
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Iamblichus of Chalcis
 
 **eul_wid:** `udw-ac` · [HTML page](https://eulogikon.org/works/iamblichus-chalcis-common-mathematics-udw-ac)
-
-_On Common Mathematical Knowledge_ is a philosophical treatise by the Neoplatonist philosopher Iamblichus of Chalcis. The work, structured in eighty-four chapters according to later sources, systematically argues for the unity of the mathematical sciences—encompassing arithmetic, geometry, stereometry, astronomy, and harmonics—as a single, coherent body of knowledge sharing common principles and methodology. It establishes mathematics as occupying an intermediate ontological and epistemological status between the physical, sensible world and the purely intelligible realm of Platonic Forms, thereby serving as an essential preparatory discipline for the soul’s ascent to higher philosophical truth. The treatise exhibits strong Pythagorean influence, particularly in its emphasis on the theological significance of number and the foundational role of mathematical principles. The text survives only in a fragmentary state, preserved through excerpts and summaries contained in later Byzantine compilations, most notably the tenth-century encyclopedia known as the Suda, from which modern editions have been reconstructed. Iamblichus’s synthesis provided a metaphysical justification for the standard late antique educational curriculum, the quadrivium, and his integration of Pythagorean number theory with Platonic metaphysics reinforced the central role of mathematics in Neoplatonic thought, influencing subsequent figures such as Proclus and later Byzantine scholarship.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Carcinus the Younger Tragedian of Thoricus
 eul_wid: fiw-aa
 eul_aid: fiw
 canonical: "https://eulogikon.org/works/carcinus-thoricus-demeter-persephone-fiw-aa"
+lang: grc
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Carcinus the Younger Tragedian of Thoricus
 
 **eul_wid:** `fiw-aa` · [HTML page](https://eulogikon.org/works/carcinus-thoricus-demeter-persephone-fiw-aa)
-
-The Fragments on Demeter and Persephone consist of thirty surviving passages from lost tragedies by the fourth-century BCE Athenian poet Carcinus the Younger of Thoricus. These excerpts, preserved not as a continuous play but as quotations in later authors, are collected in modern scholarly editions. Carcinus, who belonged to a family of tragedians and was active in the later period of Attic drama, is mentioned by both Aristophanes and Aristotle. The fragments engage with the core narrative of the Eleusinian myth, including the abduction of Persephone by Hades, the profound grief and subsequent wanderings of her mother Demeter, the establishment of the seasonal cycle, and the foundation of the Eleusinian Mysteries. They also explore the relationship between the two goddesses and the nature of the underworld. The fragments survive exclusively through indirect citation by later grammarians, lexicographers, and philosophers such as Athenaeus and Stobaeus, who referenced them for linguistic illustration or thematic exempla; no manuscript of a complete play by Carcinus exists. While his direct literary influence appears limited, these fragments are significant as evidence for the continued production of tragedy in the post-classical period. Their preservation underscores how later antiquity valued earlier poets as sources for language and moral illustration, and they provide valuable insight into the treatment of a central Athenian religious narrative within fourth-century dramatic poetry.
 
 ## Text
 

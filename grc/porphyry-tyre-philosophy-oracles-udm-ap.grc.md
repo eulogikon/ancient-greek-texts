@@ -5,6 +5,7 @@ author: Porphyry of Tyre
 eul_wid: udm-ap
 eul_aid: udm
 canonical: "https://eulogikon.org/works/porphyry-tyre-philosophy-oracles-udm-ap"
+lang: grc
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Porphyry of Tyre
 
 **eul_wid:** `udm-ap` · [HTML page](https://eulogikon.org/works/porphyry-tyre-philosophy-oracles-udm-ap)
-
-On Philosophy from Oracles is a lost philosophical treatise by the third-century Neoplatonist Porphyry of Tyre, surviving only in fragments preserved by later Christian authors. The work compiled and interpreted prophetic utterances, or oracles, attributed to traditional Greek deities such as Apollo and Hecate. Porphyry presented these oracles as genuine divine revelations containing esoteric wisdom that corroborated and elucidated Platonic doctrine. The fragments address characteristically Neoplatonic themes, including the hierarchical order of divine beings, the necessity of ritual and ethical purity, and the soul’s ascent toward union with the divine. Some passages also contain pointed criticisms of Christian teachings. Scholars generally view the treatise as an early effort by Porphyry to construct a philosophical defense of traditional pagan religion against the rising tide of Christianity. By extracting profound philosophical truths from established oracular sources, he sought to provide a revealed foundation for Platonic metaphysics and theology. The original structure of the work is unknown, though the extant evidence is conventionally organized into 61 discrete passages. The text’s survival depends entirely on quotations found in the works of Christian apologists, most notably Eusebius of Caesarea and Augustine of Hippo, who cited it for the purpose of refutation, thereby preserving its fragments even as the complete treatise was lost.
 
 ## Text
 

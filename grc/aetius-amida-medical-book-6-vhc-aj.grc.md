@@ -5,6 +5,7 @@ author: Aëtius of Amida
 eul_wid: vhc-aj
 eul_aid: vhc
 canonical: "https://eulogikon.org/works/aetius-amida-medical-book-6-vhc-aj"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aëtius of Amida
 
 **eul_wid:** `vhc-aj` · [HTML page](https://eulogikon.org/works/aetius-amida-medical-book-6-vhc-aj)
-
-Medical Book VI is the sixth volume of the Tetrabiblos, a sixteen-book medical encyclopedia compiled in Greek by the 6th-century physician Aëtius of Amida. Written in Constantinople during the reign of Emperor Justinian I, the work is a systematic compilation designed to preserve and organize the medical knowledge of earlier Greek and Roman authorities. This particular book focuses exclusively on diseases of the head, covering a wide range of conditions including hydrocephalus, phrenitis, lethargy, catalepsy, mania, melancholy, lycanthropy, and epilepsy, as well as ailments affecting the eyes, ears, nose, and mouth. Its structure follows a standard compendium format, with each chapter dedicated to a specific disorder.
-
-For each condition, Aëtius presents multiple treatments drawn from his sources, whom he frequently cites by name. These authorities include prominent figures such as Galen, Archigenes, Posidonius, Leonides, and Rufus of Ephesus. The therapeutic recommendations encompass dietary advice, complex pharmaceutical recipes, and surgical interventions, all framed within the prevailing Galenic system of humoral pathology. Modern scholarship regards the work not as an original treatise but as a vital doxography—a curated collection of excerpts that preserves the theories and practices of many earlier physicians, some of whose works are otherwise lost.
-
-The complete text of Aëtius’s encyclopedia survives intact through numerous Greek manuscripts, attesting to its continuous use as a medical textbook throughout the Byzantine and medieval periods. Book VI is fully preserved with a stable structure of 133 chapters. The encyclopedia’s influence extended beyond the Greek-speaking world through subsequent translations into Latin and Arabic, cementing its role as a crucial bridge between ancient medical tradition and the scholarship of the medieval world.
 
 ## Text
 

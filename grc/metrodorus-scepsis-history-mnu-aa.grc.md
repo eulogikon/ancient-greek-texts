@@ -5,6 +5,7 @@ author: Metrodorus of Scepsis
 eul_wid: mnu-aa
 eul_aid: mnu
 canonical: "https://eulogikon.org/works/metrodorus-scepsis-history-mnu-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Metrodorus of Scepsis
 
 **eul_wid:** `mnu-aa` · [HTML page](https://eulogikon.org/works/metrodorus-scepsis-history-mnu-aa)
-
-The Fragments on History attributed to Metrodorus of Scepsis constitute a modern scholarly collection of citations from his lost historical works. Metrodorus, a historian and philosopher of the first century BCE, composed prose accounts that were later utilized by ancient authors. His writings survive only through quotations, primarily in the geographer Strabo and the biographer Plutarch, who referenced him for information on the history and geography of Asia Minor and the Black Sea region, particularly concerning the Mithridatic Wars. The surviving fragments indicate his work encompassed historical ethnography, such as descriptions of the customs of peoples like the Tibareni, political history including accounts of figures like the Roman general Gaius Marius, and court history featuring anecdotes from the court of his patron, King Mithridates VI of Pontus. Metrodorus’s works are entirely lost, with no independent manuscript tradition; their transmission depends entirely on these later excerpting authors. He served as an important source for subsequent historians due to his detailed knowledge and proximity to the events of the Mithridatic Wars. His principal value lies in providing a perspective from within the Pontic sphere of influence, though the loss of his original texts precludes a full assessment of his historiographical method and impact.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Callixenus of Rhodes
 eul_wid: iqq-aa
 eul_aid: iqq
 canonical: "https://eulogikon.org/works/callixenus-rhodes-alexandria-monuments-iqq-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine (frg)
 domain: History
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Callixenus of Rhodes
 
 **eul_wid:** `iqq-aa` · [HTML page](https://eulogikon.org/works/callixenus-rhodes-alexandria-monuments-iqq-aa)
-
-On Alexandria and Its Monuments is a descriptive historical work by the 3rd-century BCE Greek author Callixenus of Rhodes. The text survives only in fragments, primarily preserved through quotations in later authors such as Athenaeus of Naucratis. These extant passages provide a detailed portrait of the splendor of Ptolemaic Alexandria, with a particular focus on the reign of Ptolemy II Philadelphus. The most famous fragment offers an elaborate account of a grand royal procession, describing a spectacle of ornate floats, exotic animals, religious icons, and displays of military might involving thousands of participants. Other surviving sections detail the opulence of the royal palace and its furnishings, as well as the formidable size and composition of the Ptolemaic naval fleet.
-
-Modern scholarship interprets the work as a form of court historiography, composed to celebrate the wealth, power, and cultural legitimacy of the Ptolemaic dynasty. It functioned as promotional literature, aiming to establish Alexandria as the preeminent capital of the Hellenistic world. The descriptions of civic spectacle and architectural magnificence showcase a deliberate synthesis of Greek and Egyptian elements, reflecting the dynasty's political strategy and the city's unique cosmopolitan identity. The complete text is lost, and knowledge of it depends entirely on this indirect transmission through later antiquarian sources.
 
 ## Text
 

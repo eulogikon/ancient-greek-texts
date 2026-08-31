@@ -5,6 +5,7 @@ author: Heraclides Lembus the Historian
 eul_wid: lbs-aa
 eul_aid: lbs
 canonical: "https://eulogikon.org/works/heraclides-lembus-constitutions-lbs-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Heraclides Lembus the Historian
 
 **eul_wid:** `lbs-aa` · [HTML page](https://eulogikon.org/works/heraclides-lembus-constitutions-lbs-aa)
-
-The Excerpts-Constitutions is a 2nd-century BCE compilation of political history by Heraclides Lembus, a scholar and official in Ptolemaic Egypt. Written in Koine Greek prose, the work originally collected 72 passages describing the foundational laws, government structures, and distinctive customs of various Greek and non-Greek states. It represents the Hellenistic tradition of creating scholarly summaries, as Heraclides condensed longer, now-lost works on political systems, likely drawing from the Peripatetic school associated with Aristotle. Only a portion of the text survives today, known through fragments preserved centuries later in a 10th-century Byzantine compilation commissioned by Emperor Constantine VII. The surviving excerpts, such as the one detailing the early political evolution of Athens from monarchy to the reforms of Solon, illustrate its method of concise historical narration. Modern scholars interpret the work as a tool for comparative political ethnography, likely intended for an administrative or scholarly audience interested in different models of governance. Its primary historical value now is as a conduit, preserving fragments of earlier political writings that would otherwise be lost.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Pseudo-Justin the Christian Apologist
 eul_wid: uau-aj
 eul_aid: uau
 canonical: "https://eulogikon.org/works/pseudo-justin-resurrection-uau-aj"
+lang: grc
 period: Late Antique
 domain: Theology
 format: Treatise

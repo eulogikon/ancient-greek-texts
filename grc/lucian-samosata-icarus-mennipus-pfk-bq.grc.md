@@ -5,6 +5,7 @@ author: Lucian of Samosata
 eul_wid: pfk-bq
 eul_aid: pfk
 canonical: "https://eulogikon.org/works/lucian-samosata-icarus-mennipus-pfk-bq"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lucian of Samosata
 
 **eul_wid:** `pfk-bq` · [HTML page](https://eulogikon.org/works/lucian-samosata-icarus-mennipus-pfk-bq)
-
-Icaromenippus, also known as The Sky-Man, is a satirical prose dialogue by the Syrian-Greek author Lucian of Samosata, composed in Attic Greek during the Roman Imperial period, most likely between 160 and 180 CE. A definitive example of Menippean satire, it characteristically mixes philosophical inquiry with fantastical and comic narrative. The work, structured in 33 sections, survives complete.
-
-The dialogue presents a first-person narrative by the Cynic philosopher Menippus. Disgusted by the contradictions and ceaseless disputes of earthly philosophers, he constructs a pair of wings in a deliberate parody of the myth of Icarus and Daedalus. His subsequent flight carries him first to the Moon and then onward to the very citadel of Heaven. From this Olympian vantage point, he observes the petty and ridiculous nature of human endeavors. He converses with the Moon-goddess Selene, who complains of the absurd theories philosophers project upon her, and with a weary Zeus, overwhelmed by the conflicting prayers of humanity. The celestial journey serves as Lucian’s vehicle for mocking the vanity of professional philosophical schools and satirizing conventional religious piety and myth.
-
-A product of the Second Sophistic, a period of revived Greek literary and rhetorical culture, the work was intended for a sophisticated, educated audience. It employs the philosophical trope of the "view from above" not for ethical consolation but to expose the absurdity of human strife and intellectual hypocrisy. The text was widely transmitted through medieval manuscripts and exerted significant influence during the Renaissance, helping to shape the development of later European satire and early fantastic voyage literature.
 
 ## Text
 

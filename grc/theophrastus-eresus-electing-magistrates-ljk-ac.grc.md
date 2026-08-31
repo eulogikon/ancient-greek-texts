@@ -5,6 +5,7 @@ author: Theophrastus of Eresus
 eul_wid: ljk-ac
 eul_aid: ljk
 canonical: "https://eulogikon.org/works/theophrastus-eresus-electing-magistrates-ljk-ac"
+lang: grc
 period: Hellenistic
 dialect: Attic Philosophical
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Theophrastus of Eresus
 
 **eul_wid:** `ljk-ac` · [HTML page](https://eulogikon.org/works/theophrastus-eresus-electing-magistrates-ljk-ac)
-
-On Electing Magistrates is a lost treatise on political philosophy by Theophrastus of Eresus, the successor to Aristotle as head of the Peripatetic school in Athens. Composed in Attic Greek during the late fourth or early third century BCE, the work systematically examined the principles and procedures for selecting public officials within the framework of the Greek city-state. Its full content is unknown, surviving only through eight fragmentary passages preserved by the Byzantine anthologist Stobaeus. These excerpts indicate the treatise addressed the essential qualities of good magistrates and evaluated various methods for their appointment. A notable proposal involved selecting officials by lot from a pre-vetted, shortlisted group of candidates, a mechanism interpreted by scholars as an attempt to synthesize democratic and aristocratic elements within a mixed constitution. Other practical concerns are also evident, such as a warning against electing leaders who champion costly public building projects, as such expenditures could impose a severe burden on the civic treasury.
-
-The work formed part of the broader Peripatetic endeavor to catalog and analyze comparative constitutions and forms of governance. It was likely intended for an audience of philosophers, advanced students, and practicing statesmen engaged in the political discourse of the early Hellenistic era. As the complete text has not endured, modern understanding relies entirely on these later, decontextualized excerpts. Scholars regard the treatise as a significant source for tracing the evolution of political theory in the immediate post-Aristotelian period, particularly for its distinctive conceptual efforts to balance and integrate features from different political systems.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Agathocles of Cyzicus
 eul_wid: izw-ab
 eul_aid: izw
 canonical: "https://eulogikon.org/works/agathocles-cyzicus-pontus-river-izw-ab"
+lang: grc
 period: Hellenistic
 dialect: Ionic (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Agathocles of Cyzicus
 
 **eul_wid:** `izw-ab` · [HTML page](https://eulogikon.org/works/agathocles-cyzicus-pontus-river-izw-ab)
-
-The work On the Pontus River by Agathocles of Cyzicus is known only from a single fragment preserved by the geographer Strabo. This excerpt concerns the river Hypanis, the modern Southern Bug, and records a local Milesian colony named Odessus situated at its mouth, distinguishing it from the more famous city of Odessus on the west coast of the Black Sea. The fragment provides a geographical and ethnographic description consistent with the periplous tradition of coastal surveys, clarifying homonymous place names within the region. The work is entirely lost apart from this one citation in Strabo's Geography, which quotes Agathocles directly. It was likely part of a larger Hellenistic treatise on the Black Sea, representing the lost geographical literature that compiled vital data on colonies and topography. Its primary significance lies in its use as a source by Strabo, through which fragments of Agathocles's research were transmitted into the broader stream of ancient geographical knowledge.
 
 ## Text
 

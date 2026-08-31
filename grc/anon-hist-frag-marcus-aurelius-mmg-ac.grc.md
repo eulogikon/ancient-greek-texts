@@ -5,6 +5,7 @@ author: Historical Fragments  Anonymous
 eul_wid: mmg-ac
 eul_aid: mmg
 canonical: "https://eulogikon.org/works/anon-hist-frag-marcus-aurelius-mmg-ac"
+lang: grc
 period: Hellenistic
 dialect: Mixed Dialects (frg)
 domain: History
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Historical Fragments  Anonymous
 
 **eul_wid:** `mmg-ac` · [HTML page](https://eulogikon.org/works/anon-hist-frag-marcus-aurelius-mmg-ac)
-
-The anonymous Greek compilation On Marcus Aurelius Antoninus, Testimony is a collection of historical fragments pertaining to the reign of Emperor Marcus Aurelius from 161 to 180 CE. It functions not as a continuous narrative but as a scholarly assemblage of excerpts drawn from earlier, now-lost sources, compiled into a single passage. Such testimonia collections were typically produced in late antiquity or the Byzantine period with the purpose of preserving scattered references for scholarly consultation and reference. The content of the sole surviving passage likely addresses themes common in sources on this emperor, including his imperial character and virtues such as justice and self-control, his military campaigns and frontier policies, his administrative and judicial conduct, his philosophical adherence to Stoicism, and his relations with the Roman Senate and people.
-
-The work survives through the medieval manuscript tradition of historical excerpts, possibly as part of a larger anthology similar to those commissioned by the Byzantine emperor Constantine VII Porphyrogennetos. Its anonymous and fragmentary nature is characteristic of such scholarly compilations from the Byzantine era. The primary significance of the collection lies in its potential value for modern historians, as it may preserve unique citations or textual variants from sources otherwise lost to time. It thus contributes to the reconstruction of historical perspectives on Marcus Aurelius and serves as a concrete example of the Byzantine scholarly practice of excerpting and preserving ancient testimonia.
 
 ## Text
 

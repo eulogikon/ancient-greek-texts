@@ -5,6 +5,7 @@ author: Euripides
 eul_wid: cbm-bd
 eul_aid: cbm
 canonical: "https://eulogikon.org/works/euripides-rhesus-cbm-bd"
+lang: grc
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Euripides
 
 **eul_wid:** `cbm-bd` · [HTML page](https://eulogikon.org/works/euripides-rhesus-cbm-bd)
-
-Rhesus is a Greek tragedy traditionally attributed to Euripides, though its authorship has been debated since antiquity. Written in Attic Greek verse and comprising 951 lines, the play is unique among surviving tragedies for being a direct dramatization of a single episode from Homer's Iliad, specifically the night raid described in Book Ten. The action unfolds during a single night within the Trojan camp. The Thracian king Rhesus arrives with his army to bolster the Trojan forces, raising hopes for victory. The Greek heroes Odysseus and Diomedes, on a covert mission, learn of this new threat. They infiltrate the camp, assassinate Rhesus in his sleep, and make off with his famed white horses, thereby thwarting a prophecy that Troy would become invincible if those horses drank from the local River Scamander. The drama employs a chorus of Trojan sentries and features the goddess Athena, who actively deceives the Trojans to assist the Greek cause.
-
-The date of the play's composition remains uncertain. Some scholars argue for an early Euripidean origin, possibly from around 450–440 BCE, while others contend it is a later fourth-century BCE work by an imitator, citing stylistic and structural differences from his confirmed works. The tragedy relies on an audience's familiarity with the Homeric narrative, using dramatic irony and a tense nocturnal atmosphere to explore themes of fate, divine manipulation, and the precarious nature of martial glory. Unlike many classical texts, Rhesus survives in its complete form, preserved within the Byzantine manuscript tradition of Euripides' plays. Nevertheless, persistent questions regarding its authenticity have consistently shaped its critical reception and standing within the tragic canon.
 
 ## Text
 

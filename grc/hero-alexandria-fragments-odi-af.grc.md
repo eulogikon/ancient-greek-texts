@@ -1,10 +1,11 @@
 ---
 title: Heronian Fragments
 title_greek: Ἀποσπάσματα Ἡρωνιακά
-author: "Hero of Alexandria "
+author: Hero of Alexandria
 eul_wid: odi-af
 eul_aid: odi
 canonical: "https://eulogikon.org/works/hero-alexandria-fragments-odi-af"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀποσπάσματα Ἡρωνιακά*
 
-**Author:** Hero of Alexandria 
+**Author:** Hero of Alexandria
 
 **eul_wid:** `odi-af` · [HTML page](https://eulogikon.org/works/hero-alexandria-fragments-odi-af)
-
-The Heronian Fragments is an anthology of 358 passages of didactic verse attributed to Hero of Alexandria. Written in dactylic hexameter, this encyclopedic compilation covers practical and scientific topics, synthesizing knowledge from earlier poetic sources into a form intended for memorization and application. The fragments encompass a wide range of subjects, including astronomy, astrology, and celestial phenomena; mathematics, geometry, and mechanical principles; natural philosophy, such as weather and animals; and practical lore related to agriculture and daily life. The work survives in medieval manuscripts, primarily the Codex Parisinus suppl. gr. 607. Scholars consider it a Byzantine or late antique compilation of excerpts from earlier poets, assembled and ascribed to Hero of Alexandria to lend it authority. While of limited direct influence, the fragments are a valuable witness to the tradition of scientific didactic poetry. They illustrate what technical knowledge was versified for memorization and preserve excerpts of otherwise lost works. The attribution reflects Hero’s enduring authority in medieval scholarly tradition.
 
 ## Text
 

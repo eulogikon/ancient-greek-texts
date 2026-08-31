@@ -5,6 +5,7 @@ author: Comic Fragments Anonymous III
 eul_wid: kge-aa
 eul_aid: kge
 canonical: "https://eulogikon.org/works/comic-fragments-anon-iii-text-kge-aa"
+lang: grc
 period: Hellenistic
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Comic Fragments Anonymous III
 
 **eul_wid:** `kge-aa` · [HTML page](https://eulogikon.org/works/comic-fragments-anon-iii-text-kge-aa)
-
-The Fragments of Anonymous Comedians is a modern scholarly compilation that gathers 91 unattributed passages from lost Greek comedies. Designated under the editorial convention Comic Fragments Anonymous III, this collection consists of adespota, or anonymous works, preserved not in their original form but within the texts of later grammarians, lexicographers, and commentators such as Athenaeus, as well as on papyrus scraps. These fragments represent the scattered remains of comedies from the Old, Middle, and New periods that cannot be assigned to any known playwright. The passages are typically brief citations preserved for their lexical, grammatical, or cultural interest, and they reflect the broad thematic range of the genre, including social satire of contemporary figures and professions, parody of mythological gods and heroes, details of daily life such as food and domestic affairs, linguistic wordplay and proverbial expressions, and occasional political commentary, particularly in material derived from Old Comedy.
-
-The fragments have no independent manuscript tradition and survive solely through the quoting practices of ancient scholars. This specific anthology is a product of 19th and 20th-century philology, representing a systematic extraction and organization of this material from its source texts. The definitive critical edition for these and other comic fragments is found in Poetae Comici Graeci (PCG), Volume VIII. While the collection itself is a modern reconstruction, the individual fragments constitute crucial evidence for the scope and character of Greek comedy beyond the limited corpus of complete plays that survive. They provide valuable data for philological studies of the Attic dialect and serve as incidental, though often vivid, sources for social history and material culture in the ancient Greek world.
 
 ## Text
 

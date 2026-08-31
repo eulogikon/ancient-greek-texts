@@ -5,6 +5,7 @@ author: Julian the Apostate
 eul_wid: sno-ag
 eul_aid: sno
 canonical: "https://eulogikon.org/works/julian-apostate-helios-salustius-sno-ag"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Julian the Apostate
 
 **eul_wid:** `sno-ag` · [HTML page](https://eulogikon.org/works/julian-apostate-helios-salustius-sno-ag)
-
-To King Helios, To Salustius is a philosophical treatise composed in Greek by the Roman Emperor Julian, commonly known as Julian the Apostate. Written around 362–363 CE and dedicated to his friend and official Sallustius, the work is a systematic exposition in 42 sections that elevates the sun, Helios, to the position of central deity within a revived pagan theological framework. Julian synthesizes Platonic and Neoplatonic metaphysics with traditional ritual practice, articulating a complex cosmology in which the visible sun is the material image of two higher, intellectual suns. These celestial entities collectively serve as the mediating principle between the transcendent, ineffable divine and the sensible, material cosmos.
-
-The treatise stands as a cornerstone of Julian's brief but intense campaign to restore traditional Greco-Roman religion as a philosophically coherent and spiritually potent alternative to Christianity. It represents a deliberate effort to provide a unifying theological foundation for his religious reforms, recasting solar worship not as mere superstition but as a rational devotion to a benevolent and supreme cosmic principle. The complete text has been preserved through a relatively strong medieval manuscript tradition. As both a personal confession of faith and a public doctrinal statement, it remains an essential document for understanding the intellectual and religious ferment of the fourth-century Roman Empire, illustrating the last major attempt to construct a systematic pagan theology in the ancient world.
 
 ## Text
 

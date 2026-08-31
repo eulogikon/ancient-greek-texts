@@ -5,6 +5,7 @@ author: Aelius Dius the Historian
 eul_wid: mvc-aa
 eul_aid: mvc
 canonical: "https://eulogikon.org/works/aelius-dius-alexandria-mvc-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aelius Dius the Historian
 
 **eul_wid:** `mvc-aa` · [HTML page](https://eulogikon.org/works/aelius-dius-alexandria-mvc-aa)
-
-The Fragments on Alexandria is a lost historical work by Aelius Dius, surviving only through a handful of passages quoted by later authors. The title indicates its focus on the city of Alexandria, though the original scope and structure of the complete text are unknown. Based on its genre of local history, the work likely addressed the foundation and early history of Alexandria, descriptions of its major monuments and urban layout, accounts of significant events within the city, and notable customs of its inhabitants. The text is preserved indirectly via fragmentary transmission, with no independent manuscript tradition; the extant passages are cited in the works of later ancient or Byzantine writers and are collected in modern scholarly compilations. Aelius Dius’s work belongs to the tradition of Hellenistic and Roman-era local historiography. Its citations provided later historians and geographers with authoritative details about Alexandria, and modern scholars value these fragments as rare potential sources of information, though their reliability requires critical assessment.
 
 ## Text
 

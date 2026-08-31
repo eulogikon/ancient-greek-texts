@@ -5,6 +5,7 @@ author: Themistius the Philosopher
 eul_wid: rye-bj
 eul_aid: rye
 canonical: "https://eulogikon.org/works/themistius-friendship-rye-bj"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Themistius the Philosopher
 
 **eul_wid:** `rye-bj` · [HTML page](https://eulogikon.org/works/themistius-friendship-rye-bj)
-
-On Friendship is an oration by the fourth-century philosopher and statesman Themistius. As one of his surviving public discourses, it blends philosophical inquiry with rhetorical artistry to examine the nature of friendship as both a personal virtue and a foundational social principle. The work opens by contrasting the popular fascination with tales of war and strife from epic poetry and history with a perceived neglect of the philosophical discourse on friendship, despite its supreme importance for human life. Themistius argues that while the poet of strife wishes for its eradication, no one would choose to live without friendship, even in possession of all other goods.
-
-The oration systematically explores friendship within the framework of classical Greek philosophy, drawing primarily on Aristotelian and Platonic traditions as interpreted in late antique thought. It investigates friendship as a profound moral and intellectual bond that transcends mere utility or pleasure, positioning it as an essential component of the virtuous life. Beyond individual ethics, Themistius expands the concept to address the needs of the contemporary Roman state, presenting civic concord and political cohesion as forms of friendship vital for the stability of the empire and the imperial court. The discourse offers practical guidance for cultivating genuine friendship within the spheres of public service and philosophical practice, mediating between ideal theory and the demands of active life. The work survives through medieval manuscript traditions and is preserved in modern critical editions of Themistius’s orations. As part of his larger corpus, this oration exemplifies the adaptation and dissemination of classical philosophy in late antiquity, contributing to the Hellenic intellectual heritage that would subsequently influence Byzantine and, through later Arabic translations, Islamic philosophical traditions.
 
 ## Text
 

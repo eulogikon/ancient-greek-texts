@@ -1,10 +1,11 @@
 ---
 title: "Hermes to Tat, The Cup"
 title_greek: Πρὸς Τάτ ὁ κρατήρ ἡ μονάς
-author: "Hermetica "
+author: Hermetica
 eul_wid: oqk-aq
 eul_aid: oqk
 canonical: "https://eulogikon.org/works/hermetica-cup-oqk-aq"
+lang: grc
 period: Roman
 dialect: Philosophical Koine
 domain: Philosophy
@@ -16,15 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Πρὸς Τάτ ὁ κρατήρ ἡ μονάς*
 
-**Author:** Hermetica 
+**Author:** Hermetica
 
 **eul_wid:** `oqk-aq` · [HTML page](https://eulogikon.org/works/hermetica-cup-oqk-aq)
-
-"Hermes to Tat, The Cup or The Monad" is a philosophical treatise from the Corpus Hermeticum, a collection of Greek texts attributed to the legendary sage Hermes Trismegistus. Composed in Roman Egypt between the first and third centuries CE, the work is structured as a didactic dialogue between Hermes and his disciple Tat. It expounds a cosmology centered on a supreme, transcendent creator who fashioned the cosmos not by physical means but through divine will and Logos. This creator is described as an intangible, immeasurable, and utterly unique being from whom all elements—fire, water, air, and spirit—derive.
-
-The treatise employs the central metaphor of a divine "Cup" or mixing bowl, interpreted as the Divine Mind or Nous, sent by God into the cosmos. Humanity, presented as a mortal creature endowed with the immortal qualities of the divine body of the world, is distinguished by its possession of Logos and its capacity to behold and recognize the creator. However, the text draws a critical distinction: while Logos is distributed to all people, Divine Mind is not, being withheld not from divine envy but due to the spiritual condition of those souls unprepared to receive it. The work outlines a path of spiritual rebirth, wherein immersing one's consciousness in this Cup of Nous facilitates an ascent to the divine and a transcendence of ordinary rational thought.
-
-The treatise survives complete as one of the core texts in the Corpus Hermeticum, preserved primarily in Byzantine manuscripts. It reflects a syncretic blend of late Platonic philosophy, Egyptian religious motifs, and contemporary theological speculation. Modern scholarship interprets it as revelatory literature intended for a dedicated audience seeking personal transformation and direct, intuitive knowledge of God. Its themes of enlightenment, deification, and the pursuit of gnosis later exerted a profound influence during the Renaissance, when the rediscovery of the Hermetic writings significantly shaped Western esoteric and philosophical thought.
 
 ## Text
 

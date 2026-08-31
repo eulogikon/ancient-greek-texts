@@ -5,6 +5,7 @@ author: Timolaus of Larissa
 eul_wid: ghc-aa
 eul_aid: ghc
 canonical: "https://eulogikon.org/works/timolaus-larissa-trojan-war-ghc-aa"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Timolaus of Larissa
 
 **eul_wid:** `ghc-aa` · [HTML page](https://eulogikon.org/works/timolaus-larissa-trojan-war-ghc-aa)
-
-Fragments on the Trojan War is a lost oration by the otherwise obscure Timolaus of Larissa. It survives only in a single fragment quoted by Athenaeus in his Deipnosophistae. The fragment presents a rhetorically witty and reductive explanation for the Trojan War, paradoxically attributing its cause to a lowly cook. This is a sarcastic reference to Odysseus, who used a ruse involving weapons to discover Achilles hiding among women on Scyros. The work is preserved solely through Athenaeus, who cites it for its satirical value in a discussion critiquing pretension, and no independent manuscript tradition exists. The fragment exemplifies the Hellenistic or Imperial practice of epideictic oratory, which employed novel and paradoxical treatments of myth to display rhetorical skill and intellectual amusement.
 
 ## Text
 

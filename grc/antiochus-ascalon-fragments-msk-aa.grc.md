@@ -5,6 +5,7 @@ author: Antiochus of Ascalon
 eul_wid: msk-aa
 eul_aid: msk
 canonical: "https://eulogikon.org/works/antiochus-ascalon-fragments-msk-aa"
+lang: grc
 period: Hellenistic
 dialect: Attic Philosophical
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Antiochus of Ascalon
 
 **eul_wid:** `msk-aa` · [HTML page](https://eulogikon.org/works/antiochus-ascalon-fragments-msk-aa)
-
-The Fragments on Antiochus of Ascalon is a modern collection of passages attributed to the philosopher Antiochus of Ascalon, who lived circa 130 to 68 BCE. Antiochus was a pivotal syncretic thinker who blended Stoic, Peripatetic, and Platonic doctrines to establish what he termed the "Old Academy," and he was a significant teacher of Cicero. Scholarly consensus maintains that all of Antiochus's original works are lost, with his philosophy known only through fragments and testimonia preserved by later authors, most notably Cicero. Consequently, the very notion of a self-referential treatise by Antiochus about himself is considered an unattested anomaly in the historical record. The collection, if it were to reflect genuine reports of his thought, would contain themes central to his known philosophical positions. These include his critique of Academic Skepticism and his assertion of a criterion of truth, his syncretic ethical system defining the ultimate goal of life as virtue combined with external goods, his doctrine positioning the Old Academy as the true heir to Plato, and an epistemology that merged Stoic cognitive impressions with an Aristotelian foundation. The transmission of Antiochus's philosophy is entirely indirect, relying on fragments within the works of later authors. Cicero serves as the primary source, having studied under Antiochus and subsequently using him as a key spokesman in philosophical dialogues such as the Academica. There is no evidence within the standard manuscript tradition for an ancient, self-authored collection bearing the title Fragments on Antiochus. Antiochus's significance lies in his decisive rejection of skepticism and his development of a syncretic philosophy that profoundly influenced Roman intellectuals, especially Cicero, and helped lay the groundwork for the later movement known as Middle Platonism. His posthumous influence is mediated almost entirely through Cicero's Latin presentations, which were instrumental in transmitting key elements of Greek philosophy to subsequent eras.
 
 ## Text
 

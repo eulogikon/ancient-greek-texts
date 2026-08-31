@@ -4,6 +4,7 @@ author: Gregory of Nazianzus
 eul_wid: sne-cl
 eul_aid: sne
 canonical: "https://eulogikon.org/works/gregory-nazianzus-friendship-duty-sne-cl"
+lang: grc
 period: Late Antique
 domain: Theology
 format: Epistle

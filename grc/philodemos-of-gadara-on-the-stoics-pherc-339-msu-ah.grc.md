@@ -5,6 +5,7 @@ author: Philodemos of Gadara
 eul_wid: msu-ah
 eul_aid: msu
 canonical: "https://eulogikon.org/works/philodemos-of-gadara-on-the-stoics-pherc-339-msu-ah"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philodemos of Gadara
 
 **eul_wid:** `msu-ah` · [HTML page](https://eulogikon.org/works/philodemos-of-gadara-on-the-stoics-pherc-339-msu-ah)
-
-Philodemus of Gadara's On the Stoics (Περὶ τῶν Στωικῶν) is a first-century BCE Epicurean critique of the early Stoa, preserved in two carbonised papyrus rolls from the Villa of the Papyri at Herculaneum. PHerc. 339 is the better-preserved of the two witnesses. Across its columns Philodemus attacks the political philosophy of the Stoics, dwelling on the notorious doctrines of the Republics of Zeno and of Diogenes the Cynic — community of women and children, the abolition of temples, law-courts, gymnasia and coinage — and he names the intermediaries through whom that polemic travelled, among them Antipater of Tarsus's Against the Sects and several works of Chrysippus. The roll is a primary witness to early-Stoic political thought that the later doxographic tradition reports only at second hand.
-
-Eulogikon publishes the public-domain substrate of the papyrus: the letters actually surviving on the roll are retained, while the modern editor's conjectural restorations are withheld and marked as […] lacunae — the ancient ink, not a modern reconstruction. The surviving text was verified column by column against the Biblioteca Nazionale di Napoli's public-domain drawings of the papyrus, read with the Kimi-K2.6 vision model.
 
 ## Text
 

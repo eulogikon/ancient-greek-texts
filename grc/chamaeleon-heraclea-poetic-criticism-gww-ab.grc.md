@@ -5,6 +5,7 @@ author: Chamaeleon of Heraclea Pontica
 eul_wid: gww-ab
 eul_aid: gww
 canonical: "https://eulogikon.org/works/chamaeleon-heraclea-poetic-criticism-gww-ab"
+lang: grc
 period: Classical
 dialect: "Attic (phi, frg)"
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Chamaeleon of Heraclea Pontica
 
 **eul_wid:** `gww-ab` · [HTML page](https://eulogikon.org/works/chamaeleon-heraclea-poetic-criticism-gww-ab)
-
-The Fragments on Poetic Criticism is a lost treatise by the Hellenistic scholar Chamaeleon of Heraclea Pontica, a student of Aristotle active in the late fourth or early third century BCE. As a member of the Peripatetic school, Chamaeleon participated in its systematic study of literature and poetics. The work survives only in two brief fragments preserved by the later compiler Athenaeus in his Deipnosophistae. One fragment discusses the lyric poet Stesichorus, noting his criticism of Homer and Hesiod and recording the existence of two distinct versions of his famous Palinode. The other fragment, citing both Chamaeleon and the historian Istros, recounts an anecdote about the poet Pindar being visited by bees on Mount Helicon. These excerpts exemplify the Peripatetic method of collecting biographical anecdotes and rationalizing interpretations of poetic texts. The original treatise's full scope, structure, and content are otherwise unknown.
 
 ## Text
 

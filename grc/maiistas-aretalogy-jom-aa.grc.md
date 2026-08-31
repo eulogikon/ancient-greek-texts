@@ -5,6 +5,7 @@ author: Maiistas the Epic Poet
 eul_wid: jom-aa
 eul_aid: jom
 canonical: "https://eulogikon.org/works/maiistas-aretalogy-jom-aa"
+lang: grc
 period: Hellenistic
 dialect: Epic (Homeric)
 domain: Epic
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Maiistas the Epic Poet
 
 **eul_wid:** `jom-aa` · [HTML page](https://eulogikon.org/works/maiistas-aretalogy-jom-aa)
-
-The Aretalogy by Maiistas is a poetic hymn belonging to the genre of aretalogy, which formally proclaims a deity's virtues and miraculous deeds. Preserved exclusively on a fragmentary stone stele from the sanctuary of Asclepius at Epidaurus, the inscription contains four poetic passages. The first three are hymns to Asclepius, Apollo, and Hermes composed by Maiistas, while the fourth constitutes the Aretalogy proper: a first-person narrative spoken by the goddess Hygieia describing her epiphany and the foundation of her cult at the sanctuary. The text is a first-person proclamation by Hygieia, celebrating her healing power and her familial relationship as the daughter of Asclepius. It narrates her divine arrival and the establishment of her worship within the precinct. The work survives solely as a Hellenistic period inscription found in situ at the Epidaurian sanctuary and is not transmitted through any manuscript tradition. This aretalogy is a key exemplar of cultic hymnic poetry, illustrating the religious propaganda employed at a major healing sanctuary. It provides direct evidence for the poetic celebration of a divine epiphany and the ritual and literary processes involved in integrating a new deity into an established sacred site.
 
 ## Text
 

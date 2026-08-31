@@ -1,10 +1,11 @@
 ---
 title: "Commentaries-Hippocrates' Book-the Nature of the Child"
 title_greek: Ὑπομνήματα εἰς τὸ Βιβλίον περὶ Φύσεως Παίδων
-author: "John of Alexandria "
+author: John of Alexandria
 eul_wid: vwc-aa
 eul_aid: vwc
 canonical: "https://eulogikon.org/works/john-alexandria-nature-child-vwc-aa"
+lang: grc
 period: Late Antique
 dialect: Byzantine Technical
 domain: Medicine
@@ -16,7 +17,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ὑπομνήματα εἰς τὸ Βιβλίον περὶ Φύσεως Παίδων*
 
-**Author:** John of Alexandria 
+**Author:** John of Alexandria
 
 **eul_wid:** `vwc-aa` · [HTML page](https://eulogikon.org/works/john-alexandria-nature-child-vwc-aa)
 

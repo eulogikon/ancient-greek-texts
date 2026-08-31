@@ -5,6 +5,7 @@ author: Dio Cassius of Nicaea
 eul_wid: rhq-ap
 eul_aid: rhq
 canonical: "https://eulogikon.org/works/dio-cassius-nicaea-roman-history-rhq-ap"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: History
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Dio Cassius of Nicaea
 
 **eul_wid:** `rhq-ap` · [HTML page](https://eulogikon.org/works/dio-cassius-nicaea-roman-history-rhq-ap)
-
-Cassius Dio's Roman History is an extensive 80-book narrative of Rome composed in Greek by the Roman senator Dio Cassius of Nicaea during the early third century CE. Encompassing nearly a millennium, the work traces events from the city's legendary foundation through to the author's own lifetime, concluding in 229 CE. Dio structured his history annalistically, organizing the narrative according to the annual consular years of the Roman Republic and, later, the reigns of emperors.
-
-The text survives in a fragmentary condition. Only Books 36 through 54, covering the period from approximately 69 to 10 BCE, exist in a nearly complete state. For the remainder of the history, including the early Republic and most of the Imperial period, scholars must depend on a combination of fragments, later Byzantine summaries, and excerpts preserved in other historical collections. The most substantial continuous narrative for the imperial era derives from an 11th-century epitome.
-
-Written from the unique vantage point of a high-ranking political insider, the Roman History serves as a crucial source for the fall of the Republic and the establishment of the Principate. Modern interpretation identifies a central theme in Dio's argument for the historical necessity of monarchy, presenting the transition from republican government to the one-man rule of Augustus as an inevitable development required to govern a vast empire effectively. His analysis provides an indispensable senatorial perspective on the mechanics and evolution of Roman power.
 
 ## Text
 

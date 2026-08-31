@@ -5,6 +5,7 @@ author: Hellanicus of Lesbos
 eul_wid: cvm-ac
 eul_aid: cvm
 canonical: "https://eulogikon.org/works/hellanicus-lesbos-heraclean-wars-cvm-ac"
+lang: grc
 period: Classical
 dialect: Aeolic (frg)
 domain: History
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hellanicus of Lesbos
 
 **eul_wid:** `cvm-ac` · [HTML page](https://eulogikon.org/works/hellanicus-lesbos-heraclean-wars-cvm-ac)
-
-The Fragments on Heraclean Wars is a lost historical work by the 5th-century BCE Greek author Hellanicus of Lesbos. Composed in Ionic Greek prose, it represents an early form of historiography that sought to systematize mythological traditions into a coherent chronological and historical narrative. Based on its transmitted title, the work focused on the wars waged by the Heracleidae, the descendants of the hero Heracles, detailing their legendary return to and conquest of the Peloponnese. This narrative served as a foundational charter myth for the Dorian states, particularly Sparta, legitimizing their territorial claims and political structures.
-
-Only a single, fragmentary passage from the work survives, preserved through citation by the later historian Dionysius of Halicarnassus. This fragment addresses population movements in the aftermath of the Trojan War, recording the tradition that a group known as the Pelasgians migrated to Italy and there became known as Tyrrhenians, or Etruscans. The scant evidence suggests Hellanicus’s methodology involved collecting and rationalizing disparate local myths, fitting them into a unified chronological framework that treated heroic legend as a subject for historical inquiry. The work was likely intended for an educated Greek audience interested in the origins of cities, ethnic groups, and political institutions. Its complete loss in antiquity means that modern understanding of its scope and content is derived entirely from this secondary testimony.
 
 ## Text
 

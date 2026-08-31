@@ -5,6 +5,7 @@ author: Galen of Pergamon
 eul_wid: qmm-ar
 eul_aid: qmm
 canonical: "https://eulogikon.org/works/galen-pergamon-against-writers-circuits-qmm-ar"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Galen of Pergamon
 
 **eul_wid:** `qmm-ar` · [HTML page](https://eulogikon.org/works/galen-pergamon-against-writers-circuits-qmm-ar)
-
-Galen’s polemical treatise Against Those Who Wrote on Types or Circuits survives only in fragments. It is a systematic critique of rival medical theorists who employed schematic models of “types” or “circuits” to explain the body, disease, or treatment. Galen argues against these rigid theoretical constructs, contending that they lack empirical and logical foundation. Instead, he champions an anatomy-based methodology grounded in direct observation and detailed knowledge of the body’s structures. The work rejects abstract systems in favor of a practice rooted in what can be seen and rationally deduced from nature. The treatise is preserved through fragments contained in later Byzantine medical compilations, particularly the 10th-century Collection of Medical Authors commissioned by Emperor Constantine VII Porphyrogennetos. While its direct influence is difficult to trace, the text exemplifies Galen’s broader polemical strategy to discredit rival schools and establish his own authority. Its inclusion in significant Byzantine collections ensured its legacy within the Galenic corpus, reinforcing his enduring status as the definitive ancient medical authority.
 
 ## Text
 

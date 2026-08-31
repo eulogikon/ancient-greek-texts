@@ -5,6 +5,7 @@ author: Erotic Narrative Anonymous
 eul_wid: skw-at
 eul_aid: skw
 canonical: "https://eulogikon.org/works/erotica-anon-suicide-of-severis-skw-at"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: Fiction
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Erotic Narrative Anonymous
 
 **eul_wid:** `skw-at` · [HTML page](https://eulogikon.org/works/erotica-anon-suicide-of-severis-skw-at)
-
-The Suicide of Severis, also referred to as Fragment, is a work unattested in the corpus of ancient Greek literature. The title and its attribution to an anonymous author of erotic narratives do not correspond to any known work or writer within standard scholarly references. The descriptive term Fragment is a generic label for an excerpt rather than a specific literary title. No verifiable content from this purported work exists in established academic sources, and there is no record of its transmission through any manuscript tradition or citation by later ancient authors. Consequently, the work holds no established significance in classical studies, as its existence cannot be confirmed within the historical record of surviving Greek texts.
 
 ## Text
 

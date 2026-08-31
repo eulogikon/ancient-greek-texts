@@ -5,6 +5,7 @@ author: Greek Grammarian Anonymous
 eul_wid: tqa-ag
 eul_aid: tqa
 canonical: "https://eulogikon.org/works/anon-grammarian-fragment-tqa-ag"
+lang: grc
 period: Late Antique
 dialect: Koine (frg)
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Greek Grammarian Anonymous
 
 **eul_wid:** `tqa-ag` · [HTML page](https://eulogikon.org/works/anon-grammarian-fragment-tqa-ag)
-
-The Grammatical Fragment is an anonymous Greek treatise surviving as a single passage. It represents a brief, unidentified piece of grammatical writing, though its precise subject matter remains unspecified. The surviving text discusses the classification of accents, breathings, and vowel quantities, providing examples for each category, such as the acute, grave, and circumflex accents, the rough and smooth breathings, and long and short vowels. It further addresses punctuation marks like the apostrophe, hyphen, and distinctio, and concludes with a section on the parts of speech, noting a traditional division into eight categories, including noun, appellative, participle, article, and pronoun, while also mentioning an alternative system that consolidates some of these. The work survives as a fragment, likely transmitted indirectly through quotation by a later author or within a manuscript anthology. Its form suggests it is either incomplete or an excerpt from a larger, now lost, grammatical composition. As an anonymous grammatical fragment, it forms part of the broad tradition of linguistic study in the Greco-Roman world. Such texts collectively informed later grammatical scholarship, though this specific fragment's individual influence cannot be traced.
 
 ## Text
 

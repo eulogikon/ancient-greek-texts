@@ -5,6 +5,7 @@ author: Archytas of Tarentum
 eul_wid: faa-aa
 eul_aid: faa
 canonical: "https://eulogikon.org/works/archytas-tarentum-testimonies-faa-aa"
+lang: grc
 period: Classical
 dialect: Doric (frg)
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Archytas of Tarentum
 
 **eul_wid:** `faa-aa` · [HTML page](https://eulogikon.org/works/archytas-tarentum-testimonies-faa-aa)
-
-The Testimonies is a modern scholarly compilation of fragments and reports concerning the Pythagorean philosopher Archytas of Tarentum. It is not an ancient work with this title but a collection of references, quotations from his lost works, and doctrinal summaries preserved by later ancient authors. The standard collection appears in Diels and Kranz’s Die Fragmente der Vorsokratiker, which organizes the material into testimonia about his life and genuine fragments. The assembled evidence highlights Archytas’s contributions to several fields. He is renowned for solving the problem of doubling the cube and for his work in harmonics and acoustics, where he analyzed musical intervals mathematically and studied the physics of sound. In philosophy, he applied mathematical principles to topics such as definition and causation. He is also credited with mechanical inventions, such as a mechanical dove. No complete works by Archytas survive. All extant material is transmitted indirectly through later sources like Aristotle, Diogenes Laertius, and Ptolemy. The authenticity of the more extensive philosophical fragments is debated, with some scholars considering them later forgeries, while the biographical testimonia are generally considered reliable. Archytas was a major figure in the Pythagorean tradition whose mathematical work was highly respected. His friendship with Plato and his role as a statesman in Tarentum made him an exemplar of the philosopher-king ideal. His mathematical approach to harmonics influenced later thinkers, and his legacy endured through the Renaissance as a pioneering scientist-engineer.
 
 ## Text
 

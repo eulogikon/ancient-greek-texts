@@ -5,6 +5,7 @@ author: Plotinus the Neoplatonist
 eul_wid: rlc-aa
 eul_aid: rlc
 canonical: "https://eulogikon.org/works/plotinus-enneads-rlc-aa"
+lang: grc
 period: Roman
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plotinus the Neoplatonist
 
 **eul_wid:** `rlc-aa` · [HTML page](https://eulogikon.org/works/plotinus-enneads-rlc-aa)
-
-The Enneads constitutes the collected philosophical treatises of Plotinus, the foundational figure of the school later designated as Neoplatonism. Compiled posthumously by his student Porphyry, the work is not a single unified text but an edition of 54 discrete treatises written in Greek during Plotinus's final years in Rome, approximately between 253 and 270 CE. Porphyry organized these writings thematically into six groups of nine, a structure from which the collection derives its title, as enneas signifies a group of nine. This editorial arrangement presents a progressive intellectual ascent, beginning with practical ethical concerns such as virtue and beauty in the initial ennead and advancing through increasingly abstract metaphysical inquiries. The later sections systematically explore the nature of the Soul and the Intellect, culminating in profound discussions of the ultimate, transcendent principle that Plotinus termed the One.
-
-Preserved in its entirety through Porphyry's edition, the Enneads represents a major synthesis of prior Greek philosophical thought, principally engaging with the traditions of Plato and Aristotle, and is crafted for an audience committed to advanced philosophical study. The work constructs a comprehensive spiritual and metaphysical system in which all of reality is understood to emanate from the ineffable and supreme One. Within this framework, the fundamental purpose of the human soul is to undertake a contemplative ascent back to its divine source, a journey achieved through intellectual purification, virtue, and philosophical discipline. The Enneads exerted a profound and lasting influence, permeating Christian, Islamic, and Jewish theological and philosophical discourses throughout Late Antiquity and the Middle Ages. Its legacy endured, fueling significant intellectual revivals during the Renaissance and continuing to inform philosophical and mystical thought in subsequent centuries.
 
 ## Text
 

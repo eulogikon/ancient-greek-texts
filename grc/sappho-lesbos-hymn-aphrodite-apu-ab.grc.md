@@ -5,6 +5,7 @@ author: Sappho of Lesbos
 eul_wid: apu-ab
 eul_aid: apu
 canonical: "https://eulogikon.org/works/sappho-lesbos-hymn-aphrodite-apu-ab"
+lang: grc
 period: Archaic
 dialect: Aeolic
 domain: Poetry
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Sappho of Lesbos
 
 **eul_wid:** `apu-ab` · [HTML page](https://eulogikon.org/works/sappho-lesbos-hymn-aphrodite-apu-ab)
-
-Sappho's "Hymn to Aphrodite" is a complete lyric poem and prayer by the renowned Greek poet from Lesbos, composed in the Aeolic dialect in the late seventh or early sixth century BCE. It stands as her only fully surviving work, preserved because the critic Dionysius of Halicarnassus quoted it in its entirety centuries later to exemplify elegant literary style. Structured in seven Sapphic stanzas, the poem takes the form of a personal and urgent plea. The speaker, traditionally identified with the poet herself, invokes the goddess Aphrodite for aid in a present crisis of unrequited love, vividly recalling the goddess's smiling, chariot-borne descent and her promise of assistance during a previous episode of romantic distress.
-
-Modern scholarship regards the hymn as a masterful exemplar of Archaic Greek lyric poetry, distinguished by its intimate and conversational tone in addressing a deity. It is generally believed to have been composed for performance within Sappho's circle of female companions, reflecting the personal emotions and social relationships central to her poetic corpus. While the vast majority of Sappho's output survives only in fragmentary form on papyri or in quotations by later authors, this poem is a rare, complete artifact. Its enduring themes of divine epiphany, erotic longing, and the reciprocal bond between worshipper and goddess have established it as a foundational text for the study of ancient lyric poetry and the literary expression of desire.
 
 ## Text
 

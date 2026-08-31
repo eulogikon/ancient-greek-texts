@@ -5,6 +5,7 @@ author: Alchemist I
 eul_wid: rrg-au
 eul_aid: rrg
 canonical: "https://eulogikon.org/works/alchemist-i-gathering-philosophers-rrg-au"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alchemist I
 
 **eul_wid:** `rrg-au` · [HTML page](https://eulogikon.org/works/alchemist-i-gathering-philosophers-rrg-au)
-
-On the Gathering of Philosophers is a pseudepigraphical Greek alchemical treatise attributed by modern scholarship to the anonymized figure known as Alchemist I. This brief work presents itself as a synthesis of doctrines from earlier philosophical authorities, a common literary device in late antique alchemy designed to lend antiquity and credibility to its esoteric teachings. The text is structured around the conceit of philosophers corresponding to resolve doctrinal strife and confusion regarding fundamental alchemical principles, such as the nature of matter, bodies, and spirits, and whether the ultimate mystery is perfected from one substance or from many. It advocates for a singular, unified path to the alchemical art, explicitly criticizing those who pursue complex, multi-faceted methods as being led astray. The treatise includes practical instructions, such as taking a substance from flesh and a stone and placing them in fire, framed within this discourse of revealed, authoritative wisdom.
-
-The work survives within the medieval manuscript tradition of Greek alchemy, notably found in compilations such as Marcianus graecus 299, which dates from the tenth or eleventh century. It exists as a complete, short treatise within this larger, fluid corpus of technical and philosophical writings. As part of the Greek alchemical corpus, the treatise exemplifies the pseudepigraphical strategy of compiling and attributing philosophical wisdom, a format that served to organize and transmit esoteric knowledge and which subsequently influenced the development of later Arabic and Latin alchemical literature.
 
 ## Text
 

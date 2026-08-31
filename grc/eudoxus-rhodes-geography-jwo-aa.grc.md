@@ -1,10 +1,11 @@
 ---
 title: Fragments on Geography
 title_greek: Ἀποσπάσματα περὶ Γεωγραφίας
-author: "Eudoxus of Rhodes "
+author: Eudoxus of Rhodes
 eul_wid: jwo-aa
 eul_aid: jwo
 canonical: "https://eulogikon.org/works/eudoxus-rhodes-geography-jwo-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine (frg)
 domain: History
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀποσπάσματα περὶ Γεωγραφίας*
 
-**Author:** Eudoxus of Rhodes 
+**Author:** Eudoxus of Rhodes
 
 **eul_wid:** `jwo-aa` · [HTML page](https://eulogikon.org/works/eudoxus-rhodes-geography-jwo-aa)
-
-The Fragments on Geography is a lost prose work attributed to the Hellenistic historian Eudoxus of Rhodes, known only through citations preserved by later authors. These scattered references indicate the work contained regional descriptions and ethnographic details. Surviving fragments include observations on the prosperous lifestyle of peoples in southern Arabia, attributed to their wealth in spices and aromatic plants, as well as topographical identifications such as that of the island of Dia near Crete. Other citations attribute to Eudoxus the explanation that both the Adriatic Sea and the city of Adria derived their names from a Messapian figure named Adrias, and record a curious ethnographic claim about a Celtic people who could see only at night. The work survives exclusively through this indirect transmission, primarily in the writings of the geographer Strabo and in scholia on Apollonius of Rhodes's Argonautica, with no independent manuscript tradition. Eudoxus of Rhodes thus had a minor but traceable influence as a source for later geographical writers, his primary significance lying in his citation by Strabo, through which his observations entered the broader stream of ancient geographical knowledge and the scholarly tradition of commenting on Hellenistic poetry.
 
 ## Text
 

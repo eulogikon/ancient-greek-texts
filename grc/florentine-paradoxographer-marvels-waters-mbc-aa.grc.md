@@ -5,6 +5,7 @@ author: Florentine Paradoxographer Anonymous
 eul_wid: mbc-aa
 eul_aid: mbc
 canonical: "https://eulogikon.org/works/florentine-paradoxographer-marvels-waters-mbc-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Florentine Paradoxographer Anonymous
 
 **eul_wid:** `mbc-aa` · [HTML page](https://eulogikon.org/works/florentine-paradoxographer-marvels-waters-mbc-aa)
-
-The Marvels of Waters is a concise, anonymous paradoxographical text comprising twenty-four discrete prose entries. Each passage catalogues a wondrous property attributed to a specific spring, river, or lake, detailing phenomena such as waters that induce madness, alter the color of wool, or possess buoyant or seemingly magical restorative qualities. The entries, which cover locations across the Mediterranean and into Persia and India, are presented in a factual, unadorned style, typically citing an earlier authority like Isigonus, Ctesias, or Aristotle for each marvel. The work survives intact within a single thirteenth- or fourteenth-century manuscript, the Codex Florentinus, which compiles several anonymous paradoxographical texts; this transmission history is the source of the author's conventional designation as the Florentine Paradoxographer. As a representative of the Hellenistic and Roman paradoxographical tradition, the compilation exemplifies the period's scholarly interest in systematically recording marvels of the natural world. Its primary significance lies in its utility for scholars studying the generic conventions of paradoxography and the transmission of Greek pseudo-scientific literature.
 
 ## Text
 

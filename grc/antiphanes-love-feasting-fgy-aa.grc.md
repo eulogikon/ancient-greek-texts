@@ -5,6 +5,7 @@ author: Antiphanes the Comic Poet
 eul_wid: fgy-aa
 eul_aid: fgy
 canonical: "https://eulogikon.org/works/antiphanes-love-feasting-fgy-aa"
+lang: grc
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Antiphanes the Comic Poet
 
 **eul_wid:** `fgy-aa` · [HTML page](https://eulogikon.org/works/antiphanes-love-feasting-fgy-aa)
-
-The Comic Fragments on Love and Feasting is a modern scholarly compilation of excerpts from the lost comedies of Antiphanes, a highly productive Athenian poet of the 4th century BCE. As a leading figure of the dramatic period known as Middle Comedy, Antiphanes is credited with hundreds of plays, though not a single one survives complete. This thematic collection assembles passages from the more than a thousand surviving fragments, which are short quotations preserved in the works of later authors. It organizes them around the interconnected subjects of romantic love and the symposiac culture of feasting and drinking, central preoccupations of the genre.
-
-The content illustrates the characteristic evolution of comedy during this era, marking a transition from the direct political satire of earlier Old Comedy toward a broader comedy of manners focused on social types and domestic situations. The fragments frequently depict the rituals and pleasures of the symposium, detailing specific foods, wines, and convivial practices. Romantic and erotic plots, often involving courtesans and their patrons, provide another major vein of material. The humor also derives from parody of mythological themes and the portrayal of stock characters, such as the swaggering soldier, the cunning parasite, and the boastful cook. For modern historians, these fragments serve as invaluable, albeit piecemeal, evidence for understanding Athenian daily life, social customs, and the development of comic theater from its more politically engaged origins toward the domestic and romantic plots that would characterize later New Comedy.
-
-The transmission of Antiphanes’ work is entirely secondary. No manuscript tradition for his plays exists. The fragments endured solely because they were cited by later Greek and Roman writers, most extensively by Athenaeus in his expansive 2nd or 3rd century CE work, The Learned Banqueters, who mined them for examples in discussions of cuisine, wine, and social customs. Consequently, all modern editions and thematic collections, including this one, are reconstructions built from these scattered quotations recovered from the ancient scholarly and grammatical tradition.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-dk
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-moral-virtue-okg-dk"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-dk` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-moral-virtue-okg-dk)
-
-On Moral Virtue is a philosophical treatise by Plutarch of Chaeronea, forming a significant component of his collected ethical works known as the Moralia. The essay presents a systematic inquiry into the nature of ethical virtue, specifically examining its substance and how it comes to exist within the human soul. Plutarch frames his investigation by questioning whether virtue involves the irrational part of the soul being adorned by its own principle of order or whether it participates in an alien, rational principle, and if so, whether this participation resembles a mixture for the better or a form of governance. He establishes that his project is not merely historical but aims to clarify and strengthen his own arguments by first surveying the positions of others.
-
-The work opens with a critical review of alternative philosophical doctrines. Plutarch mentions Menedemus of Eretria, who denied any real plurality or distinction among the virtues, arguing they are a single reality bearing many names, much like the terms "mortal" and "man." He also cites Ariston of Chios, who similarly conceived of virtue as a single entity in its essence, comparable to health. This survey sets the stage for Plutarch’s primary engagement with Stoic and Peripatetic psychology and ethics. He mounts a sustained critique of the Stoic model of the soul as a purely rational, unitary substance, arguing instead for the Platonic-Aristotelian conception of a tripartite soul comprising rational, spirited, and appetitive parts. For Plutarch, moral virtue is not the eradication of passion but the excellent state of the non-rational parts of the soul as they are brought into harmony under the governance of reason. In developing this view, he adopts and defends the Aristotelian doctrine of the mean, wherein virtue constitutes a disposition toward finding the appropriate intermediate response between excess and deficiency in emotions and actions.
-
-The treatise is preserved intact within the extensive manuscript tradition of Plutarch's Moralia. It stands as a major source for understanding Middle Platonist ethical theory, offering a coherent synthesis of Platonic and Aristotelian ideas against rival Hellenistic systems. Its rigorous critique of Stoic psychology and its definition of virtue as the rational ordering of the passions exerted considerable influence on later Imperial philosophy and contributed to the development of Neoplatonist thought, securing its importance in the history of ancient philosophical debates on human nature and excellence.
 
 ## Text
 

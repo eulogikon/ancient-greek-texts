@@ -5,6 +5,7 @@ author: Crates the Comic Poet
 eul_wid: dac-ac
 eul_aid: dac
 canonical: "https://eulogikon.org/works/crates-comic-love-decorum-dac-ac"
+lang: grc
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Crates the Comic Poet
 
 **eul_wid:** `dac-ac` · [HTML page](https://eulogikon.org/works/crates-comic-love-decorum-dac-ac)
-
-The Fragments on Love and Decorum is a modern scholarly assemblage of seven surviving passages from the lost comedies of Crates, an Athenian comic poet active in the fifth century BCE. A contemporary of Aristophanes during the period of Old Comedy, Crates left no complete plays. These fragments, preserved solely through quotation by later authors such as Athenaeus in his Deipnosophistae, are written in Attic Greek verse and are drawn from various works, thematically grouped by modern editors for study. They provide brief insights into his comedic approach, which mocked social propriety and daily life while exploring erotic themes. Aristotle identified Crates as a significant transitional figure who helped shift comedy away from plots based on personal invective toward more universal narratives and situations, a development potentially reflected in these fragments' focus on general social behavior and decorum.
 
 ## Text
 

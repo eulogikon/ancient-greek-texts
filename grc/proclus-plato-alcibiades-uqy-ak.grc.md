@@ -5,6 +5,7 @@ author: Proclus the Successor
 eul_wid: uqy-ak
 eul_aid: uqy
 canonical: "https://eulogikon.org/works/proclus-plato-alcibiades-uqy-ak"
+lang: grc
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Proclus the Successor
 
 **eul_wid:** `uqy-ak` · [HTML page](https://eulogikon.org/works/proclus-plato-alcibiades-uqy-ak)
-
-On Plato's Alcibiades I is a philosophical commentary by Proclus, the 5th-century CE head of the Platonic Academy in Athens. This extensive treatise, written in Attic Greek, offers a systematic, line-by-line interpretation of Plato’s dialogue Alcibiades I. The work is organized into 339 sections, each typically presenting a passage from Plato followed by a detailed exegesis, a format characteristic of Neoplatonic scholarly practice. The complete text has been preserved through medieval manuscript traditions.
-
-Proclus positions the dialogue as the foundational and indispensable starting point for the entire Platonic corpus. He identifies its central theme as self-knowledge, which he interprets not as an understanding of individual personality or circumstance, but as the soul’s apprehension of its own true, intellectual essence and its divine origin. The commentary was composed for advanced students, reflecting the structured Neoplatonic pedagogical curriculum in which Alcibiades I was studied first to reorient the soul inward. Beyond its epistemological focus, the treatise elaborates on core Neoplatonic doctrines, including the care of the soul, the hierarchical structure of the human psyche, and the concept of Socratic love as a divine force guiding the soul toward perfection. The work functions as a comprehensive guide, designed to lead the reader systematically from worldly and political concerns toward philosophical and ultimately theological understanding.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Hermarchus of Mytilene
 eul_wid: jbk-aa
 eul_aid: jbk
 canonical: "https://eulogikon.org/works/hermarchus-mytilene-biographical-fragments-jbk-aa"
+lang: grc
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hermarchus of Mytilene
 
 **eul_wid:** `jbk-aa` · [HTML page](https://eulogikon.org/works/hermarchus-mytilene-biographical-fragments-jbk-aa)
-
-The Apospasmata, or Fragments, is a lost philosophical treatise by Hermarchus of Mytilene, who succeeded Epicurus as head of the Epicurean school. Composed in Greek during the late fourth or early third century BCE, the work was structured as a collection of discrete passages, traditionally numbered at forty. It functioned as a compilation of anecdotes, maxims, and biographical details concerning Epicurus and his closest associates. Its primary aim was to preserve and promote an idealized portrait of the founder’s character and daily conduct, establishing his life as a practical model of the school’s ethical ideals for the community of disciples.
-
-The text does not survive intact and is known only through quotations and paraphrases in later authors, most extensively in Diogenes Laertius’s Lives of the Eminent Philosophers. Scholars interpret the Apospasmata as a crucial instrument for shaping the Epicurean school’s internal identity and external reputation following the death of its founder. It served to defend Epicurus’s legacy against contemporary slander and to codify the virtues of a philosophical life centered on tranquility and friendship. Written primarily for an audience within the Epicurean community, it provided an authoritative, insider narrative of the school’s origins. The conventional figure of forty fragments represents a modern scholarly reconstruction based on the scattered references that endure in the historical record.
 
 ## Text
 

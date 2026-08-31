@@ -5,6 +5,7 @@ author: Pyrrhus of Epirus
 eul_wid: ikw-aa
 eul_aid: ikw
 canonical: "https://eulogikon.org/works/pyrrhus-epirus-royal-memoirs-ikw-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Pyrrhus of Epirus
 
 **eul_wid:** `ikw-aa` · [HTML page](https://eulogikon.org/works/pyrrhus-epirus-royal-memoirs-ikw-aa)
-
-The Royal Memoirs of Pyrrhus of Epirus is a lost historical work, surviving only in fragments quoted by later authors. Attributed to the king himself, who reigned from 297 to 272 BCE, it was a prose narrative covering his military campaigns and political dealings. The nature of the citations suggests later historians accessed excerpts from a larger, now vanished, autobiographical text. The extant fragments indicate the work addressed military tactics, including the deployment of war elephants and specific troop formations. It also elaborated on political ideology, most famously in Pyrrhus’s comparison of kingship to a theatrical performance, and provided self-justification for his strategic decisions and wars, such as his invasions of Italy and Sicily. The complete text is lost and survives solely through quotations and paraphrases in later authors, primarily in Plutarch’s Life of Pyrrhus, with no independent manuscript tradition. Despite its fragmentary state, the memoirs served as a crucial primary source for ancient historians, directly transmitting Pyrrhus’s own perspective. They fundamentally shaped the historical tradition of the Pyrrhic War and helped cement his posthumous reputation as a brilliant tactical innovator and a defining exemplar of Hellenistic kingship.
 
 ## Text
 

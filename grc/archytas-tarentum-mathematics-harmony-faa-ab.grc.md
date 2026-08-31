@@ -5,6 +5,7 @@ author: Archytas of Tarentum
 eul_wid: faa-ab
 eul_aid: faa
 canonical: "https://eulogikon.org/works/archytas-tarentum-mathematics-harmony-faa-ab"
+lang: grc
 period: Classical
 dialect: Doric (frg)
 domain: Philosophy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Archytas of Tarentum
 
 **eul_wid:** `faa-ab` · [HTML page](https://eulogikon.org/works/archytas-tarentum-mathematics-harmony-faa-ab)
-
-The Fragments on Mathematics and Harmony is a collection of eleven passages attributed to the Pythagorean philosopher, mathematician, and statesman Archytas of Tarentum, who lived in the fourth century BCE. Written in Doric Greek, these fragments constitute a philosophical and scientific treatise that argues for the foundational role of mathematical reasoning in understanding the natural world. The central theme posits calculation, or logismos, as the supreme intellectual tool for discovering truth and establishing harmony. This principle is applied specifically to the science of music, where fragments demonstrate that fundamental musical intervals, such as the octave and the fifth, are defined by precise numerical ratios. Other passages discuss the classification of the sciences and the theory of mathematical means.
-
-No complete work by Archytas survives. The text is known exclusively through quotations preserved by later authors, most notably the third-century CE philosopher Porphyry and the fifth-century anthologist Stobaeus. Modern scholarship has reconstructed the eleven fragments from these scattered sources. The most extensive and significant fragment establishes logismos as the critical method for resolving intellectual disputes and advancing all scientific inquiry. It is believed to have been composed for students and fellow philosophers as a demonstration of the power of mathematical reasoning.
-
-Archytas was a leading figure in the Pythagorean tradition and a friend of Plato. His fragments reflect the core Pythagorean endeavor to discern mathematical order within the cosmos, extending the concept of harmony from musical theory to the fundamental structure of the universe. Scholars regard this work as profoundly influential, providing an early model for the later educational scheme of the quadrivium—the four mathematical arts of arithmetic, geometry, astronomy, and music—and significantly shaping the development of both Platonic philosophy and the history of science.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Heraclides of Pontus II
 eul_wid: fve-aa
 eul_aid: fve
 canonical: "https://eulogikon.org/works/heraclides-pontus-persian-customs-fve-aa"
+lang: grc
 period: Classical
 dialect: Mixed Dialects (frg)
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Heraclides of Pontus II
 
 **eul_wid:** `fve-aa` · [HTML page](https://eulogikon.org/works/heraclides-pontus-persian-customs-fve-aa)
-
-The treatise known as Persian Court Customs is attributed to Heraclides of Pontus the Younger, a figure distinct from the fourth-century BCE philosopher of the same name. This work survives only in nine fragments preserved by the tenth-century Byzantine emperor Constantine VII Porphyrogennetos within his compilation De Ceremoniis. Constantine cites these passages as excerpts from a larger work titled Persica by Heraclides. The text describes ceremonial protocols and hierarchical structures at the Parthian or Sasanian Persian court, detailing specific practices such as the order of royal processions, the ranking of nobility including categories like "kinsmen" and "benefactors," rituals surrounding royal meals and formal gift-giving, and the distinctive attire and privileges accorded to different court ranks. The independent text is lost, and its transmission is entirely mediated through later Byzantine sources; besides Constantine's work, references to it appear in later lexica such as the Suda and Stephanus of Byzantium's Ethnica. For Constantine VII, these fragments served as an authoritative model for Byzantine imperial ceremony, directly influencing the ideological construction of Byzantine authority. For modern scholarship, they provide a valuable, though fragmentary, source for understanding aspects of Parthian or early Sasanian court life and the tradition of Greco-Roman ethnography.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Thales of Miletus
 eul_wid: apa-ab
 eul_aid: apa
 canonical: "https://eulogikon.org/works/thales-miletus-nautical-astronomy-apa-ab"
+lang: grc
 period: Archaic
 dialect: Ionic
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Thales of Miletus
 
 **eul_wid:** `apa-ab` · [HTML page](https://eulogikon.org/works/thales-miletus-nautical-astronomy-apa-ab)
-
-Thales' Nautical Astronomy is a modern scholarly designation for a collection of ideas and anecdotes concerning the practical astronomical knowledge of Thales of Miletus, the 6th-century BCE pre-Socratic philosopher. No written work by Thales survives; all information derives from later testimonia. These reports, transmitted in sources such as Aristotle, Diogenes Laertius, and Plutarch, emphasize his application of celestial observation to navigation. He is famously credited with advising sailors to steer by Ursa Minor for greater accuracy and with predicting a solar eclipse, traditionally dated to 585 BCE. These accounts, whether historically factual or legendary, portray Thales as a pivotal figure who connected early natural philosophy with practical technology, embodying the shift toward rational explanations of the natural world. The collection thus represents a modern reconstruction of his attributed maritime astronomy from scattered ancient references.
 
 ## Text
 

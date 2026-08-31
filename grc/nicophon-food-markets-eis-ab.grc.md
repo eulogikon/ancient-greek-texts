@@ -5,6 +5,7 @@ author: Nicophon the Comic Poet
 eul_wid: eis-ab
 eul_aid: eis
 canonical: "https://eulogikon.org/works/nicophon-food-markets-eis-ab"
+lang: grc
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Nicophon the Comic Poet
 
 **eul_wid:** `eis-ab` · [HTML page](https://eulogikon.org/works/nicophon-food-markets-eis-ab)
-
-The Comic Fragments on Food and Markets is a modern scholarly compilation of twenty-five verse fragments attributed to the Athenian comic poet Nicophon, a contemporary of Aristophanes active in the late fifth and early fourth centuries BCE. These excerpts are drawn from various lost plays and survive exclusively through quotation by later authors, most notably Athenaeus of Naucratis in his Deipnosophistae, who preserved them for their lexical and cultural interest. The fragments collectively offer a vivid satire of daily life in Classical Athens, with a concentrated focus on gastronomy, gluttony, and the bustling commerce of the marketplace. They lampoon the desires for specific foods, the deceptive practices of merchants, the rituals of haggling, and the often dubious quality of goods for sale. The language is notably precise, employing a rich and technical vocabulary for foodstuffs, ingredients, and culinary processes, while the social satire frequently targets characters whose identities are constructed through consumption or trade. Transmitted indirectly through the prose works of later grammarians and lexicographers, the fragments are cataloged in modern critical editions such as Poetae Comici Graeci. Although Nicophon's complete plays are lost, these remnants provide invaluable evidence for Athenian social and economic history, illustrate thematic developments within Old Comedy, and serve as crucial philological sources for the study of Attic Greek, particularly its colloquial and specialized terminology related to everyday life.
 
 ## Text
 

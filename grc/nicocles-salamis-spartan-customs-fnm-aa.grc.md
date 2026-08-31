@@ -5,6 +5,7 @@ author: Nicocles of Salamis
 eul_wid: fnm-aa
 eul_aid: fnm
 canonical: "https://eulogikon.org/works/nicocles-salamis-spartan-customs-fnm-aa"
+lang: grc
 period: Classical
 dialect: Attic
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Nicocles of Salamis
 
 **eul_wid:** `fnm-aa` · [HTML page](https://eulogikon.org/works/nicocles-salamis-spartan-customs-fnm-aa)
-
-The Fragments on Spartan Customs by Nicocles of Salamis is a lost antiquarian work known only through a handful of surviving passages preserved within the Deipnosophistae of Athenaeus of Naucratis. The text compiles notes on distinctive Spartan institutions, with the extant fragments detailing aspects of Spartan social and dining customs. These include the serving of black broth at common meals, with a prescribed order of service for the elderly, younger men, and boys, as well as regulations attributed to the lawgiver Lycurgus concerning these communal practices. The work survives exclusively through quotation in later anthologies, primarily that of Athenaeus, and has no independent manuscript tradition; its original scope and length are consequently unknown. As a compilation of Laconica, or writings on Spartan matters, these fragments contribute to the ancient corpus on Spartan society. Their preservation by Athenaeus provided later antiquarians with source material on famed Spartan customs, thereby shaping the historical understanding of their distinctive way of life.
 
 ## Text
 

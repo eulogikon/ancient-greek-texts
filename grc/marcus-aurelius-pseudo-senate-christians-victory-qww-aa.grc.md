@@ -5,6 +5,7 @@ author: Marcus Aurelius-pseudo Letters
 eul_wid: qww-aa
 eul_aid: qww
 canonical: "https://eulogikon.org/works/marcus-aurelius-pseudo-senate-christians-victory-qww-aa"
+lang: grc
 period: Byzantine
 dialect: Byzantine Greek
 domain: Theology
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Marcus Aurelius-pseudo Letters
 
 **eul_wid:** `qww-aa` · [HTML page](https://eulogikon.org/works/marcus-aurelius-pseudo-senate-christians-victory-qww-aa)
-
-The Letter to the Senate, Testifying Christians as the Cause of Victory is a pseudepigraphal epistle composed in Koine Greek. It falsely presents itself as an official dispatch from the Roman Emperor Marcus Aurelius to the Roman Senate, dated to his reign from 161 to 180 CE. Modern scholarship universally regards it as a later Christian forgery. The text fabricates an account of the so-called Miracle of the Rain, an event traditionally associated with Marcus Aurelius's Marcomannic Wars against the Quadi around 172–174 CE. In this invented narrative, the emperor, facing imminent defeat and surrounded by enemies, witnesses Christian soldiers within his legions pray for divine intervention. Their prayers are answered with a sudden, life-saving rainstorm that refreshes the Roman troops and confounds their adversaries, leading to a decisive victory. The forged letter depicts Marcus Aurelius explicitly attributing this miracle to the Christian God, praising the loyalty and efficacy of Christian prayers, and consequently issuing commands to halt the persecution of Christians throughout the empire.
-
-The complete text of the letter does not exist as an independent manuscript. Knowledge of its content derives entirely from fragments, summaries, and quotations preserved in later Christian apologetic and historical writings, most notably within the Ecclesiastical History of Eusebius of Caesarea. Scholars generally date its composition to the 4th century CE, following the Edict of Milan and during the period of Christianity's rapid ascent to imperial favor. Its primary purpose was apologetic, crafted to provide fabricated imperial endorsement demonstrating that Christians were not subversive but rather loyal and beneficial subjects whose faith could secure divine favor for Rome. The forgery is considered part of a broader literary effort by Christian writers to retrospectively align historical Roman figures with Christian narratives, thereby legitimizing the faith's place within the empire's history and governance after it had achieved official acceptance.
 
 ## Text
 

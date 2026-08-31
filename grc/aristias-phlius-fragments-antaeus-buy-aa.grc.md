@@ -5,6 +5,7 @@ author: Aristias of Phlius
 eul_wid: buy-aa
 eul_aid: buy
 canonical: "https://eulogikon.org/works/aristias-phlius-fragments-antaeus-buy-aa"
+lang: grc
 period: Classical
 dialect: "Attic (dr, frg)"
 domain: Drama
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristias of Phlius
 
 **eul_wid:** `buy-aa` · [HTML page](https://eulogikon.org/works/aristias-phlius-fragments-antaeus-buy-aa)
-
-The Fragments of Antaeus constitute the surviving remnants of a satyr play by the 5th-century BCE tragedian Aristias of Phlius. The work dramatized the myth of the Libyan giant Antaeus, a son of Poseidon and Gaia who derived invincible strength from contact with the earth, and his legendary defeat by the hero Heracles. Thirteen fragmentary passages are extant, transmitted not through manuscript tradition but through quotations in later lexicographers and grammarians such as Hesychius and Aelius Herodianus, who preserved them for their unusual vocabulary rather than their literary content. The fragments reference core elements of the narrative, including the heroic labor of Heracles and the conflict between the giant's primal, earthy power and the hero's cultural cunning. The satyr play genre's characteristic comedic and burlesque treatment is implied by the presence of a chorus of satyrs. While no continuous text survives and the play's direct literary influence is untraceable, these fragments exemplify the satyr drama form that informed the development of comedy. Their preservation in scholarly works highlights their later role in Greek linguistic study, and they contribute to modern understanding of the thematic variety within satyr plays. The Antaeus myth itself remained a potent symbol of grounded strength and its overcoming in later art and literature.
 
 ## Text
 

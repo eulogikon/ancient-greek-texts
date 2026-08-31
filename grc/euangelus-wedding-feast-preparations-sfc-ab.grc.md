@@ -5,6 +5,7 @@ author: Euangelus the Comic
 eul_wid: sfc-ab
 eul_aid: sfc
 canonical: "https://eulogikon.org/works/euangelus-wedding-feast-preparations-sfc-ab"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Euangelus the Comic
 
 **eul_wid:** `sfc-ab` · [HTML page](https://eulogikon.org/works/euangelus-wedding-feast-preparations-sfc-ab)
-
-"The Wedding Feast Preparations" is a modern descriptive title for a group of six comic fragments attributed to the poet Euangelus. These fragments are preserved exclusively within the "Deipnosophistae" of Athenaeus of Naucratis, a work from the late second or early third century CE. Athenaeus quotes them for their detailed references to food and social customs. The original title and plot of the play are lost, but the surviving passages depict characters engaged in the elaborate preparations for a wedding feast, highlighting the logistical demands and high expectations for such a celebration. The humor appears to derive from domestic situations involving household management and servants, with specific mentions of various foods, including olives, veal, suckling pigs, and cheeses. The work survives solely through this indirect transmission, and Euangelus is tentatively placed by scholars in the period of Middle or New Comedy based on stylistic evidence. Although the complete play is lost, these fragments contribute to the understanding of the broader scope of Greek comedy beyond the major canonical playwrights. They also serve as a valuable source for historians of ancient Greek social and culinary customs, particularly regarding wedding festivities and dining practices.
 
 ## Text
 

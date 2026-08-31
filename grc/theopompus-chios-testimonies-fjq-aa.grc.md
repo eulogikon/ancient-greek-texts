@@ -5,6 +5,7 @@ author: Theopompus of Chios
 eul_wid: fjq-aa
 eul_aid: fjq
 canonical: "https://eulogikon.org/works/theopompus-chios-testimonies-fjq-aa"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Epic
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Theopompus of Chios
 
 **eul_wid:** `fjq-aa` · [HTML page](https://eulogikon.org/works/theopompus-chios-testimonies-fjq-aa)
-
-The Testimonies is a modern scholarly compilation of 57 fragments attributed to the 4th-century BCE historian Theopompus of Chios. It is not a surviving ancient work but a reconstruction based on quotations and references preserved by later authors. These fragments, which cover subjects such as mythological genealogies, Homeric exegesis, local histories, and etymologies, were primarily utilized by later scholars, including the philosopher Porphyry, as authoritative sources or "witnesses" in their own commentaries. No manuscript of Theopompus's original works exists; the fragments are instead gleaned from citations found in subsequent ancient and Byzantine texts. Modern interpretation of these fragments demonstrates Theopompus's intellectual range beyond his famous historical narratives, revealing his engagement with early poetry and myth. The collection is valuable for understanding the methodologies of ancient literary criticism and scholarship in its use of earlier authorities.
 
 ## Text
 

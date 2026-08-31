@@ -5,6 +5,7 @@ author: Musical Work Bellermanniana Anonymous
 eul_wid: vok-aa
 eul_aid: vok
 canonical: "https://eulogikon.org/works/bellermann-anon-music-vok-aa"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -19,22 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Musical Work Bellermanniana Anonymous
 
 **eul_wid:** `vok-aa` · [HTML page](https://eulogikon.org/works/bellermann-anon-music-vok-aa)
-
-Content The work systematically covers fundamental Greek music theory:
-
-Acoustical definitions of sound, pitch, and intervals.
-
-The organization of scales (systemata), notes, and tetrachords.
-
-The three genera (diatonic, chromatic, enharmonic).
-
-The tonoi (transposition scales) and modulation.
-
-Music’s role in education.
-
-Transmission The treatise survives in a single manuscript, Codex Berolinensis graecus 4° 131 (15th/16th century). Bellermann’s editio princeps was followed by a critical edition in Karl von Jan’s Musici Scriptores Graeci (1895).
-
-Significance While derivative, the Anonymous Bellermannianus is a stable witness to the late antique pedagogical tradition that transmitted standardized Greek musical doctrine into the Middle Ages. It remains a frequently cited scholarly source for clear summaries of core concepts.
 
 ## Text
 

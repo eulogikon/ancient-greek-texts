@@ -5,6 +5,7 @@ author: Alchemist I
 eul_wid: rrg-bw
 eul_aid: rrg
 canonical: "https://eulogikon.org/works/alchemist-i-fragment-rrg-bw"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alchemist I
 
 **eul_wid:** `rrg-bw` · [HTML page](https://eulogikon.org/works/alchemist-i-fragment-rrg-bw)
-
-The Alchemical Fragment is a short Greek treatise attributed to an anonymous author conventionally designated as Alchemist I. Its title indicates an incomplete or excerpted piece concerning alchemical operations. The text details practical laboratory procedures, describing processes such as combining the ash of primary waters with their sooty residues, moistening the mixture, and repeatedly recovering the resulting waters. It explicitly follows the principle attributed to the renowned alchemist Zosimos, which states that precise measurements are secondary to the fundamental goal of mastering the process of creation. The work’s history of transmission is unknown, but its designation as a fragment suggests it likely derives from a later manuscript compilation or a modern catalog of alchemical excerpts. While this specific text cannot be fully contextualized, it is representative of the broader corpus of late antique Greek alchemy, a tradition that synthesized Egyptian craft techniques, Greek philosophical concepts, and mystical thought.
 
 ## Text
 

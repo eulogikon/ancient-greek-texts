@@ -5,6 +5,7 @@ author: Appian of Alexandria
 eul_wid: pdc-ad
 eul_aid: pdc
 canonical: "https://eulogikon.org/works/appian-alexandria-macedonian-pdc-ad"
+lang: grc
 period: Roman
 dialect: Koine
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Appian of Alexandria
 
 **eul_wid:** `pdc-ad` · [HTML page](https://eulogikon.org/works/appian-alexandria-macedonian-pdc-ad)
-
-From the Macedonian is a lost historical narrative by the 2nd-century CE Greek historian Appian of Alexandria. It originally formed one of the books within his larger Roman History, a work organized thematically around the various peoples and regions conquered by Rome. This section specifically chronicled the series of conflicts known as the Macedonian Wars, which culminated in Rome's defeat of the Macedonian kingdom and the establishment of the Roman province of Macedonia in the 2nd century BCE. The complete text of this book has not survived and is known only through 45 fragments preserved by later Byzantine scholars, primarily in 10th-century collections such as the Excerpta commissioned by Emperor Constantine VII and the Suda encyclopedia. These passages provide valuable, though partial, details on military campaigns, diplomacy, and key events including the final defeat of King Perseus. Appian, a Greek from Alexandria who held high office in Rome, wrote for a Greco-Roman audience. Modern scholars interpret his work as aiming to explain and justify Rome's imperial expansion to his fellow Greeks. The Macedonian narrative served as a crucial chapter in this story, detailing the end of the powerful Hellenistic kingdom founded by Alexander the Great's successors. Despite its fragmentary state, this section of Appian's history remains an important source for understanding Rome's conquest of the Hellenistic world.
 
 ## Text
 

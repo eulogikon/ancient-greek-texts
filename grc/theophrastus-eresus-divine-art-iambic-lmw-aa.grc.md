@@ -5,6 +5,7 @@ author: Theophrastus of Eresus the Botanist
 eul_wid: lmw-aa
 eul_aid: lmw
 canonical: "https://eulogikon.org/works/theophrastus-eresus-divine-art-iambic-lmw-aa"
+lang: grc
 period: Hellenistic
 dialect: Attic Philosophical
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Theophrastus of Eresus the Botanist
 
 **eul_wid:** `lmw-aa` · [HTML page](https://eulogikon.org/works/theophrastus-eresus-divine-art-iambic-lmw-aa)
-
-The work titled "Theophrastus the Philosopher—the Divine Art in Iambic Verses" is not considered part of the authentic corpus of Theophrastus of Eresus, the successor to Aristotle as head of the Lyceum. Theophrastus's genuine writings are prose treatises encompassing botany, logic, metaphysics, and ethics, with his known character sketches, the "Characters," being a prose work of thirty distinct moral types used for rhetorical and ethical study. The attribution of the title "Characters" to a verse work of seventeen passages directly contradicts the authentic prose collection. No reliable historical or manuscript evidence supports the existence of a Theophrastean verse composition on a "divine art," and the purported work has no known content or thematic record in scholarship. Theophrastus's enduring influence derives entirely from his systematic prose works, such as the "Enquiry into Plants," which founded botanical science, and his prose "Characters," which significantly shaped later literary character writing. His genuine works survive through established medieval manuscript traditions, for which there is no parallel transmission for this unattested verse title.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Hermias of Alexandria
 eul_wid: tce-aa
 eul_aid: tce
 canonical: "https://eulogikon.org/works/hermias-alexandria-scholia-phaedrus-tce-aa"
+lang: grc
 period: Late Antique
 dialect: Philosophical Koine
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hermias of Alexandria
 
 **eul_wid:** `tce-aa` · [HTML page](https://eulogikon.org/works/hermias-alexandria-scholia-phaedrus-tce-aa)
-
-The Scholia on Plato's Phaedrus is a fifth-century CE philosophical commentary by Hermias of Alexandria. This extensive work, comprising 265 explanatory notes, offers a meticulous line-by-line analysis of Plato’s dialogue. Preserved in its entirety primarily through a tenth-century manuscript, it represents a detailed record of advanced Neoplatonic exegesis. Hermias composed the commentary based on the lectures of his teacher, Syrianus, the head of the Neoplatonic school in Athens, intending it to function as an advanced pedagogical textbook for students. The work provides a systematic and allegorical interpretation of the Phaedrus, seeking to unveil hidden theological meanings consistent with late antique Neoplatonism. It approaches the dialogue’s central myth of the soul’s chariot as an allegory for the soul’s ascent to the divine and explicates Socrates’s discourses on love and beauty within a framework of Neoplatonic metaphysics. As a crucial witness to the doctrines of Syrianus and the interpretive methodologies of the Athenian school, the scholia significantly influenced later philosophical thought and remains an invaluable source for understanding the study of Plato in late antiquity.
 
 ## Text
 

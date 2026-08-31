@@ -5,6 +5,7 @@ author: Dositheus of Pelusium
 eul_wid: jga-aa
 eul_aid: jga
 canonical: "https://eulogikon.org/works/dositheus-pelusium-historical-italy-jga-aa"
+lang: grc
 period: Hellenistic
 dialect: Technical Koine
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Dositheus of Pelusium
 
 **eul_wid:** `jga-aa` · [HTML page](https://eulogikon.org/works/dositheus-pelusium-historical-italy-jga-aa)
-
-The Historical Fragments of Italy by Dositheus of Pelusium is a lost work of historical compilation, known today exclusively through a brief notice in the ninth-century Bibliotheca of the Byzantine patriarch Photius. According to Photius, the text consisted of twelve passages, though he provides no direct quotations from it. The title indicates its subject was the geography and history of the Italian peninsula, likely structured as a collection of extracts from earlier sources. The work is transmitted solely through this single reference; no manuscripts or other fragments are known to survive. The author is plausibly identified as the Hellenistic grammarian Dositheus of Pelusium, a scholar associated with the Library of Alexandria and mentioned by the poet Callimachus. If this identification is correct, the fragments represent an early Greek scholarly effort to systematize knowledge of Italy. Their citation by Photius confirms the work remained physically extant and was considered notable as late as the Byzantine era.
 
 ## Text
 

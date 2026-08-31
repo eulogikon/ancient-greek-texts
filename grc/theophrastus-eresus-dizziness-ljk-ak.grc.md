@@ -5,6 +5,7 @@ author: Theophrastus of Eresus
 eul_wid: ljk-ak
 eul_aid: ljk
 canonical: "https://eulogikon.org/works/theophrastus-eresus-dizziness-ljk-ak"
+lang: grc
 period: Hellenistic
 dialect: Attic Philosophical
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Theophrastus of Eresus
 
 **eul_wid:** `ljk-ak` · [HTML page](https://eulogikon.org/works/theophrastus-eresus-dizziness-ljk-ak)
-
-On Dizziness is a scientific treatise by the ancient Greek philosopher Theophrastus, composed in Attic Greek during the late fourth or early third century BCE. As the successor to Aristotle, Theophrastus extended his teacher's investigative methods into detailed studies of specific natural phenomena. This concise work offers a focused examination of the causes and sensations of vertigo, analyzing triggers such as heights, spinning, illness, and intoxication through a combination of direct observation and philosophical reasoning. The text presents a physiological explanation, arguing that dizziness arises from an alien wind or a superfluous fluidity disturbing the naturally moist region around the brain, setting its contents into a disruptive circular motion. Only a fragment of the original treatise survives, reconstructed from thirteen passages preserved by later authors. It was likely composed for a scholarly audience within Theophrastus's school, the Lyceum, as part of a broader inquiry into human perception and physiology. The work represents a significant early effort to provide a systematic, physical account of a common sensory disturbance, thereby bridging Aristotelian natural philosophy and medical thought. Its preservation is primarily due to its inclusion in a medical compilation by the Byzantine physician Johannes Actuarius many centuries later.
 
 ## Text
 

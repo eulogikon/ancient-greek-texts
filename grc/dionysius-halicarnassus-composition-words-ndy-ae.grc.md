@@ -5,6 +5,7 @@ author: Dionysius of Halicarnassus
 eul_wid: ndy-ae
 eul_aid: ndy
 canonical: "https://eulogikon.org/works/dionysius-halicarnassus-composition-words-ndy-ae"
+lang: grc
 period: Hellenistic
 dialect: Attic
 domain: History
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Dionysius of Halicarnassus
 
 **eul_wid:** `ndy-ae` · [HTML page](https://eulogikon.org/works/dionysius-halicarnassus-composition-words-ndy-ae)
-
-On the Composition of Words is a rhetorical treatise by Dionysius of Halicarnassus, composed in Greek near the end of the first century BCE. The work presents a systematic examination of prose style, arguing that the artistic arrangement of words—their rhythm, sound, and structural harmony—is of greater importance to eloquence than the selection of individual terms. Dionysius meticulously analyzes the components of effective composition, supporting his theories with copious examples drawn from canonical Greek authors such as Herodotus, Thucydides, Plato, and Demosthenes. He advocates for a balanced and polished style, explicitly criticizing what he perceives as the excessive harshness of the austere style and the undue smoothness of the ornate.
-
-The treatise, which survives complete in medieval manuscripts, comprises 39 sections. Dionysius, a Greek teacher and historian active in Rome during the reign of Augustus, likely intended it as a practical manual for his students. Modern scholarship interprets the work as part of a larger cultural endeavor to instruct the Roman elite in the principles of classical Greek rhetoric and to establish a definitive canon of stylistic excellence. It functions simultaneously as a technical guide for aspiring writers and as a substantive contribution to the literary-critical debates of the early Roman Empire. Its detailed focus on the aesthetic and phonetic qualities of language ensured its lasting influence, shaping later rhetorical education and serving as a key text for Renaissance literary criticism.
 
 ## Text
 

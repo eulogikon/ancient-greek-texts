@@ -5,6 +5,7 @@ author: Demonax of Cyprus
 eul_wid: ogu-aa
 eul_aid: ogu
 canonical: "https://eulogikon.org/works/demonax-cyprus-ethical-maxims-ogu-aa"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Demonax of Cyprus
 
 **eul_wid:** `ogu-aa` · [HTML page](https://eulogikon.org/works/demonax-cyprus-ethical-maxims-ogu-aa)
-
-Demonax's Ethical Maxims is a modern designation for a collection of aphorisms and anecdotes ascribed to the 2nd-century CE Cynic philosopher Demonax of Cyprus. These thirty-three passages, written in Attic Greek, do not constitute an independent ancient treatise but are excerpted from the biographical work Life of Demonax, composed by the satirist Lucian of Samosata shortly after the philosopher's death. The complete text of Lucian's biography survives, embedding the maxims within a narrative framework that illustrates Demonax's character through his sharp, humorous dialogues with students, rival philosophers, and public figures.
-
-Set in Athens during the Roman Imperial period, Lucian presents Demonax as a uniquely moderate and widely respected Cynic. The sayings advocate for a life of simplicity and virtue, employing irony and wit to critique the doctrines of other philosophical schools, contemporary religious practices, and pervasive social hypocrisy. The maxims emphasize self-examination, the primacy of ethical conduct over theoretical speculation, and the cultivation of inner virtue over the pursuit of pleasure or public acclaim. Modern scholarship generally interprets Lucian's portrait as serving a dual purpose: to memorialize Demonax as an idealized, humane philosopher and to offer an implicit critique of the intellectual and moral climate of the era. The intended audience was the educated, Greek-speaking public of the Roman Empire. The maxims themselves possess no independent manuscript tradition and are transmitted exclusively through Lucian's work, which has been preserved within the manuscript tradition of his complete writings.
 
 ## Text
 

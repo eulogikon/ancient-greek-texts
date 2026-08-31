@@ -5,6 +5,7 @@ author: Perictione I Mother of Plato
 eul_wid: cqm-aa
 eul_aid: cqm
 canonical: "https://eulogikon.org/works/perictione-harmony-women-cqm-aa"
+lang: grc
 period: Classical
 dialect: Ionic
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Perictione I Mother of Plato
 
 **eul_wid:** `cqm-aa` · [HTML page](https://eulogikon.org/works/perictione-harmony-women-cqm-aa)
-
-On the Harmony of Women is a philosophical treatise preserved under the name of Perictione, who is identified as the mother of Plato. This short, exhortatory work advises women on achieving a virtuous life through the cultivation of inner harmony, which it presents as the essential foundation for proper household management and familial relationships. The text advocates for a Pythagorean ideal of female virtue, centering on the concept of harmony as the soul's balanced state, which in turn produces order in the domestic sphere. It calls for the cultivation of core virtues, particularly moderation and justice, and emphasizes piety toward the gods, one's country, and one's family. Its practical instructions extend to the details of domestic duty, outlining a woman's responsibilities to her husband and children, and counsel moderation in personal adornment, favoring simplicity over luxury. The treatise survives not as a complete work but through excerpts preserved in later anthologies, most notably within the fifth-century CE Anthology of Stobaeus. It forms part of a pseudepigraphical corpus of writings attributed to female Pythagoreans. While its attribution to Plato's mother is considered spurious, with scholars generally dating its composition to the Hellenistic period, the work remains a significant example of ancient philosophical literature directly addressed to women. It demonstrates the application of Pythagorean and Platonic ethical principles to the specific context of female domestic roles and represents an early influence on the tradition of philosophical advice literature.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Polystratus the Epicurean
 eul_wid: jss-aa
 eul_aid: jss
 canonical: "https://eulogikon.org/works/polystratus-contempt-irrational-jss-aa"
+lang: grc
 period: Hellenistic
 dialect: "Koine (phi, frg)"
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Polystratus the Epicurean
 
 **eul_wid:** `jss-aa` · [HTML page](https://eulogikon.org/works/polystratus-contempt-irrational-jss-aa)
-
-On the Contempt of the Irrational is a philosophical treatise by Polystratus, the third scholarch of the Epicurean school in Athens. Preserved in a single, damaged papyrus roll from Herculaneum, the work argues that irrational fears, desires, and beliefs are the primary obstacles to achieving ataraxia, or freedom from disturbance. The treatise systematically critiques irrational fears, particularly the fear of death and divine punishment, by reasserting Epicurean doctrines on the mortality of the soul and the disinterest of the gods. It also examines what it terms empty opinion derived from tradition, contrasting it with knowledge based on sensory evidence, and attacks conventional pursuits of fame, power, and luxury as unnatural desires that generate anxiety. The text further engages in intra-school polemic, likely defending core Epicurean orthodoxy against contemporary dilution or challenge. The work survives exclusively in the carbonized papyrus scroll known as PHerc. 336/1150, which was unrolled and transcribed in the 19th century; its text remains fragmentary due to damage from the eruption of Mount Vesuvius in 79 CE. As one of the few extant works by a direct successor of Epicurus, it provides crucial insight into the doctrinal development and pedagogical methods of the Epicurean school during the 3rd century BCE, illustrating how later scholarchs applied foundational principles to ethical critique.
 
 ## Text
 

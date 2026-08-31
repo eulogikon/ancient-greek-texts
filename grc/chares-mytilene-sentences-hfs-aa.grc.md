@@ -5,6 +5,7 @@ author: Chares of Mytilene
 eul_wid: hfs-aa
 eul_aid: hfs
 canonical: "https://eulogikon.org/works/chares-mytilene-sentences-hfs-aa"
+lang: grc
 period: Classical
 dialect: Attic (frg)
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Chares of Mytilene
 
 **eul_wid:** `hfs-aa` · [HTML page](https://eulogikon.org/works/chares-mytilene-sentences-hfs-aa)
-
-The Sentences attributed to Chares of Mytilene is a minor collection of ethical maxims belonging to the ancient genre of gnomic literature. The work survives only in five fragmentary prose passages, which offer conventional advice on virtuous living. These sayings exhort the reader to perform noble and just deeds, honor the gods and one's parents, control one's temper, speak truthfully, and master the tongue. The author, Chares of Mytilene, is an otherwise obscure figure absent from standard classical testimonia, and the work possesses no established historical or biographical context. Its transmission is extremely limited, with no known manuscript tradition or clear source of preservation beyond the extant fragments. The principal significance of the Sentences lies in its status as an example of the pervasive gnomic tradition, demonstrating the production of such practical philosophical wisdom even by authors of whom no other record remains.
 
 ## Text
 

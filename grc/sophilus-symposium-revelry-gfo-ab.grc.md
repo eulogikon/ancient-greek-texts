@@ -5,6 +5,7 @@ author: Sophilus the Comic Poet
 eul_wid: gfo-ab
 eul_aid: gfo
 canonical: "https://eulogikon.org/works/sophilus-symposium-revelry-gfo-ab"
+lang: grc
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Sophilus the Comic Poet
 
 **eul_wid:** `gfo-ab` · [HTML page](https://eulogikon.org/works/sophilus-symposium-revelry-gfo-ab)
-
-The Symposium and Revelry Fragments constitute a modern assemblage of fourteen fragmentary passages attributed to the comic poet Sophilus. These excerpts are preserved solely through quotation by later ancient authors, most extensively by the grammarian Athenaeus of Naucratis in his Deipnosophistae, with a small number also cited in the Byzantine Suda encyclopedia. There exists no independent manuscript tradition for Sophilus's complete plays. The collected fragments focus predominantly on symposiac and convivial themes, offering glimpses into the rituals and social dynamics of Greek drinking parties. Their content includes specific references to food and drink, such as particular breads and bean dishes, and provides incidental insights into Athenian daily life and material culture. As a poet of Old Comedy contemporary with Aristophanes, Sophilus represents the many comic dramatists whose full works are lost. His fragments therefore serve as valuable evidence for the study of Old Comedy beyond its major surviving figures and constitute a useful source for historians of Athenian social customs.
 
 ## Text
 

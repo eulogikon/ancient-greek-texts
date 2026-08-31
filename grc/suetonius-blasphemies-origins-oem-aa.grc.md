@@ -5,6 +5,7 @@ author: Suetonius
 eul_wid: oem-aa
 eul_aid: oem
 canonical: "https://eulogikon.org/works/suetonius-blasphemies-origins-oem-aa"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Suetonius
 
 **eul_wid:** `oem-aa` · [HTML page](https://eulogikon.org/works/suetonius-blasphemies-origins-oem-aa)
-
-_On Blasphemies and Their Origins_ is a lost grammatical treatise attributed to the Roman scholar Suetonius. It exemplifies his broader antiquarian output, which included Greek works on topics such as games and terms of abuse. The title indicates a study focused on the etymology and meaning of blasphemous or insulting language. Based on the author's other scholarly works, the treatise likely addressed the lexicography and origins of specific abusive terms, the social and cultural history embedded in the vocabulary of insult, and the classification of such terms within ancient grammatical science. The work is known only from its title being listed among Suetonius's writings in later sources, such as the Byzantine encyclopedia known as the _Suda_. No fragments or direct quotations survive. While its direct influence is untraceable, the treatise underscores the range of Suetonius's scholarship beyond biography and reflects the bilingual, antiquarian interests of the educated Roman elite during the High Empire.
 
 ## Text
 

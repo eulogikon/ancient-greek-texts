@@ -5,6 +5,7 @@ author: Letters of Calanus Anonymous
 eul_wid: hjo-aa
 eul_aid: hjo
 canonical: "https://eulogikon.org/works/calanus-letters-alexander-hjo-aa"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Letters of Calanus Anonymous
 
 **eul_wid:** `hjo-aa` · [HTML page](https://eulogikon.org/works/calanus-letters-alexander-hjo-aa)
-
-The letter known as "Kalanos to Alexander" is a pseudepigraphic epistle attributed to the Indian gymnosophist Calanus and addressed to Alexander the Great. Composed in Attic Greek during the Hellenistic or Roman Imperial period, the work belongs to a popular genre of philosophical letters that use famous historical figures as mouthpieces for ethical instruction. The text survives only in two fragmentary passages. In these, Calanus rebuffs Alexander's attempts to compel the Indian philosophers, arguing that while a ruler may move bodies from place to place, he cannot force a soul to act against its will. The letter contrasts the philosopher's pursuit of spiritual freedom and inner fortitude—symbolized by the sage's mastery over the pain of fire—with the external, coercive power of kingship. It further distinguishes the practical, deed-oriented philosophy of the Indian sages from the rhetorical exercises of Greek philosophers. Transmitted within medieval manuscript collections of Alexander-related pseudepigrapha, the epistle employs the common Greco-Roman literary trope of the wise Eastern ascetic offering corrective counsel to the archetypal conqueror, thereby critiquing imperial ambition and celebrating philosophical autonomy.
 
 ## Text
 

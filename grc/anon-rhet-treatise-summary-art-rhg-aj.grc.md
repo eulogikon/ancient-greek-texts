@@ -5,6 +5,7 @@ author: Rhetorical Treatise Anonymous
 eul_wid: rhg-aj
 eul_aid: rhg
 canonical: "https://eulogikon.org/works/anon-rhet-treatise-summary-art-rhg-aj"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Rhetorical Treatise Anonymous
 
 **eul_wid:** `rhg-aj` · [HTML page](https://eulogikon.org/works/anon-rhet-treatise-summary-art-rhg-aj)
-
-The Summary of the Art of Rhetoric is an anonymous Greek rhetorical treatise preserved as a complete text. Structured as a concise handbook of fifty-eight passages, it functions as a synopsis of core rhetorical principles. Its content encompasses standard classical doctrines, including the parts of an oration, such as the proem, narration, proof, and epilogue; the three genres of rhetorical speech—deliberative, forensic, and epideictic; and the five canons of rhetoric: invention, arrangement, style, memory, and delivery. The work also addresses the use of rhetorical figures and common topics of argument. The text survives through the manuscript tradition of Greek rhetorical works and is available in the 1854 edition by Leonhard von Spengel published in Rhetores Graeci. As a representative example of the pedagogical handbooks used for rhetorical education in the Greco-Roman world, its preservation contributes to our understanding of the transmission and standardization of classical rhetorical theory in later antiquity.
 
 ## Text
 

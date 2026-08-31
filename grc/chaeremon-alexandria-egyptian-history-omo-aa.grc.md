@@ -5,6 +5,7 @@ author: Chaeremon of Alexandria
 eul_wid: omo-aa
 eul_aid: omo
 canonical: "https://eulogikon.org/works/chaeremon-alexandria-egyptian-history-omo-aa"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Chaeremon of Alexandria
 
 **eul_wid:** `omo-aa` · [HTML page](https://eulogikon.org/works/chaeremon-alexandria-egyptian-history-omo-aa)
-
-The Fragments on Egyptian History is a lost treatise by the 1st-century CE Stoic philosopher, grammarian, and imperial tutor Chaeremon of Alexandria. Preserved only through quotations in later authors, most significantly the 9th-century Byzantine patriarch Photius, the work represents an ethnography of ancient Egypt composed in Koine Greek. Its surviving passages present a detailed portrait of the Egyptian priesthood as an ascetic and scholarly elite, emphasizing their celibacy, dietary restrictions, and dedicated study of astronomy, sacred texts, and hieroglyphic writing. Chaeremon’s narrative, as evidenced in fragments cited by Josephus, also incorporated legendary history, including an alternative account of the Exodus that identified Moses and Joseph as Egyptian priests expelled during a ritual purification. Modern scholarship interprets this idealized depiction as Chaeremon filtering his insider knowledge of Egyptian institutions through a Stoic philosophical lens, thereby presenting the priests as embodiments of the Stoic sage, characterized by extreme self-control and contemplative wisdom. Composed during a period of significant Greco-Roman fascination with Egyptian antiquity, the treatise sought to position Egyptian tradition as a venerable source of primordial philosophy and ritual practice. Its portrayal of ascetic discipline is considered a notable example of "Egyptosophy," a literary tradition that later influenced Neoplatonic and early Christian conceptions of the monastic life.
 
 ## Text
 

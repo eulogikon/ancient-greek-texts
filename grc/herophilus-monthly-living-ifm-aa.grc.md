@@ -5,6 +5,7 @@ author: Herophilus the Anatomist
 eul_wid: ifm-aa
 eul_aid: ifm
 canonical: "https://eulogikon.org/works/herophilus-monthly-living-ifm-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine (frg)
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Herophilus the Anatomist
 
 **eul_wid:** `ifm-aa` · [HTML page](https://eulogikon.org/works/herophilus-monthly-living-ifm-aa)
-
-Attributed to the Alexandrian physician Herophilus, the oration How a Man Ought to Live Each Month presents a detailed monthly regimen for living. The text, which survives in eleven passages, systematically outlines dietary and lifestyle advice organized by the calendar. For the month of January, for instance, it prescribes the consumption of specific wines, recommends fasting until the third hour, and provides exhaustive instructions for preparing meats, poultry, fish, and vegetables, often with elaborate sauces and spices. While dietetics formed a fundamental part of ancient Greek medicine, this particular structured monthly guide is not attested among the known works of Herophilus, a pioneering anatomist of the third century BCE. His extensive writings are lost and survive only in fragments cited by later authors, and this oration is absent from standard accounts of his corpus. Its attribution to him remains unverified, and the text may represent a later composition or a fragment of a lost dietetic treatise, underscoring the incomplete nature of the historical record surrounding this major medical figure.
 
 ## Text
 

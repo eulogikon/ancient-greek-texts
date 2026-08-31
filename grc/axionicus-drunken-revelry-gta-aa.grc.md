@@ -5,6 +5,7 @@ author: Axionicus the Comic Poet
 eul_wid: gta-aa
 eul_aid: gta
 canonical: "https://eulogikon.org/works/axionicus-drunken-revelry-gta-aa"
+lang: grc
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Axionicus the Comic Poet
 
 **eul_wid:** `gta-aa` · [HTML page](https://eulogikon.org/works/axionicus-drunken-revelry-gta-aa)
-
-The Fragments on Drunken Revelry is a modern compilation of forty-seven passages attributed to the Athenian comic poet Axionicus. Preserved almost exclusively within the lexicographical work Deipnosophistae by Athenaeus, these excerpts are drawn from lost comedies and collectively focus on the culture of the symposium. The fragments provide valuable glimpses into the scenes, humor, and social archetypes characteristic of the period known as Middle Comedy. Their content vividly illustrates symposiac culture, depicting drinking parties and their associated social rituals. They frequently dwell on themes of gourmandise, offering detailed references to specific foods, wines, and culinary preparations. The texts also engage in social satire, mocking stock characters such as parasites and boastful cooks, and occasionally feature mythological parody, a trait consistent with the broader tradition of Middle Comedy.
-
-The fragments survive solely through indirect transmission, having been quoted by Athenaeus for their utility in illustrating dining customs and specialized vocabulary. The standard critical edition for these and other comic fragments is Poetae Comici Graeci. As a corpus, the fragments of Axionicus are significant for reconstructing the thematic evolution of Athenian comedy, exemplifying the genre's shift from overt political commentary toward a greater emphasis on social satire and domestic scenes. They serve as an important resource for scholars of fourth-century Athenian social history, material culture, and philology.
 
 ## Text
 

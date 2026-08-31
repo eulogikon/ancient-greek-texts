@@ -5,8 +5,9 @@ author: Thessalus of Cos
 eul_wid: ece-ae
 eul_aid: ece
 canonical: "https://eulogikon.org/works/thessalus-cos-virtues-herbs-ece-ae"
-period: Classical
-dialect: Ionic
+lang: grc
+period: Roman
+dialect: Koine
 domain: Science
 format: Treatise
 license: "https://creativecommons.org/publicdomain/mark/1.0/"
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Thessalus of Cos
 
 **eul_wid:** `ece-ae` · [HTML page](https://eulogikon.org/works/thessalus-cos-virtues-herbs-ece-ae)
-
-On the Virtues of Herbs is a pharmacological treatise attributed to the first-century physician Thessalus of Cos. Written in Koine Greek, the surviving fragments of the work detail the medicinal properties of various plants, prescribing their collection according to specific astrological hours and days of the week, each governed by a planetary deity. Thessalus was a prominent, and often contentious, proponent of the Methodist school of medicine, which emphasized straightforward therapeutic principles based on observable bodily conditions. While the treatise focuses on herbal lore, modern scholarship interprets it not as a mere list of remedies but as an attempt to frame plant-based therapeutics within broader Methodist doctrines. The work itself is poorly preserved, existing only in scant passages; knowledge of it derives largely from later medical writers such as Galen, who quoted and criticized Thessalus’s methods, indicating its fragmentary transmission and the controversial nature of his ideas in subsequent medical tradition.
 
 ## Text
 

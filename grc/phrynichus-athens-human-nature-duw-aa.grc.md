@@ -5,6 +5,7 @@ author: Phrynichus the Comic Poet of Athens
 eul_wid: duw-aa
 eul_aid: duw
 canonical: "https://eulogikon.org/works/phrynichus-athens-human-nature-duw-aa"
+lang: grc
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Phrynichus the Comic Poet of Athens
 
 **eul_wid:** `duw-aa` · [HTML page](https://eulogikon.org/works/phrynichus-athens-human-nature-duw-aa)
-
-The Fragments on Human Nature is a modern scholarly collection of 126 surviving passages from the lost comedies of Phrynichus, an Athenian poet of Old Comedy and a contemporary rival of Aristophanes in the late 5th century BCE. These excerpts, preserved through quotation by later grammarians and authors, are assembled thematically to illustrate the poet's satirical observations on Athenian life. The fragments offer a window into the competitive world of Old Comedy beyond the works of Aristophanes, showcasing a sharp critique of contemporary society. Principal targets include intellectual figures like the sophist Gorgias and the tragedian Euripides, alongside political personalities, social institutions, and cultural trends such as culinary excess and religious practices. The transmission of Phrynichus's work relies entirely on these citations, found most prominently in Athenaeus's Deipnosophistae and in Byzantine lexica like the Suda, with the definitive modern edition appearing in Poetae Comici Graeci. Although the loss of his complete plays limits an assessment of his direct literary influence, these remnants confirm his celebrated status in antiquity and remain crucial for understanding the linguistic texture, social concerns, and artistic range of classical Athenian comedy.
 
 ## Text
 

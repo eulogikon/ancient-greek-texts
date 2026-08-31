@@ -5,6 +5,7 @@ author: Alcman Lacedaemonius
 eul_wid: adw-ab
 eul_aid: adw
 canonical: "https://eulogikon.org/works/alcman-lacedaemonius-poetry-fragments-adw-ab"
+lang: grc
 period: Archaic
 dialect: Doric
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alcman Lacedaemonius
 
 **eul_wid:** `adw-ab` · [HTML page](https://eulogikon.org/works/alcman-lacedaemonius-poetry-fragments-adw-ab)
-
-The Fragments on Poetry constitute the extant corpus of the 7th-century BCE Spartan poet Alcman, a principal figure of early Greek choral lyric. Composed in the Doric dialect for public performance, often by choruses of young women at Spartan religious festivals, these surviving verses are preserved not as a single work but as a modern scholarly compilation. The fragments derive from two primary sources: quotations by later ancient authors and, most significantly, papyrus discoveries at Oxyrhynchus in Egypt. No complete poem survives intact; the collection consists of disparate passages that collectively illuminate Alcman's artistry. The content encompasses mythological allusions, vivid depictions of the natural world, and reflections on human experience. Of particular note are metapoetic passages in which the poet contemplates the essence of song and the source of poetic inspiration. These fragments provide crucial evidence for Spartan culture prior to its later militaristic emphasis, revealing a society where choral poetry held a central civic and religious function. Alcman's personal voice and descriptive power influenced subsequent lyric poetry and secured his position among the canonical Nine Lyric Poets of antiquity.
 
 ## Text
 

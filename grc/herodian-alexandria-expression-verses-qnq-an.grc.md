@@ -5,6 +5,7 @@ author: Herodian of Alexandria
 eul_wid: qnq-an
 eul_aid: qnq
 canonical: "https://eulogikon.org/works/herodian-alexandria-expression-verses-qnq-an"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Grammar
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Herodian of Alexandria
 
 **eul_wid:** `qnq-an` · [HTML page](https://eulogikon.org/works/herodian-alexandria-expression-verses-qnq-an)
-
-On the Expression of Verses is a grammatical treatise by the second-century Alexandrian scholar Herodian. The work focuses on the correct prosody, accentuation, and word division in Homeric verse, representing a component of Herodian's systematic project to codify Greek accents. It is a technical analysis, likely structured as a series of notes on ambiguous or debated Homeric lines rather than a continuous composition. The treatise systematically defines and illustrates twelve distinct types of verse lines, categorizing them by their metrical and phonetic characteristics. These categories include verses of equal time, verses complete in sense, headless verses, loose verses, curtailed verses, harsh verses, soft-sounding verses, ill-sounding verses, prose-like verses, verses with a preceding head, wasp-waisted verses, and long-tailed verses. Each type is defined by specific features, such as the consistency of syllable quantities, the placement of pauses, or the nature of its opening and closing sounds, and is exemplified with a line from Homeric epic.
-
-The treatise survives only in fragmentary form, not as an independent manuscript but through quotations and excerpts preserved in later Byzantine grammatical compilations and scholia. Its original structure and full content are reconstructed from these later citations. Herodian remained the supreme authority on Greek accents throughout antiquity and the Byzantine era. This specific work contributed directly to the standardization of Homeric recitation and interpretation, serving as an essential technical reference for centuries of Greek education and advanced textual scholarship. Its detailed rules for prosody and accentuation provided a rigorous, rule-based Alexandrian framework for judging correct word segmentation and reading within the poetic line.
 
 ## Text
 

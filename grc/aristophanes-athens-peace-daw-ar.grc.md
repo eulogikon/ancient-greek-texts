@@ -5,6 +5,7 @@ author: Aristophanes of Athens
 eul_wid: daw-ar
 eul_aid: daw
 canonical: "https://eulogikon.org/works/aristophanes-athens-peace-daw-ar"
+lang: grc
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristophanes of Athens
 
 **eul_wid:** `daw-ar` · [HTML page](https://eulogikon.org/works/aristophanes-athens-peace-daw-ar)
-
-Peace is an ancient Greek comedy by Aristophanes, first performed at the City Dionysia in Athens in 421 BCE, where it won second prize. The play centers on the farmer Trygaeus, who, despairing of the protracted Peloponnesian War, journeys to Mount Olympus on a giant dung beetle. There he discovers that the goddess Peace has been imprisoned in a deep pit. With the aid of a chorus of fellow farmers, he succeeds in hauling her out, along with her two attendants, Harvest and Festival. The latter half of the work is a joyous celebration of peace restored, culminating in a festive wedding. Structured in the traditional manner of Old Comedy, it comprises a prologue, choral odes, agonistic debates, and a concluding revel. The complete text has been preserved through medieval manuscripts dating primarily to the Byzantine period. Written for a war-exhausted Athenian audience on the eve of the Peace of Nicias, a treaty that temporarily suspended hostilities, the play functions as a pointed political satire. It enthusiastically champions the popular longing for peace while savagely mocking warmongers, political leaders, and those who profited from the conflict.
 
 ## Text
 

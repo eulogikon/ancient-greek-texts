@@ -5,6 +5,7 @@ author: Isis Prophetissa
 eul_wid: ukk-aa
 eul_aid: ukk
 canonical: "https://eulogikon.org/works/isis-prophetissa-son-horus-ukk-aa"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: Science
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Isis Prophetissa
 
 **eul_wid:** `ukk-aa` · [HTML page](https://eulogikon.org/works/isis-prophetissa-son-horus-ukk-aa)
-
-_Isis Prophetess to Her Son Horus_ is a pseudepigraphical Greek alchemical treatise presented as a divine revelation from the goddess Isis to her son Horus. It belongs to the corpus of Greco-Egyptian technical and hermetic literature that attributes sacred authority to craft knowledge. Structured as a series of six instructional passages, the text conveys secret processes for preparing sacred substances, almost certainly pertaining to the transmutation of metals. Its narrative frame describes Isis receiving this knowledge from an angelic being in the Egyptian month of Pharmouthi, after she resists his advances and demands instruction in return. The work's themes encompass divine revelation, the practical and spiritual transformation of matter, and the unity of material and cosmic principles characteristic of hermetic thought, using the device of pseudepigraphy to legitimize its technical content.
-
-The treatise survives primarily within medieval Byzantine manuscripts that compile Greek alchemical works, most notably in the tenth- or eleventh-century codex _Marcianus graecus 299_. Its preservation is fragmentary, reliant on this later manuscript tradition where it was copied and redacted alongside similar texts. The work exemplifies the syncretic blend of Egyptian religious motifs, Greek philosophical concepts, and practical craft knowledge in late antiquity. It contributed significantly to the development of alchemical symbolism and the enduring literary trope of divine instruction, influencing subsequent Byzantine, Islamic, and Latin alchemical traditions. Historians study it as a key document for understanding how technical arts were conveyed, systematized, and granted authority in the ancient world.
 
 ## Text
 

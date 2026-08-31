@@ -5,6 +5,7 @@ author: Ptolemy of Ascalon
 eul_wid: oyc-aa
 eul_aid: oyc
 canonical: "https://eulogikon.org/works/ptolemy-ascalon-difference-words-element-oyc-aa"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Ptolemy of Ascalon
 
 **eul_wid:** `oyc-aa` · [HTML page](https://eulogikon.org/works/ptolemy-ascalon-difference-words-element-oyc-aa)
-
-On the Difference of Words by Element is a grammatical treatise attributed to the grammarian Ptolemy of Ascalon. Structured as a collection of 168 entries, it systematically differentiates words similar in sound or spelling but distinct in meaning, accent, or grammatical gender. The work belongs to the Hellenistic and Roman tradition of lexical studies and survives within the larger corpus of transmitted Greek grammatical writings. The treatise focuses on precise lexical and grammatical distinctions, serving as a practical guide for correct usage. Its primary themes include the differentiation of synonyms, homonyms, and paronyms; the correlation of shifts in accent, spelling, or pronunciation with changes in meaning; and the clarification of distinctions in grammatical gender and word formation. The text is preserved intact within the Byzantine manuscript tradition of grammatical compilations, with no significant lacunae reported. Its transmission indicates it was considered a useful authority for later scholars. As part of the Alexandrian grammatical tradition, the work participated in the Atticist movement to standardize literary Greek. It contributed to the educational toolkit for grammarians and lexicographers, aiding the preservation of classical linguistic norms in the Byzantine era.
 
 ## Text
 

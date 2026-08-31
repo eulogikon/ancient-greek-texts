@@ -5,6 +5,7 @@ author: Aristides the Orator
 eul_wid: qwm-bn
 eul_aid: qwm
 canonical: "https://eulogikon.org/works/aristides-orator-encomium-rome-qwm-bn"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristides the Orator
 
 **eul_wid:** `qwm-bn` · [HTML page](https://eulogikon.org/works/aristides-orator-encomium-rome-qwm-bn)
-
-The Encomium of Rome is a formal panegyric oration written and delivered by the Greek orator Aelius Aristides around 143–144 CE. Composed in Attic Greek, this speech stands as a prime example of epideictic oratory from the period known as the Second Sophistic. It is structured as a systematic, 32-section praise of the Roman Empire, its emperor Antoninus Pius, and its governing system. Rather than focusing on military conquest, Aristides praises Rome for creating a universal and stable world order. He contrasts the chaos of pre-Roman history with the peace, justice, and prosperity of the current empire, famously describing it as a "common democracy of the world" under the guidance of an ideal, law-giving monarch. Key themes include the global peace and security of the Pax Romana, the benefits of Roman law, and the economic integration and safe travel enabled by imperial rule. Modern scholars interpret the speech as a sophisticated performance for the imperial court, reflecting the perspective of a provincial Greek elite who had accommodated themselves to and benefited from Roman hegemony during its Antonine peak. The complete text of the oration survives through the medieval manuscript tradition of Aristides' works, with key copies dating from the 10th century onward. It has been transmitted without major gaps alongside his other orations and remains a central document for understanding the political ideology and cultural relations of the Roman Empire in the second century.
 
 ## Text
 

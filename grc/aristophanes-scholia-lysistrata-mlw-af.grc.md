@@ -5,6 +5,7 @@ author: Aristophanes Scholia
 eul_wid: mlw-af
 eul_aid: mlw
 canonical: "https://eulogikon.org/works/aristophanes-scholia-lysistrata-mlw-af"
+lang: grc
 period: Hellenistic
 dialect: Technical Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristophanes Scholia
 
 **eul_wid:** `mlw-af` · [HTML page](https://eulogikon.org/works/aristophanes-scholia-lysistrata-mlw-af)
-
-The Scholia on Lysistrata is an anonymous compilation of 439 explanatory notes on Aristophanes' comedy Lysistrata. These annotations, assembled over many centuries from the Hellenistic period through the Byzantine era, were composed by successive generations of scholars to aid readers in understanding the play. They provide crucial context by elucidating difficult vocabulary, historical references, mythological allusions, and Athenian customs pertinent to the original fifth-century BCE performance. The work does not constitute a continuous essay but rather a series of discrete comments, each linked to a specific line in the manuscript tradition of the play. It survives exclusively through its preservation in the margins and between the lines of medieval manuscripts containing Aristophanes' text. Modern scholarship regards the scholia as a vital resource for understanding how ancient and medieval audiences engaged with classical literature. They were likely created for educational purposes, serving to make an archaic Athenian comedy accessible to students and scholars across the Greek-speaking world long after its initial production. The notes represent a layered textual compilation, with a core potentially traceable to the work of renowned Alexandrian commentators, which was subsequently condensed, revised, and expanded upon throughout the Byzantine period.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Menander of Athens
 eul_wid: hps-be
 eul_aid: hps
 canonical: "https://eulogikon.org/works/menander-athens-fortune-folly-hps-be"
+lang: grc
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Menander of Athens
 
 **eul_wid:** `hps-be` · [HTML page](https://eulogikon.org/works/menander-athens-fortune-folly-hps-be)
-
-_Fragments on Fortune and Folly_ is a modern compilation of twenty-six excerpts attributed to the Athenian comic playwright Menander. These fragments are not derived from a single, unified play but are sententious maxims and snippets of dialogue gathered from later anthologists, such as Stobaeus, and from papyrus discoveries. The collection’s title highlights two central and interconnected themes prevalent in Menander’s New Comedy: the capricious power of Fortune and the role of human folly in shaping personal destiny. The content illustrates the playwright’s philosophical observations on life, emphasizing the unpredictable force of chance, the consequences of poor judgment, and the importance of virtuous character as a guide through life’s uncertainties. Menander’s complete works were lost after antiquity, surviving only in such fragments quoted by other authors, in papyri from Egypt, and through the Roman adaptations of Plautus and Terence. His influence was profound, shaping the course of Roman comedy and, by extension, much of later European drama. Highly admired in antiquity for his moralizing style, Menander’s mastery of character-driven comedy and ethical reflection has been further confirmed by modern archaeological discoveries.
 
 ## Text
 

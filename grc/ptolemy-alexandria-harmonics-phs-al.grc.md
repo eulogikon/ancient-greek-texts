@@ -5,6 +5,7 @@ author: Ptolemy of Alexandria
 eul_wid: phs-al
 eul_aid: phs
 canonical: "https://eulogikon.org/works/ptolemy-alexandria-harmonics-phs-al"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Mathematics
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Ptolemy of Alexandria
 
 **eul_wid:** `phs-al` · [HTML page](https://eulogikon.org/works/ptolemy-alexandria-harmonics-phs-al)
-
-The Harmonics is a three-book scientific treatise on music theory composed in Greek by the Alexandrian scholar Claudius Ptolemy around the middle of the 2nd century CE. The work systematically establishes the mathematical principles governing musical scales and intervals, seeking to reconcile the abstract numerical ratios of Pythagorean theory with the empirical evidence of auditory perception. The first book defines fundamental acoustic concepts and argues that consonant intervals must correspond to specific, simple mathematical ratios. The second book applies these foundational rules to construct the detailed scale systems of ancient Greek music, critically examining and refining the divisions proposed by earlier theorists such as Aristoxenus and Archytas. The third book expands the scope of the theory beyond technical musicology, exploring the influence of musical harmony on human character and ethics, and proposing its analogous role in the orderly motions of celestial bodies, thereby reflecting the ancient cosmological concept of the harmony of the spheres.
-
-Ptolemy composed the treatise as part of his broader project to systematize knowledge, and it is characterized by its rigorous methodology, which uniquely insisted that theoretical mathematical ratios must be verifiable through controlled auditory testing on an instrument like the monochord. The complete text survives through a stable manuscript tradition. Modern scholarship interprets the Harmonics as a foundational synthesis that bridged the disciplines of mathematics, perceptual psychology, and cosmology, exerting a significant influence on the development of music theory within Byzantine, Islamic, and later Renaissance intellectual traditions.
 
 ## Text
 

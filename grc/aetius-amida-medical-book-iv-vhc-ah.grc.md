@@ -5,6 +5,7 @@ author: Aëtius of Amida
 eul_wid: vhc-ah
 eul_aid: vhc
 canonical: "https://eulogikon.org/works/aetius-amida-medical-book-iv-vhc-ah"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aëtius of Amida
 
 **eul_wid:** `vhc-ah` · [HTML page](https://eulogikon.org/works/aetius-amida-medical-book-iv-vhc-ah)
-
-Medical Book IV constitutes the fourth volume of the Tetrabiblos, a sixteen-book medical compendium compiled in Greek by the Byzantine physician Aëtius of Amida during the sixth century. Designed as a practical handbook for medical practitioners, this volume systematically addresses the hygiene, diagnosis, and treatment of infants and young children. Its contents, organized into numerous chapters, cover a comprehensive range of pediatric topics. These include guidance on selecting a wet nurse, testing milk, and general infant dietetics, as well as the management of specific ailments such as teething difficulties, eye inflammations, ear infections, oral thrush, persistent coughs, and various digestive and skin disorders common to early childhood.
-
-A product of late antiquity, the work reflects the era's scholarly effort to preserve and systematize classical knowledge. Aëtius, who may have served in the court of Emperor Justinian I, compiled his encyclopedia by synthesizing material from earlier authorities such as Galen, Soranus of Ephesus, and Oribasius. Modern scholarship regards the Tetrabiblos as a vital conduit for the transmission of Greek and Roman medical learning into the Byzantine and later the Arabic intellectual traditions. The complete text of Medical Book IV survives as an integral part of the larger, well-preserved encyclopedia, which was copied throughout the Middle Ages and translated into Arabic and Latin, securing its influence on medical practice for centuries.
 
 ## Text
 

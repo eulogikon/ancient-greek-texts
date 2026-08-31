@@ -5,6 +5,7 @@ author: John VI Kantakouzenos
 eul_wid: rxk-aa
 eul_aid: rxk
 canonical: "https://eulogikon.org/works/john-kantakouzenos-histories-rxk-aa"
+lang: grc
 period: Late Antique
 dialect: Byzantine Greek
 domain: History
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** John VI Kantakouzenos
 
 **eul_wid:** `rxk-aa` · [HTML page](https://eulogikon.org/works/john-kantakouzenos-histories-rxk-aa)
-
-The Histories of John VI Kantakouzenos is a four-book prose chronicle composed in Atticizing Greek by the former Byzantine emperor and later monk. Written after his abdication, approximately between 1363 and 1366, the work provides a detailed, first-person narrative of Byzantine political and military affairs spanning from 1320 to 1356. This turbulent era encompassed the destructive civil wars between the faction led by Kantakouzenos and the regency for the young emperor John V Palaiologos, as well as the empire's intricate diplomatic and military engagements with neighboring powers, including the Serbian Empire, the Bulgarian Empire, and the ascendant Ottoman Turks. The account also offers an insider's perspective on significant religious controversies of the period, most notably the Hesychast dispute, which Kantakouzenos actively championed during his reign.
-
-Scholarly analysis identifies the work as a classicizing history, deliberately emulating the style and approach of ancient historians such as Thucydides, yet it serves a profoundly personal and apologetic function. It is widely regarded as having been composed principally to vindicate the author's conduct throughout the civil conflict and to defend his imperial legacy before the educated Byzantine aristocracy and future generations. The complete text has been preserved through manuscript transmission, a later editorial process having subdivided it into 1513 distinct passages. As a memoir authored by a central protagonist in the events it describes, the Histories endures as an indispensable, albeit markedly partisan, primary source for the study of the Byzantine Empire's final century.
 
 ## Text
 

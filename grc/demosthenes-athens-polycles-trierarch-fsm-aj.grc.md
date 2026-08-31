@@ -5,6 +5,7 @@ author: Demosthenes of Athens
 eul_wid: fsm-aj
 eul_aid: fsm
 canonical: "https://eulogikon.org/works/demosthenes-athens-polycles-trierarch-fsm-aj"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Demosthenes of Athens
 
 **eul_wid:** `fsm-aj` · [HTML page](https://eulogikon.org/works/demosthenes-athens-polycles-trierarch-fsm-aj)
-
-Against Polycles is a forensic oration composed by the Athenian statesman Demosthenes, likely between 360 and 355 BCE. Written in Attic Greek for a private lawsuit, the speech was delivered by the plaintiff, Apollodorus, son of Pasion. The case concerns the trierarchy, a significant public liturgy in which wealthy Athenian citizens were required to finance, equip, and command a trireme, or warship, for the state. Apollodorus prosecutes Polycles for failing to assume command of the ship at the appointed time, thereby compelling Apollodorus to continue serving as trierarch for an additional five months and six days at considerable personal expense. The speech, comprising fifty-three sections, methodically presents a detailed narrative of events, exhaustive financial accounts for the maintenance of the vessel and its crew, and calls upon witness testimony to establish that Polycles was legally obligated to provide financial compensation for his default.
-
-The dispute offers a revealing window into the practical administration of the Athenian navy and the substantial financial burdens associated with civic liturgies. Set in the period following the Social War, the narrative details the operations of a squadron stationed in the northern Aegean. Modern scholarship values the oration as a crucial historical document that illuminates the legal complexities and economic pressures inherent in the trierarchic system. It stands as a product of Demosthenes’ early career as a logographer, or speechwriter, and provides concrete evidence for the procedures of Athenian courts in adjudicating intricate private disputes that arose from the execution of public duties.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Rufus of Perinthus
 eul_wid: pws-aa
 eul_aid: pws
 canonical: "https://eulogikon.org/works/rufus-perinthus-rhetoric-pws-aa"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Rufus of Perinthus
 
 **eul_wid:** `pws-aa` · [HTML page](https://eulogikon.org/works/rufus-perinthus-rhetoric-pws-aa)
-
-The Rhetorical Art by the sophist Rufus of Perinthus is a lost rhetorical handbook from the Roman Imperial period. It is known solely from a notice in the tenth-century Byzantine encyclopedia, the Suda, which records that Rufus wrote a Rhetorical Art in eight books alongside various declamations. No fragments of the text itself survive. As a technical handbook, its content would have systematized standard components of Greco-Roman rhetoric, such as the canonical parts of a speech, the core disciplines of invention, arrangement, and style, and principles for memory and delivery. The work’s transmission is limited to its attribution in the Suda lexicon; it possesses no independent manuscript tradition. Rufus’s work exemplifies the prolific production of rhetorical manuals within the Greek-speaking sophistic circles of the eastern Roman Empire. While its direct influence is untraceable, its mention in the Suda confirms its existence within the later scholarly tradition, distinguishing it from the core rhetorical texts that shaped subsequent eras.
 
 ## Text
 

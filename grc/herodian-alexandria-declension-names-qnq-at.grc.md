@@ -5,6 +5,7 @@ author: Herodian of Alexandria
 eul_wid: qnq-at
 eul_aid: qnq
 canonical: "https://eulogikon.org/works/herodian-alexandria-declension-names-qnq-at"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Grammar
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Herodian of Alexandria
 
 **eul_wid:** `qnq-at` · [HTML page](https://eulogikon.org/works/herodian-alexandria-declension-names-qnq-at)
-
-On Declension of Names is a grammatical treatise by the second-century CE scholar Herodian of Alexandria. Composed during the Roman Imperial Period, when mastery of classical Attic Greek was a cornerstone of elite education and rhetoric, the work provides a systematic analysis of noun inflection, with particular attention to proper names. It functions as a practical guide, detailing correct Attic usage for case endings, accentuation, and spelling across 144 individual passages. Herodian, who worked in Rome under Emperor Marcus Aurelius, aimed to codify a normative standard of "pure" Greek, essential for high literary culture and administrative communication in the Hellenized eastern Roman Empire.
-
-The treatise is not preserved in its original, complete form. Its content and structure are known primarily through excerpts and citations found in later Byzantine compilations, most notably the tenth-century encyclopedia known as the Suda. Modern scholarship has reconstructed the work from these fragmentary sources. Despite its incomplete transmission, Herodian's analysis remained an authoritative reference on Greek grammar for centuries, exerting a significant influence on Byzantine and subsequent linguistic scholarship.
 
 ## Text
 

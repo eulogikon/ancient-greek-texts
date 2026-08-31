@@ -5,6 +5,7 @@ author: Alchemist I
 eul_wid: rrg-al
 eul_aid: rrg
 canonical: "https://eulogikon.org/works/alchemist-i-metallic-stone-rrg-al"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alchemist I
 
 **eul_wid:** `rrg-al` · [HTML page](https://eulogikon.org/works/alchemist-i-metallic-stone-rrg-al)
-
-On the Metallic Stone and Where It Is Made is a short Greek alchemical treatise from the early centuries CE, composed by an anonymous author conventionally designated by scholars as Alchemist I. It belongs to a significant corpus of foundational alchemical texts spuriously attributed to the ancient philosopher Democritus. The work centers on the nature and procurement of the "metallic stone," a substance considered crucial for the transmutation of base metals into silver or gold. As indicated by its title, the treatise provides specific details on the geographical locations where this potent material is found and processed, thereby anchoring the alchemical art within particular natural landscapes and mining operations.
-
-The text, structured in five concise passages, originates from the syncretic intellectual milieu of Greco-Roman Egypt and was likely intended for fellow practitioners. The use of pseudonymous authorship was a standard convention to bestow ancient authority upon this specialized and often esoteric field of knowledge. The treatise describes a hard, marble-like stone mined with great labor in the Thebaid region of Egypt, listing specific locales such as Cleiopolis and Elephantine. It outlines a detailed procedure where miners, working by lamplight, extract a metallic vein. The ore is then ground by women, washed, and subjected to a refining process involving boiling and separation in a specialized apparatus over five days and nights.
-
-Surviving only within later medieval Greek manuscripts that compiled alchemical writings, such as the 10th-century Codex Marcianus graecus 299, the text exhibits the obscurities and corruptions typical of this technical literature after centuries of copying. Its precise date within the first three centuries CE remains uncertain. Modern scholarship regards the work as a key document illustrating how early alchemy integrated practical, laboratory-based techniques with cosmological speculation, wherein transformative materials were conceptually linked to specific terrestrial and, by implication, celestial domains.
 
 ## Text
 

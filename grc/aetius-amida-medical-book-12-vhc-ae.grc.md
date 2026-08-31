@@ -5,6 +5,7 @@ author: Aëtius of Amida
 eul_wid: vhc-ae
 eul_aid: vhc
 canonical: "https://eulogikon.org/works/aetius-amida-medical-book-12-vhc-ae"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aëtius of Amida
 
 **eul_wid:** `vhc-ae` · [HTML page](https://eulogikon.org/works/aetius-amida-medical-book-12-vhc-ae)
-
-_Medical Book XII_ constitutes the twelfth volume of the _Tetrabiblon_, a comprehensive sixteen-book medical encyclopedia compiled in Greek by the Byzantine physician Aëtius of Amida during the first half of the sixth century CE. Aëtius, who served in the court of Emperor Justinian I, authored this practical compendium as a systematic effort to preserve and organize classical medical knowledge for the use of practicing physicians. The work is structured as a series of concise chapters, each dedicated to a specific ailment and followed by detailed therapeutic recommendations. Book XII focuses primarily on diseases of the joints and extremities, with its opening chapters providing an extensive analysis of sciatica, gout, and arthritis. It proceeds to examine the causes, symptoms, and differential diagnosis of these conditions according to the prevailing humoral theory, categorizing afflictions based on the putative imbalance of blood, bile, phlegm, or melancholy. The latter part of the book is devoted to prophylactic dietary regimens and a wide array of treatments, including recipes for medicines, applications of oil and salt rubs, and other therapeutic methods. The encyclopedia synthesizes material from earlier authorities such as Galen and Soranus of Ephesus, and its enduring value lies partly in its preservation of excerpts from medical texts that are otherwise lost. The complete _Tetrabiblon_ survives intact in Greek manuscripts, the oldest of which dates from the ninth century. It served as a standard medical textbook in the Byzantine world and proved highly influential as a crucial bridge for the transmission of classical medical knowledge to later Islamic and medieval European traditions.
 
 ## Text
 

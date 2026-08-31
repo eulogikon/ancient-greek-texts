@@ -5,6 +5,7 @@ author: Theocritus of Syracuse
 eul_wid: izc-ad
 eul_aid: izc
 canonical: "https://eulogikon.org/works/theocritus-syracuse-idylls-izc-ad"
+lang: grc
 period: Hellenistic
 dialect: Doric Bucolic
 domain: Poetry
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Theocritus of Syracuse
 
 **eul_wid:** `izc-ad` · [HTML page](https://eulogikon.org/works/theocritus-syracuse-idylls-izc-ad)
-
-The Idylls are a collection of short poems by Theocritus of Syracuse, composed in the 3rd century BCE during the Hellenistic period. Written primarily in a literary Doric Greek dialect, these works are the foundational texts of the pastoral, or bucolic, genre. The traditional collection comprises thirty poems, though the authorship of several is disputed by modern scholarship. The term "idyll," meaning "little picture," aptly reflects the poems' characteristic vivid, miniature scenes.
-
-The collection is notably diverse in its subjects and settings. While the most celebrated idylls are set in an idealized countryside and feature herdsmen singing, competing in musical contests, and lamenting love, the corpus also encompasses urban mimes, mythological narratives, and encomiastic poems praising Theocritus's royal patron, Ptolemy II Philadelphus of Alexandria. This variety indicates the poems were crafted for a sophisticated, cosmopolitan audience capable of appreciating both the stylized simplicity of rural life and the refined complexities of courtly poetry. Scholars interpret the bucolic scenes not as naive folk art but as a highly literary construction exploring universal themes such as desire, artistic creation, and loss.
-
-The text has survived largely intact through medieval manuscripts, the most important being a 13th-century codex. The corpus as it exists today was likely assembled by later scholars in antiquity, which accounts for the inclusion of poems of doubtful authenticity. Theocritus's work directly inspired Virgil's Eclogues and established the pastoral tradition that would profoundly influence European literature for centuries.
 
 ## Text
 

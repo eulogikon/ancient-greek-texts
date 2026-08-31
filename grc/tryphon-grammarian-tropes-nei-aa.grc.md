@@ -1,10 +1,11 @@
 ---
 title: Gregory of Corinth-Tropes
 title_greek: Γρηγορίου τοῦ Κορινθίου περὶ τρόπων
-author: "Tryphon Grammarian "
+author: Tryphon Grammarian
 eul_wid: nei-aa
 eul_aid: nei
 canonical: "https://eulogikon.org/works/tryphon-grammarian-tropes-nei-aa"
+lang: grc
 period: Hellenistic
 dialect: Atticizing Technical
 domain: Grammar
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Γρηγορίου τοῦ Κορινθίου περὶ τρόπων*
 
-**Author:** Tryphon Grammarian 
+**Author:** Tryphon Grammarian
 
 **eul_wid:** `nei-aa` · [HTML page](https://eulogikon.org/works/tryphon-grammarian-tropes-nei-aa)
-
-On Tropes is a 12th-century Byzantine Greek grammatical treatise by the scholar and archbishop Gregory of Corinth. A systematic handbook for advanced students, it classifies and explicates the rhetorical devices of classical literature. The work opens by distinguishing between literal expression and figurative speech, or tropes, which it defines as words or phrases that have undergone a transformation from their proper meaning for the sake of utility or stylistic ornament. It proceeds to catalog and define forty-one specific tropes, including allegory, metaphor, irony, hyperbole, and synecdoche. For each entry, Gregory provides a clear definition, frequently citing earlier grammatical authorities, and illustrates the device with quotations from canonical classical authors, most prominently Homer and the Athenian tragedians. The complete text survives through medieval manuscript transmission alongside Gregory's other grammatical works. Modern scholarship regards the treatise as a significant product of the Komnenian renaissance, a period of revived classical learning in Byzantium. It functioned to codify and preserve the rules of classical Attic style, serving as a standard textbook for teaching rhetoric and literary analysis to the Byzantine educated elite, thereby reflecting a concerted effort to maintain expert knowledge of the Greek language and its literary heritage.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Demosthenes of Athens
 eul_wid: fsm-cd
 eul_aid: fsm
 canonical: "https://eulogikon.org/works/demosthenes-athens-alonnessus-fsm-cd"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Demosthenes of Athens
 
 **eul_wid:** `fsm-cd` · [HTML page](https://eulogikon.org/works/demosthenes-athens-alonnessus-fsm-cd)
-
-On Halonnesus is a political oration from Classical Athens, traditionally ascribed to the orator Demosthenes. Composed around 343 BCE, the speech addresses a diplomatic dispute following King Philip II of Macedon’s capture of the small Aegean island of Halonnesus from pirates. Philip offered to “give” the island to Athens, but the speaker, addressing the Athenian Assembly, rejects this formulation as an affront to Athenian sovereignty. He insists that since Athens held a prior claim to the island, Philip must instead agree to “give it back.” This semantic argument is presented not as a triviality but as a crucial point of principle, framing Philip’s language as a deliberate attempt to undermine Athenian dignity and obscure his own expansionist ambitions. The complete speech is structured into thirty-seven sections.
-
-The authenticity of the oration has been contested since antiquity. While its vehemently anti-Macedonian stance aligns with the known policies of Demosthenes, leading some scholars to accept it as genuine, others consider it a later rhetorical exercise composed by a skilled imitator. It survives in full within the medieval manuscript tradition of Demosthenes’ collected works, where it is cataloged as Speech 7. Regardless of its authorship, the oration provides a vivid example of the intense propaganda war waged between Athens and the rising power of Macedon in the years preceding open military conflict.
 
 ## Text
 

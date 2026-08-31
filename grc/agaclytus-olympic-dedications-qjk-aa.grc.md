@@ -5,6 +5,7 @@ author: Agaclytus the Historian
 eul_wid: qjk-aa
 eul_aid: qjk
 canonical: "https://eulogikon.org/works/agaclytus-olympic-dedications-qjk-aa"
+lang: grc
 period: Roman
 dialect: Koine
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Agaclytus the Historian
 
 **eul_wid:** `qjk-aa` · [HTML page](https://eulogikon.org/works/agaclytus-olympic-dedications-qjk-aa)
-
-_On the Olympic Dedications_, also known by the title _Extract_, is a lost historical prose work attributed to Agaclytus. This antiquarian text was dedicated to cataloging the votive offerings housed within the sanctuary of Olympia. Its existence is confirmed solely by a single citation in Athenaeus’s _Deipnosophistae_, which preserves a fragment describing a cup dedicated by the Cypselid dynasty. This brief reference indicates the work’s focus on documenting specific dedications, their donors, and associated historical anecdotes. As a fragmentary source, Agaclytus’s compilation represents the broader Hellenistic and Roman tradition of scholarly works that systematically recorded the artifacts and treasures of major religious sanctuaries for posterity.
 
 ## Text
 

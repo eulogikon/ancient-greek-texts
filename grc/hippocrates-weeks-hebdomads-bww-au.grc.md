@@ -5,6 +5,7 @@ author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-au
 eul_aid: bww
 canonical: "https://eulogikon.org/works/hippocrates-weeks-hebdomads-bww-au"
+lang: grc
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hippocrates and the Hippocratic Corpus
 
 **eul_wid:** `bww-au` · [HTML page](https://eulogikon.org/works/hippocrates-weeks-hebdomads-bww-au)
-
-On Weeks is a brief and enigmatic medical treatise from the Hippocratic Corpus, a body of ancient Greek medical works associated with the tradition of Hippocrates but composed by various authors. Written in Ionic Greek during the 5th or 4th century BCE, the work presents a concise argument that the number seven and its multiples govern fundamental biological and pathological cycles. It identifies these hebdomadal patterns in key stages of human development, including fetal growth, teething, and puberty, as well as in the critical turning points of diseases.
-
-The text consists of 19 cryptic passages that blend empirical medical observation with a strong numerological framework, reflecting influences from pre-Socratic and Pythagorean philosophical thought. Its structure posits a correspondence between the sevenfold order of the macrocosm—enumerating elements like the seasons, celestial bodies, and the earth—and the microcosm of the human body. Modern scholarship interprets the treatise as an early attempt to establish universal, rational principles for medicine by seeking mathematical regularity within nature. Though not a mainstream work in the Hippocratic tradition, On Weeks represents a significant intellectual effort to systematize medical knowledge through numerical theory, and its concept of critical days influenced later medical thought regarding the prognosis and course of illness.
 
 ## Text
 

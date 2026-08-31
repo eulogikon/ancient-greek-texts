@@ -5,6 +5,7 @@ author: Bacchylides of Ceos
 eul_wid: brw-al
 eul_aid: brw
 canonical: "https://eulogikon.org/works/bacchylides-ceos-epigrams-brw-al"
+lang: grc
 period: Classical
 dialect: Doric
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Bacchylides of Ceos
 
 **eul_wid:** `brw-al` · [HTML page](https://eulogikon.org/works/bacchylides-ceos-epigrams-brw-al)
-
-The Epigrams are two brief inscribed poems attributed to the 5th-century BCE lyric poet Bacchylides. These works stand apart from his celebrated choral victory odes, representing instead the concise, occasional nature of the epigram form. The first is a two-line dedication for a statue of Hermes, while the second is a four-line funerary inscription commemorating a warrior named Aleximachus. Both poems exemplify the pointed style of the genre, focusing on themes of piety and memorial honor. These two passages do not survive in the major papyrus manuscript that preserved Bacchylides' principal works but were transmitted through quotations by later authors such as Diodorus Siculus and Harpocration, who explicitly attribute them to the poet. Modern scholarship views these epigrams as evidence of the poet's versatility, demonstrating that a master of large-scale lyric composition also produced commissioned verses for practical purposes like temple dedications and grave markers.
 
 ## Text
 

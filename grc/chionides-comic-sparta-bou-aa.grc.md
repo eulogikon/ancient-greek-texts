@@ -5,6 +5,7 @@ author: Chionides the Comic Poet
 eul_wid: bou-aa
 eul_aid: bou
 canonical: "https://eulogikon.org/works/chionides-comic-sparta-bou-aa"
+lang: grc
 period: Archaic
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Chionides the Comic Poet
 
 **eul_wid:** `bou-aa` · [HTML page](https://eulogikon.org/works/chionides-comic-sparta-bou-aa)
-
-The Comic Fragments on Spartan Life comprises twelve brief passages attributed to Chionides, an Athenian poet of Old Comedy active in the early fifth century BCE. Written in Attic Greek verse, these excerpts do not derive from a single surviving play but were preserved by later ancient scholars who quoted them to illustrate rare words or customs. The content humorously references aspects of Spartan life, likely mocking stereotypical traits such as austerity and laconic speech, a common theme in Athenian comedy reflecting the political rivalry between the two city-states. The work survives only in part, with no narrative structure; it is a modern compilation of isolated lines known solely through indirect transmission in the works of later grammarians and encyclopedists like Athenaeus. No complete work by Chionides exists today. Scholars interpret these fragments as among the earliest examples of using comedy for political and cultural satire, offering a valuable glimpse into Athenian perceptions of Sparta during the formative period of Old Comedy.
 
 ## Text
 

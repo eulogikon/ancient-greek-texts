@@ -5,6 +5,7 @@ author: Philolaus of Croton
 eul_wid: bue-aa
 eul_aid: bue
 canonical: "https://eulogikon.org/works/philolaus-croton-testimonies-bue-aa"
+lang: grc
 period: Classical
 dialect: Doric
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philolaus of Croton
 
 **eul_wid:** `bue-aa` · [HTML page](https://eulogikon.org/works/philolaus-croton-testimonies-bue-aa)
-
-The Testimonies attributed to Philolaus of Croton is a modern scholarly compilation rather than an ancient text. It assembles fragments and testimonia—quotations and reports about this Presocratic Pythagorean philosopher preserved by later authors such as Plato, Aristotle, and various Neoplatonic commentators. The standard collection appears in Diels and Kranz’s Die Fragmente der Vorsokratiker. These collected passages aim to reconstruct his doctrines, as his genuine writings are lost. The evidence outlines core Pythagorean themes, including the principle that all known things have number as their essential nature, the cosmological theory that the cosmos arises from the combination of Limiters and the Unlimited, and the concept of a harmony that unites these principles to form a world-order. Further doctrines attributed to him encompass a non-geocentric cosmology featuring a central fire, as well as ideas on embryology and the soul as a harmony of the body. Philolaus’s ideas survive indirectly through this later ancient testimony, though the transmission is complicated by scholarly debates over the authenticity of some fragments, which may show influences from later philosophical developments. Philolaus was instrumental in transmitting Pythagorean philosophy to later antiquity. His cosmological ideas influenced subsequent astronomy, and his concepts of Limiters and the Unlimited informed later discussions of form and matter. The recovery and study of these testimonia during the Renaissance contributed to significant developments in mathematics and scientific thought.
 
 ## Text
 

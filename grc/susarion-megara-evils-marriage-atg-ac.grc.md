@@ -5,6 +5,7 @@ author: Susarion of Megara
 eul_wid: atg-ac
 eul_aid: atg
 canonical: "https://eulogikon.org/works/susarion-megara-evils-marriage-atg-ac"
+lang: grc
 period: Archaic
 dialect: Doric (frg)
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Susarion of Megara
 
 **eul_wid:** `atg-ac` · [HTML page](https://eulogikon.org/works/susarion-megara-evils-marriage-atg-ac)
-
-On the Evils of Marriage is a fragment of ancient Greek comic verse attributed to Susarion of Megara, a semi-legendary figure traditionally regarded as an early innovator of comedy. The work, composed in iambic meter and dating to approximately 580 BCE, presents a humorous and misogynistic critique of matrimony. In the sole surviving passage, the speaker addresses the citizens of Megara, asserting that women are an evil, yet a necessary one for maintaining a household. He concludes that both marrying and not marrying are ultimately calamitous choices. The fragment is preserved only as a quotation within the tenth-century Byzantine encyclopedia known as the Suda, leaving the full structure and content of the original work unknown. Scholars view it as a significant early example of a performed comic persona directly engaging a public audience, a stylistic precursor to the formalized genres of Greek drama. The historical authenticity of Susarion and his precise role in the development of comedy are uncertain, with his reputation as a foundational figure largely reflecting later Athenian literary traditions.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Palatine Paradoxographer
 eul_wid: npc-aa
 eul_aid: npc
 canonical: "https://eulogikon.org/works/palatine-paradoxographer-marvels-npc-aa"
+lang: grc
 period: Roman
 dialect: Mixed Dialects
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Palatine Paradoxographer
 
 **eul_wid:** `npc-aa` · [HTML page](https://eulogikon.org/works/palatine-paradoxographer-marvels-npc-aa)
-
-The Marvels is a brief paradoxographical text comprising thirteen prose passages, each detailing a single natural or anthropological wonder. Preserved within the ninth book of the Anthologia Palatina, it is attributed to an anonymous author conventionally known as the Palatine Paradoxographer. The work catalogs marvels from the known world in a concise, factual style typical of the genre. Its entries compile various mirabilia, including extraordinary animals, such as an eagle that cures itself by eating a tortoise; unique geological phenomena, like a spring in Clitor whose water causes an aversion to wine; and peculiar human customs, such as ravens that sing a nuptial song before mating. The text survives exclusively as part of the tenth-century CE Greek Anthology and has no independent manuscript tradition. As a modest example of paradoxography, the Marvels illustrates the Hellenistic and Imperial-era genre dedicated to collecting wonders from earlier writings, serving as a witness to its conventions and to the Byzantine interest in preserving such catalogs of curiosities.
 
 ## Text
 

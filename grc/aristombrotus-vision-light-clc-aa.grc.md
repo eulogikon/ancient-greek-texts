@@ -5,6 +5,7 @@ author: Aristombrotus the Philosopher
 eul_wid: clc-aa
 eul_aid: clc
 canonical: "https://eulogikon.org/works/aristombrotus-vision-light-clc-aa"
+lang: grc
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristombrotus the Philosopher
 
 **eul_wid:** `clc-aa` · [HTML page](https://eulogikon.org/works/aristombrotus-vision-light-clc-aa)
-
-The treatise On Vision and Light by Aristombrotus the Philosopher is known only by its title and its designation as a philosophical work. The Greek term Apospasma, meaning "Extract" or "Fragment," indicates the text is either incomplete or composed of excerpts, with metadata specifying it contains two passages. No content or arguments from the work are recorded in authoritative sources, and the author himself is unattested in major catalogs of ancient philosophers. Based solely on its title, the treatise addressed the nature of vision and light, subjects central to ancient natural philosophy. The work is lost, and its existence is noted only in the provided metadata; it is absent from standard fragment collections. The title suggests the two passages may be quotations preserved by a later, unidentified author. While the title places the work within a significant philosophical discourse, the complete absence of the text and its author from the historical record precludes any assessment of its specific intellectual contribution or influence.
 
 ## Text
 

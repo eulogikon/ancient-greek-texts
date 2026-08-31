@@ -5,6 +5,7 @@ author: Aristotle
 eul_wid: hgw-bd
 eul_aid: hgw
 canonical: "https://eulogikon.org/works/aristotle-heavens-hgw-bd"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristotle
 
 **eul_wid:** `hgw-bd` · [HTML page](https://eulogikon.org/works/aristotle-heavens-hgw-bd)
-
-On the Heavens is a cosmological treatise by Aristotle, composed around 350 BCE. The work, structured in four books, presents a systematic account of the universe's fundamental nature and organization. It begins by establishing the principles of natural bodies and magnitude, arguing that physical reality is comprehensible through the study of bodies, their sizes, properties, and motions, as well as their ultimate principles. Aristotle posits that the cosmos is spherical, finite, and geocentric, with an immobile Earth at its center. The celestial realm, comprising the stars, planets, sun, and moon, is described as eternal and unchanging, composed of a unique fifth element, the aether, whose natural motion is perfect and circular. In contrast, the terrestrial realm is the domain of the four classical elements—earth, water, air, and fire—which move rectilinearly and are characterized by imperfection, change, and qualities like heaviness and lightness. The treatise survives complete through a medieval manuscript tradition and is considered a product of Aristotle's advanced teaching at the Lyceum, forming a logical sequel to his Physics. Its model of a finite, hierarchical cosmos, with a radical division between the eternal heavens and the sublunary world, provided the dominant framework for natural philosophy in both the Islamic and Christian traditions until the early modern period.
 
 ## Text
 

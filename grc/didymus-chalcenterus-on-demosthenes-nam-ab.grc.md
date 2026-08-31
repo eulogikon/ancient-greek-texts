@@ -5,6 +5,7 @@ author: Didymus Chalcenterus
 eul_wid: nam-ab
 eul_aid: nam
 canonical: "https://eulogikon.org/works/didymus-chalcenterus-on-demosthenes-nam-ab"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: Grammar
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Didymus Chalcenterus
 
 **eul_wid:** `nam-ab` · [HTML page](https://eulogikon.org/works/didymus-chalcenterus-on-demosthenes-nam-ab)
-
-_On Demosthenes_ is a scholarly commentary on the speeches of the Athenian orator Demosthenes, authored by the Alexandrian grammarian Didymus Chalcenterus in the first century BCE. The work provides detailed exegesis of Demosthenes' political orations, with particular focus on the series known as the Philippics, which opposed the expansionist policies of King Philip II of Macedon. Didymus systematically clarifies the historical events, individuals, and diplomatic treaties referenced in the speeches, while also analyzing the orator's rhetorical strategies and noting textual variants from different manuscript traditions.
-
-The treatise survives only in fragmentary form, most notably on a papyrus discovered in Egypt. This surviving portion illustrates Didymus's methodological approach: he presents a lemma, or quoted passage, from Demosthenes and then appends his own extensive explanatory notes. Modern scholarship interprets the work as a comprehensive, didactic resource, likely employed by students, professional rhetoricians, and scholars to navigate the intricate historical and legal context of Demosthenic oratory. It represents a high point of Hellenistic scholarship, synthesizing and critically evaluating the contributions of earlier commentators to produce an authoritative reference. The preservation of this papyrus offers a rare and valuable glimpse into the practical philological techniques of ancient scholars and their dedicated work in preserving and interpreting classical texts.
 
 ## Text
 

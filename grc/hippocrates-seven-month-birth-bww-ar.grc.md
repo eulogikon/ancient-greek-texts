@@ -5,6 +5,7 @@ author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-ar
 eul_aid: bww
 canonical: "https://eulogikon.org/works/hippocrates-seven-month-birth-bww-ar"
+lang: grc
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hippocrates and the Hippocratic Corpus
 
 **eul_wid:** `bww-ar` · [HTML page](https://eulogikon.org/works/hippocrates-seven-month-birth-bww-ar)
-
-On Seven-Month Birth is a brief medical treatise from the Hippocratic Corpus, the collection of ancient Greek medical writings attributed to Hippocrates and his followers but composed by multiple authors. Written in Ionic Greek during the fifth or fourth century BCE, the work is a single, continuous passage focused on embryology. Its central argument is that a fetus born in the seventh month of pregnancy is viable, whereas one born in the eighth month is not. The text supports this position with a theory of critical developmental periods, proposing that the seventh and ninth months are favorable times for birth, while the eighth and tenth months are inherently unfavorable. Modern scholarship has interpreted the underlying reasoning for this schema as being influenced by Pythagorean number theory, which associated odd numbers such as seven and nine with strength and perfection, and even numbers with weakness. The treatise thus serves as an example of how certain Hippocratic writings integrated speculative philosophical concepts with medical observation. It survives as a minor but authentic component of the broader Hippocratic manuscript tradition, transmitted within the standard collections of the complete Corpus.
 
 ## Text
 

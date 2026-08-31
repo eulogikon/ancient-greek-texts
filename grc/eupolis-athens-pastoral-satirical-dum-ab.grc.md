@@ -5,6 +5,7 @@ author: Eupolis Atheniensis
 eul_wid: dum-ab
 eul_aid: dum
 canonical: "https://eulogikon.org/works/eupolis-athens-pastoral-satirical-dum-ab"
+lang: grc
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Eupolis Atheniensis
 
 **eul_wid:** `dum-ab` · [HTML page](https://eulogikon.org/works/eupolis-athens-pastoral-satirical-dum-ab)
-
-The Pastoral and Satirical Fragments is a modern scholarly compilation of surviving excerpts from the lost comedies of the Athenian playwright Eupolis, a principal author of Old Comedy who was active alongside Aristophanes and Cratinus in the late 5th century BCE. This collection is not a unified ancient text but an assembly of over 500 fragments, preserved through quotation by later authors, which range from isolated words to passages of several lines. These fragments are drawn from at least fourteen known plays, including major works such as The Demes and The Flatterers, and illustrate the dual focus suggested by the collection's title: depictions of bucolic life and incisive political satire.
-
-Eupolis wrote during the Peloponnesian War, and his comedies were performed at public festivals in Athens, functioning as a form of civic commentary. His work directly lampooned contemporary political figures such as Alcibiades and engaged with the pressing social and military concerns of the era. For modern scholarship, these fragments provide crucial evidence for understanding the political atmosphere and theatrical practices of classical Athens beyond the more complete corpus of Aristophanes. No complete play by Eupolis survives; the fragments are known only through indirect transmission. They are primarily sourced from quotations in later Greek and Roman authors like Athenaeus, citations in ancient lexicons and scholia, and a limited number of papyrus discoveries. The most substantial of these papyri preserves significant portions of The Demes. The definitive modern edition collecting and annotating these fragments is Poetae Comici Graeci (PCG).
 
 ## Text
 

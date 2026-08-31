@@ -5,6 +5,7 @@ author: Galen of Pergamon
 eul_wid: qmm-be
 eul_aid: qmm
 canonical: "https://eulogikon.org/works/galen-pergamon-blood-arteries-qmm-be"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Galen of Pergamon
 
 **eul_wid:** `qmm-be` · [HTML page](https://eulogikon.org/works/galen-pergamon-blood-arteries-qmm-be)
-
-Whether Blood Is Contained In Arteries is a concise medical treatise composed in Greek by the physician Galen of Pergamon during his early career in Rome, around 162–166 CE. The work presents a focused, 34-passage logical disputation aimed at systematically refuting the established theory of the Erasistratean school, which maintained that arteries naturally contain only pneuma, or vital spirit, and not blood. Galen structures his argument as a direct rebuttal, marshaling evidence from animal vivisection and practical experiments, such as the ligation of arteries, to demonstrate conclusively that blood is present within them. This treatise stands as a clear early exemplar of Galen’s methodological commitment to empirical investigation over received dogmatic theory. The text survives intact and is accepted as an authentic component of Galen’s vast corpus. Modern scholarship regards it as a pivotal document that effectively settled a major ancient physiological debate, establishing the presence of blood in arteries as anatomical fact. It is frequently cited as a prime illustration of Galen’s experimental approach, even though his broader model of blood movement was later superseded by the discovery of the circulatory system.
 
 ## Text
 

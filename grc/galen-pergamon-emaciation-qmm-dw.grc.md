@@ -5,6 +5,7 @@ author: Galen of Pergamon
 eul_wid: qmm-dw
 eul_aid: qmm
 canonical: "https://eulogikon.org/works/galen-pergamon-emaciation-qmm-dw"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Galen of Pergamon
 
 **eul_wid:** `qmm-dw` · [HTML page](https://eulogikon.org/works/galen-pergamon-emaciation-qmm-dw)
-
-On Emaciation is a medical treatise by the Roman-era Greek physician Galen of Pergamon, composed in the late second century CE. The work offers a systematic examination of marasmus, defined as a pathological wasting or consumption of the living body caused by dryness. Galen methodically distinguishes this condition from a naturally lean constitution, analyzing its etiology, symptoms, and therapeutic management across 39 sections. His explanation is grounded in humoral theory, frequently identifying the cause as a defect in the body's innate nutritive faculty. The prescribed treatment reflects Galen's characteristic holistic approach, advocating a tailored regimen that includes specific dietary recommendations, pharmaceutical preparations such as theriac, regulated exercise, and broader lifestyle modifications. The treatise survives intact through medieval manuscript transmission and is considered a representative example of Galen's endeavor to synthesize Hippocratic medical observation with philosophical principles into a coherent, causal system of medicine. It demonstrates his methodical process for defining, diagnosing, and treating a discrete disease entity within his comprehensive physiological framework, aimed at instructing both medical practitioners and a literate public.
 
 ## Text
 

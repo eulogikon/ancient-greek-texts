@@ -5,6 +5,7 @@ author: Appian of Alexandria
 eul_wid: pdc-ap
 eul_aid: pdc
 canonical: "https://eulogikon.org/works/appian-alexandria-preface-pdc-ap"
+lang: grc
 period: Roman
 dialect: Koine
 domain: History
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Appian of Alexandria
 
 **eul_wid:** `pdc-ap` · [HTML page](https://eulogikon.org/works/appian-alexandria-preface-pdc-ap)
-
-Appian of Alexandria’s Preface serves as the introduction to his second-century CE work, the Roman History. Composed in Greek during the 160s CE, this historiographical preface outlines the ambitious and innovative structure of his entire project. Appian explains that his history will not follow a conventional chronological narrative but will instead be organized according to geography and ethnicity. Separate books are dedicated to the wars between Rome and specific nations, such as the Carthaginians, Macedonians, and Celts, with the narrative designed to culminate in the Roman civil wars and the establishment of the imperial monarchy under Augustus. In concise terms, the author argues that this thematic arrangement best allows readers to comprehend the process by which Rome achieved and maintained its vast, enduring empire.
-
-A Greek from Alexandria who rose to high office within the Roman administration, Appian wrote for an educated audience fluent in both Greek and Latin. Modern scholars view his ethnographic and administrative framework as reflecting his professional background and his particular interest in explaining Rome’s territorial expansion and the political transition from republic to principate. The Preface survives intact within the manuscript tradition of Appian’s history. While much of the full Roman History is lost, the Preface and several key books have been preserved primarily in medieval Greek manuscripts dating from the tenth century onward. This introduction remains essential for understanding Appian’s distinctive historical method and his focus on the geopolitical and social forces that shaped the Roman world.
 
 ## Text
 

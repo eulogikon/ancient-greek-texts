@@ -5,6 +5,7 @@ author: Herodian of Alexandria
 eul_wid: qnq-bj
 eul_aid: qnq
 canonical: "https://eulogikon.org/works/herodian-alexandria-living-qnq-bj"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Herodian of Alexandria
 
 **eul_wid:** `qnq-bj` · [HTML page](https://eulogikon.org/works/herodian-alexandria-living-qnq-bj)
-
-The oration On the Living by the grammarian Herodian of Alexandria is a lost work known only by its title, recorded in later Byzantine sources such as the Suda. Herodian, who was active in Rome during the reign of Marcus Aurelius, was a prolific author of highly technical grammatical treatises, making this title a notable anomaly within his known philological corpus. Its subject matter remains entirely speculative; it may have been a philosophical or rhetorical discourse, or perhaps even a grammatical discussion centered on the word "living." While Herodian's major grammatical works were extensively preserved and excerpted by later scholars, this process did not extend to On the Living, and no fragments of its content survive. Consequently, the work holds no direct influence on the scholarly tradition. It stands instead as a bibliographical curiosity, underscoring the incomplete nature of textual transmission even for a major figure in ancient grammatical studies.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Isaeus the Orator
 eul_wid: fge-al
 eul_aid: fge
 canonical: "https://eulogikon.org/works/isaeus-holy-clergy-fge-al"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Isaeus the Orator
 
 **eul_wid:** `fge-al` · [HTML page](https://eulogikon.org/works/isaeus-holy-clergy-fge-al)
-
-On the Holy Clergy, also known as On the Estate of Hagnias, is a forensic oration composed by the Athenian speechwriter Isaeus around the middle of the fourth century BCE. Written in Attic Greek for a client named Sositheus, the speech presents a complex argument in an Athenian inheritance dispute. The case centers on the estate of Hagnias, a wealthy individual who died without a direct heir. The oration meticulously reconstructs the intricate genealogy of Hagnias’s family to establish Sositheus’s legal claim as the nearest relative, thereby seeking to invalidate the counter-claim of a rival who represented the local deme of Halae. Surviving as one of the twelve complete speeches in the Isaean corpus, this forty-section work is a focused and technical exposition of Athenian inheritance law, particularly the rules governing succession and the definition of the closest kinsman. Scholars regard it as a quintessential example of Isaeus’s specialized skill in property and inheritance litigation. The speech serves as both a model of precise legal argumentation and a valuable historical source, illuminating the procedural intricacies of the Athenian legal system and the socially significant, often contentious, nature of patrimonial law in classical Athens.
 
 ## Text
 

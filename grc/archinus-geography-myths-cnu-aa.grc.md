@@ -5,6 +5,7 @@ author: Archinus the Historian
 eul_wid: cnu-aa
 eul_aid: cnu
 canonical: "https://eulogikon.org/works/archinus-geography-myths-cnu-aa"
+lang: grc
 period: Classical
 dialect: Koine (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Archinus the Historian
 
 **eul_wid:** `cnu-aa` · [HTML page](https://eulogikon.org/works/archinus-geography-myths-cnu-aa)
-
-The Thessalica, attributed to Archinus the Historian, is a fragmentary prose work concerning the geography and myths of Thessaly. The author is otherwise unknown, with no attestation in major historical sources. The work survives only in a handful of excerpts preserved by later grammarians and lexicographers, such as Stephanus of Byzantium and the scholiasts on Pindar. These fragments indicate the text contained descriptions of Thessalian landscapes, cities, and natural features, alongside etiological myths explaining their origins. One passage, for instance, discusses the names of Lake Boibeis, also called Nesonis, and derives the name from the nymph Boibeis. Another mentions the city of Dotion and traces its name to Dotion, son of Neonus, son of Hellen. The work’s transmission is typical of local histories, or horographiai, which were often used as source material by later compilers of geographical and mythological scholarship. Its primary significance lies in its contribution to the understanding of Thessalian local tradition and the corpus of Greek fragmentary historiography, though its influence was entirely indirect, mediated through the authors who preserved its scant remains.
 
 ## Text
 

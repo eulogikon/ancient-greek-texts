@@ -5,6 +5,7 @@ author: Dionysius of Halicarnassus
 eul_wid: ndy-aa
 eul_aid: ndy
 canonical: "https://eulogikon.org/works/dionysius-halicarnassus-second-book-orators-ndy-aa"
+lang: grc
 period: Hellenistic
 dialect: Attic
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Dionysius of Halicarnassus
 
 **eul_wid:** `ndy-aa` · [HTML page](https://eulogikon.org/works/dionysius-halicarnassus-second-book-orators-ndy-aa)
-
-The Remains of the Second Book-Ancient Orators constitutes the surviving fragments of a larger, lost treatise on rhetoric by Dionysius of Halicarnassus, a Greek historian and rhetorician active in Rome during the late first century BCE. Preserved in later Byzantine sources, these five passages are believed to be remnants from the second book of that work. Written in Attic Greek, the fragments offer critical analyses of the style and techniques of classical Athenian orators, championing the clear and refined prose of the fifth and fourth centuries BCE as the ideal model. This advocacy formed part of the contemporary polemic against the more florid and elaborate "Asianist" style of Hellenistic rhetoric. The work functions both as a practical pedagogical tool for teaching composition and as a polemical essay aimed at defining literary taste for the educated Greco-Roman elite of the early imperial period. The extant critiques demonstrate Dionysius's method of close reading, examining an orator's diction, argument structure, and overall compositional harmony. Although the complete treatise is lost, Dionysius's critical project proved highly influential, significantly shaping the later canon of ancient oratory and impacting rhetorical education for centuries.
 
 ## Text
 

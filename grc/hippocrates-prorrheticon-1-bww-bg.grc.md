@@ -5,6 +5,7 @@ author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-bg
 eul_aid: bww
 canonical: "https://eulogikon.org/works/hippocrates-prorrheticon-1-bww-bg"
+lang: grc
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hippocrates and the Hippocratic Corpus
 
 **eul_wid:** `bww-bg` · [HTML page](https://eulogikon.org/works/hippocrates-prorrheticon-1-bww-bg)
-
-The Prorrheticon I, also known as the Prognostic, is a medical treatise from the Hippocratic Corpus, the body of works associated with the physician Hippocrates of Cos. Composed in Ionic Greek during the fifth or fourth century BCE, it functions as a practical manual dedicated to the art of prognosis—the prediction of a disease's course and final outcome. The text is organized into 119 concise passages, each presenting a set of observable clinical signs, such as the characteristics of a fever, the appearance of excretions, or the condition of a wound, and then forecasting whether the patient will recover, suffer a chronic ailment, or die. Representative observations include the prognostic significance of specific types of dreams, the danger of residual heat in the hypochondrium after a fever breaks, and the fatal implications of certain respiratory symptoms in acute illnesses.
-
-As a product of the Coan school of thought within the Hippocratic tradition, the treatise exemplifies a commitment to empirical observation and naturalistic explanation, distancing medicine from supernatural causes. Scholars interpret it as a working handbook for the practicing physician, designed to aid in making accurate clinical forecasts. This skill was essential for determining appropriate treatment, managing the expectations of patients and their families, and establishing the physician's professional reputation. In contrast to more systematically theoretical Hippocratic works, the Prorrheticon I is characterized by its aphoristic and directly observational style, resembling a compiled set of diagnostic notes drawn from experience.
-
-The complete text has been preserved through a medieval manuscript tradition, with important copies extant from the tenth century CE onward. A second, generally considered later and distinct compilation exists under the title Prorrheticon II. As a foundational document of the Hippocratic Corpus, the Prorrheticon I played a significant role in establishing prognosis based on the meticulous interpretation of physical signs as a cornerstone of Western medical practice.
 
 ## Text
 

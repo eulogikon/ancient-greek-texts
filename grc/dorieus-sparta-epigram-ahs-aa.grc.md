@@ -5,6 +5,7 @@ author: Dorieus of Sparta
 eul_wid: ahs-aa
 eul_aid: ahs
 canonical: "https://eulogikon.org/works/dorieus-sparta-epigram-ahs-aa"
+lang: grc
 period: Archaic
 dialect: Doric
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Dorieus of Sparta
 
 **eul_wid:** `ahs-aa` · [HTML page](https://eulogikon.org/works/dorieus-sparta-epigram-ahs-aa)
-
-The epigram attributed to Dorieus of Sparta is a short commemorative verse inscription known only from six surviving passages. Dorieus was a historical Spartan prince, an Olympic champion, and the leader of unsuccessful colonial expeditions in the late sixth century BCE. While the specific content and metrical form of the epigram are unattested, its likely function was to honor the prince's achievements or memory. Potential subjects, inferred from Dorieus's life and the conventions of the genre, include the commemoration of his Olympic athletic victory, the memorialization of his heroic death during a campaign in Sicily, or a celebration of core Spartan values such as courage and glory. The epigram is not preserved in major poetic collections like the Greek Anthology; its transmission path remains unclear, though its survival in six quoted passages suggests it was cited within a later historical or literary source. While the literary influence of the epigram itself is undocumented, the figure of Dorieus holds considerable historical significance, being recorded by authors such as Herodotus and Pausanias for his colonial endeavors and his death. The attribution of the verse offers a potential lens into how his legacy was shaped and perpetuated through commemorative poetry.
 
 ## Text
 

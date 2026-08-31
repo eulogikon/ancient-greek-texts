@@ -5,6 +5,7 @@ author: Ammonius of Alexandria Phil
 eul_wid: uqo-ae
 eul_aid: uqo
 canonical: "https://eulogikon.org/works/ammonius-alexandria-necessary-syllogisms-uqo-ae"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Ammonius of Alexandria Phil
 
 **eul_wid:** `uqo-ae` · [HTML page](https://eulogikon.org/works/ammonius-alexandria-necessary-syllogisms-uqo-ae)
-
-On Necessary Syllogisms is a lost treatise by the Neoplatonist philosopher Ammonius of Alexandria, representing the Alexandrian tradition of Aristotelian exegesis. The work functioned as a detailed commentary on Aristotle’s modal logic, specifically analyzing the structure and validity of syllogisms containing premises marked as necessary, a topic central to Aristotle’s Prior Analytics. Ammonius’s systematic examination focused on the logical operator of necessity, investigating which combinations of necessary and assertoric premises yield necessary conclusions and seeking to clarify ambiguous passages within Aristotle’s original treatment. The treatise is known only through a summary preserved in the Bibliotheca of the ninth-century scholar Photius, who records its title, notes it comprised forty sections, and mentions Ammonius’s stated intention to compose a companion work on possible syllogisms. The existence of this specialized logical study confirms the depth of Ammonius’s scholarly engagement with Aristotle’s Organon and illustrates the advanced role of formal logic within the Neoplatonic curriculum. Although the text itself does not survive, the logical doctrines of Ammonius, transmitted through his students, exerted a significant influence on subsequent philosophical traditions in the Byzantine, Syriac, and Arabic worlds.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Euripides
 eul_wid: cbm-bb
 eul_aid: cbm
 canonical: "https://eulogikon.org/works/euripides-helena-cbm-bb"
+lang: grc
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Euripides
 
 **eul_wid:** `cbm-bb` · [HTML page](https://eulogikon.org/works/euripides-helena-cbm-bb)
-
-Euripides' Helena is a tragedy first performed in Athens in 412 BCE. The play presents a radical revision of the Trojan War myth, written in Attic Greek verse. According to this version, the gods created a phantom likeness of Helen, which was taken to Troy by Paris, while the virtuous Helen herself was transported to Egypt under the protection of the prophet-king Proteus. The plot centers on her long wait for her husband, Menelaus, their joyful yet comical reunion after he is shipwrecked in Egypt, and their clever joint deception of the tyrannical king Theoclymenus, who desires to marry Helen. Their successful escape reunites the legitimate couple and restores Helen's reputation.
-
-The complete text survives through medieval manuscript transmission, most notably as part of a Byzantine triad of Euripidean plays used for educational purposes. Modern scholars frequently classify Helena alongside other late Euripidean works characterized as tragicomedies or romances, due to their adventurous plots, romantic elements, and relatively happy resolutions. It is widely interpreted as a work for an Athenian audience weary from the protracted Peloponnesian War, offering both entertainment and a profound critique of the futility of waging war over an illusion. The play's exploration of themes such as mistaken identity, female virtue, and persuasive rhetoric significantly influenced later comic playwrights and contributed to the thematic development of the ancient novel.
 
 ## Text
 
@@ -65,6 +62,8 @@ The complete text survives through medieval manuscript transmission, most notabl
 ### 5.5
 
 Θεοκλύμενον ἄρσεν’ [ὅτι δὴ θεοὺς σέβων
+
+*[crux: ὅτι δὴ]*
 
 ### 10.1
 
@@ -682,6 +681,8 @@ The complete text survives through medieval manuscript transmission, most notabl
 
 γόοις μόλοιτ’ ἔχουσαι Λίβυν
 
+*[crux: γόοις]*
+
 ### 171a
 
 λωτὸν ἢ σύριγγας ἢ
@@ -709,6 +710,8 @@ The complete text survives through medieval manuscript transmission, most notabl
 ### 175.1
 
 Φερσέφασσα φονία χάριτας
+
+*[crux: φονία χάριτας]*
 
 ### 175.2
 
@@ -742,6 +745,8 @@ The complete text survives through medieval manuscript transmission, most notabl
 
 πέπλους χρυσέαισιν αὐγαῖς
 
+*[crux: πέπλους]*
+
 ### 182b
 
 θάλπουσ’
@@ -770,9 +775,13 @@ The complete text survives through medieval manuscript transmission, most notabl
 
 οἷα Ναῒς ὄρεσι φυγάδα
 
+*[crux: φυγάδα]*
+
 ### 188.1
 
 γάμων ἱεῖσα γοερόν, ὑπὸ δὲ
+
+*[crux: ἱεῖσα]*
 
 ### 188.2
 
@@ -1222,6 +1231,8 @@ The complete text survives through medieval manuscript transmission, most notabl
 
 σμικρὸν δ’ ὁ καιρὸς ἄρτ’ ἀπαλλάξαι βίου.]
 
+*[crux: ἄρτ’]*
+
 ### 295.8
 
 ἐς γὰρ τοσοῦτον ἤλθομεν βάθος κακῶν·
@@ -1406,6 +1417,8 @@ The complete text survives through medieval manuscript transmission, most notabl
 
 ἅδε μοι τί τάδ’ ἀσύνετα,
 
+*[crux: ἅδε μοι τί τάδ’ ἀσύνετα]*
+
 ### 353a
 
 φόνιον αἰώρημα
@@ -1470,6 +1483,8 @@ The complete text survives through medieval manuscript transmission, most notabl
 
 ἄχεά τ’ ἄχεσι δάκρυα δάκρυσιν ἔλαβε πάθεα,
 
+*[crux: ἄχεά τ’ ἄχεσι δάκρυα δάκρυσιν ἔλαβε πάθεα]*
+
 ### 365.3
 
 ματέρες τε παῖδας ὄλεσαν, ἀπὸ δὲ παρθένοι κόμας ἔ‐
@@ -1526,6 +1541,8 @@ The complete text survives through medieval manuscript transmission, most notabl
 
 ὄμματι λάβρωι σχῆμα λεαίνης
 
+*[crux: ὄμματι λάβρωι σχῆμα λεαίνης]*
+
 ### 380.1
 
 ἐξαλλάξας’ ἄχθεα λύπας·
@@ -1566,9 +1583,13 @@ The complete text survives through medieval manuscript transmission, most notabl
 
 εἴθ’ ὤφελες τόθ’ [ἡνίκ’ ἔρανον εἰς θεοὺς
 
+*[crux: τόθ’]*
+
 ### 386.4
 
 πεισθεὶς ἐποίεις] ἐν θεοῖς λιπεῖν βίον,
+
+*[crux: λιπεῖν]*
 
 ### 390.1
 
@@ -1774,6 +1795,8 @@ The complete text survives through medieval manuscript transmission, most notabl
 
 Με. ὦ γραῖα, ταῦτα ταῦτ’ ἔπη καλῶς λέγεις
 
+*[crux: ταῦτα ταῦτ’ ἔπη καλῶς λέγεις]*
+
 ### 440.3
 
 ἔξεστι, πείσομαι γάρ· ἀλλ’ ἄνες χόλου.
@@ -1801,6 +1824,8 @@ The complete text survives through medieval manuscript transmission, most notabl
 ### 445.4
 
 Γρ. πικρῶς ἂν οἶμαί γ’ ἀγγελεῖν τοὺς σοὺς λόγους.
+
+*[crux: ἂν οἶμαί γ’ ἀγγελεῖν]*
 
 ### 445.5
 
@@ -2526,6 +2551,8 @@ The complete text survives through medieval manuscript transmission, most notabl
 
 ἔχω τὰ τοῦ Διὸς λέκτρα Λήδας τε.
 
+*[crux: ἔχω τὰ τοῦ Διὸς λέκτρα Λήδας τε.]*
+
 ### 635.4
 
 Ελ. ἃν ὑπὸ λαμπάδων κόροι λεύκιπποι
@@ -2682,6 +2709,8 @@ The complete text survives through medieval manuscript transmission, most notabl
 
 Με. τὰ δ’ εἰς κρίσιν σοι τῶνδ’ ἔθηχ’ Ἥρα κακῶν;
 
+*[crux: τὰ δ’ εἰς κρίσιν σοι τῶνδ’ ἔθηχ’ Ἥρα κακῶν;]*
+
 ### 680.1
 
 Ελ. Πάριν ὡς ἀφέλοιτο ... Με. πῶς; αὔδα.
@@ -2725,6 +2754,8 @@ The complete text survives through medieval manuscript transmission, most notabl
 ### 690.1
 
 γάμον ἄγαμον αἰσχύνα.
+
+*[crux: αἰσχύνα]*
 
 ### 690.2
 
@@ -3558,6 +3589,8 @@ The complete text survives through medieval manuscript transmission, most notabl
 
 [ἐατέος δ’ ὁ πλοῦτος ἄδικός τις ὤν·
 
+*[crux: ἄδικός τις ὤν]*
+
 ### 905.2
 
 κοινὸς γάρ ἐστιν οὐρανὸς πᾶσιν βροτοῖς
@@ -3677,6 +3710,8 @@ The complete text survives through medieval manuscript transmission, most notabl
 ### 935.2
 
 κεἰ μὲν θανὼν ὅδ’ ἐν πυρᾶι κατεσφάγη,
+
+*[crux: κατεσφάγη]*
 
 ### 935.3
 
@@ -3825,6 +3860,8 @@ The complete text survives through medieval manuscript transmission, most notabl
 ### 970.5
 
 κρείσσω φανεῖσαν τἄμ’ ἀποδοῦναι λέχη.
+
+*[crux: τἄμ’ ἀποδοῦναι]*
 
 ### 975.1
 
@@ -4262,6 +4299,8 @@ The complete text survives through medieval manuscript transmission, most notabl
 
 παρῆιδί τ’ ὄνυχα φόνιον ἐμβαλῶ χροός.
 
+*[crux: χροός]*
+
 ### 1090.1
 
 μέγας γὰρ ἁγὼν καὶ βλέπω δύο ῥοπάς·
@@ -4498,6 +4537,8 @@ The complete text survives through medieval manuscript transmission, most notabl
 
 τί τὸ σαφὲς ὅτι ποτ’ ἐν βροτοῖς τὸ τῶν θεῶν ἔπος ἀλαθὲς εὗρον.
 
+*[crux: τί τὸ σαφὲς ὅτι ποτ’ ἐν βροτοῖς τὸ τῶν θεῶν ἔπος ἀλαθὲς εὗρον]*
+
 ### 1145.6
 
 ἄφρονες ὅσοι τὰς ἀρετὰς πολέμωι
@@ -4522,6 +4563,8 @@ The complete text survives through medieval manuscript transmission, most notabl
 
 αἳ Πριαμίδος γᾶς ἔλιπον θαλάμους,
 
+*[crux: αἳ Πριαμίδος γᾶς ἔλιπον θαλάμους]*
+
 ### 1157.3
 
 ἐξὸν διορθῶσαι λόγοις
@@ -4538,9 +4581,13 @@ The complete text survives through medieval manuscript transmission, most notabl
 
 τείχεα δὲ φλογερὸς ὥστε Διὸς ἐπέσυτο φλόξ,
 
+*[crux: φλογερὸς]*
+
 ### 1160.4
 
 ἐπὶ δὲ πάθεα πάθεσι φέρεις ἀθλίοις συμφοραῖς αἰλίνοις.
+
+*[crux: ἀθλίοις συμφοραῖς αἰλίνοις]*
 
 ### 1165
 
@@ -4785,6 +4832,8 @@ The complete text survives through medieval manuscript transmission, most notabl
 ### 1225.1
 
 Ελ. φίλος γάρ ἐστιν ὅς ποτ’ ἐστὶν ἐνθάδ’ ὤν.
+
+*[crux: ἐστιν ὅς ποτ’ ἐστὶν ἐνθάδ’ ὤν]*
 
 ### 1225.2
 
@@ -5138,6 +5187,8 @@ The complete text survives through medieval manuscript transmission, most notabl
 
 μετὰ κουρᾶν δ’
 
+*[crux: μετὰ κουρᾶν δ’]*
+
 ### 1314b
 
 〈–〉 ἀελλόποδες,
@@ -5173,6 +5224,8 @@ The complete text survives through medieval manuscript transmission, most notabl
 ### 1320.2
 
 ματεύουσα πόνους
+
+*[crux: πόνους]*
 
 ### 1320.3
 
@@ -5270,6 +5323,8 @@ The complete text survives through medieval manuscript transmission, most notabl
 
 λύπαν ἐξαλλάξατ’ ἀλαλᾶι
 
+*[crux: λύπαν ἐξαλλάξατ’]*
+
 ### 1345.1
 
 Μοῦσαί θ’ ὕμνοισι χορῶν.
@@ -5301,6 +5356,8 @@ The complete text survives through medieval manuscript transmission, most notabl
 ### 1345.8
 
 ὧν οὐ θέμις οὔθ’ ὅσια
+
+*[crux: ὧν]*
 
 ### 1345.9
 
@@ -5354,6 +5411,8 @@ The complete text survives through medieval manuscript transmission, most notabl
 
 εὖ δέ νιν ἄμασιν
 
+*[crux: εὖ]*
+
 ### 1365.3
 
 ὑπέρβαλε σελάνα
@@ -5381,6 +5440,8 @@ The complete text survives through medieval manuscript transmission, most notabl
 ### 1370.4
 
 οὔ φησιν αὐγὰς εἰσορᾶν ἐμὴν χάριν. κάλλιστα δῆτ’ ἀνήρπασεν ἐν τύχη πόσις·
+
+*[crux: δῆτ’ ἀνήρπασεν ἐν τύχη]*
 
 ### 1375.1
 
@@ -5569,6 +5630,8 @@ The complete text survives through medieval manuscript transmission, most notabl
 ### 1420.3
 
 Ελ. ἔστιν τι κἀκεῖ κἀνθάδ’ ὧν ἐγὼ λέγω.
+
+*[crux: ἔστιν τι κἀκεῖ κἀνθάδ’ ὧν ἐγὼ λέγω.]*
 
 ### 1420.4
 
@@ -5762,9 +5825,13 @@ The complete text survives through medieval manuscript transmission, most notabl
 
 τροχῶ τέρμονι δίσκου
 
+*[crux: τροχῶ τέρμονι δίσκου]*
+
 ### 1470.4
 
 ἔκανε Φοῖβος, τᾶ Λακαί‐
+
+*[crux: τᾶ]*
 
 ### 1470.5
 
@@ -5777,6 +5844,8 @@ The complete text survives through medieval manuscript transmission, most notabl
 ### 1475.2
 
 μόσχον θ’ ἃν λίποιτ’ οἴκοις
+
+*[crux: λίποιτ’ οἴκοις]*
 
 ### post 1476
 
@@ -5922,6 +5991,8 @@ The complete text survives through medieval manuscript transmission, most notabl
 
 ἄναξ, τὰ κάκιστ’ ἐν δόμοις ηὑρήκαμεν·
 
+*[crux: ἄναξ, τὰ κάκιστ’ ἐν δόμοις ηὑρήκαμεν·]*
+
 ### 1512.2
 
 ὡς καίν’ ἀκούσηι πήματ’ ἐξ ἐμοῦ τάχα.
@@ -6009,6 +6080,10 @@ The complete text survives through medieval manuscript transmission, most notabl
 ### 1535.1
 
 ταρσόν τε χειρὶ λευκά θ’ ἱστί’ εἰς ἓν ἦν
+
+*[crux: ταρσόν τε χειρὶ]*
+
+*[crux: εἰς ἓν ἦν]*
 
 ### 1535.2
 
@@ -6118,9 +6193,13 @@ The complete text survives through medieval manuscript transmission, most notabl
 
 ἐς πρῶιραν ἐμβαλεῖτε φάσγανόν θ’ ἅμα
 
+*[crux: φάσγανόν]*
+
 ### 1560.5
 
 πρόχειρον ὤσει σφάγια τῶι τεθνηκότι;
+
+*[crux: σφάγια]*
 
 ### 1565.1
 
@@ -6221,6 +6300,8 @@ The complete text survives through medieval manuscript transmission, most notabl
 ### 1590.1
 
 πάλιν πλέωμεν ἀξίαν κέλευε σύ,
+
+*[crux: ἀξίαν]*
 
 ### 1590.2
 
@@ -6586,6 +6667,8 @@ The complete text survives through medieval manuscript transmission, most notabl
 
 τοὺς εὐγενεῖς γὰρ οὐ στυγοῦσι δαίμονες, τῶν δ’ ἀναριθμήτων μᾶλλον εἰσιν οἱ πόνοι.
 
+*[crux: εἰσιν οἱ πόνοι]*
+
 ### 1680.1
 
 Θε. ὦ παῖδε Λήδας καὶ Διός, τὰ μὲν πάρος
@@ -6609,6 +6692,8 @@ The complete text survives through medieval manuscript transmission, most notabl
 ### 1685.1
 
 γεγῶτ’ ἀδελφῆς ὁμογενοῦς ἀφ’ αἵματος.
+
+*[crux: γεγῶτ’ ἀδελφῆς ὁμογενοῦς ἀφ’ αἵματος]*
 
 ### 1685.2
 

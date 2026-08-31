@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-aw
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-monarchy-democracy-oligarchy-okg-aw"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-aw` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-monarchy-democracy-oligarchy-okg-aw)
-
-_On Monarchy, Democracy, and Oligarchy_ is a fragmentary prose essay attributed to Plutarch of Chaeronea. It survives not as a complete treatise but as seven excerpts preserved in the 5th-century CE _Anthology_ of the Byzantine scholar Stobaeus. These fragments present arguments on the three classical forms of constitution, likely as part of Plutarch’s broader project examining the application of philosophy to governance. The extant passages engage with core themes of Greek political philosophy, including the comparative virtues and vices of monarchy, democracy, and oligarchy, the corruption of these forms into tyranny, mob rule, and oligarchic faction, and the role of individual virtue and character within different political systems. The work is lost in its original form, and its survival depends entirely on Stobaeus’s anthology, a florilegium compiled for educational purposes, which captured these fragments from the larger, now missing, text. While the fragmentary state obscures its original scope, the work fits within Plutarch’s influential ethical and political writings. As part of the Plutarchan corpus, its ideas on comparative constitutions contributed indirectly to the Western tradition of political thought, which drew heavily on his works in later periods.
 
 ## Text
 

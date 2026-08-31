@@ -5,6 +5,7 @@ author: John of Caesarea in Palestine
 eul_wid: uxw-ad
 eul_aid: uxw
 canonical: "https://eulogikon.org/works/john-caesarea-palestine-against-manichaeans-1-uxw-ad"
+lang: grc
 period: Late Antique
 dialect: Christian Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** John of Caesarea in Palestine
 
 **eul_wid:** `uxw-ad` · [HTML page](https://eulogikon.org/works/john-caesarea-palestine-against-manichaeans-1-uxw-ad)
-
-_Against the Manichaeans, Homily 1_ is a polemical treatise by John of Caesarea in Palestine, directed against the doctrines of Manichaeism. This dualist religion, founded by the prophet Mani, posed a significant theological challenge to early Christian orthodoxy, and John’s homily forms part of the broader corpus of anti-Manichaean literature produced by the church. The work systematically refutes core Manichaean beliefs while articulating and defending orthodox Christian positions. Its arguments follow conventional lines of patristic polemic, addressing fundamental issues such as the rejection of metaphysical dualism and the associated Manichaean cosmogony. The homily vigorously defends the goodness of the created material world and the unity of the Creator God, countering the Manichaean depiction of creation as a product of cosmic conflict. It affirms the orthodox understanding of evil as a privation or corruption of the good, rather than as an independent, substantial force. Furthermore, the text critiques characteristic Manichaean ascetic practices and their distinctive, often allegorical, interpretation of scripture. While the specific manuscript tradition and preservation status of this homily are not widely detailed in general scholarly sources, and it is not typically ranked among the most prominent anti-Manichaean texts, its content exemplifies the crucial role such polemics played in the early church. Works like John’s were instrumental in defining and solidifying orthodox Christian doctrines concerning creation, divine unity, free will, and the nature of evil in opposition to dualist heresies.
 
 ## Text
 

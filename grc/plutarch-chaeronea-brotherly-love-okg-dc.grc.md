@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-dc
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-brotherly-love-okg-dc"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-dc` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-brotherly-love-okg-dc)
-
-On Brotherly Love is an ethical essay by the Greek philosopher and biographer Plutarch, composed in Attic Greek around 100 CE. The work is a practical guide dedicated to fostering harmony and affection between siblings, structured as a series of 81 concise passages. It eschews a rigid philosophical argument in favor of weaving together historical anecdotes, maxims, and direct advice. Plutarch opens by asserting the natural foundation of brotherly love, rooted in shared parentage and upbringing. He proceeds to diagnose common causes of sibling strife, including jealousy, disputes over inheritance, and pernicious outside influences, offering remedies aimed at preserving family concord. His points are illustrated with examples drawn from Greek history, mythology, and notable figures such as Pericles and Alexander the Great. Modern scholarship often interprets this focus on domestic harmony as a reflection of contemporary social values, wherein a stable household was viewed as the essential foundation for civic order. The essay is believed to have been intended for educated Greek elites navigating their roles within the Roman imperial system, blending philosophical ideals with pragmatic moral guidance. The text survives complete through the medieval manuscript tradition of Plutarch’s collected ethical works, known as the Moralia.
 
 ## Text
 

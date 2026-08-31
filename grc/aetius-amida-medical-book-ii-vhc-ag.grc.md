@@ -5,6 +5,7 @@ author: Aëtius of Amida
 eul_wid: vhc-ag
 eul_aid: vhc
 canonical: "https://eulogikon.org/works/aetius-amida-medical-book-ii-vhc-ag"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aëtius of Amida
 
 **eul_wid:** `vhc-ag` · [HTML page](https://eulogikon.org/works/aetius-amida-medical-book-ii-vhc-ag)
-
-Medical Book II constitutes the second volume of the Tetrabiblon, a comprehensive medical encyclopedia compiled in the sixth century CE by the Byzantine physician Aëtius of Amida. Written in Greek, this practical compendium systematically gathers and organizes medical knowledge drawn from earlier authorities such as Galen and Dioscorides. Its contents, as indicated by its detailed table, focus extensively on materia medica derived from the earth, including various types of soils, clays, and minerals. The work examines their different properties, preparation methods like washing, and their therapeutic applications. Specific entries cover well-known medicinal substances like Lemnian earth, Samian earth, and various stones such as hematite, magnetite, and emerald. This volume operates within the classical framework of humoral theory, serving as a detailed pharmacological reference.
-
-The encyclopedia was created during the reign of Emperor Justinian I, a period characterized by efforts to preserve and systematize classical knowledge. Modern scholars interpret Aëtius’s work as a practical digest intended for use by contemporary physicians, reflecting the late antique tradition of creating authoritative reference works. The complete Tetrabiblon survives intact in Greek manuscripts and was highly influential, being translated into Arabic and Latin. These translations ensured the transmission of this consolidated Greek medical knowledge through the Byzantine and Islamic worlds and into the Middle Ages.
 
 ## Text
 

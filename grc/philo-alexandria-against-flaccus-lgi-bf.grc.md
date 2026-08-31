@@ -5,6 +5,7 @@ author: Philo of Alexandria
 eul_wid: lgi-bf
 eul_aid: lgi
 canonical: "https://eulogikon.org/works/philo-alexandria-against-flaccus-lgi-bf"
+lang: grc
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philo of Alexandria
 
 **eul_wid:** `lgi-bf` · [HTML page](https://eulogikon.org/works/philo-alexandria-against-flaccus-lgi-bf)
-
-Against Flaccus is a historical and polemical treatise by the Jewish philosopher Philo of Alexandria, composed in Koine Greek shortly after the events it describes, likely between 38 and 41 CE. The work presents a detailed chronological narrative of the violent persecution of the Jewish community in Alexandria under the Roman prefect of Egypt, Aulus Avillius Flaccus. Philo provides a vivid account of mob violence, the desecration of synagogues, and the public humiliation of Jewish leaders during the pogrom of 38 CE. The complete text, structured in 152 sections, survives through medieval Greek manuscripts preserved by Christian scribes. Philo frames his narrative as a case study in divine justice, arguing that Flaccus’s cruel and unjust governance directly precipitated his dramatic downfall, arrest, and execution. Modern scholarship interprets the treatise as serving a dual purpose: it functions both as an apologetic historical record for the Jewish community and as a political indictment aimed at Roman authorities, illustrating the profound instability caused by a corrupt official. The work stands as an invaluable contemporary source on ethnic tensions and anti-Jewish violence in the early Roman Empire.
 
 ## Text
 

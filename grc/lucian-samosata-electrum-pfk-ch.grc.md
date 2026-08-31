@@ -5,6 +5,7 @@ author: Lucian of Samosata
 eul_wid: pfk-ch
 eul_aid: pfk
 canonical: "https://eulogikon.org/works/lucian-samosata-electrum-pfk-ch"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lucian of Samosata
 
 **eul_wid:** `pfk-ch` · [HTML page](https://eulogikon.org/works/lucian-samosata-electrum-pfk-ch)
-
-Electrum is a short prose encomium by the 2nd-century CE satirist and rhetorician Lucian of Samosata. This display piece of epideictic oratory takes amber as its subject, constructing a playful yet clever argument for the material's superiority over gold and gems. Lucian opens by humorously dismissing the poetic myth that amber is the petrified tears of Phaethon's sisters, recounting a failed journey to find such weeping trees. He instead praises amber's natural origin, its warm color and luminosity—which he links to the sun—and its mysterious physical property of static electricity, noting its ability to attract lightweight objects when rubbed. The work is a product of the Second Sophistic, a cultural movement that revived classical Greek rhetoric within the Roman Empire. As one of Lucian's earlier rhetorical exercises, it was intended for a cultured, Greek-speaking audience appreciative of stylistic virtuosity and the witty treatment of unconventional topics. Modern scholars regard Electrum as a genuine example of Lucian's early style, illustrating the rhetorical techniques and intellectual playfulness characteristic of the period. The complete text has been preserved through medieval manuscripts as part of the larger Lucianic corpus.
 
 ## Text
 

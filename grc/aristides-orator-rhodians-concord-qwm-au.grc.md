@@ -5,6 +5,7 @@ author: Aristides the Orator
 eul_wid: qwm-au
 eul_aid: qwm
 canonical: "https://eulogikon.org/works/aristides-orator-rhodians-concord-qwm-au"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristides the Orator
 
 **eul_wid:** `qwm-au` · [HTML page](https://eulogikon.org/works/aristides-orator-rhodians-concord-qwm-au)
-
-To the Rhodians-Concord is a political oration by the Greek orator Aelius Aristides, composed and delivered in the city of Rhodes around 144–145 CE. The speech is a direct appeal for civic harmony, or homonoia, urging the Rhodians to resolve their internal political conflicts. Written in Attic Greek and structured according to classical rhetorical principles, the oration opens with the author’s apology for his physical absence, explaining that he sends his words in writing due to illness. It proceeds to recount the glorious history of Rhodes, arguing that the city’s current internal strife represents a betrayal of its noble past. Aristides employs historical examples of Rhodian diplomacy and independence to demonstrate that such discord threatens the city’s prosperity and its esteemed position within the Roman Empire. The speech concludes with a forceful appeal for unity, framing concord as both a moral duty and a practical necessity for survival.
-
-Modern scholarship interprets the oration as a characteristic diplomatic effort of the Second Sophistic period, wherein elite intellectuals intervened in the civic affairs of Greek cities to reinforce social order under Roman hegemony. Aristides’s arguments strategically appeal to a shared Greek heritage and historical memory, positioning himself as a concerned outsider whose status grants him the authority to counsel. The complete text survives through medieval manuscripts, primarily the 13th-century Codex Laurentianus and the 14th-century Codex Vaticanus, which transmit the bulk of Aristides’s works. As a key example of imperial-era rhetoric, To the Rhodians-Concord illustrates the continued public role of oratory in addressing the political and social concerns of Greek cities during the Roman imperial era.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Hippocrates of Chios
 eul_wid: cus-aa
 eul_aid: cus
 canonical: "https://eulogikon.org/works/hippocrates-chios-testimonies-cus-aa"
+lang: grc
 period: Classical
 dialect: Ionic
 domain: Mathematics
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hippocrates of Chios
 
 **eul_wid:** `cus-aa` · [HTML page](https://eulogikon.org/works/hippocrates-chios-testimonies-cus-aa)
-
-The Testimonies is a lost mathematical work by Hippocrates of Chios, known only through a handful of geometrical propositions preserved by later commentators. These fragments address the classical problems of squaring the circle and duplicating the cube. Hippocrates did not achieve the quadrature of the circle itself but made a significant breakthrough by demonstrating that certain lunules, or crescent-shaped figures bounded by circular arcs, could be squared. He proved, for instance, that a specific lune was equal in area to a triangle, constituting the first known quadrature of a curvilinear area. The work's content included the quadrature of lunules, the geometric transformation of curvilinear areas into rectilinear ones, foundational lemmas concerning circles and similar figures, and the important reduction of the problem of duplicating a cube to that of finding two mean proportionals between given lines. The original text is entirely lost; its substance survives through a chain of transmission in which Hippocrates's results were recorded in the lost History of Geometry by Eudemus of Rhodes, which was later reproduced by the sixth-century commentator Simplicius in his commentary on Aristotle's Physics. Hippocrates's Testimonies set a rigorous standard for geometric proof and was highly influential. His reduction of cube duplication became the standard approach for later mathematicians, and the work represents a critical precursor to the method of exhaustion, serving as a key source for understanding pre-Euclidean geometry.
 
 ## Text
 

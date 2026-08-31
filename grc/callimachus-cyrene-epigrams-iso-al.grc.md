@@ -5,6 +5,7 @@ author: Callimachus of Cyrene the Poet and Scholar
 eul_wid: iso-al
 eul_aid: iso
 canonical: "https://eulogikon.org/works/callimachus-cyrene-epigrams-iso-al"
+lang: grc
 period: Hellenistic
 dialect: Literary Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Callimachus of Cyrene the Poet and Scholar
 
 **eul_wid:** `iso-al` · [HTML page](https://eulogikon.org/works/callimachus-cyrene-epigrams-iso-al)
-
-The Epigrams constitute a collection of short, polished poems by the Hellenistic Greek poet and scholar Callimachus, who was active at the Library of Alexandria during the 3rd century BCE. Modern editions traditionally comprise 64 poems, which exemplify the epigram's evolution from a simple inscription into a sophisticated literary form. The poems engage with conventional themes such as love, death, and dedications to the gods, but are distinguished by their refined style, clever wit, and learned allusions. Several pieces articulate Callimachus's influential literary principles, advocating for concise, meticulously crafted poetry over lengthy epic compositions. The collection is not derived from a single authored book but is a modern compilation drawn primarily from the Greek Anthology, a vast Byzantine repository of Greek verse. Through this anthological tradition, the epigrams survive almost completely intact, unlike many of Callimachus's longer works, which exist only in fragments. Composed for a literate, courtly audience, these poems were profoundly influential; their emphasis on technical mastery, conciseness, and a personal voice directly shaped the work of later Roman poets, including Catullus, Propertius, and Ovid.
 
 ## Text
 

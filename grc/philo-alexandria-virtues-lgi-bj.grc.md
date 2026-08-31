@@ -5,6 +5,7 @@ author: Philo of Alexandria
 eul_wid: lgi-bj
 eul_aid: lgi
 canonical: "https://eulogikon.org/works/philo-alexandria-virtues-lgi-bj"
+lang: grc
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philo of Alexandria
 
 **eul_wid:** `lgi-bj` · [HTML page](https://eulogikon.org/works/philo-alexandria-virtues-lgi-bj)
-
-On Virtues is a philosophical treatise by the Jewish philosopher Philo of Alexandria, composed in Greek around the middle of the first century CE. The work forms part of Philo’s expansive project to interpret and defend Mosaic law, presenting it as a coherent and superior ethical system. It is structured as a systematic examination of four principal virtues: courage, piety, humanity, and repentance. Philo’s method is not purely abstract; he grounds his philosophical discussion in narrative exegesis, illustrating each virtue through exemplary figures and stories drawn primarily from the Pentateuch. He argues that biblical patriarchs such as Abraham, Jacob, and Joseph perfectly embodied these ethical ideals and that the laws given through Moses command their cultivation.
-
-Philo carefully distinguishes his understanding of these virtues from common Greek conceptions, particularly redefining courage not as martial prowess but as a rational steadfastness of soul. His synthesis aims to demonstrate that the Jewish scriptural tradition enshrines the highest ethical principles recognized by Hellenistic philosophy, thereby positioning Judaism as a rational and universal way of life. The treatise, which survives complete in 185 modern editorial sections, was preserved by early Christian scholars who valued Philo’s allegorical interpretive methods. Its influence is evident in the works of later Christian thinkers such as Clement of Alexandria and Origen, who adopted similar strategies for reconciling scriptural authority with philosophical thought.
 
 ## Text
 

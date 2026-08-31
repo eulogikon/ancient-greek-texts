@@ -5,6 +5,7 @@ author: Euthydemus the Physician
 eul_wid: mas-aa
 eul_aid: mas
 canonical: "https://eulogikon.org/works/euthydemus-salted-fish-fisheries-mas-aa"
+lang: grc
 period: Hellenistic
 dialect: Technical Koine
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Euthydemus the Physician
 
 **eul_wid:** `mas-aa` · [HTML page](https://eulogikon.org/works/euthydemus-salted-fish-fisheries-mas-aa)
-
-_On Salted Fish and Fisheries_ is a fragmentary medical treatise attributed to Euthydemus the Physician. Surviving only as brief excerpts, the text addresses the dietary and medicinal properties of salted fish within the framework of ancient humoral theory. It examines the nutritional value and digestibility of various preserved fish, considering their role within a regulated medical regimen. The work also offers practical advice on preparation and consumption, including warnings about potential spoilage. While obscure and absent from standard histories of ancient medicine, the treatise exemplifies the detailed attention given to dietetics in Greco-Roman medical writing, analyzing a common staple of the Mediterranean diet. Its fragmentary nature suggests it was preserved within a later compilation, and its manuscript tradition remains unrecorded.
 
 ## Text
 

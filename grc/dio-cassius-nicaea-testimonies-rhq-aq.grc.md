@@ -5,6 +5,7 @@ author: Dio Cassius of Nicaea
 eul_wid: rhq-aq
 eul_aid: rhq
 canonical: "https://eulogikon.org/works/dio-cassius-nicaea-testimonies-rhq-aq"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Dio Cassius of Nicaea
 
 **eul_wid:** `rhq-aq` · [HTML page](https://eulogikon.org/works/dio-cassius-nicaea-testimonies-rhq-aq)
-
-The Testimonies is a minor collection of five passages attributed to the Roman historian Dio Cassius of Nicaea. It is not enumerated among his principal works and likely represents a fragmentary compilation, possibly consisting of source material or excerpts drawn from his more substantial but now lost writings. Dio Cassius is chiefly renowned for his monumental 80-book Roman History, a comprehensive narrative spanning from Rome's mythical origins to the early third century CE. The specific thematic content of the Testimonies is not recorded, but given the scope of Dio's major historical project, it may have touched upon his characteristic interests in political analysis of imperial power, military campaigns, provincial administration, and the biographical treatment of emperors. The precise transmission of this collection is obscure; it likely survives, as with many fragments of Dio's larger history, only through preservation within later Byzantine excerpting traditions, such as those of John Xiphilinus and John Zonaras. While the Testimonies itself possesses no documented independent influence, the broader historical corpus of Dio Cassius was of fundamental importance to Byzantine chroniclers and remains an indispensable source for modern scholarship on the first two centuries of the Roman Empire, especially regarding the transition from Republic to Principate.
 
 ## Text
 

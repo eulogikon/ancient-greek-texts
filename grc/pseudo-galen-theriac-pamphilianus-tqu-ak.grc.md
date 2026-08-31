@@ -5,6 +5,7 @@ author: Pseudo-Galen
 eul_wid: tqu-ak
 eul_aid: tqu
 canonical: "https://eulogikon.org/works/pseudo-galen-theriac-pamphilianus-tqu-ak"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Pseudo-Galen
 
 **eul_wid:** `tqu-ak` · [HTML page](https://eulogikon.org/works/pseudo-galen-theriac-pamphilianus-tqu-ak)
-
-On Theriac to Pamphilianus is an anonymous Greek medical treatise dedicated to an individual named Pamphilianus. Structured as an instructional letter, the work systematically details the preparation, ingredients, and therapeutic use of theriac, a complex medicinal compound revered in antiquity as a universal antidote and panacea. The text provides a specific recipe listing numerous components, including viper's flesh, opium, and dozens of herbs and spices. It meticulously describes the drug's compounding process, the required period of aging, and its applications both as a countermeasure against poisons and as a general prophylactic remedy. The treatise survives within medieval manuscripts containing Greek pharmacological texts and is preserved in modern scholarly collections. It stands as a representative example of the prolific ancient and Byzantine genre dedicated to theriac, contributing to the enduring pharmacological tradition of this compound, which remained a staple of official pharmacopoeias well into the 18th century and illustrates the transmission of complex recipe knowledge through Greek, Arabic, and Latin medical literature.
 
 ## Text
 

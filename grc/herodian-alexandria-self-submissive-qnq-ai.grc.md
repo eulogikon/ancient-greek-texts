@@ -5,6 +5,7 @@ author: Herodian of Alexandria
 eul_wid: qnq-ai
 eul_aid: qnq
 canonical: "https://eulogikon.org/works/herodian-alexandria-self-submissive-qnq-ai"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Herodian of Alexandria
 
 **eul_wid:** `qnq-ai` · [HTML page](https://eulogikon.org/works/herodian-alexandria-self-submissive-qnq-ai)
-
-On Self-Submissive and Nonsubmissive is a lost grammatical treatise by the second-century CE scholar Aelius Herodianus. Composed in technical Attic Greek prose, the work examines a specialized area of syntax, analyzing words categorized as either "self-submissive," meaning they are autonomously governed, or "nonsubmissive," meaning they are not governed by standard syntactic relationships. It represents a detailed, rule-based approach characteristic of the Alexandrian grammatical tradition. Herodian, the son of the grammarian Apollonius Dyscolus, worked in Rome under Emperor Marcus Aurelius. Modern scholarship interprets this treatise as part of his extensive project to systematize the rules of classical Greek, serving both advanced pedagogy and the Atticist cultural movement, which prized linguistic purity. The text does not survive independently but is known only through later references. Its reported structure, consisting of three passages, likely derives from excerpts preserved in Byzantine grammatical compilations and lexica. Despite its loss, Herodian's authoritative analyses on such technical points influenced Greek grammatical theory for centuries.
 
 ## Text
 

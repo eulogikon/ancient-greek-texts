@@ -5,6 +5,7 @@ author: Herodotus of Halicarnassus
 eul_wid: elu-aa
 eul_aid: elu
 canonical: "https://eulogikon.org/works/herodotus-halicarnassus-histories-elu-aa"
+lang: grc
 period: Classical
 dialect: Ionic
 domain: History
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Herodotus of Halicarnassus
 
 **eul_wid:** `elu-aa` · [HTML page](https://eulogikon.org/works/herodotus-halicarnassus-histories-elu-aa)
-
-The Histories of Herodotus of Halicarnassus is a foundational prose work composed in the Ionic Greek dialect during the fifth century BCE. Often regarded as the inaugural work of history in Western literature, its stated purpose is to preserve the memory of great and marvelous deeds and to explain the origins of the conflict between Greeks and non-Greeks. The central narrative recounts the rise of the Persian Empire and its climactic wars with the Greek city-states in the early fifth century. However, the work is equally celebrated for its expansive ethnographic and geographical digressions. Herodotus ranges far beyond the battlefield, documenting the customs, beliefs, and histories of the peoples across the known world, including the Egyptians, Scythians, Babylonians, and Lydians. The text is organized into nine books, a division attributed to later Hellenistic editors who named each book after one of the Muses.
-
-The Histories survives essentially complete through a robust medieval manuscript tradition, with the oldest substantial copies dating from the tenth century CE. Modern scholarship interprets the work not merely as a chronicle of events but as a pioneering inquiry into cultural difference, the causes of historical change, and the cyclical nature of human fortune and imperial hubris. Herodotus wrote for a broad Greek audience, weaving together personal observation, oral traditions, and earlier written accounts to create a complex tapestry that memorializes the achievements of both Greeks and barbarians. His methodology, which involves critical inquiry and the presentation of conflicting sources, along with his engaging narrative style, earned him his ancient title as the Father of History.
 
 ## Text
 

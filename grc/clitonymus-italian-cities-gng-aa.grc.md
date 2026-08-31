@@ -5,6 +5,7 @@ author: Clitonymus the Historian
 eul_wid: gng-aa
 eul_aid: gng
 canonical: "https://eulogikon.org/works/clitonymus-italian-cities-gng-aa"
+lang: grc
 period: Classical
 dialect: Attic (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Clitonymus the Historian
 
 **eul_wid:** `gng-aa` · [HTML page](https://eulogikon.org/works/clitonymus-italian-cities-gng-aa)
-
-The Fragments on Italian Cities is a lost prose work attributed to the otherwise unknown historian Clitonymus. It is known solely by its title and a description indicating it consisted of five passages concerning Italian cities. No direct quotations or substantive content from the work survive in the extant literary record. Based on its title and genre, the work likely addressed the geography, foundation myths, and local histories of various Italian cities, with probable emphasis on the customs and traditions of Greek settlements in Magna Graecia. The work is completely lost, with no known fragments, citations in surviving ancient literature, or manuscript tradition. Its existence is noted only in secondary sources, and it represents a minor, obscure entry within the broader tradition of Greek historiography and geographical writing about Italy. Its total loss underscores the fragmentary nature of the historical record for many minor works of antiquity.
 
 ## Text
 

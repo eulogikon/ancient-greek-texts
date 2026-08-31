@@ -5,6 +5,7 @@ author: Nicomachus of Gerasa
 eul_wid: owy-ad
 eul_aid: owy
 canonical: "https://eulogikon.org/works/nicomachus-gerasa-arithmetic-owy-ad"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Mathematics
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Nicomachus of Gerasa
 
 **eul_wid:** `owy-ad` · [HTML page](https://eulogikon.org/works/nicomachus-gerasa-arithmetic-owy-ad)
-
-The Arithmetic Problems is a fragmentary mathematical treatise attributed to the Neopythagorean scholar Nicomachus of Gerasa, who was active around 100 CE. Written in Koine Greek, this minor work stands in contrast to his major and systematic textbook, the Introduction to Arithmetic. It appears to have been a collection of specific numerical puzzles and exercises, likely organized as a series of distinct problems. Its content probably applied the theoretical principles from his Introduction to practical or illustrative cases, exploring concepts such as ratios, figurate numbers, and the properties of even, odd, and perfect numbers, thereby reflecting the characteristic Neopythagorean fascination with numerology.
-
-Only a portion of the text survives today. It is known not as a complete book but through fragments and references preserved in later Byzantine commentaries and scholia. The recoverable text consists of five identifiable passages, which represent the extant material gleaned from these indirect sources. Modern scholars interpret the work as a likely supplementary or pedagogical text, designed to deepen a student's understanding of arithmetic through active problem-solving. Due to its fragmentary state, its direct influence is difficult to trace, and it was vastly overshadowed by the enduring legacy and widespread use of Nicomachus's foundational Introduction to Arithmetic.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Lysias the Orator
 eul_wid: ejc-ad
 eul_aid: ejc
 canonical: "https://eulogikon.org/works/lysias-against-indictment-weak-ejc-ad"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lysias the Orator
 
 **eul_wid:** `ejc-ad` · [HTML page](https://eulogikon.org/works/lysias-against-indictment-weak-ejc-ad)
-
-Against the Indictment-Not Giving Money to the Weak is a forensic oration composed by the Attic logographer Lysias, dating to the early fourth century BCE. The speech survives only in fragmentary form, with twenty-six excerpts preserved through quotations in the lexicographical works of later grammarians such as Harpocration and Pollux. It constitutes the defense for a wealthy resident alien, likely named Polystratus, who faced a public indictment for allegedly failing to meet his financial obligations toward disabled citizens or war invalids, a form of liturgic duty expected of prosperous metics in Athens. The surviving proem reveals the defendant’s rhetorical strategy: he expresses ironic gratitude to his accuser for providing an opportunity to publicly account for his life, asserts that the charge stems from envy rather than fact, and emphasizes that his personal conduct and civic worth have been exemplary despite any physical misfortunes. The speech provides significant insight into the legal and social pressures on metics in the post-Peloponnesian War period, a time of democratic restoration and economic difficulty, when wealthy non-citizens were often called upon to fund public services and could be vulnerable to malicious prosecution. As a source, the fragments are valuable for the study of Athenian law, social welfare practices, and the tactical use of character defense in classical Athenian oratory.
 
 ## Text
 

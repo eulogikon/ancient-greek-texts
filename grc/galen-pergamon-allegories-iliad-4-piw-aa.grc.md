@@ -5,6 +5,7 @@ author: Galen of Pergamon II
 eul_wid: piw-aa
 eul_aid: piw
 canonical: "https://eulogikon.org/works/galen-pergamon-allegories-iliad-4-piw-aa"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Galen of Pergamon II
 
 **eul_wid:** `piw-aa` · [HTML page](https://eulogikon.org/works/galen-pergamon-allegories-iliad-4-piw-aa)
-
-The Allegories on Homer’s Iliad is a lost treatise by the physician and philosopher Galen of Pergamon. Its existence is recorded in the Byzantine encyclopedia known as the Suda, which lists it among his works. While the full text does not survive, a fragment attributed to Galen provides insight into its method and purpose. This fragment presents an allegorical interpretation of a specific passage from Book 4 of the Iliad, where the gods feast on Olympus. The author argues that Homer, as a master of wisdom, conceals profound truths beneath the surface of his narrative, much as unappealing objects can be beautified with cosmetics. The treatise thus represents Galen’s engagement with the widespread Imperial practice of Homeric exegesis, employing allegorical reading—a technique favored by Stoic and Platonic philosophers—to extract philosophical, ethical, or psychological meaning from the epic. This work highlights the breadth of Galen’s intellectual pursuits beyond his primary medical corpus, placing him within a tradition that sought to reconcile canonical poetic texts with contemporary philosophical thought. The loss of the treatise is typical for Galen’s non-medical writings, which were not preserved by the medieval manuscript tradition that focused on conserving his medical works.
 
 ## Text
 

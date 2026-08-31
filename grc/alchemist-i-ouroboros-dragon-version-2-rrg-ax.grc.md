@@ -5,6 +5,7 @@ author: Alchemist I
 eul_wid: rrg-ax
 eul_aid: rrg
 canonical: "https://eulogikon.org/works/alchemist-i-ouroboros-dragon-version-2-rrg-ax"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alchemist I
 
 **eul_wid:** `rrg-ax` · [HTML page](https://eulogikon.org/works/alchemist-i-ouroboros-dragon-version-2-rrg-ax)
-
-The Ouroboros Dragon is a treatise attributed to an author known only as Alchemist I. While no such work is attested in the historical record, its title directly invokes the ouroboros, an ancient symbol of a serpent or dragon consuming its own tail. This motif was a prominent representation of cyclicality, unity, and self-reflexivity within Gnostic, Hermetic, and alchemical traditions. In alchemical contexts, it frequently symbolized nature's cyclical processes and the philosophical principle that the One is the All.
-
-Based on its title and the symbolic tradition it references, the treatise would likely engage with core alchemical concepts associated with the ouroboros. These include the themes of cyclicality and eternal return, the unity and self-sufficiency of the cosmos or prima materia, the fundamental operations of dissolution and reconstitution, and the mystical conjunction of opposites. No manuscripts, fragments, or direct references to this specific work have been identified, leaving its precise content a matter of speculation based on the symbolic lexicon of late antique alchemy. The significance of the title lies in its alignment with this profound symbolic tradition. The ouroboros itself was highly influential, appearing in the works of early alchemists such as Zosimus of Panopolis and later serving as an archetype of wholeness in modern analytical psychology.
 
 ## Text
 

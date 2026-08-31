@@ -5,6 +5,7 @@ author: Euclid of Alexandria
 eul_wid: iaw-an
 eul_aid: iaw
 canonical: "https://eulogikon.org/works/euclid-alexandria-elements-books-11-12-supplement-iaw-an"
+lang: grc
 period: Hellenistic
 dialect: Technical Koine
 domain: Mathematics
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Euclid of Alexandria
 
 **eul_wid:** `iaw-an` · [HTML page](https://eulogikon.org/works/euclid-alexandria-elements-books-11-12-supplement-iaw-an)
-
-This supplement preserves an alternate recension (recensio altera) of the solid-geometry portion of Euclid's Elements, spanning Book XI from proposition 36 through the end of Book XII. Rather than the whole treatise, it transmits a distinct textual tradition of the propositions on parallelepipeds, prisms, pyramids, cones, cylinders, and the sphere, including the method of exhaustion by which curved and rectilinear solids are compared. The sequence culminates in the celebrated theorem that spheres stand to one another in the triplicate ratio of their diameters — the proposition numbered XII.18 in the standard Heiberg edition, which in this recension appears as XII.17 (the immediately preceding proposition inscribes a polyhedron in the greater of two concentric spheres). Readers seeking the standard Heiberg numbering, in which the spheres theorem is a separately numbered XII.18, will find it in the complete Elements.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Philo of Alexandria
 eul_wid: lgi-bk
 eul_aid: lgi
 canonical: "https://eulogikon.org/works/philo-alexandria-flattery-virtue-lgi-bk"
+lang: grc
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philo of Alexandria
 
 **eul_wid:** `lgi-bk` · [HTML page](https://eulogikon.org/works/philo-alexandria-flattery-virtue-lgi-bk)
-
-The treatise known as Fragments on Flattery and Virtue is not documented within the established corpus of works by Philo of Alexandria. Philo’s extensive surviving writings primarily comprise allegorical commentaries on the Pentateuch and philosophical expositions that synthesize Jewish scripture with Greek thought, particularly Platonism and Stoicism. The title indicates a thematic focus on the ethical opposition between flattery, a destructive vice, and genuine virtue, a central concern in Philo’s moral philosophy. While no independent work by this precise name is attested, the subject matter is wholly consistent with his intellectual project. If authentic, such fragments would likely examine flattery as a corrupting social practice that obscures truth and undermines reason, contrasting it with virtue understood as a state of harmony with the divine Logos and the law of Moses. The work’s description as a collection of excerpts suggests it may be a compilation preserved through secondary sources, such as later anthologies or papyri. Although the direct influence of these specific fragments cannot be traced, Philo’s overarching endeavor to reconcile biblical revelation with Hellenic philosophy provided a crucial framework for early Christian theologians, including Clement of Alexandria and Origen, shaping the development of ethical and allegorical interpretation in the patristic tradition.
 
 ## Text
 

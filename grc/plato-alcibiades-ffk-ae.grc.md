@@ -5,6 +5,7 @@ author: Plato of Athens
 eul_wid: ffk-ae
 eul_aid: ffk
 canonical: "https://eulogikon.org/works/plato-alcibiades-ffk-ae"
+lang: grc
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plato of Athens
 
 **eul_wid:** `ffk-ae` · [HTML page](https://eulogikon.org/works/plato-alcibiades-ffk-ae)
-
-The _Alcibiades A_, also known as the _First Alcibiades_, is a Socratic dialogue traditionally ascribed to Plato. In this work, Socrates converses with the young and ambitious Athenian aristocrat Alcibiades, who is preparing to enter public life. Socrates argues that Alcibiades’ political aspirations are misguided because he lacks the necessary self-knowledge and has failed to cultivate his soul. The dialogue explores the meaning of the Delphic injunction to “know thyself,” interpreting this as an understanding of the soul as the essential self. This intellectual and moral preparation is presented as the only proper foundation for governance. The discussion concludes with Socrates consenting to become Alcibiades’ guide and teacher.
-
-Set around 432 BCE, the dialogue functions as a protreptic, or exhortation, steering Alcibiades toward philosophy as the prerequisite for political action. Its central themes include the nature of the soul and the pursuit of genuine self-knowledge, the paramount importance of caring for the soul over tending to the body or accumulating wealth, and a critique of conventional Athenian education which Socrates deems inadequate for producing just leaders. The work also examines the role of Socratic love as a pedagogical force that aims at the beloved’s moral improvement. Transmitted through the medieval manuscript tradition of Plato’s works, its authenticity, while accepted in antiquity, has been a subject of scholarly debate in the modern era. The _Alcibiades A_ held significant authority in later philosophical schools, particularly in Neoplatonism, where it was often regarded as the ideal introduction to Platonic philosophy and was placed first in the standard curriculum by the philosopher Iamblichus.
 
 ## Text
 

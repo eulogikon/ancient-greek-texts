@@ -1,10 +1,11 @@
 ---
 title: "Prooemium to Aratus' Phenomena"
 title_greek: Προοίμιον εἰς τὰ Φαινόμενα τοῦ Ἄρατου
-author: "Aratus Lives "
+author: Aratus Lives
 eul_wid: iru-ag
 eul_aid: iru
 canonical: "https://eulogikon.org/works/aratus-prooemium-phenomena-iru-ag"
+lang: grc
 period: Hellenistic
 dialect: Mixed Dialects
 domain: Biography
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Προοίμιον εἰς τὰ Φαινόμενα τοῦ Ἄρατου*
 
-**Author:** Aratus Lives 
+**Author:** Aratus Lives
 
 **eul_wid:** `iru-ag` · [HTML page](https://eulogikon.org/works/aratus-prooemium-phenomena-iru-ag)
-
-The Prooemium to Aratus' Phenomena is an anonymous Greek prose text that functions as a biographical introduction to the astronomical poem Phaenomena by Aratus of Soli. Composed in Koine Greek, it belongs to a genre of ancient "Lives of Aratus" that were transmitted alongside the poem in manuscripts. The work is organized into twenty-three concise sections, assembling various anecdotes concerning the poet's education, his philosophical affiliations, and his connections to royal patrons, most notably King Antigonus II Gonatas of Macedon. Its purpose was to furnish readers with essential context for the poem, a standard editorial practice in the Hellenistic and Roman Imperial periods. The compiled narratives seek to bolster Aratus's intellectual authority and associate his work with prestigious political power. Modern scholarship views the text as a product of ancient editorial conventions, likely created for students and general readers engaging with Aratus's influential work. The Prooemium survives in its entirety within the manuscript tradition of the Phaenomena, though its precise date of composition and original author remain unknown.
 
 ## Text
 

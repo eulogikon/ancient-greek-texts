@@ -5,6 +5,7 @@ author: Anaxicrates Historicus
 eul_wid: iio-aa
 eul_aid: iio
 canonical: "https://eulogikon.org/works/anaxicrates-argolic-histories-iio-aa"
+lang: grc
 period: Hellenistic
 dialect: Attic (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Anaxicrates Historicus
 
 **eul_wid:** `iio-aa` · [HTML page](https://eulogikon.org/works/anaxicrates-argolic-histories-iio-aa)
-
-The Argolic Histories is a lost Greek historical work attributed to Anaxicrates. Preserved only in three brief fragments transmitted by the sixth-century CE lexicographer Stephanus of Byzantium, it was a local history of the Argolid region in the northeastern Peloponnese. The surviving excerpts indicate a focus on local genealogy and mythology, such as the lineage of the early Argive king Phoroneus, and on regional topography, referencing places like Mideia and Lyrkeia and their heroic associations, including the hero Perseus. The title may suggest the work was an epitome or a collection of excerpts from a larger, now-lost account. As a fragmentary example of Greek local history, or horography, its primary value lies in its contribution to later antiquarian scholarship on the mythological traditions and historical geography of the Argolid.
 
 ## Text
 

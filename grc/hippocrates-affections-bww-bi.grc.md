@@ -5,6 +5,7 @@ author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-bi
 eul_aid: bww
 canonical: "https://eulogikon.org/works/hippocrates-affections-bww-bi"
+lang: grc
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hippocrates and the Hippocratic Corpus
 
 **eul_wid:** `bww-bi` · [HTML page](https://eulogikon.org/works/hippocrates-affections-bww-bi)
-
-On Affections is a medical treatise from the Hippocratic Corpus, a collection of ancient Greek works associated with the physician Hippocrates but written by multiple authors. Composed around 400 BCE in Ionic Greek, this practical handbook is structured as 46 concise chapters, each focusing on a specific ailment. It systematically covers internal diseases, with a primary emphasis on ailments of the digestive system, including conditions of the liver, spleen, and intestines, while also addressing issues such as consumption and hemorrhoids. The text promotes a rational, systematic method of diagnosis and therapy characteristic of Classical Greek medicine. Treatment heavily emphasizes regimen, including diet, exercise, and baths, and the use of drugs and purgatives, with surgery rarely mentioned. Modern scholars interpret the work as a prime example of the Cnidian school of medicine, known for classifying diseases by symptoms. It is thought to have been written for a dual audience; its opening states it is for laypeople to manage illnesses when a physician is unavailable, but it also serves as a guide for practicing doctors, reflecting a practical intent to disseminate medical knowledge. The complete text survives through the medieval manuscript tradition of the Hippocratic Corpus, notably in a key 10th- or 11th-century manuscript. As part of this foundational medical collection, its symptom-based approach and therapeutic principles influenced medical theory and practice for centuries.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Scythinus of Teos II
 eul_wid: fby-aa
 eul_aid: fby
 canonical: "https://eulogikon.org/works/scythinus-teos-testimonies-fby-aa"
+lang: grc
 period: Classical
 dialect: Ionic Iambic
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Scythinus of Teos II
 
 **eul_wid:** `fby-aa` · [HTML page](https://eulogikon.org/works/scythinus-teos-testimonies-fby-aa)
-
-The Testimonies of Scythinus of Teos is an exceedingly fragmentary didactic poem, known only through two later citations. The Suda, a tenth-century Byzantine encyclopedia, records that Scythinus wrote poems and Testimonies. The sole substantive fragment, preserved by the Neoplatonist philosopher Simplicius in his sixth-century commentary on Aristotle's Physics, reveals that Scythinus versified the philosophy of Heraclitus of Ephesus. The surviving evidence indicates the work contained a poetic exposition of Heraclitean doctrine, including concepts of perpetual change, the unity of opposites, and cosmological themes such as cosmic order and the primacy of fire. The work is lost and has no independent manuscript tradition, surviving solely through these testimonia. Scythinus's poem is a minor but notable artifact in the reception of pre-Socratic philosophy, exemplifying the ancient practice of rendering philosophical systems into verse. It is primarily of interest to historians of philosophy for its role in documenting the interpretation of Heraclitus in antiquity.
 
 ## Text
 

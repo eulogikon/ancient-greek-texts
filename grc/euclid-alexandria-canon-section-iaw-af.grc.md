@@ -5,6 +5,7 @@ author: Euclid of Alexandria
 eul_wid: iaw-af
 eul_aid: iaw
 canonical: "https://eulogikon.org/works/euclid-alexandria-canon-section-iaw-af"
+lang: grc
 period: Hellenistic
 dialect: Technical Koine
 domain: Mathematics
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Euclid of Alexandria
 
 **eul_wid:** `iaw-af` · [HTML page](https://eulogikon.org/works/euclid-alexandria-canon-section-iaw-af)
-
-The Section of the Canon is a lost mathematical treatise attributed to Euclid of Alexandria. Known only through later descriptions, it is believed to have addressed the mathematical principles underlying musical harmony, specifically the division of a monochord string to produce the consonant intervals of the musical scale. Its core subject was the expression of fundamental musical concords—the octave, fifth, and fourth—as simple numerical ratios of 2:1, 3:2, and 4:3 respectively, framing the problem as one of geometric or arithmetic division.
-
-The original Greek text has not survived. The most detailed account comes from the 9th-century Byzantine scholar Photius, who recorded that the work consisted of 21 sections and noted that doubts regarding its authenticity existed even in his own time. A related treatise on monochord division circulates in Arabic under Euclid’s name, though the precise connection between this version and the lost Greek original remains a subject of scholarly debate. The work illustrates Euclid’s engagement with mathematical harmonics, a field distinct from his foundational geometrical works. Its subject matter was integral to the medieval quadrivium, and if the Arabic version is indeed derived from it, the treatise played a role in transmitting the principles of Greek harmonic theory to the Islamic world and subsequently to medieval Europe.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Zeno of Citium
 eul_wid: ies-aa
 eul_aid: ies
 canonical: "https://eulogikon.org/works/zeno-citium-testimonies-fragments-ies-aa"
+lang: grc
 period: Hellenistic
 dialect: Ionic (frg)
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Zeno of Citium
 
 **eul_wid:** `ies-aa` · [HTML page](https://eulogikon.org/works/zeno-citium-testimonies-fragments-ies-aa)
-
-Testimonies and Fragments is the modern designation for the collected evidence pertaining to the teachings of Zeno of Citium, the founder of the Stoic school of philosophy. As no complete treatise written by Zeno survives, his doctrines are reconstructed exclusively from quotations and reports preserved by later Greek and Roman authors. These passages, numbering 338 in a standard modern compilation, are drawn from sources such as Diogenes Laertius, Cicero, Plutarch, and Stobaeus. The material encompasses the three principal divisions of Zeno’s system: logic, which includes his theory of knowledge; physics, detailing his conception of the universe as a rational, living entity governed by divine reason; and ethics, centered on the ideal of living in accordance with nature. The collection also contains biographical details, notably his instruction at the Stoa Poikile in Athens, from which his philosophical school derived its name. Modern scholarly editions organize this heterogeneous material thematically, as the original structure of Zeno’s lost works—which bore titles such as Republic and On the Universe—cannot be recovered. The transmission of his thought is entirely indirect, filtered through later writers who cited him often for polemical or expository purposes. Despite the fragmentary nature of the record, these testimonies and fragments establish the foundational principles of Stoicism, which were systematically elaborated by his successors and exerted a profound influence on Roman philosophy and subsequent Western intellectual history.
 
 ## Text
 

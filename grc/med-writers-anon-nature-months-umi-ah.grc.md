@@ -5,6 +5,7 @@ author: Medical Writers Anonymous
 eul_wid: umi-ah
 eul_aid: umi
 canonical: "https://eulogikon.org/works/med-writers-anon-nature-months-umi-ah"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Medical Writers Anonymous
 
 **eul_wid:** `umi-ah` · [HTML page](https://eulogikon.org/works/med-writers-anon-nature-months-umi-ah)
-
-_On the Nature of Twelve Months_ is an anonymous Greek medical treatise traditionally included within the Hippocratic Corpus, though catalogued as spurious. The text, structured in 49 passages, examines medical topics organized according to the twelve months of the year. Its thematic focus includes the influence of seasonal and monthly cycles on human physiology and disease, offering specific recommendations for regimen, such as diet and exercise, tailored to each period. It further explores correlations between meteorological or astrological conditions and health, reflecting broader Hellenistic medical thought. The treatise survives through the medieval manuscript tradition that preserved the Hippocratic Corpus. Its inclusion in this collection, despite its inauthentic attribution to Hippocrates, ensured its transmission as part of the broader medical canon. As a component of that corpus, the text contributed to ancient and later understandings of chronobiology—the relationship between time and health. It exemplifies the Hellenistic expansion of the Corpus and perpetuated theories of seasonal regimen within the enduring framework of Hippocratic medicine.
 
 ## Text
 

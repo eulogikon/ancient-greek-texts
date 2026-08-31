@@ -5,6 +5,7 @@ author: Socrates of Constantinople
 eul_wid: tga-aa
 eul_aid: tga
 canonical: "https://eulogikon.org/works/socrates-constantinople-ecclesiastical-history-tga-aa"
+lang: grc
 period: Late Antique
 dialect: Byzantine Christian
 domain: History
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Socrates of Constantinople
 
 **eul_wid:** `tga-aa` · [HTML page](https://eulogikon.org/works/socrates-constantinople-ecclesiastical-history-tga-aa)
-
-The Ecclesiastical History is a seven-book prose history of the Christian Church written in Greek by Socrates of Constantinople, also known as Socrates Scholasticus, during the mid-5th century, approximately between 439 and 450 CE. Designed as a continuation of the earlier ecclesiastical history by Eusebius of Caesarea, it chronicles events from the abdication of the emperors Diocletian and Maximian in 305 CE to the seventeenth consulship of Emperor Theodosius II in 439 CE. The work systematically integrates the narrative of church affairs with contemporary political history, detailing the reigns of Roman emperors, major theological controversies such as the Arian and Nestorian disputes, and the proceedings of significant church councils, including Nicaea and Constantinople.
-
-Socrates, a lay Christian residing in the imperial capital, is distinguished for his moderate and conciliatory tone, often criticizing violent religious extremism and aiming for a balanced account. His methodology is notably methodical, as he explicitly states his intention to rely on written documents and oral reports from informed witnesses rather than rhetorical embellishment. Modern scholars frequently note his sympathetic and fair-minded treatment of the Novatianist Christian sect, to which he may have belonged, and his critical use of sources such as official letters, conciliar acts, and imperial decrees. The history is structured into seven books, each covering a specific era from Constantine I to Theodosius II, and was intended for an educated audience of both clergy and laity in Constantinople.
-
-The complete text survives and became a standard historical source in the Byzantine world. It was widely circulated in Greek and translated into Latin, Syriac, and Armenian. Alongside the similar works of Sozomen and Theodoret, it was later compiled into a medieval textbook known as the Historia Tripartita, which secured its influence and use as a fundamental resource for ecclesiastical history for centuries.
 
 ## Text
 

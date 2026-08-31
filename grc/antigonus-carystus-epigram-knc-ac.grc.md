@@ -5,6 +5,7 @@ author: Antigonus of Carystus
 eul_wid: knc-ac
 eul_aid: knc
 canonical: "https://eulogikon.org/works/antigonus-carystus-epigram-knc-ac"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: Biography
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Antigonus of Carystus
 
 **eul_wid:** `knc-ac` · [HTML page](https://eulogikon.org/works/antigonus-carystus-epigram-knc-ac)
-
-The epigram of Antigonus of Carystus is a brief prose anecdote from the 3rd century BCE, preserved not as a metrical inscription but as a fragment of biographical writing. Though the original work of Antigonus is lost, the anecdote survives through its citation in Plutarch’s Life of Pericles, where it is presented as a source concerning the sculptor Phidias. The story recounts that Phidias, while crafting the colossal chryselephantine statue of Athena Parthenos for the Parthenon, included a small self-portrait among the figures carved in relief upon the goddess’s shield. When this act was discovered and he was accused of impiety for inserting his own image into a sacred object, Phidias offered a clever defense. He claimed the figure was not a portrait of himself but a likeness of the Athenian statesman Pericles, thus shifting the potential offense into an honor for the city’s leader. As a piece of Hellenistic biography, the anecdote belongs to a tradition of collected narratives that blended art historical detail, marvels, and moralizing tales for an educated readership. It is often interpreted as a commentary on the fraught relationship between artists and their powerful patrons, the assertion of artistic identity, and the rhetorical ingenuity required to navigate public scrutiny.
 
 ## Text
 

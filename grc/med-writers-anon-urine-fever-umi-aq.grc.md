@@ -5,6 +5,7 @@ author: Medical Writers Anonymous
 eul_wid: umi-aq
 eul_aid: umi
 canonical: "https://eulogikon.org/works/med-writers-anon-urine-fever-umi-aq"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Medical Writers Anonymous
 
 **eul_wid:** `umi-aq` · [HTML page](https://eulogikon.org/works/med-writers-anon-urine-fever-umi-aq)
-
-_On Urine in Fevers_ is a concise, anonymous Greek medical treatise focused on diagnostic uroscopy within the context of febrile diseases. Structured as five brief passages, it systematically correlates the color, consistency, and clarity of urine with prognostic judgments about a fever's course, operating within the framework of humoral theory. The work describes urinary characteristics such as thickness, sediment, and hue, interpreting them as signs of internal humoral imbalance. Each observation is linked to a clinical prognosis, offering a practical guide for assessing patients, and includes specific therapeutic recommendations like diet and phlebotomy based on the urinary signs observed. Preserved within the larger Hippocratic corpus, the text survives in medieval manuscripts alongside other minor technical works. It is considered spurious and was likely copied for its utility as a clinical handbook within later medical compendia. The treatise exemplifies the granular, practical knowledge of ancient diagnostic technique. While not a landmark text, it contributed to the enduring tradition of uroscopy, with its methods absorbed and expanded by later Roman, Byzantine, and Islamic medical writers.
 
 ## Text
 

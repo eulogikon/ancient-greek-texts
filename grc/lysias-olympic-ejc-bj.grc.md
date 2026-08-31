@@ -5,6 +5,7 @@ author: Lysias the Orator
 eul_wid: ejc-bj
 eul_aid: ejc
 canonical: "https://eulogikon.org/works/lysias-olympic-ejc-bj"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lysias the Orator
 
 **eul_wid:** `ejc-bj` · [HTML page](https://eulogikon.org/works/lysias-olympic-ejc-bj)
-
-The Olympic is a fragmentary showpiece oration attributed to the Athenian logographer Lysias. The complete text is lost, with its content known only through eight brief passages preserved by later authors, most notably the critic Dionysius of Halicarnassus. Dionysius quoted these excerpts not for their political content but to illustrate Lysias's characteristically clear and unadorned prose style. The speech is traditionally dated to around 388 BCE and is believed to have been composed for delivery at the Olympic Games. Its surviving fragments indicate it was a political exhortation, urging the assembled Greek city-states to set aside their rivalries and unite against common external threats, specifically the expanding power of Dionysius I, the tyrant of Syracuse, and the perennial menace of the Persian Empire. The speech thus stands as a significant literary exemplar of Panhellenic ideology from the early fourth century BCE, a period of Spartan hegemony following the Peloponnesian War. Its historical survival is owed entirely to its subsequent utility in the tradition of ancient literary criticism rather than to any documented political influence it exerted at the time of its delivery.
 
 ## Text
 

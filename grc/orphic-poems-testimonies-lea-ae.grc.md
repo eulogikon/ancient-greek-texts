@@ -1,10 +1,11 @@
 ---
 title: Testimonies
 title_greek: Μαρτυρίαι
-author: "Orphic Poems "
+author: Orphic Poems
 eul_wid: lea-ae
 eul_aid: lea
 canonical: "https://eulogikon.org/works/orphic-poems-testimonies-lea-ae"
+lang: grc
 period: Hellenistic
 dialect: Epic (Homeric)
 domain: Philosophy
@@ -16,15 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μαρτυρίαι*
 
-**Author:** Orphic Poems 
+**Author:** Orphic Poems
 
 **eul_wid:** `lea-ae` · [HTML page](https://eulogikon.org/works/orphic-poems-testimonies-lea-ae)
-
-The Testimonies is a modern scholarly designation for a collection of twenty-five fragmentary passages attributed to the corpus of Orphic poems. This corpus comprises a vast and heterogeneous body of hexameter poetry, composed between the sixth century BCE and later antiquity, and ascribed to the mythical singer Orpheus or his followers. The Testimonies themselves are not a single ancient work but a reconstructed compilation of quotations and doctrinal references preserved by later ancient authors, primarily philosophers, doxographers, and commentators. These passages collectively organize key tenets of Orphic thought, which was transmitted entirely indirectly; no complete Orphic poem survives intact.
-
-The content of these testimonia centers on several interconnected theological and philosophical themes. A primary focus is theogony and cosmogony, featuring accounts of divine generations that often originate from primordial Chronos, or Time, and include the myth of the dismemberment of the god Dionysus. Closely related is a distinctive doctrine concerning the nature of the soul, which is presented as immortal and divine but imprisoned within the mortal body as a punishment. This imprisonment necessitates a cycle of reincarnation. The fragments also address eschatology and ritual, providing descriptions of the underworld and prescribing elaborate purification rites and initiations designed to liberate the soul from the cycle of rebirth and secure a blessed afterlife.
-
-The transmission of these ideas is fragmentary and mediated entirely through the works of later writers, ranging from Classical philosophers like Plato to Neoplatonic commentators. The modern collection of twenty-five passages is an editorial reconstruction from these disparate references. The significance of the doctrines witnessed in the Testimonies is considerable. They exerted a profound influence on Platonic psychology and eschatology, were later systematized by Neoplatonists, and contributed to the development of Gnostic thought. For contemporary scholarship, these fragments are indispensable primary sources for any attempt to reconstruct the elusive religious and philosophical movement historically termed Orphism.
 
 ## Text
 

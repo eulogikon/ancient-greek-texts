@@ -5,6 +5,7 @@ author: Philonides the Comic Poet
 eul_wid: gdg-aa
 eul_aid: gdg
 canonical: "https://eulogikon.org/works/philonides-comic-vice-virtue-gdg-aa"
+lang: grc
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philonides the Comic Poet
 
 **eul_wid:** `gdg-aa` · [HTML page](https://eulogikon.org/works/philonides-comic-vice-virtue-gdg-aa)
-
-The Comic Fragments on Vice and Virtue is a modern scholarly assemblage of twenty-two passages attributed to the Athenian comic poet Philonides, a fifth-century BCE contemporary of Aristophanes. These excerpts, drawn from one or more of his lost plays, survive solely through their inclusion in the fifth-century CE Anthology compiled by Stobaeus, who selected and organized them for their thematic relevance to ethical concepts. The fragments engage with the central moral preoccupations of Old Comedy, offering satirical critiques of vice, such as cowardice and greed, while also presenting or parodying ideals of virtue and good citizenship. This social commentary is typically delivered through the genre's characteristic satire of contemporary figures and intellectual trends. The text's transmission depends entirely on the medieval manuscript tradition of Stobaeus's anthology, which preserved these lines for their value as moral exempla. Modern standard editions, such as the Poetae Comici Graeci, catalog the fragments. Their significance lies in expanding the limited corpus of Old Comedy beyond the works of its major surviving authors, providing crucial evidence for the genre's philosophical engagement with ethics and serving as comparative material for reconstructing the thematic scope of Philonides and his contemporaries.
 
 ## Text
 

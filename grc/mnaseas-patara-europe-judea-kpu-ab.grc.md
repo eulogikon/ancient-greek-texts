@@ -5,6 +5,7 @@ author: Mnaseas of Patara
 eul_wid: kpu-ab
 eul_aid: kpu
 canonical: "https://eulogikon.org/works/mnaseas-patara-europe-judea-kpu-ab"
+lang: grc
 period: Hellenistic
 dialect: Koine (frg)
 domain: Geography
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Mnaseas of Patara
 
 **eul_wid:** `kpu-ab` · [HTML page](https://eulogikon.org/works/mnaseas-patara-europe-judea-kpu-ab)
-
-Mnaseas of Patara, a Greek geographer of the 3rd century BCE and a student of Eratosthenes, authored a comprehensive geographical compendium, a Periegesis describing the known world of the Mediterranean. The modern title "Fragments on Europe and Judea" refers to the surviving excerpts from this lost work that pertain specifically to those regions. These fragments are preserved only through citations by later authors, most notably the Jewish historian Flavius Josephus, who quotes Mnaseas in his polemical work Against Apion in order to refute him. Other brief passages are found in scholia and lexicographical sources, such as those by Herodian and Theognostus, which preserve Mnaseas's mention of specific place names like Kandys.
-
-The content of these fragments exemplifies the core methodologies of Hellenistic geography, blending ethnographic description of foreign peoples with the cataloguing of places within a journey-based narrative framework. They incorporate local foundation myths and legends, treating them as part of the geographical record. The fragments concerning Judea are of particular historical significance, as they contain one of the earliest known non-Jewish references to the Temple in Jerusalem. However, Mnaseas's account is polemical, presenting a hostile and fantastical misrepresentation of Jewish worship. Following a trope that would recur in later anti-Jewish literature, he falsely claimed that the Jews venerated an ass's head within the Temple sanctuary, a story he attached to a fabricated tale of a man named Zabidon who supposedly stole a cult statue of Apollo.
-
-Despite their inaccuracies and hostile intent, these fragments provide crucial evidence for understanding the early contours of Graeco-Jewish relations and the origins of anti-Jewish sentiment in classical antiquity. Mnaseas's work represents an early ethnographic attempt to describe Judea, and its polemical content was deemed significant enough to require a detailed refutation by Josephus centuries later, attesting to its perceived influence on later perceptions of Jewish culture and religion.
 
 ## Text
 

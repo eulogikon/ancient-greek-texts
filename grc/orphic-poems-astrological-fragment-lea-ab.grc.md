@@ -1,10 +1,11 @@
 ---
 title: Astrological Fragment
 title_greek: Ἀστρολογικὸν Ἀπόσπασμα
-author: "Orphic Poems "
+author: Orphic Poems
 eul_wid: lea-ab
 eul_aid: lea
 canonical: "https://eulogikon.org/works/orphic-poems-astrological-fragment-lea-ab"
+lang: grc
 period: Hellenistic
 dialect: Epic (Homeric)
 domain: Philosophy
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀστρολογικὸν Ἀπόσπασμα*
 
-**Author:** Orphic Poems 
+**Author:** Orphic Poems
 
 **eul_wid:** `lea-ab` · [HTML page](https://eulogikon.org/works/orphic-poems-astrological-fragment-lea-ab)
-
-The Astrological Fragment is a brief verse composition traditionally ascribed to the ancient mythical poet Orpheus. It presents a series of eight oracular pronouncements on the influence of the zodiac, specifically the tropical signs of Capricorn and Cancer, upon human affairs. The text advises on auspicious and inauspicious actions to be taken when these signs are ascendant, warning against travel, initiating construction, or sowing conflict, while recommending certain commercial transactions. It blends practical astrological lore with a broader cosmological perspective, reflecting the principle of cosmic sympathy, wherein celestial motions are believed to govern terrestrial events and human destiny. The fragment survives not as an independent manuscript but through quotation by later philosophical authors, most significantly the 5th-century Neoplatonist Proclus, who cites it in his commentary on Plato’s Timaeus to lend archaic authority to the concept of a living, providential universe. Its transmission exemplifies the Hellenistic and Imperial practice of attributing specialized knowledge, such as astrology, to venerable figures like Orpheus to bolster its credibility. Cataloged as Orphic Fragment 338 in modern editions, the text is primarily significant for illustrating how late antique philosophers appropriated and synthesized earlier poetic traditions within their metaphysical systems.
 
 ## Text
 

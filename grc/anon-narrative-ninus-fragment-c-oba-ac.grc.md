@@ -5,6 +5,7 @@ author: Narrative Fiction Work Anonymous
 eul_wid: oba-ac
 eul_aid: oba
 canonical: "https://eulogikon.org/works/anon-narrative-ninus-fragment-c-oba-ac"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Fiction
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Narrative Fiction Work Anonymous
 
 **eul_wid:** `oba-ac` · [HTML page](https://eulogikon.org/works/anon-narrative-ninus-fragment-c-oba-ac)
-
-The Ninus Fragment is a papyrus fragment preserving a portion of an ancient Greek prose narrative and is considered one of the earliest surviving examples of the Greek novelistic genre. The text depicts episodes from the youth of the legendary Assyrian king Ninus, focusing on his military exploits and his romantic relationship with his cousin, Semiramis. The fragmentary narrative includes scenes of Ninus leading troops in battle and dialogue between Ninus and his aunt Derkeia, the mother of Semiramis, concerning love and marriage. The style emphasizes rhetorical elaboration and emotional intensity. The text survives on a single papyrus fragment, first published in 1893 and now housed in the Berlin Egyptian Museum. The fragment is damaged, preserving only two columns of text with significant gaps; the designation "Fragment C" likely refers to an editorial division within this material. This fragment is paramount for understanding the origins of the Greek novel, demonstrating that the genre's core elements of idealized love, adventure, and a pseudo-historical setting were established by at least the 1st century BCE or 1st century CE, earlier than the fully preserved novels. It also exemplifies the Greco-Roman literary adaptation of Near Eastern legend.
 
 ## Text
 

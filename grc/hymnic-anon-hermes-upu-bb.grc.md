@@ -5,6 +5,7 @@ author: Hymnic Collection  Anonymous
 eul_wid: upu-bb
 eul_aid: upu
 canonical: "https://eulogikon.org/works/hymnic-anon-hermes-upu-bb"
+lang: grc
 period: Classical
 dialect: Epic (Homeric)
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hymnic Collection  Anonymous
 
 **eul_wid:** `upu-bb` · [HTML page](https://eulogikon.org/works/hymnic-anon-hermes-upu-bb)
-
-The Hymn to Hermes, designated as Homeric Hymn 4, is an anonymous Greek narrative poem composed in dactylic hexameter. This 580-line work, dating from the late Archaic period around 520 BCE or shortly thereafter, forms part of the collection known as the Homeric Hymns. It recounts the mischievous infancy of the god Hermes, son of Zeus and the nymph Maia. On the day of his birth, the precocious infant invents the lyre by fitting strings across a tortoise shell and then steals the sacred cattle of his elder brother, Apollo. The narrative focuses on the ensuing conflict and reconciliation between the brothers, a negotiation through which Hermes formally acquires his divine domains. These established roles include messenger of the gods, conductor of souls to the underworld, and patron of travelers, commerce, thieves, and cunning intelligence. The hymn is characterized by its sophisticated and humorous tone, depicting Hermes as a divine trickster whose inventive genius and diplomatic skill secure his status among the Olympians. Such hymns were likely performed at religious festivals, often as preludes to the recitation of epic poetry. The complete text survives primarily in a 15th-century manuscript, the Codex Laurentianus 32.16, supplemented by earlier papyrus fragments.
 
 ## Text
 

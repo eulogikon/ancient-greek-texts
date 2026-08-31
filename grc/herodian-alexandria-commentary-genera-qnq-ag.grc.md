@@ -5,6 +5,7 @@ author: Herodian of Alexandria
 eul_wid: qnq-ag
 eul_aid: qnq
 canonical: "https://eulogikon.org/works/herodian-alexandria-commentary-genera-qnq-ag"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Herodian of Alexandria
 
 **eul_wid:** `qnq-ag` · [HTML page](https://eulogikon.org/works/herodian-alexandria-commentary-genera-qnq-ag)
-
-The To the Commentary-Genera by Apollonius is a grammatical treatise by the second-century CE scholar Herodian of Alexandria. It constitutes a critical commentary on the work On Genera by his father, the foundational grammarian Apollonius Dyscolus. The text, now lost and surviving only in fragments, addressed the systematic analysis of grammatical gender in Greek nouns. It analyzed the rules for determining whether nouns were masculine, feminine, or neuter, providing scholarly exegesis and refinement of Apollonius Dyscolus’s grammatical theories. The work exemplifies the Alexandrian tradition’s core concern with examining linguistic regularity and exception. Preserved only through fragments and later references, such as a mention in the tenth-century Byzantine encyclopedia the Suda, its contents were likely absorbed into subsequent grammatical compilations and scholia, with only a few passages currently attested. As part of Herodian’s extensive engagement with his father’s work, this treatise helped solidify the technical framework of Greek grammar. Herodian’s writings became standard authorities for centuries, ensuring the transmission and refinement of Apollonius’s systematic approach within the Byzantine educational system and the broader history of linguistics.
 
 ## Text
 

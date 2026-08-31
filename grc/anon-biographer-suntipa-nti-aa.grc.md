@@ -5,6 +5,7 @@ author: Biographer Anonymous
 eul_wid: nti-aa
 eul_aid: nti
 canonical: "https://eulogikon.org/works/anon-biographer-suntipa-nti-aa"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Biography
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Biographer Anonymous
 
 **eul_wid:** `nti-aa` · [HTML page](https://eulogikon.org/works/anon-biographer-suntipa-nti-aa)
-
-The Book of Suntipa, formally known as the Historikon Suntipa tou Philosophou Oraiotaton Pany, is a prose biography consisting of fifty-two passages. It chronicles the life of a philosopher distinguished by the epithet "the Most Beautiful Pan." The work presents itself as a focused biographical account, though the precise identity of its subject and the meaning of the name "Suntipa" remain undefined. The narrative is framed as a philosophical history, translated from a Syrian book into the Greek language. It recounts the story of Cyrus, the king of the Persians, his genuine son, and their teacher Suntipa, alongside the king's seven philosophers and his one wicked and shameless wife, detailing how the stepmother fabricated a slander against the king's son. This philosophical tale was originally set forth by a Persian named Musos for the benefit of its readers. The text begins with King Cyrus, who had seven wives but was childless; after fervent prayer, he was granted a son. The king raised him in a royal manner and provided an education, and the child grew excellently with age. When the son reached the end of his early youth, the king entrusted him to a teacher so that he might become accomplished in sophistic learning. The unusual central epithet of the philosopher suggests a potentially symbolic or allegorical dimension to the subject. The work is absent from standard catalogs of ancient Greek literature, and its manuscript tradition and preservation status are unknown. As such, the Book of Suntipa represents a fragmentary artifact of the biographical tradition. Its unique title and the distinctive epithet of its subject indicate it may hold value for understanding aspects of late antique or Byzantine philosophical life writing, though its current obscurity necessarily limits any substantive assessment of its historical or literary significance.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Rufus of Ephesus
 eul_wid: ojc-ad
 eul_aid: ojc
 canonical: "https://eulogikon.org/works/rufus-ephesus-human-body-ojc-ad"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Rufus of Ephesus
 
 **eul_wid:** `ojc-ad` · [HTML page](https://eulogikon.org/works/rufus-ephesus-human-body-ojc-ad)
-
-On Parts of the Human Body is a systematic anatomical treatise by the physician Rufus of Ephesus, composed in Greek around the late first or early second century CE. Organized into 61 sections, the work methodically describes the components of the human body in a descending sequence from the head. Its principal aim is to establish a clear and standardized Greek nomenclature for anatomical structures while detailing their precise locations and interrelationships, thereby providing a practical foundation for medical diagnosis and therapy. The treatise stands as a complete and well-preserved exemplar of pre-Galenic anatomy from the Roman Imperial period. Written with a practical and pedagogical intent for students and practitioners, it represents an effort to synthesize and preserve anatomical knowledge derived from earlier authorities such as Hippocrates and the Alexandrian anatomists, during an era when direct human dissection was uncommon. Rufus's emphasis on precise terminology and descriptive topography exerted a lasting influence on later medical traditions, and his works were held in high esteem and cited by subsequent authorities, including Galen.
 
 ## Text
 

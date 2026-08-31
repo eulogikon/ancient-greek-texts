@@ -5,6 +5,7 @@ author: Philistus of Syracuse
 eul_wid: drk-aa
 eul_aid: drk
 canonical: "https://eulogikon.org/works/philistus-syracuse-sicilian-histories-drk-aa"
+lang: grc
 period: Classical
 dialect: Attic (frg)
 domain: History
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philistus of Syracuse
 
 **eul_wid:** `drk-aa` · [HTML page](https://eulogikon.org/works/philistus-syracuse-sicilian-histories-drk-aa)
-
-The Fragments of Sicilian Histories constitutes the modern designation for the extant passages from the historical writings of Philistus of Syracuse. Composed in Attic Greek during the fourth century BCE, the original prose work was divided into two principal parts. The first, known as the Sikelika, narrated the history of Sicily from its earliest mythical foundations, including accounts of indigenous peoples like the Sicans and the settlement of the Sicels from Italy. The second part, titled Peri Dionysiou, was a detailed contemporary history focusing on the reign of the Syracusan tyrant Dionysius I, under whom Philistus served as a trusted official and naval commander. The work was fundamentally apologetic, written to justify and chronicle the tyrant’s rule while providing a Syracusan perspective on the pivotal conflicts of the era, notably the protracted wars against Carthage and the internecine struggles among the Greek city-states of Sicily.
-
-No complete manuscript of Philistus’s history survives. The text is known only through 69 fragments—comprising direct quotations, paraphrases, and references—preserved within the works of later historians and compilers such as Diodorus Siculus, Plutarch, and Dionysius of Halicarnassus. These remnants cover a range of subjects, including political events, military campaigns, and character sketches of prominent figures like the earlier tyrant Gelon and Dionysius I himself. Despite its partisan viewpoint, modern scholarship regards the work as a crucial, if tendentious, source for the reconstruction of Sicilian history. In antiquity, Philistus was highly esteemed for his sober style and substantive content, exercising a significant influence on subsequent historians, including Timaeus and potentially Ephorus. His explicit defense of tyranny, however, also drew pointed criticism from philosophers, most notably Plato, who disparaged the historian’s moral and political sympathies.
 
 ## Text
 

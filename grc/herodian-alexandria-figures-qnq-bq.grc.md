@@ -5,6 +5,7 @@ author: Herodian of Alexandria
 eul_wid: qnq-bq
 eul_aid: qnq
 canonical: "https://eulogikon.org/works/herodian-alexandria-figures-qnq-bq"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Herodian of Alexandria
 
 **eul_wid:** `qnq-bq` · [HTML page](https://eulogikon.org/works/herodian-alexandria-figures-qnq-bq)
-
-On Figures is a grammatical treatise by the 2nd-century CE Alexandrian scholar Herodian. The work systematically examines rhetorical and poetic "figures"—deliberate deviations from standard grammatical or syntactical norms employed for stylistic effect. Operating within the rigorous tradition of Alexandrian philology, it served as a technical manual for advanced students and rhetoricians seeking to master the refined Attic Greek dialect favored in the Roman Imperial era. The original text is lost, surviving only as a collection of fragments preserved through quotations in later grammatical commentaries. These extant passages illustrate the work's method, analyzing specific examples from classical literature to delineate the boundary between error and accepted artistic license, such as peculiarities in word formation, accentuation, and compound structures. Herodian's treatise thus represents a scholarly effort to categorize and explain the nuanced mechanics of sophisticated Greek composition.
 
 ## Text
 

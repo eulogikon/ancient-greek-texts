@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-ae
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-flatterer-friend-okg-ae"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-ae` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-flatterer-friend-okg-ae)
-
-How One Might Distinguish the Flatterer from the Friend is an ethical essay by the Greek philosopher Plutarch, composed around 100 CE as part of his extensive Moralia. Dedicated to a Roman consul, the work is a practical manual for the politically active elite of the early Roman Empire, for whom discerning authentic alliance from self-serving manipulation was a vital social skill. Structured as a series of pointed observations, the essay systematically contrasts the behavior of a true friend with that of a flatterer, who employs imitation, excessive praise, and calculated compliance to insinuate himself for personal gain. Plutarch employs vivid metaphors, comparisons, and anecdotes to illustrate the flatterer’s techniques and to arm the reader against this deceptive vice. Drawing on Platonic and Stoic thought, the essay is a significant document of popular practical ethics from the period. Its central argument posits that the most effective defense against the flatterer is rigorous self-knowledge, as the flatterer exploits a person’s own vanity and self-love. The work survives complete within the medieval manuscript tradition of the Moralia, with the earliest copies dating from the 10th century CE, and it remains integral to all modern editions of Plutarch’s collected works.
 
 ## Text
 

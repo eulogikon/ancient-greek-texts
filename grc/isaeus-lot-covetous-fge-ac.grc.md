@@ -5,6 +5,7 @@ author: Isaeus the Orator
 eul_wid: fge-ac
 eul_aid: fge
 canonical: "https://eulogikon.org/works/isaeus-lot-covetous-fge-ac"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Isaeus the Orator
 
 **eul_wid:** `fge-ac` · [HTML page](https://eulogikon.org/works/isaeus-lot-covetous-fge-ac)
-
-On the Lot of the Covetous, also known as On the Estate of Philoctemon, is a forensic oration composed in Attic Greek by the Athenian speechwriter Isaeus around the middle of the fourth century BCE. It stands as a complete and intricate example of a speech written for a client involved in an inheritance dispute, intended for delivery before an Athenian popular court. The work comprises forty-eight sections and centers on the contested estate of Philoctemon of Cephisia, who died without a direct male heir. The unnamed speaker, a relative of the deceased, challenges the legitimacy of a posthumously adopted son introduced by Philoctemon’s widow, advancing his own claim as the rightful successor according to Athenian law.
-
-The argument proceeds with meticulous legal reasoning and persuasive rhetoric, systematically undermining the opponents’ case by questioning their motives and integrity. The speaker portrays his adversaries as driven by covetousness and opportunism, while simultaneously emphasizing his own family ties, past services, and moral fitness to inherit. This strategy exemplifies the Athenian forensic practice of blending legal statutes with appeals to the jury’s social values and prejudices. The speech is a crucial document for understanding the complexities of Athenian inheritance law, particularly regarding adoption, wills, and the rights of collateral relatives, as well as the intense familial and economic rivalries such laws governed.
-
-Transmitted intact through the medieval manuscript tradition of the Attic orators, the speech is numbered as Oration 6 in modern editions of Isaeus’s works. Scholars value it not only as a specimen of skilled logography, demonstrating how a professional speechwriter constructed a case for a client, but also as a rich source for Athenian social history, revealing the interplay between legal procedure, family strategy, and persuasive public performance in classical Athens.
 
 ## Text
 

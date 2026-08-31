@@ -5,6 +5,7 @@ author: Ocellus of Lucania
 eul_wid: eoc-ab
 eul_aid: eoc
 canonical: "https://eulogikon.org/works/ocellus-lucania-testimonies-eoc-ab"
+lang: grc
 period: Classical
 dialect: Ionic
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Ocellus of Lucania
 
 **eul_wid:** `eoc-ab` · [HTML page](https://eulogikon.org/works/ocellus-lucania-testimonies-eoc-ab)
-
-The Testimonies is a pseudepigraphical work attributed to the Pythagorean philosopher Ocellus of Lucania. It is not a continuous treatise but a doxographical collection of eight excerpts reporting the opinions of earlier thinkers. As part of the later Pythagorean corpus, it was composed in antiquity to systematize doctrine under the authority of an early master. While the specific content of the eight passages is not detailed in major sources, the genre and attribution indicate it compiles core Pythagorean doctrines, likely including the immortality and transmigration of the soul, the cosmological and metaphysical significance of number, cosmic harmony and the central fire, and rules for ascetic and ethical living. The text survives only in these eight fragmentary excerpts. It is transmitted within the complex and late manuscript tradition of the pseudepigraphical Pythagorean writings, receiving less attention than more prominent works like the treatise On the Nature of the Universe also ascribed to Ocellus. The Testimonies itself had minimal direct influence. Its primary importance is as a minor component of the pseudepigraphical Pythagorean corpus, which collectively shaped the later Neoplatonic and medieval reception of Pythagorean thought.
 
 ## Text
 

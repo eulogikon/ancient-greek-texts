@@ -5,6 +5,7 @@ author: Pindar
 eul_wid: boa-ad
 eul_aid: boa
 canonical: "https://eulogikon.org/works/pindar-nemean-odes-boa-ad"
+lang: grc
 period: Archaic
 dialect: Literary Doric
 domain: Poetry
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Pindar
 
 **eul_wid:** `boa-ad` · [HTML page](https://eulogikon.org/works/pindar-nemean-odes-boa-ad)
-
-The Nemean Odes are a collection of eleven epinician, or victory, poems by the Greek lyric poet Pindar. Composed in the early to mid-fifth century BCE, they were commissioned to honor the achievements of athletes victorious at the Nemean Games, one of the four major Panhellenic festivals dedicated to Zeus. The odes celebrate winners from various Greek city-states in events such as wrestling, boxing, and chariot racing. Each poem typically follows a tripartite structure, beginning with praise for the victor and his homeland, then skillfully interweaving a mythological narrative relevant to the victor's family or city, and concluding with gnomic wisdom or a return to the celebratory occasion.
-
-Preserved complete through medieval manuscripts descended from Alexandrian scholarly editions, the odes are composed in a literary Doric dialect enriched with epic and other poetic elements, and are structured in complex metrical patterns. Far from mere panegyric, these works were designed for public performance, serving to immortalize the athlete's moment of glory, reinforce aristocratic ideals of excellence, and situate human achievement within a framework of divine favor and heroic ancestry. As such, the Nemean Odes constitute a vital source for understanding the performance culture, social values, and religious worldview of Classical Greece.
 
 ## Text
 
@@ -3274,6 +3271,8 @@ Preserved complete through medieval manuscripts descended from Alexandrian schol
 
 ὀμμάτων. νικαφορίαις γὰρ ὅσαις ἱπ‐
 
+*[crux: ἱπ‐]*
+
 ### book 10.41.1
 
 ποτˈρόφον ἄστυ τὸ Προί‐
@@ -3281,6 +3280,8 @@ Preserved complete through medieval manuscripts descended from Alexandrian schol
 ### book 10.41.2
 
 τοιο θάλησεν Κορίνθου τ’ ἐν μυχοῖς·
+
+*[crux: Κορίνθου]*
 
 ### book 10.42.1
 

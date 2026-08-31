@@ -5,6 +5,7 @@ author: Melanippides of Melos
 eul_wid: cye-aa
 eul_aid: cye
 canonical: "https://eulogikon.org/works/melanippides-melos-dionysus-wine-cye-aa"
+lang: grc
 period: Classical
 dialect: Literary Doric
 domain: Poetry
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Melanippides of Melos
 
 **eul_wid:** `cye-aa` · [HTML page](https://eulogikon.org/works/melanippides-melos-dionysus-wine-cye-aa)
-
-The Fragments on Dionysus and Wine comprises sixteen surviving passages from the dithyrambic poetry of Melanippides of Melos, a prominent Greek lyric poet of the fifth century BCE. Written in the Doric dialect, these excerpts center on the god Dionysus and the cultural significance of wine, a thematic focus that aligns with the dithyramb's traditional origins in Dionysiac ritual and festival performance. The work does not exist as a complete, unified poem; its preservation is entirely fragmentary, relying on quotations by later authors such as Athenaeus, who cited the verses for their evocative depictions of drinking customs and mythological narrative.
-
-Melanippides was a leading figure in the innovative "New Music" movement of his era. The extant fragments are interpreted by scholars as illustrative of his celebrated stylistic experiments, which involved the development of novel metrical structures and an increased emphasis on elaborate solo singing at the expense of the traditional choral component. His dithyrambs were likely composed for performance at major civic competitions, including the Dionysia in Athens, though his departures from older, more austere musical forms attracted criticism from contemporary traditionalists. The fragments provide a selective but valuable window into his poetic concerns, blending divine myth, the sensory and social experience of wine, and a self-conscious artistry that sought to expand the expressive possibilities of lyric poetry.
 
 ## Text
 

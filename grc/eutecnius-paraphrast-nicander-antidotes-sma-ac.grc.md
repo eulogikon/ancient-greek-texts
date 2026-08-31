@@ -5,6 +5,7 @@ author: Eutecnius the Paraphrast
 eul_wid: sma-ac
 eul_aid: sma
 canonical: "https://eulogikon.org/works/eutecnius-paraphrast-nicander-antidotes-sma-ac"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Eutecnius the Paraphrast
 
 **eul_wid:** `sma-ac` · [HTML page](https://eulogikon.org/works/eutecnius-paraphrast-nicander-antidotes-sma-ac)
-
-The Paraphrase of Nicander's Antidotes by Eutecnius the Paraphrast is a prose reworking of the Alexipharmaca, a didactic poem on toxicology by the Hellenistic poet Nicander of Colophon. Composed in clear, accessible Greek, the paraphrase systematically renders the original's complex verse into straightforward prose, thereby preserving and clarifying its practical medical content. The work methodically details a wide array of poisons derived from animals, plants, and minerals, such as hemlock, cantharides, and white lead, and provides instructions for their corresponding antidotes and remedies. Transmitted through the medieval manuscript tradition as an integral part of the Nicandrean corpus, the complete paraphrase survives and is included in modern critical editions. Its primary significance lies in its role as a vital scholarly exegesis, which served to disseminate Nicander's authoritative but often obscure toxicological knowledge throughout the Byzantine era and into the Renaissance, ensuring the continued utility of this ancient scientific text.
 
 ## Text
 

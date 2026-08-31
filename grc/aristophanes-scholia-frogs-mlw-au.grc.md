@@ -5,6 +5,7 @@ author: Aristophanes Scholia
 eul_wid: mlw-au
 eul_aid: mlw
 canonical: "https://eulogikon.org/works/aristophanes-scholia-frogs-mlw-au"
+lang: grc
 period: Hellenistic
 dialect: Technical Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristophanes Scholia
 
 **eul_wid:** `mlw-au` · [HTML page](https://eulogikon.org/works/aristophanes-scholia-frogs-mlw-au)
-
-The Scholia on the Frogs constitutes an extensive body of ancient and medieval commentary on Aristophanes' comedy The Frogs. This is not a unified literary work but a vast compilation of approximately 770 individual explanatory notes, assembled over more than a millennium from the Hellenistic period, beginning around the 3rd century BCE, through the Byzantine era. Written in Greek, these annotations appear as marginal and interlinear glosses in medieval manuscripts of the play. They function as a detailed guide to the original text, which was first performed in 405 BCE, elucidating obscure vocabulary, identifying historical figures and mythological references, unpacking political satire, analyzing literary parody, and noting textual variants. Modern scholarship regards this compilation as a critical educational instrument, crafted to aid students and readers in later periods in comprehending the culturally distant world of Athenian Old Comedy. The survival of the scholia relies almost entirely on Byzantine manuscripts, most notably a 10th-century codex. The resulting text is a layered scholarly archive, preserving fragments of erudition from many centuries of classical philological tradition.
 
 ## Text
 

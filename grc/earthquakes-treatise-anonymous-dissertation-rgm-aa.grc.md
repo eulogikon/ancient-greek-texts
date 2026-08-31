@@ -5,6 +5,7 @@ author: Earthquakes Treatise
 eul_wid: rgm-aa
 eul_aid: rgm
 canonical: "https://eulogikon.org/works/earthquakes-treatise-anonymous-dissertation-rgm-aa"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Science
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Earthquakes Treatise
 
 **eul_wid:** `rgm-aa` · [HTML page](https://eulogikon.org/works/earthquakes-treatise-anonymous-dissertation-rgm-aa)
-
-The anonymous Greek treatise On Earthquakes is a brief work belonging to the genre of paradoxography, which specialized in compiling accounts of marvels and unusual natural phenomena. The text consists of four passages describing specific, historically attested earthquakes and their extraordinary effects, such as cities being swallowed by the earth, the sudden emergence of new islands, and the dramatic diversion of rivers. This focus on thaumata, or wonders, aligns with the paradoxographical tradition's preference for recording sensational events rather than constructing systematic scientific theories. The treatise is preserved in a single manuscript, the 13th- or 14th-century Parisinus Graecus 1630, a composite codex containing various paradoxographical works. Its significance lies in its illustration of the methods and interests of the paradoxographical genre, providing evidence for how catastrophic natural events were recorded as marvels in antiquity, distinct from contemporaneous philosophical or meteorological explanations. As such, it contributes to the understanding of the reception and popular transmission of natural historical knowledge in the Greco-Roman world.
 
 ## Text
 

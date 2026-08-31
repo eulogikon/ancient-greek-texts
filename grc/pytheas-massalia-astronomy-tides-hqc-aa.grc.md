@@ -5,6 +5,7 @@ author: Pytheas of Massalia
 eul_wid: hqc-aa
 eul_aid: hqc
 canonical: "https://eulogikon.org/works/pytheas-massalia-astronomy-tides-hqc-aa"
+lang: grc
 period: Hellenistic
 dialect: Ionic
 domain: Geography
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Pytheas of Massalia
 
 **eul_wid:** `hqc-aa` · [HTML page](https://eulogikon.org/works/pytheas-massalia-astronomy-tides-hqc-aa)
-
-The Fragments on Astronomy and Tides constitutes the modern scholarly reconstruction of the lost work of Pytheas of Massalia, a Greek explorer of the late 4th century BCE. His original account, most commonly titled On the Ocean, was a periplus detailing his unprecedented voyage from the Mediterranean northward into the Atlantic Ocean, around the coast of Britain, and toward the Arctic Circle. Composed in Ionic Greek prose, the surviving excerpts center on his pioneering empirical observations. These include descriptions of the midnight sun, records of the customs of northern European peoples, and the first known systematic analysis of ocean tides, for which he is credited with coining the Greek term palirroia. He notably identified a correlation between the lunar cycle and tidal movements.
-
-The work exists only in fragmentary form, preserved through the quotations and often skeptical critiques of later authors such as the geographer Strabo and the natural historian Pliny the Elder. These 22 fragments provide evidence of Pytheas as a significant empirical thinker of his age. His calculations of latitude and documentation of northern phenomena contested the prevailing Mediterranean-centric geographical models and supplied foundational data for subsequent scientists. His report of a distant northern land called Thule endured in classical literature as a proverbial marker for the outermost limit of the known world.
 
 ## Text
 

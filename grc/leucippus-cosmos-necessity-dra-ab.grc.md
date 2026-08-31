@@ -5,6 +5,7 @@ author: Leucippus the Atomist
 eul_wid: dra-ab
 eul_aid: dra
 canonical: "https://eulogikon.org/works/leucippus-cosmos-necessity-dra-ab"
+lang: grc
 period: Classical
 dialect: Ionic
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Leucippus the Atomist
 
 **eul_wid:** `dra-ab` · [HTML page](https://eulogikon.org/works/leucippus-cosmos-necessity-dra-ab)
-
-On the Cosmos and Necessity is a foundational philosophical treatise attributed to Leucippus, the pre-Socratic thinker of the fifth century BCE who founded the atomist school. The work, written in Greek verse, presents a revolutionary cosmological system. It posits that the universe consists of an infinite number of indivisible particles, or atoms, moving and colliding within an infinite void. Its central tenet is that all cosmic events occur not by chance or divine intervention but through strict mechanical necessity, a principle famously summarized in the fragment "nothing occurs at random, but everything for a reason and by necessity."
-
-The original text is entirely lost, and our knowledge of it derives exclusively from fragments and summaries preserved by later ancient authors, a circumstance that also led to the work being referred to as the Apostasmata, or "Extracts." Modern scholarship interprets the treatise as a direct materialist response to the metaphysical challenges posed by earlier philosophers such as Parmenides, providing a rational account of change and the plurality of the physical world. It was likely composed to establish a comprehensive natural philosophy for an audience of philosophers and natural theorists. The doctrines it introduced were systematically developed by Leucippus's pupil Democritus and later formed the basis of Epicurean philosophy, thereby exerting a profound and lasting influence on the history of scientific and materialist thought.
 
 ## Text
 

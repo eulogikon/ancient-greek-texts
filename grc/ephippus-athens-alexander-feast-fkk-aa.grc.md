@@ -5,6 +5,7 @@ author: Ephippus of Athens the Comic Poet
 eul_wid: fkk-aa
 eul_aid: fkk
 canonical: "https://eulogikon.org/works/ephippus-athens-alexander-feast-fkk-aa"
+lang: grc
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Ephippus of Athens the Comic Poet
 
 **eul_wid:** `fkk-aa` · [HTML page](https://eulogikon.org/works/ephippus-athens-alexander-feast-fkk-aa)
-
-The Fragments on Alexander's Feast is a modern designation for surviving quotations from a lost comedy by the Athenian poet Ephippus, a figure of the 4th-century BCE period known as Middle Comedy. The original title of the play is unknown. These fragments, preserved primarily through citations in Athenaeus's Deipnosophistae, offer a valuable, if partial, view of the play's content and themes. The comedy engaged with contemporary figures and events, notably Alexander the Great, reflecting Middle Comedy's shift away from the direct political satire of Old Comedy toward a broader social satire focused on domestic life, manners, and character types.
-
-The extant passages suggest the play centered on the customs and excesses of the symposium, the Greek drinking party. The text describes elaborate preparations for a feast, listing extravagant foods such as cheese from the Chersonese, radishes cooked in oil, the breasts of fat lambs, and various birds. It humorously details the immense scale of the provisions, including a fish so large it requires a platter capable of holding a hundred people, and the mobilization of neighboring peoples to fetch firewood for its cooking. This focus on culinary and sympotic extravagance serves as a vehicle for social satire, mocking pretension and the lavish behavior of the powerful. The explicit reference to Alexander positions the comedy within its historical moment, offering a glimpse of how his court and persona were perceived and humorously critiqued in contemporary Athenian culture.
-
-Transmitted solely through the quotations of later authors, most significantly Athenaeus in the 2nd or 3rd century CE, the fragments are collected in modern scholarly editions such as Poetae Comici Graeci. Their significance lies in their contribution to the reconstruction of Middle Comedy, a pivotal but poorly preserved phase of dramatic history. They provide evidence for social history, particularly the idealized and satirized practices of the symposium, and illustrate the genre's transitional nature, bridging the politically engaged Old Comedy of Aristophanes and the domestic, character-driven New Comedy of Menander.
 
 ## Text
 

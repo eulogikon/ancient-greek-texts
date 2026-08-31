@@ -5,6 +5,7 @@ author: Diophantus of Alexandria II
 eul_wid: rqm-ab
 eul_aid: rqm
 canonical: "https://eulogikon.org/works/diophantus-alexandria-polygonal-numbers-rqm-ab"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Diophantus of Alexandria II
 
 **eul_wid:** `rqm-ab` · [HTML page](https://eulogikon.org/works/diophantus-alexandria-polygonal-numbers-rqm-ab)
-
-On Polygonal Numbers is a mathematical treatise by the 3rd-century CE Alexandrian scholar Diophantus. It systematically investigates polygonal numbers, a classical area of Greek number theory where integers are represented as geometric arrangements of points, such as triangular numbers (1, 3, 6) or square numbers (1, 4, 9). The surviving text, which is incomplete and known primarily through later summaries like that of the 9th-century Byzantine scholar Photius, is organized as a series of propositions and proofs. It details methods for generating polygonal numbers from a given side and for determining the side from a given polygonal number, exploring the relationships between different types. The work represents Diophantus's formal contribution to a field with Pythagorean and Euclidean antecedents, composed for an advanced mathematical readership in Alexandria. While Diophantus is chiefly renowned for his algebraic masterpiece Arithmetica, this treatise played a significant role in transmitting Greek arithmetical theory into later Byzantine and medieval scholarly traditions.
 
 ## Text
 

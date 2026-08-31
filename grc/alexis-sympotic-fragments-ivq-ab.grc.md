@@ -5,6 +5,7 @@ author: Alexis the Comic Poet
 eul_wid: ivq-ab
 eul_aid: ivq
 canonical: "https://eulogikon.org/works/alexis-sympotic-fragments-ivq-ab"
+lang: grc
 period: Hellenistic
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alexis the Comic Poet
 
 **eul_wid:** `ivq-ab` · [HTML page](https://eulogikon.org/works/alexis-sympotic-fragments-ivq-ab)
-
-The Sympotic Fragments of Alexis represent a modern scholarly compilation of excerpts from the lost comedies of Alexis, a central and prolific figure of Middle Comedy. Numbering nearly a thousand verses, these fragments are preserved not in a direct manuscript tradition but through quotation by later authors, most extensively by Athenaeus in his Deipnosophistae. The collection thematically unites passages that depict the symposium, the quintessential Greek drinking party, offering a vivid window into its associated culture. The content ranges from elaborate, often humorous descriptions of food, drink, and gluttony to sharp social satire directed at character types like parasites, boastful cooks, and philosophers who populate the convivial scene. The fragments also include parody of mythological figures and contemporary intellectual ideas, while their plots frequently involve domestic and romantic intrigue, thereby illustrating the transitional role of Middle Comedy in shaping the conventions of later New Comedy.
-
-The transmission of Alexis’s work is entirely indirect. His comedies survive only in fragments scattered principally throughout Athenaeus’s expansive work from the 2nd or 3rd century CE, with additional passages found in the anthology of Stobaeus and various lexicographical sources. The modern categorization of these excerpts as "sympotic" isolates those passages concerned with banquet culture from the broader fragmentary corpus. The significance of Alexis’s work is considerable for both literary and social history. His comedies mark a decisive shift away from the political satire of Old Comedy toward a focus on social types and situational humor, directly influencing the development of New Comedy; tradition holds he was the uncle and possible tutor of Menander. Beyond the theater, these fragments serve as an invaluable resource for understanding the social rituals, gastronomy, and everyday life of the Hellenistic symposium.
 
 ## Text
 

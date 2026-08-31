@@ -5,6 +5,7 @@ author: Archimedes of Syracuse
 eul_wid: ixo-al
 eul_aid: ixo
 canonical: "https://eulogikon.org/works/archimedes-syracuse-sand-reckoner-ixo-al"
+lang: grc
 period: Hellenistic
 dialect: Doric
 domain: Mathematics
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Archimedes of Syracuse
 
 **eul_wid:** `ixo-al` · [HTML page](https://eulogikon.org/works/archimedes-syracuse-sand-reckoner-ixo-al)
-
-The Sand Reckoner is a mathematical treatise by Archimedes of Syracuse, composed around 250–240 BCE and addressed to King Gelon II. Its central purpose is to demonstrate that even an immense quantity, such as the number of grains of sand required to fill the entire cosmos, can be expressed as a finite number. To achieve this, Archimedes first establishes an upper limit for the size of the universe, adopting the vast heliocentric model proposed by the astronomer Aristarchus of Samos. He then devises an innovative notational system based on powers of a myriad, or ten thousand, which allows him to calculate and name the astronomically large result. Structured as a letter containing twenty-three propositions and calculations, the work survives in full through Byzantine manuscripts, most notably the tenth-century Codex C, known as the Archimedes Palimpsest. Modern scholarship regards the treatise as a masterful exercise in applying rigorous mathematical reasoning to a seemingly playful problem, showcasing Archimedes's ingenuity with large numbers and exponential notation. It also holds significant historical importance as one of the few surviving contemporary references to Aristarchus's early heliocentric theory. Consequently, the Sand Reckoner is celebrated both for its mathematical innovation and its contribution to the history of astronomy.
 
 ## Text
 

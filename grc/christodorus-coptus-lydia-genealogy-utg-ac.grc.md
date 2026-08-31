@@ -5,6 +5,7 @@ author: Christodorus of Coptus
 eul_wid: utg-ac
 eul_aid: utg
 canonical: "https://eulogikon.org/works/christodorus-coptus-lydia-genealogy-utg-ac"
+lang: grc
 period: Late Antique
 dialect: Epic (Homeric)
 domain: Epic
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Christodorus of Coptus
 
 **eul_wid:** `utg-ac` · [HTML page](https://eulogikon.org/works/christodorus-coptus-lydia-genealogy-utg-ac)
-
-The Fragments on Lydian Genealogy is a lost work attributed to the Greek epic poet Christodorus of Coptus, who was active in the late fifth and early sixth centuries CE. Christodorus is primarily known for his surviving ekphrastic poem, Description of the Statues in the Public Gymnasium of Zeuxippus, which is preserved in the Greek Anthology. While the Suda lists other titles among his lost works, the Fragments on Lydian Genealogy is not recorded in extant sources. The work’s specific content is unknown, but its title suggests it treated the mythological genealogies and antiquarian history of Lydia, aligning with the classical mythological interests common among late antique poets and compilers. There is no documented transmission history for this specific collection; Christodorus’s known work survives through the Greek Anthology, while his other attested works are considered lost. Although the fragments themselves are lost, the attribution points to the breadth of Christodorus’s antiquarian scholarship beyond his surviving ekphrasis, reflecting the continued engagement with regional Greek genealogies and mytho-historical writing in the early Byzantine period.
 
 ## Text
 

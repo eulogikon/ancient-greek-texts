@@ -5,6 +5,7 @@ author: Democles the Historian
 eul_wid: goa-aa
 eul_aid: goa
 canonical: "https://eulogikon.org/works/democles-natural-phenomena-goa-aa"
+lang: grc
 period: Classical
 dialect: Attic (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Democles the Historian
 
 **eul_wid:** `goa-aa` · [HTML page](https://eulogikon.org/works/democles-natural-phenomena-goa-aa)
-
-Fragments on Natural Phenomena is a lost prose work by the historian Democles, known only through two surviving excerpts preserved by later authors. The original scope and structure of the work are unknown. The first fragment, recorded by Strabo, describes a lethal geothermal vent in Asia Minor known as the Plutonium, a chasm emitting deadly vapors associated with the underworld. The second, preserved by Photius, recounts an anecdote in which the Athenian lawgiver Solon feigned madness to publicly recite a poem about Salamis, thereby inciting Athens to renew its war with Megara for control of the island. These fragments survive solely through this indirect tradition, with no independent manuscript evidence. Their content indicates the work belonged to the Hellenistic genre of paradoxography, which collected marvels of nature and history. The account of the Plutonium contributed to geographical and mythological lore, while the story of Solon provided a notable variant within the biographical tradition surrounding the Athenian statesman.
 
 ## Text
 

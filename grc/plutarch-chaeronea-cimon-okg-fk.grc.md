@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-fk
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-cimon-okg-fk"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-fk` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-cimon-okg-fk)
-
-Plutarch’s Life of Cimon is a biography of the fifth-century BCE Athenian statesman and general, forming one part of his larger series, the Parallel Lives. In this work, Plutarch pairs Cimon with the Roman general Lucullus. The biography follows a conventional structure, beginning with an account of Cimon’s distinguished lineage and tracing his rise as a military leader. It details his significant naval victory over the Persians at the Battle of the Eurymedon, his political rivalry with Pericles, his ostracism from Athens, and his eventual recall to service. The narrative concludes with a brief formal comparison of the virtues and careers of Cimon and Lucullus. The complete text survives through medieval manuscripts and is typically organized in modern editions into approximately 98 sections.
-
-Composed in the early second century CE under the Roman Empire, Plutarch’s purpose was primarily ethical and pedagogical. He aimed to illustrate character and virtue for his educated Greco-Roman audience by examining the lives of great historical figures. Consequently, the work is not a strict historical chronicle but a moral portrait, frequently employing anecdotes and reported sayings to reveal Cimon’s personality, noted for its generosity and simplicity, as well as the political challenges he faced. Modern scholarship often interprets the pairing with Lucullus as emphasizing their shared traits: both were immensely wealthy, militarily successful commanders who encountered significant opposition and envy in their domestic political spheres. As a vital literary source from antiquity, Plutarch’s biography provides crucial insight into the life of Cimon and the political dynamics of the developing Athenian democracy.
 
 ## Text
 

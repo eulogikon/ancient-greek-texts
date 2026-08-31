@@ -5,6 +5,7 @@ author: Philo of Alexandria
 eul_wid: lgi-bg
 eul_aid: lgi
 canonical: "https://eulogikon.org/works/philo-alexandria-special-laws-lgi-bg"
+lang: grc
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philo of Alexandria
 
 **eul_wid:** `lgi-bg` · [HTML page](https://eulogikon.org/works/philo-alexandria-special-laws-lgi-bg)
-
-On Special Laws is a philosophical treatise by the Jewish scholar Philo of Alexandria, composed in Greek during the early first century CE. It forms a core component of his Exposition of the Law, a systematic series designed to articulate the principles of the Mosaic law for a Hellenistic audience. The work proceeds from a prior discussion of the universal Ten Commandments to examine the particular statutes found in the Pentateuch. Organized into four books, the treatise methodically addresses laws pertaining to religious worship, civil and criminal jurisprudence, dietary regulations, and the cultivation of moral virtues. Philo’s interpretive approach is predominantly allegorical; he seeks to uncover a deeper philosophical or ethical significance beneath the literal wording of each commandment. His exegesis aims to demonstrate the profound compatibility of Jewish scripture with the highest ideals of Greek philosophy, especially Platonism and Stoicism. This synthesis is widely understood as an apologetic endeavor, defending the rationality and ethical sophistication of Jewish law to both acculturated Jews and curious Gentile intellectuals. The complete text survives through medieval Greek manuscripts, preserved largely by Christian scribes who valued its allegorical method, and also exists in an ancient Armenian translation. The treatise exercised significant influence on early Christian thinkers in Alexandria, helping to shape the tradition of allegorical biblical interpretation for subsequent centuries.
 
 ## Text
 

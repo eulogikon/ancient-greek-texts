@@ -5,6 +5,7 @@ author: Homer Commentary
 eul_wid: vta-ac
 eul_aid: vta
 canonical: "https://eulogikon.org/works/homer-comm-hypotheses-iliad-vta-ac"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Grammar
@@ -19,20 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Homer Commentary
 
 **eul_wid:** `vta-ac` · [HTML page](https://eulogikon.org/works/homer-comm-hypotheses-iliad-vta-ac)
-
-Overview The Hypotheses εἰς Ἰλιάδα is a prose compilation of 57 summaries, or "arguments," for the books of Homer’s Iliad. In ancient scholarship, a hypothesis provided a prefatory outline of a work’s plot and structure. This collection exemplifies the Hellenistic and Roman tradition of Homeric scholarship, serving as a guide for students and readers.
-
-Content
-
-Narrative Summary: Condenses the plot events of each book of the Iliad.
-
-Scholarly Interpretation: Reflects ancient critical perspectives on the epic’s structure and key moments.
-
-Didactic Utility: Designed to make the foundational text systematically teachable.
-
-Transmission The work is preserved within the corpus of Homeric scholia—annotations in medieval manuscripts. A primary source is the 10th-century manuscript Venetus A (Marcianus Graecus 454). The hypotheses are transmitted as an integral part of this scholarly apparatus.
-
-Significance As a standard paratext, these hypotheses shaped the teaching and reception of the Iliad through the Byzantine and Renaissance periods. They remain important evidence for ancient narrative analysis and the history of Homeric criticism.
 
 ## Text
 

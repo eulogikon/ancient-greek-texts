@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-bb
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-timoleon-aemilius-okg-bb"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-bb` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-timoleon-aemilius-okg-bb)
-
-The Comparison of Timoleon and Aemilius is a concise prose essay by the Greek biographer Plutarch, composed in Attic Greek around the early second century CE. It functions as the concluding section to his paired biographies of Timoleon of Corinth and Aemilius Paullus of Rome within the larger corpus of his Parallel Lives. The essay systematically evaluates the two statesmen, juxtaposing the fourth-century BCE Corinthian liberator of Sicily with the second-century BCE Roman conqueror of Macedonia. Through a structured analysis spanning seventeen passages, Plutarch contrasts their characters, virtues, and historical circumstances. He examines their military achievements against formidable opponents—Timoleon against the Carthaginians and Sicilian tyrants, Aemilius against the Macedonians—while probing deeper themes of leadership, fortune, and moral responsibility. The comparison considers the nature of their victories, the quality of the forces they commanded, and the profound personal tragedies that shadowed their public triumphs, particularly the contrasting fates of their sons. Written for an educated Greco-Roman audience during the early Imperial period, the work exemplifies Plutarch’s method of using historical figures to explore universal ethical principles and to foster cultural dialogue between Greece and Rome. The text has been transmitted intact through the medieval manuscript tradition of Plutarch’s Lives, most notably in the tenth-century Codex Laurentianus. As an integral part of the influential Parallel Lives, this comparative epilogue contributed significantly to the development of biographical writing and moral philosophy in the European tradition.
 
 ## Text
 

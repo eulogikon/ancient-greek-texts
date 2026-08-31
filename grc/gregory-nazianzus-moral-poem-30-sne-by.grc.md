@@ -4,6 +4,7 @@ author: Gregory of Nazianzus
 eul_wid: sne-by
 eul_aid: sne
 canonical: "https://eulogikon.org/works/gregory-nazianzus-moral-poem-30-sne-by"
+lang: grc
 period: Late Antique
 domain: Theology
 format: Verse

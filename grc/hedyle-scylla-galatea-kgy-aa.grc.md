@@ -5,6 +5,7 @@ author: Hedyle
 eul_wid: kgy-aa
 eul_aid: kgy
 canonical: "https://eulogikon.org/works/hedyle-scylla-galatea-kgy-aa"
+lang: grc
 period: Hellenistic
 dialect: Attic
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hedyle
 
 **eul_wid:** `kgy-aa` · [HTML page](https://eulogikon.org/works/hedyle-scylla-galatea-kgy-aa)
-
-The Fragments on Scylla and Galatea are three passages preserved from the lost epyllion Scylla by the Hellenistic poet Hedyle. Quoted by Athenaeus in his Deipnosophistae, they narrate a connected mythological sequence. The narrative involves the Cyclops Polyphemus, who, in a jealous rage over the sea-nymph Galatea's love for the youth Acis, kills Acis by crushing him with a rock. Galatea then transforms the blood of her slain lover into the river Acis in Sicily. In an act of revenge, Galatea subsequently uses magical herbs to transform the nymph Scylla into a monstrous creature encircled by a girdle of dogs' heads. The fragments thus innovatively integrate two major myths: the love triangle of Galatea, Acis, and Polyphemus, and the origin story for Scylla's monstrous form, which is presented as a direct consequence of Galatea's retaliation. The work survives solely through this fragmentary transmission in later compendia, with Athenaeus providing the direct quotations and Hedyle's poem also being mentioned in the tenth-century Byzantine encyclopedia, the Suda. These fragments constitute a significant example of Hellenistic mythographical creativity, forging a novel link between previously distinct stories. They provide crucial evidence for the literary activity of women in the period and represent an important alternative version of the Scylla myth, one that differs notably from later accounts such as that found in Ovid's works.
 
 ## Text
 

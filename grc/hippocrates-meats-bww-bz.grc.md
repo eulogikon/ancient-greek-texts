@@ -5,6 +5,7 @@ author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-bz
 eul_aid: bww
 canonical: "https://eulogikon.org/works/hippocrates-meats-bww-bz"
+lang: grc
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hippocrates and the Hippocratic Corpus
 
 **eul_wid:** `bww-bz` · [HTML page](https://eulogikon.org/works/hippocrates-meats-bww-bz)
-
-On Meats is a concise medical treatise from the Hippocratic Corpus, a body of ancient Greek medical texts traditionally ascribed to Hippocrates of Cos but composed by various authors in the 5th or 4th century BCE. Written in Ionic Greek, the work consists of twenty brief passages dedicated to dietetic medicine. It offers practical guidance on the properties of various meats, including beef, pork, and game, and examines how methods of preparation, such as boiling or roasting, influence their effects on health. The treatise is grounded in humoral theory, categorizing foods according to the qualities of hot, cold, moist, and dry to maintain or restore the balance of bodily fluids. It provides specific recommendations on which meats are easily digestible or beneficial for intestinal health, with advice tailored to different seasons and patient conditions. This focus exemplifies the core Hippocratic principle that diet serves as a fundamental instrument for both preventing and treating disease. The text appears intended for practicing physicians in a classical Greek milieu where naturalistic explanations of illness were increasingly supplanting supernatural ones. Preserved through the medieval manuscript tradition of the Hippocratic Corpus, the treatise survives in modern critical editions. Its detailed consideration of food as a therapeutic agent contributed significantly to the enduring Western tradition of dietary therapy.
 
 ## Text
 

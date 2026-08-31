@@ -5,6 +5,7 @@ author: Bato the Comic Poet
 eul_wid: ivg-aa
 eul_aid: ivg
 canonical: "https://eulogikon.org/works/bato-hedonism-philosophy-ivg-aa"
+lang: grc
 period: Hellenistic
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Bato the Comic Poet
 
 **eul_wid:** `ivg-aa` · [HTML page](https://eulogikon.org/works/bato-hedonism-philosophy-ivg-aa)
-
-The Fragments on Hedonism and Philosophy by Bato the Comic Poet is a lost comedic work known only by its title and the notation that it comprised forty-nine passages. No direct quotations from it survive. The title indicates it engaged philosophically with the concept of pleasure, likely parodying contemporary philosophical schools, a common practice in Middle and New Comedy. Its central themes, inferred from its title, would have included hedonism as a subject, the doctrines and figures of philosophers as comedic material, and the mockery of sophists and philosophical debates. The work is entirely lost, with its existence attested only by its inclusion in ancient catalogs or lexica, such as the Suda. The forty-nine passages were likely excerpts once preserved in other authors, but these are not identified in any surviving sources. Its listing demonstrates that Bato’s comedy participated in the tradition of satirizing intellectual trends, possibly targeting hedonistic schools like the Cyrenaics or Epicureans. However, the complete loss of its content precludes any assessment of its specific influence or literary merit.
 
 ## Text
 

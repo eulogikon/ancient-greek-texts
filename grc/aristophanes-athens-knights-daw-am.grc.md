@@ -5,6 +5,7 @@ author: Aristophanes of Athens
 eul_wid: daw-am
 eul_aid: daw
 canonical: "https://eulogikon.org/works/aristophanes-athens-knights-daw-am"
+lang: grc
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristophanes of Athens
 
 **eul_wid:** `daw-am` · [HTML page](https://eulogikon.org/works/aristophanes-athens-knights-daw-am)
-
-Knights is a comedy by the ancient Athenian playwright Aristophanes, which won first prize at the Lenaea festival in 424 BCE. A fierce political satire, the play directly targets the Athenian demagogue Cleon, a dominant and controversial leader during the Peloponnesian War. Its plot functions as an allegory in which the Athenian state is represented as a household. The master is an old man named Demos, personifying the Athenian citizenry, who has fallen under the control of a corrupt and bullying slave, a caricature of Cleon. Two other slaves, representing generals opposed to Cleon, conspire to overthrow him by recruiting a shameless sausage-seller as a rival demagogue. The dramatic action revolves around a series of comic contests in which the two rivals attempt to outdo each other in flattering, deceiving, and offering extravagant promises to Demos. The chorus, from which the play derives its title, consists of knights representing the Athenian cavalry class, who were often in political opposition to populist figures like Cleon. Interpreted by modern scholars as a trenchant critique of political demagoguery, the play explores how leaders manipulate public opinion through rhetoric, deception, and grandiose pledges. The complete text of Knights survives through medieval manuscript transmission. As one of the eleven extant plays by Aristophanes, it stands as one of the most brazen and pointed political satires from the ancient world, offering a vivid, though comically hostile, perspective on the stresses within Athenian democracy during wartime.
 
 ## Text
 

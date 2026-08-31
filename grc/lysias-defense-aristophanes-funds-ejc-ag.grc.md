@@ -5,6 +5,7 @@ author: Lysias the Orator
 eul_wid: ejc-ag
 eul_aid: ejc
 canonical: "https://eulogikon.org/works/lysias-defense-aristophanes-funds-ejc-ag"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lysias the Orator
 
 **eul_wid:** `ejc-ag` · [HTML page](https://eulogikon.org/works/lysias-defense-aristophanes-funds-ejc-ag)
-
-In Defense of Aristophanes' Funds, to the Public is a forensic oration composed by the Athenian logographer Lysias around 387 BCE. The speech was written for a client named Aristophanes, who faced public charges of embezzling state funds entrusted to him for his service as a trierarch. This liturgy required wealthy citizens to finance, maintain, and command a warship for the Athenian navy. Lysias’s argument contends that Aristophanes in fact expended considerable personal wealth to outfit the trireme properly and is the victim of an unjust prosecution initiated during a mandatory public audit of his accounts.
-
-The work survives only in fragmentary form, represented by some sixty excerpts preserved in the writings of later ancient grammarians and lexicographers; it is not among the orator’s complete surviving speeches. Scholars regard the text as a significant case study of the legal and financial vulnerabilities of wealthy Athenians under the city’s democratic system. While the trierarchy and other liturgies were essential for funding public services, they exposed individuals to rigorous scrutiny and potential malicious prosecution. The speech thus illuminates the Athenian practice of holding officials accountable through public audits, offering valuable evidence concerning naval administration and public finance in the early fourth century BCE, a period of recovery following the Peloponnesian War.
 
 ## Text
 

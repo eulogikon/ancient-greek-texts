@@ -5,6 +5,7 @@ author: Alchemist I
 eul_wid: rrg-ag
 eul_aid: rrg
 canonical: "https://eulogikon.org/works/alchemist-i-dyeing-stones-emeralds-rrg-ag"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alchemist I
 
 **eul_wid:** `rrg-ag` · [HTML page](https://eulogikon.org/works/alchemist-i-dyeing-stones-emeralds-rrg-ag)
-
-The Dyeing of Stones, Emeralds, Lichnites, and Hyacinths is a Greek alchemical treatise dating from the first to third centuries CE. Although traditionally ascribed to the philosopher Democritus, modern scholarship attributes it to an anonymous author conventionally designated Pseudo-Democritus. Composed in Koine Greek, the work functions as a practical manual containing fifteen concise, recipe-like instructions. It provides detailed methods for artificially coloring or otherwise enhancing stones to imitate precious gems, specifically emeralds and hyacinths—the latter term referring to a blue gemstone such as sapphire. The techniques described are adapted from contemporary industrial practices in dyeing and glassmaking.
-
-This treatise is a significant document of early Greco-Egyptian alchemy, which combined empirical craft knowledge with philosophical speculation. It was likely employed by practitioners in workshop or temple environments in Roman Egypt, particularly in Alexandria. The objective of the procedures was not considered mere forgery but was viewed as a legitimate form of inquiry into natural processes, an approach scholars identify with the concept of mimesis, or imitation. The complete text is preserved in Byzantine manuscript copies, most importantly within the tenth- or eleventh-century Codex Marcianus Graecus 299. As a component of the foundational Pseudo-Democritus corpus, this treatise played a crucial role in transmitting practical chemical knowledge and alchemical theory into later Byzantine and Arabic intellectual traditions.
 
 ## Text
 

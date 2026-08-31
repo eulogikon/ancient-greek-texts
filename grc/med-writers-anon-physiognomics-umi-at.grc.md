@@ -5,6 +5,7 @@ author: Medical Writers Anonymous
 eul_wid: umi-at
 eul_aid: umi
 canonical: "https://eulogikon.org/works/med-writers-anon-physiognomics-umi-at"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Medical Writers Anonymous
 
 **eul_wid:** `umi-at` · [HTML page](https://eulogikon.org/works/med-writers-anon-physiognomics-umi-at)
-
-The Physiognomics is an ancient Greek treatise that systematically explains how to judge a person’s character from their physical appearance. Although traditionally included among the works of Aristotle, modern scholarship considers it spurious, dating it to approximately 300 BCE and attributing it to an anonymous author from the Hellenistic period, likely within the intellectual sphere of Aristotle’s school. Composed in Attic Greek and structured in 22 concise chapters, the work begins by outlining three principal methods of analysis: comparing individuals to animals with known temperaments, comparing them to different ethnic types, and observing temporary emotional expressions. The core of the text then details specific correlations between physical traits—such as hair texture, eye shape, vocal quality, and bodily build—and corresponding character qualities like courage, intelligence, or duplicity.
-
-As a complete, short manual, the treatise reflects the period’s scientific interest in classifying observable phenomena and the widespread belief in a deterministic link between the physical body and the soul. It was likely composed for a scholarly or professional audience concerned with ethics, medicine, or rhetoric. Preserved because it was transmitted under Aristotle’s name within the medieval manuscript tradition, the Physiognomics became a foundational text, exerting a significant influence on physiognomic thought from antiquity through the Renaissance.
 
 ## Text
 

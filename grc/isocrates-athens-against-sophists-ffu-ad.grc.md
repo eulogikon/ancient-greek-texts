@@ -5,6 +5,7 @@ author: Isocrates of Athens
 eul_wid: ffu-ad
 eul_aid: ffu
 canonical: "https://eulogikon.org/works/isocrates-athens-against-sophists-ffu-ad"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Isocrates of Athens
 
 **eul_wid:** `ffu-ad` · [HTML page](https://eulogikon.org/works/isocrates-athens-against-sophists-ffu-ad)
-
-Against the Sophists is a polemical pamphlet written by the Athenian educator Isocrates around 390 BCE. Composed in Attic Greek and structured in fifteen concise sections, the work delivers a sharp critique of Isocrates' rivals in the competitive Athenian educational sphere. He directs his argument primarily against two groups: the teachers of eristic disputation, whom he accuses of profiting from the instruction of frivolous and deceptive argumentation, and the teachers of political speechwriting, whose rigidly technical and formulaic approach to rhetoric he deems insufficient for genuine statesmanship. Isocrates also dismisses speculative philosophers who inquire into the nature of the cosmos, considering such pursuits irrelevant to practical civic life. The tract concludes by positively outlining his own educational alternative, which stresses the necessity of natural talent, extensive practice, and the cultivation of practical wisdom for effective civic leadership. Preserved complete within the Isocratean corpus through medieval manuscripts, the pamphlet is widely interpreted by modern scholars as a promotional prospectus for the school Isocrates founded upon his return to Athens. It functions to attract students by clearly distinguishing his morally-oriented and pragmatic curriculum from those of his competitors. The work is regarded as a foundational statement of an educational ideal that would exert a profound influence on later Greek and Roman conceptions of liberal arts education.
 
 ## Text
 

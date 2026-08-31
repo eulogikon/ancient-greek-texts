@@ -5,6 +5,7 @@ author: Alchemist I
 eul_wid: rrg-cf
 eul_aid: rrg
 canonical: "https://eulogikon.org/works/alchemist-i-making-oxysapon-rrg-cf"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alchemist I
 
 **eul_wid:** `rrg-cf` · [HTML page](https://eulogikon.org/works/alchemist-i-making-oxysapon-rrg-cf)
-
-On Making Oxysapon is a brief, practical alchemical treatise attributed by modern scholarship to the pseudonymous author designated as Alchemist I. Its title, which translates to "On Making Sharp-Soap" or "On Making Acid-Soap," refers to the production of a corrosive cleansing substance, likely used in metallurgical processes. The text survives as a concise, two-part recipe embedded within the larger corpus of Greco-Egyptian alchemical writings. It details a technical procedure for preparing oxysapon, providing specific instructions on ingredients and laboratory technique for creating this chemical reagent. The work is preserved within Byzantine alchemical manuscripts, such as the Parisinus Graecus 2325 and 2327, which were compiled between the 10th and 15th centuries from earlier sources. It circulates anonymously or under pseudonym within these encyclopedic collections. As a specific minor recipe, its significance lies in its contribution to the collective body of Greco-Egyptian technical knowledge. This corpus of practical chemistry was later transmitted into Arabic and subsequently Latin European traditions, thereby sustaining a continuum of artisan and proto-chemical practices.
 
 ## Text
 

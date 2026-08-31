@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-cw
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-lust-sorrow-okg-cw"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-cw` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-lust-sorrow-okg-cw)
-
-On Lust and Sorrow is a lost philosophical treatise by the Middle Platonist author Plutarch of Chaeronea. Known only from ancient catalogue references, the work is absent from the standard corpus of his surviving essays, the Moralia. Its title indicates an ethical investigation into the nature of pleasure and pain, two fundamental passions that were a persistent concern in Plutarch's wider project of cultivating rational self-mastery and virtue. While no continuous text survives, the treatise was reportedly structured into ten sections. Based on Plutarch's consistent philosophical interests, the work likely analyzed the psychological and ethical status of these emotions, advocated for their proper governance by reason, and engaged in critical dialogue with rival schools of thought, particularly Epicureanism, which accorded pleasure a central role in the good life. The treatise's complete loss obscures its specific arguments, but its presumed content would have contributed to the classical discourse on the management of the passions and the pursuit of tranquility.
 
 ## Text
 

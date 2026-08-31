@@ -5,6 +5,7 @@ author: Paradoxographer Anonymous
 eul_wid: jre-af
 eul_aid: jre
 canonical: "https://eulogikon.org/works/paradoxographer-anon-impious-jre-af"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Paradoxographer Anonymous
 
 **eul_wid:** `jre-af` · [HTML page](https://eulogikon.org/works/paradoxographer-anon-impious-jre-af)
-
-On the Impious is a brief, anonymous paradoxographical text consisting of two short narratives detailing divine retribution for acts of impiety. The first passage recounts the fate of the philosopher Anaxarchus of Abdera, a companion of Alexander the Great, who was executed by being pounded in a mortar as punishment for mocking Babylonian prophecies and the gods. The second tells of a man named Xanthus, who was struck by lightning after cutting down a sacred grove. The work survives fragmentarily within a larger compiled corpus of paradoxographical writings, transmitted among texts attributed to other authors in this tradition. As a clear example of Hellenistic paradoxography, a genre dedicated to collecting wondrous and shocking phenomena, its focused theme of punitive justice for hubris connects it to contemporary theological and moralizing literature, serving educated readers as both a source of curiosity and a moral exemplum.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Eupolis Atheniensis
 eul_wid: dum-ad
 eul_aid: dum
 canonical: "https://eulogikon.org/works/eupolis-athens-politicians-dum-ad"
+lang: grc
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Eupolis Atheniensis
 
 **eul_wid:** `dum-ad` · [HTML page](https://eulogikon.org/works/eupolis-athens-politicians-dum-ad)
-
-The Fragments on Athenian Politicians constitute a modern scholarly compilation of 152 surviving passages from the comedies of Eupolis, a leading Athenian poet of Old Comedy during the late 5th century BCE. A contemporary and rival of Aristophanes and Cratinus, Eupolis was celebrated in antiquity for his sharp wit and sophisticated style. These fragments, extracted from lost plays such as Maricas, Demes, and Baptae, consist primarily of verse lampoons directed at prominent political figures of the day, including the demagogue Hyperbolus and the controversial aristocrat Alcibiades. They survive not as a continuous text but through quotations preserved by later Greek authors, grammarians, and lexicographers, most extensively by Athenaeus of Naucratis in his Deipnosophistae.
-
-The content of the fragments exemplifies the politically charged satire characteristic of Old Comedy. They deploy personal invective to attack politicians, generals, and demagogues, critiquing populist leadership and Athenian military policy during the Peloponnesian War. The verses scrutinize moral and social corruption among the Athenian elite and occasionally employ fantastical or utopian scenarios as vehicles for political criticism. The transmission of Eupolis's work relies entirely on such indirect sources; no complete play survives. The standard modern edition for these and other comic fragments is Poetae Comici Graeci, and the corpus remains a subject of ongoing philological study. The historical significance of the fragments is considerable. Eupolis was regarded in antiquity as a canonical master of the genre, and his work provides crucial, if highly partisan, contemporary insight into the public figures and political rhetoric of Athenian democracy during a period of intense crisis and conflict, offering invaluable evidence for both historians and linguists.
 
 ## Text
 

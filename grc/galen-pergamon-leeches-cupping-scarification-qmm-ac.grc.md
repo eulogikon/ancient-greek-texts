@@ -5,6 +5,7 @@ author: Galen of Pergamon
 eul_wid: qmm-ac
 eul_aid: qmm
 canonical: "https://eulogikon.org/works/galen-pergamon-leeches-cupping-scarification-qmm-ac"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Galen of Pergamon
 
 **eul_wid:** `qmm-ac` · [HTML page](https://eulogikon.org/works/galen-pergamon-leeches-cupping-scarification-qmm-ac)
-
-_On Leeches, Revulsion, Cupping, Incision and Scarification_ is a concise medical treatise by the 2nd-century CE physician Galen of Pergamon. This practical work provides systematic instruction on various bloodletting techniques, a cornerstone of therapy within the Galenic system of humoral medicine. The text is preserved in full through the Byzantine manuscript tradition and appears in the standard modern edition of Galen's works. It is structured around six primary passages that detail the use of leeches and the therapeutic principle of revulsion, which involves drawing harmful humors away from a diseased part of the body. The treatise further describes mechanical methods such as cupping, incision, and scarification, comparing their relative efficacy and strength while advising on their appropriate application to different bodily areas for specific conditions. As part of Galen's authoritative corpus, this work was instrumental in standardizing bloodletting practices for subsequent centuries. Its detailed descriptions of leeching, cupping, and the underlying theory of revulsion remained central to therapeutic regimens in both Western and Islamic medicine until the early modern era.
 
 ## Text
 

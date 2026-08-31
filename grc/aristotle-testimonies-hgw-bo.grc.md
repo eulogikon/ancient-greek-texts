@@ -5,6 +5,7 @@ author: Aristotle
 eul_wid: hgw-bo
 eul_aid: hgw
 canonical: "https://eulogikon.org/works/aristotle-testimonies-hgw-bo"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristotle
 
 **eul_wid:** `hgw-bo` · [HTML page](https://eulogikon.org/works/aristotle-testimonies-hgw-bo)
-
-The Testimonies is a lost work of Aristotle, recorded as a single volume in the ancient catalog of his writings preserved by Diogenes Laertius. It belonged to his exoteric writings, a category of literary works intended for a public audience, which survive only in fragmentary references. The title suggests a collection of statements or evidence, though its precise subject matter remains unknown. Its classification among Aristotle's popular works implies it may have involved the compilation and evaluation of evidence, doxographical accounts of earlier thinkers, or historical and empirical data gathered for philosophical inquiry. The work is known exclusively from its listing in Diogenes Laertius; no fragments or direct quotations survive, and it was not transmitted alongside Aristotle's technical, esoteric treatises. As a lost text, the Testimonies holds no direct philosophical influence, but it retains historical significance for illustrating the breadth of Aristotle's literary output and the variety of topics he addressed in his more accessible writings.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Thucydides
 eul_wid: dny-ab
 eul_aid: dny
 canonical: "https://eulogikon.org/works/thucydides-epigram-dny-ab"
+lang: grc
 period: Classical
 dialect: Attic
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Thucydides
 
 **eul_wid:** `dny-ab` · [HTML page](https://eulogikon.org/works/thucydides-epigram-dny-ab)
-
-This epigram is a short commemorative poem attributed to the historian Thucydides, composed in his youth to honor the tragedian Euripides. The text of the epigram itself does not survive and is known only through later ancient testimonia. According to the biographer Plutarch, Thucydides was inspired to write the dedicatory verse for Euripides after being moved to tears upon hearing Herodotus recite his own work. The Byzantine encyclopedia known as the Suda similarly notes Thucydides's early poetic inclinations. The lost epigram was likely a conventional piece of praise celebrating Euripides's legacy within the intellectual circles of fifth-century BCE Athens. Modern scholarship generally regards this attribution as part of a biographical tradition that sought to illustrate the early literary connections and development of major historical figures, rather than as a surviving work of literature. Its transmission is purely testimonial, preserving a record of its existence but not its words.
 
 ## Text
 

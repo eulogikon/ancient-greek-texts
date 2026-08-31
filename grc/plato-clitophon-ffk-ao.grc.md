@@ -5,6 +5,7 @@ author: Plato of Athens
 eul_wid: ffk-ao
 eul_aid: ffk
 canonical: "https://eulogikon.org/works/plato-clitophon-ffk-ao"
+lang: grc
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plato of Athens
 
 **eul_wid:** `ffk-ao` · [HTML page](https://eulogikon.org/works/plato-clitophon-ffk-ao)
-
-The Clitophon is a short, one-sided philosophical dialogue attributed to Plato of Athens. It consists almost entirely of a speech by the character Clitophon, who addresses Socrates with a critical complaint. Clitophon praises Socrates for his unparalleled skill in exhorting others to care about virtue and to recognize their own ignorance in ethical matters. His primary criticism, however, is that Socrates stops at this negative, refutative stage. Clitophon argues that while Socrates is masterful at awakening the desire for virtue and dismantling false beliefs, he fails to provide any positive instruction on what virtue truly is or on the method by which it can be acquired and practiced. The dialogue ends abruptly with Clitophon declaring that, due to this perceived deficiency, he intends to turn for guidance to the rhetorician Thrasymachus instead, leaving Socrates’s challenge unanswered.
-
-Preserved within the medieval manuscript tradition of Plato’s works, the dialogue’s authenticity has been disputed since antiquity. Many modern scholars consider it spurious, citing its unusual structure, stylistic features, and singularly critical perspective. As a unique document of contemporary criticism of Socratic philosophy, its significance lies in its meta-philosophical challenge. It forcefully demands that philosophy move beyond mere critique and exhortation to offer constructive doctrine and actionable guidance. This provocation has influenced interpretations of Plato’s larger body of work, with some readings of the Republic viewing it as a direct response to the very challenge posed by Clitophon.
 
 ## Text
 

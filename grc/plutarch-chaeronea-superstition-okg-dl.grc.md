@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-dl
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-superstition-okg-dl"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-dl` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-superstition-okg-dl)
-
-On Superstition is an ethical essay by the Greek philosopher and priest Plutarch, composed in Attic Greek around 100 CE as part of his extensive collection known as the Moralia. The work presents a systematic critique of deisidaimonia, a term Plutarch defines not as excessive religious devotion but as an irrational and cowardly fear of the divine. He frames this condition as one of two corrupt branches stemming from ignorance about the gods, the other being atheism. Plutarch controversially argues that the superstitious individual is more wretched than the atheist, as they live in a state of perpetual anxiety, believing the gods to be capricious and cruel, a belief that poisons daily life and distorts even the approach to death. The essay, traditionally divided into 44 sections, employs vivid imagery and examples to illustrate how this pathological fear manifests in debilitating rituals and mental torment. Modern scholarship often interprets the treatise as a defense of a philosophically rational form of traditional Greek religion, reflecting Plutarch’s own role as a priest at Delphi and his Middle Platonist conviction that the gods are fundamentally benevolent. Preserved intact within the medieval manuscript tradition of the Moralia, the work has remained a influential text for centuries, serving as a key reference in subsequent philosophical and theological debates concerning the distinction between authentic piety and superstition.
 
 ## Text
 

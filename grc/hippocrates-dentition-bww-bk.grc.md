@@ -5,6 +5,7 @@ author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-bk
 eul_aid: bww
 canonical: "https://eulogikon.org/works/hippocrates-dentition-bww-bk"
+lang: grc
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hippocrates and the Hippocratic Corpus
 
 **eul_wid:** `bww-bk` · [HTML page](https://eulogikon.org/works/hippocrates-dentition-bww-bk)
-
-On Dentition is a concise medical treatise from the Hippocratic Corpus, the collection of ancient Greek medical writings traditionally associated with Hippocrates but composed by various authors between the fifth and fourth centuries BCE. Written in Ionic Greek, the work is devoted entirely to the process of infant teething. It systematically describes the typical sequence of tooth eruption and catalogues the symptoms commonly associated with it, including fever, diarrhea, and irritability. The treatise also identifies serious potential complications, such as convulsions, and offers prognostic guidance, noting that severe cases can be fatal. Its therapeutic recommendations include lancing the gums and applying soothing substances.
-
-The text is composed of seventeen brief, aphoristic passages and survives in full within the standard manuscript tradition of the Hippocratic Corpus. Scholars regard it as an early example of systematic clinical observation, representing a move within Hippocratic medicine toward naturalistic explanations for physiological processes and away from supernatural accounts of disease. Likely intended for practicing physicians or students, the treatise reflects the corpus's emphasis on careful prognosis. Its detailed observations on a specific developmental stage contributed to the foundations of later Western pediatrics and dentistry, influencing medical writers for centuries.
 
 ## Text
 

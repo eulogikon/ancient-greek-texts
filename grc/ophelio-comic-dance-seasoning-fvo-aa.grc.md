@@ -5,6 +5,7 @@ author: Ophelio Comicus
 eul_wid: fvo-aa
 eul_aid: fvo
 canonical: "https://eulogikon.org/works/ophelio-comic-dance-seasoning-fvo-aa"
+lang: grc
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Ophelio Comicus
 
 **eul_wid:** `fvo-aa` · [HTML page](https://eulogikon.org/works/ophelio-comic-dance-seasoning-fvo-aa)
-
-The Comic Dance and Seasoning Fragments is a collection of seven brief passages attributed to the obscure comic poet Ophelio. These fragments survive not through a direct manuscript tradition but as quotations preserved by later authors, primarily the gastronomic writer Athenaeus in his Deipnosophistae. Their original comic context, including the play or plays from which they derive and any associated plot, is entirely lost. The descriptive modern title reflects the fragments' thematic concerns, which align with common subjects in Middle and New Comedy, such as food, seasoning, and banquet practices; dance and musical entertainment; and the social manners of daily life, potentially involving cooks or other household figures. One surviving passage describes dancers contorting themselves like prawns leaping on coals, followed by a list of luxury items including Libyan pepper, incense, and a text of Plato anointed with Carian oil, suggesting a blend of physical comedy and parody of intellectual or contemporary types. Ophelio is an obscure figure, tentatively placed within the broad eras of Middle or New Comedy. While these fragments exert no documented influence on later literature, they hold value for specialists, contributing to the philological study of fragmentary Greek comedy and serving as minor source material for understanding ancient Greek food culture and social history. His remains are cataloged in standard modern collections such as Poetae Comici Graeci.
 
 ## Text
 

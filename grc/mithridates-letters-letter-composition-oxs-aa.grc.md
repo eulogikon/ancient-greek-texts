@@ -5,6 +5,7 @@ author: Mithridates Letters
 eul_wid: oxs-aa
 eul_aid: oxs
 canonical: "https://eulogikon.org/works/mithridates-letters-letter-composition-oxs-aa"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Mithridates Letters
 
 **eul_wid:** `oxs-aa` · [HTML page](https://eulogikon.org/works/mithridates-letters-letter-composition-oxs-aa)
-
-No treatise on letter composition attributed to Mithridates VI Eupator of Pontus is attested in the corpus of ancient Greek literature. While the historical Mithridates VI, who reigned from approximately 135 to 63 BCE, was celebrated in antiquity for his extraordinary command of an estimated twenty-two languages, no epistolary theory or model letter collection authored by him survives. Anecdotes concerning his linguistic prowess are preserved not in a work of his own but in later historical sources, such as Pliny the Elder and Valerius Maximus. Consequently, the thematic content, structure, and manuscript transmission of any such purported treatise remain entirely speculative. The king’s significance in literary history rests solely on his proverbial status as a polyglot, a figure emblematic of preternatural linguistic talent in later classical and Renaissance tradition, rather than on any direct contribution to the art of epistolography.
 
 ## Text
 

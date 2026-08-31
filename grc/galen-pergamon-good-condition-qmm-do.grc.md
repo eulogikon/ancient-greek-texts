@@ -5,6 +5,7 @@ author: Galen of Pergamon
 eul_wid: qmm-do
 eul_aid: qmm
 canonical: "https://eulogikon.org/works/galen-pergamon-good-condition-qmm-do"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Galen of Pergamon
 
 **eul_wid:** `qmm-do` · [HTML page](https://eulogikon.org/works/galen-pergamon-good-condition-qmm-do)
-
-_On Good Condition_ is a concise medical treatise by the Roman physician Galen of Pergamon. The work is dedicated to defining the concept of euexia, or "good condition," which Galen presents not as mere health but as the peak of physical fitness and functional readiness for vigorous activity. He establishes this optimal state as distinct from both baseline health and illness, arguing that while health can exist across a broad spectrum, good condition represents its highest possible intensity, attainable only in bodies of the finest natural constitution. The treatise systematically explores the nature of this condition, carefully differentiating it from the opposing state of kachexia, or "bad condition," which signifies a decline from robust fitness. Galen outlines the causes and observable signs of good condition, emphasizing that its cultivation and preservation depend fundamentally on the proper management of the six "non-natural" factors of life, with particular focus on regulated exercise, diet, and massage. The text survives complete within the Galenic corpus, transmitted through Greek manuscripts alongside his other works on hygiene and regimen. As an integral part of Galen's authoritative medical system, this treatise significantly shaped subsequent understandings of preventative medicine. Its conceptual framework for analyzing stages between health and disease, along with its detailed focus on regimen for achieving optimal physical performance, exerted a lasting influence on both medical theory and athletic practice from antiquity through the Renaissance.
 
 ## Text
 

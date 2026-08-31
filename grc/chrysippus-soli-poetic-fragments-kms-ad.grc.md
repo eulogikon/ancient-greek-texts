@@ -5,6 +5,7 @@ author: Chrysippus of Soli
 eul_wid: kms-ad
 eul_aid: kms
 canonical: "https://eulogikon.org/works/chrysippus-soli-poetic-fragments-kms-ad"
+lang: grc
 period: Hellenistic
 dialect: "Koine (phi, frg)"
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Chrysippus of Soli
 
 **eul_wid:** `kms-ad` · [HTML page](https://eulogikon.org/works/chrysippus-soli-poetic-fragments-kms-ad)
-
-The Poetic Fragments attributed to Chrysippus of Soli represent a modern scholarly construct, denoting the numerous poetic quotations embedded within the lost works of the third-century BCE Stoic philosopher. As the leading figure of the Stoic school in Athens, Chrysippus authored hundreds of treatises on logic, physics, and ethics, though none survive in complete form. His philosophical method consistently incorporated citations from authoritative poets such as Homer and Euripides, which he deployed as evidence within his arguments. Modern interpretation views this practice as a deliberate strategy to demonstrate that core Stoic doctrines—including belief in a rational cosmos, divine providence, and a specific theory of the emotions—were prefigured in traditional Greek poetry, which Chrysippus interpreted allegorically.
-
-These fragments exist today solely through quotation or criticism in later authors. Sources such as Diogenes Laertius, Plutarch, and Galen preserved excerpts from Chrysippus’s texts, frequently to contest his Stoic conclusions. Thus, the collected passages are a modern editorial assemblage, reconstructed from scattered and often polemical reports. The fragments provide crucial insight into Hellenistic philosophical engagement with literary tradition, illustrating how poetry was utilized as a tool for dialectical debate and for lending cultural authority to philosophical doctrine.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Aesop the Fabulist
 eul_wid: aqo-ah
 eul_aid: aqo
 canonical: "https://eulogikon.org/works/aesop-fables-dodecasyllables-aqo-ah"
+lang: grc
 period: Archaic
 dialect: Mixed Dialects
 domain: Fiction
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aesop the Fabulist
 
 **eul_wid:** `aqo-ah` · [HTML page](https://eulogikon.org/works/aesop-fables-dodecasyllables-aqo-ah)
-
-The Fables in Dodecasyllables is a collection of 218 Aesopic fables attributed to the semi-legendary fabulist Aesop, a reputed 6th-century BCE slave. While its title suggests a twelve-syllable metrical form, the work is catalogued as prose, a discrepancy that can only be clarified by examination of the primary text. The fables are short, moralistic tales, typically employing animal characters to illustrate human virtues and vices. Consistent with the broader Aesopic tradition, the collection explores themes such as the critique of power and hubris, the triumph of cunning and practical wisdom over brute force, the consequences of greed, and the complex social dynamics between the weak and the strong. The specific transmission history of this particular compilation is obscure, as the vast Aesopic corpus was preserved through multiple recensions, most notably the Augustana, and was later adapted into verse by authors such as Phaedrus and Babrius. The significance of Aesopic fables is profound and cross-cultural, as they served as foundational educational and literary texts throughout antiquity and the Middle Ages. They were staples of Greco-Roman and Byzantine pedagogy, translated into Syriac, Arabic, and numerous European languages, and exerted a direct influence on medieval authors including Marie de France and Geoffrey Chaucer.
 
 ## Text
 

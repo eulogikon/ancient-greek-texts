@@ -5,6 +5,7 @@ author: Lucian of Samosata
 eul_wid: pfk-ca
 eul_aid: pfk
 canonical: "https://eulogikon.org/works/lucian-samosata-tyrannicide-pfk-ca"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lucian of Samosata
 
 **eul_wid:** `pfk-ca` · [HTML page](https://eulogikon.org/works/lucian-samosata-tyrannicide-pfk-ca)
-
-Lucian of Samosata’s Tyrannicide is a satirical oration from the 2nd century CE, composed in Attic Greek as an exercise in the popular rhetorical genre of declamation. The work presents itself as a courtroom speech in which a speaker petitions for a double reward from the city. He claims to have killed a tyrant’s son with his sword, after which the tyrant, overwhelmed by grief at the sight of his dead child, took his own life. The speaker argues with elaborate sophistry that he is therefore responsible for both deaths, having eliminated the younger man directly and the older indirectly through the weapon of paternal affection, and thus deserves twice the customary payment for tyrannicide.
-
-Functioning as a parody of contemporary sophistic rhetoric, the oration meticulously constructs a clever but transparently specious legal argument from a fictional premise. It lampoons the professional orators of the Second Sophistic period, exposing their preoccupation with logical contrivance, verbal dexterity, and potential for financial gain over any concern for truth or ethical substance. While invoking the classical Athenian ideal of the tyrannicide as a civic hero, the work deliberately subverts it, shifting the focus from public virtue to private greed and legalistic casuistry. The text survives in full within the manuscript tradition of Lucian’s collected works and is preserved in modern critical editions.
 
 ## Text
 

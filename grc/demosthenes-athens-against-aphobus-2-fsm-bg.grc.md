@@ -5,6 +5,7 @@ author: Demosthenes of Athens
 eul_wid: fsm-bg
 eul_aid: fsm
 canonical: "https://eulogikon.org/works/demosthenes-athens-against-aphobus-2-fsm-bg"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Demosthenes of Athens
 
 **eul_wid:** `fsm-bg` · [HTML page](https://eulogikon.org/works/demosthenes-athens-against-aphobus-2-fsm-bg)
-
-Against Aphobus, Part 2 is a forensic oration delivered by Demosthenes of Athens around 363 BCE. It forms the second part of a legal trilogy concerning a private suit for damages, in which the young Demosthenes prosecuted his former guardian, Aphobus, for the mismanagement and embezzlement of his substantial paternal inheritance. This specific speech was presented after Aphobus had been found liable, arguing for the imposition of a severe financial penalty. It systematically dismantles the guardian’s defense and provides a detailed accounting of the dissipated estate. The complete, twenty-two-section speech is composed in Attic Greek and survives within the Demosthenic corpus through medieval manuscript tradition; its authenticity is universally accepted. As Demosthenes’ earliest extant work, reportedly composed with the assistance of the logographer Isaeus when the orator was in his early twenties, it offers invaluable insight into Athenian inheritance law and the fiduciary responsibilities of guardians. Scholars value the oration both for its autobiographical details concerning Demosthenes’ youth and as a formative example of the precise, methodical forensic rhetoric that would characterize his later political career.
 
 ## Text
 

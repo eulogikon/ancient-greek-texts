@@ -5,6 +5,7 @@ author: Aristides the Orator
 eul_wid: qwm-ae
 eul_aid: qwm
 canonical: "https://eulogikon.org/works/aristides-orator-water-pergamum-qwm-ae"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristides the Orator
 
 **eul_wid:** `qwm-ae` · [HTML page](https://eulogikon.org/works/aristides-orator-water-pergamum-qwm-ae)
-
-The Festival Speech on the Water in Pergamum is a formal panegyric oration by the Greek orator Aelius Aristides. Composed around 157–158 CE, it was delivered in the city of Pergamum to celebrate the completion of a new aqueduct, a benefaction from the Roman emperor Antoninus Pius. The speech is a single, unified work in Attic Greek that adheres to classical rhetorical structure, progressing from an exordium to a narrative praising the emperor and the utility of his gift, and concluding with a powerful peroration. Its central theme is imperial benefaction, transforming the practical engineering of the aqueduct into a profound symbol of civic prosperity, public health, and the emperor's paternal care for his subjects. The oration simultaneously glorifies the city of Pergamum itself and promotes a vision of harmonious relations between the cultured Greek East and Roman imperial rule. A key document of the Second Sophistic period, the speech exemplifies how Greek intellectuals of the era employed traditional rhetoric and literary paideia to articulate their identity and negotiate their status within the Roman Empire. It was composed for delivery at a public festival and was subsequently published for circulation among educated elites. The text survives in full, transmitted through medieval manuscripts such as the 13th-century Parisinus graecus 2951, which preserves the complete corpus of Aristides' orations.
 
 ## Text
 

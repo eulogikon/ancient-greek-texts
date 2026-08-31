@@ -5,6 +5,7 @@ author: Philo of Alexandria
 eul_wid: lgi-ag
 eul_aid: lgi
 canonical: "https://eulogikon.org/works/philo-alexandria-worse-attacks-better-lgi-ag"
+lang: grc
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philo of Alexandria
 
 **eul_wid:** `lgi-ag` · [HTML page](https://eulogikon.org/works/philo-alexandria-worse-attacks-better-lgi-ag)
-
-The surviving works of Philo of Alexandria constitute an extensive corpus of approximately fifty treatises composed in Koine Greek between roughly 20 BCE and 50 CE. As a Jewish philosopher from Alexandria, Philo produced philosophical commentaries on the Hebrew Bible, with a particular focus on the Pentateuch, alongside historical narratives and independent philosophical essays. His writings are systematically organized into three principal series. The Allegorical Commentary offers a detailed, verse-by-verse interpretation of Genesis intended for advanced students. The Exposition of the Law presents a more structured and accessible explanation of Mosaic law for a general audience. The third series, Questions and Answers on Genesis and Exodus, addresses specific textual difficulties in a catechetical format. A fourth, miscellaneous group includes historical and apologetic works such as Against Flaccus and On the Embassy to Gaius, which document contemporary anti-Jewish violence in Alexandria, alongside philosophical discussions like On the Eternity of the World.
-
-Philo's primary aim was to articulate Jewish scripture and thought within the framework of Greek philosophy, particularly Middle Platonism, and to defend Jewish communal rights within the Roman Empire. Modern scholarship interprets his synthesis as an ambitious effort to demonstrate that the teachings of Moses constituted the original and supreme source of the finest Greek philosophical concepts. This project was directed at both an educated Jewish diaspora and interested Gentile readers. His works survived almost exclusively through Christian transmission, as his allegorical methods and theological concepts, especially his doctrine of the Logos as a mediating divine principle, profoundly influenced early Christian thinkers. The complete original Greek text of most treatises is preserved in medieval manuscripts, though significant portions of the Questions and Answers survive primarily in an Armenian translation, with only fragments remaining in Greek.
 
 ## Text
 

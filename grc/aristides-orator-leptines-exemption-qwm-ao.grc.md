@@ -5,6 +5,7 @@ author: Aristides the Orator
 eul_wid: qwm-ao
 eul_aid: qwm
 canonical: "https://eulogikon.org/works/aristides-orator-leptines-exemption-qwm-ao"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristides the Orator
 
 **eul_wid:** `qwm-ao` · [HTML page](https://eulogikon.org/works/aristides-orator-leptines-exemption-qwm-ao)
-
-To Leptines in Favor of Exemption is a judicial oration composed in Attic Greek by the orator Aelius Aristides around 160–165 CE. A polished rhetorical exercise likely intended for publication rather than actual delivery in court, the speech mounts a comprehensive defense against a proposed law in the city of Smyrna. The legislation, introduced by a citizen named Leptines, aimed to revoke all existing grants of tax immunity and exemption from civic duties, honors traditionally bestowed by the city upon its public benefactors. Aristides contends that abolishing these awards constitutes an act of profound injustice and impiety, arguing that it violates solemn public promises and would ultimately harm the city by damaging its reputation for trustworthiness and discouraging future patronage.
-
-The oration, preserved in full and divided into 86 sections, methodically critiques the law on multiple grounds, including its injustice, its detrimental utility, and flaws in its legal procedure. It stands as a significant document of the Second Sophistic period, exemplifying how the educated Greek elite employed classical rhetorical forms to engage with contemporary civic issues under Roman imperial administration. The work offers valuable historical insight into the social and economic structures of Greek cities within the Roman Empire, particularly the vital system of liturgies and honors whereby wealthy citizens were incentivized to fund public buildings, festivals, and services. The text survives complete through a medieval manuscript tradition as part of the collected works of Aristides.
 
 ## Text
 

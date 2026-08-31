@@ -5,6 +5,7 @@ author: Marcian of Heraclea
 eul_wid: szc-ac
 eul_aid: szc
 canonical: "https://eulogikon.org/works/marcian-heraclea-geography-szc-ac"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Geography
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Marcian of Heraclea
 
 **eul_wid:** `szc-ac` · [HTML page](https://eulogikon.org/works/marcian-heraclea-geography-szc-ac)
-
-The Geography of Artemidorus is an epitome composed by the late antique geographer Marcian of Heraclea, who likely lived between the fourth and sixth centuries CE. This work condenses the lost Geographoumena in eleven books by the Hellenistic geographer Artemidorus of Ephesus, who wrote around 100 BCE. Marcian’s epitome preserves the systematic measurements and regional descriptions of the original, representing a key example of the late antique practice of summarizing classical geographical knowledge for contemporary use. The text follows a periplus, or coastal voyage, structure, summarizing Artemidorus’s data on the known world. It provides measurements of coastlines and distances between points in stadia, alongside descriptions of regions including the Iberian Peninsula, Gaul, Italy, Greece, Asia Minor, North Africa, and the eastern Mediterranean.
-
-Artemidorus’s original work is lost and survives only through fragments cited by other authors, such as Strabo, and through Marcian’s epitome. Marcian’s own text has been transmitted through medieval manuscripts, and the relationship between this epitome and his other geographical summary, the Periplus of the Outer Sea, remains a subject of scholarly analysis. The epitome served as a vital vehicle for transmitting Artemidorus’s influential geographical data to Byzantine and medieval scholars. It allows modern historians to reconstruct the methods and content of Hellenistic geography, contributing significantly to our understanding of ancient conceptualizations of the world, its trade routes, and maritime space.
 
 ## Text
 

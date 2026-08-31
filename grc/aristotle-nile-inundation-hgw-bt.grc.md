@@ -5,6 +5,7 @@ author: Aristotle
 eul_wid: hgw-bt
 eul_aid: hgw
 canonical: "https://eulogikon.org/works/aristotle-nile-inundation-hgw-bt"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristotle
 
 **eul_wid:** `hgw-bt` · [HTML page](https://eulogikon.org/works/aristotle-nile-inundation-hgw-bt)
-
-On the Inundation of the Nile is a collection of fragmentary passages attributed to Aristotle that addresses the ancient scientific problem of the Nile River's unique annual flooding. Unlike other major rivers known to the Mediterranean world, which typically swelled in winter and diminished in summer, the Nile rose dramatically each summer, inundating the Egyptian landscape. The text systematically examines potential causes for this phenomenon, applying reasoned critique to prevailing theories. It explicitly rejects the common explanation that the floodwaters originated from melting snow in Ethiopia, arguing that the region's climate was too hot to sustain significant snowpack and noting that the prevailing Etesian winds blew from the north, not from the supposed southern snows. Instead, the work attributes the inundation to heavy seasonal rains in the mountainous regions of southern Ethiopia, whose waters are then carried northward by the river's course.
-
-The text survives not as a continuous treatise but as four excerpts preserved by later Neoplatonic and Aristotelian commentators, including Alexander of Aphrodisias and Simplicius. These fragments are traditionally grouped under this title in collections of Aristotle's fragmentary works, though it remains uncertain whether they originated from a dedicated, standalone monograph or from a larger discussion within another work. The passages exemplify the Peripatetic school's methodological approach to natural philosophy, which emphasized the identification of material and efficient causes for observable phenomena through logical argument and the critical assessment of existing opinions. Aristotle's rain-based explanation proved influential in subsequent geographical thought, notably informing the analysis of Strabo, and the fragments serve as a significant case study in the development of ancient scientific reasoning and the transmission of philosophical problems.
 
 ## Text
 

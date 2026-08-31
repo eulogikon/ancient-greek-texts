@@ -1,10 +1,11 @@
 ---
 title: On Sedition and Political Defense
 title_greek: Ἀποσπάσματα
-author: "Antiphon of Athens "
+author: Antiphon of Athens
 eul_wid: bqs-ah
 eul_aid: bqs
 canonical: "https://eulogikon.org/works/antiphon-athens-sedition-defense-bqs-ah"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -16,13 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀποσπάσματα*
 
-**Author:** Antiphon of Athens 
+**Author:** Antiphon of Athens
 
 **eul_wid:** `bqs-ah` · [HTML page](https://eulogikon.org/works/antiphon-athens-sedition-defense-bqs-ah)
-
-On Sedition and Political Defense is a forensic oration composed by the Athenian orator Antiphon for his own trial in 411 BCE. He faced charges of treason and sedition for his central role in designing and implementing the oligarchic regime of the Four Hundred, which briefly overthrew the Athenian democracy during the Peloponnesian War. The speech, delivered before a restored democratic court, constitutes his elaborate defense against accusations of betraying the city to Sparta and subverting its constitutional order. Despite his arguments, Antiphon was convicted and executed. The work survives not as a complete text but in 132 fragmentary excerpts, primarily preserved for their rhetorical merit in later lexicons and commentaries, most notably the Lexicon of the Ten Orators by the Byzantine scholar Harpocration.
-
-The extant fragments reveal a sophisticated legal and political defense. Antiphon directly counters the charge of acting against the state's interests, arguing instead that his participation in the oligarchic revolution was a necessary and patriotic act during a period of extreme military and political crisis. He asserts that his motives were rooted in a concern for the city's salvation, not in personal malice or financial gain. The speech employs advanced techniques of forensic rhetoric, including arguments from probability and careful character portrayal, as Antiphon seeks to distance himself from the worst excesses of the short-lived regime and justify the constitutional change as a pragmatic response to emergency. The historian Thucydides, a contemporary, later praised this speech as the finest defense ever made in a capital trial, a judgment that secured Antiphon's enduring reputation as a master logographer and rhetorician. These fragments provide invaluable evidence for the development of Attic oratory and offer a rare, partial perspective from a leading intellectual of the defeated oligarchic faction, illuminating the intense political rhetoric and legal strategies employed during one of Athens' most profound constitutional crises.
 
 ## Text
 

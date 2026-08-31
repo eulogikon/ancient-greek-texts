@@ -5,6 +5,7 @@ author: Bolus of Mendes
 eul_wid: kzk-ae
 eul_aid: kzk
 canonical: "https://eulogikon.org/works/bolus-mendes-democritus-magic-kzk-ae"
+lang: grc
 period: Hellenistic
 dialect: Koine (frg)
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Bolus of Mendes
 
 **eul_wid:** `kzk-ae` · [HTML page](https://eulogikon.org/works/bolus-mendes-democritus-magic-kzk-ae)
-
-The Fragments on Democritus and Magic is a pseudepigraphic collection attributed to Bolus of Mendes, a Hellenistic writer active around 200 BCE. Composed in Koine Greek, the work falsely ascribes its content to the pre-Socratic philosopher Democritus in order to connect his intellectual authority with emerging traditions of magic and the occult. The surviving passages, which are not from a continuous manuscript but are quotations preserved by later Greek, Byzantine, and Arabic authors, discuss the hidden properties of stones, plants, and animals. These properties are typically explained through the principles of sympathy and antipathy, a conceptual framework wherein natural objects possess inherent affinities or aversions to one another. Modern scholarship interprets these fragments as excerpts from a larger, now-lost corpus by Bolus, designed to legitimize magical and proto-alchemical knowledge by associating it with a venerable philosophical figure. The work appears intended for an audience of practitioners or students in Ptolemaic Egypt interested in synthesizing Greek philosophical thought with Egyptian and Near Eastern traditions of natural magic. Through this and similar pseudepigrapha, Bolus played a significant role in forging the enduring legendary image of Democritus as a master of alchemy and esoteric arts.
 
 ## Text
 

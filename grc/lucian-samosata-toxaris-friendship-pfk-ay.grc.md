@@ -5,6 +5,7 @@ author: Lucian of Samosata
 eul_wid: pfk-ay
 eul_aid: pfk
 canonical: "https://eulogikon.org/works/lucian-samosata-toxaris-friendship-pfk-ay"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lucian of Samosata
 
 **eul_wid:** `pfk-ay` · [HTML page](https://eulogikon.org/works/lucian-samosata-toxaris-friendship-pfk-ay)
-
-Toxaris or Friendship is a dialogue by the second-century CE satirist Lucian of Samosata, presented as a formal rhetorical contest. The debate unfolds between a Greek named Mnesippus and a Scythian named Toxaris, who each argue for the superior capacity for friendship within their respective cultures. To substantiate their claims, each participant narrates five elaborate tales of exceptional loyalty, sacrifice, and courage drawn from their cultural traditions. The exchange concludes not with a decisive victory but with mutual respect and the formation of a new bond between the two interlocutors themselves. A complete example of Lucian's literary artistry, the work merges serious ethical exploration with playful rhetorical display. Modern scholarship views it as a sophisticated exercise in cultural relativism, deliberately challenging Hellenic notions of superiority by presenting noble and virtuous "barbarian" characters. Composed in an elegant Attic style, it is a product of the Second Sophistic period, intended for an educated, Greek-speaking audience within the Roman Empire who would appreciate its philosophical engagement and polished prose. The full text is preserved in medieval manuscripts and is conventionally divided into 63 sections in contemporary editions.
 
 ## Text
 

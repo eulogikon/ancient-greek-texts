@@ -5,6 +5,7 @@ author: Menander of Athens
 eul_wid: hps-bo
 eul_aid: hps
 canonical: "https://eulogikon.org/works/menander-athens-shield-hps-bo"
+lang: grc
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Menander of Athens
 
 **eul_wid:** `hps-bo` · [HTML page](https://eulogikon.org/works/menander-athens-shield-hps-bo)
-
-The Shield is a comedy by the Athenian playwright Menander, composed in verse around 315–305 BCE. A seminal work of New Comedy, it exemplifies the genre's shift from political satire to plots centered on domestic and familial intrigue. The narrative hinges on a case of mistaken identity precipitated by a slave who returns from a military campaign bearing the shield of his young master, Cleostratus. The household interprets this as proof of the soldier's death, setting off a legal contest for his estate. The primary schemer is Cleostratus's avaricious uncle, Smicrines, who intends to marry his niece, the soldier's sister, to gain control of her inheritance. The ensuing action revolves around the efforts of a clever slave and a loyal friend to protect the young woman, culminating in the fortunate and unexpected return of the very much alive Cleostratus.
-
-The play is nearly complete, though not fully intact. It survives primarily on a 3rd-century CE papyrus known as the Bodmer Papyrus, which preserves lines 97 through 643. The opening approximately one hundred lines and the play's conclusion are missing, although the resolution of the plot is evident from the extant text. Modern scholarship views the Shield as a reflection of contemporary Athenian social and legal customs, particularly the intricacies of inheritance law and the precarious position of unmarried women. Its dramatic structure, which employs deception, recognizable stock characters, and a last-minute reversal of fortune, is considered a foundational influence on the subsequent development of Roman comedy.
 
 ## Text
 

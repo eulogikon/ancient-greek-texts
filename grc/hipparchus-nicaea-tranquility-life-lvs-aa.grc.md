@@ -5,6 +5,7 @@ author: Hipparchus of Nicaea III
 eul_wid: lvs-aa
 eul_aid: lvs
 canonical: "https://eulogikon.org/works/hipparchus-nicaea-tranquility-life-lvs-aa"
+lang: grc
 period: Hellenistic
 dialect: Technical Koine
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hipparchus of Nicaea III
 
 **eul_wid:** `lvs-aa` · [HTML page](https://eulogikon.org/works/hipparchus-nicaea-tranquility-life-lvs-aa)
-
-The work titled On the Tranquility of Life is a spurious attribution, unattested in the manuscript tradition or scholarly record of ancient Greek literature. The text is ascribed to a figure named Hipparchus of Nicaea III, a poet otherwise unknown. This attribution is likely a later invention, perhaps attempting to borrow authority from the famous astronomer and mathematician Hipparchus of Nicaea, who lived in the second century BCE and whose surviving works are entirely scientific. The theme of tranquility, or euthymia, was a common subject in Hellenistic moral philosophy, most notably treated in Plutarch’s prose essay On Tranquility of Mind. While a poetic exploration of this theme would be plausible for the period, no genuine fragments or reliable testimony concerning this specific work exist. The entry therefore documents a ghost text, a purported work that has left no trace in the historical record beyond this dubious citation.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Xenophon of Athens
 eul_wid: ezq-ac
 eul_aid: ezq
 canonical: "https://eulogikon.org/works/xenophon-athens-horsemanship-ezq-ac"
+lang: grc
 period: Classical
 dialect: Attic
 domain: History
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Xenophon of Athens
 
 **eul_wid:** `ezq-ac` · [HTML page](https://eulogikon.org/works/xenophon-athens-horsemanship-ezq-ac)
-
-On the Art of Horsemanship is a practical treatise on equestrianism composed in the fourth century BCE by the Athenian soldier and author Xenophon. Written in clear Attic prose, the work provides a systematic guide to the selection, care, and training of horses, reflecting the author's extensive experience as a cavalryman. It opens with detailed instructions for evaluating and purchasing a sound animal, emphasizing the importance of strong feet and limbs. The manual then proceeds to cover all aspects of stable management, the gentle initial training of a young horse, and advanced exercises designed to prepare a mount for warfare or hunting. The final sections offer advice for the rider, including techniques for mounting and guidance on riding in armor.
-
-A defining characteristic of the work is its consistent advocacy for a patient and humane approach, promoting a cooperative partnership between horse and rider through kindness and reward-based methods rather than force. Xenophon explicitly addresses his advice to fellow Athenian gentlemen, for whom horse ownership was a matter of status, sport, and military necessity. The treatise survives complete through the medieval manuscript tradition. As the earliest extant Greek manual on the subject, it served as a foundational equestrian text for centuries, and its emphasis on psychological insight and gentle training continues to influence modern horsemanship.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Homer
 eul_wid: abe-ab
 eul_aid: abe
 canonical: "https://eulogikon.org/works/homer-odyssey-abe-ab"
+lang: grc
 period: Archaic
 dialect: Epic (Homeric)
 domain: Epic
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Homer
 
 **eul_wid:** `abe-ab` · [HTML page](https://eulogikon.org/works/homer-odyssey-abe-ab)
-
-The Odyssey is an ancient Greek epic poem attributed to the poet Homer, traditionally dated to the 8th or 7th century BCE. Composed in dactylic hexameter and divided into twenty-four books, it chronicles the arduous, decade-long homeward voyage of the hero Odysseus following the fall of Troy. His journey is obstructed by divine wrath, monstrous adversaries, and supernatural temptations, while the parallel narrative depicts the plight of his faithful wife, Penelope, and his coming-of-age son, Telemachus, who contend with a host of destructive suitors in the royal palace on Ithaca. The poem is renowned for its sophisticated narrative architecture, which employs extended flashbacks as Odysseus himself recounts his wanderings.
-
-Rooted in a deep tradition of oral composition, the epic explores enduring themes of nostos, or homecoming, the efficacy of cunning intelligence over brute force, the sacred obligations of hospitality, and the resilience of familial bonds. Modern scholarship recognizes the work not merely as a foundational adventure tale but as a profound meditation on identity, endurance, and the redefinition of heroism in a post-war world. Unlike many works from antiquity, the Odyssey survives in its complete form. Its text was standardized in classical Athens and later critically edited by Hellenistic scholars in Alexandria, preserved through a robust medieval manuscript tradition that has transmitted the entire poem for over two millennia.
 
 ## Text
 

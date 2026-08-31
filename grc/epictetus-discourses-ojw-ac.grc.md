@@ -5,6 +5,7 @@ author: Epictetus the Stoic
 eul_wid: ojw-ac
 eul_aid: ojw
 canonical: "https://eulogikon.org/works/epictetus-discourses-ojw-ac"
+lang: grc
 period: Roman
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Epictetus the Stoic
 
 **eul_wid:** `ojw-ac` · [HTML page](https://eulogikon.org/works/epictetus-discourses-ojw-ac)
-
-The Discourses of Epictetus is a foundational text of Stoic philosophy, recorded in Koine Greek by the historian Arrian, a devoted student of the philosopher Epictetus. Compiled and published around 104–107 CE, the work was intended as a faithful record of Epictetus’s oral teachings and a practical guide for living. It captures the lively, conversational style of his lectures, in which he engaged with students to dissect everyday ethical problems. The text focuses intensely on practical ethics, teaching how to achieve tranquility and inner freedom regardless of external circumstances. Its core doctrine is the fundamental distinction between what is within our control—our judgments, desires, and choices—and what is not, such as our reputation, health, or material possessions.
-
-Arrian originally compiled the lectures into eight books, but only four survive intact. These are preserved through a medieval manuscript tradition, with the complete surviving text found in an 11th-century codex. The loss of the other half of the work occurred early, with no evidence that the missing books survived into the Byzantine period. Despite this, the extant portion is considered a highly reliable transcription of Epictetus’s spoken words. Modern scholars often interpret the Discourses as a form of philosophical therapy, designed to train individuals to examine their impressions critically, fulfill their social roles with integrity, and cultivate an unshakable resilience rooted in reason and virtue.
 
 ## Text
 

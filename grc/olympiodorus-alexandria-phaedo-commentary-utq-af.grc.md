@@ -5,6 +5,7 @@ author: Olympiodorus the Younger of Alexandria
 eul_wid: utq-af
 eul_aid: utq
 canonical: "https://eulogikon.org/works/olympiodorus-alexandria-phaedo-commentary-utq-af"
+lang: grc
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Olympiodorus the Younger of Alexandria
 
 **eul_wid:** `utq-af` · [HTML page](https://eulogikon.org/works/olympiodorus-alexandria-phaedo-commentary-utq-af)
-
-The Commentary on Plato's Phaedo by Olympiodorus the Younger is a comprehensive philosophical exegesis of Plato's dialogue concerning the immortality of the soul. Composed in the sixth century CE by the Alexandrian pagan philosopher, the work is structured as a series of 159 lecture notes, each providing a detailed, line-by-line analysis. Written in Attic Greek, it employs the standard Neoplatonic interpretive method, examining the text through ethical, physical, and theological lenses. Its primary intellectual objective is a systematic defense and elaboration of Plato's arguments for the soul's immortality, while simultaneously refuting competing interpretations from Stoic and Peripatetic schools.
-
-The commentary survives complete, principally transmitted through a tenth-century manuscript. It was produced during the reign of the Christian emperor Justinian I, a period of increasing pressure on pagan intellectual institutions. Modern scholarship discerns a dual purpose in the work: it functions both as an advanced textbook for philosophy students and as a nuanced, implicit defense of pagan theological philosophy within a Christianizing empire. Olympiodorus frames Plato's teachings on the divine nature of the soul as truths demonstrable by human reason, a presentation often interpreted as a subtle response to contemporary Christian doctrinal claims. As such, the text serves as a vital document for understanding late Neoplatonic pedagogical practices and represents a significant artifact from the final era of pagan philosophical scholarship in Alexandria.
 
 ## Text
 

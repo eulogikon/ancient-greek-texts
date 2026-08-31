@@ -5,6 +5,7 @@ author: Julian the Apostate
 eul_wid: sno-an
 eul_aid: sno
 canonical: "https://eulogikon.org/works/julian-apostate-spurious-letters-sno-an"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Julian the Apostate
 
 **eul_wid:** `sno-an` · [HTML page](https://eulogikon.org/works/julian-apostate-spurious-letters-sno-an)
-
-The Spurious Letters is a collection of five brief Greek epistles falsely ascribed to the fourth-century Roman emperor Julian, commonly called the Apostate. Although Julian was an authentic and prolific author, these particular texts are later forgeries, likely composed after his death in 363 CE. They survive because medieval scribes copied them alongside Julian’s genuine works in manuscript collections, from which modern editors have subsequently isolated them. While the specific content of these letters is not detailed in surviving sources, their attribution to a philosopher-emperor famous for his rejection of Christianity suggests they engage with themes of religious controversy, moral exhortation, or philosophical discourse. The forgery of letters in the name of eminent historical figures was a widespread practice in antiquity, often serving as a rhetorical exercise or a means to advance an argument under the cloak of an authoritative voice. Scholars now treat these texts primarily as examples of pseudepigraphy, illustrating the persistent fascination with—and contentious legacy of—Julian long after his reign. Their principal modern significance lies in the domain of textual criticism, where they aid experts in differentiating the emperor’s authentic writings from later imitations. As such, they provide a narrow but instructive view into how subsequent generations appropriated and sometimes fabricated the intellectual heritage of a pivotal historical figure.
 
 ## Text
 

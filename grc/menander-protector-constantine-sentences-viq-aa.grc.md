@@ -1,10 +1,11 @@
 ---
 title: "On Sentences, In Constantine Porphyrogenitus'-Sentences"
 title_greek: Περὶ Γνωμῶν
-author: "Menander Protector "
+author: Menander Protector
 eul_wid: viq-aa
 eul_aid: viq
 canonical: "https://eulogikon.org/works/menander-protector-constantine-sentences-viq-aa"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: History
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Περὶ Γνωμῶν*
 
-**Author:** Menander Protector 
+**Author:** Menander Protector
 
 **eul_wid:** `viq-aa` · [HTML page](https://eulogikon.org/works/menander-protector-constantine-sentences-viq-aa)
-
-On Sentences is a collection of thirty-two moral and political maxims compiled by the late sixth-century Byzantine historian Menander Protector. Written in Koine Greek prose, the work is a gnomology, or compilation of wise sayings, attributed primarily to the ancient Seven Sages, such as Solon and Thales, as well as to other philosophers and rulers. Its themes encompass statecraft, personal ethics, justice, and the duties of rulers. The text does not survive independently but is preserved solely within the tenth-century Byzantine encyclopedia known as the Excerpta historica, commissioned by Emperor Constantine VII Porphyrogennetos. Within this anthology, the maxims appear in the volume titled "On Virtues and Vices." Modern scholarship interprets the work as part of a Byzantine tradition of excerpting and preserving knowledge, likely intended for the moral and political education of courtiers and administrators. Its inclusion in the imperial compendium underscores the enduring value placed on classical Greek wisdom within the Byzantine court.
 
 ## Text
 

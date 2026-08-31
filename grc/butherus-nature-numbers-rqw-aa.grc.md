@@ -1,10 +1,11 @@
 ---
 title: On the Nature of Numbers
 title_greek: Ἀπόσπασμα
-author: "Butherus "
+author: Butherus
 eul_wid: rqw-aa
 eul_aid: rqw
 canonical: "https://eulogikon.org/works/butherus-nature-numbers-rqw-aa"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Philosophy
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀπόσπασμα*
 
-**Author:** Butherus 
+**Author:** Butherus
 
 **eul_wid:** `rqw-aa` · [HTML page](https://eulogikon.org/works/butherus-nature-numbers-rqw-aa)
-
-_On the Nature of Numbers_ is a brief philosophical treatise attributed to an otherwise unknown author named Butherus. The work survives only as a fragment, as indicated by its Greek title, which translates to "Extract." It is preserved in the anthology of Stobaeus, from which its limited content is derived. The treatise explores the metaphysics of number, presenting the monad, or the One, as the fundamental principle of all existence. This principle is described as the origin, measure, and eternal, indivisible foundation of being, from which all other things derive their reality. The text further distinguishes between odd and even numbers, assigning ontological priority and perfection to the odd, as it possesses a beginning, middle, and end. The fragment concludes by identifying the One with substance, nature, and intellect, asserting that all other entities are purified reflections and images of this singular archetype. The subject matter aligns with broader Neopythagorean and Neoplatonic speculations on number, but Butherus himself cannot be placed within any specific philosophical school or tradition, and the work has no documented influence on subsequent thought.
 
 ## Text
 

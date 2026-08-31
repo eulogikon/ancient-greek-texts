@@ -5,6 +5,7 @@ author: Sophron of Syracuse
 eul_wid: dru-aa
 eul_aid: dru
 canonical: "https://eulogikon.org/works/sophron-syracuse-mime-daily-life-dru-aa"
+lang: grc
 period: Classical
 dialect: Doric (frg)
 domain: Drama
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Sophron of Syracuse
 
 **eul_wid:** `dru-aa` · [HTML page](https://eulogikon.org/works/sophron-syracuse-mime-daily-life-dru-aa)
-
-The Mime Fragments of Daily Life is a modern designation for the surviving works of Sophron of Syracuse, a fifth-century BCE author. Sophron composed short, realistic dramatic sketches known as mimes, written in rhythmic Doric Greek prose. He categorized his output into two distinct types: "male" mimes, depicting scenes from the daily lives of men, and "female" mimes, focusing on the experiences of women. The extant corpus consists of 163 fragments, which are not remnants of a single book but rather scattered pieces of these various sketches, preserved solely through quotations by later authors. These fragments are celebrated for their vivid, naturalistic portrayal of ordinary Sicilian people, capturing their humor, conversations, and social manners with remarkable immediacy.
-
-Active in Syracuse during a period of significant cultural growth, Sophron intended his mimes for reading or recitation. They provided entertainment through sharp observation of everyday society rather than through complex plots. Modern scholarship interprets these works as a major innovation in literary realism, notable for their focus on character and familiar domestic scenes. Their influence was substantial despite their fragmentary survival. The philosopher Plato is reported to have admired them, and the Hellenistic poet Theocritus directly adapted their style and subject matter into his own pastoral poetry, thereby securing Sophron's lasting legacy within that literary tradition.
 
 ## Text
 

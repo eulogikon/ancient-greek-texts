@@ -5,6 +5,7 @@ author: Zosimus of Panopolis
 eul_wid: tyc-bm
 eul_aid: tyc
 canonical: "https://eulogikon.org/works/zosimus-panopolis-burning-bodies-tyc-bm"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Zosimus of Panopolis
 
 **eul_wid:** `tyc-bm` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-burning-bodies-tyc-bm)
-
-On the Burning of Bodies is a Greek alchemical treatise authored by the Egyptian-Greek alchemist Zosimus of Panopolis, dating to the late third or early fourth century CE. The work serves as a practical and theoretical manual centered on core laboratory processes involving the application of fire, including combustion, calcination, and sublimation. These techniques are presented as methods for transforming metals and other substances, with careful attention paid to observable changes in their color, weight, and essential nature. The treatise is structured around four distinct passages, each likely devoted to a specific aspect of these heating operations.
-
-Written for an audience of fellow alchemical initiates, the text originates from a community where technical practice was inextricably linked to philosophical and spiritual doctrine. Modern scholarship interprets Zosimus's work as a synthesis of hands-on chemical experimentation with concepts drawn from Gnostic and Hermetic thought. Within this framework, the physical purification of materials through fire was understood as a direct analogue for the purification and ultimate liberation of the human soul.
-
-The treatise survives as a component of the earliest extant corpus of Greek alchemical writings, preserved in Byzantine manuscripts dating from the tenth to the fifteenth centuries. These manuscripts have transmitted the work in its original Greek language, albeit with the expected accumulations of scribal alterations over centuries of copying. As a foundational text by a major authority in the field, On the Burning of Bodies played a significant role in shaping the operative techniques and symbolic framework of alchemy as it was transmitted into the Islamic world and, subsequently, into the Latin tradition of medieval Europe.
 
 ## Text
 

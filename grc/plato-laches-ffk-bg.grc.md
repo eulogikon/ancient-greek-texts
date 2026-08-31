@@ -5,6 +5,7 @@ author: Plato of Athens
 eul_wid: ffk-bg
 eul_aid: ffk
 canonical: "https://eulogikon.org/works/plato-laches-ffk-bg"
+lang: grc
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plato of Athens
 
 **eul_wid:** `ffk-bg` · [HTML page](https://eulogikon.org/works/plato-laches-ffk-bg)
-
-The Laches is a Socratic dialogue by Plato that investigates the nature of courage. The conversation is set in a wrestling school and is prompted by a practical question of education. Two Athenian fathers, Lysimachus and Melesias, consult the renowned generals Laches and Nicias on whether young men should pursue training in armed combat. Socrates, who is present, is drawn into the discussion, and the focus quickly shifts from the utility of a specific skill to a philosophical examination of virtue itself. At the fathers’ request, Socrates questions the two military experts on the definition of courage.
-
-The dialogue proceeds through a classic demonstration of the Socratic elenchus, or cross-examination. Laches initially defines courage as a sort of endurance of the soul. Socrates, through a series of questions, shows that not all endurance is wise or noble, thereby problematizing this definition. Nicias then offers a more intellectualist definition, proposing that courage is a kind of knowledge—specifically, the knowledge of what is to be feared and what is to be dared. This definition aligns with the Socratic principle that virtue is knowledge. However, Socrates’s examination reveals difficulties here as well, suggesting that such knowledge would seem to encompass all of virtue, not just the part called courage, and that it may require a wisdom about future goods and evils that seems impossible for humans to possess. The dialogue concludes in a state of aporia, or impasse, having scrutinized both the practical man’s and the intellectual’s conceptions of courage without arriving at a satisfactory definition.
-
-Transmitted complete within the medieval manuscripts of the Platonic corpus, the Laches is universally accepted as a genuine work of Plato. As an early definitional dialogue, it is central for understanding the Socratic method of ethical inquiry. Its exploration of the relationship between courage, knowledge, and the unity of virtue informs enduring debates in moral philosophy and virtue ethics, highlighting the complex interplay between practical experience and intellectual understanding in the pursuit of an excellent life.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Suda
 eul_wid: wus-ap
 eul_aid: wus
 canonical: "https://eulogikon.org/works/suda-pi-wus-ap"
+lang: grc
 period: Byzantine
 domain: Grammar
 format: Collection
@@ -18,12 +19,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Suda
 
 **eul_wid:** `wus-ap` · [HTML page](https://eulogikon.org/works/suda-pi-wus-ap)
-
-The Pi section of the Suda is the lexicon's largest single letter, comprising 3,260 entries that range across geography, lexicography, grammar, and literary quotation. Early entries treat topographical terms such as Παγασαί (a Thessalian city) and Παγγαίον (the Thracian mountain), while also glossing common nouns like πάγας (nets, snares), with an illustrative quotation drawing on Aeschylean phrasing about a man caught in traps he laid for others.
-
-The middle portion of the letter includes fine grammatical distinctions, as in the entry on Πίονται and Πίωσι, which distinguishes passive forms written with omicron from active forms with omega — the kind of morphological note characteristic of the Suda's interest in correct Attic usage. Entries such as Πιόνα (prosperous, fertile) and Πίονας ἄνεμος draw on epigrammatic verse.
-
-The letter closes with a cluster of entries on πυτίνη (a wicker flask) and the comic figure Διϊτρέφης, quoting Aristophanes to illustrate metaphorical uses of the word. The Pi section is consequently valuable for scholars of Attic comedy, Greek dialectology, and the lexicographical reception of earlier prose and poetry in the Byzantine period.
 
 ## Text
 

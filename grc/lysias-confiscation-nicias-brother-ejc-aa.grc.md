@@ -5,6 +5,7 @@ author: Lysias the Orator
 eul_wid: ejc-aa
 eul_aid: ejc
 canonical: "https://eulogikon.org/works/lysias-confiscation-nicias-brother-ejc-aa"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lysias the Orator
 
 **eul_wid:** `ejc-aa` · [HTML page](https://eulogikon.org/works/lysias-confiscation-nicias-brother-ejc-aa)
-
-On the Confiscation of the Property of Nicias' Brother, Epilogue is a forensic oration composed by the Attic orator Lysias in the early fourth century BCE. Written in Attic Greek for delivery before an Athenian jury, the speech argues against the state's seizure of property belonging to the family of the deceased general Nicias. As its title indicates, the text is an epilogue, functioning either as the concluding section of a larger legal case or as a supplementary argument. The surviving text, which is fragmentary and known only through approximately twenty quotations preserved by later ancient authors, centers on the defense of property and inheritance rights. It engages with the complex legal and social atmosphere of Athens following its defeat in the Peloponnesian War and the overthrow of the oligarchic regime of the Thirty Tyrants. Characteristic of Lysias's professional output, the speech is a crafted piece of judicial persuasion, designed for a client enmeshed in the contentious post-war disputes over citizenship status and confiscated assets. As such, it offers valuable insight into the practical challenges of administering justice and reestablishing civic norms during the restoration of the Athenian democracy.
 
 ## Text
 

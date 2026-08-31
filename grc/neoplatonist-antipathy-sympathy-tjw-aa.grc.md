@@ -1,10 +1,11 @@
 ---
 title: On Antipathy and Sympathy
 title_greek: Περὶ τῶν κατὰ ἀντιπάθειαν καὶ συμπάθειαν
-author: "Neoplatonist Philosopher "
+author: Neoplatonist Philosopher
 eul_wid: tjw-aa
 eul_aid: tjw
 canonical: "https://eulogikon.org/works/neoplatonist-antipathy-sympathy-tjw-aa"
+lang: grc
 period: Late Antique
 dialect: Philosophical Koine
 domain: Medicine
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Περὶ τῶν κατὰ ἀντιπάθειαν καὶ συμπάθειαν*
 
-**Author:** Neoplatonist Philosopher 
+**Author:** Neoplatonist Philosopher
 
 **eul_wid:** `tjw-aa` · [HTML page](https://eulogikon.org/works/neoplatonist-antipathy-sympathy-tjw-aa)
-
-The treatise On Antipathy and Sympathy is an unidentified work of Neoplatonic philosophy that examines the principles of cosmic affinity and repulsion. These concepts were central to late antique theories of cosmic interconnection, underpinning explanations for natural magic, medicine, and astrology. The text is structured as a collection of 44 passages and is not attested in the major scholarly encyclopedias or among the surviving corpora of prominent Neoplatonists. It explores the doctrine of cosmic sympathy, which asserts hidden affinities linking all parts of the universe, and the complementary principle of natural antipathy or aversion between specific entities. The work applies these principles to medicine, explaining therapeutic actions and disease through occult relationships between substances, organs, and the cosmos, thereby demonstrating the underlying unity of reality, a core Neoplatonic tenet. The treatise’s specific transmission history is unclear; its survival as a series of passages suggests it may be a fragmentary work or a later compilation preserved within manuscript traditions focused on natural philosophy or the occult sciences. While the direct influence of this particular text is untraceable, the concepts it treats were profoundly impactful. Theories of sympathy and antipathy formed a cornerstone of Renaissance natural philosophy and esoteric thought, informing early modern inquiries into alchemy and magnetism before the rise of mechanistic science.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Philo of Alexandria
 eul_wid: lgi-ac
 eul_aid: lgi
 canonical: "https://eulogikon.org/works/philo-alexandria-on-abraham-lgi-ac"
+lang: grc
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philo of Alexandria
 
 **eul_wid:** `lgi-ac` · [HTML page](https://eulogikon.org/works/philo-alexandria-on-abraham-lgi-ac)
-
-The surviving works of Philo of Alexandria constitute a vast corpus of philosophical and exegetical treatises composed in Koine Greek by the Jewish philosopher during the early first century CE in Roman Egypt. These texts represent a systematic effort to interpret the Hebrew scriptures, particularly the Pentateuch, through the lens of Hellenistic philosophy, primarily Middle Platonism and Stoicism. Philo’s project was to demonstrate the rationality and profound wisdom inherent in the Mosaic law, rendering it intelligible and respectable to a Greek-educated audience in the cosmopolitan environment of Alexandria. His method centered on allegorical interpretation, through which biblical narratives, characters, and laws were decoded as symbolic representations of universal philosophical truths, psychological states, and the soul’s journey toward God.
-
-The corpus is traditionally divided into several major series. The Exposition of the Law presents a sequential commentary on Genesis and Exodus, explaining the creation story, the lives of the patriarchs—whom Philo portrays as "living laws"—and the specifics of the Mosaic legislation. A separate Allegorical Commentary offers a more detailed, verse-by-verse philosophical exegesis of Genesis, delving deeply into metaphysical and ethical symbolism. Other groups include works on specific philosophical questions, historical or apologetic texts, and treatises on the contemplative life of the Jewish Therapeutae. Through these writings, Philo developed complex theological concepts, such as the Logos as an intermediary divine principle, and explored themes of virtue, prophecy, and the ascent of the mind from the sensible world to the intelligible realm.
-
-The complete preservation of Philo’s extensive output is almost entirely due to the efforts of later Christian scribes and theologians, who saw in his fusion of biblical faith and Greek philosophy a valuable precursor to their own theological endeavors. His works thus survived not within the Jewish tradition, which largely moved in different interpretive directions, but within the libraries of the Christian Church. For modern scholarship, the Philonic corpus provides an indispensable window into the intellectual world of Hellenistic Judaism, illustrating a sophisticated attempt to articulate Jewish thought in the dominant philosophical idiom of the era and establishing a crucial intellectual bridge between the biblical tradition and subsequent Christian and Neoplatonic thought.
 
 ## Text
 

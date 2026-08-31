@@ -5,6 +5,7 @@ author: Archimedes of Syracuse
 eul_wid: ixo-ai
 eul_aid: ixo
 canonical: "https://eulogikon.org/works/archimedes-syracuse-spirals-ixo-ai"
+lang: grc
 period: Hellenistic
 dialect: Doric
 domain: Mathematics
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Archimedes of Syracuse
 
 **eul_wid:** `ixo-ai` · [HTML page](https://eulogikon.org/works/archimedes-syracuse-spirals-ixo-ai)
-
-On Spiral Lines is a mathematical treatise by Archimedes of Syracuse, composed around 225 BCE. Written in the form of a letter to his colleague Dositheus, the work provides a rigorous geometric investigation of the curve now known as the Archimedean spiral. Archimedes defines this spiral as the locus of a point moving uniformly along a straight line while the line itself rotates uniformly about a fixed endpoint. The treatise follows the formal structure of classical Greek geometry, beginning with definitions and assumptions before systematically proving twenty-eight propositions. Its principal achievements are the determination of the area bounded by the first complete revolution of the spiral and the construction of the tangent line to the spiral at any given point.
-
-To find the area, Archimedes employed the method of exhaustion, a sophisticated limiting process that anticipates integral calculus. He demonstrated that the area enclosed after one full turn is exactly one-third the area of the circle whose radius equals the spiral’s final length. The work stands as a masterful synthesis of dynamic motion and static geometric proof, intended for an expert mathematical audience in the Hellenistic tradition, particularly scholars associated with the intellectual center of Alexandria. The complete Greek text survives through Byzantine manuscripts, most notably a tenth-century codex. It was later translated and studied by Arabic mathematicians, including Thābit ibn Qurra in the ninth century, before its transmission to Renaissance Europe, where its advanced techniques for analyzing curves significantly influenced the development of early calculus and analytic geometry.
 
 ## Text
 

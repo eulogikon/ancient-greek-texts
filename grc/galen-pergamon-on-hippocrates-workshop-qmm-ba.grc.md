@@ -5,6 +5,7 @@ author: Galen of Pergamon
 eul_wid: qmm-ba
 eul_aid: qmm
 canonical: "https://eulogikon.org/works/galen-pergamon-on-hippocrates-workshop-qmm-ba"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Galen of Pergamon
 
 **eul_wid:** `qmm-ba` · [HTML page](https://eulogikon.org/works/galen-pergamon-on-hippocrates-workshop-qmm-ba)
-
-Galen of Pergamon's commentary On Hippocrates' "The Doctor's Workshop" is an exegetical treatise dedicated to explicating the Hippocratic text concerning the proper arrangement and equipment of a surgical workspace. As part of Galen's broader project to defend, systematize, and elucidate the Hippocratic corpus, the work is structured into 297 lemmata, each presenting a passage from the original followed by detailed commentary. The Hippocratic treatise itself outlines the ideal setup for a physician's operating room, specifying requirements for tools, lighting, cleanliness, and overall environmental order to ensure effective practice.
-
-In his analysis, Galen focuses on interpreting and validating the practical instructions of Hippocrates, framing medicine as a skilled craft, or technē, that demands not only knowledge but also the correct physical tools and environment. The commentary emphasizes professional decorum, discussing the physician's necessary conduct, mental preparation, and manual dexterity. A significant portion is devoted to the principles of hygiene and spatial arrangement, reflecting ancient concepts that linked surgical efficacy to meticulous attention to the cleanliness and organization of the operative space. Galen argues that the fundamental manual skills advocated by Hippocrates should first be practiced on wooden models carved in human form, or, failing that, on the bodies of children.
-
-The text has been transmitted through a continuous manuscript tradition within the Galenic corpus, preserved in both the Byzantine and medieval Islamic scholarly worlds. Its modern critical edition is found in the Corpus Medicorum Graecorum. This commentary played a key role in reinforcing Galen's authority as the definitive interpreter of Hippocrates for subsequent centuries. By meticulously explicating a concise, technical manual, Galen demonstrated the perceived comprehensiveness of Hippocratic wisdom, thereby significantly influencing later European and Islamic medical thought regarding surgical practice, professional ethics, and the ideal conditions for medical intervention.
 
 ## Text
 

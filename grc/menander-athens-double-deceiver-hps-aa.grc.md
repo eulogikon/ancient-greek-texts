@@ -5,6 +5,7 @@ author: Menander of Athens
 eul_wid: hps-aa
 eul_aid: hps
 canonical: "https://eulogikon.org/works/menander-athens-double-deceiver-hps-aa"
+lang: grc
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Menander of Athens
 
 **eul_wid:** `hps-aa` · [HTML page](https://eulogikon.org/works/menander-athens-double-deceiver-hps-aa)
-
-The Double Deceiver is a lost comedy by the Athenian playwright Menander, the principal author of New Comedy in the late fourth and early third centuries BCE. Composed in Attic Greek verse, the play would have conformed to the genre's conventions, centering on domestic scenarios involving romance, familial conflict, and mistaken identity. The work survives only in a handful of brief fragments, amounting to a few isolated lines preserved by later grammarians and rhetoricians who valued them for their metrical form or proverbial content. Examples include the sententious observations "A man in love is always a slave" and "It is the mark of an uneducated man to blame his wife for everything." While these fragments offer no continuous narrative, the play's title indicates a plot built upon a dual deception, a frequent comic device in Menander's oeuvre. The comedy was originally performed for the Athenian public during the Hellenistic period, but like the majority of Menander's works, its complete text did not survive antiquity. Its partial preservation through quotation attests to the later scholarly appreciation for Menander's stylistic polish and ethical maxims. Modern analysis of these remnants highlights the play's engagement with themes of moral behavior, romantic adversity, and the dynamics of social and familial relationships, which were central concerns of New Comedy.
 
 ## Text
 

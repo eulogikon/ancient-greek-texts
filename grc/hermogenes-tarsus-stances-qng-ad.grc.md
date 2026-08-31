@@ -5,6 +5,7 @@ author: Hermogenes of Tarsus
 eul_wid: qng-ad
 eul_aid: qng
 canonical: "https://eulogikon.org/works/hermogenes-tarsus-stances-qng-ad"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hermogenes of Tarsus
 
 **eul_wid:** `qng-ad` · [HTML page](https://eulogikon.org/works/hermogenes-tarsus-stances-qng-ad)
-
-On the Stances is a Greek rhetorical treatise composed by Hermogenes of Tarsus in the late second century CE. This technical handbook provides a systematic exposition of stasis theory, the foundational method for determining the precise point of contention in a legal or deliberative argument. The work methodically defines and analyzes the various categories of issue, such as conjecture, definition, and quality, offering a comprehensive and logical framework for the invention and construction of forensic arguments. Written during the Second Sophistic, a period marked by a revival of Greek oratorical culture under Roman rule, the treatise was intended for advanced students and practitioners of rhetoric. It functioned as a clear, authoritative guide for judicial pleading. The text survives complete through the Byzantine manuscript tradition, where it achieved canonical status and served as a central pillar of rhetorical education for centuries. Its influence extended into the Renaissance, when scholars rediscovered and revived its precepts for the study of classical oratory.
 
 ## Text
 

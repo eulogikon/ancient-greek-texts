@@ -5,6 +5,7 @@ author: Philiscus of Athens
 eul_wid: gcw-aa
 eul_aid: gcw
 canonical: "https://eulogikon.org/works/philiscus-athens-aphorisms-gcw-aa"
+lang: grc
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philiscus of Athens
 
 **eul_wid:** `gcw-aa` · [HTML page](https://eulogikon.org/works/philiscus-athens-aphorisms-gcw-aa)
-
-The Political and Moral Aphorisms is a lost work attributed to the Middle Comic poet Philiscus of Athens. Surviving only in fragments, the work is recorded as consisting of eight passages in verse form. As a collection of gnomic sayings composed by a comic poet, it represents a synthesis of poetic wisdom literature and comedic social critique. Its themes likely encompassed political wisdom and statecraft, moral virtue and ethical behavior, and broader social criticism and observations on human nature. The work is not mentioned in the Suda's entry for Philiscus, suggesting it was a minor composition or was known through other, now-lost, sources. Its fragmentary status is typical for most works of Middle Comedy, which flourished from approximately 400 to 320 BCE. As a product of this theatrical period, the aphorisms were part of the culture that influenced the later development of New Comedy. Their existence also places them within the enduring Greek tradition of gnomic poetry, a form used for both moral instruction and rhetorical education.
 
 ## Text
 

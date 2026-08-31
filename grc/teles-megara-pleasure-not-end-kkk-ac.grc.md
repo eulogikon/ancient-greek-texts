@@ -5,6 +5,7 @@ author: Teles of Megara
 eul_wid: kkk-ac
 eul_aid: kkk
 canonical: "https://eulogikon.org/works/teles-megara-pleasure-not-end-kkk-ac"
+lang: grc
 period: Hellenistic
 dialect: "Koine (phi, frg)"
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Teles of Megara
 
 **eul_wid:** `kkk-ac` · [HTML page](https://eulogikon.org/works/teles-megara-pleasure-not-end-kkk-ac)
-
-On Pleasure Not Being the End is a philosophical treatise by the 3rd-century BCE Cynic preacher Teles of Megara. Written in Koine Greek, the work employs a conversational and exhortative style of argument known as a diatribe to challenge the hedonistic doctrine that pleasure constitutes the ultimate goal of human life. Teles systematically argues that the pursuit of pleasure is a source of anxiety and profound dissatisfaction, advocating instead for the Cynic ideal of a virtuous and self-sufficient existence lived in accordance with nature. The complete text is lost, and modern knowledge of it derives entirely from three extended passages preserved centuries later by the anthologist Stobaeus. These excerpts contain the core of Teles's critique, which is generally thought to have been directed against the Cyrenaic school of philosophy and intended as practical moral instruction for a broad audience. In the surviving fragments, Teles supports his case with a vivid, step-by-step account of the pains and disciplines that dominate a conventional human life from infancy through early adulthood, contending that such hardships far outnumber moments of pleasure. Scholars regard Teles less as an original philosopher than as a significant popularizer of Cynic and Stoic ideas, and his surviving work provides a valuable window into the methods and ethical concerns of Hellenistic popular philosophy.
 
 ## Text
 

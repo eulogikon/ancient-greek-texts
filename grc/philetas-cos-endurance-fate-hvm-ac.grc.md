@@ -5,6 +5,7 @@ author: Philetas of Cos
 eul_wid: hvm-ac
 eul_aid: hvm
 canonical: "https://eulogikon.org/works/philetas-cos-endurance-fate-hvm-ac"
+lang: grc
 period: Hellenistic
 dialect: Attic
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philetas of Cos
 
 **eul_wid:** `hvm-ac` · [HTML page](https://eulogikon.org/works/philetas-cos-endurance-fate-hvm-ac)
-
-The Fragments of Endurance and Fate is a collection of forty-four elegiac fragments attributed to the Hellenistic poet Philetas of Cos. The title signals the work's central preoccupations with human perseverance and the inescapable power of destiny. These brief remnants of larger, lost poems survive almost exclusively through later quotations by grammarians and authors such as Athenaeus and Hephaestion, who cited Philetas for his rare vocabulary and metrical examples. The extant pieces encompass several characteristic themes, including mythological narrative, which may involve the goddess Demeter, and vivid depictions of erotic suffering, describing love as a consuming disease. The fragments also display a learned, allusive quality, employing obscure words that reflect Philetas's own philological scholarship. The original scope and structure of the complete poems from which these fragments derive remain entirely unknown, reconstructed by modern scholars from these scattered ancient citations. Philetas was a pivotal figure whose refined and erudite style profoundly influenced the Alexandrian poetic tradition. His synthesis of meticulous poetic craft and scholarly allusion established him as a direct model for Callimachus and later poets, including the Roman elegist Propertius, who names him as a canonical love poet.
 
 ## Text
 

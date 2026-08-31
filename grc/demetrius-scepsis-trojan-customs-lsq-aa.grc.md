@@ -5,6 +5,7 @@ author: Demetrius of Scepsis
 eul_wid: lsq-aa
 eul_aid: lsq
 canonical: "https://eulogikon.org/works/demetrius-scepsis-trojan-customs-lsq-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Demetrius of Scepsis
 
 **eul_wid:** `lsq-aa` · [HTML page](https://eulogikon.org/works/demetrius-scepsis-trojan-customs-lsq-aa)
-
-The Fragments on Trojan Customs is a lost scholarly treatise by the 2nd-century BCE grammarian Demetrius of Scepsis. Known only through quotations in later authors, it was a detailed commentary on the geography, ethnography, and customs of the Trojan region as described in Homer’s Iliad. The work formed part of Demetrius’s monumental exegetical project, The Trojan Battle-Order, which systematically addressed the Homeric Catalogue of Ships. The surviving fragments indicate the work focused on the meticulous identification of Homeric places in the Troad and the explanation of the social practices and customs of Trojan peoples. It critically engaged with earlier geographical scholarship, often correcting prior accounts, and integrated local Troad mythology and history into Homeric exegesis. The original treatise is lost, with its fragments preserved primarily through extensive quotations in Strabo’s Geography, alongside additional references found in Homeric scholia and the works of later grammarians like Athenaeus. Demetrius’s work, informed by his local knowledge of Scepsis, represents a high point of Hellenistic Homeric scholarship that blended philology with empirical geography. It served as a major source for Strabo and influenced subsequent ancient understanding of the historical and topographical reality behind the Homeric epics.
 
 ## Text
 

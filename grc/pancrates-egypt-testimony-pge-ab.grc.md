@@ -5,6 +5,7 @@ author: Pancrates of Egypt
 eul_wid: pge-ab
 eul_aid: pge
 canonical: "https://eulogikon.org/works/pancrates-egypt-testimony-pge-ab"
+lang: grc
 period: Roman
 dialect: Epic (Homeric)
 domain: Epic
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Pancrates of Egypt
 
 **eul_wid:** `pge-ab` · [HTML page](https://eulogikon.org/works/pancrates-egypt-testimony-pge-ab)
-
-The Testimony of Pancrates of Egypt is a fragmentary epic poem, surviving only as a brief passage quoted by Athenaeus of Naucratis in his 3rd-century CE compilation, the Deipnosophistae. Athenaeus cites the hexameter lines to illustrate a point concerning a fish or fishing method. The title likely originates from its function as a cited "testimony" within Athenaeus's work and may not reflect Pancrates's original title for a longer poem. The extant fragment addresses a topic consistent with the author's known interests, focusing on natural history and fishing, which aligns with Pancrates's reputed composition of a work titled Halieutica, or On Fishing. The work has no independent manuscript tradition, and its sole preservation derives from its quotation in Athenaeus's Deipnosophistae. Pancrates, an Egyptian poet associated with Emperor Hadrian's court, represents Imperial Greek epic poetry. Though its direct influence is untraceable, the fragment's preservation underscores the scholarly, encyclopedic interests of the Second Sophistic period and secures Pancrates a minor place in the record of Greek literary history.
 
 ## Text
 

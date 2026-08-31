@@ -5,6 +5,7 @@ author: Dio Cassius of Nicaea
 eul_wid: rhq-aj
 eul_aid: rhq
 canonical: "https://eulogikon.org/works/dio-cassius-nicaea-roman-histories-2-3-rhq-aj"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Dio Cassius of Nicaea
 
 **eul_wid:** `rhq-aj` · [HTML page](https://eulogikon.org/works/dio-cassius-nicaea-roman-histories-2-3-rhq-aj)
-
-Cassius Dio's Roman Histories is an 80-book history of Rome, written in Greek during the early third century CE by a Roman senator of Greek origin. The work chronicles Rome's story from its mythical founding up to the author's own time in the Severan dynasty, structured annalistically by consular year. The text survives in a fragmentary state, with Books 36 through 54, covering the period from 69 to 10 BCE, being nearly complete. For the remainder of the work, readers depend on fragments and later summaries, the most important of which is an 11th-century abridgment by the Byzantine monk John Xiphilinus, which preserves a condensed version of Books 61 to 80. The history offers a unique senatorial perspective on imperial power, often critiquing emperors who diminished the Senate's traditional role. Dio is also noted for articulating, through a speech placed in the narrative, a theory that monarchy was the inevitable and most stable form of government for the Roman Empire.
 
 ## Text
 

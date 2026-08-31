@@ -5,6 +5,7 @@ author: Antidotus the Comic Poet
 eul_wid: cks-ab
 eul_aid: cks
 canonical: "https://eulogikon.org/works/antidotus-comic-art-parasitism-cks-ab"
+lang: grc
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Antidotus the Comic Poet
 
 **eul_wid:** `cks-ab` · [HTML page](https://eulogikon.org/works/antidotus-comic-art-parasitism-cks-ab)
-
-The Fragments on the Art of Parasitism by the comic poet Antidotus is a lost work known only by its title and brief description. It is recorded in the 10th-century Byzantine encyclopedia known as the Suda, which lists it among Antidotus's plays as a composition in six passages. This description suggests it was an episodic piece or a collection of excerpts rather than a conventional, full-length drama. The work was a comedic treatment of the "craft" of being a parasite, a stock character in ancient Greek comedy who exchanged flattery for free meals. No direct quotations from it survive. Based on the standard comic treatment of this character type, the work likely humorously explored the techniques and ethics of flattery, the struggle for social patronage and material survival, and the relationship between a wealthy patron and his dependent. While the work itself is lost, its subject was central to Greek New Comedy and was later adopted into Roman comedy by Plautus and Terence, thereby influencing the broader European comic tradition. Antidotus is identified as a writer of Middle Comedy; a fragment of his play The Twins is preserved by the antiquarian writer Athenaeus.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Demetrius of Phaleron
 eul_wid: hjy-aa
 eul_aid: hjy
 canonical: "https://eulogikon.org/works/demetrius-phaleron-jewish-law-hjy-aa"
+lang: grc
 period: Classical
 dialect: Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Demetrius of Phaleron
 
 **eul_wid:** `hjy-aa` · [HTML page](https://eulogikon.org/works/demetrius-phaleron-jewish-law-hjy-aa)
-
-The Letter on Jewish Law is a work attributed in certain sources to Demetrius of Phaleron, the Athenian orator, Peripatetic philosopher, and former governor of Athens who later served in Alexandria during the early third century BCE. While Demetrius was a prolific author, his genuine corpus, known only through fragments cited by later authors such as Diogenes Laertius and Athenaeus, consists of works on history, literature, and philosophy. Ancient catalogs of his writings contain no mention of a treatise on Jewish subjects. Consequently, the attribution of this epistle is considered spurious, likely arising from a later pseudepigraphical tradition or from confusion with other Hellenistic Jewish writers, such as the anonymous historian sometimes designated Pseudo-Demetrius. The actual content of the purported letter is entirely unknown, as no fragments or reliable descriptions of its text survive. Its hypothetical existence, however, would illustrate the later Hellenistic interest in synthesizing or explaining Jewish legal and religious traditions within the framework of Greek literary forms, such as the philosophical epistle. The historical significance of Demetrius himself rests primarily on his political career and his traditional, though debated, association with the founding proposal for the Library of Alexandria.
 
 ## Text
 

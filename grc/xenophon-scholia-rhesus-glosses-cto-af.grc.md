@@ -5,6 +5,7 @@ author: Xenophon Scholia
 eul_wid: cto-af
 eul_aid: cto
 canonical: "https://eulogikon.org/works/xenophon-scholia-rhesus-glosses-cto-af"
+lang: grc
 period: Classical
 dialect: Mixed Dialects
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Xenophon Scholia
 
 **eul_wid:** `cto-af` · [HTML page](https://eulogikon.org/works/xenophon-scholia-rhesus-glosses-cto-af)
-
-The Glosses on Euripides' Rhesus is a lost philological work attributed to the grammarian Xenophon. Structured as a glossary, it provided explanatory notes, or scholia, on twelve specific passages within Euripides' tragedy Rhesus. As a typical product of ancient scholarly activity, such a work would have offered lexical explanations for rare or difficult words, clarified mythological references, noted textual variants, and illuminated points of literary interpretation. Its existence is known only through its title and attribution in later bibliographical sources, indicating it was part of the extensive tradition of commentary on the Euripidean corpus. The focus on Rhesus, a play occasionally questioned in its attribution to Euripides, suggests the glossary contributed to the detailed philological scrutiny applied to the classical dramatic canon by Hellenistic and later grammarians.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: John of Caesarea in Palestine
 eul_wid: uxw-af
 eul_aid: uxw
 canonical: "https://eulogikon.org/works/john-caesarea-palestine-syllogisms-uxw-af"
+lang: grc
 period: Late Antique
 dialect: Christian Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** John of Caesarea in Palestine
 
 **eul_wid:** `uxw-af` · [HTML page](https://eulogikon.org/works/john-caesarea-palestine-syllogisms-uxw-af)
-
-The Syllogisms of the Holy Fathers is a treatise attributed to John of Caesarea in Palestine. Its title indicates a work dedicated to the logical analysis of doctrinal arguments derived from the writings of early Christian Church Fathers. The text presents a series of formal syllogisms, employing the structured reasoning of Aristotelian logic to examine and defend theological propositions. A primary focus of the extant passages is a systematic refutation of Manichaean dualism, particularly the concept of an eternal, substantial evil. Through sequential logical deductions, the treatise argues that evil is neither uncreated nor a substance but is instead corruptible, mutable, and subject to divine punishment. This methodological application of logical analysis to patristic authority suggests the work served an educational or catechetical function, likely within a late antique or early Byzantine pedagogical context. While its manuscript tradition and preservation status remain unverified in standard scholarly references, the treatise exemplifies the integration of classical philosophical tools into the service of Christian doctrinal exposition.
 
 ## Text
 

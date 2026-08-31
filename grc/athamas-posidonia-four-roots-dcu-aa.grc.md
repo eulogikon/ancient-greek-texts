@@ -5,6 +5,7 @@ author: Athamas of Posidonia
 eul_wid: dcu-aa
 eul_aid: dcu
 canonical: "https://eulogikon.org/works/athamas-posidonia-four-roots-dcu-aa"
+lang: grc
 period: Classical
 dialect: "Doric (phi, frg)"
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Athamas of Posidonia
 
 **eul_wid:** `dcu-aa` · [HTML page](https://eulogikon.org/works/athamas-posidonia-four-roots-dcu-aa)
-
-The philosophical treatise On the Four Roots of All Things is attributed to Athamas of Posidonia. Its title directly alludes to the Empedoclean doctrine of the four elemental roots—earth, air, fire, and water—as the fundamental constituents of reality. The Greek title, which translates to "extract" or "fragment," indicates the work is likely preserved only as an excerpt quoted by a later author. Inferred from its title and the established philosophical context, the treatise presumably examined the four roots as the basis of all material substance, the cosmological processes of their combination and separation, and the nature of physical change and generation. No independent transmission history for the work is attested; its fragmentary nature suggests it was preserved within a lost doxographical source. While the specific influence of Athamas’s work is unrecorded, its subject matter engages with the profoundly influential Empedoclean theory. This elemental framework was central to later Presocratic thought, Plato’s Timaeus, and Aristotelian physics, remaining a cornerstone of natural philosophy for centuries.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Ion of Chios
 eul_wid: ccg-ad
 eul_aid: ccg
 canonical: "https://eulogikon.org/works/ion-chios-dionysus-fragments-ccg-ad"
+lang: grc
 period: Classical
 dialect: Ionic
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Ion of Chios
 
 **eul_wid:** `ccg-ad` · [HTML page](https://eulogikon.org/works/ion-chios-dionysus-fragments-ccg-ad)
-
-The Fragments on Dionysus is a collection of six surviving passages from a lost prose work by the 5th-century BCE Greek poet and thinker Ion of Chios. Written in Ionic Greek, the fragments contain philosophical and theological speculations that identify the god Dionysus with the fundamental ordering principle of the cosmos. The work does not survive as a complete text; these passages are preserved only because they were quoted by much later authors, primarily the 5th-century CE philosopher Proclus in his commentary on Plato. Modern scholars believe the fragments were originally part of a larger, now lost, work possibly titled Triagmos.
-
-In one fragment, Ion describes a primordial triad of Chaos, Earth, and Eros. In another, he equates Dionysus directly with the cosmic mind, presenting a view where a single divine principle underlies all reality. Scholars interpret Ion’s writing as an attempt to synthesize traditional Greek mythology with emerging philosophical and Orphic religious ideas, aimed at an educated audience of his time. The fragments are a significant example of early allegorical interpretation, where mythological figures are recast as personifications of abstract cosmic forces.
 
 ## Text
 

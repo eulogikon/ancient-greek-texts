@@ -5,6 +5,7 @@ author: Sostratus of Nyssa
 eul_wid: nkm-aa
 eul_aid: nkm
 canonical: "https://eulogikon.org/works/sostratus-nyssa-mythical-histories-nkm-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Sostratus of Nyssa
 
 **eul_wid:** `nkm-aa` · [HTML page](https://eulogikon.org/works/sostratus-nyssa-mythical-histories-nkm-aa)
-
-The Mythical Histories and Legends is a lost mythographical work attributed to the grammarian Sostratus of Nyssa. According to the 10th-century Byzantine encyclopedia known as the Suda, it was a collection in eight books comprising mythical histories and legends. This places it within the Hellenistic and Imperial tradition of mythography, in which scholars systematically compiled and interpreted narratives drawn from epic and dramatic poetry. Such handbooks typically served as reference works, containing genealogies of gods and heroes, etiological myths explaining origins, narratives from major heroic cycles like the Theban and Trojan stories, and various local legends and variant traditions. The work is preserved only by its mention in the Suda; no direct fragments or quotations are extant, and the complete text is lost. As a compiled collection of excerpts, it exemplifies the grammatical scholarship of its era, functioning as a potential resource for students, poets, and commentators who required explanations of mythological references found in classical literary texts.
 
 ## Text
 

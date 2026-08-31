@@ -5,6 +5,7 @@ author: Philostratus the Athenian
 eul_wid: rfi-ag
 eul_aid: rfi
 canonical: "https://eulogikon.org/works/philostratus-athens-nero-rfi-ag"
+lang: grc
 period: Roman
 dialect: Atticizing Literary
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philostratus the Athenian
 
 **eul_wid:** `rfi-ag` · [HTML page](https://eulogikon.org/works/philostratus-athens-nero-rfi-ag)
-
-The Nero is a declamation attributed to Philostratus the Athenian, a prominent author of the Second Sophistic period. This rhetorical exercise, structured as a meletē, features a speaker impersonating the Roman emperor Nero, who mounts a defense of his artistic passions—specifically singing and cithara performance—against the criticisms of traditional Roman aristocratic values. The work champions the cultural and divine significance of Greek mousikē, or musical artistry, and unfolds across seven distinct passages that elaborate this central argument. It defends music, poetry, and performance as noble pursuits, explores the self-justification of a notorious historical figure, and examines the cultural tension between Greek paideia and Roman gravitas, while also reflecting on the nature of kingship and leadership.
-
-The text survives within the corpus of declamations transmitted under Philostratus’s name in medieval manuscripts. Although scholarly debate surrounds the authorship of this collection, the prevailing consensus, based on stylistic and thematic analysis, attributes it to Philostratus the Athenian. As a key example of Second Sophistic rhetorical practice, the declamation demonstrates how Greek intellectuals engaged with Roman imperial history. It offers valuable insight into the cultural debates of the era and contributes to the complex literary reception of Nero, presenting a perspective that contrasts with the uniformly negative portrayals found in historical narratives.
 
 ## Text
 

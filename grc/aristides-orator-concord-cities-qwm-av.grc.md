@@ -5,6 +5,7 @@ author: Aristides the Orator
 eul_wid: qwm-av
 eul_aid: qwm
 canonical: "https://eulogikon.org/works/aristides-orator-concord-cities-qwm-av"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristides the Orator
 
 **eul_wid:** `qwm-av` · [HTML page](https://eulogikon.org/works/aristides-orator-concord-cities-qwm-av)
-
-On Concord in the Cities is a deliberative oration by the second-century CE Greek orator Aelius Aristides. Composed in refined Attic Greek, the speech is a direct appeal for civic harmony, or homonoia, addressed to the historically rival cities of Asia Minor, with a particular focus on the tensions between Smyrna and Ephesus. Aristides frames his argument by critiquing the empty rhetorical exercises of some sophists, positioning his own work as a serious treatment of a vital public issue. He structures his case around the practical and moral necessity of unity, contending that internal strife weakens cities, imperils their prosperity, and undermines their security within the stable framework of the Roman Empire.
-
-The oration employs a blend of historical exempla, political reasoning, and religious appeal to persuade its audience. Aristides suggests that concord is divinely favored and, crucially, pleases the Roman authorities, whose approval was essential for local prestige and autonomy. While he mentions the concept of war against barbarians as a noble topic, he explicitly sets it aside, focusing instead on the immediate and pressing need for internal peace among the Greek cities. Modern scholarship regards the work as a significant artifact of the cultural movement known as the Second Sophistic, demonstrating how the educated Greek elite employed classical rhetorical forms to engage with contemporary political realities and conduct local diplomacy under Roman sovereignty. The speech is generally dated to the period between 162 and 165 CE, following a series of earthquakes and during the joint reign of emperors Marcus Aurelius and Lucius Verus. The complete text survives within the author's collected works, preserved through medieval manuscripts such as the Codex Marcianus graecus 450 from the tenth or eleventh century.
 
 ## Text
 

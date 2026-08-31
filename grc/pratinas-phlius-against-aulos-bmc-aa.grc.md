@@ -5,6 +5,7 @@ author: Pratinas of Phlius
 eul_wid: bmc-aa
 eul_aid: bmc
 canonical: "https://eulogikon.org/works/pratinas-phlius-against-aulos-bmc-aa"
+lang: grc
 period: Archaic
 dialect: Doric (frg)
 domain: Drama
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Pratinas of Phlius
 
 **eul_wid:** `bmc-aa` · [HTML page](https://eulogikon.org/works/pratinas-phlius-against-aulos-bmc-aa)
-
-The "Chorus Against the Aulos" is a fragmentary choral lyric poem attributed to the early fifth-century BCE dramatist Pratinas of Phlius. Preserved as a single quotation in the later work of Athenaeus, this twenty-line fragment is written in a vigorous Doric dialect and is conventionally classified as a hyporchema, a lively dance-song. The text presents a dramatic protest in which a chorus, likely of satyrs, vehemently objects to the dominance of the aulos, a double-reed pipe, within Dionysiac performance. The chorus claims the musical realm for the god Dionysus and the human voice, championing the poetic song accompanied by the stringed kithara over what it portrays as the intrusive, rhythmically overpowering noise of the pipe. The work is considered a significant artifact from the formative period of Athenian drama, most probably originating from a satyr play. It encapsulates a genuine aesthetic and cultural debate of its time, contrasting traditional vocal and poetic artistry with the increasingly prominent role of purely instrumental, ecstatic music in religious and theatrical contexts. The fragment's survival hinges entirely on its later citation; its modern title is descriptive, as its original name is lost. It remains an essential source for insights into early Greek theatrical music, performance practice, and evolving artistic values.
 
 ## Text
 

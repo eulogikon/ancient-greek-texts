@@ -5,6 +5,7 @@ author: Valerius Apsines of Gadara
 eul_wid: rlm-ab
 eul_aid: rlm
 canonical: "https://eulogikon.org/works/valerius-apsines-gadara-rhetoric-rlm-ab"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Valerius Apsines of Gadara
 
 **eul_wid:** `rlm-ab` · [HTML page](https://eulogikon.org/works/valerius-apsines-gadara-rhetoric-rlm-ab)
-
-The Rhetorical Art is a comprehensive handbook on public speaking composed in Greek by the sophist Valerius Apsines of Gadara during the third century CE. A practical, educational guide designed for students of oratory, the work systematically addresses the core components of crafting and delivering a speech, including the invention of arguments, the arrangement of material, and the employment of effective style. Its structure, organized into seventy-six sections, provides detailed, point-by-point instruction. Apsines wrote during the period known as the Second Sophistic, a time of revived interest in classical Greek rhetoric within the Roman Empire. The handbook reflects the standard rhetorical curriculum of the era, intended to prepare students for careers in law, politics, and public performance, and it emphasizes the imitation of great Attic orators like Demosthenes as models for learning. The text has survived intact through the medieval manuscript tradition, making it one of the few complete rhetorical handbooks from antiquity. It became a standard textbook in Byzantine education and continued to influence the study of rhetoric for centuries, valued for its clear and systematic preservation of classical principles.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Sosipater the Comic Poet
 eul_wid: ilg-aa
 eul_aid: ilg
 canonical: "https://eulogikon.org/works/sosipater-cooks-profession-ilg-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Sosipater the Comic Poet
 
 **eul_wid:** `ilg-aa` · [HTML page](https://eulogikon.org/works/sosipater-cooks-profession-ilg-aa)
-
-_The Cook’s Profession_ is a lost Greek comedy by Sosipater, preserved only in fragments quoted by later authors such as Athenaeus. The play’s title, which can be rendered as "Pieces Torn Off" or "Extracts," humorously reflects its fragmentary state or perhaps its episodic content. Written in verse, the comedy belongs to the Hellenistic or later period of Greek drama and centers on the figure of the professional cook, a stock character in later Greek and Roman comedy. The extant fragments depict a cook defending his trade as a sophisticated art, lamenting its debasement by amateurs while boasting of his own rigorous training in fields as diverse as astronomy, architecture, and military strategy. This portrayal suggests the play satirized professional pretension and social climbing through the lens of domestic and culinary affairs. As one of many comedies that developed the archetype of the boastful, philosophizing cook, Sosipater’s work represents a link in the transmission of this comic figure to Roman comedy and beyond. The fragments, though limited, provide valuable insight into the conventions and language of later Greek comic theater.
 
 ## Text
 

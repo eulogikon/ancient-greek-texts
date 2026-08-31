@@ -5,6 +5,7 @@ author: Lysias the Orator
 eul_wid: ejc-aw
 eul_aid: ejc
 canonical: "https://eulogikon.org/works/lysias-examination-evander-ejc-aw"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lysias the Orator
 
 **eul_wid:** `ejc-aw` · [HTML page](https://eulogikon.org/works/lysias-examination-evander-ejc-aw)
-
-"On the Examination of Evander" is a forensic oration composed by the Athenian logographer Lysias around 382 BCE. Written in Attic Greek for delivery by a client in a lawcourt, the speech argues against the confirmation of a candidate named Evander for the prestigious office of eponymous archon. The case constitutes a dokimasia, the mandatory public scrutiny that all Athenian officials were required to pass before assuming their duties. In its extant twenty-four sections, the speaker levels two principal charges against Evander: first, that his mother was a slave, a condition which would legally invalidate his claim to citizenship and thus his eligibility for office; and second, that he demonstrated cowardice by abandoning his shield in battle, an act considered profoundly dishonorable.
-
-The work survives in a fragmentary condition, preserved through medieval manuscripts within the larger corpus of Lysias’s speeches. Only a portion of the original argument is complete, with significant lacunae interrupting the flow of the case and the final peroration lost entirely. Composed in the politically charged aftermath of the Corinthian War, the oration provides a valuable historical source for the mechanisms of Athenian democracy, particularly the dokimasia procedure, and for contemporary attitudes toward citizenship, social status, and personal honor. It exemplifies how allegations concerning ancestry and individual conduct were deployed as tactical weapons in the competitive arena of Athenian public life, revealing the intersection of legal formality, social reputation, and political rivalry in classical Athens.
 
 ## Text
 

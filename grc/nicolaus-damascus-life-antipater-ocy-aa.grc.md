@@ -5,6 +5,7 @@ author: Nicolaus of Damascus
 eul_wid: ocy-aa
 eul_aid: ocy
 canonical: "https://eulogikon.org/works/nicolaus-damascus-life-antipater-ocy-aa"
+lang: grc
 period: Roman
 dialect: Koine
 domain: History
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Nicolaus of Damascus
 
 **eul_wid:** `ocy-aa` · [HTML page](https://eulogikon.org/works/nicolaus-damascus-life-antipater-ocy-aa)
-
-On the Life of Antipater is a biographical work by the historian Nicolaus of Damascus, written in Koine Greek during the latter half of the 1st century BCE. The text survives not as a continuous narrative but in a fragmentary state, preserved through approximately 210 excerpts contained within later Byzantine anthologies, most notably the 9th-century Bibliotheca compiled by Patriarch Photius. The subject of the work is Antipater, the Idumaean father of King Herod the Great, and it chronicles his rise as a dynast, his political career as a chief advisor to the Hasmonean high priest Hyrcanus II, and his pivotal diplomatic dealings with Roman leaders including Pompey and Julius Caesar, culminating in the account of his assassination.
-
-Scholarly analysis suggests the original composition was likely a formal biography or a dedicated section within a larger historical project. Its purpose was fundamentally apologetic, aiming to legitimize the nascent Herodian dynasty by glorifying its founding patriarch. The narrative portrays Antipater as a figure of exceptional wisdom, justice, and diplomatic skill, emphasizing his unwavering loyalty and invaluable service to Rome, thereby presenting the Herodian family as ideal clients for Roman power. Written for a dual audience of the Greco-Roman elite and the Jewish aristocracy in Judaea, the work provides a crucial, albeit intensely partisan, source for the complex political history of the region during its turbulent transition from Hasmonean to Herodian rule under the expanding shadow of Roman hegemony.
 
 ## Text
 

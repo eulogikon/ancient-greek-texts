@@ -5,6 +5,7 @@ author: Song of the Sailors
 eul_wid: puk-aa
 eul_aid: puk
 canonical: "https://eulogikon.org/works/song-sailors-winds-rhodes-puk-aa"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Song of the Sailors
 
 **eul_wid:** `puk-aa` · [HTML page](https://eulogikon.org/works/song-sailors-winds-rhodes-puk-aa)
-
-To the Winds of Rhodes is a poetic work attributed to an author known as Song of the Sailors. This attribution does not correspond to any documented ancient Greek poet, and the work itself is unattested in standard scholarly references and catalogues of classical literature. No information exists regarding its length, metrical form, historical context, or manuscript transmission. The title suggests the poem is an invocation or hymn directed toward the winds associated with the island of Rhodes, implying a thematic connection to nautical poetry and the established Greek literary tradition of addressing natural forces and specific locales. However, the complete absence of the work from the historical record precludes any substantive analysis of its content or assessment of its literary significance.
 
 ## Text
 

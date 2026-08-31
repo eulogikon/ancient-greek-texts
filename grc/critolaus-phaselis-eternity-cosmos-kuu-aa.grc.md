@@ -5,6 +5,7 @@ author: Critolaus of Phaselis philosopher
 eul_wid: kuu-aa
 eul_aid: kuu
 canonical: "https://eulogikon.org/works/critolaus-phaselis-eternity-cosmos-kuu-aa"
+lang: grc
 period: Hellenistic
 dialect: "Attic (phi, frg)"
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Critolaus of Phaselis philosopher
 
 **eul_wid:** `kuu-aa` · [HTML page](https://eulogikon.org/works/critolaus-phaselis-eternity-cosmos-kuu-aa)
-
-On the Eternity of the Cosmos is a philosophical treatise by Critolaus of Phaselis, a leading Peripatetic philosopher of the 2nd century BCE. The work is a systematic defense of the core Aristotelian doctrine that the universe is without beginning or end, composed as a direct polemic against the rival Stoic belief in a periodically destroyed and reborn, cyclical cosmos. The treatise survives only in fragmentary form, with its arguments preserved in approximately twenty-five quotations by later authors, most notably the Christian philosopher John Philoponus, who cited Critolaus as a principal representative of the pagan position he sought to refute. The fragments reveal Critolaus employing formal logical arguments, such as the claim that the cause of the cosmos's existence must itself be eternal, and that the existence of an eternal human race logically necessitates an eternal world. Written during a period of intense doctrinal competition among Hellenistic schools, the treatise represents a significant effort to consolidate and champion Aristotelian cosmology. Its historical importance was secured by its subsequent role as a major reference point in the protracted debate between pagan philosophers advocating for the world's eternity and Christian theologians arguing for its divine creation in time, which ensured its preservation through citation by its opponents long after the original work was lost.
 
 ## Text
 

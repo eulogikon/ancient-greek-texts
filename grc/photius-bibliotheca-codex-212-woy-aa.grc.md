@@ -5,6 +5,7 @@ author: Photius of Constantinople
 eul_wid: woy-aa
 eul_aid: woy
 canonical: "https://eulogikon.org/works/photius-bibliotheca-codex-212-woy-aa"
+lang: grc
 period: Byzantine
 domain: Grammar
 format: Collection

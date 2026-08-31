@@ -5,6 +5,7 @@ author: Aristotle
 eul_wid: hgw-by
 eul_aid: hgw
 canonical: "https://eulogikon.org/works/aristotle-virtue-hgw-by"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristotle
 
 **eul_wid:** `hgw-by` · [HTML page](https://eulogikon.org/works/aristotle-virtue-hgw-by)
-
-The Hymn to Virtue is a fragmentary poem attributed to Aristotle, preserved exclusively as a quotation within the biographical work Lives of the Eminent Philosophers by Diogenes Laertius. It is an encomium that personifies Virtue as a divine figure, addressing her as a goddess for whom mortals must labor. The poem praises Virtue as the noblest pursuit in life, a prize more valuable than gold, parents, or even restful sleep. It illustrates the supreme value of this pursuit through mythological exemplars, noting that for her sake the divine Heracles and the sons of Leda endured great labors, while heroes like Achilles and Ajax descended to the house of Hades. The hymn also serves as a memorial, directly referencing Hermias of Atarneus, Aristotle's friend and patron, stating that for love of Virtue's form he caused the sun to be bereft of its light—a poetic allusion to his execution. The work concludes by asserting that such virtuous deeds bring immortal fame, which the Muses, daughters of Memory, will forever celebrate. As a rare poetic and personal expression within the Aristotelian corpus, the hymn presents virtue not merely as an ethical concept but as a divine goal worthy of heroic sacrifice. Its conception of virtue as a transcendent ideal later influenced Stoic and Neoplatonic thought, and its explicit connection to Hermias was historically cited in charges of impiety leveled against Aristotle.
 
 ## Text
 

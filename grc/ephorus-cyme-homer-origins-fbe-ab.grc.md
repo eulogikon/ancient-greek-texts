@@ -5,6 +5,7 @@ author: Ephorus of Cyme
 eul_wid: fbe-ab
 eul_aid: fbe
 canonical: "https://eulogikon.org/works/ephorus-cyme-homer-origins-fbe-ab"
+lang: grc
 period: Classical
 dialect: Attic
 domain: History
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Ephorus of Cyme
 
 **eul_wid:** `fbe-ab` · [HTML page](https://eulogikon.org/works/ephorus-cyme-homer-origins-fbe-ab)
-
-The Fragments on Homer's Origins constitutes a modern scholarly compilation of 282 passages that preserve the Homeric scholarship of the 4th-century BCE historian Ephorus of Cyme. Ephorus did not author a discrete treatise under this title; rather, these excerpts are drawn from his comprehensive historical works, wherein he addressed subjects pertaining to the poet Homer. The fragments engage with contemporary debates concerning Homer's birthplace, biography, and the historical milieu of the epic poems. They exemplify the rationalizing methodology characteristic of Hellenistic scholarship, which sought to harmonize mythological traditions with historical and geographical inquiry.
-
-The original work does not survive intact. The extant collection is assembled entirely from quotations by later authors, most notably the geographer Strabo, who frequently cited Ephorus in his own writings. Consequently, modern understanding of Ephorus's perspectives is mediated through the selective interests of these subsequent sources. Scholars interpret these fragments as integral to Ephorus's larger historiographical endeavor to utilize Homeric poetry as a source for early Greek history and ethnography. The work was likely composed for an educated audience invested in probing the historical foundations of Hellenic culture and identity.
 
 ## Text
 

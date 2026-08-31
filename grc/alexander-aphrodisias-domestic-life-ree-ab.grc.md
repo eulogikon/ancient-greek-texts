@@ -5,6 +5,7 @@ author: Alexander of Aphrodisias II
 eul_wid: ree-ab
 eul_aid: ree
 canonical: "https://eulogikon.org/works/alexander-aphrodisias-domestic-life-ree-ab"
+lang: grc
 period: Roman
 dialect: Mixed Dialects (frg)
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alexander of Aphrodisias II
 
 **eul_wid:** `ree-ab` · [HTML page](https://eulogikon.org/works/alexander-aphrodisias-domestic-life-ree-ab)
-
-The Fragments on Domestic Life is a treatise attributed to the Peripatetic philosopher Alexander of Aphrodisias, who was active in the late second and early third century CE. The work survives only in nine fragmentary passages, and its title suggests a focus on the principles of household management and the ethics of private life, themes consistent with the broader interests of Aristotelian practical philosophy. The extant text includes brief, dialogic exchanges and maxims that touch upon domestic roles and responsibilities. The authenticity of the fragments is uncertain, as the work is not documented in the standard manuscript traditions or listed among Alexander’s securely attested commentaries and treatises. If genuine, it would represent a minor, specialized contribution to his corpus, which is otherwise dominated by influential works on Aristotelian metaphysics, psychology, and fate. The historical influence of these particular fragments is unattested, standing in contrast to the significant impact of Alexander’s major philosophical writings throughout later antiquity and beyond.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Aristides the Orator
 eul_wid: qwm-bk
 eul_aid: qwm
 canonical: "https://eulogikon.org/works/aristides-orator-smyrna-qwm-bk"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristides the Orator
 
 **eul_wid:** `qwm-bk` · [HTML page](https://eulogikon.org/works/aristides-orator-smyrna-qwm-bk)
-
-The Address to Smyrna is a formal panegyric composed and delivered by the orator Aelius Aristides around 177 CE. Written in refined Attic Greek, the oration is a celebration of the city of Smyrna, extolling its physical beauty, its illustrious mythological and historical past, and the distinguished character of its citizens. The work is structured according to the established conventions of epideictic oratory prevalent during the Second Sophistic period. Aristides opens by expressing his personal connection to the city and his duty to praise it, particularly in light of favorable news recently received from the Roman emperors. He then proceeds to recount Smyrna's legendary origins, linking them to divine figures and heroic founders like Tantalus and Pelops, thereby grounding the city's prestige in a deep and venerable past.
-
-Delivered before the civic assembly of Smyrna, the oration exemplifies the sophisticated use of rhetoric to bolster civic pride and articulate a shared cultural identity for Greek cities under Roman rule. It functions as a sophisticated piece of public ideology, reinforcing the city's status within the imperial framework. Modern scholars regard the speech as a valuable historical source, offering insights into the civic values, urban topography, and self-perception of a major eastern Roman metropolis. Its delivery is often placed chronologically just before a catastrophic earthquake struck the city in 178 CE, which lends the text a potential poignancy as a final, comprehensive tribute to the city's pre-disaster grandeur. The complete text of the oration survives intact through the medieval manuscript tradition of Aristides' collected works.
 
 ## Text
 

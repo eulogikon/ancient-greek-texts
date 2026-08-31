@@ -1,10 +1,11 @@
 ---
 title: Life of Aratus
 title_greek: Βίος Ἀράτου
-author: "Aratus Lives "
+author: Aratus Lives
 eul_wid: iru-ab
 eul_aid: iru
 canonical: "https://eulogikon.org/works/aratus-life-iru-ab"
+lang: grc
 period: Hellenistic
 dialect: Mixed Dialects
 domain: Biography
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Βίος Ἀράτου*
 
-**Author:** Aratus Lives 
+**Author:** Aratus Lives
 
 **eul_wid:** `iru-ab` · [HTML page](https://eulogikon.org/works/aratus-life-iru-ab)
-
-The Life of Aratus is a prose biography of the Hellenistic poet Aratus of Soli, who lived from approximately 315 to 240 BCE and is best known as the author of the didactic astronomical poem Phaenomena. Attributed in the manuscript tradition to the pseudonymous compiler "Aratus Lives," the work is not a single, unified text but rather a compilation representing the collective ancient biographical tradition that was prefixed to copies of Aratus's poem. These biographical sketches gather anecdotal and historical material, primarily detailing the poet's origins, his intellectual milieu, and the circumstances of his literary production. The content typically outlines Aratus's geographical and intellectual background, noting his birth in Soli in Cilicia and his education in Athens. It emphasizes his patronage at the court of King Antigonus II Gonatas of Macedon and recounts the tradition that he versified the earlier astronomical prose treatise of Eudoxus of Cnidus. Furthermore, the biography frequently infers an affiliation with Stoic philosophy based on the prominent hymn to Zeus that opens the Phaenomena. The work survives exclusively within the manuscript tradition of the Phaenomena, having been copied continuously from antiquity through the Byzantine period. Multiple, sometimes variant, versions were transmitted, all derived from earlier layers of Hellenistic and Roman scholarship. As the principal biographical source for the poet, this tradition fundamentally shaped all subsequent understanding of Aratus and his work. It established a model for interpreting Hellenistic literary production, crucially framing the reception of the Phaenomena by persistently linking it to the contexts of Stoic thought and royal Macedonian patronage.
 
 ## Text
 

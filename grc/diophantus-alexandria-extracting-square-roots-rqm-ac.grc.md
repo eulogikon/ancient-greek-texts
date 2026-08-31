@@ -5,6 +5,7 @@ author: Diophantus of Alexandria II
 eul_wid: rqm-ac
 eul_aid: rqm
 canonical: "https://eulogikon.org/works/diophantus-alexandria-extracting-square-roots-rqm-ac"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Diophantus of Alexandria II
 
 **eul_wid:** `rqm-ac` · [HTML page](https://eulogikon.org/works/diophantus-alexandria-extracting-square-roots-rqm-ac)
-
-On Extracting Square Roots is a brief, fragmentary mathematical work attributed to Diophantus of Alexandria. It presents a practical algorithmic method for approximating the square roots of non-square numbers, employing a technique equivalent to the identity (a² + b) ≈ a + b/(2a), which is an application of the Babylonian or Heron's method. This pragmatic computational tract stands apart in content and purpose from Diophantus's major theoretical work, the Arithmetica. The single surviving passage details a step-by-step numerical procedure, focusing on generating rational approximations for irrational square roots. The text survives not within the main manuscript tradition of the Arithmetica but as an independent fragment preserved separately under Diophantus's name. While its direct influence is difficult to trace, the fragment historically connects Diophantus to the Greco-Roman tradition of root-finding algorithms, demonstrating the algebraicist's engagement with the practical arithmetic that underpinned broader mathematical problem-solving.
 
 ## Text
 

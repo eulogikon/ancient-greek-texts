@@ -5,6 +5,7 @@ author: Babrius the Fabulist
 eul_wid: rdu-aa
 eul_aid: rdu
 canonical: "https://eulogikon.org/works/babrius-fables-rdu-aa"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Fiction
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Babrius the Fabulist
 
 **eul_wid:** `rdu-aa` · [HTML page](https://eulogikon.org/works/babrius-fables-rdu-aa)
-
-The Aesopic Fables of Babrius is a collection of traditional fables, attributed to the legendary figure Aesop, rendered into Greek choliambic verse. The author, Babrius, is believed to have been active in the late first or early second century CE under Roman dominion. His work does not constitute original invention but rather a sophisticated literary recasting of existing prose narratives into a polished metrical form, the choliamb, which was commonly associated with satirical and moralizing poetry. The collection was originally organized in two books, as indicated by a dedicatory preface to a youth named Branchus, a feature that suggests an intended pedagogical function. The fables themselves are concise tales, predominantly employing anthropomorphized animals to dramatize practical wisdom concerning human behavior, social relations, and ethical conduct.
-
-The textual transmission of Babrius's work is fragmentary. The primary witness is a tenth-century manuscript preserving 144 fables. An additional sixty or more are known through papyrus fragments and later prose paraphrases, bringing the total of identifiable fables to over two hundred. Scholars regard Babrius's project as a deliberate effort to elevate the fable, often considered a humble or popular form, to the level of recognized Greek literature. A distinguishing feature of his technique is the frequent integration of the tale's moral lesson seamlessly into the narrative fabric, rather than appending it as an explicit conclusion.
-
-This versified collection established itself as the canonical Greek version of the Aesopic corpus throughout late antiquity and the Byzantine era. Its influence was considerable, directly shaping later fabulists such as the Latin writer Avianus. By providing a durable and artistically coherent vehicle for these traditional stories, Babrius's work played a crucial role in ensuring their preservation and transmission across the medieval period and into the modern world.
 
 ## Text
 

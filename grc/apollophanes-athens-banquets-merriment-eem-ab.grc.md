@@ -1,10 +1,11 @@
 ---
 title: Fragments on Banquets and Merriment
 title_greek: Ἀποσπάσματα περὶ Συμποσίων καὶ Εὐωχίας
-author: "Apollophanes of Athens "
+author: Apollophanes of Athens
 eul_wid: eem-ab
 eul_aid: eem
 canonical: "https://eulogikon.org/works/apollophanes-athens-banquets-merriment-eem-ab"
+lang: grc
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀποσπάσματα περὶ Συμποσίων καὶ Εὐωχίας*
 
-**Author:** Apollophanes of Athens 
+**Author:** Apollophanes of Athens
 
 **eul_wid:** `eem-ab` · [HTML page](https://eulogikon.org/works/apollophanes-athens-banquets-merriment-eem-ab)
-
-The Fragments on Banquets and Merriment by the Athenian comic poet Apollophanes is a lost verse comedy surviving only as eight brief passages. Its title indicates a thematic focus on the symposium, a central social institution and frequent setting for Athenian comedy. The work’s extreme fragmentary state provides no narrative details, but its genre and theme suggest it likely addressed the rituals and excesses of sympotic culture, employing drunkenness and gluttony for comic effect while satirizing social dynamics and philosophical pretensions among guests. The fragments survive indirectly as extracts, most likely preserved through citation by later grammarians or anthologists such as Athenaeus. Their absence from major encyclopedic sources confirms the work's minor status within the fragmentary corpus of Athenian comedy. While their direct literary influence is untraceable, these fragments exemplify the enduring comic exploration of convivial life in classical Athens and contribute to scholarly understanding of the thematic range of Middle or Old Comedy beyond the works of its major playwrights.
 
 ## Text
 

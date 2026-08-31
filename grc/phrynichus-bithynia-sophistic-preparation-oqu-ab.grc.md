@@ -5,6 +5,7 @@ author: Phrynichus of Bithynia
 eul_wid: oqu-ab
 eul_aid: oqu
 canonical: "https://eulogikon.org/works/phrynichus-bithynia-sophistic-preparation-oqu-ab"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Phrynichus of Bithynia
 
 **eul_wid:** `oqu-ab` · [HTML page](https://eulogikon.org/works/phrynichus-bithynia-sophistic-preparation-oqu-ab)
-
-The Sophistic Preparation is a prescriptive lexicon composed in Greek by the grammarian Phrynichus of Bithynia around 180 CE. A product of the Second Sophistic movement, it belongs to the genre of Atticist handbooks from the Roman Imperial period. The work is structured as a series of entries serving as a practical guide to proper vocabulary and grammar. Its central aim is the purification of the Greek language by advocating for classical Attic usage as correct and condemning later Hellenistic and contemporary forms as vulgar or erroneous. The text survives incompletely within a single later manuscript where its material is intermixed with another of the author's works, requiring modern scholarly reconstruction. Interpreted as a pedagogical manual for orators and writers, it was designed to equip them with prestigious, classicizing language for public performance. Its dedication to a figure named Cornelianus indicates it was composed for a specific student or patron within elite rhetorical circles.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Galen of Pergamon
 eul_wid: qmm-ao
 eul_aid: qmm
 canonical: "https://eulogikon.org/works/galen-pergamon-diagnosing-treating-emotions-qmm-ao"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Galen of Pergamon
 
 **eul_wid:** `qmm-ao` · [HTML page](https://eulogikon.org/works/galen-pergamon-diagnosing-treating-emotions-qmm-ao)
-
-Galen of Pergamon's treatise On Diagnosing and Treating Each Mind's Emotions is a work of philosophical psychology that systematically applies a medical framework to ethical self-improvement. The text argues that individuals possess a duty to diagnose and treat their own psychological flaws and passions, termed pathologies of the soul, with the same rigor a physician applies to bodily illness. Presented as a complete guide in 57 passages, its central purpose is to provide a method for achieving self-knowledge and administering moral therapy. The content details the necessity and process of self-diagnosis for recognizing one's dominant character flaws, followed by therapeutic advice for specific passions such as anger, grief, fear, and envy. It operates within a broadly Platonic model of the tripartite soul, focusing on correcting disturbances in the spirited and appetitive parts. The treatise consistently emphasizes moral responsibility and the need for disciplined practice in reforming one's character. Preserved complete in the original Greek through Byzantine manuscript tradition, the work is edited in the modern critical edition Corpus Medicorum Graecorum. It stands as a key text in the history of emotions and self-cultivation, exemplifying the therapeutic model of Hellenistic philosophy as adapted by a leading medical authority, and it exerted significant influence on later Byzantine and Islamic scholarship while remaining a primary source for understanding Galen's philosophical psychology.
 
 ## Text
 

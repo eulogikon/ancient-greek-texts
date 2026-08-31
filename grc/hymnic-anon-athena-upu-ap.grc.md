@@ -5,6 +5,7 @@ author: Hymnic Collection  Anonymous
 eul_wid: upu-ap
 eul_aid: upu
 canonical: "https://eulogikon.org/works/hymnic-anon-athena-upu-ap"
+lang: grc
 period: Classical
 dialect: Epic (Homeric)
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hymnic Collection  Anonymous
 
 **eul_wid:** `upu-ap` · [HTML page](https://eulogikon.org/works/hymnic-anon-athena-upu-ap)
-
-Homeric Hymn 11 to Athena is a brief, five-line poem composed in dactylic hexameter and preserved within the anonymous collection known as the Homeric Hymns. It opens with a direct invocation of the goddess, praising her as the protector of cities, formidable in battle alongside Ares, and concerned with the works of war, the sack of cities, and the clamor of conflict. The hymn further honors her as the savior of armies both as they march out and as they return home. Following this praise of her essential martial and civic attributes, the poem concludes with a traditional salutation and a petition for good fortune and happiness. The hymn adheres to the conventional structure of such compositions, moving from invocation to a listing of divine qualities, or aretology, before ending with a closing benediction. It survives as part of the mainstream manuscript tradition of the Homeric Hymns, most notably within the 15th-century Codex Laurentianus 32.16, where it is transmitted complete and without textual controversy alongside other works of archaic epic poetry. As a constituent part of the Homeric Hymns, this concise piece contributed to the standardization of a panhellenic literary portrait of Athena, emphasizing her strategic prowess, her role as a guardian of the civic order, and her privileged status among the gods. The collection as a whole remains a fundamental source for the study of Greek mythology, religious practice, and archaic poetic form.
 
 ## Text
 

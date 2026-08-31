@@ -5,6 +5,7 @@ author: Hierocles of Alexandria
 eul_wid: tbu-aa
 eul_aid: tbu
 canonical: "https://eulogikon.org/works/hierocles-alexandria-golden-poem-tbu-aa"
+lang: grc
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hierocles of Alexandria
 
 **eul_wid:** `tbu-aa` · [HTML page](https://eulogikon.org/works/hierocles-alexandria-golden-poem-tbu-aa)
-
-On the Golden Poem is a philosophical treatise by the 5th-century Neoplatonist Hierocles of Alexandria. It is a detailed, line-by-line commentary on the Carmen Aureum, or Golden Verses, a concise ethical poem traditionally attributed to Pythagoras. Hierocles employs a scholastic method, dividing the 71-line poem into 371 distinct passages to explicate its moral teachings. He interprets the verses as a comprehensive manual for the virtuous life, systematically aligning its precepts with core Neoplatonic doctrines concerning the purification of the soul, the practice of contemplation, and the ultimate goal of assimilation to the divine. The complete text of the commentary survives in a 14th-century manuscript. Modern scholarship regards the work as a significant example of late antique pedagogy, likely designed for students within the Neoplatonic school. It uses the accessible Golden Verses as a foundational text to introduce more advanced concepts in metaphysics and ethics. A further aim of the commentary is to demonstrate a fundamental harmony between Pythagorean, Platonic, and later philosophical traditions, synthesizing them into a unified system for the achievement of human perfection.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Philo of Alexandria
 eul_wid: lgi-ah
 eul_aid: lgi
 canonical: "https://eulogikon.org/works/philo-alexandria-rewards-punishments-curses-lgi-ah"
+lang: grc
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philo of Alexandria
 
 **eul_wid:** `lgi-ah` · [HTML page](https://eulogikon.org/works/philo-alexandria-rewards-punishments-curses-lgi-ah)
-
-On Rewards and Punishments is a philosophical treatise by Philo of Alexandria, composed in Greek around the mid-1st century CE. The work provides an allegorical and ethical exegesis of the blessings and curses enumerated in the biblical books of Leviticus and Deuteronomy. Its argument is structured around the classical motif of the "two ways," delineating the path of virtue and the path of vice. The treatise's first major section elaborates upon the divine rewards promised for individual righteousness, while the second details the severe punishments allotted for wickedness. Philo concludes with a prophetic vision of a future national restoration and enduring prosperity for the Jewish people, an eschatological passage that some interpreters view as expressing a form of philosophical messianic hope.
-
-Composed in Roman Egypt during a period of significant communal tension, the treatise seeks to demonstrate the rational and ethical supremacy of Mosaic law. Its core thesis is that divine justice operates with tangible, historical consequence, administering material and spiritual blessings for virtue and inevitable ruin for transgression. The work thus functions simultaneously as a moral exhortation to personal piety and a theological response to contemporary political anxieties, affirming the ultimate providence of God within history. The complete Greek text survives through medieval manuscripts copied by Christian scribes, who preserved Philo's works primarily for their pioneering allegorical method of scriptural interpretation. The treatise has also been transmitted through ancient Armenian and Latin translations.
 
 ## Text
 

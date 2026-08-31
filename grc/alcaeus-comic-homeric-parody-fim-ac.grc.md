@@ -5,6 +5,7 @@ author: Alcaeus the Comic Poet
 eul_wid: fim-ac
 eul_aid: fim
 canonical: "https://eulogikon.org/works/alcaeus-comic-homeric-parody-fim-ac"
+lang: grc
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alcaeus the Comic Poet
 
 **eul_wid:** `fim-ac` · [HTML page](https://eulogikon.org/works/alcaeus-comic-homeric-parody-fim-ac)
-
-The work On Homeric Parody is attributed to Alcaeus, a comic poet of Athens's Middle Comedy period. The text itself is not extant; knowledge of it derives solely from four fragmentary passages preserved by later grammarians and commentators, such as Athenaeus in his Deipnosophistae. These fragments rework Homeric epic language and scenarios for comic effect, a standard practice in Middle Comedy. The content involves the humorous imitation and subversion of Homeric style, characters, and situations, often treating mythological figures in a debased or anachronistic manner to provide indirect social commentary on contemporary Athenian society.
-
-The work survives only through indirect transmission. The four known fragments are quoted in the works of later ancient authors, primarily for their linguistic or parodic interest, and are collected in modern scholarly editions. There is no independent manuscript tradition. As a product of Middle Comedy, this work exemplifies the period's shift toward generalized social satire and literary parody, bridging the politically engaged Old Comedy and the domestically focused New Comedy. Its preservation in scholarly sources indicates its later value as an example of Attic Greek and comic technique, though its fragmentary state limits any detailed assessment of its broader influence.
 
 ## Text
 

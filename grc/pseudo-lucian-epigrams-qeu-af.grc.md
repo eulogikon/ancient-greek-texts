@@ -1,10 +1,11 @@
 ---
 title: Epigrams
 title_greek: Ἐπιγράμματα
-author: "Pseudo-Lucian "
+author: Pseudo-Lucian
 eul_wid: qeu-af
 eul_aid: qeu
 canonical: "https://eulogikon.org/works/pseudo-lucian-epigrams-qeu-af"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἐπιγράμματα*
 
-**Author:** Pseudo-Lucian 
+**Author:** Pseudo-Lucian
 
 **eul_wid:** `qeu-af` · [HTML page](https://eulogikon.org/works/pseudo-lucian-epigrams-qeu-af)
-
-The Epigrams is a collection of forty-nine elegiac poems transmitted under the name of Lucian of Samosata but considered spurious by modern scholarship, hence the designation Pseudo-Lucian. Preserved within the broader Lucianic corpus, this anthology employs the conventional Hellenistic epigram form for erotic, dedicatory, descriptive, and moralizing subjects. Its poetic nature is distinct from Lucian’s authentic prose satires, suggesting it is a later compilation, likely from the second or third century CE, reflecting the ongoing popularity of the epigram in the Imperial era. The poems cover standard epigrammatic themes, including erotic and sympotic scenes, dedications to deities such as Aphrodite and Dionysus, descriptions of artworks, moralizing and witty observations, and verses imitating epitaphs and inscriptions. The work survives intact as part of the manuscript tradition of Lucian’s complete works, with critical editions typically including it among the spurious works. The collection’s primary importance is textual and scholarly, illustrating practices of pseudepigraphy and the transmission of an authorial corpus. It serves as an example of conventional Hellenistic-style epigram composition during the Roman Imperial period, providing a contrast to Lucian’s innovative prose.
 
 ## Text
 

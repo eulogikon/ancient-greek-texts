@@ -5,6 +5,7 @@ author: Herodian of Alexandria
 eul_wid: qnq-bv
 eul_aid: qnq
 canonical: "https://eulogikon.org/works/herodian-alexandria-symposium-qnq-bv"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Herodian of Alexandria
 
 **eul_wid:** `qnq-bv` · [HTML page](https://eulogikon.org/works/herodian-alexandria-symposium-qnq-bv)
-
-The Symposium by the second-century CE grammarian Herodian of Alexandria is a lost work, surviving only in fragmentary citations. Its title suggests it employed the classical literary form of a banquet dialogue as a framework for grammatical and lexicographical discussion. The work is cited primarily in the lexicon of Hesychius of Alexandria, where it serves as an authority for the explanation of rare and obscure words. These fragments indicate the content involved detailed technical analysis, such as debates on whether specific nouns should carry a rough or smooth breathing, exemplified by the discussion of the word hedos. The use of the symposiastic genre implies the work may have integrated literary commentary or cultural observations alongside its core grammatical inquiries. Its citation by later lexicographers confirms its value as a source for specialized vocabulary into late antiquity. The Symposium stands as an example of the application of a classical literary form to advanced scholarly discourse during the Second Sophistic, contributing to Herodian's lasting reputation in the field of Greek grammatical studies.
 
 ## Text
 

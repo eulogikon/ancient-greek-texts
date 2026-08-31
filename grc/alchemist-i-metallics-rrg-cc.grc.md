@@ -5,6 +5,7 @@ author: Alchemist I
 eul_wid: rrg-cc
 eul_aid: rrg
 canonical: "https://eulogikon.org/works/alchemist-i-metallics-rrg-cc"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alchemist I
 
 **eul_wid:** `rrg-cc` · [HTML page](https://eulogikon.org/works/alchemist-i-metallics-rrg-cc)
-
-The alchemical treatise From the Metallics is attributed to the pseudonymous author designated by modern scholars as Alchemist I. It survives as a brief work of two passages within the broader corpus of Greek alchemical literature. While the specific content of this short treatise is not detailed in extant sources, its title indicates a focus on metallic subjects, a common theme in Greco-Egyptian works which often addressed practical metallurgy, transmutation processes, and the properties and treatment of metals, frequently through allegorical descriptions of chemical operations. The text was preserved through Byzantine manuscript compilation, notably within collections like the tenth- or eleventh-century Marcianus graecus 299. Like many such texts, it is potentially fragmentary and its relationship to larger lost works remains unclear. Although the direct influence of this specific treatise is untraceable, it forms part of the foundational corpus of Greek alchemy. These texts were essential for transmitting alchemical theory and practice to the Islamic world and later to medieval Latin Europe, thereby shaping the entire Western esoteric tradition.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Theophrastus of Eresus
 eul_wid: ljk-as
 eul_aid: ljk
 canonical: "https://eulogikon.org/works/theophrastus-eresus-toils-ljk-as"
+lang: grc
 period: Hellenistic
 dialect: Attic Philosophical
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Theophrastus of Eresus
 
 **eul_wid:** `ljk-as` · [HTML page](https://eulogikon.org/works/theophrastus-eresus-toils-ljk-as)
-
-On Toils is a lost ethical treatise by Theophrastus of Eresus, the successor to Aristotle as head of the Peripatetic school. Composed in Attic Greek during the late fourth or early third century BCE, the work was a collection investigating the nature and significance of ponos, a term encompassing toil, labor, and hardship. No complete manuscript survives; modern understanding derives entirely from 36 fragments preserved by later compilers, most notably the fifth-century CE anthologist Stobaeus. The extant excerpts indicate the treatise was structured as a doxography, systematically assembling maxims, anecdotes, and opinions from a wide range of earlier Greek poets, philosophers, and statesmen. These fragments illustrate core themes, such as the necessity of strenuous effort for attaining excellence and virtue, and they provide exempla of renowned individuals who endured great hardships in pursuit of glory, wisdom, or the public good. The collection is regarded by scholars as emblematic of Theophrastus's scholarly methodology and the broader Peripatetic project of systematically cataloging knowledge on specific ethical topics for both research and pedagogical purposes. While the treatise's original full argument and scope remain irrecoverable, the surviving passages offer a valuable glimpse into Hellenistic philosophical debates concerning character, endurance, and the constituents of a flourishing life.
 
 ## Text
 

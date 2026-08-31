@@ -5,6 +5,7 @@ author: Polyaenus of Macedonia
 eul_wid: qok-aa
 eul_aid: qok
 canonical: "https://eulogikon.org/works/polyaenus-macedonia-excerpts-qok-aa"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Polyaenus of Macedonia
 
 **eul_wid:** `qok-aa` · [HTML page](https://eulogikon.org/works/polyaenus-macedonia-excerpts-qok-aa)
-
-The Excerpts from Polyaenus is a collection of 272 passages presented as an oration. This specific compilation is not attested in standard references for Polyaenus of Macedonia, a second-century CE rhetorician best known for his prose work Stratagems. That work, an eight-book manual of military ruses dedicated to the emperors Marcus Aurelius and Lucius Verus, is a systematic treatise, contrasting with the oratorical format described for the Excerpts. The content of the excerpts, as indicated by its table of subjects, focuses extensively on military strategy, deception, and leadership, covering topics such as the ideal qualities of a general, the testing of friends, the use of spies, the importance of terrain, and various tactical ruses including feigned retreats and the creation of false appearances. It illustrates these principles with historical and mythological anecdotes. While the transmission of the Excerpts is undocumented, Polyaenus's major work, the Stratagems, is preserved in manuscripts, principally the tenth-century Codex Laurentianus Graecus LV-4. The Stratagems served as an important source for later Byzantine compilers and historians and experienced a revival during the Renaissance, with its first printed edition appearing in 1549. The Excerpts from Polyaenus likely represents a later, selective compilation drawn from his known works, reframed for oratorical or pedagogical use.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Dinarchus the Orator
 eul_wid: hqm-ad
 eul_aid: hqm
 canonical: "https://eulogikon.org/works/dinarchus-against-philocles-hqm-ad"
+lang: grc
 period: Hellenistic
 dialect: Attic
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Dinarchus the Orator
 
 **eul_wid:** `hqm-ad` · [HTML page](https://eulogikon.org/works/dinarchus-against-philocles-hqm-ad)
-
-Against Philocles is a forensic oration composed by the Athenian logographer Dinarchus around 323–322 BCE. It stands as one of only three extant speeches from this author and was written for a client prosecuting the Athenian general Philocles. The case emerged from the Harpalus affair, a significant political scandal involving the embezzlement of funds from Alexander the Great’s treasury. The prosecution charged that Philocles had proposed an illegal decree concerning this money, arguing he was derelict in his duty and complicit in corruption. The surviving text is fragmentary, consisting of fourteen passages likely preserved as excerpts by later rhetoricians rather than representing the complete speech.
-
-The oration is a key document from a period of intense crisis in Athens, as the city conducted a series of high-profile trials following Alexander’s death. Designed to be delivered before an Athenian jury, it seeks to channel public outrage over bribery and harness potent anti-Macedonian sentiment. In its rhetorical strategy, the speech vehemently attacks Philocles’s character, accusing him of repeated perjury, brazen contempt for the courts, and a direct betrayal of his sworn oath to protect the state. It presents him as a man whose audacity and shamelessness allowed him to accept bribes despite having previously authored a decree prescribing death for anyone who took the embezzled funds. As such, the work provides crucial evidence for the political trials, the techniques of legal rhetoric, and the profound internal tensions that characterized the final years of Athenian democratic independence.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Pausanias the Periegete
 eul_wid: pqe-aa
 eul_aid: pqe
 canonical: "https://eulogikon.org/works/pausanias-cities-pqe-aa"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Pausanias the Periegete
 
 **eul_wid:** `pqe-aa` · [HTML page](https://eulogikon.org/works/pausanias-cities-pqe-aa)
-
-The Fragments on Cities is a collection of eleven passages attributed to Pausanias the Periegete, distinct from his major work, the Description of Greece. These fragments are preserved solely as quotations in later authors, primarily the sixth-century lexicographer Stephanus of Byzantium. They provide brief descriptions of various cities, covering their locations, mythological foundations, and notable features. The collection represents a modern assemblage of scattered references rather than a cohesive, surviving text. The fragments focus on topographical description, mythological foundation stories, local history and antiquities, and the origins of city names. The work survives only in this fragmentary state, reconstructed from citations, with its attribution to Pausanias relying entirely on later testimonia. While the fragments had no independent circulation, they contributed to later geographical knowledge through their preservation in Byzantine reference works. For modern scholars, they are primarily of philological interest, offering supplementary data for the study of ancient Greek topography and the scope of Pausanias’s literary output.
 
 ## Text
 

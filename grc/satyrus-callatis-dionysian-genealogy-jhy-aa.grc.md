@@ -5,6 +5,7 @@ author: Satyrus of Callatis
 eul_wid: jhy-aa
 eul_aid: jhy
 canonical: "https://eulogikon.org/works/satyrus-callatis-dionysian-genealogy-jhy-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Satyrus of Callatis
 
 **eul_wid:** `jhy-aa` · [HTML page](https://eulogikon.org/works/satyrus-callatis-dionysian-genealogy-jhy-aa)
-
-The Fragments on Dionysian Genealogy by Satyrus of Callatis survive only as two prose excerpts preserved by the Neoplatonist philosopher Porphyry in his third-century CE treatise On Abstinence from Animal Food. Porphyry quoted these fragments as an authoritative source on ancient cultic history to support his philosophical argument for vegetarianism. The text itself is otherwise lost, having no independent manuscript tradition and surviving solely within the Byzantine transmission of Porphyry's work. The fragments present a euhemeristic genealogy of the god Dionysus, rationalizing him as a deified historical king who was credited with introducing viticulture to humanity. This lineage traces Dionysus's descent through figures such as Deianira, Heracles, and Hyllus, culminating in later historical rulers, thereby grounding mythic origins in a pseudo-historical framework. The content addresses the cultural origins of winemaking and its associated rites, as well as the primitive relationship between humans and Dionysus prior to the establishment of animal sacrifice. These excerpts exemplify the Hellenistic tradition of euhemerism—the interpretation of myths as distorted accounts of real historical events and persons—and remain a valuable source for modern scholarship on Dionysiac cults and ancient mythography. The original structure and full scope of Satyrus's work are unknown.
 
 ## Text
 

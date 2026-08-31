@@ -5,6 +5,7 @@ author: Hymnic Collection  Anonymous
 eul_wid: upu-aj
 eul_aid: upu
 canonical: "https://eulogikon.org/works/hymnic-anon-dionysus-upu-aj"
+lang: grc
 period: Classical
 dialect: Epic (Homeric)
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hymnic Collection  Anonymous
 
 **eul_wid:** `upu-aj` · [HTML page](https://eulogikon.org/works/hymnic-anon-dionysus-upu-aj)
-
-Hymn 26 "To Dionysus" is a brief, anonymous Greek poem belonging to the collection known as the Homeric Hymns. Composed in the epic dialect and dactylic hexameter verse, it dates from the archaic period, most likely between the seventh and sixth centuries BCE. The hymn recounts a well-known myth in which Tyrrhenian pirates seize the god Dionysus, mistaking him for a mortal prince. Unrecognized, the god displays his power by flooding the ship with the fragrance of wine and causing ivy and a vine to sprout miraculously over the mast and rigging. As the sailors panic, Dionysus transforms them into dolphins, sparing only the pious helmsman who had urged his comrades to release their divine captive. Transmitted through medieval manuscripts as part of the larger Homeric Hymns corpus, the work exemplifies the genre's function as either a prelude to epic recitation or an independent act of devotion. Scholars regard the hymn as a concise exposition of central Dionysian motifs, illustrating the god's concealed potency, his mastery over nature and metamorphosis, and the severe peril inherent in failing to acknowledge a divine epiphany.
 
 ## Text
 

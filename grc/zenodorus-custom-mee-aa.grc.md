@@ -5,6 +5,7 @@ author: Zenodorus the Grammarian
 eul_wid: mee-aa
 eul_aid: mee
 canonical: "https://eulogikon.org/works/zenodorus-custom-mee-aa"
+lang: grc
 period: Hellenistic
 dialect: Technical Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Zenodorus the Grammarian
 
 **eul_wid:** `mee-aa` · [HTML page](https://eulogikon.org/works/zenodorus-custom-mee-aa)
-
-The grammatical treatise On Custom by Zenodorus the Grammarian addresses the concept of linguistic usage as an authority for correct speech, a central topic in ancient grammatical theory often contrasted with rule-based analogy. The work is structured in six passages but is otherwise lost, with no surviving details of its specific arguments. It explores common practice as a standard for correct Greek and investigates the standards of proper language. The treatise likely engaged with the contemporary debate between rule-based regularity and observed irregularity in language. The work is not directly attested in surviving sources. The Suda’s entry for a 2nd-century BCE grammarian named Zenodorus of Ephesus does not list this title among his known works. Its existence is noted only in later metadata, and the text itself is lost. While the work’s direct influence is unmeasurable due to its loss, its subject matter was central to Hellenistic philology. The debate between usage and rule involved major figures like the Stoics and Aristarchus and was later incorporated into Roman grammatical theory.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Suda
 eul_wid: wus-at
 eul_aid: wus
 canonical: "https://eulogikon.org/works/suda-upsilon-wus-at"
+lang: grc
 period: Byzantine
 domain: Grammar
 format: Collection
@@ -18,12 +19,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Suda
 
 **eul_wid:** `wus-at` · [HTML page](https://eulogikon.org/works/suda-upsilon-wus-at)
-
-The upsilon section of the Suda contains 773 entries spanning lexicography, mythology, grammar, and biblical exegesis. Early entries gloss astronomical and mythological names — the Ὑάδες as the stars on the horns of Taurus, the Ὑακινθίδες as daughters of the Lacedaemonian Hyacinthus — alongside material entries such as Ὕαλος, where a passage from Aristophanes illustrates the use of a glass lens to burn writing.
-
-The middle section treats nuanced vocabulary, including the dual valence of Ὑπερφίαλος, documented as carrying both negative (arrogant) and positive (excellent) senses in different authors, and grammatical notes on the construction of Ὑπερφρονῶ with genitive or accusative.
-
-The closing entries concentrate on Psalmic language, with repeated glosses on Ὑψώθητι and Ὕψωσις drawn from David's address to God, making this section relevant to students of Byzantine biblical commentary, Attic lexicography, and the Suda's methods of citation.
 
 ## Text
 

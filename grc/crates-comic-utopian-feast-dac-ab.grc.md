@@ -5,6 +5,7 @@ author: Crates the Comic Poet
 eul_wid: dac-ab
 eul_aid: dac
 canonical: "https://eulogikon.org/works/crates-comic-utopian-feast-dac-ab"
+lang: grc
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Crates the Comic Poet
 
 **eul_wid:** `dac-ab` · [HTML page](https://eulogikon.org/works/crates-comic-utopian-feast-dac-ab)
-
-Fragments of a Utopian Feast is the modern designation for the surviving excerpts of a lost Athenian comedy by the poet Crates, who was active during the mid-fifth century BCE. The work is a representative example of Old Comedy, the robust and satirical theatrical tradition that also produced the plays of Aristophanes. Composed in Attic Greek verse for performance at public festivals, the complete text of the original play has not survived. Our knowledge of it derives entirely from sixty-three fragments, the majority of which are preserved as quotations within the works of later authors, most notably Athenaeus in his expansive compilation on dining, the Deipnosophistae.
-
-The collected fragments suggest the comedy revolved around the presentation of an idealized, fantastically abundant banquet. This motif of a utopian feast was a conventional comic device for social commentary, employing fantasy to critique contemporary realities such as scarcity, social conflict, or prevailing gastronomic and intellectual trends. The surviving lines depict a world of automatic, personified service, where roasted fish announce themselves and furniture obeys commands, creating a humorous inversion of everyday Athenian life. Scholars regard the play as a significant artifact in the evolution of comic drama. The philosopher Aristotle later credited Crates with helping to shift the genre's focus away from purely personal invective and toward more coherent, plot-driven narratives with universal themes, thereby influencing the subsequent development of comedy. The transmission of the text is exclusively fragmentary; no continuous manuscript exists. Consequently, the original structure of the play—including its acts, choral segments, and complete storyline—remains speculative and can only be tentatively reconstructed from these scattered quotations.
 
 ## Text
 

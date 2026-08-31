@@ -5,6 +5,7 @@ author: Seguerian Lexicons
 eul_wid: vtu-ab
 eul_aid: vtu
 canonical: "https://eulogikon.org/works/seguerian-lexicons-rhetorical-terms-vtu-ab"
+lang: grc
 period: Late Antique
 dialect: Mixed Dialects
 domain: Grammar
@@ -19,20 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Seguerian Lexicons
 
 **eul_wid:** `vtu-ab` · [HTML page](https://eulogikon.org/works/seguerian-lexicons-rhetorical-terms-vtu-ab)
-
-Overview The Lexicon of Rhetorical Terms (Συλλογὴ χρησίμων λέξεων ἐκ διαφόρων ῥητόρων καὶ) is an anonymous Greek lexicon comprising 438 entries dedicated to the specialized vocabulary of Attic oratory. It functions as a scholarly compilation, providing definitions, usage examples drawn from various classical orators, and often synonyms or antonyms for rhetorical terms.
-
-Content
-
-Systematic collection and definition of words pertinent to persuasive speech.
-
-Focus on terminology from classical Attic orators, reflecting the Atticist movement’s valuation of 5th and 4th century BCE Athenian Greek.
-
-Scholarly excerption and organization of material from earlier authoritative rhetorical texts.
-
-Transmission The work survives through Byzantine manuscript transmission, though the specific details of its manuscript tradition are not elaborated in the sources. The defined structure of 438 passages indicates modern scholarly analysis of the extant manuscript evidence.
-
-Significance As part of the broader genre of Greek lexicography, this lexicon contributed to preserving classical vocabulary and supported educational traditions. Such works were instrumental in transmitting knowledge of Attic rhetorical style to later students, writers, and scholars in the Byzantine and Renaissance periods.
 
 ## Text
 

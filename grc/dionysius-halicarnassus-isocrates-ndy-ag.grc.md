@@ -5,6 +5,7 @@ author: Dionysius of Halicarnassus
 eul_wid: ndy-ag
 eul_aid: ndy
 canonical: "https://eulogikon.org/works/dionysius-halicarnassus-isocrates-ndy-ag"
+lang: grc
 period: Hellenistic
 dialect: Attic
 domain: History
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Dionysius of Halicarnassus
 
 **eul_wid:** `ndy-ag` · [HTML page](https://eulogikon.org/works/dionysius-halicarnassus-isocrates-ndy-ag)
-
-"Isocrates the Athenian" is a critical essay on rhetoric composed in Greek by Dionysius of Halicarnassus, a historian and teacher active in Rome during the late first century BCE. The work functions as a detailed piece of literary criticism, offering a systematic analysis of the prose style of the renowned Athenian orator Isocrates. Dionysius structures his examination around twenty-seven carefully selected passages from Isocrates's own writings, which he quotes and then subjects to meticulous scrutiny. His critique focuses on technical elements of composition, including precise word choice, the architecture of clauses and periods, and the deliberate use of rhythmic patterns. Throughout the essay, Dionysius frequently contrasts the polished, highly artistic, and periodic style of Isocrates with the more straightforward and natural manner of orators such as Lysias.
-
-Composed as both an instructional manual for advanced students of rhetoric and a scholarly intervention in contemporary stylistic debates, the essay reflects Dionysius's commitment to the principles of Atticism. This literary movement advocated for the clear, elegant, and refined style of classical Athenian orators as the ideal model for prose composition. By dissecting Isocrates's techniques, Dionysius promotes him as a paramount exemplar of effective and artistic expression. The work survives in its complete form through medieval manuscript traditions, and the extensive passages Dionysius quotes from Isocrates's speeches serve as an invaluable source for the textual criticism and study of the orator's own corpus.
 
 ## Text
 

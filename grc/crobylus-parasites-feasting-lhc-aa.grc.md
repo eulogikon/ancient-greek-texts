@@ -5,6 +5,7 @@ author: Crobylus the Comic Poet
 eul_wid: lhc-aa
 eul_aid: lhc
 canonical: "https://eulogikon.org/works/crobylus-parasites-feasting-lhc-aa"
+lang: grc
 period: Hellenistic
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Crobylus the Comic Poet
 
 **eul_wid:** `lhc-aa` · [HTML page](https://eulogikon.org/works/crobylus-parasites-feasting-lhc-aa)
-
-The Fragments on Parasites and Feasting constitute a collection of twenty-nine fragmentary passages attributed to the comic poet Crobylus. Preserved through quotation by later authors, most notably Athenaeus of Naucratis in his Deipnosophistae, these excerpts focus on the stock character of the parasite and scenes of convivial excess. They likely originated from one or more of Crobylus's lost comedies and provide isolated but valuable glimpses into his dramatic style. The content is characteristic of the Middle Comedy period, which moved away from direct political satire of earlier Old Comedy toward more generalized social humor built around recognizable character types. The fragments vividly depict the parasite's craft, detailing the techniques of flattery, deception, and opportunism employed by these professional dinner guests to secure invitations and lavish meals. This portrayal serves as a vehicle for social satire, critiquing the dynamics of dependency, patronage, and gluttony within Athenian society. The scenes often highlight the grotesque excesses of the symposium and the interactions between the cunning parasite and other stock characters, such as the boastful soldier or the gullible host. While Crobylus remains a minor figure due to the fragmentary nature of his surviving work, these pieces are significant for scholars reconstructing the themes and conventions of Middle Comedy. The parasite character type he helped popularize proved profoundly influential, being adapted directly by Roman comic playwrights like Plautus and Terence and enduring as a foundational archetype in subsequent European comedic traditions.
 
 ## Text
 

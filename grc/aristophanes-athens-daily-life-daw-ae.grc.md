@@ -5,6 +5,7 @@ author: Aristophanes of Athens
 eul_wid: daw-ae
 eul_aid: daw
 canonical: "https://eulogikon.org/works/aristophanes-athens-daily-life-daw-ae"
+lang: grc
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristophanes of Athens
 
 **eul_wid:** `daw-ae` · [HTML page](https://eulogikon.org/works/aristophanes-athens-daily-life-daw-ae)
-
-The work commonly referred to as Fragments on Daily Life is not an authentic or attested composition by the Athenian comic playwright Aristophanes. Aristophanes, active in the late 5th and early 4th centuries BCE, is known exclusively for his comedies written for performance at Athenian civic festivals. His surviving corpus consists of eleven complete plays, including Acharnians, Clouds, and Lysistrata, alongside fragments from more than thirty lost plays. These fragments are preserved through quotations by later ancient authors, scholiasts, and papyrus discoveries; they are cataloged and studied under the titles of the lost plays from which they originate, not as a thematically organized anthology on daily life. The notion of a distinct work comprising over a thousand passages on this theme finds no support in the manuscript tradition or scholarly consensus.
-
-While no such standalone collection exists, the authentic fragments and complete plays of Aristophanes are rich with satirical depictions of Athenian daily life. His comedy routinely engages with contemporary politics, lampooning figures like the demagogue Cleon, and reflects the profound social strains of the Peloponnesian War, often expressing a powerful longing for peace. Other frequent targets include intellectual trends and philosophers, most famously Socrates in The Clouds, as well as the dynamics of gender relations, the operations of the law courts, and various civic institutions. These elements make his work an invaluable source for understanding the social history, political climate, and performance culture of classical Athens. As the only complete surviving author of Old Comedy, Aristophanes' influence on the subsequent development of comic drama, from Menander's New Comedy to modern satire, remains profound and enduring. His complete plays were transmitted through medieval manuscripts, while the fragments continue to be recovered and edited from ancient sources, constituting a vital, if piecemeal, record of his lost theatrical output.
 
 ## Text
 

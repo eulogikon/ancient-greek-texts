@@ -5,6 +5,7 @@ author: Lucian of Samosata
 eul_wid: pfk-cq
 eul_aid: pfk
 canonical: "https://eulogikon.org/works/lucian-samosata-images-pfk-cq"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lucian of Samosata
 
 **eul_wid:** `pfk-cq` · [HTML page](https://eulogikon.org/works/lucian-samosata-images-pfk-cq)
-
-Lucian of Samosata’s Images is a rhetorical dialogue in which the author, under challenge from a friend, undertakes to describe a beautiful woman using words alone. The work unfolds as an extended ekphrasis, a verbal portrait that systematically catalogs the woman’s physical beauty from head to toe across twenty-four sections, employing the formal convention of effictio. This detailed description draws upon idealized comparisons to goddesses and classical artworks. Following this physical portrait, Lucian proceeds to praise the harmony of the subject’s soul and character with her outward form. The description proves so convincing that his interlocutor identifies the subject as Panthea, the cultured mistress of the emperor Lucius Verus. Preserved complete within the robust manuscript tradition of Lucian’s wider corpus, Images stands as a prime example of Second Sophistic rhetorical virtuosity. It explores the capacity of language to rival visual art and serves as a key text for understanding the ekphrastic genre and the conventions of imperial Greek oratory, contributing to the enduring tradition of the paragone, or rivalry between the arts.
 
 ## Text
 

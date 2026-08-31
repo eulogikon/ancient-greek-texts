@@ -5,6 +5,7 @@ author: John of Caesarea in Palestine
 eul_wid: uxw-ag
 eul_aid: uxw
 canonical: "https://eulogikon.org/works/john-caesarea-palestine-disputation-manichaean-uxw-ag"
+lang: grc
 period: Late Antique
 dialect: Christian Koine
 domain: Grammar
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** John of Caesarea in Palestine
 
 **eul_wid:** `uxw-ag` · [HTML page](https://eulogikon.org/works/john-caesarea-palestine-disputation-manichaean-uxw-ag)
-
-The Disputation with a Manichaean is a polemical theological treatise attributed to John of Caesarea in Palestine. It systematically refutes the core doctrines of Manichaeism, a dualistic religion that posed a significant challenge to orthodox Christianity in late antiquity. The work is structured as a dialogue between an Orthodox Christian and a Manichaean, allowing for a point-by-point critique. Its primary arguments include a refutation of the Manichaean belief in two co-eternal principles of good and evil, vigorously defending Christian monotheism instead. It also offers a defense of the God of the Old Testament against characteristic Manichaean criticisms, addresses the origin of evil within a monotheistic framework, and contrasts Manichaean determinism with the Christian conception of free will.
-
-The treatise is not widely attested in major digital repositories for classical literature, suggesting its transmission was limited. Its survival indicates preservation within Byzantine theological manuscript collections, though its specific manuscript history and textual completeness remain unclear. The attribution distinguishes this author from other figures such as John of Caesarea the grammarian. As a contribution to the broader corpus of anti-heretical literature, the work played a role in the theological efforts that marginalized Manichaeism and helped define orthodox Christian boundaries. Such polemics informed the arguments of major patristic figures and shaped the development of subsequent Christian heresiology.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Euripides
 eul_wid: cbm-al
 eul_aid: cbm
 canonical: "https://eulogikon.org/works/euripides-alexander-cbm-al"
+lang: grc
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Euripides
 
 **eul_wid:** `cbm-al` · [HTML page](https://eulogikon.org/works/euripides-alexander-cbm-al)
-
-_Alexander_ is a tragedy by the ancient Greek playwright Euripides, composed in verse around 415 BCE. The play is now lost, with its content reconstructed from approximately 178 fragments preserved in later quotations and on papyri. It dramatizes the early myth of Paris, also known as Alexander, the Trojan prince abandoned at birth due to a prophecy that he would bring about the destruction of Troy. Raised in obscurity as a shepherd, Paris later returns to the royal palace unrecognized. A central episode involves his victory in a bull-slaying contest, an event that demonstrates his inherent nobility despite his rustic upbringing. The plot culminates in a recognition scene where his true identity is revealed to his mother, Hecuba.
-
-The play was originally performed in Athens as the first part of a connected trilogy, followed by _Palamedes_ and the renowned _Trojan Women_. Produced during the Peloponnesian War, this trilogy is often interpreted by modern scholars as a commentary on contemporary Athenian politics and the profound sufferings of war. The tragedy explores the tension between inescapable fate and human ignorance, as the Trojan royal family unknowingly confronts the son destined to ruin them. It also examines the contrast between innate nobility and humble nurture, a theme of significant interest in fifth-century Athenian intellectual life. The surviving fragments, including a portion of a messenger speech describing the athletic contest found on Papyrus Oxyrhynchus 3650, provide the primary evidence for the play’s structure and themes.
 
 ## Text
 

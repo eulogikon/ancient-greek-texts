@@ -5,6 +5,7 @@ author: Dio Cassius of Nicaea
 eul_wid: rhq-ad
 eul_aid: rhq
 canonical: "https://eulogikon.org/works/dio-cassius-nicaea-roman-histories-rhq-ad"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Dio Cassius of Nicaea
 
 **eul_wid:** `rhq-ad` · [HTML page](https://eulogikon.org/works/dio-cassius-nicaea-roman-histories-rhq-ad)
-
-The Roman Histories is an extensive 80-book history of Rome, composed in Greek by the senator and historian Cassius Dio. Written between approximately 200 and 235 CE, the work chronicles Roman history from its legendary foundation, following Aeneas's arrival in Italy, through to the assassination of the emperor Elagabalus in 222 CE. Dio, who served as a consul and provincial governor, structured his narrative in the traditional annalistic style, recounting events year by year. He drew upon both earlier historical sources and his own considerable experience within the imperial administration. The history is only partially extant; the most complete section comprises Books 36 through 60, which offer a nearly continuous narrative from 68 BCE to 47 CE, covering the final decades of the Republic and the early Julio-Claudian principate. The beginning and end of the work, Books 1–35 and 61–80, are lost, surviving only in fragments and later summaries. Modern scholarship regards the Roman Histories as a vital source for understanding the transition from Republic to Principate, providing a detailed analysis of this political transformation from the perspective of a senior senator. It was likely composed for an educated, Greek-speaking audience within the Roman Empire. The text's transmission is complex, with the surviving books preserved in medieval manuscripts. Knowledge of the lost portions derives chiefly from two later Byzantine sources: a detailed 11th-century epitome by Joannes Xiphilinus and a 9th-century summary and critique by the scholar Photius, who recorded the work's scope and his assessment of it in his Bibliotheca.
 
 ## Text
 

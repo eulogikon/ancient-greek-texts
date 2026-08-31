@@ -5,6 +5,7 @@ author: Galen of Pergamon
 eul_wid: qmm-ee
 eul_aid: qmm
 canonical: "https://eulogikon.org/works/galen-pergamon-seed-qmm-ee"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Galen of Pergamon
 
 **eul_wid:** `qmm-ee` · [HTML page](https://eulogikon.org/works/galen-pergamon-seed-qmm-ee)
-
-_On Seed_ is a medical treatise by the physician Galen of Pergamon, composed in Greek around the late second century CE. The work presents a systematic inquiry into the nature, origin, and physiological role of semen in animal and human generation. Galen structures his investigation in two books: the first examines the male seed, while the second addresses the female contribution and the mechanics of conception. He opens by posing fundamental questions regarding the necessity and function of seed, framing his inquiry as a critical adjudication between the theories of Hippocrates and Aristotle. Galen champions a two-seed theory of generation, arguing that both sexes produce an active, formative seed—a refined product of blood concocted by the reproductive organs. This stance directly challenges the Aristotelian view that the male alone supplies the formative principle while the female provides only passive matter.
-
-The treatise is characterized by its methodological rigor, as Galen insists that conclusions must be derived from evident anatomical observations and direct experience rather than persuasive but unsubstantiated arguments. He describes conducting repeated examinations of various animals, including horses, dogs, and cattle, to observe whether seed is retained after coitus. This empirical approach is integrated with a teleological framework, seeking to demonstrate the purposeful design of the generative organs and their products. The complete text, preserved through medieval Greek manuscripts, exerted profound and lasting influence on reproductive theory. Its translation into Arabic and later Latin ensured its authority in both Islamic and Western medical traditions for well over a millennium, cementing Galen’s synthesis of anatomical investigation and philosophical physiology.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Polyzelus the Comic Poet
 eul_wid: eew-aa
 eul_aid: eew
 canonical: "https://eulogikon.org/works/polyzelus-comic-dialogues-eew-aa"
+lang: grc
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Polyzelus the Comic Poet
 
 **eul_wid:** `eew-aa` · [HTML page](https://eulogikon.org/works/polyzelus-comic-dialogues-eew-aa)
-
-The Fragments of Comic Dialogues is a modern descriptive title for nineteen brief passages attributed to the Athenian comic poet Polyzelus. Preserved as quotations in later ancient authors, these fragments represent the surviving remnants of his comedies and include lines of dialogue, choral passages, and descriptive verses typical of Old Comedy, though the original dramatic context for each is lost. The extant lines indicate thematic concerns standard to the genre, including social and political satire, parody of myth with references to figures such as Procne and Philomela, and humor derived from food, fish, and dining practices. The fragments also exhibit the linguistic innovation and wordplay that motivated their citation by later scholars. No complete play by Polyzelus survives; the fragments are transmitted indirectly through the works of lexicographers such as Athenaeus and Pollux, who quoted them for their unusual vocabulary or content. They are systematically collected in modern editions like Poetae Comici Graeci. While Polyzelus’s direct influence is not documented, his fragments contribute to the broader corpus of Old Comedy. They provide valuable evidence for the genre’s thematic diversity and linguistic range beyond the surviving complete plays of major authors like Aristophanes, aiding in the reconstruction of the competitive landscape of Athenian dramatic festivals.
 
 ## Text
 

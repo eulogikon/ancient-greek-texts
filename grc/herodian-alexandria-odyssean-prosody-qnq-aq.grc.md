@@ -5,6 +5,7 @@ author: Herodian of Alexandria
 eul_wid: qnq-aq
 eul_aid: qnq
 canonical: "https://eulogikon.org/works/herodian-alexandria-odyssean-prosody-qnq-aq"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Grammar
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Herodian of Alexandria
 
 **eul_wid:** `qnq-aq` · [HTML page](https://eulogikon.org/works/herodian-alexandria-odyssean-prosody-qnq-aq)
-
-On the Odyssean Prosody is a grammatical treatise by the 2nd-century CE Alexandrian scholar Aelius Herodianus. The work systematically analyzes the prosody and accentuation of words in Homer's Odyssey, examining 37 specific passages to establish rule-based principles. It forms part of Herodian's broader project to codify Greek accentuation, building upon the earlier scholarship of figures such as Aristarchus of Samothrace. The treatise focuses on applying prosodic rules to Homeric vocabulary, reflecting the Alexandrian tradition of textual criticism in which correct accentuation was considered vital for establishing a word's proper form and meaning. It represents an advancement toward a structured, scientific approach to grammar beyond ad-hoc observation.
-
-Herodian's vast output, including his major work General Prosody, is lost in its original form. On the Odyssean Prosody survives only in fragments and references within later Byzantine grammatical manuals and scholia, which preserve its known structure of 37 passages. Herodian's systematic work became the foundation for Byzantine grammatical teaching, transmitted by scholars such as Theodosius of Alexandria and George Choiroboskos. His codification of accentuation rules was crucial for preserving knowledge of Greek prosody and remains the basis for the standard rules taught today.
 
 ## Text
 

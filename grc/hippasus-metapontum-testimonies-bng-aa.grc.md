@@ -5,6 +5,7 @@ author: Hippasus of Metapontum
 eul_wid: bng-aa
 eul_aid: bng
 canonical: "https://eulogikon.org/works/hippasus-metapontum-testimonies-bng-aa"
+lang: grc
 period: Archaic
 dialect: Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hippasus of Metapontum
 
 **eul_wid:** `bng-aa` · [HTML page](https://eulogikon.org/works/hippasus-metapontum-testimonies-bng-aa)
-
-The Testimonies attributed to Hippasus of Metapontum represent a modern scholarly compilation of fragmentary reports from later ancient authors. As a Pre-Socratic philosopher who left no surviving writings, our knowledge of Hippasus derives entirely from these doxographical accounts. The collected passages document his association with Pythagoreanism and his theories on cosmology and mathematics. The testimonia address several key doctrines, including the identification of fire as the primary first principle and a belief in cosmic conflagration. They also note his investigations into mathematical ratios, particularly in musical intervals, and his work on the geometry of the regular dodecahedron. A recurring legendary narrative describes his punishment or expulsion from the Pythagorean community for divulging secret doctrines. All evidence for Hippasus is indirect, preserved in later sources such as Aristotle, Theophrastus, Iamblichus, and Diogenes Laertius. The standard collection of these testimonia is found in modern scholarly editions like Diels-Kranz's Fragmente der Vorsokratiker. Hippasus’s reported ideas influenced later philosophical and scientific thought. His work on musical ratios was foundational for Pythagorean harmonic theory and its cosmological applications, impacting Plato and later educational frameworks. His story also became a paradigmatic anecdote about secrecy and conflict within early Pythagoreanism.
 
 ## Text
 

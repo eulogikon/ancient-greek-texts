@@ -5,6 +5,7 @@ author: Callimachus Scholia
 eul_wid: vmw-ai
 eul_aid: vmw
 canonical: "https://eulogikon.org/works/callimachus-scholia-lyric-poems-vmw-ai"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: Grammar
@@ -19,22 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Callimachus Scholia
 
 **eul_wid:** `vmw-ai` · [HTML page](https://eulogikon.org/works/callimachus-scholia-lyric-poems-vmw-ai)
-
-Overview The title Scholia-Lyric Poems (Σχόλια εἰς Λυρικὰ Ποιήματα) refers not to a work by Callimachus but to ancient or medieval scholarly commentaries on his lyric poetry. Callimachus (c. 310–240 BCE), a Hellenistic poet and scholar at the Library of Alexandria, authored works like the Aetia, Hymns, and Epigrams. The scholia are later explanatory notes, compiled by grammarians, that annotate his texts.
-
-Content These prose commentaries typically address:
-
-Textual Criticism: Variant readings and editorial issues.
-
-Literary Exegesis: Explanations of mythological, historical, and geographical references.
-
-Linguistic and Metrical Analysis: Glosses on rare words and comments on poetic meter.
-
-Stylistic Commentary: Notes on rhetorical figures and poetic techniques.
-
-Transmission Callimachus’s own works survive fragmentarily, primarily through papyri and quotations. The scholia are preserved in medieval manuscripts of his poetry, notably 13th- to 15th-century codices for the Hymns and Epigrams, as well as on earlier papyrus fragments.
-
-Significance The scholia are indispensable for modern scholarship, preserving otherwise lost fragments and testimonia. They represent a continuous tradition of classical scholarship essential for reconstructing and interpreting Callimachus’s influential, yet fragmentary, oeuvre.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-ds
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-caius-marius-okg-ds"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-ds` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-caius-marius-okg-ds)
-
-The Life of Caius Marius is a biographical work by the Greek philosopher and essayist Plutarch, written in the early second century CE as part of his larger series, Parallel Lives. Composed in Attic Greek, it pairs the Roman general Gaius Marius with the Athenian naval hero Themistocles, a coupling intended to illustrate shared themes of military brilliance and complex relationships with their respective political systems. The biography traces Marius’s remarkable career from his provincial, non-noble origins in Arpinum through his unprecedented run of seven consulships, his profound reforms of the Roman army, his decisive victories in the Jugurthine and Cimbric Wars, and his eventual, violent demise during the civil strife with his rival, Lucius Cornelius Sulla. Plutarch arranges the narrative across 297 compact sections, employing a chronological framework that prioritizes the revelation of character and moral disposition over strict historical chronicle, often using illustrative anecdotes to highlight virtues and vices.
-
-Plutarch’s overarching project is generally understood as moral and pedagogical, crafted for an educated elite audience conversant in both Greek and Roman culture. The life of Marius functions as a penetrating study of ambition and its consequences within a traditional aristocratic society. It explores the tension between innate merit and established privilege, demonstrating how Marius’s formidable drive and populist appeal propelled his extraordinary rise but also fueled a ruthlessness that contributed to his personal tragedy and the destabilization of the Roman Republic. The complete text has been preserved through medieval manuscript traditions and remains an indispensable literary source for the period, despite its deliberate focus on character rather than comprehensive political analysis. Its vivid, anecdotal, and ethically oriented approach has exerted a lasting influence on historical writing and the portrayal of Marius as a fundamentally transformative yet fatally flawed figure.
 
 ## Text
 

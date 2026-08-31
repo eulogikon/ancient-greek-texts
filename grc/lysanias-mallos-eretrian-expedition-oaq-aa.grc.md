@@ -5,6 +5,7 @@ author: Lysanias of Mallos
 eul_wid: oaq-aa
 eul_aid: oaq
 canonical: "https://eulogikon.org/works/lysanias-mallos-eretrian-expedition-oaq-aa"
+lang: grc
 period: Roman
 dialect: Attic
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lysanias of Mallos
 
 **eul_wid:** `oaq-aa` · [HTML page](https://eulogikon.org/works/lysanias-mallos-eretrian-expedition-oaq-aa)
-
-On the Eretrian Expedition is a lost historical work attributed to Lysanias of Mallos, known only through two brief fragments preserved in later lexicographical sources. The title suggests it chronicled a military campaign involving the city of Eretria on Euboea, but the surviving passages indicate the work also contained antiquarian digressions explaining rare terms and local customs. These fragments, which elucidate the words skaphephoroi, likely meaning "bowl-bearers," and amphidromia, a ceremony for a newborn, were transmitted through the lexicon of Harpocration and the grammatical writings of Herodian. The work's title is also recorded in the tenth-century Byzantine encyclopedia known as the Suda. Its primary historical significance lies in its utility as a source for obscure vocabulary, consulted by ancient and Byzantine scholars for authoritative explanations, and it remains a subject of interest only for specialists in fragmentary Greek historiography.
 
 ## Text
 

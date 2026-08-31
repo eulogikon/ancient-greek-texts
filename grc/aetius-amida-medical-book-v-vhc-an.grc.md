@@ -5,6 +5,7 @@ author: Aëtius of Amida
 eul_wid: vhc-an
 eul_aid: vhc
 canonical: "https://eulogikon.org/works/aetius-amida-medical-book-v-vhc-an"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aëtius of Amida
 
 **eul_wid:** `vhc-an` · [HTML page](https://eulogikon.org/works/aetius-amida-medical-book-v-vhc-an)
-
-Medical Book V constitutes the fifth volume of the Tetrabiblos, a sixteen-book medical encyclopedia compiled in Greek during the sixth century by the physician Aëtius of Amida. Functioning as a practical handbook, this volume systematically addresses diseases and treatments pertaining to the head. Its 159 chapters cover a wide range of conditions, including headaches, epilepsy, insomnia, and ailments affecting the eyes, ears, nose, and mouth. The text provides detailed therapeutic recipes, surgical instructions, and dietary advice for these disorders.
-
-The work is fundamentally a compilation rather than an original treatise. Aëtius, who served as a court physician in Constantinople under Emperor Justinian I, synthesized knowledge from earlier Greek and Roman authorities, most notably Galen. Modern scholarship regards the encyclopedia as a significant effort to preserve and systematically organize classical medical knowledge for the practical use of Byzantine physicians. Its diagnostic explanations and therapeutic recommendations are grounded in the ancient theory of the four bodily humors.
-
-The complete text of Aëtius's encyclopedia survives through numerous Greek manuscripts, attesting to its enduring utility in the Byzantine world. Book V is transmitted as an integral part of this larger corpus. The work was later translated into Latin, Arabic, and Syriac, extending its influence on medieval medicine in both the Eastern and Western traditions. Its preservation is of particular historical value because it incorporates extensive quotations from many earlier medical sources that are otherwise lost.
 
 ## Text
 

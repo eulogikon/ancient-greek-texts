@@ -5,6 +5,7 @@ author: John the Lydian
 eul_wid: vhw-ac
 eul_aid: vhw
 canonical: "https://eulogikon.org/works/john-lydian-omens-vhw-ac"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** John the Lydian
 
 **eul_wid:** `vhw-ac` · [HTML page](https://eulogikon.org/works/john-lydian-omens-vhw-ac)
-
-On Omens is a sixth-century Byzantine treatise on divination authored by the scholar and imperial official John the Lydian. Written in prose, this work functions as an encyclopedic manual, systematically compiling and interpreting a wide array of prophetic signs. It catalogs omens derived from the flight and calls of birds, the behavior of animals, celestial and meteorological phenomena, and involuntary human actions such as sneezing or stumbling. The treatise draws extensively upon earlier Greek and Latin sources, preserving a significant body of Hellenistic and Roman augural lore. Composed during the reign of Emperor Justinian I, under whom John served as a high-ranking bureaucrat, the work documents the persistence of classical divinatory knowledge within the Christian empire. The complete text survives as part of John the Lydian's extant corpus, which also includes his antiquarian works On the Magistracies of the Roman State and On the Months. As a key source for historians of religion and late antique intellectual culture, On Omens preserves fragments of otherwise lost works and illustrates the complex relationship between Christian orthodoxy and traditional pagan scholarship among the Byzantine administrative elite.
 
 ## Text
 

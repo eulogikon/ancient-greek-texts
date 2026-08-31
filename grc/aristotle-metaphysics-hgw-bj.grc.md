@@ -5,6 +5,7 @@ author: Aristotle
 eul_wid: hgw-bj
 eul_aid: hgw
 canonical: "https://eulogikon.org/works/aristotle-metaphysics-hgw-bj"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristotle
 
 **eul_wid:** `hgw-bj` · [HTML page](https://eulogikon.org/works/aristotle-metaphysics-hgw-bj)
-
-Aristotle's Metaphysics is a foundational collection of philosophical treatises composed in the mid-fourth century BCE. Its title, meaning "the things after the physics," was applied by later editors; Aristotle himself referred to its subject as "first philosophy" or the study of "being qua being." The work is not a single unified book but a compilation of fourteen books that investigate the fundamental causes and principles of reality. Its opening book famously declares that all humans by nature desire to know, establishing the pursuit of wisdom as its central aim. Major themes include a detailed analysis of substance, the theory that concrete objects are composites of form and matter, and the concept of a pure, actualized being—an "unmoved mover"—as the ultimate cause of all motion in the cosmos. The structure is complex, with scholars interpreting some books as independent inquiries or earlier drafts, likely intended for his advanced students at the Lyceum in Athens. The work represents Aristotle's mature thought, critically engaging with his predecessors, most notably Plato, whose Theory of Forms he systematically argues against. The complete text has survived through a manuscript tradition where the oldest complete copies date to the ninth and tenth centuries CE, with modern editions based on scholarly work from the nineteenth century onward.
 
 ## Text
 

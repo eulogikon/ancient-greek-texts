@@ -5,6 +5,7 @@ author: Lysias the Orator
 eul_wid: ejc-an
 eul_aid: ejc
 canonical: "https://eulogikon.org/works/lysias-against-pancleon-ejc-an"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lysias the Orator
 
 **eul_wid:** `ejc-an` · [HTML page](https://eulogikon.org/works/lysias-against-pancleon-ejc-an)
-
-Against Pancleon Not Being Plataean is a forensic speech attributed to the Athenian orator Lysias, composed circa 400–380 BCE. The speech presents a private legal case in which the plaintiff prosecutes a man named Pancleon for falsely claiming Plataean status. In post-war Athens, Plataeans enjoyed specific legal privileges as resident aliens due to their city's alliance with and subsequent destruction by Athens. The speaker methodically recounts his investigation to disprove Pancleon's claim, detailing his visits to a fuller's shop where Pancleon worked, his inquiries among both Plataean and Decelean communities, and his discovery that no one recognized Pancleon as a legitimate member of either group. The plaintiff argues that Pancleon is in fact a slave, a status that would deny him the legal protections he seeks. The speech, structured in fourteen succinct sections, survives complete within the Lysianic corpus. Its brevity has led scholars to suggest it may represent a draft or a summary rather than a fully elaborated courtroom oration. The case offers significant insight into Athenian social and legal procedures following the restoration of democracy, particularly the critical importance of civic status and the reliance on local testimony to verify identity and privilege in the courts. It is generally understood to have been composed for a suit concerning false testimony about an individual's legal identity.
 
 ## Text
 

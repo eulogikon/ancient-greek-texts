@@ -1,10 +1,11 @@
 ---
 title: Fragments on Medicinal Herbs
 title_greek: Ἀποσπάσματα περὶ Βοτανῶν Ἰατρικῶν
-author: "Orphic Poems "
+author: Orphic Poems
 eul_wid: lea-af
 eul_aid: lea
 canonical: "https://eulogikon.org/works/orphic-poems-medicinal-herbs-lea-af"
+lang: grc
 period: Hellenistic
 dialect: Epic (Homeric)
 domain: Philosophy
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀποσπάσματα περὶ Βοτανῶν Ἰατρικῶν*
 
-**Author:** Orphic Poems 
+**Author:** Orphic Poems
 
 **eul_wid:** `lea-af` · [HTML page](https://eulogikon.org/works/orphic-poems-medicinal-herbs-lea-af)
-
-The Fragments on Medicinal Herbs is a collection of pseudepigraphic verses attributed to the mythical poet Orpheus, representing a specialized branch of the broader Orphic literary corpus. These fragments, which survive only through quotations in later authors such as Pliny the Elder and the medical compiler Aetius of Amida, consist of didactic hexameter poetry detailing the therapeutic properties of various plants. The work integrates practical botanical and pharmacological knowledge within a religious framework, presenting herbal lore as a form of divinely revealed wisdom. Its descriptions often blend empirical observation with a ritualistic or magical understanding of healing, as seen in instructions for preparing salves and poultices to treat burns or headaches. The attribution of such material to Orpheus exemplifies the expansion of his legendary authority from theology and cosmology into the domain of natural philosophy. As a modern scholarly reconstruction from scattered references, the collection has no continuous manuscript tradition. Its significance lies in illustrating the intersection of ritual, magic, and proto-scientific inquiry in antiquity, seeking to anchor contemporary medical practices in the prestige of ancient divine revelation. While its direct influence is difficult to trace, the fragments belong to the pervasive Orphic tradition that contributed to the development of later Greek philosophical and esoteric thought.
 
 ## Text
 

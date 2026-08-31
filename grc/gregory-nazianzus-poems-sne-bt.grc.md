@@ -4,6 +4,7 @@ author: Gregory of Nazianzus
 eul_wid: sne-bt
 eul_aid: sne
 canonical: "https://eulogikon.org/works/gregory-nazianzus-poems-sne-bt"
+lang: grc
 period: Late Antique
 domain: Theology
 format: Verse

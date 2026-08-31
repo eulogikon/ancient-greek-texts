@@ -5,6 +5,7 @@ author: Aristides the Orator
 eul_wid: qwm-ap
 eul_aid: qwm
 canonical: "https://eulogikon.org/works/aristides-orator-four-qwm-ap"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristides the Orator
 
 **eul_wid:** `qwm-ap` · [HTML page](https://eulogikon.org/works/aristides-orator-four-qwm-ap)
-
-To Plato in Favor of the Four is a declamatory oration composed in Attic Greek by the orator Aelius Aristides in the mid-2nd century CE. A prominent work of the Second Sophistic, a period marked by a revival of elaborate Greek rhetoric, it takes the form of a direct rebuttal to Plato. Specifically, it counters the critique presented in Plato’s dialogue Gorgias, wherein Socrates condemns four celebrated Athenian statesmen—Miltiades, Themistocles, Cimon, and Pericles—as failures for not having improved the virtue of the citizenry. Aristides’ speech mounts a systematic defense of each man, extolling their honor, political acumen, and concrete achievements. The complete text survives through the medieval manuscript tradition of Aristides’ collected works. Modern scholarship views the oration primarily as a sophisticated display piece of elite rhetorical education, intended for an audience that would value a complex apology for classical Athenian democracy and its heroes. Its central theme engages the enduring tension between rhetoric and philosophy, with Aristides advocating for the worth of practical political leadership and public persuasion against Plato’s philosophical idealism. The work stands as a vivid artifact of the competitive intellectual culture within the Roman Empire, where orators demonstrated their prowess by re-litigating famous historical and philosophical cases from the Greek past.
 
 ## Text
 

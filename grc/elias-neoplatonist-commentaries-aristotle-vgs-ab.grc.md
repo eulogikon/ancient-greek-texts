@@ -5,6 +5,7 @@ author: Elias the Neoplatonist
 eul_wid: vgs-ab
 eul_aid: vgs
 canonical: "https://eulogikon.org/works/elias-neoplatonist-commentaries-aristotle-vgs-ab"
+lang: grc
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Elias the Neoplatonist
 
 **eul_wid:** `vgs-ab` · [HTML page](https://eulogikon.org/works/elias-neoplatonist-commentaries-aristotle-vgs-ab)
-
-Elias's Commentaries on Aristotle's Categories is a sixth-century philosophical treatise by the Neoplatonist philosopher Elias. Written in Greek as a series of 149 lectures, it provides a detailed analysis of Aristotle's foundational logical work, the Categories. The commentary opens with a substantial prolegomena addressing six standard questions concerning the study of philosophy, including its purpose and the rationale for beginning the philosophical curriculum with Aristotle's logic. It then proceeds with a meticulous line-by-line exegesis of Aristotle's text, elucidating core concepts such as substance, quality, and relation. The complete work survives in medieval manuscripts and was composed as a textbook for advanced students within the Alexandrian Neoplatonic school, where Elias was a pupil of Ammonius Hermiae. Modern scholarship regards it as a prime example of late-antique pedagogy, designed to systematically guide students through Aristotle's thought as a preparatory stage for the higher philosophy of Plato. The commentary exemplifies the school's program of harmonizing Aristotelian and Platonist doctrines and was instrumental in transmitting both Aristotelian logic and Neoplatonic interpretive methods to subsequent Byzantine and Islamic philosophical traditions.
 
 ## Text
 

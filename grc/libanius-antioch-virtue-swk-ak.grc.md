@@ -5,6 +5,7 @@ author: Libanius of Antioch
 eul_wid: swk-ak
 eul_aid: swk
 canonical: "https://eulogikon.org/works/libanius-antioch-virtue-swk-ak"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Libanius of Antioch
 
 **eul_wid:** `swk-ak` · [HTML page](https://eulogikon.org/works/libanius-antioch-virtue-swk-ak)
-
-The Fragments on Virtue is a collection of thirteen rhetorical passages by the fourth-century sophist Libanius of Antioch. These fragments are examples of progymnasmata, the preliminary exercises used to train students in oratory, and they focus on the theme of virtue. They served as pedagogical models, demonstrating methods of argumentation and elaboration upon a central moral concept. The collection explores virtue through rhetorical amplification, functioning as a tool for moral education that embodies the traditional Hellenic paideia and its cultural values. The text survives as part of the broader corpus of Libanius’s works, transmitted through medieval manuscripts; his enduring reputation as a master of Attic style ensured the preservation of these rhetorical exercises. As representative progymnasmata, the fragments illustrate Libanius’s pedagogical method for instilling classical ethical ideals during a period of Christian ascendancy. His model exercises, used as textbooks for centuries, were instrumental in transmitting the forms and values of classical rhetoric into the Byzantine era.
 
 ## Text
 

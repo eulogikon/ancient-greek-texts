@@ -1,10 +1,11 @@
 ---
 title: Thebaid Fragments
 title_greek: Θηβαΐδος Ἀποσπάσματα
-author: "Thebaïs "
+author: Thebaïs
 eul_wid: lko-aa
 eul_aid: lko
 canonical: "https://eulogikon.org/works/thebais-fragments-lko-aa"
+lang: grc
 period: Hellenistic
 dialect: Epic (Homeric)
 domain: Epic
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Θηβαΐδος Ἀποσπάσματα*
 
-**Author:** Thebaïs 
+**Author:** Thebaïs
 
 **eul_wid:** `lko-aa` · [HTML page](https://eulogikon.org/works/thebais-fragments-lko-aa)
-
-The Thebaid was a lost archaic Greek epic poem belonging to the Epic Cycle, which narrated myths surrounding the Trojan War and related heroic traditions. It focused on the story of the Seven against Thebes, detailing the conflict between Oedipus's sons, Polynices and Eteocles, and the subsequent attack on Thebes by Polynices and his six allied champions. The poem's themes encompassed fraternal strife, heroic prowess, divine intervention, and the tragic nature of Thebes as a mythic locale. The complete text has not survived; knowledge of the work derives primarily from a plot summary in Proclus's Chrestomathy and from fragmentary lines preserved by later authors such as Pausanias and Athenaeus. Modern scholarly editions compile these scattered references into numbered collections known as the Thebaid Fragments. As a foundational text for the Theban mythological cycle, the epic profoundly influenced later Greek literature, most directly providing the source material for Aeschylus's tragedy Seven Against Thebes. It played a crucial role in establishing Thebes as a canonical site of tragic conflict within the Greek literary imagination.
 
 ## Text
 

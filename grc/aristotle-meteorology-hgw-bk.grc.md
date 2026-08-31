@@ -5,6 +5,7 @@ author: Aristotle
 eul_wid: hgw-bk
 eul_aid: hgw
 canonical: "https://eulogikon.org/works/aristotle-meteorology-hgw-bk"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristotle
 
 **eul_wid:** `hgw-bk` · [HTML page](https://eulogikon.org/works/aristotle-meteorology-hgw-bk)
-
-Aristotle's Meteorology is a four-book scientific treatise composed around 340 BCE. It forms a systematic inquiry into the causes of various natural phenomena occurring in what Aristotle considered the sublunary region—the realm between the Earth and the moon. The work investigates a comprehensive range of subjects including weather patterns, the nature and behavior of the oceans, geological events like earthquakes, and atmospheric and celestial appearances such as comets, rainbows, and the Milky Way. Aristotle applies his overarching philosophical and physical principles to these topics, particularly his theory of the four elements—earth, water, air, and fire—and their inherent qualities of hot, cold, wet, and dry. His aim is to provide a unified, causal explanation for these complex and often irregular events, distinguishing them from the more orderly motions of the celestial bodies discussed in his other works.
-
-The treatise is structured as a series of connected investigations, progressing from general principles to specific phenomena. While the first three books deal with meteorological and geological topics in a manner consistent with Aristotle's other physical writings, the content of the fourth book, which focuses on the material transformations and passive qualities of substances, has led some scholars in antiquity and modernity to question its authenticity. Nonetheless, it has been traditionally included within the corpus. The work was composed as part of Aristotle's larger project to systematize knowledge for his school, the Lyceum, and it critically engages with the theories of earlier pre-Socratic philosophers.
-
-Transmitted through a rich manuscript tradition in Greek, and later via Arabic translations and Latin versions, the Meteorology served as the foundational textbook for the study of atmospheric and terrestrial phenomena for nearly two millennia. Its explanations and methods profoundly shaped medieval Islamic and European natural philosophy and remained authoritative until the fundamental revisions of the Scientific Revolution.
 
 ## Text
 

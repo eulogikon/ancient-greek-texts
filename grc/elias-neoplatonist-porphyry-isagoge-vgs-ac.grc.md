@@ -5,6 +5,7 @@ author: Elias the Neoplatonist
 eul_wid: vgs-ac
 eul_aid: vgs
 canonical: "https://eulogikon.org/works/elias-neoplatonist-porphyry-isagoge-vgs-ac"
+lang: grc
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Elias the Neoplatonist
 
 **eul_wid:** `vgs-ac` · [HTML page](https://eulogikon.org/works/elias-neoplatonist-porphyry-isagoge-vgs-ac)
-
-On Porphyry's Isagoge is a philosophical commentary by the 6th-century Neoplatonist scholar Elias. Written in Attic Greek, the work is structured as a series of 103 lectures providing a detailed exposition of Porphyry’s Isagoge, a standard introduction to Aristotle's logic in late antique education. The commentary systematically addresses the core logical concepts known as the five predicables—genus, species, difference, property, and accident—and explores the nature of universals, a topic of enduring significance for later medieval philosophy. The work survives in full through Greek manuscripts, the oldest of which date from the 9th or 10th century, and was also translated into Armenian and Syriac, attesting to its influence beyond the Greek-speaking world. Modern scholarship interprets the commentary as a classroom textbook, reflecting the structured pedagogical methods of the Alexandrian Neoplatonic school where Elias taught. It was likely composed for students beginning the formal study of philosophy, following a standard curriculum that commenced with Porphyry's primer. The treatise's clear, didactic style and its emphasis on logic as an instrumental discipline for philosophy are characteristic of the final phase of ancient Neoplatonism.
 
 ## Text
 

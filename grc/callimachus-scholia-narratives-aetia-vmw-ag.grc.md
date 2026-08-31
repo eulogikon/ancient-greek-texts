@@ -5,6 +5,7 @@ author: Callimachus Scholia
 eul_wid: vmw-ag
 eul_aid: vmw
 canonical: "https://eulogikon.org/works/callimachus-scholia-narratives-aetia-vmw-ag"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: Grammar
@@ -19,24 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Callimachus Scholia
 
 **eul_wid:** `vmw-ag` · [HTML page](https://eulogikon.org/works/callimachus-scholia-narratives-aetia-vmw-ag)
-
-Overview The Narratives on the Ancient Aetia (Διηγήσεις εἰς Αἴτια Ἀρχαῖα Σχόλια) is a collection of twenty passages of ancient scholia, or explanatory commentaries, on Callimachus’s elegiac poem the Aetia. These scholia provide textual criticism, gloss difficult words, and elucidate the mythological and historical references within Callimachus’s learned text. As a compilation of notes by anonymous scholars, this collection is a vital source for understanding the reception and interpretation of Callimachus’s work from the Hellenistic period through late antiquity.
-
-Content The scholia address several key areas:
-
-Textual Criticism: Notes on variant readings and manuscript issues.
-
-Lexicography: Explanations of rare or archaic vocabulary.
-
-Mythography: Narratives and details of referenced myths.
-
-Historical Explanation: Clarification of customs, rituals, and figures.
-
-Literary Interpretation: Comments on poetic technique and allusions.
-
-Transmission These scholia are preserved within the margins and interlinear spaces of medieval manuscripts containing Callimachus’s works, primarily the 11th-century Laurentianus Conventi soppressi 627. The collection represents a specific subset of the larger, multi-layered corpus of commentary transmitted alongside the poet’s fragments.
-
-Significance The scholia are indispensable for the modern philological reconstruction of Callimachus’s fragmentary Aetia. They offer unique insights into the poem’s content and serve as a primary witness to the methods and concerns of ancient scholarly commentary, directly influencing contemporary critical editions.
 
 ## Text
 

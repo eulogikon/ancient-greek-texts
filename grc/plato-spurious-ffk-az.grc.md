@@ -5,6 +5,7 @@ author: Plato of Athens
 eul_wid: ffk-az
 eul_aid: ffk
 canonical: "https://eulogikon.org/works/plato-spurious-ffk-az"
+lang: grc
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plato of Athens
 
 **eul_wid:** `ffk-az` · [HTML page](https://eulogikon.org/works/plato-spurious-ffk-az)
-
-The Nothoi, also known as "The Bastards" or "The Spurious Ones," is a lost dialogue spuriously attributed to Plato of Athens. It is classified among the Dubia or Spuria of the Platonic corpus, works considered of questionable authenticity. The dialogue is known only from ancient catalog listings and testimonia, with no substantive fragments of its text surviving. The first-century scholar Thrasyllus included it in the eighth tetralogy of his arrangement of Plato's works, grouping it alongside other questionable dialogues. Its title suggests it may have explored themes of legitimacy versus illegitimacy, the distinction between the genuine and the spurious in philosophical or social contexts, or issues of citizenship and lineage, reflecting the common Greek meaning of the word nothos. The work's sole transmission comes from its listing in the tetralogical arrangement recorded by Diogenes Laertius. While the Nothoi possesses no independent philosophical influence, it holds historical significance as an example of the pseudepigrapha that became attached to Plato's name. Its presence in ancient catalogs aids scholars in tracing the formation and perceived boundaries of the Platonic corpus in antiquity.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Xenophon of Athens
 eul_wid: ezq-ak
 eul_aid: ezq
 canonical: "https://eulogikon.org/works/xenophon-athens-hellenica-ezq-ak"
+lang: grc
 period: Classical
 dialect: Attic
 domain: History
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Xenophon of Athens
 
 **eul_wid:** `ezq-ak` · [HTML page](https://eulogikon.org/works/xenophon-athens-hellenica-ezq-ak)
-
-Xenophon’s Hellenica is a historical narrative composed in Attic Greek prose during the mid-fourth century BCE. It begins precisely at the point where Thucydides’ history breaks off in 411 BCE, continuing the account of the Peloponnesian War to its conclusion with the surrender of Athens in 404 BCE. The work then chronicles the subsequent four decades of Greek history, concluding with the Battle of Mantinea in 362 BCE. Organized into seven books, its scope encompasses the final phase of the Peloponnesian War, the brief period of Spartan hegemony, the Corinthian War, the establishment of the King’s Peace, and the eventual rise of Theban power under the leadership of Epaminondas.
-
-Written during the author’s exile, the Hellenica reflects a distinct political perspective, often revealing Xenophon’s sympathies for Sparta and its institutions while offering criticism of democratic Athens and Thebes. His narrative concentrates primarily on military and political events, emphasizing the role of individual leadership and the moral dimensions of historical action, in contrast to the rigorous analytical approach of Thucydides. Preserved in its entirety through medieval manuscripts, the Hellenica stands as an indispensable, though partial, primary source for the study of fourth-century Greek history.
 
 ## Text
 

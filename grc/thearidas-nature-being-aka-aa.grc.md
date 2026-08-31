@@ -5,6 +5,7 @@ author: Thearidas the Early Greek Philosopher
 eul_wid: aka-aa
 eul_aid: aka
 canonical: "https://eulogikon.org/works/thearidas-nature-being-aka-aa"
+lang: grc
 period: Archaic
 dialect: Ionic
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Thearidas the Early Greek Philosopher
 
 **eul_wid:** `aka-aa` · [HTML page](https://eulogikon.org/works/thearidas-nature-being-aka-aa)
-
-No substantive information exists for a philosophical treatise titled On the Nature of Being attributed to an Early Greek philosopher named Thearidas. The name Thearidas does not appear in canonical Presocratic sources, and the term used to describe the work indicates a fragment or excerpt, not a formal title. The attribution is therefore unverified. The content and themes of this purported work are unknown, and there is no known manuscript tradition. The description of the work as a single passage aligns with the title's meaning of "fragment," suggesting a completely lost or spurious reference. Without corroborating evidence, the work's historical or philosophical influence cannot be established.
 
 ## Text
 

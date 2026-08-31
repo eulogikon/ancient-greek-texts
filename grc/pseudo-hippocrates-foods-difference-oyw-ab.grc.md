@@ -5,6 +5,7 @@ author: Pseudo-Hippocrates
 eul_wid: oyw-ab
 eul_aid: oyw
 canonical: "https://eulogikon.org/works/pseudo-hippocrates-foods-difference-oyw-ab"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Pseudo-Hippocrates
 
 **eul_wid:** `oyw-ab` · [HTML page](https://eulogikon.org/works/pseudo-hippocrates-foods-difference-oyw-ab)
-
-On the Difference of Foods to Ptolemy is a brief, pseudonymous medical treatise from the Hippocratic Corpus, addressed to a King Ptolemy, most likely Ptolemy I Soter. The text systematically categorizes a wide range of foodstuffs according to the principles of classical Greek dietetics, evaluating each for its humoral qualities and its effects on digestion. Its seventeen passages methodically list and describe grains, legumes, meats, fish, vegetables, fruits, dairy products, and drinks. For every item, the author notes its essential properties, such as whether it is heating, cooling, drying, or moistening, and provides a clear assessment of its digestibility, classifying it as either easy or difficult to digest and commenting on its impact on bodily excretions. The treatise survives complete within the manuscript tradition of the Hippocratic Corpus and is included in modern critical editions. As a concise example of the practical application of humoral theory to preventative medicine, the work reflects the systematization of knowledge under Hellenistic royal patronage. Its dietary principles, transmitted as part of the Hippocratic legacy, exerted a lasting influence on later medical writers, including Galen, and remained central to Western medical practice for centuries.
 
 ## Text
 

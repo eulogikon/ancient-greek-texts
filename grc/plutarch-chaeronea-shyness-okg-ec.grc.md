@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-ec
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-shyness-okg-ec"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-ec` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-shyness-okg-ec)
-
-On Shyness is an ethical essay by the Greek philosopher Plutarch, composed in the late 1st or early 2nd century CE. It belongs to his corpus of practical philosophy, the Moralia, and offers a systematic examination of a specific character flaw. Plutarch distinguishes the condition he terms dysōpia—translated as shyness or excessive bashfulness—from virtuous modesty, framing it instead as a pathological fear of disrepute. He likens this vice to a wild, harmful plant that nevertheless indicates fertile soil, suggesting that such a troublesome passion can spring from a fundamentally good nature capable of rational cultivation. The work defines this shyness as an irrational and paralyzing sensitivity to perceived shame, which causes individuals to fail in their social, familial, and civic duties because they are incapacitated by the dread of blame or awkwardness.
-
-The essay proceeds as a form of philosophical therapy, spanning 46 chapters. It begins by diagnosing the nature and symptoms of the condition, noting that while shameless and shy people often commit the same errors, the shy person is distinguished by the pain and distress they feel afterward, unlike the shameless person who feels pleasure. Plutarch characterizes excessive shyness as an extreme form of the capacity for shame, one that distorts the soul and even alters physical countenance. The bulk of the treatise is devoted to practical strategies for overcoming this weakness through cognitive discipline and habituation, advising on methods to strengthen resolve and perform necessary actions despite inner discomfort. Preserved completely within the medieval manuscript tradition of Plutarch's works, On Shyness is considered a prime example of his Middle Platonic approach to ethics, aimed at the psychological refinement and social effectiveness of the educated Greco-Roman elite.
 
 ## Text
 

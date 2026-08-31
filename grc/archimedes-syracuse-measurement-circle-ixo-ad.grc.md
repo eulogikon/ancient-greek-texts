@@ -5,6 +5,7 @@ author: Archimedes of Syracuse
 eul_wid: ixo-ad
 eul_aid: ixo
 canonical: "https://eulogikon.org/works/archimedes-syracuse-measurement-circle-ixo-ad"
+lang: grc
 period: Hellenistic
 dialect: Doric
 domain: Mathematics
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Archimedes of Syracuse
 
 **eul_wid:** `ixo-ad` · [HTML page](https://eulogikon.org/works/archimedes-syracuse-measurement-circle-ixo-ad)
-
-Measurement of the Circle is a concise mathematical treatise by Archimedes of Syracuse, composed around 250 BCE. The work establishes three fundamental geometric propositions concerning the circle. The first demonstrates that the area of a circle is equal to that of a right-angled triangle whose legs are the circle's radius and circumference. The second proves that the ratio of a circle's area to the square of its diameter is constant. The third and most celebrated proposition approximates the value of the constant now known as pi (π), showing it to be greater than 3 10/71 and less than 3 1/7. Archimedes derived this remarkably precise estimate using the method of exhaustion, a rigorous geometric technique involving inscribed and circumscribed polygons.
-
-The treatise as it survives is likely a later summary or compilation rather than Archimedes's original text, but the core mathematical achievements are authentically his. Written for a specialist audience, it exemplifies the Greek tradition of geometric proof and addresses the classical problem of squaring the circle through ratio and approximation rather than exact construction. Though the original Greek is lost, the work was preserved and transmitted through later copies and translations into Arabic and Latin. Archimedes's approximation for π remained the most accurate known value for over a millennium, securing the treatise's profound influence on medieval Islamic scholars and the subsequent development of European mathematics.
 
 ## Text
 

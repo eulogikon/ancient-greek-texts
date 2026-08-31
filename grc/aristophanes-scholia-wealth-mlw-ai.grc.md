@@ -5,6 +5,7 @@ author: Aristophanes Scholia
 eul_wid: mlw-ai
 eul_aid: mlw
 canonical: "https://eulogikon.org/works/aristophanes-scholia-wealth-mlw-ai"
+lang: grc
 period: Hellenistic
 dialect: Technical Koine
 domain: Grammar
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristophanes Scholia
 
 **eul_wid:** `mlw-ai` · [HTML page](https://eulogikon.org/works/aristophanes-scholia-wealth-mlw-ai)
-
-The Commentary on Wealth is an ancient collection of scholarly notes, or scholia, composed to elucidate Aristophanes' comedy Plutus (Wealth). Although traditionally ascribed to the Alexandrian scholar Aristophanes of Byzantium, its authorship is anonymous and the attribution is considered uncertain by modern scholarship. Likely compiled over a long period from the Hellenistic era onward, beginning perhaps in the 3rd century BCE, the commentary comprises 611 individual prose notes keyed to the verse play. These notes function as a philological guide, clarifying obscure vocabulary, historical and mythological allusions, Athenian social customs, and variant textual readings for later students of the classical text.
-
-The work survives not as an independent volume but as marginal annotations transmitted within the medieval manuscript tradition of Aristophanes' comedies. The oldest extant copies are Byzantine, dating from approximately the 10th century CE or later. The scholia themselves are a composite, layered compilation that incorporates and condenses excerpts from numerous earlier grammarians and commentators across centuries. Consequently, they represent a selective digest of ancient scholarship rather than a complete or systematically unified treatise. For contemporary scholars, this commentary remains an indispensable resource, fundamental both for establishing a critical text of Aristophanes and for reconstructing the history of how his work was studied and interpreted in antiquity.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: The Alcmaeonis
 eul_wid: bsq-aa
 eul_aid: bsq
 canonical: "https://eulogikon.org/works/the-alcmaeonis-fragments-bsq-aa"
+lang: grc
 period: Classical
 dialect: Mixed Dialects
 domain: Epic
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** The Alcmaeonis
 
 **eul_wid:** `bsq-aa` · [HTML page](https://eulogikon.org/works/the-alcmaeonis-fragments-bsq-aa)
-
-The Alcmaeonis is a lost archaic Greek epic poem, known only through approximately ten fragments and later testimonia. It belonged to the Epic Cycle, narrating mythological events surrounding the Theban wars not covered in the Homeric poems. The work dealt with the expedition of the Seven against Thebes and the subsequent war of their sons, the Epigoni. Its narrative included the myth of the Seven, notably the seer Amphiaraus being swallowed by the earth, and the story of the Epigoni, led by Alcmaeon, son of Amphiaraus, who avenged their fathers. The work survives only in fragments quoted by later authors such as Athenaeus and Porphyry, which were collected by modern scholars; the poem’s full text did not survive the medieval manuscript tradition. As part of the Epic Cycle, the Alcmaeonis played a key role in standardizing the Theban myths, providing crucial source material for later tragic poets including Aeschylus, Sophocles, and Euripides. Its narratives became a persistent and influential element of the Greek mythological canon.
 
 ## Text
 

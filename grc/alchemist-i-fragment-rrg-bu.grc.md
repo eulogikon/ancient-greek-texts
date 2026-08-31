@@ -5,6 +5,7 @@ author: Alchemist I
 eul_wid: rrg-bu
 eul_aid: rrg
 canonical: "https://eulogikon.org/works/alchemist-i-fragment-rrg-bu"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alchemist I
 
 **eul_wid:** `rrg-bu` · [HTML page](https://eulogikon.org/works/alchemist-i-fragment-rrg-bu)
-
-The Alchemical Fragment is a brief treatise attributed to the anonymized author designated by modern scholars as Alchemist I. Its title suggests it is an excerpt from a larger, now lost, alchemical work. The text survives within the corpus of Greek alchemical writings, a tradition that blended practical laboratory techniques with philosophical and mystical theories of matter. Such texts are typically preserved in medieval Byzantine manuscript compilations, and the designation Alchemist I is a modern editorial convention used for anonymous or pseudepigraphical authors within these collections.
-
-While the fragment's specific theoretical framework is not detailed in surviving records, its genre indicates it likely addresses characteristic subjects of Hellenistic and Byzantine alchemy. These typically include the transmutation of base metals into noble metals like gold and silver, the preparation of various substances and the use of specialized apparatus, and philosophical speculations on the nature of matter and transformation. The processes described were often conveyed through both straightforward technical instruction and symbolic or allegorical language.
-
-The significance of this particular fragment is untraceable due to its fragmentary nature and anonymous authorship. However, the broader Greek alchemical tradition in which it was produced was fundamentally important. These works served as a crucial conduit, transmitting both practical chemical knowledge and allegorical models of transformation into the Arabic alchemical tradition and, later, into the Latin West. This transmission directly influenced the development of Western alchemy and contributed to the early foundations of chemistry as a scientific discipline.
 
 ## Text
 

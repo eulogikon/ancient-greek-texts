@@ -5,6 +5,7 @@ author: Socratics Letters
 eul_wid: ciu-aa
 eul_aid: ciu
 canonical: "https://eulogikon.org/works/socratics-letters-philosophy-ciu-aa"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Socratics Letters
 
 **eul_wid:** `ciu-aa` · [HTML page](https://eulogikon.org/works/socratics-letters-philosophy-ciu-aa)
-
-The Socratic Letters on Philosophy is a pseudepigraphical collection of 59 short Greek epistles attributed to various followers of Socrates, including Plato, Xenophon, Antisthenes, and Aristippus. Modern scholarship dates the compilation to the Hellenistic or early Roman Imperial period, likely between the 1st century BCE and the 2nd century CE, a time when the composition of philosophical letters in the names of revered thinkers was a common pedagogical and literary practice. The letters are written in an Attic Greek style and employ the epistolary form to present philosophical dialogues, moral exhortations, and illustrative anecdotes centered on core Socratic themes such as virtue, self-sufficiency, self-knowledge, and the critique of conventional societal values.
-
-The content typically features exchanges of advice and rebuke between the purported authors, dramatizing philosophical conflicts within the Socratic circle. For instance, one letter presents Antisthenes criticizing Aristippus for living at the court of the tyrant Dionysius of Syracuse, arguing that true philosophy consists in the pursuit of self-sufficiency rather than wealth and powerful friendships. The reply from Aristippus defends his choices, initiating a dialectical exploration of the philosophical life. The collection as it survives in medieval manuscripts is believed to consist of excerpts from a larger, now-lost corpus. Its primary intent is considered protreptic, aiming to provide accessible moral instruction and to promote Socratic ethics to a broad literate audience. While of limited value for understanding the historical Socrates or his immediate disciples, the work is significant as a testament to the later reception and instrumentalization of the Socratic figure for pedagogical purposes, illustrating the enduring appeal of his persona as a vehicle for ethical teaching centuries after his death.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Athenaeus of Naucratis
 eul_wid: rda-aa
 eul_aid: rda
 canonical: "https://eulogikon.org/works/athenaeus-naucratis-deipnosophists-epitome-rda-aa"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Athenaeus of Naucratis
 
 **eul_wid:** `rda-aa` · [HTML page](https://eulogikon.org/works/athenaeus-naucratis-deipnosophists-epitome-rda-aa)
-
-The Deipnosophists Epitome is an abridged version of the Deipnosophistae, or The Learned Banqueters, a lengthy sympotic encyclopedia composed in Greek around 200 CE by Athenaeus of Naucratis. The original fifteen-book work is structured as a dialogue among erudite guests at a banquet in Rome, preserving a vast array of quotations from more than twelve hundred earlier Greek authors on subjects ranging from cuisine and dining customs to philosophy, law, and literature. The Epitome condenses this immense material into 332 passages, offering a more accessible digest of its contents.
-
-The transmission of the text is complex. The complete fifteen-book version survives only partially within a single tenth-century manuscript. The Epitome, preserved in two principal Byzantine manuscripts, has been essential for the work's survival. For the entirety of the first two books and a portion of the third, the Epitome serves as the sole surviving witness, as the corresponding sections of the complete manuscript are lost. Consequently, modern scholarship depends on both the full manuscript and the abridgment to reconstruct Athenaeus's original compilation. Historically, the Epitome itself was the primary vehicle through which the work was known for centuries following its first printed edition in 1514.
-
-Athenaeus's work is a product of the Second Sophistic, a period during which Greek intellectuals under Roman rule actively curated and displayed their literary heritage as a form of cultural identity. The fictional banquet setting showcases encyclopedic knowledge of classical texts as a performance of learnedness and pride. Scholars regard the Deipnosophistae, accessed largely through the Epitome, as an invaluable repository for fragments of otherwise lost Greek poetry, comedy, and historical writings. It thus stands as a fundamental source for understanding ancient Greek social customs, daily life, and literary history.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Historical Fragments  Anonymous
 eul_wid: mmg-ao
 eul_aid: mmg
 canonical: "https://eulogikon.org/works/anon-hist-frag-corinthian-mmg-ao"
+lang: grc
 period: Hellenistic
 dialect: Mixed Dialects (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Historical Fragments  Anonymous
 
 **eul_wid:** `mmg-ao` · [HTML page](https://eulogikon.org/works/anon-hist-frag-corinthian-mmg-ao)
-
-The Anonymous Corinthian is a lost historical work known only through a critical reference in Lucian's essay How to Write History. Lucian cites the author, whom he mockingly calls "the Corinthian," as a prime example of a historian who fabricates eyewitness accounts of events he never saw. According to Lucian, this writer boldly claimed to record only what he had seen, not what he had heard, despite having never traveled beyond the vicinity of Corinth. The specific passage Lucian parodies describes the writer's fantastical account of a battle against the Parthians, in which enormous, living serpents were allegedly used as weapons, a spectacle the historian claimed to have witnessed safely from a high tree. This satirical excerpt constitutes the sole surviving evidence for the work. Its traditional classification as a collection of historical fragments stems from this single, derisive preservation. The work's significance lies almost entirely in its role as Lucian's chosen exemplar of irresponsible and credulous historiography, illustrating the rhetorical pitfalls and ethical breaches condemned by ancient critics of the genre. Any original historical content or connection to Corinthian local tradition is irrecoverable, subsumed by its function in Lucian's polemic.
 
 ## Text
 

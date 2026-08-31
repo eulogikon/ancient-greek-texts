@@ -5,6 +5,7 @@ author: Epicharmus of Syracuse
 eul_wid: bhm-ad
 eul_aid: bhm
 canonical: "https://eulogikon.org/works/epicharmus-syracuse-fragments-bhm-ad"
+lang: grc
 period: Archaic
 dialect: Doric
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Epicharmus of Syracuse
 
 **eul_wid:** `bhm-ad` · [HTML page](https://eulogikon.org/works/epicharmus-syracuse-fragments-bhm-ad)
-
-The Fragments of Epicharmus constitute the surviving textual evidence for the comedies of Epicharmus of Syracuse, a playwright active in the early fifth century BCE. Written in Doric Greek, these works represent the first major tradition of comic drama in the Greek West. No complete play has survived; the corpus is known exclusively through several hundred individual lines and short passages preserved as quotations by later Greek authors, grammarians, and in papyrus discoveries. Modern scholarly collections organize these fragments, which collectively attest to the titles of approximately thirty-five to forty plays. The extant pieces reveal a comedy that blended mythological parody, scenes from everyday life, and philosophical discourse, often featuring moralizing maxims, debates on nature and knowledge, and humorous treatments of gods and heroes. A well-known fragment encapsulates this intellectual character with the statement that the mind alone sees and hears, while all else is deaf and blind. Epicharmus flourished during the cultural ascendancy of Syracuse under the tyrants Gelon and Hieron I, and the sophisticated court environment is thought to have influenced the philosophical tenor of his work. His reputation in antiquity was considerable; both Plato and Aristotle acknowledged his significance in the development of comic drama. The preservation of many fragments was aided by a historical misattribution, whereby some of his sententious lines were erroneously credited to a Pythagorean philosopher also named Epicharmus, ensuring their inclusion in later philosophical and ethical texts.
 
 ## Text
 
@@ -70,7 +69,7 @@ The Fragments of Epicharmus constitute the surviving textual evidence for the co
 
 ### 85
 
-[[—]] ἁλίκα χ’ ὕμ’ ἐγχά[δηι κ]αὶ μηνιῆιον ἐφό[διον ] . [ . ] .. ε λάρναχ’ οὕτω ποικίλ[αν ] Β ]ε ποικίλας ἀπόχρη κἀφελ[ ]ενακρι β ἀπ]οχρησεῖ· στεγάζειν δεῖ μόνο[ν — — — — λά]ρναξ κἠν στέγαι κήτ . [ ‵ — ′ ]ἐστ[ ὑ]ποπτεύω γα καὶ δέδοικ’ ἐγὼν μὴ δ[ τ]ὰ σκευάρια πάντα βᾶι φέρω[ν ὁ Προμα[θεὺς ]ήσθαι προμαθεούμενος κάρτα τ[ ]κόν τε χἀμαρτωλικόν αἰ γένοιθ’ ὃ . ις[ ] Προμαθέος μηδαμῶς του[ ]ν, ὦ Πύρρα, κακ[ ‵ — ′καίταρ’ οὐκατ[ ]οικειν[ . [ .. ]γυναικὸς κ[ — — — ]ιτᾶς λα[ ʽ . ]ευσυ[ — — — — — — — — — [ ‵ — ′ἀλλα[ ‵ — ′ἀλλ’ ἀλ . [ . ] . [ ‵ — ′ἀλλ’ ἀλ[ε]κτορὶ[ ‵ — ′ἢ ψέγοιτέ κ’ . [ ‵ — ′ποτὶ πανω[ ‵ — ′θάcc . [ κη . [ . ] . [ — — — — — — ]εμιν . [ ]ποίητον[ ]υ στέγα ]εσονδ . [ ἐπ]είγομαι ]λε ] ] Πύρρα[ — — — — — — — — — ]νε· ]αγα α[ ] . ετε α[ ] ] . α ιμα υ ἦν .. ενακρι β ]και ⸒ νᾶν· ] ] και[ .... ] . υσαυγ ⸒ — — — — — — — — — ‵ — ′ λ[ ‵ — ′αλ[ ‵ — ′φ . [ ν[ νυ . [ παν[ ‵ — ′ῆρα[ — — — — — — — ] . [ πὸ]τ τὸ κερδ[ ]ναιτοσωφ[ ]νε πλέκειν· α[ ]ζούα· τὺ δ’ ἐϋη[ ]ους· απανταν[ ]ντι κερδανε[ ]θ’ ἁμὲς [ὀ]λίγο[ ]αδικων απ[ ]τε κα[ — — — — — — — ] .. [ . ] . [ ]γὼν π[ ]ηαποπα[ ]α . πωλᾶς φερ[ ]ασσον ἵκειν.
+[[—]] ἁλίκα χ’ ὕμ’ ἐγχά[δηι κ]αὶ μηνιῆιον ἐφό[διον ] . [ . ] .. ε λάρναχ’ οὕτω ποικίλ[αν ] Β ]ε ποικίλας ἀπόχρη κἀφελ[ ]ενακρι β ἀπ]οχρησεῖ· στεγάζειν δεῖ μόνο[ν — — — — λά]ρναξ κἠν στέγαι κήτ . [ ‵ — ′ ]ἐστ[ ὑ]ποπτεύω γα καὶ δέδοικ’ ἐγὼν μὴ δ[ τ]ὰ σκευάρια πάντα βᾶι φέρω[ν ὁ Προμα[θεὺς ]ήσθαι προμαθεούμενος κάρτα τ[ ]κόν τε χἀμαρτωλικόν αἰ γένοιθ’ ὃ . ις[ ] Προμαθέος μηδαμῶς του[ ]ν, ὦ Πύρρα, κακ[ ‵ — ′καίταρ’ οὐκατ[ ]οικειν[ . [ .. ]γυναικὸς κ[ — — — ]ιτᾶς λα[ ʽ . ]ευσυ[ — — — — — — — — — [ ‵ — ′ἀλλα[ ‵ — ′ἀλλ’ ἀλ . [ . ] . [ ‵ — ′ἀλλ’ ἀλ[ε]κτορὶ[ ‵ — ′ἢ ψέγοιτέ κ’ . [ ‵ — ′ποτὶ πανω[ ‵ — ′θάσσ . [ κη . [ . ] . [ — — — — — — ]εμιν . [ ]ποίητον[ ]υ στέγα ]εσονδ . [ ἐπ]είγομαι ]λε ] ] Πύρρα[ — — — — — — — — — ]νε· ]αγα α[ ] . ετε α[ ] ] . α ιμα υ ἦν .. ενακρι β ]και ⸒ νᾶν· ] ] και[ .... ] . υσαυγ ⸒ — — — — — — — — — ‵ — ′ λ[ ‵ — ′αλ[ ‵ — ′φ . [ ν[ νυ . [ παν[ ‵ — ′ῆρα[ — — — — — — — ] . [ πὸ]τ τὸ κερδ[ ]ναιτοσωφ[ ]νε πλέκειν· α[ ]ζούα· τὺ δ’ ἐϋη[ ]ους· απανταν[ ]ντι κερδανε[ ]θ’ ἁμὲς [ὀ]λίγο[ ]αδικων απ[ ]τε κα[ — — — — — — — ] .. [ . ] . [ ]γὼν π[ ]ηαποπα[ ]α . πωλᾶς φερ[ ]ασσον ἵκειν.
 
 ### 85 (50)
 

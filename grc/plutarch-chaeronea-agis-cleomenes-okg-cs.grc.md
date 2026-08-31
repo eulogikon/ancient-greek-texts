@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-cs
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-agis-cleomenes-okg-cs"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-cs` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-agis-cleomenes-okg-cs)
-
-Plutarch’s Agis and Cleomenes is a paired biography from his Parallel Lives, composed in Greek during the early second century CE. It presents the lives of two third-century BCE Spartan kings, Agis IV and Cleomenes III, whom Plutarch explicitly compares with the Roman reformers Tiberius and Gaius Gracchus. The narrative details the ambitious and ultimately tragic attempts by both Spartan rulers to arrest their city’s decline through radical social and economic reforms. Their programs centered on the cancellation of debts and the redistribution of land, aims intended to restore the austere military discipline and equality traditionally associated with Lycurgus’s constitution. Agis, whose more idealistic and less forceful approach ended in his judicial murder, is followed by the more pragmatic and militarily decisive Cleomenes, who used violence to enact similar changes before his final defeat by the Achaean League and Macedon.
-
-The biography is a vital historical source for this period of Spartan history, preserved complete through medieval manuscript traditions. Plutarch structures his account not merely as a chronicle of events but as a moral study, interweaving political narrative with character analysis. He pays particular attention to the influence of key women, such as Agis’s mother Agesistrata and Cleomenes’s mother Cratesiclea, in shaping the kings’ destinies. Writing under the stable rule of the Roman Empire, Plutarch uses the parallel with the Gracchi to offer a cautionary exploration of political extremism, the fragility of civic harmony, and the perils inherent in revolutionary change. The work thus provides modern readers with significant insight into the internal crises of late classical Sparta, the enduring challenges of political reform, and the art of Plutarchan biography, which seeks to reveal ethical truths through the comparative study of great lives.
 
 ## Text
 

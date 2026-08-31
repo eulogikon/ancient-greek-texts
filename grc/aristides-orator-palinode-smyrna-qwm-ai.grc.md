@@ -5,6 +5,7 @@ author: Aristides the Orator
 eul_wid: qwm-ai
 eul_aid: qwm
 canonical: "https://eulogikon.org/works/aristides-orator-palinode-smyrna-qwm-ai"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristides the Orator
 
 **eul_wid:** `qwm-ai` · [HTML page](https://eulogikon.org/works/aristides-orator-palinode-smyrna-qwm-ai)
-
-Palinode-Smyrna and Its Rebuilding is a formal panegyric oration by the second-century CE orator Aelius Aristides. Composed around 178 CE, the work celebrates the reconstruction of the city of Smyrna following a catastrophic earthquake. Its title, meaning a recantation or new song, signifies the author’s deliberate turn from an earlier, lamentatory composition about the disaster to this subsequent speech of praise and commemoration. The oration opens with an address to the goddess Concord and to the city itself, framing the calamity as a divine trial. Its central narrative details the immense destruction wrought by the earthquake and, most prominently, the generous and swift response of the Roman Emperor Marcus Aurelius, who provided substantial funds and tax relief to facilitate the rebuilding effort. Aristides extols both the emperor’s philanthropy and the resilient spirit of Smyrna’s citizens, contending that the restored city emerged more splendid than its former incarnation. Delivered likely before the civic body of Smyrna and representatives of the imperial administration, the speech functions as a verbal monument of gratitude and renewed civic pride. As a surviving example of imperial panegyric from the period known as the Second Sophistic, it illustrates the sophisticated rhetorical strategies used to articulate and strengthen the political bonds between the Greek cities of the eastern empire and Roman authority. The complete text is preserved within the medieval manuscript tradition of Aristides’ collected works.
 
 ## Text
 

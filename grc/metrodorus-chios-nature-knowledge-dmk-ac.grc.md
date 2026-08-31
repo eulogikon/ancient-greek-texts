@@ -5,6 +5,7 @@ author: Metrodorus of Chios
 eul_wid: dmk-ac
 eul_aid: dmk
 canonical: "https://eulogikon.org/works/metrodorus-chios-nature-knowledge-dmk-ac"
+lang: grc
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Metrodorus of Chios
 
 **eul_wid:** `dmk-ac` · [HTML page](https://eulogikon.org/works/metrodorus-chios-nature-knowledge-dmk-ac)
-
-On Nature and Knowledge is a philosophical poem composed in verse by the 4th-century BCE Greek thinker Metrodorus of Chios. A disciple of the atomist Democritus, Metrodorus wrote this work to summarize and elucidate the physical theories of earlier Presocratic philosophers, including Thales and Anaxagoras, in an accessible poetic form. The title, sometimes translated as Extracts or Fragments, reflects its nature as a collection of passages rather than a continuous treatise. The work is now lost as an independent book and survives only through quotations in later authors, most notably the skeptic Sextus Empiricus, who cited it to illustrate dogmatic positions he opposed.
-
-The surviving portions of the text, known through approximately 27 fragments, cover topics in cosmology and the principles of nature, consistent with the atomist and materialist philosophy of its author. A particularly famous fragment expresses a radical epistemological skepticism, declaring that no one knows anything, not even whether they know or do not know, or even whether anything exists at all. Modern scholars generally interpret the work as a doxography—a systematic compilation of philosophical opinions—intended for students or a general educated audience, following a tradition of presenting complex ideas in memorable verse. Through these preserved fragments, Metrodorus’s poem served to transmit early Greek philosophical thought and contributed to later debates concerning knowledge and skepticism.
 
 ## Text
 

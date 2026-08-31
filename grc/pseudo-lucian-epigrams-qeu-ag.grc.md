@@ -1,10 +1,11 @@
 ---
 title: Epigram
 title_greek: Ἐπίγραμμα
-author: "Pseudo-Lucian "
+author: Pseudo-Lucian
 eul_wid: qeu-ag
 eul_aid: qeu
 canonical: "https://eulogikon.org/works/pseudo-lucian-epigrams-qeu-ag"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἐπίγραμμα*
 
-**Author:** Pseudo-Lucian 
+**Author:** Pseudo-Lucian
 
 **eul_wid:** `qeu-ag` · [HTML page](https://eulogikon.org/works/pseudo-lucian-epigrams-qeu-ag)
-
-The Epigram is a brief Greek poem spuriously attributed to Lucian of Samosata, hence its conventional designation to Pseudo-Lucian. A polished composition likely in elegiac couplets, it is preserved within the larger manuscript corpus of Lucian's works. Modern scholarship regards it as inauthentic, a later pseudepigraphical addition from the Imperial Roman era. The poem itself exemplifies the fluidity of ancient authorship, being a deliberate imitation attributed to a renowned satirist. It adheres to the core epigrammatic characteristic of conciseness, aiming for a sharp, pointed conclusion on the folly of human wisdom. The text survives within the extensive medieval manuscript tradition of Lucian's works, where authentic and spurious texts were transmitted together. Its preservation illustrates the common compositional practice of expanding an author's corpus through imitation. While the epigram holds no major independent literary influence, it is significant for understanding the reception and imitation of Lucian's style, serving as a concrete example of pseudepigraphical practices in later Greek literary culture.
 
 ## Text
 

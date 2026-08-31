@@ -5,6 +5,7 @@ author: Severus the Iatrosophist
 eul_wid: tmy-aa
 eul_aid: tmy
 canonical: "https://eulogikon.org/works/severus-iatrosophist-infusion-instruments-tmy-aa"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Severus the Iatrosophist
 
 **eul_wid:** `tmy-aa` · [HTML page](https://eulogikon.org/works/severus-iatrosophist-infusion-instruments-tmy-aa)
-
-On Infusion Instruments or Clysters to Timothy is a specialized medical treatise by Severus the Iatrosophist, a physician-teacher believed to have been active in the sixth or seventh century CE. Addressed to a student or colleague named Timothy, the work is a practical manual focused entirely on the construction and therapeutic application of the klystēr, or enema syringe. In its forty-three sections, the text provides meticulous technical instructions for fabricating the instrument from materials such as tin, bronze, and animal bladders, detailing the components of the tube, reservoir, and nozzle. It further catalogues the preparation of various medicinal substances and outlines techniques for administering both purgative and nutritive clysters to treat specific ailments.
-
-The treatise is a complete exemplar of iatrosophia, a genre of practical medical compendia used for instruction in the late antique and early Byzantine periods. It functions as a systematic technical guide, synthesizing and organizing earlier Greco-Roman medical knowledge—particularly from the Hippocratic and Galenic traditions—for hands-on therapeutic training. Its preservation offers a concrete view of the instruments and daily practices of early Byzantine medicine. The text survives in Greek manuscripts, including a copy from the sixteenth century, and is valued by historians for its detailed insight into period medical technology and pedagogical method.
 
 ## Text
 

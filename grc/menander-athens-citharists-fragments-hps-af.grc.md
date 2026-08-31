@@ -5,6 +5,7 @@ author: Menander of Athens
 eul_wid: hps-af
 eul_aid: hps
 canonical: "https://eulogikon.org/works/menander-athens-citharists-fragments-hps-af"
+lang: grc
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Menander of Athens
 
 **eul_wid:** `hps-af` · [HTML page](https://eulogikon.org/works/menander-athens-citharists-fragments-hps-af)
-
-Citharists, Fragments Known Elsewhere comprises a collection of twenty-seven surviving passages from a lost comedy by the Athenian playwright Menander, the foremost author of New Comedy in the late fourth and early third centuries BCE. Written in Attic Greek verse for performance at Athenian dramatic festivals, the play’s title, meaning "The Lyre-Player," indicates a plot involving a musician, though the narrative cannot be reconstructed from the extant fragments. These excerpts, typical of Menander’s oeuvre, touch on themes of wealth, poverty, and human suffering, reflecting the playwright’s focus on everyday life, romantic entanglements, family dynamics, and social stratification within a realistic urban setting. The complete text has not survived; the fragments are preserved solely through quotation by later ancient grammarians, lexicographers, and authors. Modern scholarship groups such excerpts under the designation Fragments Known Elsewhere to differentiate them from more substantial papyrus recoveries of Menander’s other comedies. Despite the loss of Citharists, Menander’s character-driven comic style exerted a profound influence on Roman dramatists, including Plautus and Terence, thereby ensuring the endurance of his comedic models in the Western literary tradition.
 
 ## Text
 

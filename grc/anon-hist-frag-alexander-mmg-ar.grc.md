@@ -5,6 +5,7 @@ author: Historical Fragments  Anonymous
 eul_wid: mmg-ar
 eul_aid: mmg
 canonical: "https://eulogikon.org/works/anon-hist-frag-alexander-mmg-ar"
+lang: grc
 period: Hellenistic
 dialect: Mixed Dialects (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Historical Fragments  Anonymous
 
 **eul_wid:** `mmg-ar` · [HTML page](https://eulogikon.org/works/anon-hist-frag-alexander-mmg-ar)
-
-The History of Alexander is an anonymous and fragmentary Greek work concerning the campaigns of Alexander the Great. Preserved only in seven brief excerpts quoted by later Byzantine authors, primarily the patriarch Photius and the emperor Constantine VII, the original scope and character of the complete history are unknown. The surviving passages, however, indicate it was a continuous narrative. They reference specific episodes including Alexander's consultation of the oracle of Ammon at Siwa, details on the Persian king Darius III such as his age and death, Alexander's pursuit of Darius's murderer Bessus and his subsequent treatment of the Persian royal family, the appointment of the Persian Oxathres as satrap of Paractacene, and the rebuilding of the temple of Athena in Priene. As a representative of the lost early historiography of Alexander, these fragments occasionally preserve variant details absent from the major surviving accounts and are therefore of value to scholars reconstructing the development of the Alexander tradition.
 
 ## Text
 

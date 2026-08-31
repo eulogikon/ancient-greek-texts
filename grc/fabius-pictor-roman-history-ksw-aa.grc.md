@@ -5,6 +5,7 @@ author: Fabius Pictor the Historian
 eul_wid: ksw-aa
 eul_aid: ksw
 canonical: "https://eulogikon.org/works/fabius-pictor-roman-history-ksw-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Fabius Pictor the Historian
 
 **eul_wid:** `ksw-aa` · [HTML page](https://eulogikon.org/works/fabius-pictor-roman-history-ksw-aa)
-
-Quintus Fabius Pictor's Roman History stands as the earliest known historical work composed by a Roman. Written in Greek prose during the late third century BCE, this annalistic account chronicled Rome's story from its legendary origins involving Aeneas and Romulus through to contemporary events, concluding with the Second Punic War—a conflict in which the author, a Roman senator, personally participated. The original text is entirely lost, surviving only in approximately thirty-six fragments preserved through quotations by later historians such as Polybius, Dionysius of Halicarnassus, and Livy; this fragmentary transmission accounts for the work sometimes being referenced by the Greek title meaning "Excerpts." Fabius Pictor's deliberate choice to write in Greek is widely interpreted as a strategic effort to explain and justify Rome's history and policies to the politically and culturally dominant Hellenistic world, thereby asserting Rome's legitimacy within the broader Mediterranean context. The work is considered foundational for later Roman historiography, establishing a model that promoted an aristocratic, senatorial viewpoint and employed an annalistic structure, organizing events according to the years of Rome's chief magistrates.
 
 ## Text
 

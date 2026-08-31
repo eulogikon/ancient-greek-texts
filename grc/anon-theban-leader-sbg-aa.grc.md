@@ -5,6 +5,7 @@ author: Anonymous
 eul_wid: sbg-aa
 eul_aid: sbg
 canonical: "https://eulogikon.org/works/anon-theban-leader-sbg-aa"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Anonymous
 
 **eul_wid:** `sbg-aa` · [HTML page](https://eulogikon.org/works/anon-theban-leader-sbg-aa)
-
-The Encomium for a Theban Leader is a fragmentary Greek oration preserved as a single excerpt. This encomium praises an unnamed Theban leader’s military prowess and civic virtues, employing the standard rhetorical tropes of the genre. The surviving passage highlights the subject’s bravery and strategic skill in military conflicts, possibly against Phocian or Thessalian adversaries, and emphasizes his devotion to Thebes and embodiment of civic patriotism. The text survives only as a fragment cataloged within the corpus of Greek oratory, and its specific manuscript tradition and provenance are not detailed in the available sources. While the precise historical context and influence of this fragment remain unclear, it serves as a representative artifact of the epideictic oratory tradition. Such ceremonial speeches of praise were central to public life in the Greek world and contributed to the development of subsequent rhetorical theory and practice.
 
 ## Text
 

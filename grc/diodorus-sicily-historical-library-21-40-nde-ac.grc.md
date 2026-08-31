@@ -5,6 +5,7 @@ author: Diodorus of Sicily
 eul_wid: nde-ac
 eul_aid: nde
 canonical: "https://eulogikon.org/works/diodorus-sicily-historical-library-21-40-nde-ac"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Diodorus of Sicily
 
 **eul_wid:** `nde-ac` · [HTML page](https://eulogikon.org/works/diodorus-sicily-historical-library-21-40-nde-ac)
-
-The Historical Library is a forty-book universal history composed in Koine Greek by Diodorus Siculus, a historian from Sicily, during the latter half of the first century BCE. The second half of the work, comprising Books 21 through 40, chronicles the pivotal era from 264 BCE to approximately 60 BCE. This narrative traces Rome's ascent to hegemony over the Mediterranean world, detailing the conflicts of the Punic Wars, the political machinations and wars of the Hellenistic successor kingdoms, and the escalating internal crises of the Roman Republic. Diodorus structured his history annalistically, carefully synchronizing events by the years of Athenian archons, Roman consuls, and Olympiads to provide a coherent chronological framework.
-
-The complete text for these books has not survived intact. The original twenty-book section is lost and is known today through 852 fragments and excerpts. These remnants were preserved chiefly within Byzantine compilations from the tenth century, most notably the Excerpta Constantiniana. Modern scholarship interprets Diodorus's overarching aim as the creation of a single, practical compilation of history intended for both utilitarian reference and moral edification. His work reflects the perspective of a provincial Greek intellectual living under Roman dominion. The narrative consistently emphasizes overarching themes, such as the powerful role of fortune in the rise and fall of empires, and is punctuated by moralizing digressions that offer exempla from the past. Despite its fragmentary condition, this portion of the Historical Library constitutes an invaluable historical source, particularly for events and periods where other contemporary accounts are either lost or incomplete.
 
 ## Text
 

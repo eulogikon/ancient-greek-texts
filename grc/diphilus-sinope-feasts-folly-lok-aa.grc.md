@@ -5,6 +5,7 @@ author: Diphilus the Comic Poet of Sinope
 eul_wid: lok-aa
 eul_aid: lok
 canonical: "https://eulogikon.org/works/diphilus-sinope-feasts-folly-lok-aa"
+lang: grc
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Diphilus the Comic Poet of Sinope
 
 **eul_wid:** `lok-aa` · [HTML page](https://eulogikon.org/works/diphilus-sinope-feasts-folly-lok-aa)
-
-The Fragments on Feasts and Folly is a modern descriptive title for the collected remains of comedies by Diphilus of Sinope, a leading playwright of Greek New Comedy active in the late 4th to early 3rd century BCE. The collection consists of approximately 325 fragments, ranging from single lines to brief dialogues, preserved not in his original plays but through quotations by later authors. These verse fragments, written in Attic Greek, provide a window into the standard plots of New Comedy, which moved away from political satire to focus on domestic and romantic situations. The surviving pieces highlight recurring themes like elaborate banquets and the foolish antics or clever deceptions of characters, featuring typical stock characters such as cunning slaves, boastful soldiers, and misers involved in complicated love affairs and family misunderstandings often resolved by a sudden recognition of identity.
-
-None of Diphilus’s estimated 100 plays survive intact. The transmission of his work is entirely indirect, dependent on later writers who quoted him for various reasons. The most significant source is Athenaeus of Naucratis, who, in the 2nd or 3rd century CE, cited many lines in his work on dining and customs. Modern scholars recognize Diphilus as a major influence on Roman comedy; the playwright Plautus famously adapted at least two of his plays, helping to channel Diphilus’s comic ideas into the Western tradition.
 
 ## Text
 

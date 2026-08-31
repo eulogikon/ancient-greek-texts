@@ -5,6 +5,7 @@ author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-at
 eul_aid: bww
 canonical: "https://eulogikon.org/works/hippocrates-ancient-medicine-bww-at"
+lang: grc
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hippocrates and the Hippocratic Corpus
 
 **eul_wid:** `bww-at` · [HTML page](https://eulogikon.org/works/hippocrates-ancient-medicine-bww-at)
-
-On Ancient Medicine is a prose treatise from the Hippocratic Corpus, the collection of ancient Greek medical writings associated with the name of Hippocrates. Although traditionally ascribed to Hippocrates himself, modern scholarship attributes it to an anonymous physician writing in the late fifth or early fourth century BCE. The work constitutes a vigorous polemic and defense of medicine as a legitimate craft or art, asserting that its principles were discovered and refined through long practical experience and careful observation of patients, rather than being deduced from abstract philosophical first principles. Composed in Ionic Greek and structured into twenty-five chapters, the treatise directly confronts contemporary intellectual trends, particularly those of natural philosophers who attempted to explain health and disease through reductive theories based on opposing qualities like hot, cold, wet, and dry. The author argues that such speculative hypotheses are not only erroneous but are fundamentally useless at the bedside, where the physician must address the unique and complex constitution of each individual. True medical knowledge, it contends, is derived from a practical, evidence-based methodology centered on diet and regimen, which has evolved over centuries. The text is widely interpreted as an attempt to establish the autonomy and professional dignity of medicine during a period of intense philosophical debate about the nature of knowledge. Preserved in full through medieval manuscripts dating principally from the tenth century CE onward, On Ancient Medicine has been profoundly influential in the history of science and medicine, frequently cited as a seminal argument for empirical reasoning and the priority of observation over pure speculation.
 
 ## Text
 

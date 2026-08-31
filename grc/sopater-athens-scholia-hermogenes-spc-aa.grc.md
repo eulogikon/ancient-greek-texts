@@ -5,6 +5,7 @@ author: Sopater of Athens
 eul_wid: spc-aa
 eul_aid: spc
 canonical: "https://eulogikon.org/works/sopater-athens-scholia-hermogenes-spc-aa"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Sopater of Athens
 
 **eul_wid:** `spc-aa` · [HTML page](https://eulogikon.org/works/sopater-athens-scholia-hermogenes-spc-aa)
-
-The Scholia on Hermogenes's Status or Rhetorical Art is a comprehensive line-by-line commentary by the rhetorician Sopater of Athens on the influential late second-century CE handbook On Issues by Hermogenes of Tarsus. As a central textbook on stasis theory, which provides a systematic method for identifying the core legal issue in a forensic case, Hermogenes's work was notoriously dense. Sopater's scholia, comprising 198 individual passages, offer a detailed exegesis designed to elucidate its complex technical doctrines for students and advanced practitioners. The commentary meticulously explains Hermogenes's intricate system of classification, clarifies his specialized rhetorical terminology, and functions as a pedagogical aid by breaking down the theoretical material into more digestible units for classroom use.
-
-The text survives in its entirety within the larger corpus of Greek rhetorical scholia transmitted through medieval manuscripts. It is preserved in standard collections of ancient rhetorical commentaries and is available in modern critical editions. Sopater's work was instrumental in cementing the authoritative status of Hermogenes's theories throughout the Byzantine period. As a key part of a sustained exegetical tradition, such commentaries formed the backbone of advanced rhetorical education for centuries, ensuring the survival and transmission of classical rhetorical theory into the Renaissance.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Longus the Novelist
 eul_wid: rte-aa
 eul_aid: rte
 canonical: "https://eulogikon.org/works/longus-daphnis-chloe-rte-aa"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Fiction
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Longus the Novelist
 
 **eul_wid:** `rte-aa` · [HTML page](https://eulogikon.org/works/longus-daphnis-chloe-rte-aa)
-
-_Daphnis and Chloe_ is a pastoral novel by the ancient Greek author Longus, composed during the Roman Imperial period, most likely in the late second or third century CE. It stands as one of only five complete ancient Greek prose romances to survive from antiquity. The narrative, divided into four books, is set on the island of Lesbos. It chronicles the lives of two foundlings, Daphnis and Chloe, who are discovered and raised by shepherds. As they mature while tending their flocks together, they experience a gradual and innocent awakening of mutual love. The plot centers on their naive exploration of these newfound emotions, their interactions with a cast of rustic and urban characters, and the eventual discovery of their true, noble parentage, which culminates in their marriage. The work opens with a unique prologue in which the author claims inspiration from a beautiful painting he saw in a sacred grove, a literary technique scholars associate with the rhetorical exercises popular among the educated Greek elite of the era.
-
-The novel survives in its complete form, preserved in a relatively small number of medieval Greek manuscripts, the oldest of which dates to the 13th century. Modern interpretation views the work as a sophisticated literary exploration of natural, instinctive love set against the backdrop of civilized society, all framed within an idealized pastoral landscape. It was likely written for a literate audience capable of appreciating its refined style and its enduring themes of innocence, the education of desire, and the transformative power of art. The novel's lasting influence is evident in its significant impact on later pastoral literature, opera, and ballet from the Renaissance to the modern era.
 
 ## Text
 

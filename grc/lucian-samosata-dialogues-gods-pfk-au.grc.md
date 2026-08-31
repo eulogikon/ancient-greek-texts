@@ -5,6 +5,7 @@ author: Lucian of Samosata
 eul_wid: pfk-au
 eul_aid: pfk
 canonical: "https://eulogikon.org/works/lucian-samosata-dialogues-gods-pfk-au"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lucian of Samosata
 
 **eul_wid:** `pfk-au` · [HTML page](https://eulogikon.org/works/lucian-samosata-dialogues-gods-pfk-au)
-
-The Dialogues of the Gods is a collection of twenty-six short prose dialogues by the Syrian author Lucian of Samosata, written in the second century CE. Composed in refined Attic Greek, the work presents a series of satirical vignettes depicting the Olympian gods engaged in petty, undignified, and often amorous disputes. These conversations reduce the majestic figures of traditional mythology to the level of flawed, gossipy characters, portraying them in absurd domestic situations that parody the solemnity of epic poetry, particularly the works of Homer. The dialogues are thought to have been crafted for the educated, Greek-speaking elite of the Roman Empire, who would appreciate both their literary artistry and their irreverent critique of conventional religious portrayals. Modern scholars regard the work as a prime example of Second Sophistic literature, which revived classical Athenian culture under Roman rule, and debate whether its tone reflects philosophical skepticism or is intended primarily as sophisticated entertainment. The text has survived intact through medieval manuscripts as part of Lucian's larger corpus. Its popularity endured through the Byzantine period and the Renaissance, where it became an influential model for later satirical and mythological parody in European literature.
 
 ## Text
 

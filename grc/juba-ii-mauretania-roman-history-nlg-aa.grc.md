@@ -5,6 +5,7 @@ author: Juba II of Mauretania
 eul_wid: nlg-aa
 eul_aid: nlg
 canonical: "https://eulogikon.org/works/juba-ii-mauretania-roman-history-nlg-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Juba II of Mauretania
 
 **eul_wid:** `nlg-aa` · [HTML page](https://eulogikon.org/works/juba-ii-mauretania-roman-history-nlg-aa)
-
-The Roman History Fragments is a lost antiquarian work by Juba II, the client king of Mauretania, composed in Koine Greek during his reign from approximately 25 BCE to 23 CE. Rather than a continuous historical narrative, the text functioned as a scholarly compilation of notes and research on Roman and Italian antiquities. Its scope was broad, encompassing the origins of Italic peoples such as the Aborigines and Etruscans, the foundation myths of cities, early Roman customs and institutions, and the historical geography of the western Mediterranean. The original work does not survive; its content is reconstructed from 91 fragments preserved as quotations in the works of later authors, most notably Plutarch and Athenaeus, as well as in Byzantine lexicons and encyclopedias such as the Ethnica of Stephanus of Byzantium. These excerpts reveal Juba II’s methodical synthesis of earlier Greek and Roman sources, positioning the work as a learned bridge between cultures. It served to elucidate Roman history and customs for the Hellenistic world while simultaneously projecting the author’s own identity as an erudite, Hellenized monarch firmly within the Roman orbit. The fragments exemplify the hybrid intellectual culture of the Augustan age, where antiquarian research into Rome’s deepest origins held significant cultural and political value.
 
 ## Text
 

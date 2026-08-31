@@ -5,6 +5,7 @@ author: Sophistical Refutations Anonymous
 eul_wid: vls-ad
 eul_aid: vls
 canonical: "https://eulogikon.org/works/anon-soph-ref-scholia-vls-ad"
+lang: grc
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,20 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Sophistical Refutations Anonymous
 
 **eul_wid:** `vls-ad` · [HTML page](https://eulogikon.org/works/anon-soph-ref-scholia-vls-ad)
-
-Overview The Scholia-Sophistical Refutations (Σχόλια εἰς τὰ Σοφιστικὰ Ἐλέγχη) is an anonymous collection of 58 scholia, or explanatory notes, on Aristotle’s Sophistical Refutations. As the final treatise of Aristotle’s Organon, this text analyzes fallacious arguments used by sophists. These scholia represent the standard Byzantine scholarly practice of compiling marginal commentaries to clarify difficult passages, define terms, and aid in teaching Aristotelian logic.
-
-Content The scholia likely address core themes from Aristotle’s work, including:
-
-The definition and classification of logical fallacies.
-
-Clarifications of Aristotelian technical terminology.
-
-Analysis and examples of sophistical reasoning.
-
-Transmission The scholia survive within the manuscript tradition of Aristotle’s Sophistical Refutations. Such annotations were copied in the margins of key medieval manuscripts and are preserved in critical editions like the Commentaria in Aristotelem Graeca.
-
-Significance This collection is a valuable witness to the reception and pedagogical use of Aristotle’s logic in the Byzantine period. Scholia were instrumental in transmitting the interpretive tradition of the Organon and informed later commentaries and textbooks on logical fallacies.
 
 ## Text
 

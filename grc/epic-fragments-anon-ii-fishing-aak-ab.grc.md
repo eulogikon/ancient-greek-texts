@@ -5,6 +5,7 @@ author: Epic Fragments Anonymous II
 eul_wid: aak-ab
 eul_aid: aak
 canonical: "https://eulogikon.org/works/epic-fragments-anon-ii-fishing-aak-ab"
+lang: grc
 period: Archaic
 dialect: Literary Koine
 domain: Epic
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Epic Fragments Anonymous II
 
 **eul_wid:** `aak-ab` · [HTML page](https://eulogikon.org/works/epic-fragments-anon-ii-fishing-aak-ab)
-
-The Fragments on Fishing is a lost didactic epic poem, cataloged by modern scholarship under the designation Epic Fragments Anonymous II. It is known only by its title and a single surviving fragment, which indicates a work that versified technical knowledge on the subject of angling. The extant lines describe a fisherman on a rocky shore preparing his baited hook, situating the poem within the tradition of Greek instructional poetry that treated practical arts. Its focus on fishing, seafaring, and marine life distinguishes it as a precursor to later, more comprehensive works like Oppian’s Halieutica. The poem survives solely as a citation, likely preserved within a secondary source such as a lexicon or ancient commentary, with no direct manuscript tradition. Its fragmentary existence attests to the wide range of technical subjects treated within the didactic epic genre and exemplifies the considerable volume of ancient poetic material that persists only through such indirect references.
 
 ## Text
 

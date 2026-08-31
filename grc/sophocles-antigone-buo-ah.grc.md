@@ -5,6 +5,7 @@ author: Sophocles
 eul_wid: buo-ah
 eul_aid: buo
 canonical: "https://eulogikon.org/works/sophocles-antigone-buo-ah"
+lang: grc
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Sophocles
 
 **eul_wid:** `buo-ah` · [HTML page](https://eulogikon.org/works/sophocles-antigone-buo-ah)
-
-Antigone is an Athenian tragedy by Sophocles, first performed around 441 BCE. Written in Attic Greek verse, the play dramatizes the aftermath of a civil war in Thebes. Antigone, daughter of Oedipus, defies the edict of King Creon, her uncle, by performing burial rites for her brother Polyneices, who was declared a traitor. Creon sentences her to death, a decision that leads to the subsequent suicides of his son Haemon, who was betrothed to Antigone, and his wife Eurydice, leaving Creon in utter ruin. The tragedy centers on the conflict between divine, unwritten law and human state authority, a theme that engaged contemporary Athenian debates on justice and civic duty. Antigone is often interpreted as representing familial and religious obligation, while Creon embodies the power and law of the city-state. The play was immediately successful and has survived intact through medieval manuscripts. It remains a foundational work of Western literature, continually studied for its profound exploration of civil disobedience, individual conscience, and the nature of political power.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Zeno Letters
 eul_wid: jfg-aa
 eul_aid: jfg
 canonical: "https://eulogikon.org/works/zeno-letters-king-antigonus-jfg-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine (frg)
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Zeno Letters
 
 **eul_wid:** `jfg-aa` · [HTML page](https://eulogikon.org/works/zeno-letters-king-antigonus-jfg-aa)
-
-The Letter to King Antigonus is a philosophical epistle attributed to Zeno of Citium, the founder of Stoicism. Composed in Koine Greek during the early Hellenistic period, most likely between 276 and 262 BCE, it was addressed to Antigonus II Gonatas, the king of Macedon and a known student of Zeno. The complete text of the letter does not survive; our knowledge of its contents derives entirely from two brief fragments preserved by the later biographer Diogenes Laertius. These surviving passages present Zeno’s counsel to the monarch, commending his dedication to genuine, beneficial learning over common and corrupting forms of education. Zeno praises the king’s philosophical aspiration and his rejection of pleasure, which he sees as indicative of a noble character aligned with virtue. Citing his own advanced age and physical infirmity, Zeno excuses himself from a personal visit to the royal court but sends several of his most accomplished associates in his stead, assuring the king that their instruction will lead him toward perfect happiness.
-
-Modern scholars interpret the letter as a protreptic, or exhortatory work, designed to guide a ruler toward the philosophical life. It promotes the core Stoic doctrine that true kingship is founded upon moral excellence and rational self-governance rather than on political authority or material wealth alone. The letter is believed to have been composed not solely for the king’s private edification but also for wider circulation, serving to bolster the early Stoic school’s reputation for engaging thoughtfully with holders of political power and articulating a vision of leadership grounded in ethical philosophy.
 
 ## Text
 

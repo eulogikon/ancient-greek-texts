@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-bc
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-proverbs-alexandrians-okg-bc"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-bc` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-proverbs-alexandrians-okg-bc)
-
-On the Proverbs of the Alexandrians is a brief paremiographic work traditionally ascribed to Plutarch of Chaeronea. It compiles and elucidates thirty-nine proverbs linked to the inhabitants of Alexandria, presenting each with an explanatory anecdote concerning its origin or application. These explanations frequently draw upon Ptolemaic history and local customs, referencing notable Alexandrian institutions such as the Library and the Pharos lighthouse. The proverbs often reflect the city's political history and the perceived character of its people, and the work as a whole exemplifies the scholarly practice of glossing localized phrases during the Imperial period. The authenticity of the treatise is disputed, as it is not listed in the ancient Lamprias Catalogue and its style diverges from Plutarch's authenticated writings. It is preserved within the manuscript tradition of Plutarch's Moralia and is generally classified among his doubtful or spurious works. Despite questions of authorship, the text remains a valuable source for the study of ancient proverb collections and Alexandrian cultural history, preserving unique incidental details about the Hellenistic world.
 
 ## Text
 

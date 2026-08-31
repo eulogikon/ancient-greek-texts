@@ -5,6 +5,7 @@ author: Anaximenes of Miletus
 eul_wid: bcm-ab
 eul_aid: bcm
 canonical: "https://eulogikon.org/works/anaximenes-miletus-cold-heat-bcm-ab"
+lang: grc
 period: Archaic
 dialect: Ionic
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Anaximenes of Miletus
 
 **eul_wid:** `bcm-ab` · [HTML page](https://eulogikon.org/works/anaximenes-miletus-cold-heat-bcm-ab)
-
-The Fragments on Cold and Heat is a modern scholarly designation for the surviving doctrines of the 6th-century BCE pre-Socratic philosopher Anaximenes of Miletus. These doctrines are preserved not as a continuous text but as a handful of key quotations and summaries within the works of much later authors, primarily the doxographers Aëtius and Hippolytus of Rome. The fragments articulate the core of Anaximenes's natural philosophy, which posits air as the fundamental substance, or arche, of all existence. From this primary air, the entire cosmos arises through two opposing physical processes: rarefaction and condensation. According to Anaximenes, air that is rarefied becomes warm and transforms into fire, while air that is condensed becomes progressively colder, manifesting as wind, cloud, water, earth, and finally stone. Thus, the sensations of heat and cold are not distinct substances but common states of matter resulting from these quantitative changes in density. He illustrated this principle with the everyday example of breath: breath feels cold when exhaled through pursed lips because it is compressed and condensed, but feels warm when exhaled with an open mouth because it becomes rarefied. This mechanistic model, reducing qualitative differences to measurable physical processes, represents a significant development in early Ionian science, providing a unified explanation for both cosmic formation and mundane meteorological phenomena.
 
 ## Text
 

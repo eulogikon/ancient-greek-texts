@@ -1,10 +1,11 @@
 ---
 title: Lexicon
 title_greek: Λεξικόν
-author: "Pseudo-Zonaras "
+author: Pseudo-Zonaras
 eul_wid: yem-aa
 eul_aid: yem
 canonical: "https://eulogikon.org/works/pseudo-zonaras-lexicon-yem-aa"
+lang: grc
 period: Byzantine
 domain: Grammar
 format: Collection
@@ -15,7 +16,7 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Λεξικόν*
 
-**Author:** Pseudo-Zonaras 
+**Author:** Pseudo-Zonaras
 
 **eul_wid:** `yem-aa` · [HTML page](https://eulogikon.org/works/pseudo-zonaras-lexicon-yem-aa)
 

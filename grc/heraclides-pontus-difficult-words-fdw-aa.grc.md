@@ -5,6 +5,7 @@ author: Heraclides of Pontus
 eul_wid: fdw-aa
 eul_aid: fdw
 canonical: "https://eulogikon.org/works/heraclides-pontus-difficult-words-fdw-aa"
+lang: grc
 period: Classical
 dialect: Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Heraclides of Pontus
 
 **eul_wid:** `fdw-aa` · [HTML page](https://eulogikon.org/works/heraclides-pontus-difficult-words-fdw-aa)
-
-On Difficult Words is a lost philological treatise composed in Attic Greek by the 4th-century BCE philosopher Heraclides of Pontus. The work survives only in six brief fragments preserved by later grammarians, which reveal its focus on analyzing irregular or problematic Greek words, particularly concerning their proper declensions and usages. This technical study reflects the scholarly pursuits of Heraclides, a student of Plato's Academy who was also associated with Aristotle's school. The extant fragments, embedded within the works of later authors such as the grammarian Herodian, suggest the treatise served as an early form of specialized linguistic analysis, likely intended for students of philosophy or rhetoric who required guidance in navigating textual ambiguities. It exemplifies the intersection of philosophical inquiry and grammatical study that would later flourish in Hellenistic scholarship. Having no independent manuscript tradition, the work is reconstructed entirely from these cited excerpts.
 
 ## Text
 

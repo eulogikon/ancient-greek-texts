@@ -5,6 +5,7 @@ author: Hesiod
 eul_wid: aau-aa
 eul_aid: aau
 canonical: "https://eulogikon.org/works/hesiod-astronomical-fragments-aau-aa"
+lang: grc
 period: Archaic
 dialect: Epic (Homeric)
 domain: Epic
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hesiod
 
 **eul_wid:** `aau-aa` · [HTML page](https://eulogikon.org/works/hesiod-astronomical-fragments-aau-aa)
-
-The Astronomical Fragments is a modern editorial title for a collection of eight passages attributed to the early Greek poet Hesiod. These fragments do not derive from a single, continuous poem but are citations preserved by later Greek and Roman authors who reference Hesiod as an authority on celestial phenomena. The content is didactic in nature, closely aligning with the practical, calendrical astronomy found in Hesiod's Works and Days. It includes references to specific constellations, such as the Pleiades, Hyades, and the Great Bear, noting their heliacal risings and settings to mark key seasonal transitions for agriculture and sailing. The fragments also preserve early mythological etiologies for star groups, linking them to figures like Orion and providing stories for their catasterism, or placement in the heavens. The original work is lost, and these excerpts survive solely as quotations in later writers, most significantly in the astronomical commentaries of Hipparchus and in the star myth compendium known as the Catasterismi. The standard modern critical edition is found in Merkelbach and West's Fragmenta Hesiodea. These fragments represent a seminal stage in the systematic Greek observation of the heavens for practical purposes, establishing a tradition of poetic celestial timekeeping that directly influenced later didactic poets like Aratus and was cited as authoritative by ancient scientists, securing their historical importance in the development of Greek astronomy.
 
 ## Text
 

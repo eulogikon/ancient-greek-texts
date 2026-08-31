@@ -5,6 +5,7 @@ author: Xuthus the Philosopher
 eul_wid: axc-aa
 eul_aid: axc
 canonical: "https://eulogikon.org/works/xuthus-testimony-axc-aa"
+lang: grc
 period: Archaic
 dialect: Attic
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Xuthus the Philosopher
 
 **eul_wid:** `axc-aa` · [HTML page](https://eulogikon.org/works/xuthus-testimony-axc-aa)
-
-The work Testimony, attributed to Xuthus the Philosopher, is unattested in major scholarly sources for ancient Greek literature. No entries for this author or title exist in standard digital or print repositories. While the provided metadata describes it as a collection, no verifiable content or context can be established. No philosophical arguments or topics from the work are recorded in authoritative sources, and it has no known transmission history. It does not appear among the fragmentary remains of Pre-Socratic or later philosophers in standard collections. Although the name Xuthus appears in Greek mythological contexts, such as in the works of Herodotus and Euripides, there is no evidence for a philosopher of this name authoring a work titled Testimony, and the attribution remains unverified.
 
 ## Text
 

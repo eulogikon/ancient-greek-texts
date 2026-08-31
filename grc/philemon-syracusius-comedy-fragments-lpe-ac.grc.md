@@ -5,6 +5,7 @@ author: Philemon Syracusius
 eul_wid: lpe-ac
 eul_aid: lpe
 canonical: "https://eulogikon.org/works/philemon-syracusius-comedy-fragments-lpe-ac"
+lang: grc
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philemon Syracusius
 
 **eul_wid:** `lpe-ac` · [HTML page](https://eulogikon.org/works/philemon-syracusius-comedy-fragments-lpe-ac)
-
-The work consists of thirteen fragmentary passages from a comedy or comedies by the Greek poet Philemon of Syracuse. Preserved within the fifth-century CE anthology of Stobaeus, these short verses contain moralizing and humorous observations consistent with the comic genre. The specific plays from which they derive are unidentified, and the poet must be distinguished from the more famous Athenian New Comedy playwright of the same name. The extant fragments suggest primary themes of gnomic wisdom on life, fortune, and proper conduct, alongside social commentary on human relationships and foibles. They feature humorous or satirical turns of phrase, though the original comic context is lost. The fragments survive exclusively through indirect transmission in Stobaeus’s thematic compilation; the original comedies are lost, and the text depends entirely on the manuscript tradition of the Anthologion. Philemon Syracusius represents the vibrant theatrical culture of Greek Sicily. His posthumous influence stems solely from his inclusion in Stobaeus’s anthology, a key educational text in the Byzantine era, which perpetuated his sententious verses within the broader Greek gnomic tradition.
 
 ## Text
 

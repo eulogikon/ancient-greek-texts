@@ -5,6 +5,7 @@ author: Aristonicus of Alexandria
 eul_wid: mia-ac
 eul_aid: mia
 canonical: "https://eulogikon.org/works/aristonicus-alexandria-testimonies-mia-ac"
+lang: grc
 period: Hellenistic
 dialect: Technical Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristonicus of Alexandria
 
 **eul_wid:** `mia-ac` · [HTML page](https://eulogikon.org/works/aristonicus-alexandria-testimonies-mia-ac)
-
-The Testimonies is a lost grammatical work by the Alexandrian scholar Aristonicus, who was active in the first century BCE. A specialist in the critical editing of Homer, Aristonicus is best known for his systematic work on the critical signs used to annotate the Iliad and Odyssey. The Testimonies was likely a collection of critical notes, or testimonia, compiling evidence and judgments concerning the authenticity of specific Homeric verses. It would have functioned as a scholarly companion to his editorial work, documenting the rationale for marking lines as spurious or disputed. The work is known only by its title, which is preserved in the Byzantine encyclopedia known as the Suda. Like all of Aristonicus’s writings, it survives only in fragments and references within later grammatical tradition. His critical opinions, however, were incorporated into the medieval scholia on Homer, transmitted through the work of subsequent scholars like Didymus Chalcenterus. Aristonicus’s methodology exemplifies the Alexandrian school’s rigorous focus on textual criticism and his work forms a foundational layer in the history of Homeric scholarship.
 
 ## Text
 

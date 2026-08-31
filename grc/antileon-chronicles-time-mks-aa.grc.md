@@ -5,6 +5,7 @@ author: Antileon the Historian
 eul_wid: mks-aa
 eul_aid: mks
 canonical: "https://eulogikon.org/works/antileon-chronicles-time-mks-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Antileon the Historian
 
 **eul_wid:** `mks-aa` · [HTML page](https://eulogikon.org/works/antileon-chronicles-time-mks-aa)
-
-No historical work titled Chronicles of Time attributed to an author named Antileon the Historian is attested in standard scholarly sources. The name Antileon is known from other contexts, such as a sixth-century BCE tyrant of Chalcis and a Pythagorean from Metapontum, but neither figure is linked to this text. The description of the work as comprising four passages suggests it is considered a fragmentary compilation. The purported content, themes, and historical scope of the Chronicles of Time are undocumented. There is no record of its manuscript tradition, means of preservation, or citation by later authors, and its survival status is unknown. Consequently, the work holds no established position in the corpus of ancient Greek historiography due to the complete absence of corroborating evidence or references in authoritative sources.
 
 ## Text
 

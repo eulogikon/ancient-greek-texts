@@ -1,10 +1,11 @@
 ---
 title: Fragments of Uncertain Poets
 title_greek: Ἀποσπάσματα Ἀδήλων Ποιητῶν
-author: "Comica Adespota "
+author: Comica Adespota
 eul_wid: kfa-aa
 eul_aid: kfa
 canonical: "https://eulogikon.org/works/comica-adespota-uncertain-poets-kfa-aa"
+lang: grc
 period: Hellenistic
 dialect: Mixed Dialects (frg)
 domain: Comedy
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀποσπάσματα Ἀδήλων Ποιητῶν*
 
-**Author:** Comica Adespota 
+**Author:** Comica Adespota
 
 **eul_wid:** `kfa-aa` · [HTML page](https://eulogikon.org/works/comica-adespota-uncertain-poets-kfa-aa)
-
-The Fragments of Uncertain Poets, also known as Comica Adespota, constitute a modern scholarly collection of 1,887 unattributed passages from ancient Greek comedy. These fragments, which range from single words to several lines, are distinct from the remains of known playwrights and are excerpted from quotations preserved by later grammarians, lexicographers, and authors such as Athenaeus and Pollux, who cited them for linguistic or illustrative purposes. The standard edition is found in Poetae Comici Graeci (PCG) Volume VIII. The content of these fragments reflects the full spectrum of the comic genre, including observations on daily life, social commentary, mythological parody, political satire, proverbial wisdom, metatheatrical jokes, and sexual and scatological humor. Their transmission is entirely indirect, as no ancient manuscript collects them; modern editorial work involves identifying comic meter, correcting misattributions, and organizing the material, though any such organization is necessarily editorial rather than original. These fragments are of significant scholarly value, providing essential evidence for reconstructing the scope, linguistic character, and historical development of Greek comedy beyond the limited corpus of complete surviving plays, thereby offering unique insights into ancient popular culture and the evolution of the genre.
 
 ## Text
 

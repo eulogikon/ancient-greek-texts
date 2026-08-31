@@ -5,6 +5,7 @@ author: Timocles B Comic Poet
 eul_wid: hcq-aa
 eul_aid: hcq
 canonical: "https://eulogikon.org/works/timocles-rhetoric-corruption-hcq-aa"
+lang: grc
 period: Classical
 dialect: Mixed Dialects (frg)
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Timocles B Comic Poet
 
 **eul_wid:** `hcq-aa` · [HTML page](https://eulogikon.org/works/timocles-rhetoric-corruption-hcq-aa)
-
-The Fragments on Rhetoric and Corruption is a modern scholarly compilation of passages attributed to the Athenian comic poet Timocles, who was active in the late fourth and early third centuries BCE. The collection assembles 169 fragments from his lost comedies, organized thematically around the subjects of oratorical practice and civic decay. Written in the verse of Attic Greek comedy, these excerpts lampoon the persuasive techniques of contemporary public speakers and critique the perceived moral and political decline in Athenian society during the early Hellenistic period. No complete play by Timocles survives; the fragments exist solely because they were quoted by later ancient authors, most notably the grammarian and rhetorician Athenaeus, who preserved them for their linguistic interest or anecdotal value. This mode of transmission is entirely secondary and selective, reflecting the priorities of later compilers rather than a continuous manuscript tradition. Scholars regard these fragments as significant evidence for the transition from Old Comedy to Middle Comedy, a shift characterized by a move away from direct political satire toward a broader, more generalized social commentary. The collected passages are interpreted as reflecting Athenian anxieties about the power of rhetoric, the corruption of public life, and profound social change during an era when the city’s democratic autonomy was increasingly constrained under Macedonian hegemony.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Synesius of Cyrene
 eul_wid: sys-ac
 eul_aid: sys
 canonical: "https://eulogikon.org/works/synesius-cyrene-kingdom-sys-ac"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Synesius of Cyrene
 
 **eul_wid:** `sys-ac` · [HTML page](https://eulogikon.org/works/synesius-cyrene-kingdom-sys-ac)
-
-On Kingship is a political treatise composed in Attic Greek by Synesius of Cyrene around 400 CE. Addressed to the Eastern Roman Emperor Arcadius, the work belongs to the genre of advice literature known as the "mirror for princes." It is structured in 38 sections and argues that legitimate kingship is fundamentally philosophical, requiring the ruler to govern through personal virtue and adherence to law rather than through coercion. The treatise outlines the emperor's duties in both military and civil spheres, emphasizing his role as a shepherd to his people. Surviving in full through medieval manuscripts of Synesius's collected works, the text is interpreted by modern scholars as a pointed critique of the contemporary court, which Synesius, then serving as an ambassador, viewed as weak and corrupt. It employs allegorical figures, such as the virtuous shepherd and the predatory wolf, to condemn the pernicious influence of courtiers and the dangerous reliance on barbarian mercenaries, advocating instead for a revival of traditional Roman and Hellenic virtues. The treatise represents a notable synthesis of Platonic and Neoplatonic philosophical ideals with the pragmatic demands of late antique governance and statecraft.
 
 ## Text
 

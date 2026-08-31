@@ -5,6 +5,7 @@ author: Pseudo-Galen
 eul_wid: tqu-ar
 eul_aid: tqu
 canonical: "https://eulogikon.org/works/pseudo-galen-definitions-tqu-ar"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Pseudo-Galen
 
 **eul_wid:** `tqu-ar` · [HTML page](https://eulogikon.org/works/pseudo-galen-definitions-tqu-ar)
-
-The Medical Definitions is an anonymous Greek medical treatise comprising 117 concise, numbered entries. It is transmitted as part of the Hippocratic Corpus and systematically defines terms related to diseases, symptoms, anatomy, and physiology. The work opens with a prologue dedicated to a certain Theuthras, which explains its pedagogical purpose: to provide a useful compilation for all physicians, especially beginners, by teaching many things through few words. The author praises Hippocrates as the founder who first defined the medical art. The treatise's terse, definitional style aimed to standardize medical terminology for both practice and study, organizing and clarifying core concepts, classifying diseases by their symptoms or causes, and establishing diagnostic criteria. The text is preserved within the medieval manuscript tradition of the Hippocratic Corpus, its transmission history intertwined with the broader collection, compilation, and copying of that body of works. As a component of the corpus, this definitional work contributed to the technical vocabulary and conceptual framework of Western medicine, serving an important educational function in the professionalization and systematization of the discipline.
 
 ## Text
 

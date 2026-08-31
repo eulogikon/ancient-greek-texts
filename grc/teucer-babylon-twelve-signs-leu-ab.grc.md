@@ -5,6 +5,7 @@ author: Teucer of Babylon
 eul_wid: leu-ab
 eul_aid: leu
 canonical: "https://eulogikon.org/works/teucer-babylon-twelve-signs-leu-ab"
+lang: grc
 period: Hellenistic
 dialect: Technical Koine
 domain: Science
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Teucer of Babylon
 
 **eul_wid:** `leu-ab` · [HTML page](https://eulogikon.org/works/teucer-babylon-twelve-signs-leu-ab)
-
-On the Twelve Signs is an astrological treatise attributed to Teucer of Babylon, a Hellenistic author likely active in the first century BCE. Composed in Greek, the work provides a systematic exposition on the twelve signs of the zodiac, detailing their inherent properties and astrological influences. It methodically catalogues a wide array of characteristics for each sign, including elemental qualities, gender associations, seasonal and geographical correspondences, and rulership over specific parts of the human body in the practice known as melothesia. The treatise also covers technical concepts fundamental to Hellenistic astrology, such as the signs' ascensions, depressions, planetary houses, trigon rulers, antagonisms, and the boundaries governing the five planets.
-
-The original text by Teucer is no longer extant but survives through extensive quotations and summaries preserved in later compilations, most significantly within the Anthology of the second-century CE astrologer Vettius Valens. Structured as a technical manual, the work represents an early and influential effort to establish a standardized, rule-based framework for interpreting the zodiac, aiming to synthesize complex astrological doctrine into a coherent system for practitioners. It exemplifies the broader cultural synthesis of Babylonian astronomical data and Greek philosophical cosmology that characterized Hellenistic astrology. Through its preservation and citation by major subsequent authorities like Valens and Claudius Ptolemy, the schemata presented in On the Twelve Signs achieved a foundational status, shaping astrological theory and practice for centuries.
 
 ## Text
 

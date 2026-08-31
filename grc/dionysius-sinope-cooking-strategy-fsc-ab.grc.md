@@ -5,6 +5,7 @@ author: Dionysius of Sinope the Comic Poet
 eul_wid: fsc-ab
 eul_aid: fsc
 canonical: "https://eulogikon.org/works/dionysius-sinope-cooking-strategy-fsc-ab"
+lang: grc
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Dionysius of Sinope the Comic Poet
 
 **eul_wid:** `fsc-ab` · [HTML page](https://eulogikon.org/works/dionysius-sinope-cooking-strategy-fsc-ab)
-
-The comic work Fragments on Cooking and Strategy by Dionysius of Sinope is known only by its title and its division into seventy passages, as recorded by the scholar Athenaeus in his Deipnosophistae. Athenaeus cites it as a source for a single comic fragment concerning fish. The title implies a humorous juxtaposition of culinary and military arts, a parody typical of Middle Comedy. Probable thematic elements, inferred from the title and genre, include parody through the incongruous comparison of a cook and a general, satire of the expertise and pretensions associated with both professions, and commentary on food and consumption, a common interest in Middle Comedy. The work is lost and survives solely through its citation in Athenaeus’s compendium, which dates from the late second to early third century CE. The reference to seventy passages likely reflects the structure of an ancient scholarly edition rather than the number of extant lines. Its preservation contributes to understanding the thematic range of Middle Comedy, in which Dionysius of Sinope was active. The title helps map the poet’s repertoire and illustrates the period’s shift toward social satire and parody of professional types.
 
 ## Text
 

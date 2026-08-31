@@ -1,10 +1,11 @@
 ---
 title: On Stones
 title_greek: Περὶ λίθων
-author: "Orphic Poems "
+author: Orphic Poems
 eul_wid: lea-ah
 eul_aid: lea
 canonical: "https://eulogikon.org/works/orphic-poems-stones-lea-ah"
+lang: grc
 period: Hellenistic
 dialect: Epic (Homeric)
 domain: Philosophy
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Περὶ λίθων*
 
-**Author:** Orphic Poems 
+**Author:** Orphic Poems
 
 **eul_wid:** `lea-ah` · [HTML page](https://eulogikon.org/works/orphic-poems-stones-lea-ah)
-
-On Stones is a pseudepigraphical didactic poem attributed to Orpheus, forming part of the corpus of Orphic technical literature. This treatise on the magical and medicinal properties of stones survives fragmentarily in 43 hexameter passages quoted by later authors, primarily the Byzantine scholar Michael Psellus in the 11th century CE and the medical writer Aëtius of Amida in the 6th century CE. The poem details the occult virtues of specific minerals for purposes including protection, healing, divination, and ritual theurgy, reflecting contemporary beliefs in a sympathetic relationship between the material and spiritual worlds. Having no independent manuscript tradition, the work is preserved solely through these later quotations, a fragmentary state typical for pseudepigraphical Orphic texts, which were often cited for their authoritative, esoteric content but not transmitted in full. Attributed to the mythical poet Orpheus, the treatise carried considerable authority and contributed significantly to the medieval and Renaissance lapidary tradition. It illustrates the extension of the Orphic figure’s symbolic authority into the realms of practical magic and natural philosophy, exerting an influence on later Byzantine and Arabic texts concerning mineralogy and the occult.
 
 ## Text
 

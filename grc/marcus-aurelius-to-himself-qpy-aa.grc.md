@@ -5,6 +5,7 @@ author: Marcus Aurelius the Stoic Philosopher
 eul_wid: qpy-aa
 eul_aid: qpy
 canonical: "https://eulogikon.org/works/marcus-aurelius-to-himself-qpy-aa"
+lang: grc
 period: Roman
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Marcus Aurelius the Stoic Philosopher
 
 **eul_wid:** `qpy-aa` · [HTML page](https://eulogikon.org/works/marcus-aurelius-to-himself-qpy-aa)
-
-Meditations is a collection of personal philosophical reflections written by the Roman Emperor Marcus Aurelius. Composed in Koine Greek during the final decade of his life, around 170–180 CE, the work was originally untitled but is often referred to by its Greek incipit, Ta eis heauton, meaning "To Himself." It is structured as a private diary of spiritual exercises rather than a formal treatise, organized into twelve books containing nearly five hundred individual passages. The text addresses core Stoic principles, including the acceptance of a rational and providential universe, the diligent fulfillment of one's social duty, the cultivation of self-discipline, and a constant meditation on the transience of all worldly things. Written largely during military campaigns on the empire's northern frontier, the work served as a practical guide for ethical living, a means for the emperor to manage stress and reinforce his philosophical convictions. The complete text survives through a single manuscript tradition, with the earliest known copy dating to the 14th century; it was first published in 1559. While its intimate and admonitory tone indicates it was composed solely for the author's own benefit, its posthumous rediscovery established it as one of the most enduring and influential works of Stoic philosophy.
 
 ## Text
 

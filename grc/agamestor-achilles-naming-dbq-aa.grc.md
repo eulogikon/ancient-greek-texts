@@ -5,6 +5,7 @@ author: Agamestor
 eul_wid: dbq-aa
 eul_aid: dbq
 canonical: "https://eulogikon.org/works/agamestor-achilles-naming-dbq-aa"
+lang: grc
 period: Classical
 dialect: "Ionic (el, frg)"
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Agamestor
 
 **eul_wid:** `dbq-aa` · [HTML page](https://eulogikon.org/works/agamestor-achilles-naming-dbq-aa)
-
-The Fragments on Achilles' Naming is a lost poetic work attributed to an otherwise unknown author named Agamestor. Known only by its title, the composition evidently addressed the origin and meaning of the name of the epic hero Achilles. While no direct quotations from the work survive, its subject matter places it within a well-attested ancient tradition of exploring the etymologies and aetiological myths associated with heroic figures. The poem likely presented a narrative concerning the circumstances of Achilles' naming, potentially linking it to his defining characteristics or tragic destiny, such as a connection to the Greek word for grief. The work survives solely as a title in a secondary source and is absent from standard fragmentary collections, representing a minor but illustrative example of the antiquarian and scholarly poetic treatments of mythological themes in antiquity.
 
 ## Text
 

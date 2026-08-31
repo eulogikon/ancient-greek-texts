@@ -5,6 +5,7 @@ author: Menesthenes the Historian
 eul_wid: gko-aa
 eul_aid: gko
 canonical: "https://eulogikon.org/works/menesthenes-vessels-cups-gko-aa"
+lang: grc
 period: Classical
 dialect: Attic (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Menesthenes the Historian
 
 **eul_wid:** `gko-aa` · [HTML page](https://eulogikon.org/works/menesthenes-vessels-cups-gko-aa)
-
-On Vessels and Drinking Cups is a fragmentary antiquarian treatise attributed to the historian Menesthenes. The work is lost as an independent text and survives only through a few brief passages preserved within the Deipnosophistae of Athenaeus of Naucratis, who wrote in the late second or early third century CE. These extant fragments focus on cataloging and defining specialized terminology for ancient Greek drinking vessels, such as the skyphos, kylix, and kantharos. The primary importance of the work is lexicographical; it served as a source for later scholars explaining obscure terms. By recording this specialized vocabulary, it aids modern historians and archaeologists in identifying ceramic shapes from the ancient Greek world.
 
 ## Text
 

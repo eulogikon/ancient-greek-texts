@@ -5,6 +5,7 @@ author: Menander of Athens
 eul_wid: hps-ab
 eul_aid: hps
 canonical: "https://eulogikon.org/works/menander-athens-longer-fragments-hps-ab"
+lang: grc
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Menander of Athens
 
 **eul_wid:** `hps-ab` · [HTML page](https://eulogikon.org/works/menander-athens-longer-fragments-hps-ab)
-
-The "Longer Fragments Preserved by Other Authors" constitutes a modern compilation of 264 substantial excerpts from the lost comedies of Menander of Athens, the foremost dramatist of New Comedy. These passages, composed in Attic Greek verse during the late fourth and early third centuries BCE, survive not as intact plays but through quotation by subsequent Greek and Roman authors who valued them for their moral sententiae, witty dialogue, or illustrative cultural detail. They offer indispensable glimpses into Menander's dramatic universe of romantic and domestic intrigue, where themes of love, familial conflict, social standing, and the caprices of fortune are explored with psychological nuance and comic grace.
-
-Preserved through an indirect tradition, the fragments were primarily extracted from later anthologies, such as the ethical collections of Stobaeus and the learned discourses of Athenaeus. Their survival in such contexts underscores Menander's posthumous reputation as a master of elegant Attic expression and a repository of practical, worldly wisdom. Modern scholarship regards these longer passages, which often contain extended dialogue and monologue, as critical for reconstructing the sophisticated plot structures and character development characteristic of Menander's art. They serve as a vital complement to the more extensive but often tattered papyrus texts recovered in the twentieth century. As a collection, these fragments remain a foundational resource for tracing the evolution of comic theater from its Athenian origins to its profound influence on Roman comedy and the broader Western dramatic tradition.
 
 ## Text
 

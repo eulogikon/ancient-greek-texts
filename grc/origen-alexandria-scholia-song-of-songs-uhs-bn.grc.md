@@ -5,6 +5,7 @@ author: Origen of Alexandria
 eul_wid: uhs-bn
 eul_aid: uhs
 canonical: "https://eulogikon.org/works/origen-alexandria-scholia-song-of-songs-uhs-bn"
+lang: grc
 period: Late Antique
 dialect: Christian Koine
 domain: Theology
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Origen of Alexandria
 
 **eul_wid:** `uhs-bn` · [HTML page](https://eulogikon.org/works/origen-alexandria-scholia-song-of-songs-uhs-bn)
-
-The Scholia on the Song of Songs is a fragmentary biblical commentary composed in Greek by the early Christian theologian Origen of Alexandria around 240 CE. It differs from his more extensive homilies and detailed treatise on the same biblical book by consisting of brief explanatory notes on select passages. Only a portion of the text survives, primarily as twenty-two excerpts preserved within later Byzantine compilations known as catenae, or "chains" of patristic commentary. Origen's interpretation is thoroughly allegorical, addressing the challenge the poetic and overtly sensual Song of Songs presented to early Christian readers. He reinterprets its literal love story as a profound spiritual narrative, arguing that the Bridegroom represents Christ and the Bride symbolizes either the Church or the individual soul yearning for mystical union with God. Scholars regard the Scholia as a concise or preliminary set of notes, possibly intended for students, that reflects the same interpretive method Origen developed more fully in his other works. Its fragmentary survival is characteristic of many of Origen's Greek writings; it was not copied independently over the centuries but was valued enough to be quoted and preserved by later editors, thereby securing its influence. Origen's allegorical reading of the Song of Songs established the dominant framework for understanding the text throughout medieval Christianity in both the Eastern and Western traditions.
 
 ## Text
 

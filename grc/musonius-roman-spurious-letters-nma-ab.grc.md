@@ -5,6 +5,7 @@ author: Musonius the Roman
 eul_wid: nma-ab
 eul_aid: nma
 canonical: "https://eulogikon.org/works/musonius-roman-spurious-letters-nma-ab"
+lang: grc
 period: Roman
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Musonius the Roman
 
 **eul_wid:** `nma-ab` · [HTML page](https://eulogikon.org/works/musonius-roman-spurious-letters-nma-ab)
-
-The Spurious Letters is a collection of ten short moral exhortations pseudepigraphically attributed to the Stoic philosopher Musonius Rufus. Preserved within the larger manuscript tradition of his works, these brief epistles address standard Stoic ethical themes such as the supremacy of virtue for happiness, the cultivation of endurance in adversity, the practical application of philosophy to daily conduct, and the importance of rational self-governance over passions and desires. Modern scholarship considers these letters inauthentic, distinguishing them from the genuine discourses of Musonius recorded by his student Lucius. The texts survive in Greek manuscripts alongside the philosopher's authentic works; the standard critical edition by Otto Hense relies primarily on Codex Vaticanus 2230 and Codex Parisinus 1642, where the spurious letters appear as a marked appendix. Although their direct influence is difficult to trace, the letters contributed to the dissemination of core Stoic ideas under the authority of Musonius's name. Their preservation offers a valuable case study for the phenomenon of pseudepigrapha within the broader historical reception of Roman Stoicism.
 
 ## Text
 

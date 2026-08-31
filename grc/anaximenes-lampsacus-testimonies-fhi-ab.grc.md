@@ -5,6 +5,7 @@ author: Anaximenes of Lampsacus
 eul_wid: fhi-ab
 eul_aid: fhi
 canonical: "https://eulogikon.org/works/anaximenes-lampsacus-testimonies-fhi-ab"
+lang: grc
 period: Classical
 dialect: Attic
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Anaximenes of Lampsacus
 
 **eul_wid:** `fhi-ab` · [HTML page](https://eulogikon.org/works/anaximenes-lampsacus-testimonies-fhi-ab)
-
-The Testimonies is a fragmentary historical work attributed to the fourth-century BCE Greek historian and rhetorician Anaximenes of Lampsacus. Surviving only in scattered references and quotations, it is not a continuous narrative but a scholarly compilation of thirty-three discrete passages. These excerpts are understood to be citations drawn from earlier historical works, assembled to function as authoritative evidence for use in rhetorical argumentation or historical inquiry. The original scope and organization of the collection remain obscure, but modern scholarship interprets it as a resource of historical exempla, reflecting the intellectual practices of an era in which the systematic collection and critique of sources were essential for orators and historians. Anaximenes, who authored major historical narratives and a rhetorical treatise, likely compiled this work for pedagogical or reference purposes. The text is considered lost as an independent manuscript, and knowledge of it depends entirely on later, fragmentary preservation by other authors.
 
 ## Text
 

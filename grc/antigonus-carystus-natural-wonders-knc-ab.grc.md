@@ -5,6 +5,7 @@ author: Antigonus of Carystus
 eul_wid: knc-ab
 eul_aid: knc
 canonical: "https://eulogikon.org/works/antigonus-carystus-natural-wonders-knc-ab"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: Biography
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Antigonus of Carystus
 
 **eul_wid:** `knc-ab` · [HTML page](https://eulogikon.org/works/antigonus-carystus-natural-wonders-knc-ab)
-
-The Fragments on Natural Wonders is a paradoxographical compilation attributed to Antigonus of Carystus, a Hellenistic author better known for his biographies and writings on art. The complete work is lost, surviving only in scattered excerpts preserved by later writers. These fragments document extraordinary natural phenomena, curious customs of distant peoples, and biological marvels, consistent with the Hellenistic genre of paradoxography, which sought to catalog wondrous facts about the world. The text is transmitted indirectly through quotations in later authors, including the Byzantine scholar Photius and various scholiasts. As an early example of this tradition, Antigonus’s collection contributed to the development of the genre and served as a source for later compilers, helping to perpetuate a catalog of natural marvels into Greco-Roman and later literary traditions.
 
 ## Text
 

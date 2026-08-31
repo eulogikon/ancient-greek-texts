@@ -5,6 +5,7 @@ author: Aristides the Orator
 eul_wid: qwm-bf
 eul_aid: qwm
 canonical: "https://eulogikon.org/works/aristides-orator-asclepius-qwm-bf"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristides the Orator
 
 **eul_wid:** `qwm-bf` · [HTML page](https://eulogikon.org/works/aristides-orator-asclepius-qwm-bf)
-
-The Speech to Asclepius is a sacred oration composed in Attic Greek around 170 CE by the orator Aelius Aristides. It functions as a prose hymn, offering direct praise and gratitude to the healing god Asclepius. The work artfully merges sophisticated rhetorical technique with personal religious testimony, deeply informed by Aristides' own prolonged experiences as a devotee and patient at the god's sanctuary in Pergamum. There, he received divine medical prescriptions through dreams, a practice central to the cult. Structurally, the text is a polished literary composition organized into five distinct passages.
-
-Created during the cultural movement known as the Second Sophistic, which revived and celebrated classical Greek rhetoric, the speech is interpreted by scholars as a public declaration of piety. It was likely intended for delivery at a religious festival. Its purposes were multifaceted: to glorify Asclepius, to authenticate and publicize Aristides' uniquely privileged relationship with the deity, and thereby to bolster the author's own reputation as a devout and eloquent intellectual. The complete text has been preserved reliably through medieval Byzantine manuscripts and is conventionally cataloged as Oration 42 in modern editions of Aristides' works.
 
 ## Text
 

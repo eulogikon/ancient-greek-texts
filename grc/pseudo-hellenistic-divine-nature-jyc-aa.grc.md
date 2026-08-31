@@ -1,10 +1,11 @@
 ---
 title: Fragments on the Divine Nature
 title_greek: Ἀποσπάσματα περὶ Θείας Φύσεως
-author: "Pseudo-Hellenistic Authors "
+author: Pseudo-Hellenistic Authors
 eul_wid: jyc-aa
 eul_aid: jyc
 canonical: "https://eulogikon.org/works/pseudo-hellenistic-divine-nature-jyc-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine (frg)
 domain: Philosophy
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀποσπάσματα περὶ Θείας Φύσεως*
 
-**Author:** Pseudo-Hellenistic Authors 
+**Author:** Pseudo-Hellenistic Authors
 
 **eul_wid:** `jyc-aa` · [HTML page](https://eulogikon.org/works/pseudo-hellenistic-divine-nature-jyc-aa)
-
-The Fragments on the Divine Nature is a modern scholarly designation for a collection of excerpts concerning theological philosophy, compiled from various ancient Greek sources rather than constituting an independent, attested treatise. The compilation, as suggested by its title and the nature of its contents, is a thematic anthology that draws upon a range of philosophical traditions to address the essence and attributes of the divine. Such a collection would logically gather passages exploring core Hellenistic concepts, including the perfection and immutability of the divine, the relationship between divinity and the cosmos through ideas of providence and transcendence, the nature of a supreme First Cause, and the role of divine intellect. The transmission of these fragments depends entirely on the preservation of their original source texts within the broader manuscript tradition, with any hypothetical anthology likely being a product of later Byzantine scholarship or modern editorial reconstruction. The significance of the compilation is therefore indirect, derived from the authority of the authors it excerpts, such as Plato, Aristotle, or Stoic thinkers. It serves primarily as a doxographic resource, useful for tracing the development of pagan philosophical theology and its potential points of contact with subsequent Christian thought.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Alchemist I
 eul_wid: rrg-cm
 eul_aid: rrg
 canonical: "https://eulogikon.org/works/alchemist-i-ash-making-rrg-cm"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alchemist I
 
 **eul_wid:** `rrg-cm` · [HTML page](https://eulogikon.org/works/alchemist-i-ash-making-rrg-cm)
-
-The Making of Ash is a brief Greek alchemical treatise attributed to the pseudonymous author Alchemist I. The text comprises two procedural passages detailing technical operations. The term staktē in this context can denote a pomade, a metallic residue, or ash, indicating the work is a technical recipe focused on transforming a material into ash, a common process of calcination or purification. The described procedures involve the use of perforated vessels, water, and various plant and mineral substances to produce a sharp and potent material, with further instructions for applications such as dyeing crystals. The treatise is preserved within the medieval manuscript tradition of Greek alchemical texts, primarily in anthologies such as Marcianus graecus 299 from the 10th or 11th century CE. As part of the Greco-Egyptian alchemical corpus, its influence is embedded in the broader transmission of this technical literature. These texts, preserved in Byzantine, Arabic, and Latin traditions, contributed foundational knowledge to later alchemy, chemistry, and craft techniques.
 
 ## Text
 

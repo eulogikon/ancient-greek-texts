@@ -5,6 +5,7 @@ author: Scylax of Caryanda
 eul_wid: bhw-ab
 eul_aid: bhw
 canonical: "https://eulogikon.org/works/scylax-caryanda-testimonies-bhw-ab"
+lang: grc
 period: Archaic
 dialect: Ionic
 domain: Geography
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Scylax of Caryanda
 
 **eul_wid:** `bhw-ab` · [HTML page](https://eulogikon.org/works/scylax-caryanda-testimonies-bhw-ab)
-
-The Testimonies is a lost geographical work by Scylax of Caryanda, a Greek explorer who wrote in the Ionic dialect around 515 BCE. Commissioned by the Persian king Darius I, the work was based on a pioneering exploratory voyage from the Indus River westward to the Red Sea. It functioned as a periplus, or coastal sailing guide, blending descriptive geography with ethnography by detailing the lands, customs, and natural phenomena of the peoples encountered along the shores of South Asia and the Arabian Peninsula. The original text does not survive, and modern knowledge of it derives entirely from eight fragmentary passages preserved in the works of later authors such as Herodotus, Aristotle, and the Byzantine encyclopedia known as the Suda. These fragments cover subjects including Indian societies and the island of Taprobane, known today as Sri Lanka. Scholars interpret the work as an official Persian reconnaissance report that later circulated within the Greek world, where it served as a foundational source for early Greek conceptions of the Indian Ocean region. It is important to distinguish this lost work of Scylax of Caryanda from the later, extant text known as the Periplus of Pseudo-Scylax, which describes the Mediterranean Sea.
 
 ## Text
 

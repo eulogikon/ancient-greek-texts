@@ -5,6 +5,7 @@ author: Menophilus the Poet
 eul_wid: gao-aa
 eul_aid: gao
 canonical: "https://eulogikon.org/works/menophilus-divine-vision-gao-aa"
+lang: grc
 period: Classical
 dialect: Koine (frg)
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Menophilus the Poet
 
 **eul_wid:** `gao-aa` · [HTML page](https://eulogikon.org/works/menophilus-divine-vision-gao-aa)
-
-Fragments on Divine Vision is a verse work attributed to Menophilus the Poet, reportedly consisting of sixteen passages. No corroborating evidence for the work, its author, or its attribution exists within the standard corpus of ancient Greek literature or scholarly reference works. The title suggests a poetic treatment of divine revelation or epiphany, a theme supported by the content of the extant fragments, which describe a profound, overwhelming visual experience that surpasses all earthly and even Olympian wonders. The narrator recounts a journey across Europe, Libya, and all of Asia, witnessing countless marvels, yet asserts that he never beheld such a radiance, a powerful and indescribable apparition that seized his mind. The experience is portrayed as physically and psychologically transformative, causing his limbs to dissolve and his past sufferings to fall away. The fragments culminate in a vision of a radiant figure, adorned with ever-blooming tresses, emerging from blessed waters and compared to the Graces. Despite this evocative content, the work's manuscript tradition, the sources of the fragments, and their thematic coherence remain entirely undocumented. While the name Menophilus is attested for other historical and grammatical figures, no known source connects it to this poetic composition. Its complete absence from the historical record precludes any substantive assessment of its literary or philosophical significance.
 
 ## Text
 

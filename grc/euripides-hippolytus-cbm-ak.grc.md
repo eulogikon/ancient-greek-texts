@@ -5,6 +5,7 @@ author: Euripides
 eul_wid: cbm-ak
 eul_aid: cbm
 canonical: "https://eulogikon.org/works/euripides-hippolytus-cbm-ak"
+lang: grc
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Euripides
 
 **eul_wid:** `cbm-ak` · [HTML page](https://eulogikon.org/works/euripides-hippolytus-cbm-ak)
-
-Hippolytus is a tragedy by the ancient Greek playwright Euripides, first performed in Athens in 428 BCE. The play dramatizes the fatal consequences of Phaedra's illicit passion for her chaste stepson, Hippolytus, a conflict engineered by the goddess Aphrodite. Insulted by the young man's exclusive devotion to Artemis, goddess of the hunt, Aphrodite punishes him by inflaming his stepmother's desire. After Phaedra's nurse reveals the secret to Hippolytus, his horrified and furious rejection drives Phaedra to hang herself. She leaves a false note accusing him of rape, which her husband, Theseus, believes. Invoking a fatal curse from his father Poseidon, Theseus causes his son's death when a sea monster frightens the youth's horses, leading to a catastrophic chariot crash. The goddess Artemis appears at the end to reveal the truth and establish future cultic honors for Hippolytus.
-
-This surviving play is Euripides' second treatment of the myth; an earlier, now lost version was poorly received for its perceived indecency. The revised Hippolytus presents a more psychologically complex Phaedra, who struggles nobly against her passion, thereby earning greater sympathy. The work is a profound exploration of divine vengeance, the destructive potential of slander, and the dangers inherent in extreme devotion, whether to chastity or to eros. Its complete text of 1,385 lines was preserved through its inclusion in a select group of Euripides' plays used for Byzantine education. The tragedy has exerted a lasting influence on Western literature, serving as the direct source for later adaptations such as Seneca's Phaedra and Jean Racine's Phèdre.
 
 ## Text
 

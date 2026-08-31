@@ -5,6 +5,7 @@ author: Sosthenes of Cnidus
 eul_wid: gfy-aa
 eul_aid: gfy
 canonical: "https://eulogikon.org/works/sosthenes-cnidus-iberian-myths-gfy-aa"
+lang: grc
 period: Classical
 dialect: Attic
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Sosthenes of Cnidus
 
 **eul_wid:** `gfy-aa` · [HTML page](https://eulogikon.org/works/sosthenes-cnidus-iberian-myths-gfy-aa)
-
-The Fragments on Iberian Myths by Sosthenes of Cnidus is a lost mythographical work from the Hellenistic or Roman period, surviving only through citations by later Byzantine scholars. It compiled mythological traditions associated with the western Mediterranean, with a particular focus on the Iberian Peninsula. The extant fragments preserve variant accounts of western myths. One, recorded by the ninth-century scholar Photius, mentions Sosthenes’ reference to a female-ruled people called the Hesperians, located near the Atlas Mountains. Another, quoted by the twelfth-century writer John Tzetzes, presents an alternative version of the myth of Geryon, in which the sun god Helios, rather than the hero Heracles, steals the famous cattle and subsequently gives them to his son Aeëtes. The work survives exclusively through these later excerpts, with no independent manuscript tradition. These fragments are significant as evidence for alternative mythological traditions that circulated in antiquity, and they exemplify the Hellenistic scholarly practice of collecting, comparing, and sometimes rationalizing foreign lore. They serve as a minor but valuable source for understanding Greek perceptions of and intellectual engagement with the legendary history of the Iberian world.
 
 ## Text
 

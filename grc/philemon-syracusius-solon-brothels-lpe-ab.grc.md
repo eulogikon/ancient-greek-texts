@@ -5,6 +5,7 @@ author: Philemon Syracusius
 eul_wid: lpe-ab
 eul_aid: lpe
 canonical: "https://eulogikon.org/works/philemon-syracusius-solon-brothels-lpe-ab"
+lang: grc
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philemon Syracusius
 
 **eul_wid:** `lpe-ab` · [HTML page](https://eulogikon.org/works/philemon-syracusius-solon-brothels-lpe-ab)
-
-On Solon's Public Brothels is a comedic work attributed to Philemon of Syracuse, a prominent poet of New Comedy active during the late fourth and early third centuries BCE. The title refers to a humorous treatment of the Athenian lawgiver Solon, based on the anecdotal tradition that he established state-regulated brothels in Athens. The work appears to be a collection of 566 passages or fragments on this theme rather than a single, coherent play. These fragments likely combine political satire, mocking a revered historical figure, with social commentary on law, politics, and sexual mores, offering a comic exploration of a pseudo-historical anecdote. The work is not listed among Philemon's known plays, and its title suggests it may be a later compilation of excerpts attributed to him. It survives only as a lost work, referenced indirectly through later sources. While the specific influence of this compilation is untraceable, Philemon himself was a major and popular comic poet. The work represents an early literary source for the persistent anecdote concerning Solon's brothels, which was later cited by authors such as Athenaeus.
 
 ## Text
 

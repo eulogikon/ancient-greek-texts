@@ -5,6 +5,7 @@ author: Sannyrion the Comic Poet
 eul_wid: fly-ab
 eul_aid: fly
 canonical: "https://eulogikon.org/works/sannyrion-comic-fragments-fly-ab"
+lang: grc
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Sannyrion the Comic Poet
 
 **eul_wid:** `fly-ab` · [HTML page](https://eulogikon.org/works/sannyrion-comic-fragments-fly-ab)
-
-The Comic Fragments on Gods and Mortals is a modern assemblage of the surviving excerpts from the lost comedies of the Athenian poet Sannyrion, a contemporary of Aristophanes active during the late 5th century BCE. These nine fragments, preserved in the Attic Greek dialect and the verse of comic dialogue, constitute the entire extant corpus of his work. They were transmitted not as continuous texts but as quotations in the works of later ancient authors, primarily the lexicographer Athenaeus and the grammarian Pollux, who cited them for their linguistic peculiarities or humorous content. The fragments exemplify the conventions of Old Comedy, featuring satire of contemporary figures like the poet Cinesias, scatological and bodily humor, and irreverent portrayals of both divine and human characters. Originally composed for performance at Athenian civic festivals during the Peloponnesian War, these pieces provide scholars with critical evidence for the scope and variety of Attic Old Comedy beyond its few complete surviving plays, illuminating the genre's competitive dynamics and its engagement with contemporary society, literature, and myth.
 
 ## Text
 

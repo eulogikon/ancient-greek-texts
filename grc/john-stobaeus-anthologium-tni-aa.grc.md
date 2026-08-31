@@ -5,6 +5,7 @@ author: John Stobaeus of Stobi
 eul_wid: tni-aa
 eul_aid: tni
 canonical: "https://eulogikon.org/works/john-stobaeus-anthologium-tni-aa"
+lang: grc
 period: Late Antique
 dialect: Literary Koine
 domain: Philosophy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** John Stobaeus of Stobi
 
 **eul_wid:** `tni-aa` · [HTML page](https://eulogikon.org/works/john-stobaeus-anthologium-tni-aa)
-
-The Anthologium, also known as the Eclogae or Selections, is a monumental compendium of Greek literature compiled by John of Stobi, commonly called Stobaeus, in the late fifth century CE. A Macedonian from the city of Stobi, Stobaeus created this systematically organized collection of excerpts as an educational handbook, likely for his son Septimius, to provide a comprehensive moral and philosophical education through the authoritative words of ancient authors. The work functions both as a doxography, presenting multiple viewpoints on standard topics, and as a florilegium, gathering exemplary passages from the past, reflecting the late antique scholarly culture dedicated to summarizing and transmitting classical knowledge.
-
-The anthology is divided into four books, each subdivided into thematic chapters. Book One addresses physics and theology, Book Two covers logic, ethics, and the virtues and vices, Book Three treats household and public affairs, and Book Four provides a more detailed examination of ethics and politics, including a famous collection of moral maxims. The total number of excerpts runs into the thousands, drawn from a vast array of earlier poets, historians, orators, philosophers, and physicians. The predominant themes are practical ethical instruction, natural philosophy and cosmology, the management of household and political life, and the preservation of gnomic wisdom.
-
-The transmission of the Anthologium is complex. During the Byzantine period, the original four books were separated into two distinct volumes: the Eclogae, comprising Books One and Two, and the Florilegium, comprising Books Three and Four. Many manuscripts contain only one of these volumes or further abridged selections. The work preserves an immense quantity of otherwise lost literature, particularly from early Greek poets and pre-Socratic philosophers, making it an invaluable source for textual fragments. Its influence was fundamental throughout the Byzantine Middle Ages and into the Renaissance, serving as a primary conduit for knowledge of classical authors. Later anthologists and compilers relied heavily on its contents, and it remains an indispensable resource for modern scholars studying the history of Greek philosophy, literature, and the transmission of texts. The standard modern critical edition is by Curt Wachsmuth and Otto Hense.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Aëtius of Amida
 eul_wid: vhc-aa
 eul_aid: vhc
 canonical: "https://eulogikon.org/works/aetius-amida-medical-book-viii-vhc-aa"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aëtius of Amida
 
 **eul_wid:** `vhc-aa` · [HTML page](https://eulogikon.org/works/aetius-amida-medical-book-viii-vhc-aa)
-
-Medical Book VIII constitutes the eighth volume of the Tetrabiblos, a sixteen-book medical compendium authored in Greek by Aëtius of Amida during the sixth century CE. Aëtius, who served as a court physician in Constantinople under Emperor Justinian I, compiled this work as a comprehensive practical guide. It systematically addresses ailments and therapeutic interventions for the head and face, organizing its content into a detailed table of contents that lists treatments for cosmetic and dermatological concerns. These include preparations for eyebrow grooming, remedies for dark circles under the eyes, facial cleansers and unguents, treatments to prevent wrinkles, and solutions for skin discolorations. Further chapters are devoted to facial washes, full-body poultices, and internal drinks for improving skin tone. The book also covers specific conditions such as facial moles, freckles, sycosis-like swellings, and acne, alongside detailed treatments for disorders of the lips, gums, and teeth, including inflammation, bleeding, decay, and gum disease.
-
-The work is fundamentally a synthesis, in which Aëtius meticulously excerpts and organizes knowledge from earlier Greek and Roman medical authorities, including Galen, Rufus of Ephesus, and Dioscorides. Modern scholarship values it as a vital repository of ancient medical thought, preserving numerous fragments from authors whose original texts are otherwise lost. It exemplifies the clinical orientation of early Byzantine medicine, effectively blending theoretical humoral principles with empirical, recipe-based treatments. The text also occasionally reflects the syncretic culture of its era, intertwining traditional medical lore with allusions to contemporary Christian practices.
-
-The complete encyclopedia survives intact in numerous Greek manuscripts, attesting to its enduring utility. Its translation into Latin, Arabic, and Syriac facilitated its significant influence on both medieval Islamic medicine and Renaissance European medical thought. Consequently, it remains an indispensable source for understanding the practice, compilation, and transmission of ancient medical science.
 
 ## Text
 

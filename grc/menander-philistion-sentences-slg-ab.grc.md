@@ -1,10 +1,11 @@
 ---
 title: Sentences of Menander and Philistion
 title_greek: Γνῶμαι Μενάνδρου καὶ Φιλίστιωνος
-author: "Menander and Philistion Comparison "
+author: Menander and Philistion Comparison
 eul_wid: slg-ab
 eul_aid: slg
 canonical: "https://eulogikon.org/works/menander-philistion-sentences-slg-ab"
+lang: grc
 period: Late Antique
 dialect: Mixed Dialects
 domain: Philosophy
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Γνῶμαι Μενάνδρου καὶ Φιλίστιωνος*
 
-**Author:** Menander and Philistion Comparison 
+**Author:** Menander and Philistion Comparison
 
 **eul_wid:** `slg-ab` · [HTML page](https://eulogikon.org/works/menander-philistion-sentences-slg-ab)
-
-The Sentences of Menander and Philistion is a brief collection of moral maxims attributed to the comic poets Menander and Philistion of Syracuse, both authors of Middle Comedy in the 4th century BCE. As a compilation of sententiae, it belongs to the gnomic tradition, where pithy statements were assembled for pedagogical use. The extant work consists of only three prose passages. The maxims reflect common themes from New Comedy, including practical wisdom and observations on human nature, ethical advice concerning friendship, wealth, and social life, and humorous or ironic commentary on social conventions. The collection is not attested as a major independent work. Menander's maxims were widely disseminated through anthologies like Stobaeus' 5th-century CE compilation, but this specific joint compilation appears fragmentary, possibly surviving only as an excerpt within another text. While the direct influence of this specific collection is not recorded, it exemplifies the Hellenistic practice of excerpting comic poetry for moral instruction. Menander's sententious wisdom was profoundly influential, quoted by authors from Plutarch to Paul the Apostle, and used as school texts for centuries.
 
 ## Text
 

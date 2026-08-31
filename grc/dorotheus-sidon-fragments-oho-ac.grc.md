@@ -5,6 +5,7 @@ author: Dorotheus of Sidon
 eul_wid: oho-ac
 eul_aid: oho
 canonical: "https://eulogikon.org/works/dorotheus-sidon-fragments-oho-ac"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Dorotheus of Sidon
 
 **eul_wid:** `oho-ac` · [HTML page](https://eulogikon.org/works/dorotheus-sidon-fragments-oho-ac)
-
-The Greek Fragments is the modern designation for the surviving portions of an astrological poem originally known as the Pentabiblos or Carmen Astrologicum. Composed in the 1st century CE by Dorotheus of Sidon, a practicing astrologer in the eastern Roman Empire, the work was a comprehensive manual written in Greek hexameter verse. Its original five books covered the principal branches of Hellenistic astrology, including the casting of natal charts, the selection of auspicious moments, and the answering of specific queries. The poem systematically details the influence of planets, zodiac signs, and their complex interrelationships on human destiny, encompassing matters of character, profession, marriage, wealth, and mortality.
-
-The complete Greek text has been lost. The extant work consists of approximately 104 fragmentary passages, most of which are preserved as quotations within the writings of the later astrologer Vettius Valens. A significant portion of the poem's content is also known through a 9th-century Arabic prose translation, which was subsequently rendered into Persian. Modern reconstructions of the work therefore rely on a synthesis of these Greek fragments with retro-translations from the Arabic and Persian versions. Originally conceived as a practical and mnemonic handbook for astrologers, the poem systematized a synthesis of Babylonian, Egyptian, and Greek celestial traditions. Through its Arabic translation, Dorotheus's work became a foundational text for medieval Islamic astrology and later exerted a considerable influence on the development of astrological practice in Europe, valued particularly for its detailed technical methodologies.
 
 ## Text
 

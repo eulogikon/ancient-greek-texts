@@ -5,6 +5,7 @@ author: Pseudo-Galen
 eul_wid: tqu-ay
 eul_aid: tqu
 canonical: "https://eulogikon.org/works/pseudo-galen-urine-tqu-ay"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Pseudo-Galen
 
 **eul_wid:** `tqu-ay` · [HTML page](https://eulogikon.org/works/pseudo-galen-urine-tqu-ay)
-
-On Urine is an ancient Greek medical treatise on uroscopy, the diagnostic examination of a patient's urine. While some manuscript traditions ascribe the work to the physician Galen, it is now considered an anonymous and spurious composition, likely dating from the late antique or early Byzantine period between the 4th and 7th centuries CE. The text is a concise, practical manual comprising 28 short chapters. It systematically catalogs the colors, consistencies, and sediments observable in urine, interpreting each characteristic through the lens of classical humoral theory as indicative of specific diseases and prognoses. Framed as a sign of internal balances or imbalances among the bodily fluids, the appearance of urine is presented as a direct guide to diagnosis. The treatise represents a simplified, systematic compilation from the later ancient world, designed for use by practicing physicians and students. Its survival is attested by a large number of Greek manuscripts, where it was frequently transmitted alongside other medical works. The false attribution to Galen contributed significantly to its wide circulation and enduring authority. The work proved highly influential beyond the Greek-speaking world, being translated into Syriac, Arabic, and Latin, and it remained a standard reference for uroscopic diagnosis throughout the Byzantine and medieval periods.
 
 ## Text
 

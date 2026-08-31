@@ -5,6 +5,7 @@ author: Themistius the Philosopher
 eul_wid: rye-bc
 eul_aid: rye
 canonical: "https://eulogikon.org/works/themistius-erotic-beauty-rye-bc"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Themistius the Philosopher
 
 **eul_wid:** `rye-bc` · [HTML page](https://eulogikon.org/works/themistius-erotic-beauty-rye-bc)
-
-The Erotic or Royal Beauty is a panegyric oration by the fourth-century philosopher and statesman Themistius. Composed in Attic Greek and delivered before Emperor Constantius II in Constantinople around 355–357 CE, the work artfully merges imperial encomium with Platonic doctrine. Themistius constructs his argument upon the concept of eros, or love, as explored in Plato's Symposium, to propose that supreme beauty is not corporeal but ethical. This ideal beauty, he contends, resides in the soul of a virtuous ruler and is expressed through the exercise of justice, wisdom, and other kingly virtues. The oration presents the emperor himself as the proper object of philosophical desire, an embodiment of the "living law" whose virtuous governance ensures the harmony and security of the state. Preserved in medieval manuscripts of Themistius's orations, the work stands as a significant artifact of late antique political rhetoric. It functions simultaneously as a vehicle for advising the emperor on the principles of philosophical kingship and as a means of consolidating Themistius's own position as a cultural intermediary between the imperial court and the traditional Greco-Roman educated elite. The oration exemplifies the enduring adaptation of classical Hellenic philosophy to articulate and legitimize imperial authority within the Christian Roman Empire.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Nicomachus of Gerasa
 eul_wid: owy-aa
 eul_aid: owy
 canonical: "https://eulogikon.org/works/nicomachus-gerasa-arithmetic-introduction-owy-aa"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Mathematics
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Nicomachus of Gerasa
 
 **eul_wid:** `owy-aa` · [HTML page](https://eulogikon.org/works/nicomachus-gerasa-arithmetic-introduction-owy-aa)
-
-The Arithmetic Introduction is a foundational mathematical treatise written in Greek by the Neopythagorean philosopher Nicomachus of Gerasa around 100 CE. It is not a practical manual for calculation but rather a philosophical exploration of number theory, conceived as a preparatory text for the study of Platonic philosophy. The work is systematically organized into three books. It covers the classification of numbers into categories such as even, odd, prime, and perfect; the theory of ratios and proportions; and the properties of figurate numbers, including triangular and square numbers. It concludes by applying these arithmetical principles to music and cosmology, reflecting the core Pythagorean belief in a universe ordered by mathematical harmony. The complete text survives through a robust Greek manuscript tradition. It served as the standard textbook on the subject for centuries, and its influence was profoundly extended by translations, most notably Boethius's Latin adaptation, De institutione arithmetica, which established it as a core component of the medieval educational curriculum known as the quadrivium. Modern scholarship regards the treatise as the definitive synthesis of Pythagorean arithmetic and a crucial conduit of philosophical mathematics from antiquity into the learning of medieval Europe.
 
 ## Text
 

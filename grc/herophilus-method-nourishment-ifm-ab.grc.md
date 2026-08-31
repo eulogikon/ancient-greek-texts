@@ -5,6 +5,7 @@ author: Herophilus the Anatomist
 eul_wid: ifm-ab
 eul_aid: ifm
 canonical: "https://eulogikon.org/works/herophilus-method-nourishment-ifm-ab"
+lang: grc
 period: Hellenistic
 dialect: Koine (frg)
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Herophilus the Anatomist
 
 **eul_wid:** `ifm-ab` · [HTML page](https://eulogikon.org/works/herophilus-method-nourishment-ifm-ab)
-
-On the Method of Nourishment is a lost medical treatise by the Hellenistic physician Herophilus of Alexandria, who practiced in the early third century BCE. Known only from its title in later catalogs, the work is presumed to have been a systematic discourse on dietetics, addressing the principles of nutrition, digestion, and the therapeutic use of food within a daily regimen. While no direct fragments survive, some later sources describe it as an oration comprising sixty sections, though this detail remains unverified. The treatise is understood by modern scholars as an application of Herophilus’s pioneering anatomical and physiological theories, derived from his practice of human dissection, to the practical domain of clinical dietetics. Written for a professional medical audience, it would have engaged with central Hellenistic medical concerns regarding the digestive process and the maintenance of bodily equilibrium through regimen. Like all of Herophilus’s writings, the text is lost and survives only through secondary references in later medical authors such as Galen and Celsus, indicating its indirect influence on subsequent medical thought.
 
 ## Text
 

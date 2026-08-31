@@ -1,10 +1,11 @@
 ---
 title: Testimonies
 title_greek: Μαρτυρίαι
-author: "Damon of Athens "
+author: Damon of Athens
 eul_wid: eni-aa
 eul_aid: eni
 canonical: "https://eulogikon.org/works/damon-athens-testimonies-eni-aa"
+lang: grc
 period: Classical
 dialect: Attic (frg)
 domain: Science
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Μαρτυρίαι*
 
-**Author:** Damon of Athens 
+**Author:** Damon of Athens
 
 **eul_wid:** `eni-aa` · [HTML page](https://eulogikon.org/works/damon-athens-testimonies-eni-aa)
-
-The Testimonies is a modern scholarly compilation of fragmentary passages that preserve the ideas of Damon of Athens, a 5th-century BCE sophist and music theorist. As no treatise by Damon survives, his work is known exclusively through quotations and reports in later authors such as Plato, Aristides Quintilianus, and Athenaeus. The collected fragments center on his foundational doctrine that musical styles and rhythms possess an inherent ēthos, a power to directly shape the character of the soul and, by extension, influence the stability of the political state. A famous testimony, recorded by Plato, cautions that altering established musical modes risks undermining the fundamental laws of a city. The structure of the work is not original but a reconstruction from disparate sources. Damon served as an advisor to Pericles, and his theories arose from the sophistic movement's focus on education and statecraft. Scholars interpret the Testimonies as representing a crucial link between traditional Greek beliefs regarding music's moral power and a more systematic, psychological analysis. Damon argued that the state must actively regulate musical education to cultivate virtuous citizens. His ideas exerted a profound influence on Plato’s political philosophy and on the subsequent development of musical theory in antiquity.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Apollodorus of Carystus I
 eul_wid: iie-ab
 eul_aid: iie
 canonical: "https://eulogikon.org/works/apollodorus-carystus-life-pleasure-iie-ab"
+lang: grc
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Apollodorus of Carystus I
 
 **eul_wid:** `iie-ab` · [HTML page](https://eulogikon.org/works/apollodorus-carystus-life-pleasure-iie-ab)
-
-The Fragments on Life and Pleasure is a modern thematic collection of passages attributed to the New Comedy playwright Apollodorus of Carystus. This compilation, comprising forty-two excerpts, does not originate from a single work but gathers surviving lines from his lost comedies, preserved through quotation by later authors. The title is a descriptive modern label for fragments that address the genre's central concerns of daily life and hedonistic pleasure. The content of these fragments is consistent with the conventions of New Comedy, exploring romantic and familial complications, social morality, domestic life, and the pursuit and consequences of pleasure. They feature standard character types such as the cunning slave and the lovesick youth, and they frequently examine the role of fortune in human affairs.
-
-Apollodorus's works survive only in this fragmentary state, cited by later grammarians and anthologists, most notably Athenaeus of Naucratis in his Deipnosophistae. These fragments are collected in modern scholarly editions such as Poetae Comici Graeci; no papyri or medieval manuscripts preserving his complete plays are known. Despite the fragmentary transmission, Apollodorus was a significant figure in the development of New Comedy and exerted a direct influence on Roman drama. The Roman playwright Terence adapted two of his plays, Hecyra and Phormio, thereby channeling Apollodorus's plots and themes into the Western comic tradition and helping to disseminate the Hellenistic focus on private life and character psychology.
 
 ## Text
 

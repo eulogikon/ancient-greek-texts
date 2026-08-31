@@ -5,6 +5,7 @@ author: Scylax of Caryanda
 eul_wid: bhw-ac
 eul_aid: bhw
 canonical: "https://eulogikon.org/works/scylax-caryanda-geographical-botanical-bhw-ac"
+lang: grc
 period: Archaic
 dialect: Ionic
 domain: Geography
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Scylax of Caryanda
 
 **eul_wid:** `bhw-ac` · [HTML page](https://eulogikon.org/works/scylax-caryanda-geographical-botanical-bhw-ac)
-
-The Geographical and Botanical Fragments represent the surviving remnants of a lost work by Scylax of Caryanda, an early Greek explorer and writer. His original text was a periplous, a detailed report of a coastal voyage. According to the historian Herodotus, Scylax was commissioned by the Persian king Darius I around 515 BCE to explore the course of the Indus River and the sea route westward from its mouth. His resulting account was a pioneering document in Greek literature, synthesizing geographical description with observations on foreign peoples and exotic flora.
-
-The original work is no longer extant. What remains are fragments preserved as quotations by later authors, most notably Athenaeus. These passages include Scylax's notes on specific plants, such as the kynara (a type of thistle) and the valuable silphium. A much longer, anonymous geographical text known as the Periplus of Scylax also circulated under his name in antiquity, but modern scholarship identifies this as a later compilation from the 4th century BCE or later, not the explorer's original report. The genuine fragments, though scant, confirm that Scylax's firsthand account served as a crucial early source for Greek knowledge of distant lands and their natural resources.
 
 ## Text
 

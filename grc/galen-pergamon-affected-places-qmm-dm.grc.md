@@ -5,6 +5,7 @@ author: Galen of Pergamon
 eul_wid: qmm-dm
 eul_aid: qmm
 canonical: "https://eulogikon.org/works/galen-pergamon-affected-places-qmm-dm"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Galen of Pergamon
 
 **eul_wid:** `qmm-dm` · [HTML page](https://eulogikon.org/works/galen-pergamon-affected-places-qmm-dm)
-
-On Affected Places is a major medical treatise by the physician Galen of Pergamon, composed in Greek during the late 2nd century CE. The work systematically establishes a method for diagnosing illness by identifying the specific organ or body part that is diseased. It is divided into six books, which proceed methodically from general diagnostic principles down through the body, covering affections of the head, thorax, abdomen, and finally the bladder and genitals. Galen meticulously correlates external symptoms, such as pain, fever, or changes in pulse, with the internal dysfunction of particular organs, arguing that effective treatment depends on accurately locating the seat of pathology.
-
-Written during Galen's mature career in Rome, where he served as a physician to the imperial court, the treatise represents a foundational text of rational, anatomy-based diagnosis. It was composed largely to counter rival medical schools that Galen believed neglected the underlying physical causes of disease. Intended for advanced students and practicing physicians, the work synthesizes Galen's extensive anatomical knowledge, derived primarily from animal dissections, with his considerable clinical experience. The complete Greek text survives through medieval manuscripts, and its influence was secured by translations into Arabic in the 9th century and later into Latin. For over a millennium, it remained a cornerstone of medical education in both the Islamic world and medieval Europe.
 
 ## Text
 

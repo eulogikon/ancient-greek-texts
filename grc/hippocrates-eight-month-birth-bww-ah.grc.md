@@ -5,6 +5,7 @@ author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-ah
 eul_aid: bww
 canonical: "https://eulogikon.org/works/hippocrates-eight-month-birth-bww-ah"
+lang: grc
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hippocrates and the Hippocratic Corpus
 
 **eul_wid:** `bww-ah` · [HTML page](https://eulogikon.org/works/hippocrates-eight-month-birth-bww-ah)
-
-On the Eight-Month Birth is a concise medical treatise from the Hippocratic Corpus, the collection of ancient Greek medical works associated with Hippocrates. Composed in Ionic Greek during the fifth or fourth century BCE, this specialized text directly confronts a prevalent belief of its era. It systematically refutes the common opinion that infants born in the eighth month of pregnancy cannot survive, whereas those born in the seventh or ninth months can. The treatise is structured as a series of four brief, polemical arguments. The author employs logical reasoning and appeals to empirical observation to dismantle this popular notion, seeking to establish a more rational foundation for medical doctrine. This effort exemplifies the broader Hippocratic project of distinguishing professional medical knowledge from superstition and folk belief, and it was likely intended for an audience of fellow practitioners or students. The complete text has been preserved through the medieval manuscript tradition of the Hippocratic Corpus. While its direct authorship by the historical Hippocrates remains uncertain, it is regarded as an authentic component of the collection. Modern scholarship values the treatise as a significant document, providing insight into ancient debates concerning embryology, gynecology, and the complex process of establishing medical authority in classical Greece.
 
 ## Text
 

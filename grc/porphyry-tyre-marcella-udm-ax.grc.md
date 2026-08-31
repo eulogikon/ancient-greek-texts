@@ -5,6 +5,7 @@ author: Porphyry of Tyre
 eul_wid: udm-ax
 eul_aid: udm
 canonical: "https://eulogikon.org/works/porphyry-tyre-marcella-udm-ax"
+lang: grc
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Porphyry of Tyre
 
 **eul_wid:** `udm-ax` · [HTML page](https://eulogikon.org/works/porphyry-tyre-marcella-udm-ax)
-
-To Marcella is a philosophical treatise written in Greek by the Neoplatonist philosopher Porphyry of Tyre around 300 CE. Composed as a letter to his wife, Marcella, as he prepared for a journey, the work functions as a guide for living a virtuous life in his absence. It is organized into thirty-five concise chapters of ethical advice and maxims. Rather than developing a systematic argument, Porphyry assembles wisdom drawn from earlier traditions, including Pythagorean, Platonic, and Stoic thought, alongside poetic sources, to exhort Marcella toward piety, self-control, and the pursuit of wisdom. The complete text survives primarily through medieval manuscripts, the oldest of which dates from the fourteenth or fifteenth century. Modern scholarship interprets the treatise as a practical manual of Neoplatonic ethics, reflecting the period's focus on the soul's ascent through virtue. It is considered an effort to render philosophical spirituality accessible within a domestic context. This personal work is often viewed in contrast to Porphyry's more technical or polemical writings, underscoring his endeavor to present philosophy as a comprehensive way of life.
 
 ## Text
 

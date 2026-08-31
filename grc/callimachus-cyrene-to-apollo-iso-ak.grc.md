@@ -5,6 +5,7 @@ author: Callimachus of Cyrene the Poet and Scholar
 eul_wid: iso-ak
 eul_aid: iso
 canonical: "https://eulogikon.org/works/callimachus-cyrene-to-apollo-iso-ak"
+lang: grc
 period: Hellenistic
 dialect: Literary Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Callimachus of Cyrene the Poet and Scholar
 
 **eul_wid:** `iso-ak` · [HTML page](https://eulogikon.org/works/callimachus-cyrene-to-apollo-iso-ak)
-
-"To Apollo" is a literary hymn composed by the Hellenistic poet and scholar Callimachus in the 3rd century BCE. Written in a sophisticated literary dialect blending Doric and Ionic Greek, the complete 113-line poem dramatizes a ritual occasion. The poet-speaker directs a chorus of youths to prepare for and celebrate the epiphany of the god Apollo at his temple, honoring his domains of music, prophecy, and archery. The work is particularly renowned for a passage in which Apollo offers poetic advice, instructing the poet to "fatten his animal, but keep the Muse slender." This dictum is widely interpreted as Callimachus's own artistic manifesto, advocating for refined, meticulously crafted poetry over sprawling, uninspired epic narratives. Transmitted through medieval manuscripts, most notably an 11th-century codex, and corroborated by ancient papyri, the hymn reflects the learned milieu of the Library of Alexandria, where Callimachus was a leading figure. It functions simultaneously as a religious homage and a declaration of aesthetic principles, embodying the intellectual values of the Alexandrian court. Its emphasis on artistic purity, erudition, and concise composition exerted a profound influence on subsequent Roman poets, including Catullus, Virgil, and Ovid.
 
 ## Text
 

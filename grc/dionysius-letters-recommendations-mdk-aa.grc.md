@@ -5,6 +5,7 @@ author: Dionysius Letters
 eul_wid: mdk-aa
 eul_aid: mdk
 canonical: "https://eulogikon.org/works/dionysius-letters-recommendations-mdk-aa"
+lang: grc
 period: Hellenistic
 dialect: Literary Koine
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Dionysius Letters
 
 **eul_wid:** `mdk-aa` · [HTML page](https://eulogikon.org/works/dionysius-letters-recommendations-mdk-aa)
-
-The Letters of Recommendation is a collection of five brief epistles composed in Attic Greek by Dionysius of Halicarnassus, the Greek historian and rhetorician active in Rome. Dating from approximately 30 to 8 BCE, these works exemplify the ancient genre of the formal letter of introduction. Each epistle recommends a specific individual, typically a student of rhetoric or philosophy, to a Roman patron or acquaintance, seeking hospitality, patronage, or intellectual companionship. The collection offers a valuable glimpse into the social and professional networks connecting a Greek intellectual to the Roman elite during the Augustan era. Scholars view the letters as serving a dual function: they were practical instruments for forging and maintaining connections, and they also circulated as published models for students, illustrating the application of rhetorical principles such as the concise and persuasive presentation of character. The complete text of all five letters has been preserved within the larger corpus of Dionysius's works through medieval Byzantine manuscripts.
 
 ## Text
 

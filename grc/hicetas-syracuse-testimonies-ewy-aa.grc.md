@@ -5,6 +5,7 @@ author: Hicetas of Syracuse
 eul_wid: ewy-aa
 eul_aid: ewy
 canonical: "https://eulogikon.org/works/hicetas-syracuse-testimonies-ewy-aa"
+lang: grc
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hicetas of Syracuse
 
 **eul_wid:** `ewy-aa` · [HTML page](https://eulogikon.org/works/hicetas-syracuse-testimonies-ewy-aa)
-
-The Testimonies attributed to the Pythagorean philosopher Hicetas of Syracuse, who lived in the fifth or fourth century BCE, constitute a modern scholarly compilation rather than an original work. This collection consists of two key doxographical passages that preserve his distinctive astronomical doctrine. According to these testimonia, Hicetas advanced the theory that the Earth rotates on its axis from west to east, while the celestial sphere of the heavens remains entirely stationary. This proposal inverted the more common ancient view of a static Earth with moving heavens.
-
-Hicetas’s own writings are lost, and knowledge of his ideas survives only through later sources. The principal accounts are found in Cicero’s Academica Priora and in the doxographical tradition represented by Aetius, who records that Hicetas, among others, believed in a counter-Earth. His theory is a notable manifestation of Pythagorean natural philosophy, which often engaged in speculative cosmology to explain celestial phenomena. Historically, Hicetas’s concept of a rotating Earth represents a significant precursor to later heliocentric models, challenging the dominant geostatic worldview of antiquity. Alongside similar ideas attributed to other Pythagorean thinkers like Philolaus, this astronomical speculation was discussed by later ancient authors and regained attention during the Scientific Revolution as an early alternative to Aristotelian cosmology.
 
 ## Text
 

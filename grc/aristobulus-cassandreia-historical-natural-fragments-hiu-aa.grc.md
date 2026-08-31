@@ -5,6 +5,7 @@ author: Aristobulus of Cassandreia
 eul_wid: hiu-aa
 eul_aid: hiu
 canonical: "https://eulogikon.org/works/aristobulus-cassandreia-historical-natural-fragments-hiu-aa"
+lang: grc
 period: Classical
 dialect: Attic (frg)
 domain: History
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristobulus of Cassandreia
 
 **eul_wid:** `hiu-aa` · [HTML page](https://eulogikon.org/works/aristobulus-cassandreia-historical-natural-fragments-hiu-aa)
-
-The Historical and Natural Fragments is a collection of excerpts from a larger, now-lost work by the Jewish philosopher Aristobulus of Cassandreia. Written in Greek prose during the 2nd century BCE and addressed to Ptolemy VI Philometor, the original text was a commentary on the Pentateuch. The surviving fragments argue that Greek philosophy and poetry, from figures such as Plato, Pythagoras, Homer, and Orpheus, were dependent on the much older laws of Moses. Aristobulus employed allegorical interpretation to reconcile biblical narratives with Greek thought, proposing that descriptions of God were symbolic and that certain biblical miracles could be understood through natural explanations.
-
-The work does not survive as a continuous text but is preserved through quotations in later writers, including the historian Josephus and the Christian authors Clement of Alexandria and Eusebius of Caesarea. Modern scholarship regards it as a principal example of Hellenistic Jewish apologetics, composed to defend the antiquity and philosophical sophistication of Jewish tradition for a Greek-speaking audience. It is believed to have been written to secure favor for the Jewish community in Alexandria and stands as a significant precursor to the more extensive allegorical works of Philo of Alexandria.
 
 ## Text
 

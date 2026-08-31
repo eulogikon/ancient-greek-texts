@@ -5,6 +5,7 @@ author: Cyril of Scythopolis
 eul_wid: vbs-aa
 eul_aid: vbs
 canonical: "https://eulogikon.org/works/cyril-scythopolis-john-hesychast-vbs-aa"
+lang: grc
 period: Late Antique
 dialect: Christian Koine
 domain: Biography
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Cyril of Scythopolis
 
 **eul_wid:** `vbs-aa` · [HTML page](https://eulogikon.org/works/cyril-scythopolis-john-hesychast-vbs-aa)
-
-The Life of John the Hesychast is a Greek prose hagiography composed by the monk Cyril of Scythopolis around 557–559 CE. It recounts the life of John the Hesychast, a figure born around 454 CE into a prominent Armenian family in Nicopolis. After a distinguished career as a bishop, John famously renounced his episcopal rank to embrace a life of anonymous asceticism at the Lavra of Saint Sabas in the Judean Desert, where he died around 558 CE. The biography is structured in twenty-two chapters, detailing his noble origins, his ecclesiastical service, his rigorous adoption of hesychast practices centered on quiet prayer, and the miracles attributed to him during his life and after his death.
-
-Preserved within Cyril’s collection of seven monastic biographies, the work transcends simple devotional narrative. It was composed during a period of intense theological controversy following the Council of Chalcedon. The text functions as a deliberate promotion of specific monastic and doctrinal ideals, presenting John as a paragon of profound humility and a steadfast defender of Chalcedonian orthodoxy against Monophysite teachings. As such, it served to edify, unify, and strengthen the communal identity of the monks at the Lavra of Saint Sabas, providing a defining spiritual and historical portrait of sixth-century Palestinian monasticism.
 
 ## Text
 

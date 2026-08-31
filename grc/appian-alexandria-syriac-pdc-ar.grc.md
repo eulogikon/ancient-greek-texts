@@ -5,6 +5,7 @@ author: Appian of Alexandria
 eul_wid: pdc-ar
 eul_aid: pdc
 canonical: "https://eulogikon.org/works/appian-alexandria-syriac-pdc-ar"
+lang: grc
 period: Roman
 dialect: Koine
 domain: History
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Appian of Alexandria
 
 **eul_wid:** `pdc-ar` · [HTML page](https://eulogikon.org/works/appian-alexandria-syriac-pdc-ar)
-
-The Syriaca, or Syrian History, is a book within the larger Roman History composed in Greek by the second-century CE historian Appian of Alexandria. Written around 160 CE, Appian’s work is distinguished by its regional organization, eschewing a strict chronological narrative in favor of examining Rome’s relations with various peoples and territories. The Syriaca specifically chronicles Rome’s engagement with the Near East, tracing the history of the Hellenistic Seleucid Empire and its eventual dissolution, culminating in the Roman conquest and establishment of the province of Syria.
-
-The original, continuous text of the Syriaca has not survived. Its content is known only through 294 fragments preserved in Byzantine compilations from the tenth century, primarily the Excerpta de Sententiis and Excerpta de Legationibus. These excerpts, organized thematically around topics such as embassies and maxims, provide valuable though disjointed insights. They detail aspects of Roman eastern expansion, diplomatic interactions with local dynasties such as the Hasmoneans of Judea, and the region’s strategic significance during the Roman civil wars. Modern scholarship interprets the work as part of Appian’s overarching project to explain and justify the rise of Roman imperial power to a Greek-speaking audience, with the Syriaca serving to illustrate the political and military mechanisms through which Rome asserted control over this vital eastern territory.
 
 ## Text
 

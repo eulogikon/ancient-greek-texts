@@ -5,6 +5,7 @@ author: Apion Alexandrinus
 eul_wid: nlq-ac
 eul_aid: nlq
 canonical: "https://eulogikon.org/works/apion-alexandrinus-egyptian-histories-nlq-ac"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Apion Alexandrinus
 
 **eul_wid:** `nlq-ac` · [HTML page](https://eulogikon.org/works/apion-alexandrinus-egyptian-histories-nlq-ac)
-
-The Egyptian Histories Fragments constitute a modern compilation of forty passages attributed to Apion of Alexandria, a first-century CE grammarian and historian. These excerpts, preserved entirely through quotation by later authors such as Josephus, Aelian, and the Suda lexicon, are believed to originate from Apion’s lost multivolume work, the Aegyptiaca. Written in Koine Greek as a treatise on Egyptian history, the fragments blend historical narrative with grammatical and etymological analysis, particularly of Egyptian names and terms. The content reflects a polemical defense of Egyptian civilization, asserting its antiquity and cultural superiority while frequently critiquing the traditions of neighboring peoples, most notably the Jews. This adversarial stance is historically significant, as Apion’s arguments became the primary target of Josephus’s apologetic work Against Apion. The surviving fragments, though limited, provide valuable insight into Apion’s scholarly methods and the intense cultural and historiographical rivalries that characterized intellectual life in the Roman Empire, especially in Alexandria.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Epic Work  Anonymous
 eul_wid: kjq-ak
 eul_aid: kjq
 canonical: "https://eulogikon.org/works/epic-anon-ethopoeia-kjq-ak"
+lang: grc
 period: Hellenistic
 dialect: Epic (Homeric) (frg)
 domain: Epic
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Epic Work  Anonymous
 
 **eul_wid:** `kjq-ak` · [HTML page](https://eulogikon.org/works/epic-anon-ethopoeia-kjq-ak)
-
-The Ethopoeic Exercises is an anonymous collection of fifteen short verse passages representing the rhetorical genre of ethopoeia. As a standard component of the progymnasmata curriculum, these exercises required students to compose a speech appropriate to a defined character and dramatic situation. The work is distinguished by its use of verse, a notable departure from the typical prose of such school texts, suggesting a pedagogical fusion of rhetorical training with poetic composition, likely employing traditional epic meter. Each exercise trains the student in the portrayal of character, demanding a speech that fits a given mythological or historical figure, while also cultivating skills in rhetorical persuasion, emotional expression, and the imitation of epic poetic style and conventions. As an anonymous scholastic text, its precise manuscript tradition is obscure, though such exercises were widely copied for educational use throughout antiquity and the Byzantine era. The collection exemplifies a foundational rhetorical practice that deeply influenced Western literary tradition by instilling principles of decorum, psychological insight, and effective speech composition, thereby shaping later developments in forms such as the dramatic monologue, historiography, and character-driven narrative.
 
 ## Text
 

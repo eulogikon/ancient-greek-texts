@@ -5,6 +5,7 @@ author: Lysias the Orator
 eul_wid: ejc-as
 eul_aid: ejc
 canonical: "https://eulogikon.org/works/lysias-defense-callias-ejc-as"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lysias the Orator
 
 **eul_wid:** `ejc-as` · [HTML page](https://eulogikon.org/works/lysias-defense-callias-ejc-as)
-
-The Defense for Callias' Sacrilege is a forensic oration composed by the Attic logographer Lysias for a client facing the capital charge of temple robbery, a case prosecuted before the Areopagus council. The speech survives only in a fragmentary state, comprising six passages within the transmitted Lysianic corpus. The extant portions indicate the oration focused on refuting the specific allegation of stealing sacred property, employing character arguments to assert the defendant's longstanding piety and good standing in the community, and challenging the prosecution's evidence and proposed motives. Its fragmentary preservation likely stems from quotations in later ancient authors or lexicographers, though its inclusion in the corpus confirms it was studied in antiquity. Despite its incomplete form, the speech remains a significant exemplar of Lysias's forensic craft and offers valuable insight into the legal and rhetorical strategies deployed in Athenian trials concerning grave religious offenses.
 
 ## Text
 

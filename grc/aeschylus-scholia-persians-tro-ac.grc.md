@@ -5,6 +5,7 @@ author: Aeschylus Scholia
 eul_wid: tro-ac
 eul_aid: tro
 canonical: "https://eulogikon.org/works/aeschylus-scholia-persians-tro-ac"
+lang: grc
 period: Late Antique
 dialect: Byzantine Greek
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aeschylus Scholia
 
 **eul_wid:** `tro-ac` · [HTML page](https://eulogikon.org/works/aeschylus-scholia-persians-tro-ac)
-
-The Scholia and Glosses on the Persians is an anonymous compilation of ancient and Byzantine scholarly commentary on Aeschylus’s tragedy Persians. This collection consists of explanatory notes on 193 specific passages, providing textual variants, definitions of obscure words, historical context, mythological references, and observations on grammar and meter. The simpler glosses typically offer one-word equivalents for archaic terms. The work was not composed as a unified whole but represents a palimpsest of scholarship accumulated over many centuries, with its earliest layers potentially originating in the Hellenistic period and subsequent additions continuing through the Byzantine era. These notes were originally created by scholars and teachers to elucidate Aeschylus's complex and archaic text, which was a staple of the educational curriculum, and were intended for an audience ranging from students to professional grammarians. The scholia survive by being transmitted in the margins and interlinear spaces of medieval manuscripts of the play, most notably within the 10th-century Codex Mediceus Laurentianus. The transmission process was fluid, resulting in a composite text that was often abbreviated or altered through centuries of copying. Modern scholars regard this compilation as a crucial resource for understanding ancient literary criticism and pedagogical methods, although the scholia on Aeschylus are generally considered less extensive than those preserved for other tragedians such as Sophocles and Euripides.
 
 ## Text
 

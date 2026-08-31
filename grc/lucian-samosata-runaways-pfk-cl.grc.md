@@ -5,6 +5,7 @@ author: Lucian of Samosata
 eul_wid: pfk-cl
 eul_aid: pfk
 canonical: "https://eulogikon.org/works/lucian-samosata-runaways-pfk-cl"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lucian of Samosata
 
 **eul_wid:** `pfk-cl` · [HTML page](https://eulogikon.org/works/lucian-samosata-runaways-pfk-cl)
-
-_Runaways_ is a satirical oration by the 2nd-century CE author Lucian of Samosata. Written in the Attic Greek style of the period known as the Second Sophistic, the work is structured as a formal rhetorical speech delivered by the personified figure of Philosophy. She addresses Zeus and the assembly of gods to lodge a complaint against the "runaways" of the title—men who have abandoned their former professions as cooks, carpenters, or slaves to falsely adopt the external appearance and lifestyle of Cynic, Stoic, or Peripatetic philosophers. Their motive is not the pursuit of wisdom but the acquisition of social privilege and material gain, a widespread imposture that Philosophy argues brings her true discipline into disrepute. The oration functions as a parody of contemporary intellectual life, targeting the hypocrisy and pretension Lucian observed among the self-styled philosophers of his era. Its intended audience was the educated Greco-Roman elite, who would appreciate both the rhetorical form and the critique of philosophical schools. The complete text has been preserved through the medieval manuscript tradition of Lucian's works.
 
 ## Text
 

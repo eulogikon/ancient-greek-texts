@@ -5,6 +5,7 @@ author: Lexicon of the Art of Grammar Anonymous
 eul_wid: voa-aa
 eul_aid: voa
 canonical: "https://eulogikon.org/works/lexicon-grammar-anon-art-voa-aa"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Grammar
@@ -19,20 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lexicon of the Art of Grammar Anonymous
 
 **eul_wid:** `voa-aa` · [HTML page](https://eulogikon.org/works/lexicon-grammar-anon-art-voa-aa)
-
-Overview The Lexicon of the Art of Grammar (Λεξικὸν τῆς Γραμματικῆς Τέχνης) is a short, specialized Greek glossary of grammatical terms. Preserved in a single manuscript, Codex Baroccianus 50, it comprises 26 entries defining core terminology from the ancient grammatical curriculum.
-
-Content The lexicon’s entries cover fundamental concepts, including:
-
-Parts of speech (e.g., ὄνομα [noun], ῥῆμα [verb]).
-
-Phonetic elements (e.g., στοιχεῖον [letter]).
-
-Metrical terms (e.g., πούς [foot]).
-
-Transmission The work survives complete in the 16th-century Codex Baroccianus 50. It was first edited by John Pearson in 1654 and later by John Antony Cramer in his Anecdota Graeca (1839).
-
-Significance As a late antique or Byzantine pedagogical compilation, the lexicon is a minor but valuable witness to the technical vocabulary and teaching practices of grammatical education. It illustrates the systematization and transmission of Hellenistic grammatical science in the post-classical period.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Pseudo-Galen
 eul_wid: tqu-aw
 eul_aid: tqu
 canonical: "https://eulogikon.org/works/pseudo-galen-bandages-tqu-aw"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Pseudo-Galen
 
 **eul_wid:** `tqu-aw` · [HTML page](https://eulogikon.org/works/pseudo-galen-bandages-tqu-aw)
-
-On Bandages is a concise, practical medical treatise from ancient Greece, transmitted as part of the Hippocratic Corpus. While traditionally ascribed to Hippocrates, scholarly consensus attributes it to an anonymous medical practitioner of the 4th century BCE. Composed in Ionic Greek, the work comprises 60 succinct and methodical chapters. It functions as a highly technical manual dedicated to the art of applying bandages and splints, systematically organized according to the part of the body requiring treatment, such as the head, jaw, or chest. The instructions are remarkably detailed, specifying the direction of wraps, the number of layers, and the types of knots to be employed. Furthermore, it describes techniques for combining cloth bandages with rigid splints fashioned from materials like leather, wood, or reeds to immobilize fractures and dislocations. Preserved in its entirety, the treatise is considered a finished work, providing a clear view into the empirical, hands-on practices of early Greek surgery. Modern interpretation regards it as a reference guide for practicing physicians and surgeons, exemplifying the standardized procedures and specialized knowledge within ancient medical training. Its focused detail on orthopedic technique offers valuable historical insight into the practical methods of ancient trauma care.
 
 ## Text
 

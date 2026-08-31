@@ -1,10 +1,11 @@
 ---
 title: Fragments of Tragic Justice
 title_greek: Ἀποσπάσματα περὶ Τραγικῆς Δίκης
-author: "Tragica Adespota "
+author: Tragica Adespota
 eul_wid: gyu-ab
 eul_aid: gyu
 canonical: "https://eulogikon.org/works/tragica-adespota-justice-fragments-gyu-ab"
+lang: grc
 period: Classical
 dialect: Mixed Dialects (frg)
 domain: Drama
@@ -16,13 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀποσπάσματα περὶ Τραγικῆς Δίκης*
 
-**Author:** Tragica Adespota 
+**Author:** Tragica Adespota
 
 **eul_wid:** `gyu-ab` · [HTML page](https://eulogikon.org/works/tragica-adespota-justice-fragments-gyu-ab)
-
-Fragments of Tragic Justice is a modern scholarly compilation of 167 fragmentary passages attributed to anonymous tragic poets, known collectively as Tragica Adespota. These excerpts are drawn not from a single play but from the vast, lost corpus of Classical Athenian tragedy, thematically united by their exploration of the concept of justice, or dikē. Preserved solely through quotation by later authors such as lexicographers, grammarians, and anthologists like Stobaeus and Athenaeus, as well as through papyrus discoveries, the fragments represent the rich diversity of tragic production beyond the surviving works of the canonical playwrights. Modern critical editions, most notably the Tragicorum Graecorum Fragmenta series, have systematically assembled these scattered references.
-
-The content of the fragments engages with the central philosophical and dramatic concerns of Athenian tragedy. They frequently depict divine justice and retribution, examining the gods' role as enforcers of cosmic order. Human law and justice are scrutinized, often highlighting conflicts between formal legal judgment and deeper moral righteousness. The relationship between inescapable fate and personal responsibility is a recurring theme, as are the moral complexities surrounding revenge, vendetta, and the cyclical nature of violence. The consequences of injustice and the nature of suffering are also prominent subjects. These fragments are of significant scholarly importance for understanding the full breadth of the tragic genre. They demonstrate that rigorous debate on legal and ethical justice was a ubiquitous preoccupation in the Athenian theater, illuminating common stylistic and thematic tropes. As such, they contribute substantially to the reconstruction of the intellectual milieu that shaped Athenian drama, a discourse that would profoundly influence the development of subsequent Greek philosophy.
 
 ## Text
 

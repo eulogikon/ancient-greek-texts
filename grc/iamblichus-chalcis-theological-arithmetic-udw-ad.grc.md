@@ -5,6 +5,7 @@ author: Iamblichus of Chalcis
 eul_wid: udw-ad
 eul_aid: udw
 canonical: "https://eulogikon.org/works/iamblichus-chalcis-theological-arithmetic-udw-ad"
+lang: grc
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Iamblichus of Chalcis
 
 **eul_wid:** `udw-ad` · [HTML page](https://eulogikon.org/works/iamblichus-chalcis-theological-arithmetic-udw-ad)
-
-The Theological Arithmetic is a philosophical treatise from late antiquity, traditionally attributed to the Neoplatonist philosopher Iamblichus of Chalcis and composed around 300 CE. Written in Attic Greek, the work systematically explores the first ten numbers, from the Monad to the Decad. It interprets these numbers not as mere quantities but as divine principles and active causal powers that structure reality. The treatise synthesizes earlier Pythagorean number theory with Iamblichus's hierarchical metaphysics, presenting the study of arithmetic as a fundamental spiritual and intellectual discipline for understanding the cosmos and ascending toward the divine.
-
-The work survives as part of a larger collection known as the Theology of Arithmetic, and its precise authorship is not entirely secure. Some scholars attribute the core text to Iamblichus, while others view it as a later compilation based on his teachings. Its structure of 86 passages has been preserved, though the boundaries between Iamblichus's original contributions and later editorial work remain a subject of discussion. The text methodically examines each number, assigning to it a host of metaphysical, cosmological, and theological properties. For instance, the Monad is described as the principle of number, containing all things in potential and serving as the origin of all numerical relations and geometric forms. Subsequent numbers are analyzed for their unique characteristics, such as being even or odd, and for their symbolic correspondences to virtues, gods, and cosmic orders.
-
-Modern scholars interpret the work as a key text for advanced students in Iamblichus's school, designed to train them in the mathematical sciences as a preparation for higher philosophical and theological contemplation. It was influential in later Neoplatonic thought and contributed significantly to the medieval and Renaissance traditions of mystical number symbolism, serving as a bridge between ancient philosophical arithmetic and later esoteric traditions.
 
 ## Text
 

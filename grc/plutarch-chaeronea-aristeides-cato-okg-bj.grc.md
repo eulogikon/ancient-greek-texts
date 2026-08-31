@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-bj
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-aristeides-cato-okg-bj"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-bj` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-aristeides-cato-okg-bj)
-
-The Comparison of Aristeides and Cato is a concluding analytical essay by the Greek biographer Plutarch, composed in Attic Greek during the early second century CE. It functions as the capstone to his paired biographies of the Athenian statesman Aristides and the Roman censor Cato the Elder within the larger collection of Parallel Lives. The essay systematically juxtaposes the two men across approximately twenty distinct points, examining their virtues, political careers, and personal characters. Plutarch’s method is not to declare a victor but to explore the varied manifestations of moral excellence within different cultural contexts. He contrasts the famed justice and mild temperament of Aristides in democratic Athens with the severe traditionalism and rigorous frugality of Cato in the Roman Republic. Central themes of the comparison include their divergent attitudes toward wealth, their respective degrees of severity in public life, their styles of political rhetoric, and their exercise of power. The work presumes a reader’s familiarity with the preceding narrative biographies, guiding the audience from historical account to deeper ethical reflection. As a product of the High Roman Empire, the essay was crafted for a bilingual educated elite, serving to synthesize and critically examine the core values of Greek and Roman civilization. The text survives intact as an integral component of the Parallel Lives, transmitted through the medieval manuscript tradition of Plutarch’s biographical corpus without any significant losses specific to this final section.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Agathemerus the Geographer
 eul_wid: rps-aa
 eul_aid: rps
 canonical: "https://eulogikon.org/works/agathemerus-geography-rps-aa"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Geography
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Agathemerus the Geographer
 
 **eul_wid:** `rps-aa` · [HTML page](https://eulogikon.org/works/agathemerus-geography-rps-aa)
-
-The InformatiGeography is a concise geographical treatise by Agathemerus, a scholar traditionally placed in the Roman imperial period, possibly the 3rd century CE. It is a systematic epitome of earlier Greek geographical knowledge, structured as 26 prose passages, and survives in its entirety. The work opens with a brief history of geography, crediting Anaximander with the first world map and Hecataeus with its improvement. It proceeds to describe the division of the world into the continents of Europe, Libya, and Asia, surrounded by Ocean, and details the dimensions of the inhabited world. The treatise systematically catalogs major mountains, rivers, and islands, and outlines the geographical systems of key figures such as Eratosthenes, Hipparchus, and Ptolemy, concluding with a description of the winds. The text is preserved in a single manuscript, the 10th- or 11th-century Codex Palatinus Graecus 398, which contains other minor geographical works, and no significant lacunae are reported. Though lacking original influence, the treatise is a valuable instructional compendium that reflects the systematization of Greek geography in late antiquity. It serves as an important witness to the summaries of earlier authorities, some of whose works are now lost.
 
 ## Text
 

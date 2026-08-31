@@ -5,6 +5,7 @@ author: Herodian of Alexandria
 eul_wid: qnq-ad
 eul_aid: qnq
 canonical: "https://eulogikon.org/works/herodian-alexandria-nouns-adjectives-appellatives-qnq-ad"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Herodian of Alexandria
 
 **eul_wid:** `qnq-ad` · [HTML page](https://eulogikon.org/works/herodian-alexandria-nouns-adjectives-appellatives-qnq-ad)
-
-On Nouns, Adjectives, and Appellatives is a grammatical treatise by the second-century CE Alexandrian scholar Herodian. Structured as a single book, it systematically classifies and analyzes three categories of nouns: proper names, adjectives or epithets, and common or appellative nouns. The work is a technical product of the Alexandrian grammatical tradition, intended for advanced students and scholars. Herodian, a leading authority during the era of the Second Sophistic, composed this text amid a cultural emphasis on the precise use of classical Attic Greek. The treatise reflects the period's dedication to linguistic standardization and purity. It forms part of Herodian's extensive scholarly output on grammar and prosody, which expanded upon the foundations laid by his father, Apollonius Dyscolus. The work does not survive intact as an independent manuscript but is preserved fragmentarily through quotations in later grammatical commentaries and Byzantine compilations. Despite its incomplete transmission, Herodian's doctrines on word classification and inflection exerted a profound and lasting influence on all subsequent Greek grammatical scholarship.
 
 ## Text
 

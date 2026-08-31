@@ -5,6 +5,7 @@ author: Philo of Alexandria
 eul_wid: lgi-ae
 eul_aid: lgi
 canonical: "https://eulogikon.org/works/philo-alexandria-incorruptibility-world-lgi-ae"
+lang: grc
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philo of Alexandria
 
 **eul_wid:** `lgi-ae` · [HTML page](https://eulogikon.org/works/philo-alexandria-incorruptibility-world-lgi-ae)
-
-The surviving works of Philo of Alexandria constitute a vast corpus of philosophical and exegetical treatises written in Koine Greek during the first century CE. As a Hellenistic Jewish philosopher, Philo sought to synthesize the teachings of the Hebrew Bible, particularly the Pentateuch, with the concepts and language of Greek philosophy, especially Platonism and Stoicism. His writings are traditionally divided into three broad categories: extensive allegorical commentaries on the Book of Genesis, historical and expository works on the Mosaic law, and philosophical treatises on general ethical and metaphysical themes. Among these, the treatise On the Eternity of the World is a notable example of his engagement with contemporary Greek thought. In it, Philo meticulously presents classical arguments for the indestructibility and everlasting nature of the cosmos, only to systematically refute them. His ultimate aim was to defend the biblical doctrine of a created universe, arguing that the world is not eternal but is contingent and sustained by God, who alone possesses true eternity. The text survives only in a fragmentary state, breaking off before its conclusion. Philo’s entire corpus was preserved not by Jewish tradition but by early Christian scholars who valued his allegorical methods and his integration of philosophical reason with scriptural faith. His works profoundly influenced later Christian thinkers, such as Clement of Alexandria and Origen, and provide an invaluable window into the intellectual world of Hellenistic Judaism.
 
 ## Text
 

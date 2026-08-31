@@ -5,6 +5,7 @@ author: Zosimus of Constantinople
 eul_wid: thy-aa
 eul_aid: thy
 canonical: "https://eulogikon.org/works/zosimus-constantinople-new-history-thy-aa"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: History
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Zosimus of Constantinople
 
 **eul_wid:** `thy-aa` · [HTML page](https://eulogikon.org/works/zosimus-constantinople-new-history-thy-aa)
-
-The New History is a six-book historical narrative composed in Greek by Zosimus, a treasury official in Constantinople, around the year 500 CE. It presents a continuous account of the Roman Empire from the reign of Augustus to the year 410 CE, concluding just prior to the sack of Rome by the Visigoths. The work as it survives is incomplete, lacking its original beginning and ending abruptly. While the earlier books cover events more summarily, the narrative becomes increasingly detailed in its treatment of the fourth and early fifth centuries, offering extended coverage of the reigns of emperors such as Constantine I and Julian.
-
-Zosimus wrote as an avowedly pagan historian during a period of profound religious transformation. His central thesis is that the empire’s political and military decline was a direct consequence of the state’s abandonment of traditional Roman religious rites and its adoption of Christianity. This polemical purpose shapes his entire narrative, leading him to criticize Christian emperors and policies while praising figures like Julian the Apostate for their attempts to restore pagan worship. Modern scholarship regards the New History as an essential pagan counter-narrative to the predominantly Christian historiography of the late antique period, providing a critical and often hostile perspective on the empire’s religious reorientation.
-
-The text survives primarily through a single tenth-century manuscript. Its controversial religious viewpoint likely limited its circulation in antiquity, but it has since become an indispensable, if highly partisan, source for the political and military history of the later Roman Empire.
 
 ## Text
 

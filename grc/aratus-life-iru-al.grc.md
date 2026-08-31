@@ -1,10 +1,11 @@
 ---
 title: Life of Aratus
 title_greek: Βίος Ἄρατου
-author: "Aratus Lives "
+author: Aratus Lives
 eul_wid: iru-al
 eul_aid: iru
 canonical: "https://eulogikon.org/works/aratus-life-iru-al"
+lang: grc
 period: Hellenistic
 dialect: Mixed Dialects
 domain: Biography
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Βίος Ἄρατου*
 
-**Author:** Aratus Lives 
+**Author:** Aratus Lives
 
 **eul_wid:** `iru-al` · [HTML page](https://eulogikon.org/works/aratus-life-iru-al)
-
-The Life of Aratus is a concise prose biography of the Hellenistic poet Aratus of Soli, best known for his didactic poem the Phaenomena. Though transmitted under the name of Plutarch, modern scholarship regards it as a spurious, pseudo-Plutarchan work likely compiled during the Imperial period. The text provides a summary of the poet's origins, noting his birth in Soli, Cilicia, his education under the philosopher Persaeus in Athens, and his subsequent career. It places particular emphasis on his patronage at the Macedonian court of King Antigonus II Gonatas and his association with other prominent figures of the era, including the poets Callimachus and Alexander Aetolus. The biography frames Aratus's literary achievement, particularly the crafting of the Phaenomena, within the context of his philosophical training and royal connections. It survives within the medieval manuscript tradition of Plutarch's Moralia, specifically among collections of spurious biographies such as the Lives of the Ten Orators, which ensured its preservation through the Byzantine and early modern periods. As a primary source for the biographical tradition surrounding Aratus, it has been utilized by later ancient compilers and modern scholars to contextualize his work, reflecting the Imperial-era practice of collecting and transmitting anecdotes about notable literary figures.
 
 ## Text
 

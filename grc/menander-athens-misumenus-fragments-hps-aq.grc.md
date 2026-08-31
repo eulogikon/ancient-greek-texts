@@ -5,6 +5,7 @@ author: Menander of Athens
 eul_wid: hps-aq
 eul_aid: hps
 canonical: "https://eulogikon.org/works/menander-athens-misumenus-fragments-hps-aq"
+lang: grc
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Menander of Athens
 
 **eul_wid:** `hps-aq` · [HTML page](https://eulogikon.org/works/menander-athens-misumenus-fragments-hps-aq)
-
-The Misumenus, or The Hated Man, is a lost comedy by the Athenian playwright Menander, dating from the late fourth or early third century BCE. As a work of New Comedy, it was composed in verse for performance in the Athenian theater. The play survives only in sixteen brief fragments, preserved as quotations in later Byzantine sources. These excerpts suggest a plot centered on a protagonist who is universally disliked, a figure whose social alienation would have driven the narrative. In keeping with the conventions of Menander’s genre, the comedy likely involved romantic entanglements, familial tensions, and the machinations of a cunning slave, all resolved through a recognition scene leading to social harmony. The scant surviving lines hint at themes of exclusion and integration, reflecting the domestic and ethical preoccupations of Hellenistic Athenian society. The transmission of the Misumenus is entirely dependent on these secondary quotations, as no papyrus fragments of the text have been discovered.
 
 ## Text
 

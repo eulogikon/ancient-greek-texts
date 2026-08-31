@@ -5,6 +5,7 @@ author: Hipparchus the Comic Poet
 eul_wid: jns-ab
 eul_aid: jns
 canonical: "https://eulogikon.org/works/hipparchus-comic-craft-fortune-jns-ab"
+lang: grc
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hipparchus the Comic Poet
 
 **eul_wid:** `jns-ab` · [HTML page](https://eulogikon.org/works/hipparchus-comic-craft-fortune-jns-ab)
-
-Fragments on Craft and Fortune is a modern, thematic designation for a collection of ten passages attributed to the Athenian comic poet Hipparchus. No ancient work by this specific title survives; the fragments are excerpts preserved within the works of later authors and do not constitute a continuous play. The passages engage satirically with common philosophical and social themes, particularly the rivalry between human skill and random fortune. They include satire of artisans, philosophers, or politicians who overestimate their craft, and explore the unpredictability of life as a source of comic misfortune, often parodying contemporary ethical debates. The work from which these fragments derive is lost, and they survive through the typical indirect transmission of ancient comedy, likely via quotations in later grammarians, lexicographers, or authors such as Athenaeus. Hipparchus himself is an obscure figure, noted as a poet who wrote seven plays and who appears in lists compiled by Callimachus. While these fragments document no specific literary influence, they contribute to the broader understanding of the vast, lost corpus of Greek comedy and its treatment of universal themes.
 
 ## Text
 

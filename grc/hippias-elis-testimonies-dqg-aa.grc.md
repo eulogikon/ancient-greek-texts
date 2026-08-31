@@ -5,6 +5,7 @@ author: Hippias of Elis
 eul_wid: dqg-aa
 eul_aid: dqg
 canonical: "https://eulogikon.org/works/hippias-elis-testimonies-dqg-aa"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hippias of Elis
 
 **eul_wid:** `dqg-aa` · [HTML page](https://eulogikon.org/works/hippias-elis-testimonies-dqg-aa)
-
-The Testimonies was a collection of model speeches attributed to the Sophist Hippias of Elis, who was active in the late fifth century BCE. As a practical handbook for forensic oratory, it was designed to instruct students in the construction of persuasive arguments for use in Athenian legal proceedings. The work is now lost, with only a single fragment preserved by the anthologist Stobaeus. This surviving excerpt presents a rhetorical exercise defending the dignity of manual labor, contending that being a craftsman is not a shameful occupation. The title indicates a focus on evidence and testimony, fundamental components of legal rhetoric. Scholars regard the collection as a characteristic product of Sophistic education, which emphasized training in persuasive techniques and often encouraged students to advocate for provocative or unconventional positions on social values.
 
 ## Text
 

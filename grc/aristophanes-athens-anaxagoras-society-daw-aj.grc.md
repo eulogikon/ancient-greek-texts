@@ -5,6 +5,7 @@ author: Aristophanes of Athens
 eul_wid: daw-aj
 eul_aid: daw
 canonical: "https://eulogikon.org/works/aristophanes-athens-anaxagoras-society-daw-aj"
+lang: grc
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristophanes of Athens
 
 **eul_wid:** `daw-aj` · [HTML page](https://eulogikon.org/works/aristophanes-athens-anaxagoras-society-daw-aj)
-
-The title Fragments on Anaxagoras and Society refers not to an independent work by Aristophanes but to a modern scholarly compilation of excerpts from his surviving comedies. These twenty-one passages, drawn primarily from The Clouds but also from other plays such as The Acharnians and The Birds, are grouped thematically for their references to the philosopher Anaxagoras and their satire of the new intellectual currents of late fifth-century Athens. The fragments collectively lampoon the natural philosophy and speculative theories associated with Anaxagoras, particularly those explaining celestial phenomena through physical causes, which were viewed by many as impious. They also critique the broader sophistic movement, highlighting a perceived generational conflict and a corrosive link between novel philosophical ideas and the erosion of traditional social morality and civic duty. Aristophanes' works, including the eleven complete comedies that constitute his extant corpus, have been transmitted through medieval manuscripts; fragments of lost plays are preserved in quotations by later authors and on papyrus. There is no ancient or medieval manuscript tradition for a discrete work under this title. The significance of these collected passages lies in their vivid depiction of the popular reception of pre-Socratic thought. Aristophanes' comic portrayal, especially in The Clouds, was influential in shaping public attitudes, a point noted by Plato in his Apology regarding the prejudice against Socrates. The fragments thus serve as a vital historical source for understanding the intellectual controversies and social anxieties of classical Athens.
 
 ## Text
 

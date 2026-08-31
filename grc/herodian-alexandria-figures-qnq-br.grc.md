@@ -5,6 +5,7 @@ author: Herodian of Alexandria
 eul_wid: qnq-br
 eul_aid: qnq
 canonical: "https://eulogikon.org/works/herodian-alexandria-figures-qnq-br"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Grammar
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Herodian of Alexandria
 
 **eul_wid:** `qnq-br` · [HTML page](https://eulogikon.org/works/herodian-alexandria-figures-qnq-br)
-
-_On Figures_ is a lost grammatical treatise by the 2nd-century CE Alexandrian scholar Herodian, son of the grammarian Apollonius Dyscolus. Recorded as a one-book work in the Byzantine encyclopedia known as the Suda, it was dedicated to the systematic analysis of rhetorical and grammatical figures. Herodian defines a figure as a deliberate and reasoned deviation from standard expression for superior effect, carefully distinguishing such intentional artifice from outright grammatical error. The work presumably offered a technical classification and explanation of these stylistic devices, examining how they operate across various linguistic categories such as noun forms, cases, numbers, moods, persons, tenses, and voices. This methodical approach to language, characteristic of the Alexandrian grammatical tradition, would have provided prescriptive rules for advanced literary and oratorical composition.
-
-The text itself does not survive directly and is known only by its title in the Suda. Herodian was an immensely prolific technical writer, best known for his monumental work _General Prosody_, but the vast majority of his output was lost over time. His influence endured, however, through extensive quotation and compilation by later grammarians like Arcadius of Antioch and various Byzantine scholars. Herodian's grammatical authority was foundational; his sophisticated analyses, even when preserved only in fragments or through the works of others, shaped rhetorical education for centuries. The rules and systems he developed, particularly in prosody, governed the medieval and early modern teaching of ancient Greek.
 
 ## Text
 

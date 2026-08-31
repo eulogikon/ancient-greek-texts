@@ -5,6 +5,7 @@ author: Demosthenes of Athens
 eul_wid: fsm-ak
 eul_aid: fsm
 canonical: "https://eulogikon.org/works/demosthenes-athens-against-androtion-fsm-ak"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Demosthenes of Athens
 
 **eul_wid:** `fsm-ak` · [HTML page](https://eulogikon.org/works/demosthenes-athens-against-androtion-fsm-ak)
-
-Against Androtion for Illegal Acts is a forensic oration composed by Demosthenes of Athens around 355 BCE. Written in Attic Greek for delivery by his client Diodorus, the speech constitutes a political prosecution from the Classical period. It challenges a decree proposed by the politician Androtion that aimed to confer honors upon the Athenian Council. The central legal contention is that Androtion was personally disqualified from making any public proposal because he was a state debtor and had allegedly engaged in prostitution in his youth, which Demosthenes argues deprived him of full civic rights.
-
-The complete speech, preserved in 74 sections within the Demosthenic corpus, was delivered in a graphē paranomōn trial, a standard democratic procedure for indicting allegedly illegal decrees. Modern scholarship generally views the case not as a substantive dispute over the decree itself but as a vehicle for a political attack on Androtion and his faction, leveraging legal process to settle personal and partisan rivalries. Considered an early work in Demosthenes' career, the oration represents his initial foray into building a public reputation. It also reflects wider Athenian anxieties regarding civic morality and financial integrity in the aftermath of the costly Social War. The speech stands as a prime example of the intense personal invective routinely employed as a forensic tactic by Athenian orators.
 
 ## Text
 

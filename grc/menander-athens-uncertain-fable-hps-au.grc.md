@@ -5,6 +5,7 @@ author: Menander of Athens
 eul_wid: hps-au
 eul_aid: hps
 canonical: "https://eulogikon.org/works/menander-athens-uncertain-fable-hps-au"
+lang: grc
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Menander of Athens
 
 **eul_wid:** `hps-au` · [HTML page](https://eulogikon.org/works/menander-athens-uncertain-fable-hps-au)
-
-The Uncertain Fable is a lost comedy by the Athenian playwright Menander, composed in verse in the late fourth or early third century BCE. As a work of New Comedy, it represents a shift from the political satire of earlier Athenian drama toward plots centered on domestic and romantic entanglements. The play survives only in fragments, totaling eighty-seven brief passages. These were preserved primarily through quotation by later authors who valued their stylistic or moral content, with a small additional number recovered from papyrus discoveries. The title implies a narrative constructed around misunderstanding or concealed truth. Modern scholarship, drawing on the extant fragments and the conventions of Menander's other works, suggests the plot likely involved elements of mistaken identity, familial secrets, and a climactic revelation, reflecting the playwright's enduring thematic focus on chance, human character, and social dynamics.
 
 ## Text
 

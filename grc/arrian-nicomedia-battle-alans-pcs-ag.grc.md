@@ -5,6 +5,7 @@ author: Arrian of Nicomedia
 eul_wid: pcs-ag
 eul_aid: pcs
 canonical: "https://eulogikon.org/works/arrian-nicomedia-battle-alans-pcs-ag"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Arrian of Nicomedia
 
 **eul_wid:** `pcs-ag` · [HTML page](https://eulogikon.org/works/arrian-nicomedia-battle-alans-pcs-ag)
-
-The Battle against the Alans is a concise military manual composed around 135 CE by the historian and Roman governor Arrian. Written in Attic Greek as a sequence of twenty-eight direct orders, it provides a specific tactical plan for the Roman forces in Cappadocia to counter an expected invasion by the nomadic Alan tribes through the Caucasus Mountains. The text meticulously details the deployment of legions and auxiliary units into a deep, defensive formation intended to absorb and repel a heavy cavalry assault, concluding with instructions for launching a decisive counter-attack. This work stands as a unique artifact of applied Roman military science, offering a snapshot of practical doctrine in a frontier province. Scholars generally interpret it as a pre-emptive tactical dispatch, likely intended for Arrian's subordinate commanders and possibly serving as a report to Emperor Hadrian to demonstrate strategic preparedness. It exemplifies the synthesis of Hellenistic military theory with contemporary Roman operational practice. The complete text survives through manuscript transmission alongside Arrian's other works, notably within the tenth-century Codex Palatinus Graecus 398.
 
 ## Text
 

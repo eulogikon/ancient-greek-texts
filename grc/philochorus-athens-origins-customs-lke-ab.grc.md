@@ -5,6 +5,7 @@ author: Philochorus of Athens
 eul_wid: lke-ab
 eul_aid: lke
 canonical: "https://eulogikon.org/works/philochorus-athens-origins-customs-lke-ab"
+lang: grc
 period: Hellenistic
 dialect: Attic (frg)
 domain: History
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philochorus of Athens
 
 **eul_wid:** `lke-ab` · [HTML page](https://eulogikon.org/works/philochorus-athens-origins-customs-lke-ab)
-
-The Atthís of Philochorus of Athens was a comprehensive local history of the city, composed in Attic Greek during the early Hellenistic period, approximately between 300 and 260 BCE. As the culminating work in the genre of Atthidography, it systematically chronicled Athenian life from its mythical foundations through to the author's contemporary era. The treatise encompassed a detailed examination of the city's political institutions, legal codes, religious cults, public festivals, and topographical features. Organized into at least seventeen books, the original text is now lost, surviving only in 267 fragments preserved within the quotations of later Greek and Byzantine lexicographers and scholars who utilized it as an authoritative source.
-
-Philochorus, who also served as a religious seer, compiled this work as the most exhaustive and definitive entry in a long tradition of Athenian local histories. Modern scholarship interprets the Atthís as a work of antiquarian erudition, likely intended for an audience of historians and educated citizens seeking to preserve and codify Athenian traditions following the city's loss of political autonomy. The extant fragments, though representing a minute portion of the original, provide invaluable insight into how Athenians of the Hellenistic period conceptualized their own historical development, religious practices, and civic customs.
 
 ## Text
 

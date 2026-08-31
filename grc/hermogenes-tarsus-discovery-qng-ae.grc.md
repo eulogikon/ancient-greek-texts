@@ -5,6 +5,7 @@ author: Hermogenes of Tarsus
 eul_wid: qng-ae
 eul_aid: qng
 canonical: "https://eulogikon.org/works/hermogenes-tarsus-discovery-qng-ae"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hermogenes of Tarsus
 
 **eul_wid:** `qng-ae` · [HTML page](https://eulogikon.org/works/hermogenes-tarsus-discovery-qng-ae)
-
-On Discovery is a rhetorical treatise by Hermogenes of Tarsus, a prominent orator of the late second century CE. Composed in Attic Greek, it functions as a manual of progymnasmata, or preliminary exercises, designed to instruct students in the art of rhetorical invention—the systematic process of discovering and developing arguments for speech. The work methodically progresses through sixty-seven exercises, beginning with elementary forms such as fables and narratives and advancing to complex compositional challenges like the elaboration of laws and theses. It served as a textbook for Greek-speaking students of rhetoric within the Roman Empire, embodying the period's scholarly preoccupation with mastering classical language and oratorical technique. The complete text is extant, though its transmission is intertwined with a larger, complex corpus of works attributed to Hermogenes. While his authorship of the core treatise On Issues is widely accepted, the authenticity of this Progymnasmata, often identified with On Discovery, is occasionally questioned by scholars, some of whom attribute it to later commentators. Regardless of its precise authorship, the exercises associated with Hermogenes became a cornerstone of rhetorical education in the Byzantine era and later during the Renaissance, securing the manual's enduring influence as a fundamental guide for structuring and amplifying discourse.
 
 ## Text
 

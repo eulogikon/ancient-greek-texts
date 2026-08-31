@@ -5,6 +5,7 @@ author: Aristides the Orator
 eul_wid: qwm-bt
 eul_aid: qwm
 canonical: "https://eulogikon.org/works/aristides-orator-panathenaic-qwm-bt"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristides the Orator
 
 **eul_wid:** `qwm-bt` · [HTML page](https://eulogikon.org/works/aristides-orator-panathenaic-qwm-bt)
-
-The Panathenaic is a formal panegyric composed in Attic Greek around 155 CE by the orator Aelius Aristides. A defining work of the Second Sophistic, a period of revived Greek rhetoric under Roman imperial rule, the oration is a systematic encomium celebrating the city of Athens. It methodically praises the city’s divine origins and patronage by the goddess Athena, its foundational gifts to human civilization such as agriculture and law, and its historical and military glory, with particular emphasis on its role during the Persian Wars. The work is structured into 106 sections and is distinguished by its intricate rhetorical artistry, employing a wealth of historical and mythological exempla to build its argument.
-
-Despite its title, modern scholarship concludes the speech was not delivered at the actual Panathenaic festival. It is instead considered a sophisticated literary showpiece, composed to be read or recited before a cultured audience. The oration functioned as a powerful assertion of the enduring cultural and educational supremacy of Athenian values within the Roman Empire, while simultaneously serving as a virtuoso demonstration of Aristides' own rhetorical mastery. The complete text survives intact, preserved primarily through medieval manuscripts such as the 13th-century Codex Laurentianus.
 
 ## Text
 

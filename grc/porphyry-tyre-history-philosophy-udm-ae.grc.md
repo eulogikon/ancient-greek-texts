@@ -5,6 +5,7 @@ author: Porphyry of Tyre
 eul_wid: udm-ae
 eul_aid: udm
 canonical: "https://eulogikon.org/works/porphyry-tyre-history-philosophy-udm-ae"
+lang: grc
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Porphyry of Tyre
 
 **eul_wid:** `udm-ae` · [HTML page](https://eulogikon.org/works/porphyry-tyre-history-philosophy-udm-ae)
-
-The Fragments of the History of Philosophy is a lost doxographical work by the Neoplatonist philosopher Porphyry of Tyre, who lived from approximately 234 to 305 CE. Originally a more substantial history referenced as comprising four books, the text survives only in excerpts quoted by later authors, a fact reflected in its title. The extant fragments provide biographical details, anecdotes, and summaries of key doctrines concerning earlier Greek philosophers, forming part of Porphyry's broader scholarly project to systematize the Hellenic philosophical tradition. The work likely addressed the succession of philosophers and their schools, offering a chronological framework for philosophical development from the Pre-Socratics to Hellenistic thinkers.
-
-The transmission of the work depends entirely on quotations found in later compilers, such as the church historian Eusebius and the 5th-century Neoplatonist Hierocles. These fragments are valuable for the otherwise lost information they preserve. As a scholarly resource composed by a major figure in the Neoplatonist movement, the history served as an important source for later pagan and Christian writers, significantly shaping the late antique and medieval understanding of Greek philosophy. The remains of the text continue to be crucial for reconstructing both Porphyry's own scholarly methods and the historiographical materials to which he had access.
 
 ## Text
 

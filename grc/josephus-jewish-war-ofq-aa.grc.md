@@ -5,6 +5,7 @@ author: Josephus the Historian
 eul_wid: ofq-aa
 eul_aid: ofq
 canonical: "https://eulogikon.org/works/josephus-jewish-war-ofq-aa"
+lang: grc
 period: Roman
 dialect: Koine
 domain: History
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Josephus the Historian
 
 **eul_wid:** `ofq-aa` · [HTML page](https://eulogikon.org/works/josephus-jewish-war-ofq-aa)
-
-The Jewish War is a seven-book historical work composed in Koine Greek by the Jewish-Roman historian Flavius Josephus, completed around 75–79 CE. It offers a comprehensive narrative of the First Jewish-Roman War, spanning from 66 to 73 CE, with its central focus on the Roman siege and destruction of Jerusalem and its Second Temple in 70 CE. Josephus states that he initially drafted the account in his native language, presumably Aramaic, for Eastern Jewish communities before producing the definitive Greek version with the aid of literary assistants; only this Greek text survives in its entirety.
-
-The history is systematically arranged to provide both context and a detailed chronicle of the conflict. The first book covers the period from the Maccabean revolt through the reign of Herod the Great. Books two through six narrate the immediate causes, outbreak, and brutal progression of the revolt, culminating in the detailed account of the siege and fall of Jerusalem. The final book describes the war’s aftermath, including the Roman capture of the fortress at Masada. Josephus wrote the work in Rome under the patronage of the victorious Flavian emperors, Vespasian and Titus. Modern scholarship interprets the history as serving multiple purposes: it functions as imperial propaganda that glorifies the Flavian dynasty, serves as a cautionary tale for other provinces contemplating rebellion against Roman authority, and represents Josephus’s personal attempt to explain the catastrophic defeat of his people. Throughout the narrative, he emphasizes the futility of the Jewish revolt, frequently attributing the disaster to extremist factions among the rebels, and portrays the Roman victory as divinely ordained.
-
-The complete Greek text has been preserved through medieval manuscript traditions dating from the 10th century onward. It became a foundational source for later historians, particularly among early Christian writers who valued it for its historical context on the period contemporaneous with the New Testament.
 
 ## Text
 

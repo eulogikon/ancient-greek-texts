@@ -5,6 +5,7 @@ author: Hippiatric Compilation Anonymous
 eul_wid: vjk-ah
 eul_aid: vjk
 canonical: "https://eulogikon.org/works/hippiatric-anon-anatolius-vjk-ah"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hippiatric Compilation Anonymous
 
 **eul_wid:** `vjk-ah` · [HTML page](https://eulogikon.org/works/hippiatric-anon-anatolius-vjk-ah)
-
-The Fragments of Anatolius is a collection of eleven brief passages on equine veterinary medicine, preserved within the larger corpus of Greek hippiatric texts. Written in Koine Greek, the compilation is attributed to Anatolius of Laodicea, a third-century philosopher and bishop, though this ascription is considered a later convention to lend authority to the practical material. The content is strictly technical, offering diagnostic and therapeutic advice for various horse diseases and injuries. It includes guidance on selecting breeding stock, judging a horse's potential from its behavior as a foal, and determining the appropriate age for breeding. The work is not an independent treatise but was compiled, likely in the late antique or early Byzantine period, for use by veterinarians and cavalry officers. Its transmission history is entirely bound to its inclusion and subsequent copying within the comprehensive practical manuals that constitute the surviving hippiatric tradition.
 
 ## Text
 

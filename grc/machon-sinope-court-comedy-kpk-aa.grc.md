@@ -5,6 +5,7 @@ author: Machon of Sinope
 eul_wid: kpk-aa
 eul_aid: kpk
 canonical: "https://eulogikon.org/works/machon-sinope-court-comedy-kpk-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Machon of Sinope
 
 **eul_wid:** `kpk-aa` · [HTML page](https://eulogikon.org/works/machon-sinope-court-comedy-kpk-aa)
-
-The Anecdotes of Court and Comedy is a 3rd-century BCE Hellenistic collection of 366 short, ribald verses by the poet Machon of Sinope. It compiles chreiai, which are brief, witty anecdotes centering on famous Athenian courtesans and the poets of Middle and New Comedy, such as Menander. The work survives only in fragments, primarily through extensive quotations in Athenaeus’s later work, the Deipnosophistae. Its content consists of humorous and often obscene sayings and scenes involving celebrated 4th- and 3rd-century BCE Athenian courtesans like Gnathaena and Lais, alongside anecdotal material about comic playwrights including Diphilus and Philemon. The humor is typically satirical, exposing social hypocrisy and vice. Preserved exclusively through approximately 45 anecdotes cited by Athenaeus in the 2nd-3rd century CE, these fragments constitute the entire extant text, which has been collected and edited by modern scholars. Machon’s collection offers a vivid, gossip-laden glimpse into the social and theatrical world of late Classical Athens, as refracted through Alexandrian scholarship. It stands as a valuable source for the history of comedy and Hellenistic poetry, illustrating the repackaging of Athenian cultural material for the entertainment of Hellenistic elites.
 
 ## Text
 

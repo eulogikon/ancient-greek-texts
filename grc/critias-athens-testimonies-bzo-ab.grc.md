@@ -5,6 +5,7 @@ author: Critias of Athens
 eul_wid: bzo-ab
 eul_aid: bzo
 canonical: "https://eulogikon.org/works/critias-athens-testimonies-bzo-ab"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Critias of Athens
 
 **eul_wid:** `bzo-ab` · [HTML page](https://eulogikon.org/works/critias-athens-testimonies-bzo-ab)
-
-The Testimonies is a modern scholarly compilation of twenty-three fragmentary passages concerning the Athenian figure Critias, a late 5th-century BCE philosopher and politician infamous as a leading member of the oligarchic Thirty Tyrants. It is not a single surviving work from antiquity but an editorial assemblage of excerpts and reports about his life and ideas, preserved indirectly by later authors such as Plato, Xenophon, and Sextus Empiricus. The collection aims to reconstruct Critias’s philosophical thought, which engaged with major intellectual debates of his era. The passages cover several themes, most notably the origins of religion, where Critias is famously reported to have argued that gods were invented by a shrewd lawgiver to instill fear and enforce social order. Other fragments present materialist views on psychology, identifying the soul with blood and defining sensations as physical processes. Modern scholars interpret these testimonia as placing Critias within the broader Sophistic movement and pre-Socratic debates concerning atheism, societal norms, and the nature of perception. The work’s structure of twenty-three passages is an editorial creation, organizing disparate ancient references into a coherent sequence for study. None of Critias’s own writings survive directly; all knowledge of his philosophy is mediated through these later quotations and discussions, which were systematically collected by modern editors.
 
 ## Text
 

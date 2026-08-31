@@ -5,6 +5,7 @@ author: Menander of Athens
 eul_wid: hps-bb
 eul_aid: hps
 canonical: "https://eulogikon.org/works/menander-athens-poverty-conduct-hps-bb"
+lang: grc
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Menander of Athens
 
 **eul_wid:** `hps-bb` · [HTML page](https://eulogikon.org/works/menander-athens-poverty-conduct-hps-bb)
-
-The Fragments on Poverty and Conduct is a modern scholarly compilation of excerpts attributed to the Athenian playwright Menander, the foremost figure of New Comedy. Written in verse during the late fourth and early third centuries BCE, these fragments collectively address the central concerns of Menander’s dramatic world: the pressures of financial insecurity, the principles of moral education, the dynamics of family life, and the pervasive influence of chance in human affairs. Menander’s comedy marked a decisive turn from the political satire of earlier Athenian drama toward realistic plots centered on domestic and romantic entanglements, populated by a cast of recognizable stock characters such as the cunning slave, the stern father, and the young lover.
-
-No complete play by Menander survives via the medieval manuscript tradition. Knowledge of his work depends entirely on fragments preserved in three primary forms: quotations within the works of later authors and anthologists, substantial passages recovered from papyri discovered in Egypt, and brief inscriptions incorporated into ancient mosaics. The collection brings together 1,764 such passages from these disparate sources, reflecting the fragmentary state of his corpus as reconstructed by modern philology. The enduring themes of ethical conduct and relatable human psychology evident in these fragments are believed to have been key to his widespread popularity in the ancient world.
-
-Menander’s influence extended far beyond Athens, providing the essential model for the Roman comic playwrights Plautus and Terence, whose adaptations fundamentally shaped the subsequent Western comic tradition. Modern appreciation for his artistry was significantly renewed following major papyrological discoveries in the twentieth century, which recovered more extensive portions of his plays. These finds have allowed scholars to better assess his sophisticated character development and intricate, morally nuanced plotting.
 
 ## Text
 

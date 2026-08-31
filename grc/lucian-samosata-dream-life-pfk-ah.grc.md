@@ -5,6 +5,7 @@ author: Lucian of Samosata
 eul_wid: pfk-ah
 eul_aid: pfk
 canonical: "https://eulogikon.org/works/lucian-samosata-dream-life-pfk-ah"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lucian of Samosata
 
 **eul_wid:** `pfk-ah` · [HTML page](https://eulogikon.org/works/lucian-samosata-dream-life-pfk-ah)
-
-On the Dream, also known as The Dream or Lucian's Career, is a short autobiographical oration by the second-century CE satirist Lucian of Samosata. Composed in Attic Greek, it functions as a prolalia, a rhetorical preface intended to engage an audience at the outset of a longer performance. The work recounts a decisive dream from the author's youth. Faced with the practical necessity of choosing a trade, the young Lucian was apprenticed to his uncle, a skilled stonecutter. He then dreamed of being contested by two allegorical figures: Paideia, representing Culture and Education, and Techne, representing Manual Craft. Paideia promised a life of intellectual distinction, travel, and honor, while Techne warned of a future defined by obscure, strenuous labor. Lucian's choice of Paideia serves within the speech as the foundational myth for his subsequent career as a rhetorician and man of letters.
-
-A product of the Second Sophistic, a movement emphasizing Greek cultural heritage and rhetorical virtuosity, the oration is a sophisticated exercise in self-presentation. It employs a common literary motif to articulate Lucian's ascent from a provincial artisan background into the cosmopolitan elite of Greek letters. The narrative underscores the paramount social value placed on paideia within the Roman Empire and dramatizes the contemporary tension between intellectual and manual modes of life. The text survives complete through the principal manuscript tradition preserving Lucian's works.
 
 ## Text
 

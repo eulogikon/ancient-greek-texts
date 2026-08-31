@@ -5,6 +5,7 @@ author: Moero of Byzantium
 eul_wid: ica-aa
 eul_aid: ica
 canonical: "https://eulogikon.org/works/moero-byzantium-zeus-dionysus-ica-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: Epic
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Moero of Byzantium
 
 **eul_wid:** `ica-aa` · [HTML page](https://eulogikon.org/works/moero-byzantium-zeus-dionysus-ica-aa)
-
-The Fragments on Zeus and Dionysus is a Hellenistic epic poem composed by Moero of Byzantium, a poet active around 300 BCE. Written in dactylic hexameter, the traditional meter of Greek epic, the work presented mythological narratives centered on the gods Zeus and Dionysus. The extant fragments, preserved exclusively through quotations in Athenaeus's The Learned Banqueters, indicate the poem included tales of divine infancy and etiological myths. One passage describes the nurturing of the infant Zeus in a Cretan cave by doves, who brought him ambrosia and nectar, with the great eagle fetching his drink. Another fragment addresses a grape cluster, heavy with the juice of Dionysus, promising it will no longer be bound by its mother vine but will sprout a nectarous leaf above its head, while also invoking the Anigrian Nymphs. The poem thus exemplifies the Hellenistic literary tendency toward erudite, allusive epic that elaborated on obscure myths and genealogies, crafted for a sophisticated readership well-versed in the classical poetic canon.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Aristophanes of Athens
 eul_wid: daw-ag
 eul_aid: daw
 canonical: "https://eulogikon.org/works/aristophanes-athens-domestic-market-daw-ag"
+lang: grc
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristophanes of Athens
 
 **eul_wid:** `daw-ag` · [HTML page](https://eulogikon.org/works/aristophanes-athens-domestic-market-daw-ag)
-
-_Domestic and Market Scenes_ is a title given to a lost compilation of comic fragments attributed to Aristophanes of Athens. The work is not a single, unified play but rather a later collection of excerpts, likely from various lost comedies by the poet. Its alternative Greek title, meaning "Fragments" or "Pieces Torn Off," underscores its nature as an anthology. It does not appear among the canonical eleven surviving Aristophanic comedies or in ancient lists of his known lost works.
-
-The content of such a compilation would inherently lack a single thematic focus, instead reflecting the broad range of subjects Aristophanes treated across his career. Based on the extant plays and other fragments, these excerpts would typically encompass the political and social satire of Athenian public life, parody of contemporary intellectuals and tragedians, robust sexual and scatological humor, and the fantastical plots and metamorphoses characteristic of Old Comedy. The work survives only as a title in the historical record; the figure sometimes associated with it, suggesting a collection of hundreds of passages, corresponds to modern scholarly catalogs of Aristophanic fragments rather than to an ancient manuscript. Such a compilation was probable assembled during the Hellenistic or Roman period for academic or literary purposes.
-
-While this specific anthology has no documented reception history of its own, the fragments it represents are of significant scholarly importance. They provide invaluable, if piecemeal, insights into the full breadth of Aristophanes' dramatic output and contribute to a more complete understanding of Old Comedy beyond the limited corpus of plays that survive intact.
 
 ## Text
 

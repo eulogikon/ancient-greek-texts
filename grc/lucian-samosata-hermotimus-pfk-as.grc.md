@@ -5,6 +5,7 @@ author: Lucian of Samosata
 eul_wid: pfk-as
 eul_aid: pfk
 canonical: "https://eulogikon.org/works/lucian-samosata-hermotimus-pfk-as"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lucian of Samosata
 
 **eul_wid:** `pfk-as` · [HTML page](https://eulogikon.org/works/lucian-samosata-hermotimus-pfk-as)
-
-_Hermotimus, or Concerning Sects_, is a philosophical dialogue by the Syrian-born satirist Lucian of Samosata, composed in Greek around 170–180 CE. The work presents a conversation between two characters: Lycinus, who often serves as the author’s mouthpiece, and Hermotimus, a dedicated student who has spent twenty years rigorously following the doctrines of Stoicism. Through their extended discussion, Lucian mounts a systematic and satirical critique of dogmatic philosophical schools, questioning the practicality and ultimate value of devoting one’s life to the tenets of a single sect in the pursuit of virtue.
-
-The dialogue unfolds as Lycinus encounters Hermotimus, who is deeply absorbed in philosophical reflection while walking. Hermotimus confirms his unwavering commitment to his studies, citing the brevity of life and the depth of knowledge required. Lycinus, however, gently probes this commitment, initiating a line of questioning that exposes the difficulties and contradictions inherent in choosing one philosophical path over another. The core argument challenges the possibility of any individual being able to adequately judge which school teaches the truth, given the complexity of their doctrines and the short span of a human life. Lucian satirizes the sectarian rivalries and the often-arbitrary nature of such allegiance, suggesting that the lifelong journey toward wisdom may be fundamentally misguided.
-
-Composed during the cultural movement known as the Second Sophistic, the dialogue engages with a central concern of the educated Greek elite under Roman rule: philosophical identity and affiliation. It survives complete through medieval manuscript tradition and is considered a genuine work of Lucian. Modern interpretation views the satire not as an endorsement of a rival school like Skepticism, but rather as a broader critique of dogmatism itself. The work concludes by advocating a pragmatic withdrawal from intense sectarian commitment, favoring instead a more moderate and less doctrinaire approach to life.
 
 ## Text
 

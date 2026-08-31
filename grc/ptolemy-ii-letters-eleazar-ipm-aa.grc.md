@@ -5,6 +5,7 @@ author: Ptolemy II Philadelphus Eleazar Letters
 eul_wid: ipm-aa
 eul_aid: ipm
 canonical: "https://eulogikon.org/works/ptolemy-ii-letters-eleazar-ipm-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Ptolemy II Philadelphus Eleazar Letters
 
 **eul_wid:** `ipm-aa` · [HTML page](https://eulogikon.org/works/ptolemy-ii-letters-eleazar-ipm-aa)
-
-The "Letter to Eleazar" is a piece of royal correspondence attributed to Ptolemy II Philadelphus, the Hellenistic king of Egypt. It is preserved not as a standalone document but as an embedded component within the larger 2nd-century BCE text known as the Letter of Aristeas. Composed in Koine Greek, the letter is presented as a diplomatic request from the king to Eleazar, the Jewish High Priest in Jerusalem. Its stated purpose is to secure skilled translators to come to Alexandria for the creation of a Greek version of the Jewish Law, the Torah, intended for inclusion in the famed Royal Library.
-
-This letter forms a central part of the legendary narrative concerning the origin of the Septuagint, the Greek translation of the Hebrew Bible. Modern scholarship regards it as a literary creation by the anonymous author of the Letter of Aristeas rather than a genuine historical document. It is understood as a work of apologetics, crafted to promote the authority and prestige of the Greek Torah and to portray an idealized vision of cooperation and mutual respect between the Jewish diaspora and the Hellenistic monarchy. The narrative served to legitimize the translation project as a royally sanctioned and meticulously executed endeavor.
-
-The text survives exclusively within the manuscript tradition of the Letter of Aristeas, which is preserved in over twenty manuscripts. The oldest witness is a 4th-century CE papyrus fragment. The work was transmitted primarily by Christian scribes who valued its account of the Septuagint's origins. The story, including Ptolemy's letter, became highly influential in antiquity, cited by later Jewish and Christian writers to affirm the divine inspiration and authoritative status of the Greek Old Testament.
 
 ## Text
 

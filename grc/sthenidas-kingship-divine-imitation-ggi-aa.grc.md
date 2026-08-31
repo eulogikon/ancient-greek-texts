@@ -5,6 +5,7 @@ author: Sthenidas
 eul_wid: ggi-aa
 eul_aid: ggi
 canonical: "https://eulogikon.org/works/sthenidas-kingship-divine-imitation-ggi-aa"
+lang: grc
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Sthenidas
 
 **eul_wid:** `ggi-aa` · [HTML page](https://eulogikon.org/works/sthenidas-kingship-divine-imitation-ggi-aa)
-
-_On Kingship and Divine Imitation_ is a brief philosophical treatise attributed to Sthenidas of Locri, a figure associated with the Pythagorean tradition. The work survives exclusively in two fragments preserved by the Neoplatonist philosopher Iamblichus in his biographical work _On the Pythagorean Life_, where it is presented as an exemplar of Pythagorean political doctrine. The treatise’s core argument posits that the legitimacy and function of a terrestrial king are derived from his imitation of a divine archetype. It asserts that a true king must be wise, thereby becoming an imitator and emulator of the primary god, who is the fundamental king and ruler by nature. The earthly ruler, in contrast, holds his position by generation and imitation. The god governs the entire cosmos eternally, possessing wisdom within himself, while the human king administers within time and through acquired knowledge.
-
-The text advises that the king best imitates the divine by cultivating magnanimity, gentleness, and a lack of neediness, demonstrating a paternal disposition toward his subjects. This paternal model is grounded in the conception of the primary god as father of both gods and men, characterized by perpetual gentleness, unwavering providence, and a role that extends beyond creation to include nurturing, instruction, and legislation. The earthly king, therefore, is obliged to embody these same qualities of benevolent, providential care and lawgiving. This framework effectively grounds political authority in a theological cosmology, presenting the state as a microcosm of the divinely ordered universe and the king as a “living law” who incarnates and administers this order. The authenticity of the attribution to Sthenidas remains uncertain, as both the author and the work are otherwise unattested and may represent a later pseudonymous composition. Nevertheless, its ideas contributed to the Neoplatonic synthesis of political philosophy, particularly the concept of theomorphic rulership. The formulation of the king as a living law became an influential strand in the philosophical justification for autocratic rule based on divine analogy, leaving a discernible imprint on subsequent Byzantine political theory.
 
 ## Text
 

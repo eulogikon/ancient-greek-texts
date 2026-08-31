@@ -5,6 +5,7 @@ author: Rhetorical Treatise Anonymous
 eul_wid: rhg-ak
 eul_aid: rhg
 canonical: "https://eulogikon.org/works/anon-rhet-treatise-problems-status-rhg-ak"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Rhetorical Treatise Anonymous
 
 **eul_wid:** `rhg-ak` · [HTML page](https://eulogikon.org/works/anon-rhet-treatise-problems-status-rhg-ak)
-
-The Rhetorical Problems in Status is an anonymous Greek treatise comprising twelve passages of advanced preliminary exercises. It presents a series of hypothetical legal cases, each meticulously constructed to illustrate a specific stasis, or core point of dispute, as defined in classical rhetorical theory. The work functioned as a specialized textbook for students mastering judicial oratory, guiding them through the process of rhetorical invention by identifying and arguing the central issue in a forensic scenario. Examples from its cases include a guardian's son who violates a law forbidding marriage to his ward, a war hero condemned for killing a man he caught in adultery with his own wife, and a general disqualified from command after his sons perish in battle. The treatise is not widely attested in major rhetorical manuscripts and appears to have been a minor pedagogical tool, its survival likely due to its inclusion in larger medieval compilations of rhetorical materials. As a technical school text, it exemplifies the granular, systematic pedagogy of ancient rhetorical education, offering practical insight into the application of theoretical systems codified by earlier rhetoricians.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Philostratus Athenian
 eul_wid: rlw-aa
 eul_aid: rlw
 canonical: "https://eulogikon.org/works/philostratus-athenian-images-rlw-aa"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Biography
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philostratus Athenian
 
 **eul_wid:** `rlw-aa` · [HTML page](https://eulogikon.org/works/philostratus-athenian-images-rlw-aa)
-
-The Images is a work of descriptive prose from the third century CE, written in Attic Greek by the sophist Philostratus the Athenian. It is a prime example of ekphrasis, a rhetorical exercise dedicated to vivid description. The text is structured as two books containing 65 short passages, each presented as a description of a specific painting within a villa gallery in Naples. The narrator acts as a guide for a young boy, bringing the artwork to life by detailing scenes from Greek mythology, history, and daily life. Modern scholars interpret the described gallery and its paintings as almost certainly fictional, viewing them as sophisticated literary inventions that serve as prompts for the author to display his rhetorical skill and deep knowledge of Greek cultural heritage. The work is a key product of the Second Sophistic movement, a period marked by a revival of classical Greek learning among the educated elite in the Roman Empire, for whom it was likely written. The Images has survived in full through medieval manuscripts and remains a foundational text for understanding ancient rhetorical education and artistic values, exerting a direct influence on later descriptive literature.
 
 ## Text
 

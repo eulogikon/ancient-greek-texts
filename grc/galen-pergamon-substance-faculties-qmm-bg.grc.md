@@ -5,6 +5,7 @@ author: Galen of Pergamon
 eul_wid: qmm-bg
 eul_aid: qmm
 canonical: "https://eulogikon.org/works/galen-pergamon-substance-faculties-qmm-bg"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Galen of Pergamon
 
 **eul_wid:** `qmm-bg` · [HTML page](https://eulogikon.org/works/galen-pergamon-substance-faculties-qmm-bg)
-
-Galen of Pergamon's treatise On the Substance of Natural Faculties is a medical-philosophical work investigating the ontological basis of the body's innate physiological capacities. It forms part of Galen's project to establish a teleological theory of biological function, synthesizing Hippocratic observation with Aristotelian philosophy. The text systematically argues that natural faculties are immaterial, qualitative powers inherent in an organ's specific material mixture, opposing rival mechanistic theories. It opens with a philosophical examination of what constitutes a faculty, arguing it is an incorporeal power of the bodily mixture, and proceeds to defend teleological explanation in nature against the mechanistic models of physicians like Erasistratus and Asclepiades. Galen further integrates this physiology with Platonic tripartite psychology, linking natural faculties to the appetitive soul. The text survives within the Galenic corpus, preserved through Byzantine Greek manuscripts. It was translated into Arabic during the Abbasid translation movement and later into Latin, becoming a foundational text in medieval medicine. The work solidified the teleological and faculty-based model of physiology that dominated Islamic and European medicine for centuries. Its arguments against mechanism shaped scholastic debates on life functions, with Galen's authority remaining largely unchallenged until the Renaissance.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: John Philoponus of Alexandria
 eul_wid: uxc-al
 eul_aid: uxc
 canonical: "https://eulogikon.org/works/john-philoponus-alexandria-commentary-aristotle-uxc-al"
+lang: grc
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** John Philoponus of Alexandria
 
 **eul_wid:** `uxc-al` · [HTML page](https://eulogikon.org/works/john-philoponus-alexandria-commentary-aristotle-uxc-al)
-
-John Philoponus of Alexandria’s Commentary on Aristotle’s On Generation and Corruption is a philosophical treatise from the early sixth century CE. Composed in Greek as a series of 314 lectures, it offers a meticulous, line-by-line analysis of Aristotle’s work, which examines the principles of change, the nature of the four elements, and processes such as growth, mixture, and alteration. A product of the late Neoplatonic school in Alexandria, the commentary was designed for advanced students but is distinguished by Philoponus’s critical and often adversarial engagement with Aristotelian doctrine rather than mere exposition.
-
-The complete work is preserved through Byzantine manuscripts. Within it, Philoponus systematically challenges fundamental tenets of Aristotelian physics. He critiques Aristotle’s theories of motion, proposing an early conceptual forerunner to the medieval impetus theory. Furthermore, he argues against the Aristotelian notion of a formless prime matter, contending instead that matter inherently possesses dimensional extension and qualitative properties. Scholarly analysis suggests this early commentary laid the groundwork for his later, more explicit arguments against the eternity of the world, a synthesis of his Neoplatonic training and Christian convictions. His innovative critiques exerted a significant influence on subsequent Islamic and medieval European natural philosophy, contributing to the intellectual foundations that would later inform the development of early modern science.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Aristides the Orator
 eul_wid: qwm-aq
 eul_aid: qwm
 canonical: "https://eulogikon.org/works/aristides-orator-funeral-eteoneus-qwm-aq"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristides the Orator
 
 **eul_wid:** `qwm-aq` · [HTML page](https://eulogikon.org/works/aristides-orator-funeral-eteoneus-qwm-aq)
-
-The Funeral Oration for Eteoneus is a brief prose oration composed in Attic Greek by the orator Aelius Aristides during the mid-2nd century CE. It is a work of epideictic oratory, specifically a funeral oration that consciously emulates the form and style of classical Athenian models. The speech praises the character and virtues of a young man named Eteoneus, who died prematurely. It follows the conventional structure of the genre, extolling his distinguished ancestry, his education, and his moral excellence, while simultaneously lamenting the tragedy of his early death and offering consolation to his bereaved family and community.
-
-A product of the Second Sophistic movement, a period characterized by the revival and performance of classical Greek rhetoric under Roman imperial authority, the oration functions as both a social ritual and a rhetorical display. It honors a member of the provincial elite while demonstrating Aristides' own formidable command of archaic linguistic and stylistic conventions. The identity of Eteoneus is not otherwise attested, suggesting the speech was delivered at a private funeral or commemorative gathering within Aristides' own circle. The complete text survives as part of the author's transmitted corpus, preserved in medieval manuscripts such as the 10th-century Codex Laurentianus. It stands as a concise and intact example of how classical rhetorical forms were adapted for contemporary social and ceremonial purposes during the Roman Imperial era.
 
 ## Text
 

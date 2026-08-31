@@ -5,6 +5,7 @@ author: Socrates Letters
 eul_wid: mda-aa
 eul_aid: mda
 canonical: "https://eulogikon.org/works/socrates-letters-philosophy-mda-aa"
+lang: grc
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Socrates Letters
 
 **eul_wid:** `mda-aa` · [HTML page](https://eulogikon.org/works/socrates-letters-philosophy-mda-aa)
-
-The Socratic Letters on Philosophy are a pseudepigraphal collection of thirty-six epistles attributed to Socrates. Composed by unknown authors in the Hellenistic or early Roman Imperial period, the compilation presents letters written in the persona of Socrates and his associates, including figures like Xenophon and Aristippus. It forms part of a broader tradition of pseudonymous philosophical correspondence designed to popularize Socratic ethical teachings through an accessible and dramatized literary format. The letters focus on practical ethics, illustrating the application of philosophical principles to everyday conduct and personal challenges. They aim to perpetuate the legacy of Socratic teaching and character, simplifying concepts for a general educated audience through the personal medium of the epistle. A recurring theme casts the philosopher in the role of a moral guide, offering counsel on friendship and personal dilemmas. The letters survive within a larger corpus of pseudepigraphal philosophical correspondence transmitted through medieval manuscripts. This collection played a significant role in shaping the legendary figure of Socrates in later antiquity, serving as both an educational and protreptic text that made Socratic ethics widely accessible and reflected the enduring cultural engagement with Socrates as a definitive moral persona.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Euphorion of Chalcis
 eul_wid: kog-aa
 eul_aid: kog
 canonical: "https://eulogikon.org/works/euphorion-chalcis-myth-divinity-kog-aa"
+lang: grc
 period: Hellenistic
 dialect: Attic
 domain: Epic
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Euphorion of Chalcis
 
 **eul_wid:** `kog-aa` · [HTML page](https://eulogikon.org/works/euphorion-chalcis-myth-divinity-kog-aa)
-
-The Fragments on Myth and Divinity is a modern compilation of 215 surviving passages from the lost works of the Hellenistic poet and scholar Euphorion of Chalcis, who flourished in the third century BCE. As the head of the royal library at Antioch, Euphorion composed learned epic poetry and short epics, or epyllia, characterized by extreme erudition and difficulty. His verses are dense with obscure mythological variants, rare vocabulary, and recondite allusions, designed for a sophisticated, scholarly audience. The extant fragments, which represent the scattered remains of lost poems such as Thrax and Chiliades, were preserved through quotations in later Greek authors and commentators, as well as in papyrus discoveries. They touch upon characteristically Hellenistic themes, including local cult origins, unusual etiological tales, and the pathos of tragic love stories. Though no complete work survives, Euphorion’s influence was profound, particularly on Roman poets such as Virgil, who adapted his erudite and emotionally intense style. His model of allusive, intellectually demanding poetry played a significant role in shaping the course of Augustan literature.
 
 ## Text
 

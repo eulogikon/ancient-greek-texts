@@ -5,6 +5,7 @@ author: Amelesagoras of Chalcedon
 eul_wid: cas-aa
 eul_aid: cas
 canonical: "https://eulogikon.org/works/amelesagoras-chalcedon-atthid-cas-aa"
+lang: grc
 period: Classical
 dialect: Attic (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Amelesagoras of Chalcedon
 
 **eul_wid:** `cas-aa` · [HTML page](https://eulogikon.org/works/amelesagoras-chalcedon-atthid-cas-aa)
-
-The Atthid Fragments attributed to Amelesagoras of Chalcedon comprise four prose passages preserved by later authors, representing a fragmentary example of Atthidography, the genre of local historiography focused on Attica. The work survives solely through indirect citations, primarily by the Neoplatonist Proclus in the fifth century CE and the Byzantine scholar Michael Psellus in the eleventh century CE. These fragments are catalogued in Felix Jacoby’s authoritative collection, Die Fragmente der griechischen Historiker. Their content is predominantly mythological, detailing divine genealogies and etymologies pertinent to Athenian antiquity. One fragment, for instance, explains the name Demeter as being derived from the phrase meaning "giver of gifts." The material consistently concerns the pre-history and cultic traditions specific to the region of Attica. The late and fragmentary transmission of the text contributes to significant doubts about its authorship, with some ancient sources conflating Amelesagoras with the earlier and more prominent Atthidographer Hellanicus of Lesbos. Despite these problems of attribution, the fragments remain a notable, if problematic, datum in the study of early Greek local history. They exemplify the mythological and antiquarian interests characteristic of the earliest phases of Atthidography, which preceded the more political and historically oriented works of the fourth century BCE, and their disputed authorship places them within ongoing scholarly debates regarding the development and contours of the genre.
 
 ## Text
 

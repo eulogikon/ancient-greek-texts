@@ -5,6 +5,7 @@ author: Galen of Pergamon
 eul_wid: qmm-da
 eul_aid: qmm
 canonical: "https://eulogikon.org/works/galen-pergamon-unequal-intemperance-qmm-da"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Galen of Pergamon
 
 **eul_wid:** `qmm-da` · [HTML page](https://eulogikon.org/works/galen-pergamon-unequal-intemperance-qmm-da)
-
-Galen’s treatise On Unequal Intemperance examines a specific problem in moral psychology: the phenomenon whereby an individual may successfully resist one non-rational desire while succumbing to another of comparable strength. The work analyzes this condition of uneven or "unequal" lack of self-control, known as akrasia. Galen employs a Platonic model of a tripartite soul, locating the rational faculty in the brain, the spirited part in the heart, and the appetitive part in the liver. He argues that intemperance manifests unevenly because these non-rational parts of the soul are distinct entities, capable of conflicting not only with reason but also with each other. This psychological framework is integrated with Galenic medical theory, positing that the physiological condition of the respective organs directly influences the strength and operation of their corresponding psychic faculties. Thus, the treatise forms a bridge between ethics and medicine, exploring the psychophysical basis of moral failure. The original work is lost and survives only in fragments, primarily through quotations by later authors such as the 11th-century Byzantine scholar Michael Psellos in his compilation De omnifaria doctrina. Galen’s core argument—that intemperance is unequal due to the distinct nature of the soul’s parts—constitutes a significant development in moral psychology. His synthesis of Platonic psychology with humoral theory provided a influential model for later medieval and Renaissance thinkers seeking a physiological and scientific basis for ethical phenomena.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Historical Fragments  Anonymous
 eul_wid: mmg-ag
 eul_aid: mmg
 canonical: "https://eulogikon.org/works/anon-hist-frag-third-syrian-war-mmg-ag"
+lang: grc
 period: Hellenistic
 dialect: Mixed Dialects (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Historical Fragments  Anonymous
 
 **eul_wid:** `mmg-ag` · [HTML page](https://eulogikon.org/works/anon-hist-frag-third-syrian-war-mmg-ag)
-
-The Annals of the Third Syrian War is an anonymous historical work known only from its title and two brief fragments preserved by later authors. The title suggests it was originally an annalistic account of the Third Syrian War, a conflict fought between the Seleucid and Ptolemaic empires from approximately 246 to 241 BCE. The extant fragments, however, describe events from the year 171 BCE, including a reference to the consuls of that year and details of a naval engagement near Phanae on the island of Chios. This significant chronological discrepancy indicates either that the work possessed a broader historical scope than its title implies or that the title was misattributed during its transmission through later sources. The work is entirely lost as an independent text, surviving only as quotations within the works of unnamed later authors, from which they have been collected in modern scholarly compilations. Given its extremely fragmentary state and the unresolved questions surrounding its content and chronology, it remains a minor and problematic source for the historical events of the second century BCE.
 
 ## Text
 

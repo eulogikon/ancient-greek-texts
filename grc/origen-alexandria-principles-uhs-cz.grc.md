@@ -5,6 +5,7 @@ author: Origen of Alexandria
 eul_wid: uhs-cz
 eul_aid: uhs
 canonical: "https://eulogikon.org/works/origen-alexandria-principles-uhs-cz"
+lang: grc
 period: Late Antique
 dialect: Christian Koine
 domain: Theology
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Origen of Alexandria
 
 **eul_wid:** `uhs-cz` · [HTML page](https://eulogikon.org/works/origen-alexandria-principles-uhs-cz)
-
-On Principles is a foundational work of systematic Christian theology written by Origen of Alexandria in the early third century CE. Composed in Greek around 220–230, it was originally structured in four books and represents the first major attempt to construct a comprehensive philosophical and doctrinal framework for Christianity, synthesizing biblical scripture with elements of Platonic thought. The treatise is organized around the exposition of core doctrines which Origen identified as handed down by the apostles, including the nature of God, Christ, and the Holy Spirit, the origin and condition of rational creatures, the creation of the world, and the interpretation of scripture. It systematically addresses themes such as the Trinity, the pre-existence and fall of souls, and the ultimate purpose of history. A significant and later controversial element of the work is its speculation on apokatastasis, or the potential universal restoration of all rational beings to God. Modern scholars view On Principles as an ambitious project to provide an intellectual defense of Christianity for an educated audience, positioning it as a rival to the philosophical schools of the era.
-
-The transmission of the text is complex and fragmentary. The original Greek version is almost entirely lost, surviving primarily through a complete Latin translation made by Rufinus of Aquileia around 398 CE. Scholars note that Rufinus's translation often modified Origen's more speculative and controversial ideas to align with later orthodoxy. Other important sources include partial Greek fragments preserved in an anthology known as the Philocalia, as well as quotations in the works of later Christian authors. The work's bold doctrinal speculations fueled major theological controversies, and it was formally condemned as heretical in the sixth century, a condemnation which severely damaged its direct manuscript tradition and contributed to the loss of the original Greek text.
 
 ## Text
 

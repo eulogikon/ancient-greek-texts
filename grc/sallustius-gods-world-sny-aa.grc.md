@@ -5,6 +5,7 @@ author: Sallustius the Philosopher
 eul_wid: sny-aa
 eul_aid: sny
 canonical: "https://eulogikon.org/works/sallustius-gods-world-sny-aa"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Sallustius the Philosopher
 
 **eul_wid:** `sny-aa` · [HTML page](https://eulogikon.org/works/sallustius-gods-world-sny-aa)
-
-On the Gods and the World is a philosophical treatise composed in Greek by the late Roman pagan philosopher Sallustius, likely between 360 and 380 CE. Structured as a concise handbook of twenty-four chapters, it offers a systematic summary of core Neoplatonic doctrine. The work begins by establishing the nature of the divine, arguing for the existence of a supreme, unchanging, and incorporeal First Cause and delineating the hierarchy of hypercosmic and cosmic gods. A significant portion is devoted to defending traditional mythology, asserting that myths are divine allegories containing philosophical truths about the gods and the cosmos, and classifying them into five distinct types. The treatise further explains the providential order of the universe, the immortality of the soul, and the relationship between fate, fortune, and free will. It concludes with discussions on virtue, the origin of evil, and the purpose of ritual worship, arguing that piety is necessary for the soul's return to the divine despite the gods' self-sufficiency.
-
-Transmitted through a single manuscript from the 15th or 16th century, the work survives complete. Its clear, didactic style indicates it was intended as an introductory manual or catechism for educated adherents. Modern scholarship places the treatise within the context of the 4th-century pagan revival, particularly associating it with the intellectual circle of Emperor Julian. It stands as a key document from a period of intense religious change, articulating a sophisticated philosophical rationale for traditional Greco-Roman religion in direct response to the rising dominance of Christianity. The work provides a crucial window into how late antique pagan thinkers systematized their beliefs to strengthen communal identity and defend their theological worldview.
 
 ## Text
 

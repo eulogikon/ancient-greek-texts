@@ -5,6 +5,7 @@ author: Erotic Narrative Anonymous
 eul_wid: skw-ah
 eul_aid: skw
 canonical: "https://eulogikon.org/works/erotica-anon-sesonchosis-skw-ah"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: Fiction
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Erotic Narrative Anonymous
 
 **eul_wid:** `skw-ah` · [HTML page](https://eulogikon.org/works/erotica-anon-sesonchosis-skw-ah)
-
-_Sesonchosis_ is a fragmentary ancient Greek prose narrative preserved on a single papyrus, P.Oxy. 2466, published in 1961 and housed at the University of Oxford. The 45-line fragment depicts a scene in which a woman comforts and erotically engages a distressed king named Sesonchosis through anointing, kissing, and speech before the text breaks off. The narrative begins and ends abruptly, and its relation to a larger work is unknown. The fragment exemplifies the novelistic adaptation of heroic legend, repurposing Sesonchosis—a Greek romanticization of the Egyptian pharaohs Senwosret or Psamtik I—from a traditional figure of conquest into a protagonist of intimate, popular romance, illustrating a key thematic development in ancient Greek fiction.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Plato of Athens
 eul_wid: ffk-aw
 eul_aid: ffk
 canonical: "https://eulogikon.org/works/plato-epinomis-ffk-aw"
+lang: grc
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plato of Athens
 
 **eul_wid:** `ffk-aw` · [HTML page](https://eulogikon.org/works/plato-epinomis-ffk-aw)
-
-The Epinomis is a philosophical dialogue composed in Attic Greek around 350–347 BCE and transmitted as part of the Platonic corpus. It presents itself as an explicit sequel to Plato’s Laws, continuing the conversation with the same three characters: the Athenian Stranger, Cleinias, and Megillus. Structured as a single continuous discourse, the dialogue directly addresses a question left unresolved in its predecessor: what specific knowledge renders a mortal human wise and thus fully qualified to govern. Its central aim is to define the supreme wisdom required for membership in the Nocturnal Council, the elite ruling body proposed in the Laws.
-
-The dialogue argues that the highest form of wisdom is astronomy, conceived not merely as an observational science but as the philosophical study of the divine and rational order of the cosmos. This celestial order is presented as the ultimate foundation for piety, virtue, and correct statecraft. To support this thesis, the Epinomis advances a unique cosmology based on five elemental bodies—earth, water, air, fire, and aither—and elevates the study of their harmonious, intelligent motions to a theological and ethical discipline. It concludes that only through mastering this astronomical science can a select few individuals attain true happiness and the capacity to rule justly.
-
-While fully extant and preserved through medieval manuscripts alongside Plato’s authentic works, the dialogue’s authorship has been contested since antiquity. Modern scholarly consensus largely holds that it was not written by Plato, citing significant stylistic and doctrinal divergences. Many attribute it to his associate Philip of Opus, who is recorded as having transcribed the Laws and possibly composed this appendix. Regardless of its authorship, the Epinomis reflects the increasing classical interest in mathematical astronomy and exerted considerable influence on later Platonic thought by positioning the study of the heavens as the essential link between human reason, divinity, and the ethical life.
 
 ## Text
 

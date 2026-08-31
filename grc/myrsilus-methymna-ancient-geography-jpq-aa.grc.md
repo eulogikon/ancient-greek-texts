@@ -5,6 +5,7 @@ author: Myrsilus of Methymna
 eul_wid: jpq-aa
 eul_aid: jpq
 canonical: "https://eulogikon.org/works/myrsilus-methymna-ancient-geography-jpq-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Myrsilus of Methymna
 
 **eul_wid:** `jpq-aa` · [HTML page](https://eulogikon.org/works/myrsilus-methymna-ancient-geography-jpq-aa)
-
-The Fragments on Ancient Geography is a lost prose treatise by the Hellenistic historian and mythographer Myrsilus of Methymna. Preserved only through approximately twenty quotations in later authors, the work combined geographical description with the mythological and historical foundations of places. It exemplifies the antiquarian scholarship of its era, systematically organizing local traditions within a broader Panhellenic framework. The surviving fragments, primarily concerning the Greek mainland, islands, and Asia Minor, focus on aitiology and etymology, explaining place names through associated myths. They also record foundation stories for cities, offer ethnographic descriptions of peoples such as the Pelasgians, and preserve regional historical traditions, a genre known as horography. The work survives solely through citation by later authorities, including the geographer Strabo, the historian Dionysius of Halicarnassus, and the Byzantine Suda lexicon. These fragments are collected in Felix Jacoby’s Die Fragmente der griechischen Historiker. Myrsilus’s compilation was utilized by subsequent geographers like Strabo and contributed to the stream of Hellenistic antiquarian scholarship that was later mined by Roman and Byzantine authors. The fragments remain a valuable source for the study of Greek mythography, local history, and the reception of early traditions.
 
 ## Text
 

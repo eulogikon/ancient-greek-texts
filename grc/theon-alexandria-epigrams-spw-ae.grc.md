@@ -5,6 +5,7 @@ author: Theon of Alexandria
 eul_wid: spw-ae
 eul_aid: spw
 canonical: "https://eulogikon.org/works/theon-alexandria-epigrams-spw-ae"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: Mathematics
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Theon of Alexandria
 
 **eul_wid:** `spw-ae` · [HTML page](https://eulogikon.org/works/theon-alexandria-epigrams-spw-ae)
-
-The Epigrams are a collection of nine short Greek poems by Theon of Alexandria, the noted 4th-century mathematician and astronomer. These verses depart from conventional poetic themes, functioning instead as sophisticated mathematical puzzles. Each self-contained epigram presents a concise narrative scenario that encodes a problem concerning the distribution of money, the division of estates, or the calculation of time, requiring algebraic reasoning for its solution. A celebrated example ingeniously frames an algebraic riddle to reveal the lifespan of the mathematician Diophantus. Composed in a blend of Homeric and Koine Greek, the work represents a fusion of literary artistry and mathematical ingenuity.
-
-Theon likely composed these epigrams in the latter half of the 4th century CE, as one poem references the Emperor Jovian, who died in 364 CE. A professor at the Museum of Alexandria and father of the philosopher Hypatia, Theon was a central figure in the scholarly community of his time. Modern interpretation views these poems as didactic and recreational exercises, crafted for an educated audience that valued intellectual play as part of the classical tradition of paideia, or comprehensive education. The entire collection survives exclusively within the Byzantine compilation known as the Greek Anthology; there is no independent manuscript tradition for Theon's poems alone. Their preservation within this literary anthology, rather than in a purely mathematical context, underscores their unique cross-disciplinary character as works that straddle the realms of poetry and science.
 
 ## Text
 

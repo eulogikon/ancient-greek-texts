@@ -5,6 +5,7 @@ author: Critias of Athens
 eul_wid: bzo-ae
 eul_aid: bzo
 canonical: "https://eulogikon.org/works/critias-athens-anacreon-cotabus-bzo-ae"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Critias of Athens
 
 **eul_wid:** `bzo-ae` · [HTML page](https://eulogikon.org/works/critias-athens-anacreon-cotabus-bzo-ae)
-
-The Fragments on Anacreon and Cotabus is a modern compilation of quotations attributed to Critias of Athens, the late 5th-century BCE philosopher, orator, and political leader. These 81 passages, preserved not as a continuous text but through citation by later authors, primarily derive from the Deipnosophistae of Athenaeus of Naucratis, composed in the late 2nd or early 3rd century CE. The collection treats two distinct yet sympotically linked subjects: the life and poetic art of the archaic lyric poet Anacreon, celebrated for his verses on love and wine, and the detailed mechanics, equipment, and social etiquette of kottabos, a popular Greek drinking game. Scholars generally interpret this pairing as evidence that the fragments originated from a broader, now-lost treatise on banquet culture, likely intended for an aristocratic audience with interests in literary history and social customs. As a rare example of pre-Aristotelian literary criticism and a detailed study of a specific social practice, the compilation provides valuable insight into classical Athenian intellectual life and the methods of later antiquarians like Athenaeus who preserved such material.
 
 ## Text
 

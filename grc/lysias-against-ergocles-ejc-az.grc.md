@@ -5,6 +5,7 @@ author: Lysias the Orator
 eul_wid: ejc-az
 eul_aid: ejc
 canonical: "https://eulogikon.org/works/lysias-against-ergocles-ejc-az"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lysias the Orator
 
 **eul_wid:** `ejc-az` · [HTML page](https://eulogikon.org/works/lysias-against-ergocles-ejc-az)
-
-"Against Ergocles, Epilogue" is a forensic oration composed by the Attic logographer Lysias around 389 BCE. It constitutes the concluding portion of a prosecution speech delivered at the trial of the Athenian general Ergocles, who faced charges of corruption and embezzlement of public funds following a naval expedition. The work survives not as a complete text but as a series of fifteen fragmentary passages, transmitted through quotations in later ancient authors, most notably the lexicographer Harpocration of the second century CE. These fragments were subsequently assembled and numbered by modern editors to form the extant epilogue.
-
-The speech was written in the context of the Corinthian War, a period during which Athens rigorously monitored the conduct of its military commanders. Ergocles stood accused of misappropriating money levied from allied states, a case that underscores the Athenian democratic legal system's function in holding public officials accountable for financial misconduct. In the surviving passages, the speaker forcefully summarizes the charges, arguing that Ergocles's crimes—including betraying cities, wronging Athenian citizens and allies, and transforming himself from a poor man into one of the wealthiest citizens through public funds—are so grave that even multiple death sentences would be insufficient punishment. The epilogue appeals directly to the jurors' sense of justice and civic duty, contrasting the financial hardship borne by the Athenian populace with the illicit wealth acquired by the defendant, and urges them to demonstrate the same severity shown in more prosperous times.
-
-As a work composed by Lysias for a client, the epilogue exemplifies his characteristically clear, direct, and persuasive prose style. For modern scholarship, these fragments provide valuable insight into the political and legal climate of post-war Athens, illustrating the mechanisms for prosecuting official corruption and the potent rhetorical strategies employed in Athenian courts.
 
 ## Text
 

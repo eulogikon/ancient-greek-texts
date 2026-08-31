@@ -5,6 +5,7 @@ author: Theognis of Megara
 eul_wid: bbs-aa
 eul_aid: bbs
 canonical: "https://eulogikon.org/works/theognis-megara-uncertain-fragments-bbs-aa"
+lang: grc
 period: Archaic
 dialect: Ionic Elegiac
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Theognis of Megara
 
 **eul_wid:** `bbs-aa` · [HTML page](https://eulogikon.org/works/theognis-megara-uncertain-fragments-bbs-aa)
-
-The poetic corpus attributed to Theognis of Megara, conventionally known as the Theognidea, is a collection of elegiac verses preserved primarily in two books within the Palatine Anthology and other manuscripts. No prose work by this author is attested, and the description of a text titled "Fragments of Uncertain Placement" does not correspond to any known work in the Theognidean tradition. The extant collection is a compilation of poems, many addressed to a youth named Cyrnus, which blend genuine verses by Theognis with later additions and material from other poets. Its major themes encompass aristocratic values and good birth, the experience of political strife and exile, and reflections on loyalty, betrayal, and moral conduct. The poetry was influential in antiquity as a canonical body of moral verse, widely quoted by later Greek authors and used in Athenian education. It provides a significant, albeit complex, literary reflection of the political and social turmoil in sixth-century BCE Megara from a distinctly aristocratic perspective.
 
 ## Text
 

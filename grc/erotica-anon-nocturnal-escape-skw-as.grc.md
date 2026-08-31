@@ -5,6 +5,7 @@ author: Erotic Narrative Anonymous
 eul_wid: skw-as
 eul_aid: skw
 canonical: "https://eulogikon.org/works/erotica-anon-nocturnal-escape-skw-as"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: Fiction
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Erotic Narrative Anonymous
 
 **eul_wid:** `skw-as` · [HTML page](https://eulogikon.org/works/erotica-anon-nocturnal-escape-skw-as)
-
-Fragments of a Nocturnal Escape is the title of an unattested and otherwise unknown work of ancient Greek prose. No record of this narrative exists within standard scholarly databases, papyrological collections, or the testimonia of ancient authors. The title itself implies a plot centered on an escape under cover of darkness, but no details concerning its characters, specific events, literary form, or original length have been preserved. Described as fragments, the work is presumed to be partially lost, yet no manuscript tradition or physical evidence for its text has been identified. Consequently, it holds no established place in the reception history or scholarly study of ancient Greek literature.
 
 ## Text
 

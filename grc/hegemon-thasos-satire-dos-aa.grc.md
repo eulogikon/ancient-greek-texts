@@ -5,6 +5,7 @@ author: Hegemon of Thasos
 eul_wid: dos-aa
 eul_aid: dos
 canonical: "https://eulogikon.org/works/hegemon-thasos-satire-dos-aa"
+lang: grc
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hegemon of Thasos
 
 **eul_wid:** `dos-aa` · [HTML page](https://eulogikon.org/works/hegemon-thasos-satire-dos-aa)
-
-The Apospasma, or "Fragment," is a pioneering work of mock-heroic parody by the 5th-century BCE poet Hegemon of Thasos. Composed in the dignified dactylic hexameter of epic poetry, it applied the elevated Homeric style to trivial or absurd subject matter, creating a deliberate and humorous incongruity. Its ironic title presents the poem as a mere scrap from a larger, non-existent epic cycle. While the exact narrative content of the Apospasma remains obscure due to its fragmentary survival, it is understood to have involved the bathetic treatment of mundane events, such as a culinary mishap involving lentils. Ancient testimonies describe Hegemon performing the work publicly in Athens, where its comic effect was reportedly profound. The poem represents a sophisticated form of literary entertainment and critique, reliant on an audience deeply literate in Homeric conventions. Hegemon is credited by ancient authorities as a foundational figure in the genre of parody, and his work established a template that influenced later mock-epic poems like the Batrachomyomachia. Knowledge of the Apospasma depends entirely on secondary transmission, primarily through brief quotations and discussions in Athenaeus's Deipnosophistae, compiled centuries later.
 
 ## Text
 

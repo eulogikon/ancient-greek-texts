@@ -5,6 +5,7 @@ author: Ephippus of Athens the Comic Poet
 eul_wid: fkk-ab
 eul_aid: fkk
 canonical: "https://eulogikon.org/works/ephippus-athens-alexander-feast-fkk-ab"
+lang: grc
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Ephippus of Athens the Comic Poet
 
 **eul_wid:** `fkk-ab` · [HTML page](https://eulogikon.org/works/ephippus-athens-alexander-feast-fkk-ab)
-
-The comic work Alexander’s Feast by the Athenian poet Ephippus survives only in fragmentary form, with 101 passages preserved almost exclusively within the Deipnosophistae of Athenaeus of Naucratis. Athenaeus, writing in the late second or early third century CE, quotes these excerpts for their detailed depictions of luxury and convivial customs. The fragments collectively offer a satirical portrayal of the banquets and extravagant lifestyle of Alexander the Great and his court. They focus on themes of luxury and excess, providing vivid accounts of extravagant foods, wines, and tableware. The behavior of Alexander and his companions during symposia is depicted with an emphasis on drunkenness and debauchery. The work functions as social satire, criticizing Macedonian courtly excess and reflecting Athenian perspectives on the rising power of Macedon during the period of Middle Comedy. It also displays an ethnographic curiosity, depicting foreign customs, particularly Persian, adopted by Alexander’s entourage. The complete play is lost, and its content is known indirectly through the quotations of Athenaeus, whose own scholarly interests shaped the selection of the fragments, which are compiled in modern editions such as Poetae Comici Graeci. These remnants are a valuable source for historians studying contemporary Greek popular perceptions of Alexander the Great. They also provide important evidence for philologists examining the thematic evolution of Middle Comedy, which in this period shifted away from direct political satire toward more generalized social critique and mythological parody.
 
 ## Text
 

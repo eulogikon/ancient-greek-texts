@@ -5,6 +5,7 @@ author: Menelaus the Historian
 eul_wid: njs-aa
 eul_aid: njs
 canonical: "https://eulogikon.org/works/menelaus-italian-myths-njs-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Menelaus the Historian
 
 **eul_wid:** `njs-aa` · [HTML page](https://eulogikon.org/works/menelaus-italian-myths-njs-aa)
-
-The Fragments on Italian Myths is a lost prose work attributed to the obscure Menelaus the Historian. It is known only from a bibliographical entry in the 10th-century Byzantine encyclopedia, the Suda, which lists it as a work in two books. No quotations or summaries of its content survive. Based on its title, the work was a compilation of mythological narratives related to Italy, likely treating foundational and etiological myths of Italian locales, legends of indigenous heroes and divine figures, and antiquarian lore concerning local cults and customs. The work is entirely lost, with no surviving manuscript tradition or papyrus fragments; its existence is attested solely by its title in the Suda. It exemplifies the interest of Greek historians and ethnographers in the origins and traditions of Italy, particularly during the Hellenistic or Roman Imperial periods. Its structure as "fragments" suggests it was a compendium drawn from earlier sources, compiled for a Greek-speaking audience interested in Italian antiquities.
 
 ## Text
 

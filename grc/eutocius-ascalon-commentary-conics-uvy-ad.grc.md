@@ -5,6 +5,7 @@ author: Eutocius of Ascalon
 eul_wid: uvy-ad
 eul_aid: uvy
 canonical: "https://eulogikon.org/works/eutocius-ascalon-commentary-conics-uvy-ad"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Mathematics
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Eutocius of Ascalon
 
 **eul_wid:** `uvy-ad` · [HTML page](https://eulogikon.org/works/eutocius-ascalon-commentary-conics-uvy-ad)
-
-Eutocius of Ascalon's Commentary on the Conics is a detailed, line-by-line explanation of the first four books of Apollonius of Perga's foundational work on conic sections. Written in Greek during the sixth century CE, this mathematical treatise comprises 95 distinct passages or lemmas. Eutocius sought to render Apollonius's notoriously difficult geometric proofs accessible by systematically breaking them down, clarifying definitions, and often providing alternative explanations or supplying missing logical steps. The work methodically covers the core theories of the parabola, ellipse, and hyperbola as established by Apollonius.
-
-A scholar based in Alexandria, Eutocius produced this commentary as a key textbook for the advanced mathematical curriculum within the Neoplatonic schools of his era. It was intended for philosophy and mathematics students who needed to master this complex material. The commentary survives in its entirety, preserved because it was copied directly into the margins and between the lines of Apollonius's own text in important Byzantine manuscripts. This integration ensured its transmission through Byzantine, Islamic, and later European scholarly traditions, where it remained an indispensable guide for understanding Apollonius's Conics for over a millennium.
 
 ## Text
 

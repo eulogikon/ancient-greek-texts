@@ -5,6 +5,7 @@ author: Plato of Athens
 eul_wid: ffk-ar
 eul_aid: ffk
 canonical: "https://eulogikon.org/works/plato-statesman-ffk-ar"
+lang: grc
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plato of Athens
 
 **eul_wid:** `ffk-ar` · [HTML page](https://eulogikon.org/works/plato-statesman-ffk-ar)
-
-The Statesman is a philosophical dialogue by Plato, composed in Attic Greek and likely dating from the later period of his career, after 360 BCE. It is the second part of a projected trilogy that includes the Sophist and was intended to culminate in a dialogue on the Philosopher, which was never written. The discussion is conducted primarily by an anonymous Visitor from Elea, with the younger Socrates as his interlocutor, as they endeavor to define the nature of the true political expert or statesman. Their method is the dialectical procedure of collection and division, a logical technique for classifying concepts to arrive at precise definitions.
-
-Through this systematic process, the dialogue carefully distinguishes the art of statesmanship from other related crafts, such as generalship, oratory, and adjudication. A central and famous digression, the myth of the age of Cronus, contrasts a primordial era when the cosmos was divinely steered with the present, self-directed age of Zeus. This myth serves to illustrate that genuine statecraft is a form of specialized, rational expertise, not a function of divine providence or mere administration. The dialogue concludes by defining the statesman’s unique art as a kind of “weaving.” The true ruler weaves together the fabric of the city by blending the contrasting human temperaments of courage and moderation through measured education, persuasive rhetoric, and strategic marriage laws. The work also presents a critical analysis of existing constitutions, arguing that the standard classification of governments by the number of rulers—whether one, few, or many—is secondary. The primary criterion for good government is whether rule is exercised with genuine political knowledge, which may legitimately operate above written laws when necessary for the common good.
-
-Preserved complete within the medieval manuscript tradition of Plato’s works, the Statesman is regarded by modern scholars as a crucial text for understanding the development of Plato’s later political philosophy and his more refined, analytical dialectical method. It reflects his continued critical engagement with the practical realities of governance following the more utopian speculations of the Republic.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Ocellus of Lucania
 eul_wid: eoc-ac
 eul_aid: eoc
 canonical: "https://eulogikon.org/works/ocellus-lucania-cosmic-harmony-eoc-ac"
+lang: grc
 period: Classical
 dialect: Ionic
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Ocellus of Lucania
 
 **eul_wid:** `eoc-ac` · [HTML page](https://eulogikon.org/works/ocellus-lucania-cosmic-harmony-eoc-ac)
-
-Attributed to the Pythagorean philosopher Ocellus of Lucania, the pseudepigraphical work On Cosmic Order and Human Harmony survives not as a coherent treatise but as a collection of excerpts. These fragments articulate Neopythagorean cosmological and ethical principles, arguing for the eternity of the cosmos and deriving from this cosmic order a comprehensive social and ethical system based on harmony with nature. The text posits an ungenerated and indestructible cosmos, governed by a rational, divine principle of order. From this foundation, it derives prescriptions for human conduct, framing ethics and social institutions as extensions of natural law. These include specific regulations concerning procreation, education, and the management of both household and state, presenting justice as the fundamental virtue that harmonizes the soul. Preserved fragmentarily through quotations in later authors, most notably in the anthology compiled by Stobaeus in the fifth century CE, its pseudepigraphical nature was recognized in antiquity; the Peripatetic commentator Alexander of Aphrodisias attributed it to a later writer. As a product of Hellenistic or early Imperial Pythagoreanism, the work reflects the syncretistic philosophical trends of its era. It proved influential in later philosophical debates concerning the eternity of the world and served as a model for integrating cosmological speculation with practical ethics.
 
 ## Text
 

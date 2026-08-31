@@ -5,6 +5,7 @@ author: Isocrates of Athens
 eul_wid: ffu-al
 eul_aid: ffu
 canonical: "https://eulogikon.org/works/isocrates-athens-demonicus-ffu-al"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Isocrates of Athens
 
 **eul_wid:** `ffu-al` · [HTML page](https://eulogikon.org/works/isocrates-athens-demonicus-ffu-al)
-
-To Demonicus is a prose oration by the Athenian orator and teacher Isocrates, composed in the form of a letter of advice to a young Cypriot nobleman of that name. Dating from approximately 374–370 BCE, the work is a prime example of paraenesis, or moral exhortation literature. It opens with a reflection on the enduring value of sound counsel from serious-minded friends, establishing the author's purpose in offering his guidance. The subsequent text is structured as a series of concise, moralizing precepts covering the essential qualities of virtuous character and effective leadership. These maxims address a broad range of topics, including the cultivation of self-control, the practice of justice, the nature of true friendship, the importance of financial prudence, and the necessity of piety toward the gods.
-
-Transmitted through the medieval manuscript tradition of Isocrates' works, where it conventionally appears as the first speech in the corpus, its authenticity was occasionally doubted in antiquity and the Renaissance. Critics noted its more straightforward and sententious style, which contrasts with the complex rhetorical periods of Isocrates' major political discourses. Modern scholarship, however, generally accepts it as a genuine product of his early career as an educator. It is considered a pedagogical instrument, crafted for a specific student from a patronal family, and simultaneously functions as a piece of protreptic literature, designed to exhort the reader toward the pursuit of practical wisdom and ethical excellence.
 
 ## Text
 

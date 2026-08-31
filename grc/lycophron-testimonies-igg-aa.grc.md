@@ -5,6 +5,7 @@ author: Lycophron Tragicus
 eul_wid: igg-aa
 eul_aid: igg
 canonical: "https://eulogikon.org/works/lycophron-testimonies-igg-aa"
+lang: grc
 period: Hellenistic
 dialect: Attic Drama
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lycophron Tragicus
 
 **eul_wid:** `igg-aa` · [HTML page](https://eulogikon.org/works/lycophron-testimonies-igg-aa)
-
-The Testimonies is a lost work of forensic oratory attributed to the Hellenistic tragedian Lycophron. Known only from a brief entry in the tenth-century Byzantine encyclopedia known as the Suda, the collection is recorded as comprising six parts. No fragments or descriptive details of its content survive, leaving its precise nature as legal testimony or argumentative speeches a matter of inference from its classification. Its attribution to Lycophron, who was also known as a sophist and grammarian, exemplifies the cross-disciplinary activities common among Hellenistic intellectuals. The work’s complete disappearance, however, precludes any specific analysis of its rhetorical or philosophical approach to legal proof.
 
 ## Text
 

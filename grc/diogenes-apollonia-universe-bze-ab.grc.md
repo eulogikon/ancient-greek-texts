@@ -5,6 +5,7 @@ author: Diogenes of Apollonia
 eul_wid: bze-ab
 eul_aid: bze
 canonical: "https://eulogikon.org/works/diogenes-apollonia-universe-bze-ab"
+lang: grc
 period: Classical
 dialect: Ionic
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Diogenes of Apollonia
 
 **eul_wid:** `bze-ab` · [HTML page](https://eulogikon.org/works/diogenes-apollonia-universe-bze-ab)
-
-On the Nature of the Universe is a philosophical treatise by the 5th-century BCE Pre-Socratic thinker Diogenes of Apollonia. Written in Ionic Greek, the complete work is lost and is known today only through fragments preserved by later authors, most significantly the 6th-century CE commentator Simplicius. These surviving passages present Diogenes' central doctrine that air is the fundamental, intelligent substance of the cosmos. He argued that this divine air, endowed with mind, is the single source from which all things are differentiated, governs the orderly arrangement of the universe, and constitutes the basis of life and sensation in living beings. Diogenes positioned his work as a synthesis, reviving the Milesian concept of a single material principle while insisting this principle possesses conscious intelligence and acts for the best. His teleological argument, that the beneficial organization of the world demonstrates intelligent design, is considered a significant precursor to later philosophical systems, notably those of Plato and Aristotle. The theories were sufficiently prominent in Athenian intellectual life to be satirized by the comic playwright Aristophanes.
 
 ## Text
 

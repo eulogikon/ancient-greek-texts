@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-fd
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-theseus-okg-fd"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-fd` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-theseus-okg-fd)
-
-The Life of Theseus is a biography by the philosopher and historian Plutarch, composed in Greek around the turn of the second century CE. It is one of the paired texts in his Parallel Lives, a series designed to compare notable Greek and Roman figures. In this instance, Plutarch juxtaposes the legendary founder of Athens, Theseus, with Romulus, the mythical founder of Rome. The narrative follows a chronological structure, beginning with the hero's contested parentage and his perilous journey to Athens, during which he famously overcame six monstrous adversaries. It proceeds to detail his most celebrated exploit, the slaying of the Minotaur in Crete, his subsequent political career unifying the villages of Attica under Athenian leadership, and the later domestic tragedies involving his wife Phaedra and his son Hippolytus. The account concludes with his abdication, exile, and death.
-
-Plutarch composed his biographies for a sophisticated Greco-Roman readership, with a primary aim of extracting moral and philosophical insights concerning character, virtue, and statesmanship from the lives of great men. The deliberate pairing with Romulus serves to illuminate common themes of foundational heroism, the exercise of power, and the complex interplay of myth and proto-historical tradition. While treating the legendary material with a degree of reverence, Plutarch often adopts a rationalizing approach, offering plausible explanations for supernatural events and carefully noting variant accounts from his sources. The text of the Life of Theseus has been preserved intact through a continuous manuscript tradition originating in the Byzantine era, a testament to Plutarch's enduring status as a cornerstone of classical literature and moral philosophy.
 
 ## Text
 

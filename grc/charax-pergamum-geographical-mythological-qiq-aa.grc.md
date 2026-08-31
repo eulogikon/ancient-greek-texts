@@ -5,6 +5,7 @@ author: Charax of Pergamum
 eul_wid: qiq-aa
 eul_aid: qiq
 canonical: "https://eulogikon.org/works/charax-pergamum-geographical-mythological-qiq-aa"
+lang: grc
 period: Roman
 dialect: Koine (frg)
 domain: History
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Charax of Pergamum
 
 **eul_wid:** `qiq-aa` · [HTML page](https://eulogikon.org/works/charax-pergamum-geographical-mythological-qiq-aa)
-
-The Geographical and Mythological Fragments is a collection of prose excerpts attributed to the historian and geographer Charax of Pergamum, who was active under the Roman Empire, likely in the first or second century CE. These fragments are preserved indirectly through citations in later compilations, primarily the Ethnika of Stephanus of Byzantium and the Bibliotheca of Photius. The work functions as a compendium of place-names with mythological annotations, providing concise entries on geographical locations such as cities, regions, mountains, and rivers. Each entry typically includes an alternative name or etymological explanation, a link to a mythological figure or story often through heroic genealogy, and brief references to local legends or cults. For instance, a fragment on Lindos names its founder as Lindos, son of Cercaphus.
-
-No manuscript of Charax’s original text survives. The fragments are extracted quotations preserved by later lexicographers, chiefly Stephanus of Byzantium in the sixth century CE and Photius in the ninth century CE. They are believed to originate from a larger, lost work, possibly Charax’s 40-book Hellenica, which is mentioned in the Suda. Charax’s fragments served as a source for Stephanus of Byzantium’s influential geographical dictionary, thereby entering the Byzantine scholarly tradition. For modern scholarship, they are valuable for studying Imperial-period mythography, historical geography, and the methods of Hellenistic historiography.
 
 ## Text
 

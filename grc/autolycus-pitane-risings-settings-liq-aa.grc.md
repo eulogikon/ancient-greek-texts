@@ -5,6 +5,7 @@ author: Autolycus of Pitane
 eul_wid: liq-aa
 eul_aid: liq
 canonical: "https://eulogikon.org/works/autolycus-pitane-risings-settings-liq-aa"
+lang: grc
 period: Hellenistic
 dialect: Attic
 domain: Science
@@ -19,14 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Autolycus of Pitane
 
 **eul_wid:** `liq-aa` · [HTML page](https://eulogikon.org/works/autolycus-pitane-risings-settings-liq-aa)
-
-_On Risings and Settings_ is a two-book treatise by Autolycus of Pitane, written around 310 BCE and representing one of the earliest surviving works of Greek mathematical astronomy. As a foundational text in the discipline known as spherics, it applies the principles of spherical geometry to celestial phenomena. The work is structured in a rigorous, deductive theorem-proof style, containing 38 geometrical propositions—12 in the first book and 26 in the second. Its primary aim is to establish the geometric principles governing the risings, settings, and periods of visibility of the fixed stars for an observer situated on a spherical Earth.
-
-The treatise constructs a purely geometric framework based on the assumption of a spherical cosmos. It begins by defining the key concepts of a star's rising and setting as it crosses the horizon. Autolycus systematically explores the geometry of the celestial sphere, including the delineation of the always-visible and always-invisible circles for a given terrestrial latitude. Through a series of propositions, he proves the relationships between these great circles and establishes the precise conditions under which a star becomes visible or disappears from view, distinguishing between true and apparent risings and settings.
-
-The complete text has survived through the Byzantine manuscript tradition, where it was frequently copied alongside Euclid's _Phaenomena_ and Theodosius's _Spherics_ as part of a collection known as the "Little Astronomy," which served as a standard curriculum. Its influence was extended through translations into Arabic and later into Latin, ensuring its transmission and study throughout the medieval period.
-
-The significance of Autolycus's work lies in its critical role in transforming astronomy from a descriptive study into a predictive, mathematical science. It served as an essential textbook for centuries, establishing the fundamental geometric models for spherical astronomy. Its concepts directly influenced later major astronomers such as Hipparchus and Ptolemy and remained central to astronomical theory in both the Islamic world and medieval Europe, providing the enduring geometric foundation for understanding celestial motion.
 
 ## Text
 

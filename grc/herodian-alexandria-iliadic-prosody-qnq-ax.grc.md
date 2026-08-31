@@ -5,6 +5,7 @@ author: Herodian of Alexandria
 eul_wid: qnq-ax
 eul_aid: qnq
 canonical: "https://eulogikon.org/works/herodian-alexandria-iliadic-prosody-qnq-ax"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Herodian of Alexandria
 
 **eul_wid:** `qnq-ax` · [HTML page](https://eulogikon.org/works/herodian-alexandria-iliadic-prosody-qnq-ax)
-
-On Iliadic Prosody is a grammatical treatise by the second-century CE scholar Herodian of Alexandria. The work systematically applies the rules of Greek prosody, or accentuation, to the vocabulary of Homer’s Iliad. It survives not as a complete text but in fragmentary form, primarily through quotations preserved in later Byzantine grammatical lexicons and Homeric scholia, such as the Etymologicum Magnum, which together contain 107 distinct notes from the original work. The treatise provides a detailed analysis of the correct pitch accents for Homeric words, contributing to textual criticism and the establishment of an authoritative version of the epic. It also reflects a concern with preserving the proper pronunciation and rhythmic qualities of archaic Greek poetry. Herodian’s work became a central authority in Byzantine education, where its rules standardized the accentuation of Homeric Greek. Transmitted through manuscript scholia for centuries, it profoundly shaped the teaching and reception of the Iliad and exerted a lasting influence on subsequent grammarians and lexicographers.
 
 ## Text
 

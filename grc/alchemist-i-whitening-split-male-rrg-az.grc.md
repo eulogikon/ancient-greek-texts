@@ -5,6 +5,7 @@ author: Alchemist I
 eul_wid: rrg-az
 eul_aid: rrg
 canonical: "https://eulogikon.org/works/alchemist-i-whitening-split-male-rrg-az"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alchemist I
 
 **eul_wid:** `rrg-az` · [HTML page](https://eulogikon.org/works/alchemist-i-whitening-split-male-rrg-az)
-
-"On the Whitening of Split Male" is a concise, fragmentary alchemical treatise composed in Koine Greek. Its author remains anonymous but is classified by modern scholarship under the designation "Alchemist I," a figure belonging to the corpus of ancient texts spuriously attributed to the philosopher Democritus. The work is generally dated between the 1st and 3rd centuries CE. It presents a single, recipe-style instruction centered on a fundamental alchemical operation. The treatise's title employs symbolic terminology; scholars interpret "split male" as a reference to the yellow mineral orpiment, while "whitening" denotes the objective of transmuting it into a white substance. This chromatic transformation was a critical procedural stage in ancient practice, frequently associated with the creation of silver or the preparation of materials for subsequent processes.
-
-The text survives only as a brief excerpt preserved within much larger Byzantine manuscripts, most notably a codex from the 10th or 11th century. This mode of transmission is characteristic of early Greek alchemical writings, which were often copied in abbreviated or corrupted forms. As a component of the foundational Pseudo-Democritus collection, this succinct recipe exemplifies the practical, technical core of early alchemy. It was designed for specialist practitioners, and its encoded language functioned both to safeguard operational knowledge and to imbue the craft with a philosophical dimension. Its descriptions of essential processes like whitening exerted a lasting influence on subsequent alchemical traditions for centuries.
 
 ## Text
 

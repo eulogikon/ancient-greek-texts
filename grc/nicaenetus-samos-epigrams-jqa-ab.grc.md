@@ -5,6 +5,7 @@ author: Nicaenetus of Samos
 eul_wid: jqa-ab
 eul_aid: jqa
 canonical: "https://eulogikon.org/works/nicaenetus-samos-epigrams-jqa-ab"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: Epic
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Nicaenetus of Samos
 
 **eul_wid:** `jqa-ab` · [HTML page](https://eulogikon.org/works/nicaenetus-samos-epigrams-jqa-ab)
-
-The Epigrams of Nicaenetus of Samos constitute a collection of short poems by a Hellenistic Greek poet active in the 3rd century BCE. Composed in the literary epic dialect, these works exemplify the transformation of the epigram from a simple inscription into a sophisticated literary form intended for a reading public. Approximately twenty of his epigrams survive, encompassing the genre's conventional themes: dedicatory verses to deities, epitaphs, erotic subjects, brief mythological narratives, and descriptions of artworks, or ekphraseis. No manuscript of Nicaenetus's work exists independently; his poems are preserved solely through their inclusion in later anthologies. They were first gathered in the Garland of Meleager around 100 BCE and subsequently transmitted within the comprehensive compilation of the Greek Anthology. The extant twenty epigrams thus likely represent only a fraction of his original output. Modern scholarship situates Nicaenetus within the vibrant literary culture of the Hellenistic period, often associating him with the intellectual milieu of Alexandria. His poetry appears designed for an educated, elite audience with an appreciation for mythological allusion and technical refinement. As a contributor to a principal early anthology, his epigrams played a role in cementing the form's significance for subsequent literary tradition.
 
 ## Text
 

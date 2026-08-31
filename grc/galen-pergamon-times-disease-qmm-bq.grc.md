@@ -5,6 +5,7 @@ author: Galen of Pergamon
 eul_wid: qmm-bq
 eul_aid: qmm
 canonical: "https://eulogikon.org/works/galen-pergamon-times-disease-qmm-bq"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Galen of Pergamon
 
 **eul_wid:** `qmm-bq` · [HTML page](https://eulogikon.org/works/galen-pergamon-times-disease-qmm-bq)
-
-_On the Times of the Whole Disease_ is a medical treatise by the 2nd-century CE physician Galen of Pergamon. The work systematically analyzes the progression of illness through distinct temporal phases, a framework grounded in the fundamental pathological distinction between a localized condition, termed the "part" of a disease, and the comprehensive derangement of the entire body, termed the "whole" disease. Across its 43 sections, the treatise methodically charts the course of a disease from its initial onset to its final resolution. Central to its argument is the delineation of specific phases in a disease's lifespan: the beginning, the increase, the height or acme, the decline, and the end. Galen applies his humoral theory, which attributes disease to imbalances in the four bodily humors—blood, phlegm, yellow bile, and black bile—to explain the causation and development within this temporal structure. The primary practical purpose of this analytical model is to provide physicians with a reliable basis for accurate prognosis and to guide the timing of therapeutic interventions. The text survives complete within the Galenic corpus, having been transmitted through Byzantine and Islamic scholarly traditions where it was translated into Arabic and Syriac; it is preserved in modern critical editions. The treatise stands as a clear example of Galen's endeavor to systematize Hippocratic medicine with philosophical rigor, and its structured model of disease phases became a cornerstone of the Galenic medical curriculum, profoundly influencing theories of pathology and prognosis in both European and Islamic medicine for more than a millennium.
 
 ## Text
 

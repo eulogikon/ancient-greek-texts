@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-em
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-pelopidas-okg-em"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-em` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-pelopidas-okg-em)
-
-Plutarch’s Life of Pelopidas is a biography of the Theban general and statesman, composed in the early second century CE as part of the author’s Parallel Lives. It is paired with the life of the Roman commander Marcellus. The work chronicles Pelopidas’s central part in freeing Thebes from Spartan control, his command of the elite Sacred Band, his decisive triumph at the Battle of Leuctra, and his eventual death in combat. Plutarch’s primary aim is not to provide a comprehensive historical record but to examine character and virtue through illustrative episodes. He presents Pelopidas as a moral exemplar of courage, patriotic sacrifice, and political friendship, notably with his colleague Epaminondas. Written under the Roman Empire for an educated audience interested in the philosophical lessons of history, the biography survives intact through medieval manuscripts and serves as a key literary source for the rise of Theban hegemony in the fourth century BCE.
 
 ## Text
 

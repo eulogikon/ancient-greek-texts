@@ -5,6 +5,7 @@ author: Demosthenes of Athens
 eul_wid: fsm-am
 eul_aid: fsm
 canonical: "https://eulogikon.org/works/demosthenes-athens-against-dionysodorus-fsm-am"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Demosthenes of Athens
 
 **eul_wid:** `fsm-am` · [HTML page](https://eulogikon.org/works/demosthenes-athens-against-dionysodorus-fsm-am)
-
-Against Dionysodorus is a private forensic oration written by Demosthenes of Athens, delivered in an Athenian court around 323–322 BCE on behalf of a client named Dareius. The speech constitutes a lawsuit for damages arising from a breached maritime loan agreement. Dareius and a partner had lent a sum of money to two brothers, Dionysodorus and Parmeniscus, to finance a commercial voyage from Athens to Egypt. The surviving speech, structured in forty-one sections, accuses the borrowers of deliberate fraud. It alleges that they diverted the ship to Rhodes to sell its cargo, falsely reported the vessel as shipwrecked, and subsequently refused to repay the loan. The oration methodically presents the contractual agreement, witness testimonies, and legal arguments to demonstrate the defendants' bad faith and to secure a judgment for the repayment of the principal plus accrued interest.
-
-The work offers a detailed and invaluable glimpse into the practical workings of Athenian commercial law and long-distance trade. It is believed to have been argued before a specialized maritime court, a tribunal designed for the expedient resolution of mercantile disputes. As one of several such speeches within the Demosthenic corpus, it underscores the fundamental importance of sea trade and enforceable contracts to the Athenian economy during the late Classical period, a time of increasing Macedonian hegemony. Modern scholars value the oration both as a refined example of Attic forensic rhetoric and as a crucial primary source for the study of ancient Greek maritime law, commercial practice, and the substantial risks inherent in overseas trade.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Epicharmus of Syracuse
 eul_wid: bhm-ab
 eul_aid: bhm
 canonical: "https://eulogikon.org/works/epicharmus-syracuse-pseudepicharmea-bhm-ab"
+lang: grc
 period: Archaic
 dialect: Doric
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Epicharmus of Syracuse
 
 **eul_wid:** `bhm-ab` · [HTML page](https://eulogikon.org/works/epicharmus-syracuse-pseudepicharmea-bhm-ab)
-
-The Pseudepicharmea is a collection of sententious verses falsely attributed to the Sicilian comic poet Epicharmus of Syracuse, an early 5th-century BCE founder of comic drama. The eight surviving fragments, written in Doric Greek, present philosophical maxims on ethics and the divine but are considered spurious by modern scholarship. Their content addresses several philosophical themes, including the omnipotence of the gods and the frailty of humanity, ethical ideals of moderation and self-control, the nature of the soul as a divine element, and reflections on cosmic order and stability. The work survives only through quotation by later authors, primarily the 5th-century CE anthologist Stobaeus, with other sources including Clement of Alexandria and Platonic scholia. The maintained Doric dialect imitates Epicharmus’s genuine style, but the hexameter verse form and philosophical content reveal its pseudonymous nature. The fragments exemplify the Hellenistic practice of pseudepigraphy, where new philosophical ideas were authorized by attachment to venerable names. They significantly shaped Epicharmus’s posthumous reputation as a sage, which ultimately overshadowed his legacy as a comic playwright in later antiquity.
 
 ## Text
 

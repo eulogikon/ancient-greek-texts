@@ -5,6 +5,7 @@ author: Timon of Phlius
 eul_wid: hnu-aa
 eul_aid: hnu
 canonical: "https://eulogikon.org/works/timon-phlius-fragments-hnu-aa"
+lang: grc
 period: Hellenistic
 dialect: Epic (Homeric)
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Timon of Phlius
 
 **eul_wid:** `hnu-aa` · [HTML page](https://eulogikon.org/works/timon-phlius-fragments-hnu-aa)
-
-The work known as Fragments and Titles is a modern scholarly compilation of the surviving poetic passages attributed to Timon of Phlius, an early Hellenistic philosopher and devoted follower of the skeptic Pyrrho. Active in the early third century BCE, Timon is chiefly remembered for his satirical hexameter poem the Silloi, from which the majority of these fragments are believed to originate. The content constitutes a form of philosophical satire, employing parody and biting humor to lampoon rival schools of thought while exalting the Pyrrhonian ideal of undisturbed tranquility. No complete work by Timon survives; the collection consists of quotations, paraphrases, and titles preserved entirely by later doxographers and authors such as Diogenes Laertius, Sextus Empiricus, and Athenaeus. These fragments serve as both a polemical instrument to discredit dogmatic philosophers and a literary means of promoting the skeptical way of life. As Pyrrho himself left no writings, this assemblage provides a vital, though indirect, source for understanding the origins and character of early Pyrrhonian thought.
 
 ## Text
 

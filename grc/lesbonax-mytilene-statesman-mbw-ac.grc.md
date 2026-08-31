@@ -5,6 +5,7 @@ author: Lesbonax of Mytilene
 eul_wid: mbw-ac
 eul_aid: mbw
 canonical: "https://eulogikon.org/works/lesbonax-mytilene-statesman-mbw-ac"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lesbonax of Mytilene
 
 **eul_wid:** `mbw-ac` · [HTML page](https://eulogikon.org/works/lesbonax-mytilene-statesman-mbw-ac)
-
-The Statesman by the Imperial-period sophist Lesbonax of Mytilene is known only from two brief fragments preserved in the technical works of later authors. The rhetorician Apsines of Gadara cites one fragment as an example of a rhetorical figure, while the lexicographer Harpocration quotes another to gloss a specific word. These citations indicate the original work was a political speech or treatise, but its full scope, structure, and argument cannot be reconstructed from the extant evidence. The content of the fragments is incidental to their illustrative purpose in the citing sources; one demonstrates a rhetorical technique and the other clarifies lexical meaning, with no sustained political or philosophical themes recoverable. The work is lost and survives exclusively through these indirect quotations. It is not listed among the author's works in the Byzantine encyclopedia known as the Suda, suggesting it was either lost early or perhaps subsumed within a larger collection, and it possesses no independent manuscript tradition. The significance of the Statesman was confined to later technical scholarship, where it served rhetoricians and lexicographers as a model of Attic Greek prose and a source for rhetorical examples. This utility reflects its role within the Imperial and Byzantine traditions of advanced rhetorical education and philological study.
 
 ## Text
 

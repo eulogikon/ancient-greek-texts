@@ -5,6 +5,7 @@ author: Maeandrius of Miletus
 eul_wid: iam-aa
 eul_aid: iam
 canonical: "https://eulogikon.org/works/maeandrius-miletus-historical-fragments-iam-aa"
+lang: grc
 period: Hellenistic
 dialect: Ionic (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Maeandrius of Miletus
 
 **eul_wid:** `iam-aa` · [HTML page](https://eulogikon.org/works/maeandrius-miletus-historical-fragments-iam-aa)
-
-The Historical Fragments on Miletus by Maeandrius of Miletus is a lost work of local history, known only through a small number of excerpts preserved by later authors. It belongs to the Hellenistic tradition of Ionian horography, which focused on recording the antiquities, foundation myths, and distinctive customs of specific cities. The surviving passages indicate the work covered etiological stories, including an account of a maiden named Miletus who gave the city its name, as well as narratives concerning its foundation by Neleus and the Ionians. It also described local religious practices, such as the cult of Artemis Chitone. The text survives solely as quotations embedded in the works of later antiquarians and lexicographers, notably Strabo and Harpocration; these fragments are collected in modern editions of Greek historical remains. Though fragmentary, the work provides crucial evidence for local Milesian traditions that were often omitted from broader historical narratives. It served as a source for later compilers and contributes significantly to the modern understanding of the horography genre and the preservation of Ionian cultural identity.
 
 ## Text
 

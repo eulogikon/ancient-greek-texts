@@ -5,6 +5,7 @@ author: Pancrates of Arcadia
 eul_wid: jqu-aa
 eul_aid: jqu
 canonical: "https://eulogikon.org/works/pancrates-arcadia-sea-creatures-jqu-aa"
+lang: grc
 period: Hellenistic
 dialect: Epic (Homeric) (frg)
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Pancrates of Arcadia
 
 **eul_wid:** `jqu-aa` · [HTML page](https://eulogikon.org/works/pancrates-arcadia-sea-creatures-jqu-aa)
-
-The Fragments on Sea Creatures by Pancrates of Arcadia is a didactic hexameter poem known only through nine passages preserved by the 2nd-century CE author Athenaeus in his Deipnosophistae. These fragments provide zoological and mythological descriptions of marine life, often noting culinary uses, within the traditional epic meter. The extant verses cover descriptive marine zoology, detailing the diet and behavior of creatures like the herbivorous scarus, or parrotfish, and include mythological associations, as with the purportedly poisonous sea-hare. The work functions as a didactic exposition of natural world phenomena in verse form. It survives exclusively via quotation in Athenaeus’s compendium and has no independent manuscript tradition, relying instead on the transmission of the Deipnosophistae, itself preserved primarily in the 10th-century Codex Venetus. Pancrates’s poem represents the Hellenistic tradition of scientific didactic poetry. Its historical importance lies in its use as a source for later antiquarians; through Athenaeus, it influenced Renaissance and early modern natural history. The fragments are cited in modern scholarship on Hellenistic poetry and ancient literary zoology.
 
 ## Text
 

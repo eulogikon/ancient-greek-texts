@@ -5,6 +5,7 @@ author: Menander of Athens
 eul_wid: hps-ba
 eul_aid: hps
 canonical: "https://eulogikon.org/works/menander-athens-citharist-hps-ba"
+lang: grc
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Menander of Athens
 
 **eul_wid:** `hps-ba` · [HTML page](https://eulogikon.org/works/menander-athens-citharist-hps-ba)
-
-Citharist, a comedy by the Athenian playwright Menander, survives only in fragments from the late 4th century BCE. The title refers to a female lyre-player, a character type typically depicted as a musician or entertainer. From the extant portions of dialogue, the plot appears to follow a conventional New Comedy structure, centering on a young man's romantic attachment to such a woman and his conflict with a disapproving father. The narrative likely culminates in a recognition scene revealing the woman to be of citizen birth, thereby resolving the social impediment to marriage. This pattern of romantic obstacle overcome by the discovery of true identity is a hallmark of Menander's dramatic technique. Composed during the Hellenistic period, the play exemplifies the shift in comedy from political satire to domestic and romantic scenarios with broad, universal appeal. The fragments suggest thematic exploration of love across social divides, generational tension, and the fluid nature of social status. The text is reconstructed from quotations preserved in later ancient authors and from papyrus discoveries in Egypt, which collectively offer isolated passages of dialogue without providing a continuous narrative of the whole work.
 
 ## Text
 

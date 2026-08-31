@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-bp
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-nicias-crassus-okg-bp"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-bp` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-nicias-crassus-okg-bp)
-
-The Comparison of Nicias and Crassus is the concluding essay to Plutarch’s paired biographies of the Athenian statesman Nicias and the Roman triumvir Marcus Licinius Crassus. Composed in the early second century CE, it is a formal synkrisis, a structured rhetorical comparison that examines the two men across a series of thematic categories. Plutarch pairs them as famously wealthy and ambitious leaders whose lives ended in catastrophic military defeats far from home: Nicias in the disastrous Sicilian Expedition of the Peloponnesian War, and Crassus at the Battle of Carrhae against the Parthians. The comparison begins by evaluating the origins and moral character of their wealth, judging Nicias’s fortune, derived from Athenian silver mines, as more honorable than that of Crassus, which was amplified through profiteering from the proscriptions of Sulla and speculative property dealings in Rome.
-
-The essay proceeds to contrast their political conduct and military leadership. While both used their wealth to cultivate political influence, Plutarch scrutinizes their application of it in public life and warfare, noting how their shared vice of timidity and excessive religious scruple led to fatal indecision. The analysis extends to the circumstances and significance of their deaths, portraying each disaster as a pivotal historical moment that weakened their respective states. Plutarch’s method is not to declare a simple victor but to draw nuanced ethical and historical lessons from their parallels and contrasts. The work serves as a capstone to the biographies, synthesizing their narratives to offer moral and political reflections for Plutarch’s contemporary Greco-Roman audience on the interplay of character, fortune, and leadership. The text has been preserved intact through the medieval manuscript tradition of Plutarch’s Parallel Lives.
 
 ## Text
 

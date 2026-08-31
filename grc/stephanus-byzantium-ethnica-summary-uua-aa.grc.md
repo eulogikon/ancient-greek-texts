@@ -5,6 +5,7 @@ author: Stephen of Byzantium
 eul_wid: uua-aa
 eul_aid: uua
 canonical: "https://eulogikon.org/works/stephanus-byzantium-ethnica-summary-uua-aa"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Stephen of Byzantium
 
 **eul_wid:** `uua-aa` · [HTML page](https://eulogikon.org/works/stephanus-byzantium-ethnica-summary-uua-aa)
-
-The Summary of Ethnica is a condensed geographical lexicon compiled in Greek by Stephen of Byzantium, a sixth-century grammarian active in Constantinople. It is an epitome, or abridged version, of his lost masterwork, the Ethnika, which was an extensive alphabetical dictionary of ancient place names. The surviving Summary preserves 713 brief entries describing cities, peoples, and geographical features from the Greek world, frequently including notes on etymology, mythological origins, and grammatical forms for deriving ethnic adjectives. Transmitted primarily through a single eleventh-century manuscript, this epitome represents the only relatively complete form in which Stephen's work survives. The original, more comprehensive Ethnika is lost and known only through fragments preserved in later Byzantine compilations. Modern scholarship interprets the work as part of a late antique intellectual project to systematically catalog and preserve classical Greek geographical and philological knowledge, likely intended for use by educators, writers, and imperial administrators. The Summary later became an invaluable resource for Renaissance humanists and remains a significant source for reconstructing ancient historical geography and for recovering fragments of otherwise lost classical literature.
 
 ## Text
 

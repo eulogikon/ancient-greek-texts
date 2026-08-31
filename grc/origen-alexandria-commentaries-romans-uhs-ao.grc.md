@@ -5,6 +5,7 @@ author: Origen of Alexandria
 eul_wid: uhs-ao
 eul_aid: uhs
 canonical: "https://eulogikon.org/works/origen-alexandria-commentaries-romans-uhs-ao"
+lang: grc
 period: Late Antique
 dialect: Christian Koine
 domain: Theology
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Origen of Alexandria
 
 **eul_wid:** `uhs-ao` · [HTML page](https://eulogikon.org/works/origen-alexandria-commentaries-romans-uhs-ao)
-
-Origen of Alexandria's Commentaries on the Epistle to the Romans is a foundational work of early Christian biblical exegesis, composed in Greek around 246 CE. This extensive, line-by-line interpretation was originally organized into sixteen books, each corresponding to a chapter of Paul's epistle. In it, Origen applies his characteristic hermeneutical method, moving beyond the literal sense to explore the deeper spiritual and allegorical meanings of the text. The commentary engages with central Pauline doctrines, including justification by faith, the interplay of human free will and divine grace, and the place of Israel within the history of salvation. Written for an audience of advanced students and clergy, the work represents Origen's mature theological scholarship and his direct involvement in the doctrinal controversies of his era.
-
-The complete Greek text of the commentary is now lost, surviving only in fragmentary quotations. Its principal transmission to posterity comes through a Latin translation and abridgment produced by the monk Rufinus between 405 and 406 CE. Rufinus condensed the original sixteen books into ten, often omitting or summarizing passages he deemed overly complex or theologically problematic for his Latin readers. Consequently, modern scholarship depends on this adapted Rufinian version, supplemented by the extant Greek fragments, to access Origen's exposition. Despite its mediated transmission, the commentary exerted a profound influence on subsequent Christian thought, decisively shaping the interpretation of Paul for later theologians such as Augustine and leaving an enduring imprint on Western theological tradition.
 
 ## Text
 

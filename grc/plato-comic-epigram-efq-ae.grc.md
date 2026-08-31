@@ -1,10 +1,11 @@
 ---
 title: Epigram
 title_greek: Ἐπίγραμμα
-author: "Plato the Comic Poet "
+author: Plato the Comic Poet
 eul_wid: efq-ae
 eul_aid: efq
 canonical: "https://eulogikon.org/works/plato-comic-epigram-efq-ae"
+lang: grc
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἐπίγραμμα*
 
-**Author:** Plato the Comic Poet 
+**Author:** Plato the Comic Poet
 
 **eul_wid:** `efq-ae` · [HTML page](https://eulogikon.org/works/plato-comic-epigram-efq-ae)
-
-The Epigram is a short verse composition attributed to Plato the Comic Poet, an Athenian poet of Old Comedy who was a contemporary of Aristophanes and active in the late fifth and early fourth centuries BCE. While Plato is known primarily for his comedies, the attribution of an epigram is consistent with the practice of poets composing in multiple forms. The work is fragmentary, and its specific content and structure are not detailed in surviving sources. As the text is not preserved, its precise subjects are unknown, though ancient Greek epigrams generally treated themes of commemoration, mortality, wit, satire, and praise. The epigram would survive, if at all, among the approximately 300 extant fragments of Plato’s work, preserved through quotation by later authors such as Athenaeus or potentially within anthologies like the Palatine Anthology. Any surviving epigram would extend our understanding of Plato the Comic Poet’s literary range beyond the comic stage. He was a significant figure in Old Comedy, and his works continued to be read and performed for centuries.
 
 ## Text
 

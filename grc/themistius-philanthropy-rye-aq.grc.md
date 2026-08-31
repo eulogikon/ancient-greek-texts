@@ -5,6 +5,7 @@ author: Themistius the Philosopher
 eul_wid: rye-aq
 eul_aid: rye
 canonical: "https://eulogikon.org/works/themistius-philanthropy-rye-aq"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Themistius the Philosopher
 
 **eul_wid:** `rye-aq` · [HTML page](https://eulogikon.org/works/themistius-philanthropy-rye-aq)
-
-The oration Philadelphians or On Philanthropy is a political speech by the philosopher and statesman Themistius, addressed to the co-emperors Valentinian I and Valens. Its core argument is that the virtue of philanthropy, meaning humanity and benevolence, forms the indispensable foundation of good governance and is the essential force sustaining concord between rulers. The complete speech survives as a key example of Themistian political philosophy, which characteristically blends panegyric with philosophical argumentation. Its central theme is imperial philanthropy, presented as more crucial for political stability than military power, and it links this virtue directly to maintaining harmony between the co-emperors. The work articulates a theology of kingship where the emperor is an imitator of God whose primary divine attribute to emulate is philanthropy. In doing so, it synthesizes Greek philosophical ethics, particularly Aristotelian virtue, with the practical ideology of the late Roman state. The oration survives in full within the manuscript tradition of Themistius's works, with the standard modern critical edition being that of Heinrich Schenkl, later revised by Glanville Downey and Albert Francis Norman. Philadelphians is a significant document for understanding late 4th-century political thought and the role of Hellenic philosophy in a Christianizing empire. It exemplifies Themistius's project of promoting the philosophically educated emperor, and its concept of imperial philanthropy proved influential in later Byzantine political theory.
 
 ## Text
 

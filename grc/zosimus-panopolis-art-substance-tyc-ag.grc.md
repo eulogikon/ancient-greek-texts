@@ -5,6 +5,7 @@ author: Zosimus of Panopolis
 eul_wid: tyc-ag
 eul_aid: tyc
 canonical: "https://eulogikon.org/works/zosimus-panopolis-art-substance-tyc-ag"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Zosimus of Panopolis
 
 **eul_wid:** `tyc-ag` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-art-substance-tyc-ag)
-
-On What is According to the Art, Substance and NSubstance is an alchemical treatise composed in Greek by Zosimus of Panopolis, likely around 300 CE. The work examines the fundamental concepts of alchemical theory and practice, centering on the distinction between material "substance" and a corresponding immaterial or transformative principle. It is structured as a series of five passages that interweave technical instructions for the manipulation of metals, such as copper, iron, tin, and lead, with philosophical and theological speculations. Zosimus frames the alchemical art not merely as a physical craft but as a path to spiritual enlightenment and purification, a process of revelation accessible through disciplined practice.
-
-The text survives only in fragmentary form, embedded within later Byzantine compilations of alchemical writings. Scholars regard it as a significant document of late antique intellectual synthesis, where Greek philosophical concepts, Egyptian metallurgical traditions, and elements of Gnostic thought converged. It was almost certainly written for an audience of initiated practitioners, aiming to instruct both their laboratory techniques and their metaphysical understanding. Despite its incomplete state, Zosimus's treatise exerted a profound influence, forming a cornerstone for the subsequent development of alchemical theory and symbolism in both the Byzantine and early Islamic intellectual worlds.
 
 ## Text
 

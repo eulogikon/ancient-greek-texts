@@ -5,6 +5,7 @@ author: Historical Fragments  Anonymous
 eul_wid: mmg-bd
 eul_aid: mmg
 canonical: "https://eulogikon.org/works/anon-hist-frag-olympic-victors-mmg-bd"
+lang: grc
 period: Hellenistic
 dialect: Mixed Dialects (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Historical Fragments  Anonymous
 
 **eul_wid:** `mmg-bd` · [HTML page](https://eulogikon.org/works/anon-hist-frag-olympic-victors-mmg-bd)
-
-The Olympic Victors is a fragmentary historical work, surviving only in reconstructed passages. As its title indicates, it records the names of winners at the ancient Olympic Games, a genre of list-making that served as a foundational chronological tool in Greek historiography. Such catalogues provided the essential temporal framework for dating other historical events, a method famously employed by historians like Thucydides. The text is not preserved in any independent manuscript but is known solely from quotations or references in the works of later ancient authors, a standard transmission path for such historical fragments. Its surviving entries, which note victors' names, cities, and events, exemplify the systematic record-keeping that underpins our modern understanding of the Greek historical timeline.
 
 ## Text
 

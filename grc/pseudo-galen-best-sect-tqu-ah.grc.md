@@ -5,6 +5,7 @@ author: Pseudo-Galen
 eul_wid: tqu-ah
 eul_aid: tqu
 canonical: "https://eulogikon.org/works/pseudo-galen-best-sect-tqu-ah"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Pseudo-Galen
 
 **eul_wid:** `tqu-ah` · [HTML page](https://eulogikon.org/works/pseudo-galen-best-sect-tqu-ah)
-
-On the Best Sect to Thrasybulus is an anonymous medical treatise from the Roman Imperial period, likely composed in the second or third century CE. Written in Greek and structured as a systematic discourse, the work is addressed to a figure named Thrasybulus and methodically examines the three principal medical schools of its time. It analyzes the Dogmatists, who emphasized theoretical reasoning and hidden causes of disease; the Empiricists, who relied solely on observation and accumulated experience; and the Methodists, who followed general therapeutic methods based on evident bodily conditions. The treatise functions as a comparative guide to these competing philosophies, detailing their core tenets and critiquing their perceived weaknesses.
-
-Scholars interpret its fundamental purpose as didactic, designed to instruct a student or practitioner against adopting a rigid allegiance to any single sect. The text argues that a sound medical theorem must be true, useful, and consistent with established principles. It ultimately advocates for a critical and flexible eclecticism, concluding that the best physician is one who judiciously selects the most effective ideas from all available schools of thought. The complete work survives through a single manuscript dating to the sixteenth century. While some manuscript traditions attribute the treatise to the renowned physician Galen, modern scholarship disputes this authorship on grounds of stylistic and doctrinal differences. The text remains an important source for understanding the intellectual debates and philosophical divisions that characterized ancient Greco-Roman medicine.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Andocides
 eul_wid: eym-ae
 eul_aid: eym
 canonical: "https://eulogikon.org/works/andocides-political-speeches-eym-ae"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Andocides
 
 **eul_wid:** `eym-ae` · [HTML page](https://eulogikon.org/works/andocides-political-speeches-eym-ae)
-
-The Fragments of Political Speeches are the surviving excerpts from lost orations by the Attic orator Andocides. While four of his speeches survive in full, these fragments represent works known only through quotations by later authors. A modern editorial collection organizes these remains into twelve passages, reflecting Andocides' career in Athenian political and judicial affairs following his exile. Based on his extant speeches and historical context, the fragments likely engaged with core political themes of his era, including civic reconciliation and amnesty after political turmoil, the legal consequences of exile and disenfranchisement, Athenian foreign policy regarding peace with Sparta, and defense against charges of impiety and political misconduct. Andocides' complete speeches were preserved via medieval manuscripts, but the fragments survive only as citations in later ancient grammarians, rhetoricians, and historians; their assembly into a collection is a modern scholarly reconstruction. The fragments attest to the broader scope of Andocides' political activity. Alongside his complete orations, they serve as crucial primary sources for the history of Athens during the Peloponnesian War, its judicial procedures, and the period's intense partisan conflicts.
 
 ## Text
 

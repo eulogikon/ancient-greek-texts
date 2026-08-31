@@ -5,6 +5,7 @@ author: Menander of Athens
 eul_wid: hps-bg
 eul_aid: hps
 canonical: "https://eulogikon.org/works/menander-athens-poverty-social-life-hps-bg"
+lang: grc
 period: Hellenistic
 dialect: Attic Comedy
 domain: Comedy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Menander of Athens
 
 **eul_wid:** `hps-bg` · [HTML page](https://eulogikon.org/works/menander-athens-poverty-social-life-hps-bg)
-
-_Fragments on Poverty and Social Life_ is a modern thematic compilation of excerpts from the comedies of Menander of Athens, the preeminent playwright of Greek New Comedy. Menander, who flourished in the late 4th and early 3rd centuries BCE, wrote comedies focused on domestic and social relations, but his works survive only in fragments, with a single play, Dyskolos, preserved nearly complete. This collection draws from the corpus of over two thousand surviving fragments to assemble those concerning the themes of poverty and social life. The fragments reflect the core concerns of Menander’s drama, which is set in the Hellenistic period. They explore the profound impact of poverty and wealth on personal relationships and social mobility, often using financial hardship as a key obstacle in romantic plots. A recurring motif is the role of fortune, or Tyche, in human affairs. The excerpts also offer nuanced explorations of human nature and ethics, frequently highlighting virtues such as kindness, and depict the complex dynamics and conflicts within the family household.
-
-Menander’s plays were not transmitted through the medieval manuscript tradition. Their survival depends on three primary sources: fragments recovered from Egyptian papyri, quotations preserved in later ancient authors and anthologists like Stobaeus, and the Latin adaptations of his plots by the Roman playwrights Plautus and Terence. Menander was the most influential poet of New Comedy, admired throughout antiquity for his refined language and moral maxims. His plots and character types, transmitted via Roman comedy, fundamentally shaped the subsequent European comic tradition. Modern papyrus discoveries have allowed scholars to move beyond the sententious quotations of antiquity and undertake a fuller reevaluation of his sophisticated treatment of character and social ethics.
 
 ## Text
 

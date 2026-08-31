@@ -5,6 +5,7 @@ author: John the Lydian
 eul_wid: vhw-ab
 eul_aid: vhw
 canonical: "https://eulogikon.org/works/john-lydian-months-vhw-ab"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: History
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** John the Lydian
 
 **eul_wid:** `vhw-ab` · [HTML page](https://eulogikon.org/works/john-lydian-months-vhw-ab)
-
-On the Months is a sixth-century antiquarian treatise composed in Greek by the Byzantine scholar and bureaucrat John the Lydian. Written after his retirement from imperial service around 550 CE, the work is a systematic study of the Roman calendar. It methodically documents the origins of the names of the months and describes the pagan festivals, rituals, and notable historical events traditionally linked to each. The treatise is organized into four books, commencing with a discussion of general concepts of time before proceeding through a detailed month-by-month exposition from January to December.
-
-The text survives only in a fragmentary condition, its contents reconstructed from excerpts preserved in later manuscripts. Modern scholarship regards it as a significant example of late antique efforts to codify and preserve Roman cultural heritage. John compiled his material from a wide array of earlier Latin and Greek sources, many of which are now lost. The work appears to have been intended for an educated Christian readership in Constantinople, presenting pagan traditions as a subject of historical and antiquarian interest rather than as a living religious system. Consequently, it remains a valuable source for understanding Roman religious practice and the methods of antiquarian scholarship in the later Roman Empire.
 
 ## Text
 

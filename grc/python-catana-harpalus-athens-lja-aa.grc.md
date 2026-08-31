@@ -5,6 +5,7 @@ author: Python of Catana
 eul_wid: lja-aa
 eul_aid: lja
 canonical: "https://eulogikon.org/works/python-catana-harpalus-athens-lja-aa"
+lang: grc
 period: Hellenistic
 dialect: "Attic (dr, frg)"
 domain: Drama
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Python of Catana
 
 **eul_wid:** `lja-aa` · [HTML page](https://eulogikon.org/works/python-catana-harpalus-athens-lja-aa)
-
-The satyr play Agen, attributed to Python of Catana, is a historically significant work of overt political propaganda from the late Classical Athenian stage. Performed at the City Dionysia in 324 or 323 BCE, it directly treated the contemporary scandal surrounding Harpalus, the fugitive treasurer of Alexander the Great, who arrived in Athens with vast wealth the previous year. Ancient sources indicate the play was commissioned by Alexander’s regent, Antipater, as a Macedonian-sponsored attack on the integrity of the Athenian democracy, specifically targeting the orator Demosthenes, who was accused of accepting bribes from Harpalus. As a hemerodrama, or drama of the day, it broke from mythological tradition to satirize living politicians by name, including Demosthenes and Demades, focusing on themes of political corruption and bribery. The work is now lost, surviving only in fragments cited by later authors such as Athenaeus and Plutarch, who preserve details of its performance and polemical purpose. Agen demonstrates the continued political potency of the Athenian dramatic festival in the fourth century and provides crucial literary evidence for the historical Harpalus affair.
 
 ## Text
 

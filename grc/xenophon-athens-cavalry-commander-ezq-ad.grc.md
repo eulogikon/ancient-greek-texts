@@ -5,6 +5,7 @@ author: Xenophon of Athens
 eul_wid: ezq-ad
 eul_aid: ezq
 canonical: "https://eulogikon.org/works/xenophon-athens-cavalry-commander-ezq-ad"
+lang: grc
 period: Classical
 dialect: Attic
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Xenophon of Athens
 
 **eul_wid:** `ezq-ad` · [HTML page](https://eulogikon.org/works/xenophon-athens-cavalry-commander-ezq-ad)
-
-On the Cavalry Commander is a practical military treatise composed by the Athenian historian Xenophon in the mid-4th century BCE. Written in straightforward Attic prose, the work serves as a comprehensive manual for an Athenian cavalry commander, detailing the full range of his responsibilities. It opens with the necessity of securing divine favor through proper sacrifice before addressing the practicalities of the office. Xenophon systematically covers the recruitment and maintenance of the cavalry force, emphasizing the importance of selecting sound horses and ensuring their proper care, training, and obedience. The manual provides specific instructions on drilling the men, managing finances and equipment, and conducting public processions and reviews to enhance the corps’ prestige. A significant portion is devoted to tactics, including the use of formations like the wedge, methods for scouting and ambushing, and strategies for engaging an enemy effectively while minimizing risks to one’s own troops. The text, organized into nine chapters comprising 121 concise sections, reflects the author’s extensive personal experience as a soldier and leader. Composed during a period of Athenian military reconstruction following the Peloponnesian War, the work functions as a didactic guide for the city’s officer class, emphasizing technical proficiency, disciplined leadership, and civic duty. Preserved intact within the corpus of Xenophon’s works through medieval manuscripts, On the Cavalry Commander remains a crucial primary source for understanding the organization, tactics, and professional ethos of Classical Greek cavalry.
 
 ## Text
 

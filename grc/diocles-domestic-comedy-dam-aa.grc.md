@@ -5,6 +5,7 @@ author: Diocles Comicus
 eul_wid: dam-aa
 eul_aid: dam
 canonical: "https://eulogikon.org/works/diocles-domestic-comedy-dam-aa"
+lang: grc
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Diocles Comicus
 
 **eul_wid:** `dam-aa` · [HTML page](https://eulogikon.org/works/diocles-domestic-comedy-dam-aa)
-
-The fragments attributed to Diocles Comicus represent a modern collection of twenty-one passages from the lost comedies of this Athenian playwright, a contemporary and rival of Aristophanes active in the late fifth and early fourth centuries BCE. These excerpts are not from a single play but are preserved through quotations by later ancient scholars, such as Athenaeus and Pollux, who cited them for linguistic or cultural illustration. They offer valuable glimpses into Diocles's comic style during a transitional period from Old to Middle Comedy. The surviving play titles and fragmentary content indicate several recurring themes, including domestic and social life, mythological burlesque, and a pronounced interest in culinary culture, with multiple passages referencing foods, fish, and dining customs. The fragments' primary preservation for rare and distinctive vocabulary also points to the playwright's inventive use of language. While no complete play by Diocles survives, and his direct literary influence remains untraceable, these excerpts are significant for scholars as evidence for the evolution of Athenian comedy and as a source of insights into the daily life and language of the period.
 
 ## Text
 

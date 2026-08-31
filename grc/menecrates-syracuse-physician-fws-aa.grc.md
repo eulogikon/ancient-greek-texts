@@ -5,6 +5,7 @@ author: Menecrates of Syracuse
 eul_wid: fws-aa
 eul_aid: fws
 canonical: "https://eulogikon.org/works/menecrates-syracuse-physician-fws-aa"
+lang: grc
 period: Classical
 dialect: Doric
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Menecrates of Syracuse
 
 **eul_wid:** `fws-aa` · [HTML page](https://eulogikon.org/works/menecrates-syracuse-physician-fws-aa)
-
-_Menecrates the Physician_ is a medical treatise attributed to the 4th-century BCE Greek physician Menecrates of Syracuse. The work survives only in two fragmentary passages, preserved as quotations in later authors: one in Aulus Gellius’s _Attic Nights_ and another in Aëtius of Amida’s _Medical Collection_. The treatise is lost as an independent text, with no direct manuscript tradition; its preservation relies entirely on these citations. The extant fragments indicate the treatise offered practical therapeutic advice. The passage in Aëtius discusses hydrotherapy and the use of baths, while the quotation in Aulus Gellius provides dietary counsel, including warnings against specific foods. While the work’s direct influence is obscured by its fragmentary state, its citation by a Roman encyclopedist and a Byzantine medical compiler demonstrates that Menecrates’s ideas were remembered in later antiquity. The author is more frequently cited in historical anecdotes as an example of professional hubris than for his medical doctrine, but the preserved fragments confirm that some of his therapeutic recommendations were considered substantive by later medical writers.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Hippolytus of Rome
 eul_wid: qsg-bv
 eul_aid: qsg
 canonical: "https://eulogikon.org/works/hippolytus-rome-antichrist-qsg-bv"
+lang: grc
 period: Roman
 dialect: Christian Koine
 domain: Theology
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hippolytus of Rome
 
 **eul_wid:** `qsg-bv` · [HTML page](https://eulogikon.org/works/hippolytus-rome-antichrist-qsg-bv)
-
-On the Antichrist is an early Christian theological treatise composed in Greek around 200 CE by Hippolytus of Rome. The work offers a systematic interpretation of biblical prophecies, primarily from the books of Daniel and Revelation, to construct a detailed portrait of the final adversary of Christ. Hippolytus describes the Antichrist as a future human ruler arising from the tribe of Dan who will falsely proclaim himself divine, rebuild the Temple in Jerusalem, persecute the faithful, and hold sway for a period of three and a half years before being annihilated by the return of Christ. Structured into 65 sections, the treatise meticulously weaves scriptural exegesis into a coherent apocalyptic narrative intended to instruct and fortify its readers.
-
-Modern scholarship situates the work within the broader context of efforts to define orthodox Christian belief during a period marked by persecution and theological controversy. It is generally understood as a pastoral response, written to provide the Christian community in Rome with a framework for interpreting contemporary sufferings and to warn against deceptive doctrines. The treatise survives in its entirety through later Greek manuscripts, though its precise original place within Hippolytus's larger corpus remains uncertain due to the fragmentary nature of his transmitted writings. On the Antichrist proved highly influential, serving for centuries as a foundational text in establishing the standard Christian conception of the Antichrist as a singular, future human opponent.
 
 ## Text
 

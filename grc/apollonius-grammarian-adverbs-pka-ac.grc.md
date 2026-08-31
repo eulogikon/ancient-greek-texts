@@ -1,10 +1,11 @@
 ---
 title: On Adverbs
 title_greek: Περὶ ἐπιρρημάτων
-author: "Apollonius Grammarian "
+author: Apollonius Grammarian
 eul_wid: pka-ac
 eul_aid: pka
 canonical: "https://eulogikon.org/works/apollonius-grammarian-adverbs-pka-ac"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Grammar
@@ -16,13 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Περὶ ἐπιρρημάτων*
 
-**Author:** Apollonius Grammarian 
+**Author:** Apollonius Grammarian
 
 **eul_wid:** `pka-ac` · [HTML page](https://eulogikon.org/works/apollonius-grammarian-adverbs-pka-ac)
-
-On Adverbs is a grammatical treatise by the 2nd-century CE Alexandrian scholar Apollonius Dyscolus. As part of his systematic investigation of the parts of speech, it constitutes one of the earliest dedicated studies to define the adverb as a distinct grammatical category. The work methodically establishes the adverb as an indeclinable word that modifies the meaning of a verb, either wholly or partially, and proceeds to classify its various types by semantic function, such as adverbs of place, time, and manner. Structured in 92 sections, the treatise is characterized by a logical, definition-based approach to linguistic analysis, reflecting the advanced scholarly environment of Alexandria and intended for fellow grammarians and advanced students.
-
-The original Greek text is not fully preserved. Modern knowledge of the work derives from a fragmentary transmission tradition, relying on later excerpts, summaries, and most significantly, a detailed Latin adaptation by the 6th-century grammarian Priscian. Through this indirect reception, Apollonius's rigorous methodology and foundational contributions to the development of syntactic theory have secured his reputation as a pivotal figure in the history of grammar.
 
 ## Text
 

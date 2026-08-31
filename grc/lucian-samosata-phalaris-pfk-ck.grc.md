@@ -5,6 +5,7 @@ author: Lucian of Samosata
 eul_wid: pfk-ck
 eul_aid: pfk
 canonical: "https://eulogikon.org/works/lucian-samosata-phalaris-pfk-ck"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lucian of Samosata
 
 **eul_wid:** `pfk-ck` · [HTML page](https://eulogikon.org/works/lucian-samosata-phalaris-pfk-ck)
-
-Phalaris is a declamatory oration by the second-century CE satirist Lucian of Samosata. Structured as a speech in twenty-five sections, it presents a rhetorical exercise in which the notorious sixth-century BCE Sicilian tyrant Phalaris addresses the citizens of Delphi. His purpose is to persuade them to accept his dedication of a bronze bull statue at their sanctuary, an offering historically associated with his reputation for roasting victims alive inside the hollow metal figure. The speech is a sophisticated defense built on paradox, as Phalaris argues that his legendary cruelty and the pervasive terror he inspired were not vices but public benefits. He contends that this extreme severity created perfect civic order, absolute obedience, and lasting peace in his city of Acragas, transforming his image from a brutal despot into a necessary and effective guardian of the state.
-
-The work is a classic example of the meletē, or declamation, a central genre of the Second Sophistic period that celebrated virtuosic rhetoric and the revival of classical Attic Greek. Lucian’s piece functions as a showcase of rhetorical ingenuity, deliberately constructing a compelling case for a morally indefensible position. It is designed for an educated audience capable of appreciating its polished style, complex argumentation, and ironic subversion of historical tradition. The complete text survives within the Lucianic corpus, preserved through Byzantine manuscript transmission.
 
 ## Text
 

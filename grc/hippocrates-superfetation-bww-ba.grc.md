@@ -5,6 +5,7 @@ author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-ba
 eul_aid: bww
 canonical: "https://eulogikon.org/works/hippocrates-superfetation-bww-ba"
+lang: grc
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hippocrates and the Hippocratic Corpus
 
 **eul_wid:** `bww-ba` · [HTML page](https://eulogikon.org/works/hippocrates-superfetation-bww-ba)
-
-On Superfetation is a concise medical treatise from the Hippocratic Corpus, the collection of works attributed to Hippocrates of Cos and his followers. Composed in Ionic Greek during the fifth or fourth century BCE, the text systematically addresses the debated phenomenon of superfetation, wherein a second conception occurs during an established pregnancy. The work comprises twenty-seven passages that function as a practical diagnostic guide for the attending physician. It details the physical signs indicative of a secondary fetus, including specific maternal pains, abnormal fetal movements, and the distinctive size and condition of the uterus. The treatise argues for the physiological possibility of superfetation, explaining it through a theory of the womb remaining open and sufficiently moist after the initial conception. It further outlines the significant risks associated with such pregnancies, particularly concerning the delivery process and the overall health of the mother, noting complications like difficult labor, fever, and swelling. A characteristic product of Hippocratic gynecological thought, the treatise blends empirical observation with theoretical reasoning about female reproductive anatomy. It was likely composed for the use of practicing physicians and medical students, aiming to systematize knowledge on a complex clinical subject. The authorship is anonymous, reflecting the collective output of the Hippocratic school rather than the work of Hippocrates himself. The complete text survives through the medieval manuscript tradition of the larger Hippocratic Corpus.
 
 ## Text
 

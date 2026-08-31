@@ -5,6 +5,7 @@ author: Glaucus of Rhegium
 eul_wid: fbo-aa
 eul_aid: fbo
 canonical: "https://eulogikon.org/works/glaucus-rhegium-ancient-poets-musicians-fbo-aa"
+lang: grc
 period: Classical
 dialect: Doric
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Glaucus of Rhegium
 
 **eul_wid:** `fbo-aa` · [HTML page](https://eulogikon.org/works/glaucus-rhegium-ancient-poets-musicians-fbo-aa)
-
-On Ancient Poets and Musicians is a lost prose treatise attributed to Glaucus of Rhegium, a pioneering figure in the systematic study of literary history who was active in the late fifth century BCE. The work, which is also known by the title Extracts, survives only through fragments and references preserved by later authors such as Athenaeus, Plutarch, and the Suda lexicon. These testimonia indicate that the treatise was a significant early effort to establish a chronological framework and provide biographical details for the foundational figures of Greek music and lyric poetry. Glaucus’s research included discussions and comparisons of early cultural figures such as Terpander, Arion, Olympus, and Stesichorus, addressing their relative dates and contributions to artistic development. For instance, one notable fragment asserts that the poet Lesches of Mytilene was older than Stesichorus, while another clarifies the musical innovations attributed to Olympus. Approximately eight fragments of the work are collected in modern scholarship, with no direct manuscript tradition existing; our knowledge depends entirely on these quotations by later ancient authorities. Glaucus’s chronological investigations established him as an early critical authority on Greece’s cultural past and exerted a discernible influence on subsequent biographers, Aristotle, and Hellenistic scholars.
 
 ## Text
 

@@ -1,10 +1,11 @@
 ---
 title: Fragments on Adonis and Cinyras
 title_greek: Ἀποσπάσματα περὶ Ἀδώνιδος καὶ Κινύρου
-author: "Plato the Comic Poet "
+author: Plato the Comic Poet
 eul_wid: efq-aa
 eul_aid: efq
 canonical: "https://eulogikon.org/works/plato-comic-adonis-cinyras-efq-aa"
+lang: grc
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀποσπάσματα περὶ Ἀδώνιδος καὶ Κινύρου*
 
-**Author:** Plato the Comic Poet 
+**Author:** Plato the Comic Poet
 
 **eul_wid:** `efq-aa` · [HTML page](https://eulogikon.org/works/plato-comic-adonis-cinyras-efq-aa)
-
-The Fragments on Adonis and Cinyras is a modern collective title for numerous excerpts attributed to the Athenian comic poet Plato, a contemporary of Aristophanes. These fragments, preserved through quotation by later grammarians and authors such as Athenaeus, are believed to originate from several now-lost comedies that featured the mythological figures of Adonis, the beautiful youth beloved by Aphrodite, and Cinyras, the king of Cyprus. Ranging from single words to several lines, the fragments exemplify the characteristic techniques of Attic Old Comedy, including mythological parody, satirical commentary, and intricate wordplay. The content indicates that the source plays engaged in parodying myths concerning Adonis and Aphrodite, satirizing contemporary religious practices like the Adonia festival, and offering social and political commentary on Athenian life, often through metatheatrical references and robust, sometimes scatological, humor. As the complete works of Plato the Comic Poet are lost, these fragments, systematically collected in modern editions such as Poetae Comici Graeci, provide indispensable evidence for the breadth of Old Comedy beyond the surviving plays of Aristophanes. They are crucial for scholarly attempts to reconstruct lost works, analyze comic technique, and understand Athenian social history, religious attitudes, and intellectual life in the late fifth century BCE.
 
 ## Text
 

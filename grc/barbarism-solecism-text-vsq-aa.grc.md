@@ -5,6 +5,7 @@ author: Barbarism and Solecism Treatise
 eul_wid: vsq-aa
 eul_aid: vsq
 canonical: "https://eulogikon.org/works/barbarism-solecism-text-vsq-aa"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: Grammar
@@ -19,20 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Barbarism and Solecism Treatise
 
 **eul_wid:** `vsq-aa` · [HTML page](https://eulogikon.org/works/barbarism-solecism-text-vsq-aa)
-
-Overview The grammatical treatise On Barbarism and Solecism (Περὶ βαρβαρισμοῦ καὶ σολοικισμοῦ) is not preserved as an independent work. It survives only in fragments, primarily through a citation by the 6th-century CE commentator John Philoponus in his commentary on Aristotle’s Categories.
-
-Content The treatise addressed the core grammatical concepts of its title:
-
-Barbarism (βαρβαρισμός): an error in the pronunciation or form of a single word.
-
-Solecism (σολοικισμός): a syntactic error in the combination of words.
-
-It provided definitions and examples of these linguistic faults, serving as a technical handbook for advanced education in correct Attic Greek.
-
-Transmission The work is known solely from later quotations. Philoponus references it to illustrate grammatical errors, indicating it remained an authoritative source in late antique grammatical scholarship.
-
-Significance The treatise participated in a long tradition of grammatical and rhetorical theory focused on linguistic purity. The fundamental distinction between barbarism and solecism it explicated was central to stylistic criticism and grammatical instruction throughout the Byzantine and Renaissance periods.
 
 ## Text
 

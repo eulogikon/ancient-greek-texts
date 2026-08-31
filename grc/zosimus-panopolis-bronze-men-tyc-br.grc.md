@@ -5,6 +5,7 @@ author: Zosimus of Panopolis
 eul_wid: tyc-br
 eul_aid: tyc
 canonical: "https://eulogikon.org/works/zosimus-panopolis-bronze-men-tyc-br"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Zosimus of Panopolis
 
 **eul_wid:** `tyc-br` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-bronze-men-tyc-br)
-
-The alchemical treatise "On Bronze Men," attributed to Zosimus of Panopolis, is a short excerpt likely extracted from a larger, lost work concerning transmutation and the animation of matter. Its title references the creation of artificial, metallic men or homunculi, a concept within Greco-Egyptian alchemy. The surviving text deals with core alchemical themes, including the practical techniques for giving metallic substances a lifelike, human form through laboratory procedures involving substances like sulfur and mercury. For Zosimus, such operations also carried profound spiritual symbolism, with the "bronze man" representing an imprisoned element awaiting liberation, thereby framing the material work as a metaphor for spiritual purification. Zosimus's original Greek corpus is largely lost, and this work is preserved only as an excerpt or a title within later Byzantine Greek compilations and Syriac translations. His writings are foundational to the Western alchemical tradition, and concepts from this treatise contributed significantly to the enduring connection between material practice and spiritual allegory, influencing later Byzantine, Arabic, and medieval Latin alchemical traditions.
 
 ## Text
 

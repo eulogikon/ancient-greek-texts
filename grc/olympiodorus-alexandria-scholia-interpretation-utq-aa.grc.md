@@ -5,6 +5,7 @@ author: Olympiodorus the Younger of Alexandria
 eul_wid: utq-aa
 eul_aid: utq
 canonical: "https://eulogikon.org/works/olympiodorus-alexandria-scholia-interpretation-utq-aa"
+lang: grc
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Olympiodorus the Younger of Alexandria
 
 **eul_wid:** `utq-aa` · [HTML page](https://eulogikon.org/works/olympiodorus-alexandria-scholia-interpretation-utq-aa)
-
-The Scholia on Aristotle's De Interpretatione is a sixth-century CE philosophical commentary by Olympiodorus the Younger of Alexandria. This treatise offers a detailed exegesis of Aristotle’s logical work Peri Hermeneias (On Interpretation). Composed as a series of sixteen lectures, it was designed for students within the Neoplatonic educational tradition, systematically guiding them through Aristotle’s intricate theories on language, meaning, and propositional logic. The commentary addresses the foundational elements of Aristotle’s text, examining the definitions and functions of nouns and verbs, the structure of affirmation and negation, the principle of contradiction, and the complex problem of future contingents, notably the logical status of statements predicting events like a sea battle.
-
-Preserved intact from late antiquity through medieval manuscript transmission, the work exemplifies the advanced pedagogical curriculum of its time, where Aristotelian logic was studied as a necessary propaedeutic to Platonic metaphysics. Olympiodorus’s exposition is characterized by a clear, methodical style aimed at instruction. Modern scholarship views the commentary as a prime example of the Alexandrian Neoplatonic tendency to harmonize Aristotle with Plato, presenting their philosophies as a coherent system. Its lucid explanations played a significant role in standardizing the teaching of Aristotelian logic, ensuring its influence on subsequent Byzantine, Islamic, and Latin scholastic thought.
 
 ## Text
 

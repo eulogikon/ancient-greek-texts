@@ -5,6 +5,7 @@ author: Galen of Pergamon
 eul_wid: qmm-db
 eul_aid: qmm
 canonical: "https://eulogikon.org/works/galen-pergamon-bones-beginners-qmm-db"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Galen of Pergamon
 
 **eul_wid:** `qmm-db` · [HTML page](https://eulogikon.org/works/galen-pergamon-bones-beginners-qmm-db)
-
-On Bones for Beginners is an introductory anatomical textbook composed in Greek by the physician Galen of Pergamon around 170–180 CE. Written as a foundational manual for medical students, the work systematically details the human skeletal system. Galen opens by asserting that a physician must understand the natural state and arrangement of each bone to properly treat fractures and dislocations, grounding all medical practice in knowledge of nature. He describes bones as the hardest, driest, and most earth-like parts of the body, serving as foundational supports upon which the rest of the body is built.
-
-The treatise is organized into 46 concise chapters. It begins by defining and classifying bones according to their shape before proceeding with a clear, region-by-region survey of the skeleton from the skull to the limbs. Galen distinguishes between large bones, which possess a capacious cavity filled with marrow, and small, solid bones that are marrowless and lack perceptible hollows. His descriptions focus on each bone's form and its articulations with others, frequently employing comparisons to familiar objects to aid memorization and comprehension. Composed during Galen's tenure as an imperial physician and lecturer in Rome, the work was designed as the essential first step in his comprehensive medical curriculum, providing the structural knowledge required before advancing to the study of muscles and organs. The complete text survives in medieval Greek manuscripts and was translated into Arabic and Latin. It remained a standard primer in Byzantine, Islamic, and later European medical education for well over a millennium, until the anatomical revisions of the Renaissance.
 
 ## Text
 

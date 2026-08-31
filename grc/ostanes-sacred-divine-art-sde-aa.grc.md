@@ -5,6 +5,7 @@ author: Ostanes the Alchemist
 eul_wid: sde-aa
 eul_aid: sde
 canonical: "https://eulogikon.org/works/ostanes-sacred-divine-art-sde-aa"
+lang: grc
 period: Late Antique
 dialect: Koine (frg)
 domain: Science
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Ostanes the Alchemist
 
 **eul_wid:** `sde-aa` · [HTML page](https://eulogikon.org/works/ostanes-sacred-divine-art-sde-aa)
-
-The work Ostanes the Philosopher to Petasius on the Sacred and Divine Art is a brief, pseudepigraphical Greek alchemical treatise presented as a letter from the legendary Persian sage Ostanes to a recipient named Petasius. Characteristically cryptic and allegorical, the text discusses the sacred nature of transmutation, framing alchemy as a divine art. Its content aligns with common motifs in Greco-Egyptian alchemy, including the unity and transformation of matter, often expressed through symbolism of death and resurrection, the correspondence between macrocosm and microcosm, and encoded descriptions of materials and procedures. The treatise survives as a minor component within the corpus of Greek alchemical writings, preserved in Byzantine manuscripts such as Marcianus graecus 299. Its attribution to Ostanes is a conventional pseudepigraphical device used to lend authority. As part of the Greek alchemical tradition, this work contributed to the body of esoteric knowledge transmitted from antiquity, forming a link in the continuous chain of alchemical theory and practice that would later be translated into Arabic and Latin and influence the medieval period.
 
 ## Text
 

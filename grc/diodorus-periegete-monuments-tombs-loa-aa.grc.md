@@ -5,6 +5,7 @@ author: Diodorus the Periegete
 eul_wid: loa-aa
 eul_aid: loa
 canonical: "https://eulogikon.org/works/diodorus-periegete-monuments-tombs-loa-aa"
+lang: grc
 period: Hellenistic
 dialect: Attic
 domain: Geography
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Diodorus the Periegete
 
 **eul_wid:** `loa-aa` · [HTML page](https://eulogikon.org/works/diodorus-periegete-monuments-tombs-loa-aa)
-
-_On Monuments and Tombs_, a prose geographical treatise attributed to Diodorus the Periegete, is a collection of forty-five discrete passages describing notable tombs, monuments, and occasional landmarks across the Greek world. Each entry typically notes the commemorated individual and the location of the site. The work survives only in fragments preserved through quotations in later lexicographical and geographical compilations, most significantly in the sixth-century CE _Ethnica_ of Stephanus of Byzantium and in the _Etymologicum Magnum_. Modern editions reconstruct the known passages from these citations. The concise entries focus primarily on the tombs of cultural figures, such as the poet Archilochus on Thasos or Alcman in Sparta, and on monuments and their geographical settings. Collectively, these fragments map the Greek cultural world through its significant burial sites and built heritage. They provide valuable evidence for localized traditions about tombs and monuments in later antiquity, served as an indirect source for Byzantine scholars, and offer modern historians and archaeologists clues to the reception of classical figures and the preservation of antiquarian knowledge.
 
 ## Text
 

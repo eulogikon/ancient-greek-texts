@@ -1,10 +1,11 @@
 ---
 title: Hermes Trismegistus to Asclepius
 title_greek: Ἑρμοῦ τρισμεγιστου πρὸς Ἀσκληπιόν
-author: "Hermetica "
+author: Hermetica
 eul_wid: oqk-ak
 eul_aid: oqk
 canonical: "https://eulogikon.org/works/hermetica-to-asclepius-oqk-ak"
+lang: grc
 period: Roman
 dialect: Philosophical Koine
 domain: Philosophy
@@ -16,13 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἑρμοῦ τρισμεγιστου πρὸς Ἀσκληπιόν*
 
-**Author:** Hermetica 
+**Author:** Hermetica
 
 **eul_wid:** `oqk-ak` · [HTML page](https://eulogikon.org/works/hermetica-to-asclepius-oqk-ak)
-
-_Hermes Trismegistus to Asclepius_ is a Greek philosophical treatise from the Hermetic tradition, composed in Roman Egypt between the first and third centuries CE. The text is structured as a didactic discourse in which the divine teacher Hermes instructs his disciple Asclepius on the nature of God, the cosmos, and the human soul. It explores core Hermetic themes, including a transcendent God as the source of all being, the emanation of the world through the Divine Mind, and the unique position of humanity as a being composed of both mortal body and immortal spirit. The work emphasizes that salvation is achieved through gnosis, a spiritual knowledge that liberates the soul from the confines of the material world. A notable passage prophesies the decline and future restoration of Egyptian religion, reflecting the cultural anxieties of its era.
-
-The original Greek text of this treatise is largely lost, surviving primarily through a complete Latin translation titled Asclepius and through extensive Greek fragments preserved in quotations by later Christian authors. It was widely read in the Latin West during the Middle Ages and the Renaissance, influencing figures such as Augustine of Hippo and Marsilio Ficino. Modern scholars interpret the work as a syncretic blend of Greek philosophical concepts, Egyptian religious thought, and other contemporary influences, likely intended for private spiritual circles rather than a public audience.
 
 ## Text
 

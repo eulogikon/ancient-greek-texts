@@ -5,6 +5,7 @@ author: Callimachus Scholia
 eul_wid: vmw-am
 eul_aid: vmw
 canonical: "https://eulogikon.org/works/callimachus-scholia-hymn-iii-vmw-am"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: Grammar
@@ -19,22 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Callimachus Scholia
 
 **eul_wid:** `vmw-am` · [HTML page](https://eulogikon.org/works/callimachus-scholia-hymn-iii-vmw-am)
-
-Overview The Scholia-Hymn III (Σχόλια εἰς Ὕμνον Γ΄) are ancient prose commentaries on Callimachus’s Hymn to Artemis. These scholia, comprising 18 discrete notes in the transmitted text, exemplify Alexandrian scholarship by elucidating the hymn’s mythological references, rare vocabulary, and geographical allusions. They function as a key pedagogical aid for interpreting Callimachus’s learned and complex poetic style.
-
-Content The scholia address several exegetical topics:
-
-Mythological Explanation: Identifying figures and stories.
-
-Lexicography: Defining archaic or rare words.
-
-Geographical Reference: Clarifying place names.
-
-Textual Criticism: Noting variant readings.
-
-Transmission Preserved in medieval manuscripts such as the 11th-century Laurentianus plut. 32.9, these notes are a condensed compilation of earlier Hellenistic and Roman scholarship, transmitted and abbreviated within the Byzantine tradition alongside the primary poetic text.
-
-Significance The scholia are crucial for modern understanding of Callimachus, preserving fragments of lost commentaries and documenting ancient interpretative practices. They remain a fundamental resource for editors and scholars resolving textual difficulties and reconstructing the mythological erudition of Hellenistic poetry.
 
 ## Text
 

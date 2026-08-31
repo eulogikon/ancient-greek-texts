@@ -5,6 +5,7 @@ author: Metopus the Philosopher
 eul_wid: kjg-aa
 eul_aid: kjg
 canonical: "https://eulogikon.org/works/metopus-nature-virtue-kjg-aa"
+lang: grc
 period: Hellenistic
 dialect: "Attic (phi, frg)"
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Metopus the Philosopher
 
 **eul_wid:** `kjg-aa` · [HTML page](https://eulogikon.org/works/metopus-nature-virtue-kjg-aa)
-
-On the Nature of Virtue is a lost philosophical treatise attributed to Metopus the Philosopher, a Pythagorean thinker from Metapontum. The work is known only through a single excerpt preserved by the anthologist Stobaeus. In this fragment, Metopus defines virtue as the perfection of a thing's specific nature, arguing that each entity achieves its complete and highest state through its own particular excellence. He illustrates this principle with examples: the virtue of a horse is what leads its equine nature to its peak, the virtue of eyes is sharp-sightedness, of ears keen hearing, and of feet swiftness. The philosopher then posits that every human virtue must consist of three components: reason, capacity, and choice. Reason is that by which one judges and contemplates; capacity is that by which one endures and masters; and choice is that by which one is content and loves. He assigns the functions of judging and contemplating to the rational part of the soul, enduring and mastering to the non-rational part, and the act of loving to a faculty common to both parts, asserting that choice itself is a compound of intellect and desire. The treatise, surviving only in this brief extract, represents a minor but distinct strand of Pythagorean ethical thought focused on the teleological fulfillment of natural potential.
 
 ## Text
 

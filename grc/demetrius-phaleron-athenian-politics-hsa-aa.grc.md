@@ -5,6 +5,7 @@ author: Demetrius of Phaleron II
 eul_wid: hsa-aa
 eul_aid: hsa
 canonical: "https://eulogikon.org/works/demetrius-phaleron-athenian-politics-hsa-aa"
+lang: grc
 period: Hellenistic
 dialect: Attic
 format: Treatise
@@ -18,8 +19,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Demetrius of Phaleron II
 
 **eul_wid:** `hsa-aa` · [HTML page](https://eulogikon.org/works/demetrius-phaleron-athenian-politics-hsa-aa)
-
-The Fragments on Athenian Politics by Demetrius of Phaleron is a lost Hellenistic treatise known only through passages preserved within the Aristotelian Athenaion Politeia. These eighty-one fragments, which cover Athenian political history and institutions, do not constitute a continuous text but are excerpts embedded by later authors who cited Demetrius as a source. The fragments address several core themes, including the constitutional development of Athenian governance and laws, historical analysis of specific political events and figures, and descriptions of political bodies such as the Areopagus, the Council, and the popular courts. The work survives entirely through this indirect transmission, being reconstructed from quotations and paraphrases in the Athenaion Politeia without an independent manuscript tradition. Demetrius’s treatise served as a major source for the Peripatetic school’s constitutional research, directly informing the influential Athenaion Politeia. His accounts, shaped by his experience as an oligarchic ruler and a Peripatetic philosopher, became a foundational resource for both ancient and modern scholarship on Athenian politics.
 
 ## Text
 

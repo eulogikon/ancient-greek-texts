@@ -5,6 +5,7 @@ author: Timotheus the Comic Poet of Athens
 eul_wid: cgm-aa
 eul_aid: cgm
 canonical: "https://eulogikon.org/works/timotheus-athens-banquet-fragments-cgm-aa"
+lang: grc
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Timotheus the Comic Poet of Athens
 
 **eul_wid:** `cgm-aa` · [HTML page](https://eulogikon.org/works/timotheus-athens-banquet-fragments-cgm-aa)
-
-The work Fragments on a Banquet is attributed to Timotheus the Comic Poet of Athens. It survives only as a title, described as consisting of four passages in verse. The title indicates it treated sympotic themes, a standard setting in Greek comedy for revelry and social satire. Based on its title and genre, the fragments likely addressed sympotic customs and rituals, social interaction and hierarchy, drunkenness and its consequences, and the satire of philosophical or cultural discussions. The work is entirely lost except for its mention in ancient catalogs. The term "fragments" in the title refers to excerpts preserved by later grammarians, not an original composition. While the Suda identifies Timotheus as an Athenian comic poet, it does not list this specific work. This lost work contributes to the historical record of Attic comedy, underscoring the genre's engagement with the culturally central symposium.
 
 ## Text
 

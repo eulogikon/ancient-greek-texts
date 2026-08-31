@@ -5,6 +5,7 @@ author: Persaeus of Citium
 eul_wid: ium-aa
 eul_aid: ium
 canonical: "https://eulogikon.org/works/persaeus-citium-philosophical-fragments-ium-aa"
+lang: grc
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Persaeus of Citium
 
 **eul_wid:** `ium-aa` · [HTML page](https://eulogikon.org/works/persaeus-citium-philosophical-fragments-ium-aa)
-
-The Philosophical Fragments of Persaeus of Citium constitute a modern assemblage of quotations and testimonia attributed to the early Stoic philosopher. A direct student and even a member of the household of Zeno of Citium, the school's founder, Persaeus flourished in the early third century BCE. No independent manuscript of his writings survives; the corpus is instead reconstructed from approximately twenty-eight discrete passages preserved by later Greek doxographers and authors, most notably Diogenes Laertius, Athenaeus, and Plutarch. These references indicate that his original output was substantial and varied, including titles such as On Kingship, The Spartan Constitution, On Marriage, and dialogues like Thyestes.
-
-The extant fragments primarily address Stoic ethical and political doctrine, with a pronounced emphasis on practical application. They argue for the philosophical life as one of active civic engagement, critique luxury and wealth as moral distractions, and explore the ideal characteristics of rulers and constitutions. This practical orientation is often interpreted as a reflection of Persaeus's own unusual career, which saw him serve as a tutor and advisor in the court of Antigonus II Gonatas of Macedon and later as governor of Corinth. The fragments thus provide a valuable, if limited, window into the early development of Stoic political thought and its attempted synthesis with real-world governance. The complete loss of his original texts means his philosophy is known solely through these secondhand citations, which filter his ideas through the agendas and contexts of later writers.
 
 ## Text
 

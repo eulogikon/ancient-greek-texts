@@ -5,6 +5,7 @@ author: Herodian of Alexandria
 eul_wid: qnq-bi
 eul_aid: qnq
 canonical: "https://eulogikon.org/works/herodian-alexandria-dichronous-qnq-bi"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Herodian of Alexandria
 
 **eul_wid:** `qnq-bi` · [HTML page](https://eulogikon.org/works/herodian-alexandria-dichronous-qnq-bi)
-
-_On Dichronous_ is a grammatical treatise by the 2nd-century CE scholar Herodian of Alexandria. Structured as an oration comprising fourteen passages, the work examines the concept of "dichronous" vowels in ancient Greek, specifically epsilon and omicron, which could be pronounced as either short or long in certain phonetic contexts. The treatise analyzes Greek prosody and phonology, detailing the nature of these common vowels and outlining grammatical rules and exceptions governing their pronunciation. The full text is lost and survives only in fragments and references preserved within later grammatical commentaries. Herodian's vast grammatical corpus is largely lost, though his influential systematic work on accentuation, the _General Prosody_, survived in an epitome. His grammatical authority was immense in later antiquity and the Byzantine period, where his prosodic theories became a standard reference and heavily influenced Byzantine grammarians such as Theodosius of Alexandria and George Choeroboscus, ensuring his teachings were transmitted for centuries.
 
 ## Text
 

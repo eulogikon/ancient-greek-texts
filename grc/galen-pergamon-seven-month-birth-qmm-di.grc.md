@@ -5,6 +5,7 @@ author: Galen of Pergamon
 eul_wid: qmm-di
 eul_aid: qmm
 canonical: "https://eulogikon.org/works/galen-pergamon-seven-month-birth-qmm-di"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Galen of Pergamon
 
 **eul_wid:** `qmm-di` · [HTML page](https://eulogikon.org/works/galen-pergamon-seven-month-birth-qmm-di)
-
-_On Seven-Month Birth_ is a concise medical treatise by Galen of Pergamon that addresses the ancient debate surrounding fetal viability. In it, Galen directly challenges the widespread belief that infants born in the eighth month of gestation cannot survive, while simultaneously defending the viability of seven-month fetuses. His argument hinges on the assertion that such fetuses are fully formed and complete in all essential aspects, lacking only in final size and maturity. The work is structured around four core passages, building its case primarily upon the authority of Hippocratic texts and employing analogical reasoning drawn from comparative animal gestation periods. Galen positions his analysis firmly within contemporary embryological debates, offering a critique of both popular opinion and professional medical doctrine.
-
-The treatise survives as an authentic component of the Galenic corpus, transmitted within Greek manuscripts that compile his shorter works. It is included in the standard modern editions, notably in Karl Gottlob Kühn’s _Claudii Galeni Opera Omnia_ and the _Corpus Medicorum Graecorum_. In terms of significance, the work exemplifies Galen’s method of synthesizing Hippocratic authority with logical reasoning and limited empirical observation. Its arguments were absorbed into the dominant Galenic tradition, reinforcing his authoritative synthesis of medicine and philosophical biology and influencing medieval and early modern perspectives on gynecology and embryology.
 
 ## Text
 

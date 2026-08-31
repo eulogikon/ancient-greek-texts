@@ -5,6 +5,7 @@ author: Epigoni
 eul_wid: abo-aa
 eul_aid: abo
 canonical: "https://eulogikon.org/works/epigoni-text-abo-aa"
+lang: grc
 period: Archaic
 dialect: Epic (Homeric)
 domain: Epic
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Epigoni
 
 **eul_wid:** `abo-aa` · [HTML page](https://eulogikon.org/works/epigoni-text-abo-aa)
-
-The Epigoni is a lost epic poem belonging to the ancient Greek Epic Cycle, serving as a direct sequel to the Thebaid. It recounts the successful expedition mounted by the sons of the Seven against Thebes, undertaken a generation later to avenge their fathers' catastrophic failure. While some ancient authorities attributed the work to Homer, other traditions named Antimachus of Teos or an anonymous poet as its author. Composed during the Archaic period, likely in the seventh or sixth century BCE, the poem's narrative is now known principally from a prose summary compiled by the fifth-century CE scholar Proclus.
-
-According to this summary, the epic opened with the mustering of the Epigoni army. The plot encompassed the death of the renowned Theban seer Teiresias, the subsequent capture and sack of the city of Thebes, and the division of the spoils. A notable element involved the dedication of Teiresias's daughter, Manto, as an offering to Apollo at Delphi. No continuous text of the epic survives; our knowledge depends entirely on Proclus's summary and on scattered fragments and references in later authors such as Pausanias and Strabo.
-
-The poem held significant cultural importance as it completed a major cycle of Theban legend, cementing central themes of intergenerational vengeance and heroic destiny. Its story proved highly influential, providing source material for later Athenian tragedians including Sophocles and Euripides. For modern scholarship, the summary preserved by Proclus remains a crucial narrative link, offering essential insight into the structure and content of the broader Epic Cycle.
 
 ## Text
 

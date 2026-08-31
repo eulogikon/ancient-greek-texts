@@ -5,6 +5,7 @@ author: Theophrastus of Eresus
 eul_wid: ljk-ar
 eul_aid: ljk
 canonical: "https://eulogikon.org/works/theophrastus-eresus-piety-ljk-ar"
+lang: grc
 period: Hellenistic
 dialect: Attic Philosophical
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Theophrastus of Eresus
 
 **eul_wid:** `ljk-ar` · [HTML page](https://eulogikon.org/works/theophrastus-eresus-piety-ljk-ar)
-
-On Piety is a philosophical treatise by Theophrastus of Eresus, the successor to Aristotle as head of the Peripatetic school in the late fourth and early third centuries BCE. The original work is lost and survives only through extensive quotations, primarily twenty-three passages preserved by the third-century CE philosopher Porphyry in his own work On Abstinence from Animal Food. Written in Attic Greek, the treatise examines the nature of piety and the proper relationship between humanity and the divine, with a particular focus on the ethics and history of religious sacrifice. Theophrastus presents a historical and philosophical analysis, arguing that the earliest and purest form of worship consisted of bloodless offerings such as grains, grasses, and incense. He contrasts this original practice with the later development of animal sacrifice, which he suggests arose from human error and the harsh necessities of life. The work is interpreted not as a call for religious reform but as a Peripatetic inquiry into which forms of worship are most fitting for the divine nature. Through its preservation and use by Porphyry, the arguments of On Piety became influential in later philosophical critiques of animal sacrifice and contributed to the promotion of a more spiritualized ideal of worship in Hellenistic and later thought.
 
 ## Text
 

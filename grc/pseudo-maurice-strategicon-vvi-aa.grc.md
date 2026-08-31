@@ -5,6 +5,7 @@ author: Pseudo-Maurice the Tactician
 eul_wid: vvi-aa
 eul_aid: vvi
 canonical: "https://eulogikon.org/works/pseudo-maurice-strategicon-vvi-aa"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Pseudo-Maurice the Tactician
 
 **eul_wid:** `vvi-aa` · [HTML page](https://eulogikon.org/works/pseudo-maurice-strategicon-vvi-aa)
-
-The Strategicon is a comprehensive military manual written in Koine Greek during the late 6th or early 7th century CE. Although traditionally credited to the Byzantine Emperor Maurice, modern scholars often attribute it to an anonymous author or committee writing under his authority, leading to the designation "Pseudo-Maurice." The work is a practical guide organized into twelve books containing 691 passages. It systematically covers cavalry and infantry tactics, drill, formations, logistics, and the organization of the army. A significant feature is its detailed analysis of the empire's various enemies—including Persians, Avars, Slavs, and Franks—describing their tactics and advising on tailored counter-strategies. Unlike earlier classical theorists, the Strategicon reflects the realities of its time, emphasizing the central role of heavy cavalry and combined-arms warfare.
-
-The manual was composed during a period of intense military pressure on the Byzantine Empire, and it is thought to have been written to standardize doctrine and improve the effectiveness of commanders. The complete text survives through a relatively strong manuscript tradition, with the oldest copy dating from the 11th century. Its practical approach made it highly influential, serving as a foundational reference for later Byzantine military writings and impacting neighboring cultures through translations like the Old Slavonic version.
 
 ## Text
 

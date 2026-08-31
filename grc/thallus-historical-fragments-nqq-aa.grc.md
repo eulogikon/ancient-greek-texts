@@ -5,6 +5,7 @@ author: Thallus the Historian
 eul_wid: nqq-aa
 eul_aid: nqq
 canonical: "https://eulogikon.org/works/thallus-historical-fragments-nqq-aa"
+lang: grc
 period: Roman
 dialect: Koine (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Thallus the Historian
 
 **eul_wid:** `nqq-aa` · [HTML page](https://eulogikon.org/works/thallus-historical-fragments-nqq-aa)
-
-The Historical Fragments on Saturn is a lost chronographical work attributed to the historian Thallus, preserved only in citations by later Christian authors. The surviving fragments, eleven in total, represent a Hellenistic effort to synchronize Greek mythological events, particularly those concerning the god Cronus, whom the Romans identified with Saturn, with the chronologies of the Near East and the Bible. The work employs a euhemeristic approach, interpreting Cronus not as a deity but as a historical king. Its methodology involved calculating precise intervals between legendary events, such as dating an Assyrian king's reign to 322 years before the Trojan War or measuring 505 years from the fall of Troy to the founding of Rome. This synthesis aimed to integrate Greek myth into a coherent universal historical timeline. The fragments survive entirely through quotation by later Christian chronographers like Theophilus of Antioch and George Syncellus, who valued Thallus's calculations as independent pagan testimony to the antiquity of biblical history. Consequently, the work holds significance as a key example of Hellenistic chronological scholarship and for its direct influence on early Christian apologetics, demonstrating how pagan historical records were utilized to argue for the coherence and venerable age of the scriptural narrative.
 
 ## Text
 

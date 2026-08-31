@@ -5,6 +5,7 @@ author: Phrynichus of Bithynia
 eul_wid: oqu-ad
 eul_aid: oqu
 canonical: "https://eulogikon.org/works/phrynichus-bithynia-text-oqu-ad"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Phrynichus of Bithynia
 
 **eul_wid:** `oqu-ad` · [HTML page](https://eulogikon.org/works/phrynichus-bithynia-text-oqu-ad)
-
-The Selections is a lexicographical treatise composed in Greek by the grammarian Phrynichus of Bithynia around 180 CE. It functions as a prescriptive handbook for proper Attic Greek, embodying the intense linguistic purism characteristic of the Second Sophistic period. The work is structured as a series of 157 entries, each typically presenting a correct, classical Attic word or phrase followed by the incorrect, contemporary equivalents that readers must avoid, often accompanied by the author's scornful commentary. Phrynichus compiled this treatise for an elite audience of advanced students and rhetoricians, dedicating it to the prominent sophist Titus Aurelius Philaemon. Its primary aim was to police the Greek language by condemning common Koine words that had developed after the Classical period, promoting instead the vocabulary of 5th- and 4th-century BCE Athenian authors as the sole acceptable standard for cultivated speech and writing. The complete text survives in an 11th-century manuscript, Codex Laurentianus 57.30, and is considered well-preserved. It represents a polished extract from Phrynichus’s broader scholarly work, much of which is now lost. Modern scholars regard the Selections as a vital, if polemical, source for understanding the social and intellectual battles over language in the Roman Imperial era, where command of "correct" Greek was a key marker of status. Its extreme purism was noted even in antiquity, but its detailed prescriptions have made it an invaluable resource for later lexicographers and for modern historians of the Greek language.
 
 ## Text
 

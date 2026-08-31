@@ -5,6 +5,7 @@ author: Epicharmus of Syracuse
 eul_wid: bhm-af
 eul_aid: bhm
 canonical: "https://eulogikon.org/works/epicharmus-syracuse-comic-wisdom-bhm-af"
+lang: grc
 period: Archaic
 dialect: Doric
 domain: Comedy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Epicharmus of Syracuse
 
 **eul_wid:** `bhm-af` · [HTML page](https://eulogikon.org/works/epicharmus-syracuse-comic-wisdom-bhm-af)
-
-The Fragments of Comic Wisdom is a modern scholarly title for a collection of excerpts from the lost comedies of Epicharmus of Syracuse, an early Greek comic playwright active in the late sixth and early fifth centuries BCE. As no complete play by Epicharmus survives, our knowledge of his work depends entirely on quotations preserved by later authors. This particular designation groups those fragments that exhibit a pronounced philosophical or gnomic character, offering pithy advice and parodying intellectual discourse. The original works from which these fragments derive were performed in the thriving cultural center of Syracuse and covered a wide range of subjects.
-
-The content of these fragments reveals a playwright engaged with the intellectual currents of his time through the medium of comedy. They include philosophical parody and debate on fundamental topics such as the nature of reality, the divine, and ethics, often delivered through the interactions of stock comic characters. Alongside this, the fragments are rich in moralizing, proverbial advice concerning practical life and behavior. Epicharmus also employed burlesque treatments of myth and the gods, while his comedies simultaneously featured vivid depictions of everyday Sicilian life. The transmission of this material is entirely indirect, relying on citations by later philosophers and compilers including Plato, Aristotle, and Athenaeus; there exists no continuous manuscript tradition for his plays. Modern authoritative collections, such as Poetae Comici Graeci, systematically compile these scattered excerpts.
-
-The significance of Epicharmus in the history of Western drama is considerable. Ancient authorities regarded him as a foundational figure: Plato referred to him as "the prince of comedy," and Aristotle credited him with the invention of comic plot structure. The philosophical tenor of much of his surviving work led both ancient and later readers to view him not merely as an entertainer but as a forerunner to more formal philosophical thought, blending popular wisdom with comic invention. His influence helped shape the development of comedy as a literary genre.
 
 ## Text
 

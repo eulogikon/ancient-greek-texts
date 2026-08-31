@@ -5,6 +5,7 @@ author: Suda
 eul_wid: wus-ag
 eul_aid: wus
 canonical: "https://eulogikon.org/works/suda-eta-wus-ag"
+lang: grc
 period: Byzantine
 domain: Grammar
 format: Collection
@@ -18,12 +19,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Suda
 
 **eul_wid:** `wus-ag` · [HTML page](https://eulogikon.org/works/suda-eta-wus-ag)
-
-The eta section of the Suda opens with close grammatical analysis of the particle ἤ and several homophonous forms of ἦ, distinguishing their functions as verb forms (ἔφη, ἦν, ἤμην) and adverbs with citations from Aristophanes' Νεφέλαι, Ὄρνιθες, Λυσιστράτη, and Πλοῦτος, as well as Homeric parallels. These early entries illustrate the lexicon's dual role as grammatical reference and literary commentary.
-
-Mid-letter entries move into vocabulary of measurement and education, including ἡμιωβόλιον (half an obol, with a proverb about a figure named Πάσης) and ἡμιπαίδευτος (the half-educated, glossed simply as ἀπαίδευτος), alongside ἡμιπέλεκα for single-edged axes. Such entries document technical, proverbial, and colloquial registers of ancient Greek.
-
-The letter closes with proverbial phrases, among them "ἢ χρὴ τραγῳδεῖν ἢ μελαγχολᾶν" (one must either play the tragic role or be mad) and "ἡ ψελλὴ οὐ πιττεύω" (the stammerer says 'I don't stutter'), used of those who conceal their own faults. These final entries make the eta section a useful resource for the study of Greek proverbs, particles, and Aristophanic diction.
 
 ## Text
 

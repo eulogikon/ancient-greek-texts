@@ -5,6 +5,7 @@ author: Dinias of Argos
 eul_wid: bta-aa
 eul_aid: bta
 canonical: "https://eulogikon.org/works/dinias-argos-historical-fragments-bta-aa"
+lang: grc
 period: Classical
 dialect: Doric (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Dinias of Argos
 
 **eul_wid:** `bta-aa` · [HTML page](https://eulogikon.org/works/dinias-argos-historical-fragments-bta-aa)
-
-The Argive Historical Fragments is a lost prose work of local history attributed to Dinias of Argos. It survives only in scattered quotations preserved by later authors, primarily in the scholia to classical poets and the geographer Pausanias. The work documented the mythological and historical traditions of the Argolid region. The extant fragments cover a range of topics central to Argive identity, including foundation myths involving early kings like Danaus, accounts of heroic deeds such as those of Heracles, details of local religious festivals and rituals, and genealogies tracing lineages to divine or heroic ancestors. As a source for specifically Argive tradition, Dinias’s horography was an important resource for later antiquarians and remains a valuable witness for modern scholarship on Greek local historiography, regional mythography, and the construction of civic identity in the ancient world.
 
 ## Text
 

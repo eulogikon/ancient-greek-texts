@@ -5,6 +5,7 @@ author: Paean Collection Anonymous
 eul_wid: cqc-ae
 eul_aid: cqc
 canonical: "https://eulogikon.org/works/paean-collection-delphic-i-cqc-ae"
+lang: grc
 period: Classical
 dialect: Doric (frg)
 domain: Poetry
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Paean Collection Anonymous
 
 **eul_wid:** `cqc-ae` · [HTML page](https://eulogikon.org/works/paean-collection-delphic-i-cqc-ae)
-
-The Delphic Paean I to Apollo is an ancient Greek cult hymn, composed in verse around 138–128 BCE. Written in a literary Doric dialect, it is a formal song of praise that invokes the god Apollo, celebrates his slaying of the serpent Python to establish his oracle at Delphi, and glorifies the sanctuary itself. The hymn is structured in 17 stanzas. It survives not merely as a poetic text but as a complete musical score, inscribed on a marble block originally mounted on the wall of the Athenian Treasury at Delphi. This inscription preserves both the lyrics and an elaborate system of ancient Greek musical notation, rendering it one of the most substantial and reconstructable examples of ancient music. Although the stone has suffered damage, a significant portion of the melody and rhythm, set in the traditional cretic meter, can be recovered.
-
-The hymn's creation was intimately connected to its historical context. It was dedicated by the Athenian guild of Artists of Dionysus as an act of thanksgiving to Apollo, commemorating the guild being granted special privileges and security by the city of Delphi. Modern scholarship interprets the work as serving a dual purpose: it functioned as a genuine religious offering while also acting as a political statement of gratitude and legitimization for the guild during a period when Delphi was under growing Roman influence.
 
 ## Text
 

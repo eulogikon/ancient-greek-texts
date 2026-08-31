@@ -5,6 +5,7 @@ author: Archimedes of Syracuse
 eul_wid: ixo-ag
 eul_aid: ixo
 canonical: "https://eulogikon.org/works/archimedes-syracuse-assumptions-ixo-ag"
+lang: grc
 period: Hellenistic
 dialect: Doric
 domain: Mathematics
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Archimedes of Syracuse
 
 **eul_wid:** `ixo-ag` · [HTML page](https://eulogikon.org/works/archimedes-syracuse-assumptions-ixo-ag)
-
-The Book of Assumptions is a collection of thirty geometric propositions traditionally attributed to the Hellenistic mathematician Archimedes of Syracuse. Composed in the third century BCE, the work is not a continuous treatise but a compilation of advanced results concerning plane figures. Its propositions focus on determining the areas and properties of circles, segments of circles, triangles, and polygons. The collection includes famous investigations of specific shapes such as the arbelos, or shoemaker's knife, and the salinon, or salt-cellar, often presenting them as elegant construction problems to be solved.
-
-The original Greek text is lost, and the work survives only through a ninth-century Arabic translation. This indirect transmission has led to scholarly uncertainty regarding its structure and full authenticity. It is often interpreted as a collection of useful lemmas or theorems, possibly assembled by later editors from Archimedes' notes for the use of other geometers. While many propositions align with his established methods, others may represent later additions, rendering the work a complex and fascinating component of the Archimedean corpus.
 
 ## Text
 

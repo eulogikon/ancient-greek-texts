@@ -5,6 +5,7 @@ author: Sophocles
 eul_wid: buo-aj
 eul_aid: buo
 canonical: "https://eulogikon.org/works/sophocles-electra-buo-aj"
+lang: grc
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Sophocles
 
 **eul_wid:** `buo-aj` · [HTML page](https://eulogikon.org/works/sophocles-electra-buo-aj)
-
-Sophocles' Electra is a Greek tragedy composed in Athens, likely during the 410s BCE. Written in verse, the 1,504-line play dramatizes the myth of the House of Atreus, focusing on Princess Electra's relentless grief and rage following the murder of her father, King Agamemnon, by her mother, Clytemnestra, and stepfather, Aegisthus. The plot centers on her desperate longing for vengeance and the return of her exiled brother, Orestes, who arrives in secret to fulfill that destiny. A defining feature of Sophocles' treatment is its early recognition scene, where Electra and Orestes identify each other shortly after his return. This structural choice shifts the dramatic emphasis from the suspense of the revenge plot to a profound exploration of Electra's psychological torment and her active, indispensable role in orchestrating the retribution. The play engaged its original Athenian audience with enduring questions concerning justice, familial duty, and the moral complexities of violence. The complete text has survived from antiquity through medieval manuscript transmission, most notably in a 10th- or 11th-century codex that preserved seven of Sophocles' works. It remains a foundational text of Western drama, renowned for its intense character portrait of its heroine and its lasting influence on subsequent literature, opera, and psychological thought.
 
 ## Text
 
@@ -2703,6 +2702,8 @@ Sophocles' Electra is a Greek tragedy composed in Athens, likely during the 410s
 ### 690.2
 
 δρόμων, διαύλων, πένταθλ’ ἃ νομίζεται ,
+
+*[crux: δρόμων, διαύλων, πένταθλ’ ἃ νομίζεται]*
 
 ### 690.3
 

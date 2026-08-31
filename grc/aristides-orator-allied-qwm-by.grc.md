@@ -5,6 +5,7 @@ author: Aristides the Orator
 eul_wid: qwm-by
 eul_aid: qwm
 canonical: "https://eulogikon.org/works/aristides-orator-allied-qwm-by"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristides the Orator
 
 **eul_wid:** `qwm-by` · [HTML page](https://eulogikon.org/works/aristides-orator-allied-qwm-by)
-
-The Allied A. is a political oration by the second-century CE orator Aelius Aristides. Composed in Attic Greek around 155–156 CE, it is a formal address to the Roman emperor Antoninus Pius, petitioning for the continued preservation of Athens's privileged alliance with Rome. The complete speech, structured in fourteen sections, employs sophisticated rhetoric to argue that Rome owes a profound cultural debt to Athenian civilization in law, philosophy, and the arts. Aristides builds his case on appeals to historical loyalty, justice, and the ideal of a Roman ruler who honors tradition and rewards virtue. The oration stands as a significant document of the Second Sophistic, illustrating how Greek intellectuals used classicizing eloquence to negotiate with imperial power and advocate for local interests within the Roman Empire.
 
 ## Text
 

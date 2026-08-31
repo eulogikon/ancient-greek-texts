@@ -1,10 +1,11 @@
 ---
 title: Description of Greece by Dionysius Son of Calliphon
 title_greek: Περιγραφὴ τῆς Ἑλλάδος Διονυσίου τοῦ Καλλιφῶντος
-author: "Dionysius son of Calliphon "
+author: Dionysius son of Calliphon
 eul_wid: jkg-aa
 eul_aid: jkg
 canonical: "https://eulogikon.org/works/dionysius-calliphon-description-greece-jkg-aa"
+lang: grc
 period: Hellenistic
 dialect: Attic
 domain: Geography
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Περιγραφὴ τῆς Ἑλλάδος Διονυσίου τοῦ Καλλιφῶντος*
 
-**Author:** Dionysius son of Calliphon 
+**Author:** Dionysius son of Calliphon
 
 **eul_wid:** `jkg-aa` · [HTML page](https://eulogikon.org/works/dionysius-calliphon-description-greece-jkg-aa)
-
-The Description of Greece by Dionysius son of Calliphon is a lost geographical treatise, known only from a single fragment preserved by the sixth-century lexicographer Stephanus of Byzantium. This fragment, which cites the work for information on the city of Olynthus in Chalcidice, constitutes the sole evidence for the author and his composition. The text is classified as a periegesis, a genre of descriptive regional geography, and its content evidently included specific place descriptions and toponymic details, as it was utilized by Stephanus as a source for his lexicon of geographical names. No manuscript tradition exists for the work; its transmission is entirely dependent on this late antique compilation. Its historical significance is consequently minimal, serving only as an example of the numerous minor sources available to later encyclopedists and offering a glimpse into the now-lost substratum of Greek geographical writing.
 
 ## Text
 

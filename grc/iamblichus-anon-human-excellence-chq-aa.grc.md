@@ -5,6 +5,7 @@ author: Iamblichus Anonymous
 eul_wid: chq-aa
 eul_aid: chq
 canonical: "https://eulogikon.org/works/iamblichus-anon-human-excellence-chq-aa"
+lang: grc
 period: Classical
 dialect: Mixed Dialects
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Iamblichus Anonymous
 
 **eul_wid:** `chq-aa` · [HTML page](https://eulogikon.org/works/iamblichus-anon-human-excellence-chq-aa)
-
-The Fragments on Human Excellence is a modern compilation of eight philosophical passages attributed, though not securely, to the Neoplatonist philosopher Iamblichus. No independent treatise by this exact title is attested in ancient sources, and the collection appears to be a scholarly assemblage of excerpts. Its thematic focus is human virtue, or aretē, a central and systematically developed concept within Iamblichan philosophy. In his system, virtues are hierarchically structured, ranging from civic and purificatory to contemplative grades, each serving to guide the soul’s ethical purification and its ontological ascent toward reunion with the divine. The content of the fragments is consistent with this framework, addressing the soul's progressive return to the One through disciplined practice and distinguishing between political excellence and higher, metaphysical forms of perfection. There is no known manuscript tradition for a work bearing this specific title; the fragments were likely extracted from doxographical sources or from Iamblichus's extant works, such as the Protrepticus. While this particular compilation has no traceable historical influence, the Iamblichan doctrine of virtue it reflects was profoundly significant. This hierarchical model of excellence became foundational for later Neoplatonists, including Proclus, and subsequently permeated broader philosophical discourse, thereby shaping medieval and Renaissance theories of virtue.
 
 ## Text
 

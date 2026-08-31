@@ -5,6 +5,7 @@ author: Geminus of Rhodes
 eul_wid: nwa-ac
 eul_aid: nwa
 canonical: "https://eulogikon.org/works/geminus-rhodes-calendar-nwa-ac"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Geminus of Rhodes
 
 **eul_wid:** `nwa-ac` · [HTML page](https://eulogikon.org/works/geminus-rhodes-calendar-nwa-ac)
-
-The Calendar is an astronomical treatise by Geminus of Rhodes, a scholar of the first century BCE. Written in Koine Greek, the work survives only in fragmentary form, preserved chiefly through quotations in later commentaries, most notably by Pappus of Alexandria in the fourth century CE. The treatise addresses the fundamental problem of calendar alignment, specifically the discrepancy between lunar months, which were the basis of civil calendars, and the solar year. Geminus explains the necessity and methodology of intercalation, the periodic insertion of extra days or months, to synchronize the calendar with the seasonal cycle essential for agriculture. Based on the extant fragments, the work appears to have been structured into eleven sections. Scholars interpret it as having a pedagogical function, likely serving as an introductory text on calendrical principles for students of astronomy in the philosophical schools of Rhodes. A defining characteristic of the work is its rationalist approach; Geminus advocates for explaining calendrical phenomena through astronomy and mathematics, explicitly rejecting traditional mythological accounts. This positions the treatise within the broader Hellenistic scientific project of systematizing timekeeping based on observational and mathematical principles.
 
 ## Text
 

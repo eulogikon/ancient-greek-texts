@@ -5,6 +5,7 @@ author: Suda
 eul_wid: wus-ab
 eul_aid: wus
 canonical: "https://eulogikon.org/works/suda-beta-wus-ab"
+lang: grc
 period: Byzantine
 domain: Grammar
 format: Collection
@@ -18,12 +19,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Suda
 
 **eul_wid:** `wus-ab` · [HTML page](https://eulogikon.org/works/suda-beta-wus-ab)
-
-The Beta section of the Suda contains 598 entries spanning common Greek vocabulary, proper nouns, and borrowed or obscure terms. It opens with Βαάλ, the Semitic deity, then moves through colloquial and onomatopoeic forms such as Βαβαί (an exclamation of wonder) and Βαβάκτης (one given to anger), before treating everyday objects like Βαβάκινος, a type of cooking pot.
-
-The middle entries include verb forms and derivatives such as Βιοτεύω and Βιοῦται, the latter glossed with a citation from Herodotus, illustrating the lexicon's habit of anchoring definitions in classical prose usage. Later entries such as Βυσσοδομοῦντες (plotting from the depths) carry poetic citations, including fishing-net imagery from an unidentified hexameter source.
-
-This letter is useful for studying Byzantine lexicographical method, the reception of Herodotus, and the range of semantic fields — religious terminology, emotional vocabulary, material culture, and poetic diction — that the Suda's compilers drew on when assembling entries under a single initial letter.
 
 ## Text
 

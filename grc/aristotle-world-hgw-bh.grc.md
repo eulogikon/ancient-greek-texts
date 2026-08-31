@@ -5,6 +5,7 @@ author: Aristotle
 eul_wid: hgw-bh
 eul_aid: hgw
 canonical: "https://eulogikon.org/works/aristotle-world-hgw-bh"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristotle
 
 **eul_wid:** `hgw-bh` · [HTML page](https://eulogikon.org/works/aristotle-world-hgw-bh)
-
-On the World is a short philosophical treatise composed in Attic Greek and preserved within the transmitted corpus of Aristotle, to whom it was falsely attributed. Modern scholarship identifies it as a pseudepigraphic work, likely written by an unknown author between the 1st century BCE and the 2nd century CE. The text is structured into 22 chapters and is formally addressed to Alexander the Great, a common literary device employed to lend it authority. It presents a syncretic cosmology, blending concepts from Aristotelian, Platonic, and Stoic schools of thought into a unified vision of the universe. The treatise systematically argues for the cosmos as a single, ordered, and divine entity, beginning with its definition and proceeding through descriptions of the celestial and terrestrial realms. It culminates in an explanation of a supreme divine cause that governs all existence, famously illustrated by an analogy comparing this god's transcendent yet immanent power to the rule of the Great King of Persia over his provinces. The work's survival is owed entirely to its mistaken inclusion among Aristotle's genuine writings. Scholars interpret it as a product of the eclectic philosophical culture of the Hellenistic or early Roman Imperial period, designed to provide educated readers with a concise and harmonized summary of cosmological doctrine.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Callippus of Corinth
 eul_wid: rwg-aa
 eul_aid: rwg
 canonical: "https://eulogikon.org/works/callippus-corinth-orchomenians-rwg-aa"
+lang: grc
 period: Roman
 dialect: Koine
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Callippus of Corinth
 
 **eul_wid:** `rwg-aa` · [HTML page](https://eulogikon.org/works/callippus-corinth-orchomenians-rwg-aa)
-
-On the Orchomenians is a lost local history of the Boeotian city of Orchomenus, authored by the otherwise obscure Hellenistic writer Callippus of Corinth. The work survives only in a handful of fragments preserved by later authors, primarily the antiquarian Athenaeus in his Deipnosophistae and the mythographer Conon as recorded by the Byzantine patriarch Photius. These fragments indicate the work was an antiquarian treatise focused on the city's mythical origins, religious customs, and social history. The surviving passages cover topics such as the burial of the hero Orion, an alternative genealogy for the daughters of the legendary King Minyas, and details of the local Dionysiac festival known as the Agrionia. Other fragments describe the proverbial wealth and luxurious dining practices of the archaic Orchomenian aristocracy, noting their use of individual tables and specialized servants. As a representative example of Hellenistic local history, or horography, the scant remains of Callippus's work provide valuable, if fragmentary, evidence for Boeotian mythology, regional cult practices, and the social history of archaic Greek luxury.
 
 ## Text
 

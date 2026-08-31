@@ -5,6 +5,7 @@ author: Themistius the Philosopher
 eul_wid: rye-ar
 eul_aid: rye
 canonical: "https://eulogikon.org/works/themistius-paraphrase-on-the-soul-rye-ar"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Themistius the Philosopher
 
 **eul_wid:** `rye-ar` · [HTML page](https://eulogikon.org/works/themistius-paraphrase-on-the-soul-rye-ar)
-
-Themistius’s Paraphrase of Aristotle’s On the Soul is a fourth-century CE philosophical oration composed in Attic Greek. Rather than offering a line-by-line exegesis, the work is a selective paraphrase structured in 127 sections, designed to elucidate the dense and complex arguments of Aristotle’s foundational treatise on psychology. Themistius systematically addresses core themes from the Aristotelian text, including the definition of the soul, its various faculties such as nutrition and sensation, and the critical distinction between the potential and active intellect. His approach is characterized by a pedagogical clarity, aiming to render Aristotle’s thought accessible and coherent for students and educated contemporaries.
-
-Composed in Late Antique Constantinople, where Themistius served as a philosopher and public orator, the paraphrase is interpreted by modern scholars as part of a broader project to revive and teach Aristotelian philosophy. Themistius positions himself as a faithful interpreter seeking to resolve perceived difficulties and ambiguities within Aristotle’s original work. His exposition of the active intellect proved especially influential, establishing a standard interpretation for subsequent philosophical traditions.
-
-The complete Greek text of the paraphrase survives. Its transmission history attests to its enduring significance: translated into Arabic in the ninth century, it informed the work of Islamic philosophers. A Latin translation followed in the thirteenth century, after which the text became a key source for medieval scholastics, including Thomas Aquinas, securing its place as a vital conduit of Aristotelian psychology from antiquity through the Middle Ages.
 
 ## Text
 

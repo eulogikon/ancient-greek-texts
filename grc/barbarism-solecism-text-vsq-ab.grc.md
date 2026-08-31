@@ -5,6 +5,7 @@ author: Barbarism and Solecism Treatise
 eul_wid: vsq-ab
 eul_aid: vsq
 canonical: "https://eulogikon.org/works/barbarism-solecism-text-vsq-ab"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: Grammar
@@ -19,16 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Barbarism and Solecism Treatise
 
 **eul_wid:** `vsq-ab` · [HTML page](https://eulogikon.org/works/barbarism-solecism-text-vsq-ab)
-
-Content The work systematically classifies and corrects errors, focusing on:
-
-The principle of Hellenismos, or proper Greek usage.
-
-The prescriptive distinction between lexical/morphological and syntactic mistakes.
-
-Transmission The treatise's specific manuscript tradition and preservation status are unclear, as it is not detailed in major sources. Many such technical works survive only through fragments or later compilations.
-
-Significance The barbarism/solecism framework was foundational for grammatical theory, influencing Roman grammarians like Donatus and becoming standard in medieval Latin education. The concepts persisted in later European discussions of linguistic purity.
 
 ## Text
 

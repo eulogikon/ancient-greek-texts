@@ -5,6 +5,7 @@ author: Photius of Constantinople
 eul_wid: woy-an
 eul_aid: woy
 canonical: "https://eulogikon.org/works/photius-constantinople-lexicon-woy-an"
+lang: grc
 period: Byzantine
 domain: Grammar
 format: Collection

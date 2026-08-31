@@ -5,6 +5,7 @@ author: Dionysius the Voyager Lives
 eul_wid: tag-aa
 eul_aid: tag
 canonical: "https://eulogikon.org/works/dionysius-voyager-life-tag-aa"
+lang: grc
 period: Late Antique
 dialect: Byzantine Greek
 domain: Biography
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Dionysius the Voyager Lives
 
 **eul_wid:** `tag-aa` · [HTML page](https://eulogikon.org/works/dionysius-voyager-life-tag-aa)
-
-The Life of Dionysius is a brief prose biography attributed to the author known as Dionysius the Voyager. The work is described as consisting of only two passages, but its specific content, narrative scope, and the identity of its biographical subject, presumably a figure named Dionysius, remain undocumented. It is not listed among the known works of major ancient authors in standard reference works. The biography is not attested in standard accounts of ancient Greek literature or manuscript traditions. Its extremely brief described length suggests a fragmentary or otherwise limited text, though its current preservation status cannot be confirmed. The work and its author remain obscure. Its absence from primary scholarly resources indicates it is either lost, known only by title, or represents a minor or pseudepigraphal work not integrated into the mainstream classical canon.
 
 ## Text
 

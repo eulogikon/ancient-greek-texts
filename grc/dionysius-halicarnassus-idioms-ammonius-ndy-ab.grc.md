@@ -5,6 +5,7 @@ author: Dionysius of Halicarnassus
 eul_wid: ndy-ab
 eul_aid: ndy
 canonical: "https://eulogikon.org/works/dionysius-halicarnassus-idioms-ammonius-ndy-ab"
+lang: grc
 period: Hellenistic
 dialect: Attic
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Dionysius of Halicarnassus
 
 **eul_wid:** `ndy-ab` · [HTML page](https://eulogikon.org/works/dionysius-halicarnassus-idioms-ammonius-ndy-ab)
-
-"On the Idioms of Thucydides to Ammonius" is a critical treatise by the Augustan-era rhetorician and historian Dionysius of Halicarnassus. Presented as a letter addressed to his correspondent Ammonius, the work constitutes a detailed stylistic analysis of the historian Thucydides. Dionysius undertakes a close examination of eighteen specific passages from Thucydides's History of the Peloponnesian War, subjecting the historian's stylistic peculiarities, or idioms, to rigorous scrutiny. His method involves contrasting Thucydides's often complex and obscure phrasing with the standards of clearer, classical Attic usage. To illustrate his critiques concerning clarity and propriety in historical prose, Dionysius frequently proposes his own rewritten versions of the passages in question. The treatise argues forcefully for natural and lucid Attic Greek as the ideal model for historical writing, positioning itself as both a work of advanced literary criticism and a pedagogical demonstration of effective rhetorical composition. It survives intact within the manuscript tradition of Dionysius's works, with key witnesses including the tenth-century Codex Parisinus Graecus 1741 and the fourteenth-century Codex Laurentianus Plut. 59.15. As a central document of ancient literary criticism, the treatise profoundly shaped the subsequent reception of Thucydides by establishing a persistent scholarly tradition focused on the difficulties of his style. Its method of meticulous textual analysis also served as an influential model for rhetorical education and philological scholarship in both the ancient and Byzantine worlds.
 
 ## Text
 

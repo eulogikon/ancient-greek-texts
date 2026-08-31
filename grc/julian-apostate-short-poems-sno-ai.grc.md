@@ -5,6 +5,7 @@ author: Julian the Apostate
 eul_wid: sno-ai
 eul_aid: sno
 canonical: "https://eulogikon.org/works/julian-apostate-short-poems-sno-ai"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Julian the Apostate
 
 **eul_wid:** `sno-ai` · [HTML page](https://eulogikon.org/works/julian-apostate-short-poems-sno-ai)
-
-The Short Poems and Fragments is a modern assemblage of minor literary works by the Roman emperor Julian, who reigned from 361 to 363 CE and was later known by the epithet "the Apostate." Composed in Attic Greek, the collection encompasses approximately twenty-one passages, ranging from poetic epigrams to brief prose excerpts. These pieces are distinct from Julian's formal orations and letters, functioning instead as satirical, dedicatory, or philosophical occasional works. The most notable item within this corpus is the Misopogon ("Beard-Hater"), a substantial prose satire penned in Antioch. In this work, Julian humorously critiques the city's inhabitants for their perceived decadence while simultaneously mocking his own philosophical beard and austere personal habits.
-
-Julian produced these works in the mid-fourth century as components of his broader political and religious campaign to restore traditional Hellenic religion and culture in opposition to the growing dominance of Christianity. Modern scholarship often interprets pieces like the Misopogon as expressions of the emperor's frustration with urban populations who resisted his reformist efforts. Other fragments, such as an epigram boasting of his superiority to the archer Maeonius, have been preserved alongside ironic historical notes concerning Julian's death, which later readers viewed as a poignant twist of fate.
-
-The text has survived through medieval manuscript traditions, its preservation largely attributable to Julian's imperial status. The Misopogon survives intact within manuscripts containing his orations, while the shorter poems are found in anthologies such as the Greek Anthology and within the works of later historians. Collectively, these fragments provide a valuable personal glimpse into Julian's character and the literary dimensions of the fourth-century religious conflict.
 
 ## Text
 

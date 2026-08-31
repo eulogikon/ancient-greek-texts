@@ -5,6 +5,7 @@ author: Galen of Pergamon
 eul_wid: qmm-bu
 eul_aid: qmm
 canonical: "https://eulogikon.org/works/galen-pergamon-dissection-uterus-qmm-bu"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Galen of Pergamon
 
 **eul_wid:** `qmm-bu` · [HTML page](https://eulogikon.org/works/galen-pergamon-dissection-uterus-qmm-bu)
-
-On the Dissection of the Uterus is a specialized anatomical treatise by the 2nd-century Greek physician Galen of Pergamon. Written as a systematic guide for dissection, the work methodically details the procedure for examining the uterus, from initial incision to the observation of its internal structures. It covers the organ's position, size, shape, attachments, blood supply, and anatomical relations, as well as the membranes surrounding a fetus during pregnancy. The text is organized into 22 sections and reflects the advanced anatomical practices of the Roman Imperial period. Galen's descriptions were based largely on dissections of animals such as Barbary apes and pigs, due to cultural and legal restrictions on human dissection in the ancient world. Composed for an audience of medical students and practicing physicians in Rome, the treatise aimed to provide precise anatomical knowledge for surgical and diagnostic purposes, while also correcting what Galen perceived as errors in earlier anatomical authorities. Preserved through centuries of copying and translation within Byzantine, Arabic, and later Latin scholarly traditions, the work survives as part of Galen's extensive collected writings. As a component of his authoritative corpus, this treatise fundamentally shaped the understanding of gynecology and anatomy for over a millennium, maintaining its influence until the Renaissance.
 
 ## Text
 

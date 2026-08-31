@@ -5,6 +5,7 @@ author: Rhetorical Treatise Anonymous
 eul_wid: rhg-as
 eul_aid: rhg
 canonical: "https://eulogikon.org/works/anon-rhet-treatise-poetic-modes-rhg-as"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Rhetorical Treatise Anonymous
 
 **eul_wid:** `rhg-as` · [HTML page](https://eulogikon.org/works/anon-rhet-treatise-poetic-modes-rhg-as)
-
-The anonymous rhetorical treatise On Poetic Modes is a concise instructional work from the Imperial Roman period that examines the adaptation of poetic stylistic devices for use in prose oratory. It argues that these techniques are termed "poetic" not because they are exclusive to poetry but because they occur more frequently there, exceeding common usage to achieve elevation and ornamentation. The treatise is structured as a systematic catalogue, defining and illustrating a series of specific tropes and figures. These include allegory, metaphor, catachresis, metalepsis, metonymy, enigma, synecdoche, onomatopoeia, syllepsis, supplementation, hyperbole, ellipsis, pleonasm, antiphrase, emphasis, personification, parable, antapodosis, paradigm, antonomasia, and irony. The text survives in full within the medieval manuscript tradition associated with the orator Aelius Aristides, preserved complete in eight sections and published in Wilhelm Dindorf's 1829 edition of Aristides' works. While not composed by Aristides himself, its transmission alongside his corpus indicates it was valued as a practical pedagogical resource. The work exemplifies the advanced stylistic training characteristic of rhetorical education during the Second Sophistic, highlighting the deliberate cross-fertilization between poetic artistry and rhetorical technique for the purpose of compositional embellishment.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Isaeus the Orator
 eul_wid: fge-aa
 eul_aid: fge
 canonical: "https://eulogikon.org/works/isaeus-xenaenetus-aristarchus-fge-aa"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Isaeus the Orator
 
 **eul_wid:** `fge-aa` · [HTML page](https://eulogikon.org/works/isaeus-xenaenetus-aristarchus-fge-aa)
-
-The oration To Xenaenetus—the Lot of Aristarchus is a forensic speech by the Athenian logographer Isaeus, composed for a private inheritance dispute. As one of his twelve surviving speeches, it presents a client's claim to the estate of a man named Aristarchus against a rival claimant, Xenaenetus. The core legal argument asserts the validity of the client's posthumous adoption by Aristarchus and his subsequent performance of the requisite funeral rites, which in Athenian law served as both a social duty and a critical proof of legitimate heirship. The speech meticulously constructs its case through appeals to witness testimony and documentary evidence, contesting definitions of familial obligation and legitimacy within the context of an adoptive relationship. Its structure adheres to classical forensic convention, opening with a proem that contrasts the speaker's inexperience with the rhetorical skill of his opponents.
-
-The work survives complete within the Isaean corpus, transmitted primarily through medieval manuscripts such as the tenth-century Codex Urbinas Graecus 116. As a vital source for the intricacies of Athenian inheritance law and social history, the oration exemplifies Isaeus's characteristically logical and precise style in handling technical legal cases. This methodical approach was noted by ancient critics including Dionysius of Halicarnassus and Cicero, and his speeches remain indispensable for the study of Greek legal practice, rhetorical technique, and the social values surrounding family and property in classical Athens.
 
 ## Text
 

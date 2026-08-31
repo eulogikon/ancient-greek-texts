@@ -5,6 +5,7 @@ author: Theodoret of Cyrus
 eul_wid: tds-ae
 eul_aid: tds
 canonical: "https://eulogikon.org/works/theodoret-cyrus-nestorius-sporacius-tds-ae"
+lang: grc
 period: Late Antique
 dialect: Christian Koine
 domain: Theology
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Theodoret of Cyrus
 
 **eul_wid:** `tds-ae` · [HTML page](https://eulogikon.org/works/theodoret-cyrus-nestorius-sporacius-tds-ae)
-
-The Little Book Against Nestorius to Sporacius is a concise theological treatise by Theodoret, the 5th-century Bishop of Cyrus. Addressed to an otherwise unknown figure named Sporacius, the work presents eight systematic arguments against the Christological teachings of Nestorius, the former Archbishop of Constantinople. Theodoret polemicizes against the doctrine that Christ consisted of two separate persons, one divine and one human, and instead defends the essential unity of Christ as a single subject. Composed in the volatile doctrinal climate following the Council of Ephesus in 431, which condemned Nestorius, the treatise reflects a later phase in Theodoret's career. Initially a defender of Nestorian positions, Theodoret likely wrote this work between 431 and 451, possibly under pressure to publicly align with the emerging orthodox settlement, which was later codified at the Council of Chalcedon. Surviving in full within the corpus of Theodoret's collected works, the treatise functioned as a compact handbook of anti-Nestorian argumentation for contemporary theological debate.
 
 ## Text
 

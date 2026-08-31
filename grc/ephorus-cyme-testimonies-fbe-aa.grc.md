@@ -5,6 +5,7 @@ author: Ephorus of Cyme
 eul_wid: fbe-aa
 eul_aid: fbe
 canonical: "https://eulogikon.org/works/ephorus-cyme-testimonies-fbe-aa"
+lang: grc
 period: Classical
 dialect: Attic
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Ephorus of Cyme
 
 **eul_wid:** `fbe-aa` · [HTML page](https://eulogikon.org/works/ephorus-cyme-testimonies-fbe-aa)
-
-The Testimonies is a lost historical compilation attributed to the 4th-century BCE Greek historian Ephorus of Cyme. While Ephorus is best known for his ambitious universal history, the Testimonies appears to have been a separate collection of source materials or documented accounts. The title implies a work consisting of evidentiary passages, likely serving as a repository of facts and reports that informed his larger historical narratives. Written in Ionic Greek, its precise content and structure are not preserved, as the work survives only in name through later references. Modern scholarship interprets it as a potential research tool, reflecting the methodological practices behind Ephorus's influential and moralizing accounts of Greek and foreign history. Any impact it exerted would have been indirect, channeled through his more famous works which were extensively used by subsequent historians in antiquity.
 
 ## Text
 

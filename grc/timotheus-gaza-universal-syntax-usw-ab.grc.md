@@ -5,6 +5,7 @@ author: Timotheus of Gaza
 eul_wid: usw-ab
 eul_aid: usw
 canonical: "https://eulogikon.org/works/timotheus-gaza-universal-syntax-usw-ab"
+lang: grc
 period: Late Antique
 dialect: Christian Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Timotheus of Gaza
 
 **eul_wid:** `usw-ab` · [HTML page](https://eulogikon.org/works/timotheus-gaza-universal-syntax-usw-ab)
-
-The Universal Rules-Syntax is a Greek grammatical treatise composed by Timotheus of Gaza, a scholar active during the late fifth and early sixth centuries. This systematic work methodically details the rules governing syntactic agreement and the combination of words in sentences. Organized into six sections, it comprehensively addressed the eight traditional parts of speech and their correct application. Although the complete, independent text of the treatise is lost, its content is known through fragments, summaries, and excerpts preserved in later Byzantine grammatical compilations. Scholars generally agree that its substance is largely contained within grammatical commentaries on the Psalms attributed to a figure known as Timotheus Grammaticus, who is identified as Timotheus of Gaza. Designed as an advanced manual for students, the work reflects the emphasis on linguistic precision in early Byzantine education. It serves as a significant link between the earlier traditions of Alexandrian grammar and subsequent Byzantine pedagogical practices, illustrating the vibrant scholarly culture of Gaza in late antiquity.
 
 ## Text
 

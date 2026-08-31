@@ -5,6 +5,7 @@ author: David the Invincible
 eul_wid: vcm-aa
 eul_aid: vcm
 canonical: "https://eulogikon.org/works/david-invincible-commentary-aristotle-vcm-aa"
+lang: grc
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** David the Invincible
 
 **eul_wid:** `vcm-aa` · [HTML page](https://eulogikon.org/works/david-invincible-commentary-aristotle-vcm-aa)
-
-The Commentary on Porphyry's Isagoge is a 6th-century philosophical treatise by the Armenian Neoplatonist scholar David, known as David the Invincible. This work provides a detailed series of scholia, or explanatory notes, on Porphyry’s Isagoge, a foundational introductory text to Aristotle’s Categories. Composed in Greek, the commentary follows the standard Neoplatonic exegetical method of the late antique period, systematically addressing key interpretative problems and questions raised by Porphyry’s text. Its primary content involves the explication of Porphyry’s five predicables—genus, species, difference, property, and accident—and engages deeply with the ensuing philosophical problem of universals, particularly the ontological status of genera and species. The work further analyzes the logical and metaphysical relationships between predicates and discusses logic as an instrumental tool for philosophy. The original Greek text is no longer extant, a common fate for many works from this era, but the treatise survives in its complete form through a faithful and critically important Armenian translation, with only possible fragments preserved in later Greek commentaries. David’s commentary was foundational for the development of the Armenian intellectual tradition, playing a crucial role in establishing Aristotelian and logical studies within it. As a product of the Alexandrian Neoplatonic school, it also represents a significant link in the historical transmission of Aristotelian logic to later medieval scholarly traditions.
 
 ## Text
 

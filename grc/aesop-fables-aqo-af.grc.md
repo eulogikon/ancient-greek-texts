@@ -5,6 +5,7 @@ author: Aesop the Fabulist
 eul_wid: aqo-af
 eul_aid: aqo
 canonical: "https://eulogikon.org/works/aesop-fables-aqo-af"
+lang: grc
 period: Archaic
 dialect: Mixed Dialects
 domain: Fiction
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aesop the Fabulist
 
 **eul_wid:** `aqo-af` · [HTML page](https://eulogikon.org/works/aesop-fables-aqo-af)
-
-Aesop's Fables is a renowned corpus of concise, didactic tales, predominantly featuring anthropomorphized animals, which conclude with explicit moral lessons. Although traditionally ascribed to Aesop, a semi-legendary figure reputed to have been a slave in the sixth century BCE, the work is more accurately understood as a cumulative product of oral tradition. These stories circulated widely for centuries before being systematically compiled in written form by various editors during the Hellenistic and Roman eras. The fables are known not from a single authoritative text but from multiple manuscript traditions, citations in earlier authors such as Aristophanes and Aristotle, and later poetic adaptations in both Greek and Latin. Their transmission is notably fluid, with narratives and their attached morals often varying significantly across different historical collections; a principal version is the Byzantine "Augustana" compilation. Thematically, the fables offer pragmatic wisdom, frequently critiquing hubris and the abuse of power while providing counsel on everyday social conduct. Their enduring role in education and their profound influence on subsequent Western literature stem from this complex, evolving tradition rather than a fixed original text.
 
 ## Text
 

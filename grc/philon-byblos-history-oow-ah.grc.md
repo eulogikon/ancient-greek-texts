@@ -5,6 +5,7 @@ author: Philon of Byblos
 eul_wid: oow-ah
 eul_aid: oow
 canonical: "https://eulogikon.org/works/philon-byblos-history-oow-ah"
+lang: grc
 period: Roman
 dialect: Koine (frg)
 domain: Grammar
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philon of Byblos
 
 **eul_wid:** `oow-ah` · [HTML page](https://eulogikon.org/works/philon-byblos-history-oow-ah)
-
-The Phoenician History by Philon of Byblos is a fragmentary treatise composed in Greek during the late 1st or early 2nd century CE. A grammarian from the Roman province of Syria, Philon presented his work not as an original composition but as a translation of a far more ancient text attributed to a legendary Phoenician sage named Sanchuniathon, who was reputed to have lived before the time of the Trojan War. The work survives exclusively through 33 quotations preserved by the 4th-century Christian historian Eusebius of Caesarea, who cited them for his own apologetic purposes.
-
-The extant fragments outline a Phoenician cosmogony and theogony, detailing the creation of the world, the emergence of the gods, and the early history of humanity. Its most distinctive feature is its rigorously euhemeristic methodology, systematically interpreting divine figures as deified human beings. Gods are presented as ancient kings, inventors, or cultural heroes whose deeds led to their posthumous veneration; the Canaanite high god El, for instance, is described as a historical king. The narrative aims to assert the primacy and antiquity of Phoenician tradition, positioning it as the original source from which later Greek myths were derived or corrupted.
-
-The authenticity of Philon’s purported source, Sanchuniathon, remains a subject of scholarly debate. Some researchers consider the entire framework a Hellenistic pseudepigraphon, a creative fabrication designed to lend authority to a syncretic and rationalizing account of mythology. Others argue that, despite evident Hellenistic philosophical influences and the overlay of euhemerism, the fragments may preserve core elements of authentic Phoenician lore, albeit heavily mediated. Regardless of this debate, the Phoenician History stands as a crucial document for the study of Phoenician religion and provides significant insight into the Greco-Roman intellectual practice of rationalizing and reconciling different mythological systems.
 
 ## Text
 

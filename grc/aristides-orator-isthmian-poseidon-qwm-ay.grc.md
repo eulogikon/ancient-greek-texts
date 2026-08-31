@@ -5,6 +5,7 @@ author: Aristides the Orator
 eul_wid: qwm-ay
 eul_aid: qwm
 canonical: "https://eulogikon.org/works/aristides-orator-isthmian-poseidon-qwm-ay"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristides the Orator
 
 **eul_wid:** `qwm-ay` · [HTML page](https://eulogikon.org/works/aristides-orator-isthmian-poseidon-qwm-ay)
-
-The Isthmian to Poseidon is a ceremonial oration by the Greek rhetorician Aelius Aristides, composed for public delivery at the Isthmian Games around the middle of the 2nd century CE. Written in refined Attic Greek, the speech is a formal encomium honoring the god Poseidon, celebrating the festival at Corinth, and extolling the unifying cultural tradition of the Panhellenic games. The work is structured in twelve parts and follows the conventions of epidictic oratory characteristic of the Second Sophistic, a period marked by a major revival of Greek rhetoric and learning under Roman rule. Modern scholarship interprets the oration as more than simple praise; it is considered a deliberate assertion of the enduring value of Greek heritage and identity within the political framework of the Roman Empire. The text survives in its entirety as part of Aristides' well-preserved corpus, transmitted through medieval manuscripts and subsequent critical editions.
 
 ## Text
 

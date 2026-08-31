@@ -5,6 +5,7 @@ author: Hecataeus of Miletus the Historian
 eul_wid: bli-aa
 eul_aid: bli
 canonical: "https://eulogikon.org/works/hecataeus-miletus-testimonies-bli-aa"
+lang: grc
 period: Archaic
 dialect: Ionic
 domain: History
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hecataeus of Miletus the Historian
 
 **eul_wid:** `bli-aa` · [HTML page](https://eulogikon.org/works/hecataeus-miletus-testimonies-bli-aa)
-
-The Testimonies is a modern scholarly compilation of 36 fragments attributed to Hecataeus of Miletus, an early Greek historian and geographer active around 500 BCE. As the original works of Hecataeus are lost, this collection assembles passages preserved through quotation by later ancient authors, most notably Herodotus and Strabo. These fragments represent the surviving evidence for Hecataeus's two major prose works, composed in the Ionic dialect. The first was the Genealogies, a critical attempt to rationalize and systematize the complex family histories of Greek myth. The second was the Periodos Ges, or Circuit of the Earth, a pioneering geographical survey that described the lands and peoples known to the Greeks, ranging from the Mediterranean basin to Asia.
-
-Hecataeus occupies a foundational position in the development of Greek historiography and critical thought. He explicitly positioned himself as a corrective to traditional tales, opening his Genealogies with the declaration that he would write what he deemed true, as the stories of the Greeks were many and absurd. His method involved applying reasoned judgment to mythical material and organizing geographical and ethnographic data systematically. His work directly influenced Herodotus, who both used and critiqued his predecessor's accounts. The transmission of Hecataeus's writings is entirely indirect, surviving only because later authors referenced him as an authority or a point of contention. The standard modern edition of these fragments, including the testimonia about his life and work, is found within Felix Jacoby's authoritative collection, Die Fragmente der griechischen Historiker.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Dionysius Scytobrachion of Mytilene
 eul_wid: kau-ac
 eul_aid: kau
 canonical: "https://eulogikon.org/works/dionysius-mytilene-trojan-war-fragments-kau-ac"
+lang: grc
 period: Hellenistic
 dialect: Aeolic
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Dionysius Scytobrachion of Mytilene
 
 **eul_wid:** `kau-ac` · [HTML page](https://eulogikon.org/works/dionysius-mytilene-trojan-war-fragments-kau-ac)
-
-Fragments on the Trojan War is a lost treatise by the Hellenistic mythographer Dionysius Scytobrachion of Mytilene. Its existence is recorded only in the 10th-century Byzantine encyclopedia known as the Suda, which provides no quotations or summaries of its content. The title indicates it was a scholarly collection of excerpts or discussions pertaining to the narratives of the Trojan War, consistent with the author’s other mythographic works. It would have treated the events and heroes of the Trojan epic cycle, and the term “Fragments” suggests a compiled collection drawn from earlier sources. Following the author’s attested methodology elsewhere, it likely provided rationalizing explanations for mythical events. The work is completely lost, with no other ancient or medieval source preserving any portion of its text. While its direct influence is untraceable, as a product of Dionysius Scytobrachion—whose works were used by historians like Diodorus Siculus—it represents the Hellenistic tradition of scholarly, prose mythography that sought to systematize epic tradition for a learned audience.
 
 ## Text
 

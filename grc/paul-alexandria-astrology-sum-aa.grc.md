@@ -5,6 +5,7 @@ author: Paul of Alexandria the Astrologer
 eul_wid: sum-aa
 eul_aid: sum
 canonical: "https://eulogikon.org/works/paul-alexandria-astrology-sum-aa"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Paul of Alexandria the Astrologer
 
 **eul_wid:** `sum-aa` · [HTML page](https://eulogikon.org/works/paul-alexandria-astrology-sum-aa)
-
-The Elements of Astrology is a systematic Greek textbook on astrology composed by Paul of Alexandria in the late 4th century CE. Dedicated to his son, the work is structured in 96 chapters and serves as a comprehensive primer on Hellenistic astrological techniques. It opens with fundamental concepts such as the zodiac and planets before advancing to complex calculations for the horoscope's houses, predictive methods employing time-lords, and the analysis of specific life events. Composed during a period of rising Christian influence, the treatise is considered an effort to preserve and clearly transmit pagan technical knowledge. It synthesizes earlier astrological doctrines into a coherent, pedagogical system focused on practical calculation rather than philosophical speculation. The text survives in full through medieval Greek manuscripts and proved highly influential, being translated into Arabic and later Latin, where it became a standard reference in Byzantine, Islamic, and eventually Western astrological traditions.
 
 ## Text
 

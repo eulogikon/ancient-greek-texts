@@ -5,6 +5,7 @@ author: Androetas of Tenos
 eul_wid: gue-aa
 eul_aid: gue
 canonical: "https://eulogikon.org/works/androetas-tenos-periplus-propontis-gue-aa"
+lang: grc
 period: Classical
 dialect: Ionic (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Androetas of Tenos
 
 **eul_wid:** `gue-aa` · [HTML page](https://eulogikon.org/works/androetas-tenos-periplus-propontis-gue-aa)
-
-The Periplus of the Propontis is a lost geographical work attributed to Androetas of Tenos, a Hellenistic author likely of the 3rd or 2nd century BCE. It belongs to the periplous genre, describing a coastal voyage around the Propontis, or Sea of Marmara. The work has no independent manuscript tradition, and its existence is known solely through its citation in the 6th-century CE geographical lexicon of Stephanus of Byzantium. Only two brief fragments survive, preserved as quotations in that source. The surviving fragments primarily record place names along the coast, such as the location called Amycus, which is noted as having settlements and being five stades from the Chalcidian Nymphaeum. As a typical periplous, the original work would have served as a practical navigational guide, detailing coastal landmarks, ports, sailing distances, and local toponymy. Androetas’s Periplus is a minor source for late antique lexicography and contributes to the modern study of lost Hellenistic geographical literature and the historical toponymy of the Propontis region.
 
 ## Text
 

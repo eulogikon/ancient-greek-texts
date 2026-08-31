@@ -5,6 +5,7 @@ author: Callimachus Scholia
 eul_wid: vmw-av
 eul_aid: vmw
 canonical: "https://eulogikon.org/works/callimachus-scholia-hymns-vmw-av"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: Grammar
@@ -19,22 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Callimachus Scholia
 
 **eul_wid:** `vmw-av` · [HTML page](https://eulogikon.org/works/callimachus-scholia-hymns-vmw-av)
-
-Overview The Scholia on the Hymns of Callimachus (Σχόλια εἰς τοὺς Καλλιμάχου Ὕμνους) are a collection of ancient and Byzantine explanatory notes preserved in manuscripts of Callimachus’s six Hymns. These prose commentaries provide glosses on difficult words, identify mythological references, explain historical context, and offer textual variants. As an accumulated work of multiple, anonymous scholars, the scholia are an essential tool for interpreting Callimachus’s dense and allusive poetry.
-
-Content The scholia engage directly with the text of the Hymns, and their content includes:
-
-Mythological Exegesis: Explaining stories of gods and rituals.
-
-Linguistic and Grammatical Analysis: Clarifying rare words and dialect forms.
-
-Historical and Geographical Commentary: Identifying places, peoples, and cultic practices.
-
-Poetic Technique: Noting literary models and Callimachus’s refined style.
-
-Transmission The scholia survive in the margins and between lines of medieval Byzantine manuscripts, such as the Florentinus and Parisinus. They represent a fragmented selection from earlier, now-lost commentaries, compiled over centuries by various grammarians.
-
-Significance These scholia are a critical resource for the reception of Callimachus, directly shaping how his work was read in late antiquity and Byzantium. For modern scholarship, they provide indispensable evidence for textual criticism and for reconstructing the Hellenistic literary and cultural context of the poems [2, 3].
 
 ## Text
 

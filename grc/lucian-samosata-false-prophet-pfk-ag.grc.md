@@ -5,6 +5,7 @@ author: Lucian of Samosata
 eul_wid: pfk-ag
 eul_aid: pfk
 canonical: "https://eulogikon.org/works/lucian-samosata-false-prophet-pfk-ag"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lucian of Samosata
 
 **eul_wid:** `pfk-ag` · [HTML page](https://eulogikon.org/works/lucian-samosata-false-prophet-pfk-ag)
-
-_Alexander or the False Prophet_ is a satirical prose work composed in Greek by Lucian of Samosata around 180 CE. Structured as an extended oration, it presents a detailed and hostile biography of Alexander of Abonoteichus, a charismatic charlatan who founded a popular oracle for the snake-god Glycon in the Roman province of Paphlagonia. Lucian, who claims to have been Alexander's personal enemy and an eyewitness, chronicles the prophet's life from his origins through the elaborate hoaxes used to establish his cult, such as the construction of a fake prophetic serpent. The narrative details his methods of delivering oracles, his manipulation of followers, and his eventual death.
-
-The work functions as a rationalist critique of superstition and religious fraud, written during the period of revived Greek literary culture known as the Second Sophistic. Lucian positions himself as a skeptic exposing how rhetoric and theatrical deception could manipulate both the public and the elite. The complete text survives through medieval manuscripts of Lucian's works. Modern scholars regard it as a valuable, if polemical, historical source for understanding the dynamics of religious cults and popular belief in the Roman Empire.
 
 ## Text
 

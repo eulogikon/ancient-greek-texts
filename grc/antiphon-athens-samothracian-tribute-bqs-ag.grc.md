@@ -1,10 +1,11 @@
 ---
 title: On the Samothracian Tribute
 title_greek: Ἀποσπάσματα
-author: "Antiphon of Athens "
+author: Antiphon of Athens
 eul_wid: bqs-ag
 eul_aid: bqs
 canonical: "https://eulogikon.org/works/antiphon-athens-samothracian-tribute-bqs-ag"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -16,13 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀποσπάσματα*
 
-**Author:** Antiphon of Athens 
+**Author:** Antiphon of Athens
 
 **eul_wid:** `bqs-ag` · [HTML page](https://eulogikon.org/works/antiphon-athens-samothracian-tribute-bqs-ag)
-
-_On the Samothracian Tribute_ is a forensic speech composed by the Athenian logographer Antiphon for a prosecution concerning the island of Samothrace’s obligation to pay tribute to the treasury of the Delian League, the Athenian-led alliance. The complete text of the oration is lost, surviving only in approximately thirty-three brief fragments. These excerpts are preserved indirectly through quotations in the works of later lexicographers and grammarians, most notably Harpocration in his second-century CE lexicon and the tenth-century Byzantine encyclopedia known as the Suda. These sources cited the speech primarily for its distinctive vocabulary or stylistic features. The title Apospasmata, meaning "Extracts," is a later descriptive label applied to the collected fragments and was not Antiphon's own.
-
-The extant fragments outline the core legal argument for Samothrace’s liability to pay the tribute, or phoros, to Athens. They reveal a forensic strategy grounded in the application of Athenian imperial law and characterized by rigorous rhetorical technique. The argument employs standard devices of contemporary forensic oratory, including appeals to probability and careful legal interpretation. The prose exemplifies Antiphon’s characteristically severe and precise style, marked by a deliberate and forceful diction. Historically, these fragments provide valuable evidence for the legal and administrative mechanisms of the Athenian empire, illustrating how disputes over tribute obligations were adjudicated in the Athenian courts. For the study of rhetoric, they offer insight into the formative stages of Attic forensic prose and the technical artistry of one of its earliest and most influential practitioners.
 
 ## Text
 

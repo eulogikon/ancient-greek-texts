@@ -5,6 +5,7 @@ author: Euripides
 eul_wid: cbm-be
 eul_aid: cbm
 canonical: "https://eulogikon.org/works/euripides-medea-cbm-be"
+lang: grc
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Euripides
 
 **eul_wid:** `cbm-be` · [HTML page](https://eulogikon.org/works/euripides-medea-cbm-be)
-
-Medea is a tragedy by the ancient Greek playwright Euripides, first performed in Athens in 431 BCE. The play dramatizes the myth of Jason, leader of the Argonauts, who abandons his wife Medea to marry Glauce, the daughter of King Creon of Corinth. The plot follows Medea’s calculated revenge, which she executes after securing a promise of safe exile through cunning persuasion. She sends poisoned gifts that kill both Glauce and Creon and then murders her own two sons to inflict the ultimate psychological wound upon Jason. The play concludes with Medea escaping to Athens in a dragon-drawn chariot provided by her divine grandfather, Helios.
-
-A complete work of 1,335 lines, the tragedy is structured to build from Medea’s initial despair through a feigned reconciliation to its horrific climax. It is renowned for its complex and psychologically compelling portrayal of its heroine, who delivers powerful speeches exploring themes of betrayal, passion, and the constrained position of women in Greek society. Modern scholarship often interprets the play as a product of its specific historical moment, composed on the eve of the Peloponnesian War, and suggests it resonated with contemporary Athenian anxieties about civic stability and the role of outsiders. Its intense examination of extreme emotion and gender dynamics is thought to reflect the intellectual debates of late fifth-century Athens. The text has survived intact through the medieval manuscript tradition, most importantly in a 14th-century Byzantine codex, and remains a cornerstone of Greek tragic literature.
 
 ## Text
 

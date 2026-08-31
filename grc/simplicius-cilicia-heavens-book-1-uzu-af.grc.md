@@ -5,6 +5,7 @@ author: Simplicius of Cilicia
 eul_wid: uzu-af
 eul_aid: uzu
 canonical: "https://eulogikon.org/works/simplicius-cilicia-heavens-book-1-uzu-af"
+lang: grc
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Simplicius of Cilicia
 
 **eul_wid:** `uzu-af` · [HTML page](https://eulogikon.org/works/simplicius-cilicia-heavens-book-1-uzu-af)
-
-Simplicius of Cilicia’s On the Heavens, Book I is a comprehensive philosophical commentary, composed in Greek during the 530s CE, on the first book of Aristotle’s cosmological treatise De Caelo. As a Neoplatonist philosopher, Simplicius engages in more than mere exegesis; he subjects Aristotle’s text to critical analysis, aiming to reconcile Aristotelian physics with the broader framework of Platonic metaphysics. The commentary is organized around five principal lemmata, each corresponding to a pivotal argument in Aristotle’s original work. It also functions as a crucial doxographical resource, preserving extensive quotations from and debates with earlier commentators whose works are otherwise lost, most notably Alexander of Aphrodisias and Simplicius’s Christian contemporary John Philoponus.
-
-The work was written in a period of profound intellectual and institutional upheaval, shortly after the Neoplatonic school in Athens was forcibly closed by the edict of Emperor Justinian. Modern scholarship often interprets the commentary as a deliberate act of philosophical conservation and a robust defense of pagan Hellenic thought against mounting Christian theological critiques. A central and recurring polemic within the text is Simplicius’s vigorous defense of the Aristotelian doctrine of an eternal, ungenerated cosmos, which he upholds against Philoponus’s arguments for a created universe. The complete text has survived through its transmission in medieval Byzantine manuscripts and was later translated into Arabic, where it exerted significant influence on Islamic philosophers. Its meticulous citation of predecessors renders it an indispensable source for the recovery of fragments from numerous otherwise lost ancient philosophical works.
 
 ## Text
 

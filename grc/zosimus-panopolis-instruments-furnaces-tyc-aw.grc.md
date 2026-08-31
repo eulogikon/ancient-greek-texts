@@ -5,6 +5,7 @@ author: Zosimus of Panopolis
 eul_wid: tyc-aw
 eul_aid: tyc
 canonical: "https://eulogikon.org/works/zosimus-panopolis-instruments-furnaces-tyc-aw"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Zosimus of Panopolis
 
 **eul_wid:** `tyc-aw` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-instruments-furnaces-tyc-aw)
-
-Zosimus-Instruments and Furnaces is a technical treatise on alchemical equipment composed in Greek around 300 CE by Zosimus of Panopolis. The work provides detailed, practical instructions for constructing and operating the specialized furnaces and apparatus required for alchemical operations, such as distillation and metallurgical processes. Structured in four distinct passages, the text focuses exclusively on the hands-on, workshop knowledge of the craft, describing devices like glass vessels, clay tubes, and various types of stills and heating chambers.
-
-As part of the oldest surviving corpus of Greek alchemical literature, the treatise is believed to have been written for fellow practitioners. This instructional purpose is consistent with Zosimus’s broader literary output, which includes works addressed to a female student, suggesting a teaching context. The manual exemplifies how late antique alchemy integrated such precise technical knowledge with broader philosophical and religious concepts. The text survives primarily through later Byzantine manuscripts, the most significant being a copy dating from the 10th or 11th century. It served as a foundational technical reference, influencing subsequent alchemical traditions in both the Islamic world and medieval Europe.
 
 ## Text
 

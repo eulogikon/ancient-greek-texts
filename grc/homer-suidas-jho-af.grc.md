@@ -5,6 +5,7 @@ author: Homer Life-anonymous
 eul_wid: jho-af
 eul_aid: jho
 canonical: "https://eulogikon.org/works/homer-suidas-jho-af"
+lang: grc
 period: Hellenistic
 dialect: Mixed Dialects
 domain: Biography
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Homer Life-anonymous
 
 **eul_wid:** `jho-af` · [HTML page](https://eulogikon.org/works/homer-suidas-jho-af)
-
-The Life of Suidas is a brief, later biographical construct concerning the pseudonymous author of the Suda, a massive 10th-century Byzantine Greek encyclopedia. As the Suda's compiler is truly anonymous, with the name "Suidas" derived from the work's Latin title, any such biography is a post-Byzantine invention. The text typically presents a fabricated biographical sketch of the figure "Suidas" and provides a context for the creation of the lexicon, reflecting later scholarly interest in attributing authorship to the anonymous compilation. While the Suda itself survives in many manuscripts, a standalone Life of Suidas is not documented in major reference works. The sole contemporary biographical note is the Suda's own brief, self-referential entry for "Suidas." The Suda lexicon remains a crucial source for classical scholarship, whereas a Life of Suidas holds negligible independent historical or literary influence, serving primarily as an illustration of the later reception habit of creating authorial personas for anonymous works.
 
 ## Text
 

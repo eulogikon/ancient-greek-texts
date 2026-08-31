@@ -5,6 +5,7 @@ author: Hippiatric Compilation Anonymous
 eul_wid: vjk-ag
 eul_aid: vjk
 canonical: "https://eulogikon.org/works/hippiatric-anon-berlin-veterinary-vjk-ag"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: Medicine
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hippiatric Compilation Anonymous
 
 **eul_wid:** `vjk-ag` · [HTML page](https://eulogikon.org/works/hippiatric-anon-berlin-veterinary-vjk-ag)
-
-The Berlin Veterinary Works is a Byzantine compilation of practical veterinary texts preserved in the sole manuscript Codex Berolinensis Philipps 1538, which dates from the 10th or 11th century CE. This extensive work, comprising 1327 passages, is primarily concerned with the care and treatment of horses, synthesizing material from earlier Greek and Latin sources such as Apsyrtus, Theomnestus, and the broader Hippiatrica corpus. Its content is rigorously practical and diagnostic, covering a wide range of equine diseases, their symptoms, and corresponding treatments. The compilation also details veterinary surgical procedures and general husbandry practices, with additional material extending to other animals, including cattle and dogs.
-
-The text's survival in a single manuscript underscores its place within the Byzantine transmission of technical knowledge. It represents a specific iteration within the fluid tradition of Hippiatrica texts, which were continually copied, excerpted, and adapted over centuries. As a witness to the Byzantine preservation and practical application of classical veterinary science, the work holds significant value for understanding ancient and medieval technical literature. It reflects the enduring importance of hippiatric knowledge in a society fundamentally dependent on horses for military, agricultural, and transport purposes.
 
 ## Text
 

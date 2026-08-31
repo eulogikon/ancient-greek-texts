@@ -5,6 +5,7 @@ author: Antimachus of Colophon
 eul_wid: ehe-ab
 eul_aid: ehe
 canonical: "https://eulogikon.org/works/antimachus-colophon-thebaid-fragments-ehe-ab"
+lang: grc
 period: Classical
 dialect: Epic (Homeric) (frg)
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Antimachus of Colophon
 
 **eul_wid:** `ehe-ab` · [HTML page](https://eulogikon.org/works/antimachus-colophon-thebaid-fragments-ehe-ab)
-
-The Thebaid is an epic poem by the Greek poet Antimachus of Colophon, composed around 400 BCE. Written in the traditional epic dialect, it narrated the myth of the Seven against Thebes, covering the conflict between Oedipus's sons, Eteocles and Polyneices, and its aftermath. The original work was reportedly of great length, but the complete text has not survived. Modern knowledge of the poem derives from approximately 169 fragments preserved when later ancient authors, such as grammarians and anthologists, quoted it for its unusual vocabulary or mythological details. The surviving passages indicate a learned and allusive style characterized by dense, archaic language. Scholars interpret Antimachus's work as an early example of a "bookish" epic, composed for a literate audience rather than for oral performance. Written during a period of transition, its scholarly approach made it an important forerunner to the poetry of the Hellenistic age. While admired by later poets like Callimachus for its craftsmanship, its style was also criticized by some as obscure. The poem's influence is significant but complex, marking Antimachus as a key transitional figure between Classical and Hellenistic epic poetry.
 
 ## Text
 

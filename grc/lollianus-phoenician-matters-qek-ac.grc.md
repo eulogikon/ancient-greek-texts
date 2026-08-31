@@ -5,6 +5,7 @@ author: Lollianus the Erotic Writer
 eul_wid: qek-ac
 eul_aid: qek
 canonical: "https://eulogikon.org/works/lollianus-phoenician-matters-qek-ac"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Fiction
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lollianus the Erotic Writer
 
 **eul_wid:** `qek-ac` · [HTML page](https://eulogikon.org/works/lollianus-phoenician-matters-qek-ac)
-
-_Phoenician Matters_ is a fragmentary ancient Greek novel attributed to Lollianus, preserved solely within a single damaged papyrus roll dated to the late second or third century CE. The narrative, featuring a protagonist named Androtimus, is distinguished by its sensational and explicit content, which stands in stark contrast to the more idealized romantic novels of the era. The surviving portions depict the capture of Androtimus by bandits, a graphic ritual murder involving the removal of a boy’s heart, and participation in a subsequent ritual orgy. These elements situate the work within a subgenre of ancient fiction characterized by grotesque and erotic themes. The text is poorly preserved, with two major fragments containing significant lacunae that obscure a comprehensive understanding of the plot. First published in 1972, the papyrus remains the sole witness to the work, with no other manuscripts or ancient references known to exist. Its discovery was critically important for demonstrating the thematic diversity of the ancient novel, proving the existence of narratives that embraced explicit and violent content beyond the conventional model of chaste adventure and romance.
 
 ## Text
 

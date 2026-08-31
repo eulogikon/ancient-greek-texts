@@ -5,6 +5,7 @@ author: Greek Grammarian Anonymous
 eul_wid: tqa-ah
 eul_aid: tqa
 canonical: "https://eulogikon.org/works/anon-grammarian-fragment-tqa-ah"
+lang: grc
 period: Late Antique
 dialect: Koine (frg)
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Greek Grammarian Anonymous
 
 **eul_wid:** `tqa-ah` · [HTML page](https://eulogikon.org/works/anon-grammarian-fragment-tqa-ah)
-
-The Grammatical Fragment is a short, anonymous Greek treatise on grammar preserved in five passages. It belongs to the long tradition of Greek grammatical writing, which ranges from foundational works like Dionysius Thrax’s Art of Grammar to the advanced syntactical studies of Apollonius Dyscolus. As a grammatical treatise, its content logically encompasses standard topics of the discipline, including the analysis of language and the parts of speech, as well as principles of correct usage and morphology. The surviving text explicitly discusses the three persons of discourse, the three figures of word formation, and lists the eight parts of speech with examples. The work survives as a fragment, transmitted among the numerous anonymous grammatical texts and scholia preserved in Byzantine manuscripts, which compiled and commented upon earlier linguistic scholarship. While the specific influence of this fragment is untraceable, the collective corpus of ancient and Byzantine grammatical works was essential for preserving the Greek language, teaching rhetoric and philosophy, and transmitting classical literature through the medieval period and into the Renaissance.
 
 ## Text
 

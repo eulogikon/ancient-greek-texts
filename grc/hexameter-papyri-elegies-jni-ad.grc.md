@@ -5,6 +5,7 @@ author: Hexameter Papyri Anonymous
 eul_wid: jni-ad
 eul_aid: jni
 canonical: "https://eulogikon.org/works/hexameter-papyri-elegies-jni-ad"
+lang: grc
 period: Hellenistic
 dialect: Epic (Homeric) (frg)
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hexameter Papyri Anonymous
 
 **eul_wid:** `jni-ad` · [HTML page](https://eulogikon.org/works/hexameter-papyri-elegies-jni-ad)
-
-The Elegies constitute a modern editorial collection of fifty-seven anonymous and fragmentary passages of Greek elegiac poetry, cataloged under the designation "Hexameter Papyri." Composed in the standard elegiac couplet, these verses represent the genre's broad application across themes of martial exhortation, sympotic reflection, and lament. The work survives exclusively as disparate papyrus fragments, accidentally preserved in Egypt and dating primarily from the Hellenistic and Roman periods. These fragments do not represent a coherent ancient book but rather a modern scholarly aggregation; their damaged state obscures any original order, authorship, or complete textual sequences. While the direct historical influence of these anonymous pieces is untraceable, they substantively expand the modern understanding of the elegiac tradition beyond the works of canonical figures. They provide tangible evidence for the genre's continued composition, thematic diversity, and geographical spread over many centuries.
 
 ## Text
 

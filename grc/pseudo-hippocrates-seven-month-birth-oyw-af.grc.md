@@ -5,6 +5,7 @@ author: Pseudo-Hippocrates
 eul_wid: oyw-af
 eul_aid: oyw
 canonical: "https://eulogikon.org/works/pseudo-hippocrates-seven-month-birth-oyw-af"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Pseudo-Hippocrates
 
 **eul_wid:** `oyw-af` · [HTML page](https://eulogikon.org/works/pseudo-hippocrates-seven-month-birth-oyw-af)
-
-_On Seven-Month Birth_ is a concise medical treatise from the Hippocratic Corpus, a work pseudepigraphically attributed to Hippocrates. It directly confronts a prevalent ancient Greek belief regarding gestation, systematically arguing against the traditional view that an eight-month fetus cannot survive while asserting that a seven-month fetus is viable. The text employs a methodical series of proofs to establish its case, utilizing both analogical reasoning and numerical calculation. It draws comparisons between human gestation and the developmental cycles of animals and plants, while also applying the Hippocratic theory of critical days, a system for predicting the course of disease based on significant intervals. Through these arguments, the treatise seeks to rationalize a common folk belief by grounding it in observational reasoning and logical deduction, thereby providing a framework for prognosticating the outcomes of pregnancies. Preserved within the larger Hippocratic Corpus, the work was copied and studied continuously from antiquity through the Renaissance and remains available in modern critical editions. As a characteristic example of Hippocratic rationalism, the treatise represents an attempt to displace superstition with systematic argument, contributing to enduring discussions in ancient embryology and the doctrine of critical days, engaging with ideas later explored by Aristotle and Galen.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Cyril of Scythopolis
 eul_wid: vbs-ac
 eul_aid: vbs
 canonical: "https://eulogikon.org/works/cyril-scythopolis-life-euthymius-vbs-ac"
+lang: grc
 period: Late Antique
 dialect: Christian Koine
 domain: Biography
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Cyril of Scythopolis
 
 **eul_wid:** `vbs-ac` · [HTML page](https://eulogikon.org/works/cyril-scythopolis-life-euthymius-vbs-ac)
-
-The Life of Euthymius is a hagiographical biography composed in Greek prose by the monk Cyril of Scythopolis, written between 557 and 559 CE. It details the life of Saint Euthymius the Great, a central figure in the development of Palestinian monasticism who lived from approximately 377 to 473. The narrative is organized into 82 chapters, following a chronological structure that begins with Euthymius's birth in Armenia and traces his spiritual journey. It recounts his ascetic training, his settlement in the Judean Desert, the founding of the monastic community that would become the renowned Lavra of Saint Euthymius, and the numerous miracles attributed to him. Beyond its biographical focus, the work serves as a significant historical source for the theological disputes of the fifth century, explicitly portraying Euthymius as a defender of the Christological doctrine ratified by the Council of Chalcedon in 451.
-
-Cyril of Scythopolis wrote this vita as part of a larger corpus of monastic biographies intended to document and promote orthodox, Chalcedonian monasticism in Palestine during a period of intense doctrinal division. The text is addressed primarily to a monastic readership, offering Euthymius as an exemplar of ascetic discipline, spiritual authority, and doctrinal purity. The complete Greek text has been preserved through a robust manuscript tradition, with important copies dating from the tenth and eleventh centuries. Its influence extended beyond the Greek-speaking world through subsequent translations into languages such as Georgian and Arabic.
 
 ## Text
 

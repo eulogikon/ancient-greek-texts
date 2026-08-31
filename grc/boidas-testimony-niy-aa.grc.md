@@ -5,6 +5,7 @@ author: Boïdas the Philologist
 eul_wid: niy-aa
 eul_aid: niy
 canonical: "https://eulogikon.org/works/boidas-testimony-niy-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine (frg)
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Boïdas the Philologist
 
 **eul_wid:** `niy-aa` · [HTML page](https://eulogikon.org/works/boidas-testimony-niy-aa)
-
-The work titled Testimony, attributed to an author named Boïdas the Philologist, is unattested in standard scholarly sources. The term typically denotes testimony, witness, or evidence, potentially indicating a philosophical, legal, or gnomic text. The epithet "the Philologist" suggests a possible Hellenistic or Roman imperial date, but the work's existence and nature remain unverified. No substantive content or themes from the work are recorded. It is described as a collection of one passage, implying it may be a brief fragment or a single excerpt preserved indirectly, with no manuscript tradition or ancient citations documented. The complete absence of this work and author from the historical record limits its significance. It may represent a lost minor text, a misattribution, or a modern confection.
 
 ## Text
 

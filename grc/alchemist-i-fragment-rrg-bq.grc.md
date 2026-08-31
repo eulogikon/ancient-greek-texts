@@ -5,6 +5,7 @@ author: Alchemist I
 eul_wid: rrg-bq
 eul_aid: rrg
 canonical: "https://eulogikon.org/works/alchemist-i-fragment-rrg-bq"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alchemist I
 
 **eul_wid:** `rrg-bq` · [HTML page](https://eulogikon.org/works/alchemist-i-fragment-rrg-bq)
-
-The Alchemical Fragment is a brief treatise attributed to an anonymous author conventionally designated by modern scholars as Alchemist I, a cataloguing practice typical for anonymized texts within the Greek alchemical corpus. Its precise origins, date, and full contents remain unspecified, as it is not documented in major scholarly reference works. The fragment likely survives as an excerpt embedded within a later Byzantine compilation, such as the key manuscripts Marcianus graecus 299 or Parisinus graecus 2327. These anthologies are central repositories for the Greek alchemical tradition, frequently containing anonymized, pseudepigraphal, or redacted texts that were copied and excerpted over many centuries. While the specific doctrines of this particular fragment are unverified, the broader genre of Greek alchemical writing commonly addressed the transmutation of base metals into silver or gold, the preparation of transformative agents like the philosopher's stone, and practical techniques for dyeing and alloying. These works often blended craft knowledge with theoretical principles drawn from Stoic or Neoplatonic philosophy concerning matter and change. As a constituent of this corpus, such fragments were instrumental in transmitting alchemical theory and practical recipes into the Arabic and, subsequently, the medieval Latin scholarly traditions, thereby forming a foundational link in the development of Western alchemy.
 
 ## Text
 

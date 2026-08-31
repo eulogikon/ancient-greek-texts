@@ -5,6 +5,7 @@ author: Eutecnius the Paraphrast
 eul_wid: sma-aa
 eul_aid: sma
 canonical: "https://eulogikon.org/works/eutecnius-paraphrast-oppian-cynegetica-sma-aa"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Eutecnius the Paraphrast
 
 **eul_wid:** `sma-aa` · [HTML page](https://eulogikon.org/works/eutecnius-paraphrast-oppian-cynegetica-sma-aa)
-
-The Paraphrase of Oppian's Cynegetica by Eutecnius the Paraphrast is a prose recasting of Oppian's second-century CE didactic epic on hunting. A standard rhetorical exercise from the progymnasmata tradition, it transforms the original hexameter verse into flowing prose to demonstrate linguistic command and stylistic variation. The work systematically converts Oppian's four books into thirty-six prose passages, transmitting the poem's core subjects, which include hunting techniques and equipment, the characteristics and behaviors of wild animals, and broader natural history and animal lore. The paraphrase survives intact within the corpus of Eutecnius's rhetorical works and is preserved in Greek manuscripts alongside Oppian's poetic text, a transmission that underscores its role as a companion piece for pedagogical use in late antique and Byzantine education. This work exemplifies the repackaging of classical knowledge for rhetorical training, ensuring the continued circulation of Oppian's technical vocabulary and subject matter. It reflects the enduring use of the Cynegetica as a standard school text and highlights a genre of literary activity focused on pedagogical adaptation.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Xenophon of Athens
 eul_wid: ezq-aj
 eul_aid: ezq
 canonical: "https://eulogikon.org/works/xenophon-athens-economics-ezq-aj"
+lang: grc
 period: Classical
 dialect: Attic
 domain: History
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Xenophon of Athens
 
 **eul_wid:** `ezq-aj` · [HTML page](https://eulogikon.org/works/xenophon-athens-economics-ezq-aj)
-
-Xenophon's Oeconomicus is a Socratic dialogue from the fourth century BCE, functioning as a treatise on household and estate management. Composed in Attic Greek prose, the work is structured as a conversation, initially between Socrates and a young Athenian named Critobulus, and subsequently as a longer narrative in which Socrates recounts a dialogue with an experienced gentleman-farmer named Ischomachus. Through these discussions, the text defines wealth not merely as the possession of property but as the practical knowledge required to use it effectively. It details principles for agriculture, the division of labor, the supervision of workers, and the comprehensive management of a domestic establishment.
-
-The complete work, surviving in twenty-one chapters, is preserved through medieval manuscripts of Xenophon's collected writings. Modern scholarship interprets it as a didactic text aimed at educating Athenian citizens, particularly young landowners, in viewing estate management as both a moral art and a form of knowledge essential for personal prosperity and civic stability. It is considered a reflection of the social and economic values of classical Athens, likely informed by Xenophon's own experiences in managing an estate. The dialogue presents an influential model for the role of the wife as an indispensable partner in domestic governance and upholds agriculture as the most honorable and virtuous foundation of a prosperous household.
 
 ## Text
 

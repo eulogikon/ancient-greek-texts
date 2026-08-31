@@ -5,6 +5,7 @@ author: Alexander of Aphrodisias
 eul_wid: reo-ak
 eul_aid: reo
 canonical: "https://eulogikon.org/works/alexander-aphrodisias-soul-reo-ak"
+lang: grc
 period: Roman
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alexander of Aphrodisias
 
 **eul_wid:** `reo-ak` · [HTML page](https://eulogikon.org/works/alexander-aphrodisias-soul-reo-ak)
-
-On the Soul is a philosophical treatise composed in Greek by Alexander of Aphrodisias, a prominent professor and interpreter of Aristotle active in the late second and early third centuries CE. The work constitutes a systematic exposition and defense of Aristotelian psychology, framed as an investigation into the nature of the soul as the vital principle of perishable living bodies. Alexander defines his purpose as discerning the soul’s essence, its powers, their number, and their mutual distinctions. He frames this philosophical inquiry as an obedience to the Delphic command to "know thyself," arguing that understanding human nature necessitates understanding the soul, since a person is defined by it.
-
-The treatise is a sustained thematic argument rather than a line-by-line commentary, methodically presenting Aristotle’s doctrines while engaging critically with rival schools, particularly the Stoics. Alexander rigorously argues that the soul is not an independent substance but the essential form and life-giving actuality of a natural organic body. The work proceeds through a detailed analysis of the soul’s hierarchical faculties, beginning with the nutritive and generative powers common to all life, moving through the sensitive and imaginative faculties of animals, and culminating in the rational intellect unique to humans. A significant portion of the discussion is devoted to the nature of thought, where Alexander advances his influential and contentious interpretation of the intellect.
-
-His most famous doctrine distinguishes between the material intellect, which he identifies as a mortal disposition of the human body, and the active intellect, which he posits as a divine, eternal, and external force that actualizes human thought. This naturalistic interpretation, which emphasizes the soul’s dependence on the body for all but the highest intellectual activity, sought to purify Aristotelian psychology from what Alexander saw as Platonic or Stoic accretions. The complete text survives through medieval Greek manuscripts and was profoundly influential via a ninth-century Arabic translation. Alexander’s arguments, particularly concerning the intellect, shaped centuries of philosophical debate, directly informing the work of Islamic philosophers such as Al-Farabi and Avicenna and, through them, the tradition of Latin Scholasticism.
 
 ## Text
 

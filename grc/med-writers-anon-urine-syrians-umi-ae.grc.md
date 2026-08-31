@@ -5,6 +5,7 @@ author: Medical Writers Anonymous
 eul_wid: umi-ae
 eul_aid: umi
 canonical: "https://eulogikon.org/works/med-writers-anon-urine-syrians-umi-ae"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Medical Writers Anonymous
 
 **eul_wid:** `umi-ae` · [HTML page](https://eulogikon.org/works/med-writers-anon-urine-syrians-umi-ae)
-
-On Urine According to the Syrians is an anonymous Greek medical treatise dedicated to the diagnostic practice of uroscopy. The work systematically catalogues urine by its visual characteristics, including color, consistency, and the presence of sediment, linking each observed type to a specific disease or prognosis. Its six concise passages describe conditions indicated by various urine samples, such as a thick, frothy urine signaling a plethora of blood and associated symptoms like cough and heart palpitations, or a thin, reddish urine indicating yellow bile and foretelling fever and chills. The treatise’s comparative title explicitly frames this specialized knowledge as representing a Syrian medical tradition. It survives uniquely in a single 16th-century manuscript, Parisinus graecus 2316. As a practical diagnostic manual, the work exemplifies the synthesis and transmission of medical knowledge between Greek and Syriac scholarly cultures in late antiquity, reflecting the engagement of Greek-speaking compilers with diagnostic methods from Eastern medical schools.
 
 ## Text
 

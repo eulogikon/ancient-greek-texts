@@ -5,6 +5,7 @@ author: Damon of Athens
 eul_wid: bzy-aa
 eul_aid: bzy
 canonical: "https://eulogikon.org/works/damon-athens-customs-byzantium-bzy-aa"
+lang: grc
 period: Classical
 dialect: Mixed Dialects (frg)
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Damon of Athens
 
 **eul_wid:** `bzy-aa` · [HTML page](https://eulogikon.org/works/damon-athens-customs-byzantium-bzy-aa)
-
-On the Customs of Byzantium is a lost ethnographic treatise attributed to Damon of Athens, a Hellenistic-era writer distinct from the more famous 5th-century BCE music theorist of the same name. The work survives only through two brief fragments preserved by Athenaeus of Naucratis in his Deipnosophistae, written in the late 2nd or early 3rd century CE. These fragments describe specific aspects of Byzantine material culture, namely a two-handled drinking cup known as a kantaros and another vessel called a býtinos. The title, reconstructed from the citations, indicates the treatise's broader focus on recording the distinctive customs, legal practices, and everyday life of the polis of Byzantium. As with many works of its kind from the Hellenistic period, it represents the scholarly interest in local history and ethnography. Its significance today is primarily as a minor source within Athenaeus's compilation, offering a fleeting glimpse into the cultural practices of Hellenistic Byzantium and cited in modern studies of fragmentary Greek antiquarian literature.
 
 ## Text
 

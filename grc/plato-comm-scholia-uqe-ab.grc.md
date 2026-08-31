@@ -5,6 +5,7 @@ author: Plato Commentary
 eul_wid: uqe-ab
 eul_aid: uqe
 canonical: "https://eulogikon.org/works/plato-comm-scholia-uqe-ab"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plato Commentary
 
 **eul_wid:** `uqe-ab` · [HTML page](https://eulogikon.org/works/plato-comm-scholia-uqe-ab)
-
-The Scholia-Plato is an anonymous collection of 429 ancient and medieval explanatory notes, or scholia, on the texts of Plato. These annotations, which compile material from multiple commentators over centuries rather than a single author, serve as a composite commentary on the Platonic corpus. They engage in textual criticism by noting variant readings, clarify philosophical concepts and terminology, elucidate historical and mythological references found within the dialogues, and provide summaries of arguments and structural analysis. The scholia frequently cite earlier interpreters, particularly drawing from the Neoplatonic tradition of late antiquity. A related but distinct collection, often titled the "Scholia Platonica," contains notes on specific dialogues such as the Republic and the Symposium and is attributed by manuscript tradition to later commentators like Proclus and Olympiodorus.
-
-Transmitted within the medieval manuscripts of Plato's works, these scholia are layered texts that blend material from different periods. A significant portion derives from the lost line-by-line commentaries produced by Neoplatonic philosophers in the 5th and 6th centuries CE. As pedagogical aids, the scholia were instrumental for students and scholars, shaping the interpretation and reception of Plato from late antiquity through the Renaissance. For modern scholarship, they provide invaluable insights into ancient reading practices and textual history, while also preserving fragments of commentaries that would otherwise be lost.
 
 ## Text
 

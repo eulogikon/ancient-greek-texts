@@ -5,6 +5,7 @@ author: Zenobius the Sophist
 eul_wid: pxw-aa
 eul_aid: pxw
 canonical: "https://eulogikon.org/works/zenobius-proverbs-alphabetical-pxw-aa"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Grammar
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Zenobius the Sophist
 
 **eul_wid:** `pxw-aa` · [HTML page](https://eulogikon.org/works/zenobius-proverbs-alphabetical-pxw-aa)
-
-The Summary of Proverbs by Tarraeus and Didymus Arranged Alphabetically is a collection of 420 ancient Greek proverbs compiled by the sophist and grammarian Zenobius, who was active during the 2nd century CE. As an epitome, or condensed version, it synthesizes material from two earlier, now lost, collections attributed to the scholars Tarraeus and Didymus. The work organizes its entries alphabetically by the initial letter of each proverb, a common scholarly practice of the period designed to facilitate quick reference. Each entry typically presents the proverb itself, followed by a concise explanation of its meaning, its historical or mythological origin, or its context of use. The proverbs encompass a broad spectrum of subjects, from mythology and history to everyday wisdom and social observation, providing significant insight into Greek idiomatic expression and cultural values.
-
-Zenobius produced this compilation within the intellectual milieu of the Second Sophistic, a era marked by a revived and systematic engagement with classical Greek heritage under Roman imperial rule. The collection and explication of proverbs was a recognized grammatical and rhetorical discipline, essential both for the accurate interpretation of older literary texts and for the cultivation of effective oratory. Modern scholarship interprets Zenobius's work primarily as a practical handbook for students and public speakers, reflecting the period's drive to catalog and preserve elements of Greek linguistic and cultural tradition. While the original collections of Tarraeus and Didymus are no longer extant, Zenobius's epitome has survived substantially complete through medieval manuscript transmission. It served as a standard reference work throughout the Byzantine period and remains a foundational source for the study of Greek paroemiography.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Porphyry of Tyre
 eul_wid: udm-ak
 eul_aid: udm
 canonical: "https://eulogikon.org/works/porphyry-tyre-commentaries-aristotle-udm-ak"
+lang: grc
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Porphyry of Tyre
 
 **eul_wid:** `udm-ak` · [HTML page](https://eulogikon.org/works/porphyry-tyre-commentaries-aristotle-udm-ak)
-
-Porphyry of Tyre, a prominent Neoplatonic philosopher of the third century CE, authored a significant body of Greek commentaries on the works of Aristotle. This exegetical project was central to his intellectual aim of demonstrating the fundamental harmony between the philosophies of Plato and Aristotle, presenting them as complementary parts of a unified philosophical system. His commentaries concentrated principally on Aristotle's logical treatises, including the Categories and the Prior Analytics, and were characterized by meticulous textual analysis paired with philosophical expansion. Their purpose was to render Aristotle's complex arguments intelligible and integrable within an overarching Platonic metaphysical framework.
-
-The specific work in question is structured as a series of twenty-two passages, which scholars understand to be a collection of excerpts or fragments derived from Porphyry's more comprehensive, original commentaries, the majority of which are now lost. These detailed commentaries were originally composed for advanced students in the Neoplatonic educational tradition, where the study of Aristotelian logic served as a crucial preparatory stage for engaging with the higher metaphysics of Plato. While the larger commentaries survive only in fragments, preserved through quotations in later philosophical works and in translations, Porphyry's Isagoge, or introduction to Aristotle's Categories, endured in its complete form. This concise work eclipsed the larger commentaries in its long-term influence, becoming a standard textbook on logic throughout the medieval period in both the Latin West and the Arabic-speaking world.
 
 ## Text
 

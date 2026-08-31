@@ -5,6 +5,7 @@ author: Neoptolemus the Grammarian
 eul_wid: kxc-aa
 eul_aid: kxc
 canonical: "https://eulogikon.org/works/neoptolemus-ocean-death-kxc-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Neoptolemus the Grammarian
 
 **eul_wid:** `kxc-aa` · [HTML page](https://eulogikon.org/works/neoptolemus-ocean-death-kxc-aa)
-
-Fragments on Ocean and Death is a lost grammatical treatise attributed to Neoptolemus the Grammarian, a scholar of the Hellenistic or Roman imperial period. The work is known solely by its title, which indicates a philological examination of the terms Ocean and Death. As a grammarian, Neoptolemus likely provided exegesis of poetic texts, offering etymological analysis or commentary on the usage and mythological roles of these concepts in earlier Greek literature, particularly within the Homeric and Hesiodic traditions. Probable themes, inferred from the title and the author’s profession, include lexicography and etymology concerning the words for Ocean and Death, mythological exegesis interpreting Oceanus as the primordial world-encircling river and Thanatos as the personification of death in epic poetry, and textual criticism discussing specific passages from earlier poets mentioning these figures. The treatise does not survive in any direct fragments and is absent from standard collections of grammatical fragments; its title was likely preserved in a later Byzantine lexicon or scholarly compilation. While its direct influence is untraceable, the work exemplifies the grammatical tradition of preserving and standardizing the Greek literary canon, and such scholarly commentaries formed a foundation for later lexicographers and medieval scholiasts.
 
 ## Text
 

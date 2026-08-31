@@ -5,6 +5,7 @@ author: Aristides the Orator
 eul_wid: qwm-bc
 eul_aid: qwm
 canonical: "https://eulogikon.org/works/aristides-orator-embassy-qwm-bc"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristides the Orator
 
 **eul_wid:** `qwm-bc` · [HTML page](https://eulogikon.org/works/aristides-orator-embassy-qwm-bc)
-
-The Embassy to Achilles is a declamation by the second-century CE orator Aelius Aristides. A rhetorical exercise composed in Attic Greek, it takes the form of a meletē, or practice speech, that elaborates upon the pivotal embassy scene in the ninth book of Homer’s Iliad. The work imaginatively reconstructs the persuasive appeals made by Odysseus, Ajax, and Phoenix as they entreat the wrathful Achilles to abandon his isolation and return to the Achaean war effort against Troy. Structured as a single, continuous oration, it belongs to Aristides’ group of mythical declamations, which were designed to display rhetorical virtuosity rather than to engage with contemporary political affairs.
-
-A leading figure of the Second Sophistic, a cultural movement characterized by the revival of classical Greek rhetoric and paideia under the Roman Empire, Aristides crafted this speech primarily as a pedagogical and performative showcase. Its objective was to demonstrate supreme command of language, argumentative technique, and the ability to inhabit a canonical literary scenario for an audience of educated connoisseurs. Modern scholarship regards the declamation not merely as a technical exercise but as a sophisticated exploration of the mechanics and ethics of persuasion, examining core heroic concepts such as honor, grievance, and communal duty through a refined rhetorical lens. It further serves as a prominent example of the Imperial era’s creative reception and reinterpretation of Homeric epic. The text survives in full within the extensive manuscript tradition of Aristides’ fifty-five extant orations and is cataloged as Oration 16 in the standard modern critical edition of his works.
 
 ## Text
 

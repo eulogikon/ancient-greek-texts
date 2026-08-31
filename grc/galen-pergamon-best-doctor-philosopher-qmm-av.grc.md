@@ -5,6 +5,7 @@ author: Galen of Pergamon
 eul_wid: qmm-av
 eul_aid: qmm
 canonical: "https://eulogikon.org/works/galen-pergamon-best-doctor-philosopher-qmm-av"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Galen of Pergamon
 
 **eul_wid:** `qmm-av` · [HTML page](https://eulogikon.org/works/galen-pergamon-best-doctor-philosopher-qmm-av)
-
-That the Best Doctor is Also a Philosopher is a treatise by the physician Galen of Pergamon, composed in Greek around 170–180 CE. In this concise work, Galen presents a forceful argument that the highest practice of medicine is fundamentally inseparable from philosophy. He contends that the ideal physician must master three core branches of philosophical knowledge: logic, for constructing sound diagnoses and arguments; physics, or the study of nature, to understand the human body and the properties of remedies; and ethics, to cultivate a character free from avarice and dedicated to the patient's welfare. Galen structures his case across eleven passages, criticizing contemporary physicians who, in his view, praise Hippocrates but fail to emulate his rigorous, philosophically informed methods.
-
-The treatise serves as a manifesto for Galen's own synthetic approach, which fused Hippocratic medical principles with the philosophical frameworks of Plato and Aristotle. It is widely interpreted by modern scholars as a direct polemic against rival medical sects of the Roman era, particularly those he deemed overly reliant on empirical practice without a grounding in theoretical reason. Written during Galen's successful tenure in Rome, the work was addressed to fellow practitioners, students, and the educated elite, aiming to elevate medicine from a mechanical craft to a reasoned science underpinned by ethical integrity. The text survives in full through Byzantine manuscripts and later printed editions. It proved highly influential, being translated into Arabic and becoming a cornerstone for the ideal of the "philosopher-physician" in medieval Islamic, Byzantine, and later European medical traditions.
 
 ## Text
 

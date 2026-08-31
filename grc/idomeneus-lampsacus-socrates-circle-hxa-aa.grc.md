@@ -5,6 +5,7 @@ author: Idomeneus of Lampsacus
 eul_wid: hxa-aa
 eul_aid: hxa
 canonical: "https://eulogikon.org/works/idomeneus-lampsacus-socrates-circle-hxa-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Idomeneus of Lampsacus
 
 **eul_wid:** `hxa-aa` · [HTML page](https://eulogikon.org/works/idomeneus-lampsacus-socrates-circle-hxa-aa)
-
-On the Socrates Circle was a biographical work by the early Hellenistic historian Idomeneus of Lampsacus, composed in Greek prose around the turn of the third century BCE. As a follower of Epicurus, Idomeneus compiled this text to document the lives and characters of the disciples of Socrates. The work itself is lost, surviving only through approximately twenty-one fragments and references preserved by later authors such as Diogenes Laertius, Athenaeus, and Plutarch. These excerpts indicate the text was structured as a series of anecdotes, providing biographical details, character assessments, and accounts of the deaths of prominent Socratic figures including Aristippus and Aeschines. The fragments reveal Idomeneus engaged in specific historical arguments, such as attributing certain dialogues to Aeschines rather than Plato and emphasizing Socrates' skill in rhetoric. Modern scholars interpret the work as an early effort to write the history of philosophy from a distinctively Epicurean perspective, which often involved critical reassessments of rival schools. It was likely intended for an educated audience interested in the personal legacies of the Socratics, serving to define that intellectual tradition within the context of the newer Hellenistic philosophies. The original text is entirely lost, and its content is known solely through these quotations embedded in the works of later ancient writers.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Philo of Alexandria
 eul_wid: lgi-ax
 eul_aid: lgi
 canonical: "https://eulogikon.org/works/philo-alexandria-uncertain-fragments-lgi-ax"
+lang: grc
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philo of Alexandria
 
 **eul_wid:** `lgi-ax` · [HTML page](https://eulogikon.org/works/philo-alexandria-uncertain-fragments-lgi-ax)
-
-The designation Fragments of Uncertain Work refers to a set of isolated passages attributed to Philo of Alexandria that cannot be assigned to any of his known treatises. Philo, a Hellenistic Jewish philosopher of the first century, produced an extensive body of work comprising detailed allegorical commentaries on the Pentateuch and independent philosophical discourses. These particular fragments, surviving without their original context, likely represent excerpts from a lost composition, possibly preserved through quotation by later authors. While the specific thematic content of these fragments remains unidentified due to their fragmentary state, they would naturally belong to the broad intellectual currents characteristic of Philo's surviving corpus. His writings are defined by the allegorical interpretation of the Hebrew Bible, inquiries into the nature of God and the mediating role of the Logos, descriptions of the soul's ascent toward divine knowledge, and a sustained project of synthesizing Platonic and Stoic philosophical concepts with Jewish theology and law.
-
-The transmission of Philo's oeuvre is largely indebted to Christian scribes and theologians who valued his allegorical exegetical methods. His major treatises survive in Greek manuscripts and Armenian translations. Lost works and fragments, such as these, are typically known only through citations preserved in the writings of later patristic authors, including Clement of Alexandria, Origen, and Eusebius of Caesarea. Although the direct influence of these specific fragments cannot be ascertained, Philo's thought exercised a profound and lasting impact on the development of early Christian theology and biblical interpretation. His conceptualization of the Logos and his systematic allegorical approach to scripture provided crucial intellectual resources for subsequent Christian thinkers.
 
 ## Text
 

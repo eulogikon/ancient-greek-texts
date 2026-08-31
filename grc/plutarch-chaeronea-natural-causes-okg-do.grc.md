@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-do
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-natural-causes-okg-do"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-do` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-natural-causes-okg-do)
-
-Plutarch’s Natural Causes, known in Greek as Aitia Physika and traditionally titled Quaestiones Naturales in Latin, is a work of natural philosophy composed in the classic problemata format of questions and answers. Preserved within the larger corpus of his Moralia, the text systematically investigates a wide array of phenomena from the natural world, employing a dialectical method characteristic of much Hellenistic and Roman scientific writing. The inquiries span meteorological, celestial, terrestrial, and biological topics, probing the causes of earthquakes, the nature of tides, the salinity of the sea, and various properties of animals and plants. For each problem, Plutarch typically presents multiple explanatory theories drawn from Aristotelian, Stoic, and other philosophical traditions before advancing or favoring a particular solution, thereby offering a synoptic view of contemporary Greek scientific thought. The complete text survives through its transmission in medieval manuscripts of the Moralia, though, as with many ancient works, its textual history involves the standard philological complexities of potential corruption and interpolation. Composed during the period of the Second Sophistic, the work exemplifies the era’s syncretic and didactic approach to consolidating and transmitting Greek knowledge. Its format and content made it a significant conduit for Greek natural philosophy into later antiquity, the Byzantine scholarly tradition, and the Renaissance, where it helped shape the enduring genre of scientific question-and-answer literature.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Timaeus of Locri
 eul_wid: eag-ab
 eul_aid: eag
 canonical: "https://eulogikon.org/works/timaeus-locri-testimonies-eag-ab"
+lang: grc
 period: Classical
 dialect: Doric
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Timaeus of Locri
 
 **eul_wid:** `eag-ab` · [HTML page](https://eulogikon.org/works/timaeus-locri-testimonies-eag-ab)
-
-The Testimonies attributed to Timaeus of Locri are a collection of four brief fragments preserving philosophical doctrines through quotations and paraphrases in later ancient sources. Timaeus of Locri is principally known as the philosophical interlocutor in Plato’s Timaeus, though some ancient traditions regarded him as a historical Pythagorean figure. The fragments address Pythagorean cosmology and metaphysics, including theories of the world soul and the geometric composition of the elements. The collected passages relate to core Pythagorean and Platonic themes such as the origin and structure of the physical universe, the constitutive role of number and harmony, the nature of the soul, and the geometric basis of the traditional elements. These testimonia survive indirectly, not as a continuous manuscript, but through later anthologies. The primary source is the Anthology of John Stobaeus from the fifth century CE, with other material possibly derived from neo-Pythagorean compilers such as Iamblichus. They form part of the body of pseudepigraphical writings ascribed to early Pythagorean authorities. The significance of these fragments lies in their reinforcement of the later pseudepigraphical tradition that used Timaeus’s name to lend archaic Pythagorean authority to philosophical doctrines. This contributed to the neo-Pythagorean and Platonist project of harmonizing Plato with earlier wisdom, ensuring the figure of Timaeus remained an influential point of reference throughout late antiquity and into the Renaissance.
 
 ## Text
 

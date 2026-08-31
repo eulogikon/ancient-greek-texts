@@ -5,6 +5,7 @@ author: Suda
 eul_wid: wus-aq
 eul_aid: wus
 canonical: "https://eulogikon.org/works/suda-rho-wus-aq"
+lang: grc
 period: Byzantine
 domain: Grammar
 format: Collection
@@ -18,12 +19,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Suda
 
 **eul_wid:** `wus-aq` · [HTML page](https://eulogikon.org/works/suda-rho-wus-aq)
-
-The rho section of the Suda (Σοῦδα, Στοιχεῖον Ρ) comprises 324 entries ranging from brief glosses to extended lexicographical discussions. Early entries treat grammatical particles and common nouns — Ῥά as equivalent to δή with a citation from Plato, and Ῥαβδίζω with an accompanying dream-interpretation proverb — alongside institutional terms such as Ῥαβδοῦχοι, explained as theatre order-keepers and contest judges (αἰσυμνήται), with a line from Aristophanes.
-
-The letter also records proper nouns and loanwords: Ῥάβεννα identified as a city name, and Ῥαββί glossed as a Hebrew proper name alongside Ῥαβουνί. Morphological notes appear throughout, as in the discussion of Ῥιγοῖ from Aristophanes' Birds and its Doric form. Later entries include Ῥύτιον as a city name and the rare Ῥυχάχετον, meaning tumult or rabble, supported by an Aristophanic quotation about Athenian disorder.
-
-This section is useful for studying Byzantine lexicographical method, the transmission of Aristophanes' fragments, Greek medical terminology (Ῥῖγος for fever and cold), and the incorporation of Hebrew and Latin place-name material into the Suda's alphabetical framework.
 
 ## Text
 

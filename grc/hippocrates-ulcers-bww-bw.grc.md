@@ -5,6 +5,7 @@ author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-bw
 eul_aid: bww
 canonical: "https://eulogikon.org/works/hippocrates-ulcers-bww-bw"
+lang: grc
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hippocrates and the Hippocratic Corpus
 
 **eul_wid:** `bww-bw` · [HTML page](https://eulogikon.org/works/hippocrates-ulcers-bww-bw)
-
-On Ulcers is a concise medical treatise from ancient Greece, composed in Ionic Greek. It belongs to the extensive and varied collection of works known as the Hippocratic Corpus, which, while traditionally ascribed to Hippocrates, was in fact the product of multiple authors writing primarily in the fifth and fourth centuries BCE. This text functions as a strictly practical, instructional manual dedicated to the treatment of external wounds and sores. It systematically outlines procedures for managing ulcers, offering specific directions for cleaning lesions, applying medicinal plasters and dressings, and employing bandages. The treatise includes recipes for treatments utilizing substances such as resin, wax, and various herbs, and provides counsel on preventing complications like infection or the formation of excessive scar tissue. It also considers the patient's overall regimen, including dietary advice, as an integral component of the healing process. Its twenty-one passages reflect an empirical, hands-on approach to medicine intended for practicing physicians and students. Transmitted through medieval Greek manuscripts as part of the larger Hippocratic Corpus, the work is interpreted by modern scholars as a valuable exemplar of the surgical and practical techniques central to classical Greek medical practice, emphasizing direct observation and material treatment over theoretical speculation.
 
 ## Text
 

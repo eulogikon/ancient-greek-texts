@@ -5,6 +5,7 @@ author: Pindar Commentary
 eul_wid: ppu-aa
 eul_aid: ppu
 canonical: "https://eulogikon.org/works/pindar-comm-preface-chapters-ppu-aa"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Pindar Commentary
 
 **eul_wid:** `ppu-aa` · [HTML page](https://eulogikon.org/works/pindar-comm-preface-chapters-ppu-aa)
-
-The work known as the Chapters to the Preface of Scholia-Pindar's Poems is a paratextual outline designed to structure the introductory material found in the ancient scholia on the poet Pindar. It functions as a meta-commentary, systematically organizing key topics to guide readers into the complex Pindaric exegetical tradition. Based on the standard content of comparable scholia prefaces, its thematic scope would have encompassed the life and biography of Pindar, the character of his poetry including its genre, distinctive style, and metrical forms, the principles for interpreting its dense mythological and historical references, and the history of the text alongside the purpose of the scholia themselves. The text is transmitted within the medieval manuscript tradition of the Pindaric scholia, notably preserved in compendia such as the tenth-century codex Vaticanus Graecus 1312, where it survives as an integral component of the published critical editions of the Scholia Vetera. This structured outline exemplifies Byzantine scholarly methods for organizing classical learning, and by facilitating access to the foundational preface of the scholia, it played a significant role in shaping the systematic study and reception of Pindar's poetry from the Byzantine era through the Renaissance.
 
 ## Text
 

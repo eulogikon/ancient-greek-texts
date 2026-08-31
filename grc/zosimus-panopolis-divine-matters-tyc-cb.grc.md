@@ -5,6 +5,7 @@ author: Zosimus of Panopolis
 eul_wid: tyc-cb
 eul_aid: tyc
 canonical: "https://eulogikon.org/works/zosimus-panopolis-divine-matters-tyc-cb"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Zosimus of Panopolis
 
 **eul_wid:** `tyc-cb` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-divine-matters-tyc-cb)
-
-On Divine Matters is an alchemical treatise attributed to Zosimus of Panopolis, an author active in Roman Egypt around 300 CE. The work is structured as a series of five passages that blend practical laboratory instructions with philosophical and mystical speculation. It centers on the concept of the "divine water," a crucial solvent and agent of transformation, and explores the core alchemical belief that material substances contain a divine spirit capable of being perfected through the art of transmutation. The text survives as part of a larger, fragmentary corpus of Greek alchemical writings, preserved primarily in Byzantine manuscripts from the 10th and 11th centuries. Only portions of the original work are extant, and its heavily symbolic language makes the precise reconstruction of its technical content challenging. Modern scholarship interprets the treatise as a key document of the Greco-Egyptian alchemical tradition, which synthesized Egyptian craft practices with Platonic, Stoic, and hermetic religious ideas. It appears to have been written for fellow initiates, framing the alchemist's laboratory work as an integrated spiritual and material endeavor aimed at personal purification and the attainment of divine knowledge.
 
 ## Text
 

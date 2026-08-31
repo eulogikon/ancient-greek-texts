@@ -5,6 +5,7 @@ author: Hippiatric Compilation Anonymous
 eul_wid: vjk-ad
 eul_aid: vjk
 canonical: "https://eulogikon.org/works/hippiatric-anon-anatolius-oxen-vjk-ad"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hippiatric Compilation Anonymous
 
 **eul_wid:** `vjk-ad` · [HTML page](https://eulogikon.org/works/hippiatric-anon-anatolius-oxen-vjk-ad)
-
-The Fragments of Anatolius-Oxen is a collection of fifty-nine passages on bovine diseases and treatments preserved within the anonymous Greek hippiatric compilations. Though attributed in the manuscripts to Anatolius of Berytus, it is a later pseudepigraphic work, likely compiled in the fifth or sixth century CE from earlier sources. It forms a specialized section on cattle within the broader hippiatric corpus, which primarily addresses equine medicine. The content is practical and technical, covering the diagnosis and symptomatology of cattle diseases alongside recommended pharmacological and surgical treatments. The text survives exclusively as part of the larger Greek hippiatric manuscript tradition, with the standard critical edition appearing in Eugen Oder and Karl Hoppe’s Corpus Hippiatricorum Graecorum. Reflecting the economic importance of oxen in Late Antique agriculture and transport, the work contributed to the body of practical veterinary knowledge that was subsequently transmitted through Byzantine, medieval Latin, and Arabic traditions.
 
 ## Text
 

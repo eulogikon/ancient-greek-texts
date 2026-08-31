@@ -5,6 +5,7 @@ author: Stephanus of Alexandria
 eul_wid: vvs-aa
 eul_aid: vvs
 canonical: "https://eulogikon.org/works/stephanus-alexandria-commentary-aristotle-vvs-aa"
+lang: grc
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Stephanus of Alexandria
 
 **eul_wid:** `vvs-aa` · [HTML page](https://eulogikon.org/works/stephanus-alexandria-commentary-aristotle-vvs-aa)
-
-The Commentary on Aristotle in Greek is a philosophical work by Stephanus of Alexandria, a scholar active in the early 7th century CE. Written in Koine Greek, it is structured as a series of 68 explanatory passages or notes providing exegesis on Aristotle's logical works, known as the Organon. The commentary is a key example of the late Neoplatonic tradition, which sought to harmonize Aristotle's philosophy with that of Plato. Modern scholars characterize Stephanus's approach by its didactic clarity and its synthesis of ideas from earlier commentators like Ammonius Hermiae.
-
-The work was composed during a period of transition, as the center of Greek learning shifted from Alexandria to Constantinople. Stephanus held an official teaching position in the Byzantine capital, and it is thought this commentary was produced for his instructional duties, helping to establish Aristotle's place in the medieval Byzantine curriculum. Only part of the text survives; the 68 passages do not constitute a complete commentary on all of Aristotle's works but represent significant portions of his logical corpus. The work's preservation was aided by its utility as a teaching text within the Byzantine educational system, and it served as an important bridge transmitting the Alexandrian scholarly tradition into the Middle Ages.
 
 ## Text
 

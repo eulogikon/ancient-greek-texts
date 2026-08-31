@@ -5,6 +5,7 @@ author: Basilis the Historian
 eul_wid: ido-aa
 eul_aid: ido
 canonical: "https://eulogikon.org/works/basilis-india-meroe-ido-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Basilis the Historian
 
 **eul_wid:** `ido-aa` · [HTML page](https://eulogikon.org/works/basilis-india-meroe-ido-aa)
-
-The Fragments on India and Meroe by Basilis the Historian is a lost work of historical geography, preserved only in three brief excerpts cited by later authors. These prose fragments contain ethnographic and geographical notes concerning India and the Nubian kingdom of Meroe. The surviving passages describe marvels associated with these distant regions. Two excerpts transmitted by Aelian report on Indian fauna, including a bird hostile to horses and ants that dig for gold. A third fragment, preserved by John Philoponus, engages in the classical debate regarding the source of the Nile, locating its origin in the so-called Silver Mountains near Meroe. The work survives entirely through this indirect transmission, with no independent manuscript tradition, and is collected in modern scholarship as Fragmente der griechischen Historiker 718. Though obscure, the fragments situate Basilis within the Greco-Roman tradition of paradoxography, which collected wonders from the peripheries of the known world. The inclusion of a discussion on the Nile's source demonstrates how such fragmentary reports remained part of geographical and scholarly discourse into late antiquity.
 
 ## Text
 

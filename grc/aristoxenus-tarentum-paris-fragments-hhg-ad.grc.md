@@ -5,6 +5,7 @@ author: Aristoxenus of Tarentum
 eul_wid: hhg-ad
 eul_aid: hhg
 canonical: "https://eulogikon.org/works/aristoxenus-tarentum-paris-fragments-hhg-ad"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Science
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristoxenus of Tarentum
 
 **eul_wid:** `hhg-ad` · [HTML page](https://eulogikon.org/works/aristoxenus-tarentum-paris-fragments-hhg-ad)
-
-The Paris Fragments are two brief passages attributed to the Peripatetic philosopher and music theorist Aristoxenus of Tarentum. Preserved solely in a 14th-century manuscript, they were first published in the late 19th century. The text addresses the systematic classification of musical instruments, a subject known as organology. The first fragment establishes a primary categorization based on the method of sound production, identifying instruments that are struck, those that are plucked, and those that are blown. The second fragment further subdivides the wind instruments into those activated by a direct mouthpiece and those employing a reed. Transmitted fragmentarily in a single manuscript, the attribution to Aristoxenus rests on the manuscript heading and the doctrinal consistency of the content with his empirical, Aristotelian approach to musical science. While their original context within his larger corpus is lost, these fragments are significant for demonstrating the extension of his systematic method beyond the fields of harmonics and rhythm into the study of instruments. The tripartite classification system they present exerted a discernible influence on later antique and medieval music theory.
 
 ## Text
 

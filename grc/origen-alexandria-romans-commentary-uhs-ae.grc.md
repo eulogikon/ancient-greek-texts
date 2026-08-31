@@ -5,6 +5,7 @@ author: Origen of Alexandria
 eul_wid: uhs-ae
 eul_aid: uhs
 canonical: "https://eulogikon.org/works/origen-alexandria-romans-commentary-uhs-ae"
+lang: grc
 period: Late Antique
 dialect: Christian Koine
 domain: Theology
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Origen of Alexandria
 
 **eul_wid:** `uhs-ae` · [HTML page](https://eulogikon.org/works/origen-alexandria-romans-commentary-uhs-ae)
-
-Origen of Alexandria’s Commentaries on the Epistle to the Romans is a seminal work of early Christian exegesis, composed in Greek around 246 CE. This extensive, verse-by-verse analysis of Paul’s epistle exemplifies the Alexandrian school’s interpretive approach, which characteristically proceeds from a literal examination of the text to more profound allegorical and spiritual expositions. The commentary engages deeply with the central theological concerns of Romans, including the relationship between law and grace, the nature of faith, and the question of human free will. Originally comprising fifteen books, the complete work survives only partially in its original language; the section covering Romans 1:1 through 12:21, corresponding to the first ten books, is preserved in Greek manuscripts and fragments. The remainder of the commentary is known primarily through a Latin translation and abridgment produced in the fourth century by Rufinus of Aquileia, which is believed to have condensed Origen’s original, more expansive arguments. Regarded by modern scholarship as a mature expression of Origen’s theological thought, the work was composed for an educated Christian readership in Caesarea. It served to provide a sophisticated theological framework for understanding Paul’s letter during a period of intense early debate concerning scriptural interpretation, salvation, and the role of the Mosaic law. The commentary’s influence was profound and enduring, decisively shaping patristic and medieval theology and informing the Western theological tradition’s engagement with the Apostle Paul for centuries.
 
 ## Text
 

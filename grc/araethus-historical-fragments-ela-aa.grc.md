@@ -5,6 +5,7 @@ author: Araethus the Historian
 eul_wid: ela-aa
 eul_aid: ela
 canonical: "https://eulogikon.org/works/araethus-historical-fragments-ela-aa"
+lang: grc
 period: Classical
 dialect: Attic (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Araethus the Historian
 
 **eul_wid:** `ela-aa` · [HTML page](https://eulogikon.org/works/araethus-historical-fragments-ela-aa)
-
-The Arcadian Historical Fragments is a lost prose work attributed to the historian Araethus. As the title suggests, it was a collection of excerpts concerning the history of Arcadia, a region in the central Peloponnese. The work is known only through a handful of fragmentary passages preserved in the scholia of later authors, a common fate for many ancient local histories. These fragments indicate that the work treated characteristic subjects of Arcadian local history, including regional origins, foundation myths, and notable events. One preserved excerpt recounts a border war between the Arcadians and the Pylians, including the epitaph for a fallen Arcadian champion named Ereuthalion. Another fragment presents an alternative genealogical tradition for the constellation Arctos Minor, attributing its origin to a figure named Megisto rather than the more common Callisto. As a product of the Greek tradition of local history, or horography, Araethus's work aimed to document regional traditions and myths. Though its direct influence is unrecorded, such local histories were vital sources for broader historical and geographical compilations, helping to shape the later understanding of regional identities and antiquities in the Greek world.
 
 ## Text
 

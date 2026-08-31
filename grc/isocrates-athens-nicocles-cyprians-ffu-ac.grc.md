@@ -5,6 +5,7 @@ author: Isocrates of Athens
 eul_wid: ffu-ac
 eul_aid: ffu
 canonical: "https://eulogikon.org/works/isocrates-athens-nicocles-cyprians-ffu-ac"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Isocrates of Athens
 
 **eul_wid:** `ffu-ac` · [HTML page](https://eulogikon.org/works/isocrates-athens-nicocles-cyprians-ffu-ac)
-
-_Nicocles or the Cyprians_ is a political oration composed by the Athenian rhetorician Isocrates around 372–365 BCE. Written in Attic Greek, the work is a literary fiction presented as a speech by Nicocles, the king of Salamis in Cyprus. Through this device, Isocrates articulates a comprehensive theory of ideal kingship, delineating the virtues and duties required of a ruler and the corresponding obligations of the citizenry to offer their obedience and support. The central argument posits that monarchy is a legitimate and beneficial form of government when the sovereign excels in wisdom and moral character and governs with the common welfare as his paramount objective. The complete oration survives as part of a corpus of works Isocrates dedicated to the Cyprian monarchy, composed during his service as an advisor and tutor to that court. Scholarly consensus holds that the text was not intended for actual public delivery but rather functions as an elaborate political treatise aimed at a pan-Hellenic readership. It serves both as a demonstration of rhetorical theory and as a vehicle for promoting the model of an enlightened monarch who embodies traditional Greek civic virtues. The work is often regarded as a significant forerunner to the later genre of "mirrors for princes," exerting a discernible influence on subsequent Hellenistic and Roman political philosophy.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Appian of Alexandria
 eul_wid: pdc-ah
 eul_aid: pdc
 canonical: "https://eulogikon.org/works/appian-alexandria-first-civil-war-pdc-ah"
+lang: grc
 period: Roman
 dialect: Koine
 domain: History
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Appian of Alexandria
 
 **eul_wid:** `pdc-ah` · [HTML page](https://eulogikon.org/works/appian-alexandria-first-civil-war-pdc-ah)
-
-Appian of Alexandria's First Civil War serves as the introductory book of the Civil Wars segment within his comprehensive Roman History. Composed in Greek during the mid-2nd century CE, this historical narrative centers on the political upheaval initiated by the reform campaigns of Tiberius and Gaius Gracchus from 133 to 121 BCE. Appian presents a continuous account across 81 sections, chronicling the crisis over agrarian reform, the erosion of traditional political constraints, and the fatal progression to mob violence that claimed the lives of both brothers. He positions these events as the seminal origin of the internal strife that would plague the Roman Republic for a century and ultimately contribute to its demise.
-
-The text is preserved almost completely through medieval Greek manuscripts, with the most significant witness being the 10th- or 11th-century Codex Vaticanus Graecus 141. Writing under the stable conditions of the High Roman Empire, Appian aimed to furnish a Greek-speaking readership with a coherent analysis of the Republic's disintegration. Modern scholarship regards his narrative as a fundamental source for the Gracchan period, notable for its emphasis on social conflict, constitutional failure, and the tragic precedent of political murder. His interpretation of these pivotal conflicts has profoundly shaped the historical understanding of the late Roman Republic from the Renaissance onward.
 
 ## Text
 

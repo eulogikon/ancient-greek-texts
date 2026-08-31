@@ -5,6 +5,7 @@ author: Epicrates the Comic
 eul_wid: fka-aa
 eul_aid: fka
 canonical: "https://eulogikon.org/works/epicrates-lais-fragments-fka-aa"
+lang: grc
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Epicrates the Comic
 
 **eul_wid:** `fka-aa` · [HTML page](https://eulogikon.org/works/epicrates-lais-fragments-fka-aa)
-
-The Fragments on Lais the Hetaira is a modern scholarly designation for a collection of 65 short passages attributed to the Athenian comic poet Epicrates, who was active in the fourth century BCE. These verses, written in Attic Greek, do not constitute a single, complete play but are surviving excerpts from what were likely several of his comedies. The fragments collectively satirize the famous Corinthian courtesan Lais, mocking her exorbitant fees, her celebrated desirability, and the folly of her wealthy clientele. The text survives only through quotation by later ancient authors, most notably Athenaeus of Naucratis, who preserved the lines for their linguistic or anecdotal value. Modern scholarship groups these disparate pieces together as representative examples of Middle Comedy, a transitional genre that moved away from the direct political satire of Aristophanes toward a broader social commentary on character types, such as the mercenary courtesan. Originally performed for the Athenian theater-going public, the humor relied on the audience's recognition of Lais as a proverbial symbol of extravagant luxury and unattainable desire. The fragments provide a valuable, if piecemeal, window into the social history and evolving comic style of the period between Old Comedy and the New Comedy of Menander.
 
 ## Text
 

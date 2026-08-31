@@ -5,6 +5,7 @@ author: Pindar Commentary
 eul_wid: ppu-ad
 eul_aid: ppu
 canonical: "https://eulogikon.org/works/pindar-comm-scholia-pythian-odes-ppu-ad"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Grammar
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Pindar Commentary
 
 **eul_wid:** `ppu-ad` · [HTML page](https://eulogikon.org/works/pindar-comm-scholia-pythian-odes-ppu-ad)
-
-The Scholia-Pythian Odes V–VII is an ancient compilation of explanatory notes, or scholia, providing a line-by-line commentary on Pindar's Pythian Odes 5, 6, and 7. Consisting of 153 discrete prose entries written primarily in Koine Greek, the work is not a continuous narrative but a series of annotations addressing specific words, grammatical constructions, mythological references, and historical allusions within these complex victory poems. The compilation represents a stratified text, with its earliest layers of commentary originating in the Hellenistic period, around the 2nd century BCE, and subsequent material being added through late antiquity by various anonymous scholars.
-
-These scholia functioned as a practical exegetical guide, preserving the work of critics from major centers of learning such as the Library of Alexandria. They were intended for advanced students and scholars grappling with Pindar's notoriously difficult poetry, explaining rare vocabulary, parsing syntax, and occasionally recording variant interpretations or allegorical readings. The text survives through its transmission in the margins of medieval manuscripts of Pindar's works, chiefly from the 13th and 14th centuries CE. These manuscripts convey a condensed and sometimes conflated version of older scholarly traditions. Consequently, while the scholia are an invaluable resource for understanding ancient literary criticism and the reception of Pindar, it remains challenging for modern scholars to attribute specific notes to individual commentators or precise historical periods with certainty.
 
 ## Text
 

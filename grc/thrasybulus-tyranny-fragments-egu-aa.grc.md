@@ -1,10 +1,11 @@
 ---
 title: Fragments on Tyranny
 title_greek: Ἀπόσπασμα περὶ Τυραννίδος
-author: "Thrasybulus "
+author: Thrasybulus
 eul_wid: egu-aa
 eul_aid: egu
 canonical: "https://eulogikon.org/works/thrasybulus-tyranny-fragments-egu-aa"
+lang: grc
 period: Classical
 dialect: Attic
 format: Epistle
@@ -15,11 +16,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀπόσπασμα περὶ Τυραννίδος*
 
-**Author:** Thrasybulus 
+**Author:** Thrasybulus
 
 **eul_wid:** `egu-aa` · [HTML page](https://eulogikon.org/works/thrasybulus-tyranny-fragments-egu-aa)
-
-The Fragments on Tyranny is a work of uncertain attribution, traditionally ascribed to an author named Thrasybulus. It survives only in two brief passages presented in an epistolary format, with no corroborating evidence from other ancient sources to confirm the existence of a full philosophical treatise by this title or its connection to any known historical figure of that name. The surviving text consists of an allegorical anecdote in which advice on maintaining power is given by demonstrating the cutting down of the tallest stalks in a grain field, a metaphor interpreted as recommending the preemptive removal of prominent citizens. The title suggests a focus on the nature of tyrannical rule, but the work's specific arguments beyond this fragmentary parable are undocumented. The manuscript tradition, provenance, and circumstances of the text's survival are entirely unknown. Consequently, its historical and philosophical significance remains indeterminate, with its primary interest residing in its status as an obscure and unverified entry within the broader corpus of Greek political thought.
 
 ## Text
 

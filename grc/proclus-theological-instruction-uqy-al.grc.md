@@ -5,6 +5,7 @@ author: Proclus the Successor
 eul_wid: uqy-al
 eul_aid: uqy
 canonical: "https://eulogikon.org/works/proclus-theological-instruction-uqy-al"
+lang: grc
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Proclus the Successor
 
 **eul_wid:** `uqy-al` · [HTML page](https://eulogikon.org/works/proclus-theological-instruction-uqy-al)
-
-The Theological Instruction, also known as the Elements of Theology, is a systematic philosophical treatise composed in the 5th century CE by Proclus, the head of the Platonic Academy in Athens. Written in Greek, it functions as a concise manual of Neoplatonic theology and metaphysics. The work is structured not as a continuous discourse but as a series of 211 or 212 self-contained propositions, each followed by a formal logical proof. This Euclidean, axiomatic method builds deductively from a first principle—the supreme and ineffable One—to derive the entire hierarchy of reality, encompassing divine Henads, Intellect, Soul, and the physical cosmos. Scholars interpret the treatise as a foundational textbook for advanced students, distilling the complex doctrines of Athenian Neoplatonism into a rigorous logical system. It is believed to have been written to provide a firm philosophical basis for understanding Proclus's more elaborate commentaries on Plato. A distinctive and influential theme is the doctrine of "Henads," which are the first plural manifestations of the divine One. The text survives in full through a robust manuscript tradition. Its influence was extended by two major translations: a 9th-century Latin version by John Scotus Eriugena and, more significantly, a 13th-century Latin translation by William of Moerbeke. This later translation made Proclus's metaphysics directly available to medieval thinkers such as Thomas Aquinas, thereby shaping the development of Western scholastic theology. The work also profoundly influenced Byzantine Christian thought, most notably the writings of Pseudo-Dionysius the Areopagite.
 
 ## Text
 

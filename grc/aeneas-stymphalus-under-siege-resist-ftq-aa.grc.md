@@ -5,6 +5,7 @@ author: Aeneas of Stymphalus
 eul_wid: ftq-aa
 eul_aid: ftq
 canonical: "https://eulogikon.org/works/aeneas-stymphalus-under-siege-resist-ftq-aa"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Science
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aeneas of Stymphalus
 
 **eul_wid:** `ftq-aa` · [HTML page](https://eulogikon.org/works/aeneas-stymphalus-under-siege-resist-ftq-aa)
-
-On How Those Under Siege Should Resist is a military treatise composed in Attic Greek by Aeneas of Stymphalus, commonly known as Aeneas Tacticus, around 357–355 BCE. It stands as the oldest surviving complete manual on warfare from ancient Greece. The work is a practical, comprehensive guide dedicated exclusively to the defense of a city-state under attack, organized into forty concise chapters that blend direct instruction with illustrative historical anecdotes.
-
-The manual addresses the urgent, multifaceted challenges facing a besieged community, with a pronounced emphasis on thwarting internal betrayal, conspiracy, and subversion—a reflection of the pervasive political instability of its era. Its pragmatic scope extends to maintaining civic discipline and military morale, organizing effective guard rotations, executing emergency repairs to fortifications, planning defensive counter-sallies, and employing secure communication techniques, including coded signals and early forms of cryptography. Eschewing abstract theory, the text is grounded in observation and practical experience, offering actionable solutions. Modern scholarship interprets it as an essential handbook for the civic leaders and garrison commanders of a smaller polis, composed during a period marked by incessant warfare between Greek city-states and the ascendancy of Macedonian power.
-
-The treatise survives largely intact, preserved through a single tenth-century manuscript. It is the only complete work extant from an author to whom several other, now lost, military texts were attributed in antiquity. Valued as a unique historical source, it provides an unparalleled window into the practical realities, tactical stratagems, and complex social management required for urban defense in the Classical Greek world.
 
 ## Text
 

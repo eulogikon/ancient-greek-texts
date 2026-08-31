@@ -5,6 +5,7 @@ author: Theognetus the Comic Poet
 eul_wid: jjw-ab
 eul_aid: jjw
 canonical: "https://eulogikon.org/works/theognetus-philosophical-satire-jjw-ab"
+lang: grc
 period: Hellenistic
 dialect: Koine (frg)
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Theognetus the Comic Poet
 
 **eul_wid:** `jjw-ab` · [HTML page](https://eulogikon.org/works/theognetus-philosophical-satire-jjw-ab)
-
-The Fragments of Philosophical Satire is a modern descriptive title applied to nine brief passages attributed to Theognetus, a poet of Middle or New Comedy. These fragments are preserved exclusively as quotations within the Deipnosophistae of Athenaeus of Naucratis, compiled in the late second or early third century CE. Their content, focusing on domestic scenarios and character types, aligns with the conventions of New Comedy. The extant passages engage with several comic themes, including gastronomy and domestic life, with multiple fragments referencing food, cooks, and dining implements. Another prominent theme is character caricature, featuring exaggerated physical descriptions such as a man portrayed as being thin enough to draw a straight line. The work also contains social and intellectual satire, suggesting a context where philosophical figures or intellectual pretensions were subjects for mockery within everyday settings. The fragments survive only through the indirect tradition of fragmentary Greek comedy, transmitted solely via Athenaeus’s anthology and collected in modern editions such as Poetae Comici Graeci; no independent manuscript tradition exists for a complete play. While Theognetus’s direct influence is untraceable, his fragments exemplify the New Comedy tradition of social observation and domestic humor that later informed Roman playwrights. Their preservation in Athenaeus indicates his status as a noteworthy source for later scholars interested in social customs and dining practices.
 
 ## Text
 

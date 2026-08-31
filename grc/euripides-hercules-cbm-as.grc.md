@@ -5,6 +5,7 @@ author: Euripides
 eul_wid: cbm-as
 eul_aid: cbm
 canonical: "https://eulogikon.org/works/euripides-hercules-cbm-as"
+lang: grc
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Euripides
 
 **eul_wid:** `cbm-as` · [HTML page](https://eulogikon.org/works/euripides-hercules-cbm-as)
-
-Euripides' Hercules is a Greek tragedy composed around 416–415 BCE. The play presents the myth of the hero Heracles in a starkly bipartite structure. In the first movement, Heracles returns from his final labor in the underworld to rescue his wife, Megara, and their children from the usurping tyrant Lycus in Thebes. Following this triumphant salvation, the drama undergoes a catastrophic reversal. The goddess Hera, in relentless enmity, sends the personified spirit Madness upon the hero. In a fit of divinely induced insanity, Heracles murders his own family. The final movement of the play explores the aftermath of this horror, as a shattered Heracles, having regained his sanity, confronts the unbearable weight of his actions. His despair is mitigated by the arrival of his friend Theseus, king of Athens, who offers him purification, refuge, and a philosophical argument for enduring life's suffering. The tragedy survives in its entirety through medieval manuscript tradition. Written during the Peloponnesian War, the work is often interpreted as a profound meditation on the capriciousness of divine will, the fragility of human fortune, and the possibility of resilience through compassionate friendship, its unconventional structure heightening its powerful examination of sudden catastrophe and fragile recovery.
 
 ## Text
 

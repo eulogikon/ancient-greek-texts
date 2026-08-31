@@ -5,6 +5,7 @@ author: Dialogue on Political Science Anonymous
 eul_wid: vhm-aa
 eul_aid: vhm
 canonical: "https://eulogikon.org/works/anon-pol-sci-dialogue-vhm-aa"
+lang: grc
 period: Late Antique
 dialect: Philosophical Koine
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Dialogue on Political Science Anonymous
 
 **eul_wid:** `vhm-aa` · [HTML page](https://eulogikon.org/works/anon-pol-sci-dialogue-vhm-aa)
-
-The Dialogue on Political Science is an anonymous Byzantine prose treatise on statecraft from the sixth century CE, composed in Atticizing Greek. Structured as a conversation between a teacher and a student, the work belongs to the "Mirror for Princes" genre, offering systematic advice on ideal governance. It covers the definition of political science, the requisite virtues of a ruler, classifications of constitutions, and the practical administration of the state. Its philosophical framework represents a synthesis of Platonic and Aristotelian thought with contemporary Christian imperial ideology. Only a portion of the text survives, preserved as fifty-five distinct fragments within a single manuscript from the eleventh century. Modern scholarship interprets the dialogue as a significant document originating from the court of Emperor Justinian I, crafted to provide a philosophical justification for autocratic monarchy as the optimal form of government. It is believed to have been written by a highly educated courtier to bolster Justinian's centralized and theocratic model of rule, reflecting the broader intellectual project of adapting classical political philosophy to serve a Christian empire.
 
 ## Text
 

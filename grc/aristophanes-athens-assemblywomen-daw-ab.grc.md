@@ -5,6 +5,7 @@ author: Aristophanes of Athens
 eul_wid: daw-ab
 eul_aid: daw
 canonical: "https://eulogikon.org/works/aristophanes-athens-assemblywomen-daw-ab"
+lang: grc
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristophanes of Athens
 
 **eul_wid:** `daw-ab` · [HTML page](https://eulogikon.org/works/aristophanes-athens-assemblywomen-daw-ab)
-
-The Assemblywomen is a comedy by the Athenian playwright Aristophanes, first performed around 392 BCE. The play centers on the character Praxagora, who organizes the women of Athens to disguise themselves as men and seize control of the citizen Assembly. Through a fraudulent vote, they transfer all political authority to women, who proceed to institute a radical communal regime. This new order abolishes private property, mandates the equal sharing of all wealth and resources, and imposes controversial regulations on sexual partnerships for the purported benefit of the state, resulting in a series of farcical situations.
-
-As a work of Old Comedy, the play employs the standard structure of the genre, comprising a prologue, a choral entry, a formal debate scene, a direct address to the audience, and episodic sketches that build toward a celebratory finale. The complete text has been preserved via medieval manuscript tradition. Scholarly analysis views the comedy as a satirical critique targeting the political and intellectual climate of early fourth-century Athens, a period of recovery and uncertainty following the city's defeat in the Peloponnesian War. Its fantastical premise lampoons contemporary philosophical speculations on ideal states, challenges conventional gender roles, and exposes perceived vulnerabilities within democratic systems. The play was almost certainly composed for a major civic festival such as the City Dionysia, where its bold subversion of social norms would have engaged its original Athenian audience.
 
 ## Text
 

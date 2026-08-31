@@ -5,6 +5,7 @@ author: Suda
 eul_wid: wus-am
 eul_aid: wus
 canonical: "https://eulogikon.org/works/suda-nu-wus-am"
+lang: grc
 period: Byzantine
 domain: Grammar
 format: Collection
@@ -18,12 +19,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Suda
 
 **eul_wid:** `wus-am` · [HTML page](https://eulogikon.org/works/suda-nu-wus-am)
-
-The nu section of the Suda (Σοῦδα, Στοιχεῖον Ν) contains 622 entries spanning proper names, ethnonyms, and common vocabulary. Early entries include Ναασών, a biblical genealogical note connecting the royal and priestly tribes of Israel, and Ναβαταῖοι, an Arab people whose name the Suda traces to an eponymous ancestor. Νάβλα identifies a type of musical instrument, while Νάβις is glossed simply as tyrant of the Lacedaemonians.
-
-The letter also records lexical and grammatical material: Νηλεῶς and Νηλής illustrate the Suda's attention to adverbial and adjectival forms meaning 'mercilessly' or 'pitiless', and Νηκτά glosses aquatic, swimming creatures. Later entries touch on Dionysiac geography and ritual, with Νυσήϊον identified as a mountain of Dionysus, and Νύσια explained as a category of dance equivalent to the Βερεκυντιακή.
-
-The section is useful for research into Byzantine lexicography, biblical reception, Greek-Latin contact (note the comparison of ναῦς and Latin nāva under Νάβα), Hellenistic ethnography, and the transmission of religious and mythological terminology.
 
 ## Text
 

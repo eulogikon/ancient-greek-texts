@@ -5,6 +5,7 @@ author: Brutus Letters
 eul_wid: mzs-aa
 eul_aid: mzs
 canonical: "https://eulogikon.org/works/brutus-pergamon-mzs-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Brutus Letters
 
 **eul_wid:** `mzs-aa` · [HTML page](https://eulogikon.org/works/brutus-pergamon-mzs-aa)
-
-The Letters to Pergamon is a lost collection of political correspondence attributed to the Roman statesman Marcus Junius Brutus, a leading conspirator in the assassination of Julius Caesar. Composed in Koine Greek, the administrative lingua franca of the Roman East, the work comprised approximately seventy epistles addressed to the authorities of the prominent city of Pergamon in Asia Minor. The letters date from the period of the civil wars following Caesar's death, around 43 to 42 BCE, when Brutus was mobilizing resources in the eastern provinces for the Republican cause against the forces of Mark Antony and Octavian. Although the complete text does not survive, extant fragments indicate the correspondence centered on urgent matters of financial requisition, political allegiance, and provincial governance, as Brutus pressured the city for funds while navigating their claims of prior coercion by his rival, the general Publius Cornelius Dolabella. The collection is documented only through secondary references in later historical works, most notably in Plutarch's biography of Brutus. These references suggest the letters were part of a broader diplomatic campaign and were subsequently preserved to bolster Brutus's posthumous image as a stoic and principled defender of the Roman Republic.
 
 ## Text
 

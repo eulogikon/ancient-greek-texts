@@ -5,6 +5,7 @@ author: Pratinas of Phlius
 eul_wid: bmc-ab
 eul_aid: bmc
 canonical: "https://eulogikon.org/works/pratinas-phlius-dithyramb-dance-bmc-ab"
+lang: grc
 period: Archaic
 dialect: Doric (frg)
 domain: Drama
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Pratinas of Phlius
 
 **eul_wid:** `bmc-ab` · [HTML page](https://eulogikon.org/works/pratinas-phlius-dithyramb-dance-bmc-ab)
-
-On the Dithyramb and Choral Dance is a modern title for a collection of twenty-two poetic fragments attributed to Pratinas of Phlius, an early tragic poet and rival of Aeschylus active in the early fifth century BCE. Written in Doric Greek verse, the work is not a single continuous text but a compilation of excerpts, likely drawn from choral songs, which are grouped around themes of musical performance. The most famous fragment presents a vigorous protest against contemporary musical trends, in which a chorus defends traditional Dionysiac worship by attacking the noisy dominance of the aulos, a double-reed pipe, over the poetic word and choral dance. These fragments survive primarily through quotation by later authors such as Athenaeus in his Deipnosophistae. The work provides a direct snapshot of a fierce cultural debate in Classical Athens, often associated with the rise of the so-called New Music. Modern scholars interpret these verses as a defense of artistic and religious tradition, arguing for the primacy of the chorus and poetic text against a backdrop of rapid musical innovation. They constitute a crucial source for understanding the aesthetic conflicts that shaped the early development of Greek tragedy and choral lyric.
 
 ## Text
 

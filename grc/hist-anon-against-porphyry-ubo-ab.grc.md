@@ -5,6 +5,7 @@ author: Historical Work  Anonymous
 eul_wid: ubo-ab
 eul_aid: ubo
 canonical: "https://eulogikon.org/works/hist-anon-against-porphyry-ubo-ab"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Historical Work  Anonymous
 
 **eul_wid:** `ubo-ab` · [HTML page](https://eulogikon.org/works/hist-anon-against-porphyry-ubo-ab)
-
-_Against Porphyry_ is a lost Christian apologetic treatise, one of several composed in response to the Neoplatonist philosopher Porphyry's major polemic, _Against the Christians_. Structured in 42 passages, this anonymous work offered point-by-point refutations of Porphyry's criticisms of Christian scripture, doctrine, and practice. Based on the genre and Porphyry's known arguments, the text likely defended scriptural authority against charges of contradiction, presented Christological arguments countering Porphyry's denial of Jesus's divinity, justified Christian belief from philosophical perspectives, and attempted to reconcile Christian doctrine with elements of Greek philosophy. The work is not extant, and knowledge of it derives solely from indirect references; any fragments likely survive only as quotations embedded within later Christian writings. This transmission mirrors that of Porphyry's own treatise, which was ordered destroyed and is preserved solely in fragments cited by his opponents. As part of the broader anti-Porphyrian apologetic corpus, this anonymous refutation contributed to the Christian intellectual effort to neutralize the most sophisticated pagan critique of the era. This collective project helped shape patristic theology and marked a significant transition in the late Roman Empire toward Christian intellectual dominance.
 
 ## Text
 

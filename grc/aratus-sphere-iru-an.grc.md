@@ -1,10 +1,11 @@
 ---
 title: Sphere
 title_greek: Σφαῖρα
-author: "Aratus Lives "
+author: Aratus Lives
 eul_wid: iru-an
 eul_aid: iru
 canonical: "https://eulogikon.org/works/aratus-sphere-iru-an"
+lang: grc
 period: Hellenistic
 dialect: Mixed Dialects
 domain: Biography
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Σφαῖρα*
 
-**Author:** Aratus Lives 
+**Author:** Aratus Lives
 
 **eul_wid:** `iru-an` · [HTML page](https://eulogikon.org/works/aratus-sphere-iru-an)
-
-The prose work Sphere is attributed to an author named Aratus Lives. The title indicates an astronomical subject concerning celestial spheres, but the work itself is unattested in standard scholarly sources. The author "Aratus Lives" is not a known ancient figure; the name appears to be a variant or misinterpretation of the Hellenistic poet Aratus of Soli, famed for his didactic poem Phaenomena. The content of Sphere, as suggested by its title and the provided Greek text, consists of descriptive prose detailing the order and relative positions of constellations and stars within the celestial sphere. It describes figures such as the Bears, the Dragon, the Kneeler, the Guardian, the Virgin, and others, mapping their spatial relationships. No manuscript tradition or preservation history for this specific work is recorded in established resources. Its significance lies primarily as a bibliographical anomaly, underscoring the challenges of attribution and the necessity of source verification in classical scholarship, as its precise origin and full content remain unconfirmed.
 
 ## Text
 

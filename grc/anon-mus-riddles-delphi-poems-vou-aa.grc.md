@@ -5,6 +5,7 @@ author: Collection of Musical Riddles Anonymous
 eul_wid: vou-aa
 eul_aid: vou
 canonical: "https://eulogikon.org/works/anon-mus-riddles-delphi-poems-vou-aa"
+lang: grc
 period: Late Antique
 dialect: Mixed Dialects
 domain: Science
@@ -19,18 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Collection of Musical Riddles Anonymous
 
 **eul_wid:** `vou-aa` · [HTML page](https://eulogikon.org/works/anon-mus-riddles-delphi-poems-vou-aa)
-
-Overview The work known as "Poems Found at Delphi" (Ποιήματα ἐν Δελφοῖς εὑρεθέντα) or the "Collection of Musical Riddles" is not attested in major scholarly databases or reference works [1, 2, 3, 4, 5, 6, 7, 8]. The provided metadata describes it as a treatise consisting of four passages.
-
-Content
-
-The title implies a connection to the oracular site of Delphi.
-
-The description "Musical Riddles" suggests content pertaining to music theory or poetic puzzles.
-
-Transmission No manuscript tradition or preservation history for this specific work is documented in the consulted sources.
-
-Significance While the title indicates a potential intersection of poetry, music, and religious context at Delphi, the work remains unidentified within the standard corpora of ancient Greek literature.
 
 ## Text
 

@@ -1,10 +1,11 @@
 ---
 title: Physiognomics
 title_greek: Φυσιογνωμονικά
-author: "Pseudo-Polemon "
+author: Pseudo-Polemon
 eul_wid: pwi-ab
 eul_aid: pwi
 canonical: "https://eulogikon.org/works/pseudo-polemon-physiognomics-pwi-ab"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Philosophy
@@ -16,13 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Φυσιογνωμονικά*
 
-**Author:** Pseudo-Polemon 
+**Author:** Pseudo-Polemon
 
 **eul_wid:** `pwi-ab` · [HTML page](https://eulogikon.org/works/pseudo-polemon-physiognomics-pwi-ab)
-
-The Physiognomics is an ancient Greek technical treatise on the art of deducing character from physical appearance. Though traditionally ascribed to the second-century CE rhetorician Polemon of Laodicea, modern scholarship considers the author unknown, conventionally designating him as Pseudo-Polemon. The work functions as a systematic manual, methodically dividing the body into zones—including the head, eyes, nose, and limbs—and correlating specific anatomical traits with corresponding moral and psychological dispositions. A foundational technique employed throughout is argument by analogy with animals, positing that humans who resemble particular creatures in their features or movements share the essential character of those animals.
-
-The treatise exemplifies the proliferation of technical literature during the High Roman Empire and was likely composed for a practical readership, such as orators and politicians, who required methods for the rapid assessment of strangers. It draws upon and systematizes older Greek traditions of physiognomic thought, including works found within the Aristotelian corpus. The complete Greek text has survived and proved highly influential through translation. In the ninth century, it was rendered into Arabic, transmitting its doctrines into the medieval Islamic scientific tradition. It was subsequently translated from Arabic into Latin, ensuring its circulation and study in medieval Europe and the Renaissance.
 
 ## Text
 

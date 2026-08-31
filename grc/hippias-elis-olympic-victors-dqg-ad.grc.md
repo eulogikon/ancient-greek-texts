@@ -5,6 +5,7 @@ author: Hippias of Elis
 eul_wid: dqg-ad
 eul_aid: dqg
 canonical: "https://eulogikon.org/works/hippias-elis-olympic-victors-dqg-ad"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hippias of Elis
 
 **eul_wid:** `dqg-ad` · [HTML page](https://eulogikon.org/works/hippias-elis-olympic-victors-dqg-ad)
-
-The Fragments on Olympic Victors are surviving excerpts from a systematic catalogue of Olympic victors compiled by the Sophist Hippias of Elis around 400 BCE. This work organized victors sequentially by Olympiad, using the winner of the stadion race to identify each four-year period, thereby creating a fundamental chronological tool for Greek historians. The extant fragments represent a technical catalogue of athletic and chronological data rather than a narrative history. Hippias’s original work is lost, and the fragments survive indirectly through quotation and reference in later historians and chronographers, such as Dionysius of Halicarnassus; they are collected in modern scholarly editions. The list established the authoritative chronological framework for Greek historiography. It was adopted and refined by major historians including Eratosthenes, Polybius, and Diodorus Siculus, becoming the standard method for organizing historical time in the classical world.
 
 ## Text
 

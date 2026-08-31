@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-af
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-athenians-war-wisdom-okg-af"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-af` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-athenians-war-wisdom-okg-af)
-
-Whether Athenians Are More Renowned for War or Wisdom is a short rhetorical essay by Plutarch of Chaeronea. Preserved within the corpus of his Moralia, this work, often classified as a prolalia or introductory discourse, presents a balanced argument on the source of Athenian fame. Plutarch systematically debates whether the city's greater renown derives from its military achievements or from its cultural and intellectual wisdom. The essay functions as a rhetorical comparison, exploring this duality through a series of exemplary figures and events from Athenian history, contrasting the aretē of soldiers and statesmen with the sophia of philosophers, orators, and artists. The text reflects the broader intellectual currents of the Second Sophistic period, during which Greek writers under Roman rule revisited and re-examined their classical heritage. While a minor work compared to Plutarch's biographical Parallel Lives, this essay is a valuable example of his rhetorical technique and his role as a cultural mediator. It illustrates the contemporary practice of constructing balanced arguments on classical themes and contributes to our understanding of how Greek intellectuals engaged with their past. The complete text survives and is transmitted within the manuscript tradition of the Moralia; it corresponds to entry 138 in the ancient Lamprias Catalogue, which records it under the title "Whether the Athenians were more famous in war or in wisdom."
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Speusippus of Athens
 eul_wid: ega-ab
 eul_aid: ega
 canonical: "https://eulogikon.org/works/speusippus-athens-philosophers-ega-ab"
+lang: grc
 period: Classical
 dialect: "Attic (phi, frg)"
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Speusippus of Athens
 
 **eul_wid:** `ega-ab` · [HTML page](https://eulogikon.org/works/speusippus-athens-philosophers-ega-ab)
-
-The Fragments on Philosophers is a lost doxographical treatise by Speusippus of Athens, the nephew and successor of Plato as head of the Academy. Known only through citations and paraphrases in later ancient authors, such as Diogenes Laertius, Clement of Alexandria, and Aristotle, the work was a systematic compilation of the opinions and tenets of earlier philosophers, with a particular focus on pre-Socratic thinkers. It represents a significant scholarly endeavor within the Early Academy, reflecting a methodological shift toward the encyclopedic collection and historical organization of pre-Platonic thought. By assembling these doctrines, Speusippus helped establish the genre of philosophical doxography, providing a foundation that would inform the works of later historians of philosophy like Theophrastus and Diogenes Laertius, and likely influencing Aristotle’s own critical engagements with his predecessors. The modern understanding of the treatise relies on scholarly reconstructions of its fragments, which number over a hundred in contemporary critical editions.
 
 ## Text
 

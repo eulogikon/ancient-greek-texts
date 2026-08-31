@@ -5,6 +5,7 @@ author: Dionysius of Halicarnassus
 eul_wid: ndy-af
 eul_aid: ndy
 canonical: "https://eulogikon.org/works/dionysius-halicarnassus-demosthenes-style-ndy-af"
+lang: grc
 period: Hellenistic
 dialect: Attic
 domain: History
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Dionysius of Halicarnassus
 
 **eul_wid:** `ndy-af` · [HTML page](https://eulogikon.org/works/dionysius-halicarnassus-demosthenes-style-ndy-af)
-
-On the Style of Demosthenes is a rhetorical treatise by the Greek historian and critic Dionysius of Halicarnassus, composed in Attic Greek during the late first century BCE. The work provides a systematic analysis of the stylistic techniques employed by the celebrated Athenian orator Demosthenes. Structured as a detailed, passage-by-passage commentary, it examines eighty-one excerpts from Demosthenes' speeches to illustrate his command of language. Dionysius focuses on concrete elements of composition, including diction, sentence structure, prose rhythm, and the deployment of rhetorical figures. He frequently contrasts Demosthenes with other canonical orators such as Lysias and Isocrates, arguing for the superior persuasive power and artistic refinement of Demosthenes' style.
-
-Written after Dionysius had settled in Rome, the treatise served a didactic purpose within his broader literary project. It aimed to educate the Roman elite in the principles of classical Greek rhetoric and to champion the refined Attic style as the paramount model for effective oratory, countering the more florid Asiatic trends of the period. Modern scholarship views the work as a key text in the Hellenistic effort to define a classical canon and as a practical handbook for students of rhetoric. The complete text has survived through medieval manuscript transmission, a testament to its enduring value as an educational resource throughout the Byzantine era and beyond.
 
 ## Text
 

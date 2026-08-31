@@ -5,6 +5,7 @@ author: Aelian of Praeneste
 eul_wid: ria-ac
 eul_aid: ria
 canonical: "https://eulogikon.org/works/aelian-praeneste-varied-history-ria-ac"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aelian of Praeneste
 
 **eul_wid:** `ria-ac` · [HTML page](https://eulogikon.org/works/aelian-praeneste-varied-history-ria-ac)
-
-The Varied History is a fourteen-book miscellany composed in Attic Greek by the Roman author Aelian, written circa 200–230 CE. Comprising 408 brief, self-contained chapters, the work is a deliberately eclectic compilation of historical anecdotes, biographical sketches, natural curiosities, and accounts of unusual customs, all drawn from earlier Greek literature. Its rapid transitions in subject matter, moving from philosophical aphorisms to remarkable animal behaviors, exemplify the varied nature indicated by its title. Aelian stated his purpose was to gather choice material that would provide pleasure and intellectual diversion rather than systematic history. A rhetorician who lived in Rome but wrote exclusively in Greek, Aelian aligned himself with the Second Sophistic movement, which cultivated a nostalgic reverence for classical Greek culture. The work is interpreted as a collection for an educated, Greek-speaking audience that valued displays of wide reading and curious, edifying lore. It functions as a repository of cultural memory and ethical exempla, frequently highlighting the virtues and vices of classical Greek figures to reinforce Greek cultural identity within the Roman Empire. The text survives complete through medieval manuscript transmission and was widely read during the Byzantine period. Its standard structure of 408 chapters is consistent across the manuscript tradition, with no significant evidence of loss or fragmentation.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-co
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-primarily-cold-okg-co"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-co` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-primarily-cold-okg-co)
-
-On the Primarily Cold is a philosophical treatise by Plutarch of Chaeronea, composed around 100 CE. Written in Attic Greek prose, the work presents a focused dialectical inquiry into a central problem of ancient physics: whether cold possesses its own primary substance or active principle, analogous to fire for heat, or whether it is merely the privation of heat. The treatise systematically examines and critiques earlier theories, including those of Thales, who identified water as the primary cold, and Anaximenes, who argued for air. It engages critically with the Aristotelian position that cold is fundamentally an absence of heat, a view likened to considering darkness as merely the absence of light. Plutarch marshals physical observations and logical arguments against this privation theory, ultimately advocating for the concept of cold as a positive, active quality in nature. The work is interpreted by modern scholars as a characteristic product of Middle Platonism, seeking to refine and defend Platonic doctrine through engagement with other philosophical systems. It appears intended for an educated audience familiar with the history of ideas and technical debate. The complete text survives within the manuscript tradition of Plutarch's collected essays, known as the Moralia.
 
 ## Text
 

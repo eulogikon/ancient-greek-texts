@@ -5,6 +5,7 @@ author: Galen of Pergamon
 eul_wid: qmm-dz
 eul_aid: qmm
 canonical: "https://eulogikon.org/works/galen-pergamon-medical-art-qmm-dz"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Galen of Pergamon
 
 **eul_wid:** `qmm-dz` · [HTML page](https://eulogikon.org/works/galen-pergamon-medical-art-qmm-dz)
-
-The Medical Art is a concise medical handbook composed by the Greek physician Galen of Pergamon around 170–180 CE. Structured as a systematic outline in 107 short passages, the work establishes the core principles of Galen’s medical system. It opens by defining medicine as a rational art and proceeds to detail the causes, signs, and treatments of disease. The treatise covers foundational doctrines including the balance of the four bodily humors, the significance of the six non-naturals—such as diet and environment—for maintaining health, and the three principal branches of medical practice: dietetics, pharmacology, and surgery. Its clear, manual-like organization suggests it was intended as a portable summary of Galenic theory for students and practicing physicians.
-
-The text survives in its entirety and, owing to its practical utility, became one of Galen’s most widely disseminated works. Translated into Syriac, Arabic, and Latin, it served as a cornerstone of medical education in the Byzantine, Islamic, and medieval European worlds. For more than a millennium, it functioned as a primary textbook, standardizing humoral theory and ensuring the enduring centrality of Galen’s ideas in medical practice until the early modern period.
 
 ## Text
 

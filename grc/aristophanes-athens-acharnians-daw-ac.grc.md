@@ -5,6 +5,7 @@ author: Aristophanes of Athens
 eul_wid: daw-ac
 eul_aid: daw
 canonical: "https://eulogikon.org/works/aristophanes-athens-acharnians-daw-ac"
+lang: grc
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristophanes of Athens
 
 **eul_wid:** `daw-ac` · [HTML page](https://eulogikon.org/works/aristophanes-athens-acharnians-daw-ac)
-
-Acharnians is a comedy by the Athenian playwright Aristophanes, first performed at the Lenaea festival in 425 BCE, where it won first prize. It is the earliest of his eleven surviving plays. Written in Attic Greek verse, the work centers on an Athenian farmer named Dicaeopolis who, exasperated by the protracted Peloponnesian War, secures a private peace treaty for himself and his household. The narrative contrasts his ensuing prosperity and enjoyment of peace with the comical wartime tribulations of his bellicose neighbor, the general Lamachus. The chorus consists of elderly charcoal-burners from the deme of Acharnae, and the play employs the formal structure of Old Comedy, including a parabasis in which the chorus speaks directly to the audience.
-
-The complete text, approximately 1,320 lines in length, is preserved through medieval Byzantine manuscripts. Composed during a difficult phase of the war, the play is a trenchant satire of Athenian political leadership, particularly targeting the influential demagogue Cleon, while expressing a profound yearning for peace. As a foundational work of Old Comedy, Acharnians utilizes fantastical scenarios and robust humor to interrogate serious themes, including the conflict between individual and state authority and the burdens of war on ordinary citizens.
 
 ## Text
 

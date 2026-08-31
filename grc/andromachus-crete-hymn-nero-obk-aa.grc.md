@@ -5,6 +5,7 @@ author: Andromachus the Elder Physician of Crete
 eul_wid: obk-aa
 eul_aid: obk
 canonical: "https://eulogikon.org/works/andromachus-crete-hymn-nero-obk-aa"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Poetry
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Andromachus the Elder Physician of Crete
 
 **eul_wid:** `obk-aa` · [HTML page](https://eulogikon.org/works/andromachus-crete-hymn-nero-obk-aa)
-
-The Hymn to Nero the Antidote is a first-century CE Greek didactic poem composed by Andromachus the Elder, a physician from Crete who served Emperor Nero. The work presents an elaborate and refined recipe for a universal antidote known as a theriac, dedicating this sophisticated pharmacological compound to the emperor. Its fourteen passages detail a complex formula of numerous ingredients, which later became standardized in medical tradition as the Theriaca Andromachi. This recipe significantly expanded upon earlier antidotal preparations by prominently incorporating viper’s flesh as a key component. The poem’s primary subject is this compound theriac, a multi-ingredient prophylactic intended to counter poisons and venoms. Its themes encompass the synergy of compound pharmacy, the role of imperial patronage in legitimizing medical innovation, and the strategic use of poetic form as a vehicle for transmitting precise technical knowledge.
-
-The text survives not as an independent manuscript but is preserved through quotation within later pharmacological works. It is most notably embedded in the second-century CE treatise On Antidotes by the physician Galen, who quotes the recipe at length and provides commentary on its use and preparation. Andromachus’s formula became a foundational pharmaceutical text. Through Galen’s detailed endorsement and advocacy, the Theriaca Andromachi evolved into the authoritative theriac recipe for subsequent centuries, often referred to as Galene. It exerted a profound influence on Byzantine, Arabic, and early modern medical practice, standing as a key landmark in the history of toxicology and the tradition of didactic medical poetry.
 
 ## Text
 

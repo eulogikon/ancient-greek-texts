@@ -5,6 +5,7 @@ author: Homer
 eul_wid: abe-ac
 eul_aid: abe
 canonical: "https://eulogikon.org/works/homer-iliad-abe-ac"
+lang: grc
 period: Archaic
 dialect: Epic (Homeric)
 domain: Epic
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Homer
 
 **eul_wid:** `abe-ac` · [HTML page](https://eulogikon.org/works/homer-iliad-abe-ac)
-
-The Iliad is an ancient Greek epic poem attributed to the poet Homer, composed around the eighth century BCE. Written in a dialect of Epic Greek and employing dactylic hexameter verse, it stands as a foundational work of Western literature. The poem focuses on a brief but critical period in the final year of the legendary Trojan War, centering on the devastating wrath of the Greek hero Achilles. Its narrative spans from his quarrel with the Greek commander Agamemnon to the funeral of the Trojan prince Hector. The text is divided into 24 books, a structure thought to have been added by scholars in Alexandria centuries after its composition.
-
-The work is a product of a long oral storytelling tradition, which Homer is believed to have synthesized into a monumental written form. It presents a panoramic and often brutal view of heroic warfare, exploring core values of honor, glory, and fate. The gods are active participants in the human conflict, highlighting themes of mortality, suffering, and the limits of human agency. Modern scholars interpret the poem as a complex reflection of the social structures and warrior ethos of early Greek society. The Iliad has been transmitted remarkably intact, surviving as a complete work unlike many ancient texts. The modern standard edition is based on medieval Byzantine manuscripts, the oldest of which date from the tenth century CE. The precise nature of its creation, whether the work of a single poet or the culmination of generations of oral poets, remains a central question for scholarship.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Alchemist I
 eul_wid: rrg-bh
 eul_aid: rrg
 canonical: "https://eulogikon.org/works/alchemist-i-dedication-theodorus-rrg-bh"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alchemist I
 
 **eul_wid:** `rrg-bh` · [HTML page](https://eulogikon.org/works/alchemist-i-dedication-theodorus-rrg-bh)
-
-The Dedication to Theodorus is a brief Greek prose preface from the 1st century CE, composed in the Koine dialect. Though traditionally ascribed to the philosopher Democritus, modern scholarship attributes it to an anonymous author known as Pseudo-Democritus or Alchemist I. The text functions as a dedicatory letter, introducing a larger, now lost, alchemical treatise to a disciple named Theodorus. In its two primary passages, the work constructs a legendary genealogy for alchemical knowledge, asserting that the Persian sage Ostanes revealed divine secrets to Democritus within the temple sanctuary at Memphis in Egypt. This narrative frames the craft not as a mere technical art but as a sacred mystery. Scholars interpret this as a deliberate strategy to lend spiritual authority and antiquity to what was, in practice, a field concerned with the manipulation of dyes, metals, and precious stones. The dedication appears to have been written for an audience of practicing artisans or advanced students, synthesizing Egyptian, Persian, and Greek intellectual traditions into a universal concept of sacred science. The text survives intact within the early Greek alchemical corpus, preserved in medieval Byzantine manuscripts such as the Codex Marcianus graecus 299. Although the substantive treatise it once introduced is lost, the dedication itself proved highly influential. It helped establish foundational tropes of Western alchemy, particularly the notion of secret wisdom transmitted through a chain of ancient sages, a motif that would profoundly shape the tradition in subsequent Greek, Arabic, and Latin writings for centuries.
 
 ## Text
 

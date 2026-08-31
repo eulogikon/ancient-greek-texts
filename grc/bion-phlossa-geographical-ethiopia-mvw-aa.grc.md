@@ -5,6 +5,7 @@ author: Bion of Phlossa near Smyrna
 eul_wid: mvw-aa
 eul_aid: mvw
 canonical: "https://eulogikon.org/works/bion-phlossa-geographical-ethiopia-mvw-aa"
+lang: grc
 period: Hellenistic
 dialect: Doric Bucolic
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Bion of Phlossa near Smyrna
 
 **eul_wid:** `mvw-aa` · [HTML page](https://eulogikon.org/works/bion-phlossa-geographical-ethiopia-mvw-aa)
-
-The Geographical Fragments on Ethiopia is a lost prose work by Bion of Phlossa near Smyrna, known only through seven brief excerpts preserved by later authors, most notably the Roman geographer Strabo in his Geographica. These fragments consist of ethnographic and geographical notes on various Aethiopian tribes, with a particular focus on their distinctive subsistence practices. The described tribes include the Spermophagi, or Seed-Eaters, who lived on the kernels of certain fruits; the Hylophagi, or Wood-Eaters, who consumed the tender parts of trees; the Chelonophagi, or Turtle-Eaters; and the Acridophagi, or Locust-Eaters, who dried locusts in the sun, ground them into a powder, mixed it with milk, and ate it. As a specimen of Hellenistic geographical writing, the work fits within the Greek tradition of cataloging the remarkable customs of distant peoples. Its significance derives entirely from its quotation by Strabo, which allowed Bion’s observations to be incorporated into the wider corpus of ancient geographical knowledge. The text has no independent manuscript tradition and survives solely within these later citations.
 
 ## Text
 

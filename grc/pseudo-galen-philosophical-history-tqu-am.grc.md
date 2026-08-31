@@ -5,6 +5,7 @@ author: Pseudo-Galen
 eul_wid: tqu-am
 eul_aid: tqu
 canonical: "https://eulogikon.org/works/pseudo-galen-philosophical-history-tqu-am"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Pseudo-Galen
 
 **eul_wid:** `tqu-am` · [HTML page](https://eulogikon.org/works/pseudo-galen-philosophical-history-tqu-am)
-
-On Philosophical History is an anonymous Greek doxographical treatise attributed to a medical writer. The work survives only in fragmentary form, preserved through 137 excerpts compiled in the 9th-century Bibliotheca of the patriarch Photius. These fragments systematically collect the opinions of earlier philosophers and physicians, with a particular focus on doctrines concerning physiology, the substance and governing part of the soul, embryology, sensory function, and the fundamental principles of nature and cosmology. The content reflects the deep interconnection between medicine and natural philosophy in the ancient world. As a key example of Hellenistic or early Imperial doxography, the treatise served as an important sourcebook for pre-Socratic and Hellenistic ideas. Its transmission is almost entirely dependent on Photius, with no independent manuscript tradition, making it a crucial text for scholars seeking to recover lost philosophical opinions and to understand the methods of medically informed historical compilation.
 
 ## Text
 

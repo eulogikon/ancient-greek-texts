@@ -5,6 +5,7 @@ author: Hermogenes of Tarsus
 eul_wid: qng-ac
 eul_aid: qng
 canonical: "https://eulogikon.org/works/hermogenes-tarsus-on-ideas-qng-ac"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hermogenes of Tarsus
 
 **eul_wid:** `qng-ac` · [HTML page](https://eulogikon.org/works/hermogenes-tarsus-on-ideas-qng-ac)
-
-On Ideas of Speech is an advanced rhetorical treatise composed in Greek by Hermogenes of Tarsus around 180 CE. It functions as a systematic handbook analyzing the core qualities, or "ideas," of elite literary style, intended for students and teachers following preliminary rhetorical training. Hermogenes identifies and meticulously dissects seven key stylistic virtues: Clarity, Grandeur, Beauty, Rapidity, Ethos, Verity, and Decorum. The work is structured into 107 passages, each defining a specific quality, providing illustrative examples drawn primarily from the classical orator Demosthenes, and offering practical instructions for achieving the desired effect. Composed during the Second Sophistic, a period of renewed fascination with Greek oratorical culture under the Roman Empire, the treatise reflects the Atticist movement's high valuation of classical Athenian models. The complete text survives as part of the collected works of Hermogenes. Its preservation was secured by its status as a cornerstone of the Byzantine educational curriculum for nearly a millennium, which fostered extensive copying and a rich tradition of ancient and medieval scholarly commentaries.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Horapollo the Grammarian
 eul_wid: tbk-aa
 eul_aid: tbk
 canonical: "https://eulogikon.org/works/horapollo-hieroglyphics-tbk-aa"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: Grammar
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Horapollo the Grammarian
 
 **eul_wid:** `tbk-aa` · [HTML page](https://eulogikon.org/works/horapollo-hieroglyphics-tbk-aa)
-
-The Hieroglyphics is a two-book treatise composed in Koine Greek by Horapollo the Grammarian, a pagan Egyptian scholar traditionally dated to the 5th century CE. The work systematically interprets the meaning of ancient Egyptian hieroglyphic signs. Its 192 entries each identify a concept, such as eternity or a prophet, and then provide one or more hieroglyphs said to represent it, accompanied by an allegorical explanation. For example, the treatise states that Egyptians used the sun and moon to symbolize eternity, or depicted a man eating excrement to represent a person universally reviled. Horapollo presents hieroglyphs not as a phonetic script but as a symbolic code where each image conveys complex ideas through natural metaphor.
-
-The precise date of composition remains uncertain, with some scholarship proposing a 4th-century origin. It was written in a Christianized, Greek-speaking Egypt, aiming to preserve and interpret a sacred script that was no longer widely understood for an educated audience fascinated by Egyptian esoteric wisdom. Modern Egyptology recognizes that Horapollo’s interpretations, while reflecting genuine late antique beliefs about the script, are linguistically almost entirely incorrect. The decipherment of hieroglyphs in the 19th century, enabled by the Rosetta Stone, demonstrated they functioned as a mix of phonetic and logographic elements, not a purely allegorical system.
-
-The Greek text survives primarily in a single manuscript from the 14th or 15th century. A copy brought to Florence in 1419 rendered the work profoundly influential during the Renaissance, where it was accepted as an authentic key to Egyptian symbolism and helped inspire the European emblem book tradition. Today, it is valued not as a factual guide to reading hieroglyphs, but as a crucial document for understanding the reception and interpretation of ancient Egyptian culture in late antiquity and the early modern period.
 
 ## Text
 

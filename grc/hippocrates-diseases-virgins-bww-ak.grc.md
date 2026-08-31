@@ -5,6 +5,7 @@ author: Hippocrates and the Hippocratic Corpus
 eul_wid: bww-ak
 eul_aid: bww
 canonical: "https://eulogikon.org/works/hippocrates-diseases-virgins-bww-ak"
+lang: grc
 period: Classical
 dialect: Ionic
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Hippocrates and the Hippocratic Corpus
 
 **eul_wid:** `bww-ak` · [HTML page](https://eulogikon.org/works/hippocrates-diseases-virgins-bww-ak)
-
-On Diseases of Virgins is a brief medical treatise from the Hippocratic Corpus, the collection of ancient Greek medical works associated with the name of Hippocrates. Composed in Ionic Greek during the classical period, it addresses health conditions specific to unmarried adolescent women who have reached menarche. The text advances a theory grounded in humoral physiology, positing that the absence of sexual intercourse following a girl's first menstruation leads to an accumulation of blood within the body. This excess blood was believed to rise toward the heart and diaphragm, generating a cluster of severe symptoms. These could include visual disturbances, terrifying hallucinations, a sensation of suffocation or a heavy weight pressing on the chest, and in extreme cases, suicidal impulses. The treatise explicitly prescribes marriage and sexual intercourse as the necessary therapeutic intervention to provide a physiological outlet for the retained blood and thus resolve the condition. Modern scholarship regards the work as a significant artifact of ancient thought, demonstrating the profound integration of contemporary social norms regarding female sexuality into medical etiology and practice. The treatise survives only in a fragmentary state, known from two passages preserved not as an independent text but embedded within a larger compilation in a single medieval manuscript. Despite its incomplete transmission, its conceptualization of a pathological state linked to virginity exemplifies the enduring influence of classical humoral theory on historical understandings of the female body.
 
 ## Text
 

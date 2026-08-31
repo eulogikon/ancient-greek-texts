@@ -5,6 +5,7 @@ author: Xenophon Scholia
 eul_wid: cto-aj
 eul_aid: cto
 canonical: "https://eulogikon.org/works/xenophon-scholia-euripides-cto-aj"
+lang: grc
 period: Classical
 dialect: Mixed Dialects
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Xenophon Scholia
 
 **eul_wid:** `cto-aj` · [HTML page](https://eulogikon.org/works/xenophon-scholia-euripides-cto-aj)
-
-The Scholia on Euripides constitute a corpus of marginal and interlinear annotations found in medieval manuscripts of the tragedian's plays. These notes, compiled from the work of numerous ancient grammarians, rhetoricians, and critics, offer a multifaceted commentary on the Euripidean text. Their content ranges from basic textual criticism and linguistic glosses to more expansive explanations of mythological references, historical context, rhetorical devices, and metrical structure. The scholia are not a unified work but a layered accretion of scholarship, primarily from the Hellenistic and Roman periods, which was later condensed and transmitted by Byzantine scribes from the tenth to the fourteenth centuries. Their transmission is tied to specific manuscript families, each preserving different strands of the ancient exegetical tradition. The occasional attribution to a grammarian named Xenophon likely reflects a manuscript tradition identifying a particular compiler or a prominent source within the collection. For modern scholarship, these annotations are an indispensable resource. They preserve fragments of otherwise lost critical works, illuminate the ancient reception and interpretation of Euripides, and provide editors of his text with vital evidence of ancient editorial judgments and variant readings.
 
 ## Text
 

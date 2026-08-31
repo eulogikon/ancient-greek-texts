@@ -5,6 +5,7 @@ author: Demosthenes of Bithynia
 eul_wid: mfi-aa
 eul_aid: mfi
 canonical: "https://eulogikon.org/works/demosthenes-bithynia-geographical-fragments-mfi-aa"
+lang: grc
 period: Hellenistic
 dialect: Epic (Homeric) (frg)
 domain: Epic
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Demosthenes of Bithynia
 
 **eul_wid:** `mfi-aa` · [HTML page](https://eulogikon.org/works/demosthenes-bithynia-geographical-fragments-mfi-aa)
-
-The Geographical Fragments on Bithynia is a lost geographical work in verse by Demosthenes of Bithynia, an obscure figure distinct from the Athenian orator of the same name. Known only by its title, it likely consisted of excerpts from a larger poem composed in dactylic hexameter, focusing on the region of Bithynia in northwestern Asia Minor. Based on the conventions of Hellenistic geographical poetry, its probable themes included topographical descriptions of landscapes, cities, and rivers, local foundation myths and legendary history, ethnographic details about the inhabitants, and references to local cults and deities. The work is not attested in any surviving ancient fragments or testimonia. Its existence is recorded solely in later catalogs of authors, such as those derived from Byzantine lexica, and it has no manuscript tradition. While the fragments exert no known influence on later literature, they provide a minor data point for the study of lost Hellenistic geographical poetry and the literary culture of the Bithynian region.
 
 ## Text
 

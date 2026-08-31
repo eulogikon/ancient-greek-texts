@@ -5,6 +5,7 @@ author: Philo of Alexandria
 eul_wid: lgi-ar
 eul_aid: lgi
 canonical: "https://eulogikon.org/works/philo-alexandria-confusion-of-tongues-lgi-ar"
+lang: grc
 period: Hellenistic
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philo of Alexandria
 
 **eul_wid:** `lgi-ar` · [HTML page](https://eulogikon.org/works/philo-alexandria-confusion-of-tongues-lgi-ar)
-
-The surviving works of Philo of Alexandria constitute a substantial corpus of Greek treatises composed between approximately 20 BCE and 50 CE. Philo, a Jewish philosopher from Alexandria, Egypt, sought to interpret the Hebrew Scriptures, particularly the Torah, through the lens of Greek philosophical concepts, with Platonism exerting a predominant influence. His writings are not a single unified work but a collection of independent texts, which modern scholarship typically organizes into several broad categories. These include the extensive Allegorical Commentary, which offers a detailed philosophical exegesis of Genesis; the more systematic Exposition of the Law, intended for a wider audience; and various historical and Apologetic Works composed to defend the Jewish community during periods of political tension.
-
-Philo’s central project was to demonstrate that the teachings of Moses were the ultimate source of the profound truths later articulated by Greek philosophers. A recurring theme is the concept of the Logos, the divine Reason or Word that acts as an intermediary between a transcendent God and the material creation. His interpretive method relies heavily on allegory, extracting philosophical and ethical meanings from biblical narratives and laws. His work consistently portrays the soul’s ascent toward the knowledge of God. These writings provide an invaluable record of Hellenistic Jewish thought, illustrating how an educated diaspora community engaged with and synthesized its religious heritage with the dominant intellectual culture of the Roman Empire.
-
-The transmission of Philo’s corpus is complex and fragmentary. Preserved almost exclusively by Christian copyists rather than within Jewish tradition, his works survive in a patchwork of sources. While a significant portion of his major commentaries exists in the original Greek via medieval manuscripts, several treatises are lost in Greek and are known only through ancient Armenian or Latin translations. The precise number of his individual writings remains uncertain; traditional figures, such as the citation of 169 separate pieces, reflect the challenging task of reconstructing his full output from incomplete and often indirect textual evidence.
 
 ## Text
 

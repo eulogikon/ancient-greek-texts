@@ -5,6 +5,7 @@ author: Pisistratus Letters
 eul_wid: nmk-aa
 eul_aid: nmk
 canonical: "https://eulogikon.org/works/pisistratus-letters-defense-letter-nmk-aa"
+lang: grc
 period: Roman
 dialect: Koine
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Pisistratus Letters
 
 **eul_wid:** `nmk-aa` · [HTML page](https://eulogikon.org/works/pisistratus-letters-defense-letter-nmk-aa)
-
-No specific work titled "Pisistratus's Defense Letter" or any epistle authored by the Athenian tyrant Pisistratus is attested in the historical record. The primary accounts of his life, from historians like Herodotus and Aristotle, detail his political career but do not mention any surviving writings, letters, or speeches. Any purported defense would logically relate to one of Pisistratus's political crises, such as defending his actions during a period of opposition or exile following his forcible seizures of power. No manuscript tradition, fragments, or ancient references to a letter or written defense by Pisistratus are recorded. If such a document ever existed, it is now lost and left no trace in the extant historical tradition. While Pisistratus's political actions were influential, no specific "Defense Letter" has a reception history. His historical significance derives from his role in Athenian history, including his patronage of cultural institutions like the Panathenaic festival.
 
 ## Text
 

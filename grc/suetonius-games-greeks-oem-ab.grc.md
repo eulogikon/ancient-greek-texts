@@ -5,6 +5,7 @@ author: Suetonius
 eul_wid: oem-ab
 eul_aid: oem
 canonical: "https://eulogikon.org/works/suetonius-games-greeks-oem-ab"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Suetonius
 
 **eul_wid:** `oem-ab` · [HTML page](https://eulogikon.org/works/suetonius-games-greeks-oem-ab)
-
-_On the Games Among the Greeks_ is a lost antiquarian treatise by the Roman scholar Suetonius, known only from its title preserved in the Byzantine encyclopedia known as the _Suda_. As a grammatical or lexicographical work, it examined Greek terms and customs related to games and recreation. Its subject, as indicated by the title, was Greek games and pastimes, and it likely addressed Greek cultural antiquities and institutions related to recreation, the lexicography and specific usage of associated terminology, and Hellenic education as a subject of Roman scholarly interest. The work’s existence is attested solely by its inclusion in the _Suda_’s list of Suetonius’s writings; no manuscripts or direct quotations survive, making its transmission entirely dependent on this late bibliographical notice. The treatise exemplifies the breadth of Suetonius’s scholarly output beyond his biographical works and reflects the Roman elite’s engagement with Greek culture during the Imperial period. Its mention in the _Suda_ underscores its place within the tradition of ancient and Byzantine lexicography and antiquarianism.
 
 ## Text
 

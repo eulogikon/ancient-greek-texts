@@ -5,6 +5,7 @@ author: Alexander of Lycopolis
 eul_wid: ufa-aa
 eul_aid: ufa
 canonical: "https://eulogikon.org/works/alexander-lycopolis-manichaean-doctrines-ufa-aa"
+lang: grc
 period: Late Antique
 dialect: Philosophical Koine
 domain: Theology
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alexander of Lycopolis
 
 **eul_wid:** `ufa-aa` · [HTML page](https://eulogikon.org/works/alexander-lycopolis-manichaean-doctrines-ufa-aa)
-
-The Treatise on the Doctrines of the Manichaeans is a philosophical polemic composed in Greek around 300 CE by Alexander of Lycopolis, a pagan instructor of Platonic philosophy in Roman Egypt. The work systematically delineates and subsequently critiques the foundational tenets of Manichaeism, the significant dualistic religion established by the prophet Mani. Across twenty-seven concise chapters, Alexander first expounds the Manichaean cosmological system, which is constructed upon two eternal and warring principles—Light, representing Good, and Darkness, representing Evil—and their subsequent mixture, from which the cosmos and the human soul are formed. He then subjects this doctrinal framework to rigorous logical analysis, contending that its core concepts, such as a passive and sufferable deity alongside an independent and co-eternal evil, are philosophically incoherent.
-
-Alexander writes not from a Christian standpoint but as a Hellenic philosopher, likely addressing fellow educated pagans. His primary aim is to demonstrate the superiority of Greek rational inquiry, particularly informed by Neoplatonic and Aristotelian thought, over what he perceives as the mythological and irrational doctrines of Manichaeism. The complete text survives due to its preservation in a single 14th-century manuscript, copied by Christian scribes who valued its arguments against Manichaean dualism. Modern scholars regard the treatise as an invaluable early source, offering a detailed and uniquely non-Christian perspective on both Manichaean theology and its reception within the late antique intellectual milieu.
 
 ## Text
 

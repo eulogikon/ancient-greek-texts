@@ -5,6 +5,7 @@ author: Themistius the Philosopher
 eul_wid: rye-ab
 eul_aid: rye
 canonical: "https://eulogikon.org/works/themistius-peace-consulship-saturninus-rye-ab"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Themistius the Philosopher
 
 **eul_wid:** `rye-ab` · [HTML page](https://eulogikon.org/works/themistius-peace-consulship-saturninus-rye-ab)
-
-The Thanksgiving to the Emperor for the Peace and Consulship of General Saturninus is a panegyric oration delivered by the philosopher and statesman Themistius to Emperor Theodosius I in Constantinople around 383 or 384 CE. The speech formally thanks the emperor for a peace treaty concluded with the Goths and celebrates the consulship of General Saturninus, who was instrumental in its negotiation. Composed in the immediate aftermath of the Gothic War and the treaty of 382 CE, which permitted the Goths to settle within the Roman Empire as allies, the oration argues across its fifty-three sections that such a diplomatic peace represents a greater achievement than military victory. Themistius aligns Saturninus’s success with a philosophical ideal of kingship that prioritizes the welfare of citizens and stable governance over war. Modern scholarship interprets the work as a sophisticated piece of political rhetoric, designed not only to praise Theodosius and Saturninus but also to reassure a potentially skeptical Roman senate and civic elite about the wisdom of integrating Gothic peoples. It seeks to justify the treaty by framing peace as an act of civilizing incorporation and superior statesmanship. The complete text survives through medieval Greek manuscripts, most notably a thirteenth-century manuscript known as Parisinus graecus 126, which serves as the foundation for modern critical editions.
 
 ## Text
 

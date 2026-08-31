@@ -5,6 +5,7 @@ author: Sophaenetus of Stymphalus
 eul_wid: eva-aa
 eul_aid: eva
 canonical: "https://eulogikon.org/works/sophaenetus-stymphalus-cyrus-expedition-eva-aa"
+lang: grc
 period: Classical
 dialect: Attic
 domain: History
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Sophaenetus of Stymphalus
 
 **eul_wid:** `eva-aa` · [HTML page](https://eulogikon.org/works/sophaenetus-stymphalus-cyrus-expedition-eva-aa)
-
-The Fragments of Cyrus's Expedition, a historical prose work by Sophaenetus of Stymphalus, survives only in four brief excerpts preserved by later authors. These fragments relate to Cyrus the Younger’s campaign against his brother, the Persian king Artaxerxes II, in 401 BCE and the subsequent retreat of the Greek mercenaries. One fragment, preserved by the ninth-century patriarch Photius, indicates the work was originally titled Kýrou Anábasis, or The Expedition of Cyrus. The tenth-century Byzantine encyclopedia known as the Suda states that Sophaenetus treated the subject in five books.
-
-The extant fragments, which include geographical notes on places such as Charmande and the Carduchian people, suggest the history covered military logistics, topography, and the experience of the Greek mercenaries in Persian service. It would have detailed the leadership and events of the failed campaign and the arduous retreat, subjects famously narrated in Xenophon’s Anabasis. Sophaenetus was himself a participant in the expedition, making his account a contemporary, eyewitness history. The text is now lost, with its fragments preserved in later compilations including the works of Photius, the Suda, the second-century lexicographer Harpocration, and Helladius. While ancient critics like Dionysius of Halicarnassus favored Xenophon’s superior literary style, Sophaenetus’s work provided an alternative primary source, and its significance lies primarily in its status as a lost account referenced by later scholars for historical and lexical detail.
 
 ## Text
 

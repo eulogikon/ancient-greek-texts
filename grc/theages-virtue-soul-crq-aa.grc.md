@@ -5,7 +5,8 @@ author: Theages
 eul_wid: crq-aa
 eul_aid: crq
 canonical: "https://eulogikon.org/works/theages-virtue-soul-crq-aa"
-period: Classical
+lang: grc
+period: Hellenistic
 dialect: Attic Philosophical
 domain: Philosophy
 format: Treatise
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Theages
 
 **eul_wid:** `crq-aa` · [HTML page](https://eulogikon.org/works/theages-virtue-soul-crq-aa)
-
-On Virtue and the Soul is a lost philosophical treatise attributed to Theages, a minor figure known primarily from Plato’s dialogues, particularly the dialogue named for him. No independent works by a historical Theages are attested in the extant record, and this specific treatise is absent from standard catalogs of ancient Greek literature and manuscript traditions. Its title suggests a thematic focus on the nature of moral excellence and its relationship to the human soul, core Socratic and Platonic concerns that would logically encompass questions regarding the teachability of virtue and the proper care of the soul. Given the complete lack of textual evidence, the work’s specific arguments and structure remain unknown. Its significance, therefore, lies not in any recoverable philosophical content but in its posthumous attribution, which represents a later attempt to construct a literary-philosophical persona for a character otherwise confined to the Platonic corpus.
 
 ## Text
 

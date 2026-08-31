@@ -5,6 +5,7 @@ author: Artaxerxes Letters
 eul_wid: bvs-aa
 eul_aid: bvs
 canonical: "https://eulogikon.org/works/artaxerxes-letters-royal-bvs-aa"
+lang: grc
 period: Classical
 dialect: Christian Koine
 domain: History
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Artaxerxes Letters
 
 **eul_wid:** `bvs-aa` · [HTML page](https://eulogikon.org/works/artaxerxes-letters-royal-bvs-aa)
-
-The Royal Letters of Artaxerxes are three passages of royal correspondence preserved not as an independent work but as quoted documents within the historical writings of Thucydides and Xenophon. Transmitted in Attic Greek, these letters are attributed to the Persian kings Artaxerxes I or II and date to the fifth century BCE. They consist of diplomatic messages exchanged between the Persian throne and Spartan commanders during the era of the Peloponnesian War. The most notable example, recorded by Thucydides, is an intercepted letter from Artaxerxes I to the Spartan general Pausanias, which furnished crucial evidence for contemporary accusations that Pausanias was betraying Greek interests to Persia.
-
-Only these three quoted passages survive, with no independent manuscript tradition; their transmission relies entirely on the texts of the Greek historians who incorporated them. The original letters were likely composed in Aramaic or Old Persian and later translated into Greek for inclusion in the historical narratives. Modern scholarship debates their authenticity, with some historians regarding them as genuine diplomatic documents, while others interpret them as literary creations by Thucydides and Xenophon. In this latter view, the letters serve narrative purposes, illustrating central themes such as treason, the dynamics of power, and the pervasive influence of Persia in Greek political affairs.
 
 ## Text
 

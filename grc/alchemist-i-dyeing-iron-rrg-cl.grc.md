@@ -5,6 +5,7 @@ author: Alchemist I
 eul_wid: rrg-cl
 eul_aid: rrg
 canonical: "https://eulogikon.org/works/alchemist-i-dyeing-iron-rrg-cl"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alchemist I
 
 **eul_wid:** `rrg-cl` · [HTML page](https://eulogikon.org/works/alchemist-i-dyeing-iron-rrg-cl)
-
-On Dyeing Iron is a concise technical treatise on alchemy, written in Koine Greek and attributed to a pseudonymous author conventionally designated as Alchemist I, who wrote under the name of the ancient philosopher Democritus. Likely composed between the first and third centuries CE, the work provides practical recipes for altering the surface color of iron to resemble gold or silver, a foundational process in early alchemy known as "dyeing" or "tingeing." The text is structured in five brief passages, each detailing specific procedures involving the treatment of iron with various substances, including sulfur compounds, arsenic, and plant-based dyes.
-
-The treatise originates from the Greco-Egyptian, particularly Alexandrian, context where alchemy emerged as a fusion of craft knowledge and philosophical speculation. The pseudonymous attribution to Democritus is interpreted by modern scholars as a strategy to lend authority and a veneer of ancient wisdom to this practical, workshop-oriented knowledge. The work appears intended for artisans and early practitioners, offering valued technical instructions that were also believed to contain deeper, hidden insights.
-
-The text survives as part of the larger corpus of Greek alchemical writings attributed to Pseudo-Democritus. It was transmitted primarily through medieval manuscripts, most notably the 10th- or 11th-century Marcianus graecus 299, which preserves a major collection of Greek alchemical literature. As with many ancient technical works, the precise original wording may have been affected by centuries of copying and compilation within larger anthologies.
 
 ## Text
 

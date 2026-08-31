@@ -5,6 +5,7 @@ author: Plutarch of Chaeronea
 eul_wid: okg-ap
 eul_aid: okg
 canonical: "https://eulogikon.org/works/plutarch-chaeronea-mind-faculty-passive-life-okg-ap"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plutarch of Chaeronea
 
 **eul_wid:** `okg-ap` · [HTML page](https://eulogikon.org/works/plutarch-chaeronea-mind-faculty-passive-life-okg-ap)
-
-"Whether the Mind's Faculty is Passive Life" is a concise philosophical treatise by Plutarch of Chaeronea, forming part of his extensive ethical and philosophical collection known as the Moralia. The work functions as a doxographical examination, systematically compiling and analyzing earlier philosophical positions on the question of whether the intellect constitutes a passive or receptive form of life. Structured as a formal problem, it presents opposing arguments across a brief series of passages, engaging with fundamental debates in ancient psychology concerning the nature of the soul's faculties. The treatise explores whether the intellect is best understood as passive and receptive or as active and creative, delving into faculty psychology and the soul's various powers. In doing so, it engages with doctrines from the Peripatetic, Stoic, and Platonic traditions regarding activity and passivity in the processes of cognition. The text survives intact through the Byzantine manuscript tradition of Plutarch's Moralia and is preserved in modern critical editions. This treatise exemplifies Plutarch's Middle Platonist methodology, which involved synthesizing and critically presenting historical philosophical doctrines. As a component of the influential Moralia, it played a role in preserving doxographical material, thereby informing later Byzantine and Renaissance scholarship on the history of philosophy.
 
 ## Text
 

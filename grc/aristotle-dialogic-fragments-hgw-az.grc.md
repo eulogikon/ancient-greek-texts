@@ -5,6 +5,7 @@ author: Aristotle
 eul_wid: hgw-az
 eul_aid: hgw
 canonical: "https://eulogikon.org/works/aristotle-dialogic-fragments-hgw-az"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristotle
 
 **eul_wid:** `hgw-az` · [HTML page](https://eulogikon.org/works/aristotle-dialogic-fragments-hgw-az)
-
-The Dialogic Fragments constitute the extant remains of Aristotle’s lost exoteric works, composed in the literary form of Platonic dialogues for a general readership. These popular writings stand in contrast to his surviving esoteric treatises, which were likely intended for use within his school. The dialogues themselves are no longer extant and are known only through quotations, paraphrases, and references by later Greek and Roman authors, including Cicero, Plutarch, and Diogenes Laertius. Among the most significant lost works are On Philosophy, Eudemus (also titled On the Soul), the Protrepticus, On Justice, and On Ideas.
-
-The content of these dialogues reveals Aristotle’s early philosophical engagements. The Eudemus explored the immortality of the soul, employing arguments reminiscent of those in Plato’s Phaedo. The Protrepticus functioned as a philosophical exhortation, urging its audience to adopt the contemplative life. In On Ideas, Aristotle presented critical arguments against the separate existence of Platonic Forms, a cornerstone of his divergence from his teacher. The dialogue On Philosophy discussed theological and cosmological themes, including the nature of the divine and the eternity of the world.
-
-These works were widely circulated and admired in antiquity for their polished literary style but were lost sometime after the first century CE. Their content survives primarily through citations in later authors, paraphrases in commentators such as Alexander of Aphrodisias and Iamblichus, and a small number of papyrus fragments. Modern scholarship has painstakingly reconstructed the dialogues from these scattered sources; a foundational collection is the edition of 796 fragments compiled by Valentin Rose. The fragments are of considerable historical importance, as they were highly influential in the ancient world. For modern scholars, they provide indispensable evidence for tracing the development of Aristotle’s thought from its Platonic origins toward his own mature philosophical system, a central theme in Aristotelian studies since the work of Werner Jaeger.
 
 ## Text
 

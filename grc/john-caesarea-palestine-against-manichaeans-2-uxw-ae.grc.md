@@ -5,6 +5,7 @@ author: John of Caesarea in Palestine
 eul_wid: uxw-ae
 eul_aid: uxw
 canonical: "https://eulogikon.org/works/john-caesarea-palestine-against-manichaeans-2-uxw-ae"
+lang: grc
 period: Late Antique
 dialect: Christian Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** John of Caesarea in Palestine
 
 **eul_wid:** `uxw-ae` · [HTML page](https://eulogikon.org/works/john-caesarea-palestine-against-manichaeans-2-uxw-ae)
-
-_Against the Manichaeans, Homily 2_ is a theological polemic by John of Caesarea in Palestine. This treatise, structured in ten passages, employs grammatical and logical arguments to refute the dualistic doctrines of Manichaeism, particularly its conception of two co-eternal principles of Good and Evil. The homily systematically critiques Manichaean cosmology and theology, focusing on the refutation of dualism and the defense of monotheistic creation from nothing. It argues that evil is not a substantive principle but a privation of good, a corruption or absence of the proper order inherent in creation. The work further advances grammatical and exegetical criticisms of Manichaean scriptural interpretation, analyzing the precise meaning of terms like "good" and "beautiful" to dismantle the opponent's metaphysical framework. As part of the broader corpus of anti-Manichaean literature, this homily contributed to the theological marginalization of Manichaeism within the Roman Empire. It exemplifies the sophisticated application of grammatical and philosophical analysis in early Christian polemic, serving to define and defend orthodox boundaries. The author, John of Caesarea, remains a somewhat obscure figure, and the precise details of the work's manuscript transmission and preservation are not fully established.
 
 ## Text
 

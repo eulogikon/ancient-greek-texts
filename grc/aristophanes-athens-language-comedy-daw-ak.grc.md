@@ -5,6 +5,7 @@ author: Aristophanes of Athens
 eul_wid: daw-ak
 eul_aid: daw
 canonical: "https://eulogikon.org/works/aristophanes-athens-language-comedy-daw-ak"
+lang: grc
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristophanes of Athens
 
 **eul_wid:** `daw-ak` · [HTML page](https://eulogikon.org/works/aristophanes-athens-language-comedy-daw-ak)
-
-The Fragments on Language and Comedy is a modern scholarly compilation attributed to the Athenian comic playwright Aristophanes. It is not an ancient, unified text but a thematic collection of excerpts drawn from his eleven surviving plays and from the fragmentary remains of his lost works. These passages are selected for their explicit engagement with linguistic and metatheatrical themes, reflecting the poet's profound and consistent interest in the mechanics of his own art. The material encompasses Aristophanes' metatheatrical critiques, which include commentary on comic playwriting, attacks on rival poets, and defenses of his own artistic methods. It also features examples of his linguistic innovation, such as the use of obscure dialect words, inventive neologisms, and parodies of tragic or sophistic rhetoric. Further passages illustrate his views on the social and educational function of comedy, often debating the poet's role in satirizing and improving the city-state. The most famous theoretical arguments are found in the agon between Aeschylus and Euripides in his comedy The Frogs, which constitutes a significant early work of literary criticism. The fragments from lost plays are preserved through quotations by later grammarians and compilers like Athenaeus. This curated compilation underscores Aristophanes' importance as a pioneering critic within the comic genre, whose sophisticated analysis of language, poetic purpose, and dramatic theory marks him as a formative figure in the history of aesthetic thought.
 
 ## Text
 

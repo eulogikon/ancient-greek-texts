@@ -5,6 +5,7 @@ author: Mnesimachus of Phaselis
 eul_wid: ekq-aa
 eul_aid: ekq
 canonical: "https://eulogikon.org/works/mnesimachus-phaselis-scythians-cosmology-ekq-aa"
+lang: grc
 period: Classical
 dialect: Ionic
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Mnesimachus of Phaselis
 
 **eul_wid:** `ekq-aa` · [HTML page](https://eulogikon.org/works/mnesimachus-phaselis-scythians-cosmology-ekq-aa)
-
-The work known as On Scythians and Cosmology is attributed to the obscure figure Mnesimachus of Phaselis. The author himself is a subject of confusion, being variably identified in ancient sources as a writer of Middle Comedy or as a historian, with no specific works definitively credited to him. The title, which suggests a combination of Scythian ethnography and cosmological theory, is a modern scholarly reconstruction based on scant surviving references. The work is not attested as a coherent whole in any authoritative ancient source. Instead, our knowledge of it derives entirely from a few later scholiasts, or commentators, who cite Mnesimachus in their notes on other authors. These citations indicate that the work contained discussions on the geographical location of Scythia, debates over whether it was situated in Europe or Asia, and detailed classifications of different types of nymphs, such as celestial, terrestrial, and aquatic varieties, including the Hamadryads who were born and perished with specific trees. The title Apospasmata, meaning "Extracts," further implies the text may have been a collection of excerpts or that it was itself known only through fragmentary quotations in later antiquity. The complete absence of the work from the mainstream historical and literary record highlights the profoundly fragmentary nature of our knowledge of ancient Greek literature. While its proposed themes of ethnography and natural philosophy place it within recognizable Hellenistic traditions, its lack of direct attestation precludes any meaningful assessment of its original scope, structure, or intellectual contribution.
 
 ## Text
 

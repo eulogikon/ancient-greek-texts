@@ -5,6 +5,7 @@ author: Polybius of Megalopolis
 eul_wid: ldg-aa
 eul_aid: ldg
 canonical: "https://eulogikon.org/works/polybius-megalopolis-uncertain-books-ldg-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: History
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Polybius of Megalopolis
 
 **eul_wid:** `ldg-aa` · [HTML page](https://eulogikon.org/works/polybius-megalopolis-uncertain-books-ldg-aa)
-
-The Fragments from Uncertain Books is a collection of 143 passages attributed to the Hellenistic historian Polybius of Megalopolis. These excerpts are preserved not from his surviving Histories but from his numerous lost works. They were compiled primarily in the 10th-century Byzantine anthology known as the Excerpta Historica, commissioned by Emperor Constantine VII Porphyrogennetos. Their designation as “uncertain” indicates that the original book and narrative context for each fragment are unknown to modern scholarship. The fragments reflect the broad scope of Polybius’s historiographical method, encompassing political analysis and constitutional theory, military tactics and geography, ethnographic observations, moralizing anecdotes, and commentary on the role of fortune in human affairs.
-
-These fragments survive indirectly through a process of secondary compilation. They were extracted from Polybius’s complete texts, which are now lost, and arranged thematically in Byzantine collections for reference. This process of excerpting preserved the content of the passages but sacrificed their original narrative context and sequence. The modern standard edition of these fragments is found in critical collections such as the Teubner edition of Polybius. While decontextualized, the fragments significantly expand our understanding of Polybius’s intellectual range beyond the thematic focus of the Histories. Collectively, they illustrate the pragmatic analysis of history, politics, and warfare for which he was renowned. This methodology profoundly influenced later Roman historians, most notably Livy, and his ideas on political cycles and mixed government continued to resonate in political thought from the Renaissance through the Enlightenment.
 
 ## Text
 

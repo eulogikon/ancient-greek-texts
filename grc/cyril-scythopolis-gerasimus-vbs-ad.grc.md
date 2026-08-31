@@ -5,6 +5,7 @@ author: Cyril of Scythopolis
 eul_wid: vbs-ad
 eul_aid: vbs
 canonical: "https://eulogikon.org/works/cyril-scythopolis-gerasimus-vbs-ad"
+lang: grc
 period: Late Antique
 dialect: Christian Koine
 domain: Biography
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Cyril of Scythopolis
 
 **eul_wid:** `vbs-ad` · [HTML page](https://eulogikon.org/works/cyril-scythopolis-gerasimus-vbs-ad)
-
-The Life of Gerasimus is a sixth-century hagiographical work composed in Koine Greek by Cyril of Scythopolis, a monk and historian of Palestinian monasticism. It details the life of the fifth-century ascetic Gerasimus of the Jordan, chronicling his pilgrimage to the Holy Land, his establishment of a monastic community known as a lavra near the Jordan River, his rigorous ascetic practices, and the miracles ascribed to him. The most celebrated of these miracles recounts the saint taming a lion by extracting a thorn from its paw. Preserved in its entirety within Cyril’s collected works, the text is structured as a prose narrative divided into ten distinct sections.
-
-Scholars regard the biography as a historically significant source for understanding the daily routines and spiritual ideals of desert monasticism in late antiquity. Cyril likely composed it to edify his fellow monks, preserve the memory of a revered spiritual elder, and bolster orthodox Chalcedonian Christian identity in a region fraught with theological disputes. The narrative emphasizes core themes of ascetic discipline, harmonious coexistence with the natural world, and the essential role of the abbot as a spiritual guide and healer. The enduring tale of Gerasimus and the lion proved especially influential, becoming a frequent subject in later Christian iconography and literature.
 
 ## Text
 

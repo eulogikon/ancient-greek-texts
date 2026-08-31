@@ -5,6 +5,7 @@ author: Anaximenes of Lampsacus
 eul_wid: fhi-ac
 eul_aid: fhi
 canonical: "https://eulogikon.org/works/anaximenes-lampsacus-historical-rhetorical-fhi-ac"
+lang: grc
 period: Classical
 dialect: Attic
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Anaximenes of Lampsacus
 
 **eul_wid:** `fhi-ac` · [HTML page](https://eulogikon.org/works/anaximenes-lampsacus-historical-rhetorical-fhi-ac)
-
-The Historical and Rhetorical Fragments constitutes a modern scholarly compilation of surviving excerpts from the lost works of Anaximenes of Lampsacus, a Greek historian and rhetorician active in the fourth century BCE. A contemporary and tutor of Alexander the Great, Anaximenes authored significant historical narratives, including works on Philip II of Macedon and Alexander himself, as well as a practical treatise on oratory. The collection assembles forty-six fragments, preserved through quotations in later ancient authors such as Dionysius of Halicarnassus, Harpocration, and Athenaeus. These passages represent the scattered remnants of his historical output, which focused on the political and military deeds of the Macedonian kings. His rhetorical manual, the Rhetorica ad Alexandrum, survives in its entirety but was erroneously attributed to Aristotle throughout antiquity and the medieval period, a misattribution that secured its preservation and influence within the rhetorical tradition. Modern scholarship regards Anaximenes as a valuable, if sometimes stylistically maligned by ancient critics, source for early Macedonian history and as the author of one of the oldest complete handbooks on rhetoric.
 
 ## Text
 

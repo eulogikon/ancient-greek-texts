@@ -5,6 +5,7 @@ author: Isigonus of Nicaea
 eul_wid: ovk-aa
 eul_aid: ovk
 canonical: "https://eulogikon.org/works/isigonus-nicaea-marvelous-customs-ovk-aa"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Isigonus of Nicaea
 
 **eul_wid:** `ovk-aa` · [HTML page](https://eulogikon.org/works/isigonus-nicaea-marvelous-customs-ovk-aa)
-
-The paradoxographical work On Marvelous Peoples and Customs, attributed to Isigonus of Nicaea, is a catalog of marvels concerning distant peoples and their customs. It survives only in fragments preserved by later authors, most notably Pliny the Elder, who cites it for tales of monstrous races and wonders. The text belongs to the Hellenistic or early Imperial tradition of collecting mirabilia. Its fragments describe physically marvelous or monstrous peoples, such as one-eyed or headless races, tribes with exceptional longevity or unusual diets, and bizarre social practices. The work systematically catalogs global wonders in an ethnographic framework. It is lost as an independent text, and its content is known indirectly through quotations in later compilers, primarily Pliny the Elder’s Natural History from the first century CE, with a later mention by the Byzantine patriarch Photius in the ninth century. Isigonus served as a key source for later paradoxographical and encyclopedic writers. Through citations in authors like Pliny, his descriptions contributed to the enduring Western motif of monstrous races inhabiting the world's margins.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Aristotle
 eul_wid: hgw-ao
 eul_aid: hgw
 canonical: "https://eulogikon.org/works/aristotle-divination-sleep-hgw-ao"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristotle
 
 **eul_wid:** `hgw-ao` · [HTML page](https://eulogikon.org/works/aristotle-divination-sleep-hgw-ao)
-
-On Divination by Sleep is a concise treatise by Aristotle, traditionally grouped with his shorter works on natural philosophy known as the Parva Naturalia. The text presents a systematic and naturalistic investigation into the phenomenon of prophetic dreams, deliberately eschewing supernatural explanations in favor of physiological and psychological analysis. Aristotle opens by acknowledging the widespread human belief in the significance of dreams, noting that such common experience cannot be easily dismissed, yet he also finds the notion of divine origin philosophically problematic. He argues that if dreams were divine messages, their haphazard distribution among all people, rather than the wise and virtuous, would be irrational.
-
-The core of Aristotle’s argument seeks to ground the experience within his theories of perception and the soul’s faculties. He proposes that during sleep, when the external senses are dormant, the mind becomes more sensitive to faint internal movements and impressions originating within the body itself. Consequently, dreams are not causal predictors of future external events but can sometimes function as diagnostic "symptoms" or incidental signs. A vivid or peculiar dream might, for instance, reflect the early stirrings of a bodily imbalance or incipient illness, which later manifests in waking life, creating an illusion of prophecy. The dream is thus a coincidental indicator of a present internal state, not a vision of a future external occurrence.
-
-The treatise survives intact within the manuscript tradition of Aristotle’s collected works. While its authenticity has been sporadically questioned by scholars, its methodology and conceptual framework are generally considered consistent with Aristotelian thought, and it is accepted as one of his esoteric, school treatises. Its significance lies in its foundational role for subsequent philosophical and scientific discourse on dreams. By establishing a rigorous naturalistic paradigm, it directly influenced later Peripatetic, Epicurean, and Skeptical thinkers, and its arguments were engaged by Neoplatonist and Renaissance scholars, contributing substantially to the long history of scientific inquiry into the origins and meaning of dreams.
 
 ## Text
 

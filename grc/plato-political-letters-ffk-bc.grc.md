@@ -5,6 +5,7 @@ author: Plato of Athens
 eul_wid: ffk-bc
 eul_aid: ffk
 canonical: "https://eulogikon.org/works/plato-political-letters-ffk-bc"
+lang: grc
 period: Classical
 dialect: Attic Philosophical
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Plato of Athens
 
 **eul_wid:** `ffk-bc` · [HTML page](https://eulogikon.org/works/plato-political-letters-ffk-bc)
-
-Plato's Political Letters is a collection of thirteen epistles traditionally ascribed to the philosopher Plato. The correspondence primarily documents his complex and ultimately unsuccessful political engagements with the court of Dionysius II, tyrant of Syracuse. The most historically and philosophically significant of these are the Seventh and Eighth Letters, composed around 354–353 BCE following the assassination of his friend and associate Dion. These lengthy epistles blend autobiographical narrative with concrete political counsel for Syracuse and a philosophical justification of Plato's own conduct. A notable passage in the Seventh Letter offers a profound meditation on the nature of philosophical understanding and the inherent inadequacy of the written word in conveying it. The collection as a whole varies in scope, with some letters providing detailed constitutional advice and others addressing more personal or diplomatic matters.
-
-The authenticity of the entire corpus has been debated since antiquity. Modern scholarship generally regards the Seventh Letter, and frequently the Eighth, as either genuine or containing a substantial authentic core. These are considered invaluable primary sources for Plato's biography and his practical attempts to realize philosophical principles in Sicilian politics. The remaining letters are widely viewed as later compositions, likely pseudepigraphical works from the Hellenistic period. Despite these disputes over authorship, the full collection of thirteen letters was preserved through the medieval manuscript tradition alongside Plato's dialogues. The letters remain essential texts for examining the perennial tensions between ideal theory and the realities of political power.
 
 ## Text
 

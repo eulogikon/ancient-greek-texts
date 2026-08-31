@@ -1,10 +1,11 @@
 ---
 title: Stereometry
 title_greek: Στερεομετρικά
-author: "Hero of Alexandria "
+author: Hero of Alexandria
 eul_wid: odi-al
 eul_aid: odi
 canonical: "https://eulogikon.org/works/hero-alexandria-stereometry-odi-al"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -16,13 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Στερεομετρικά*
 
-**Author:** Hero of Alexandria 
+**Author:** Hero of Alexandria
 
 **eul_wid:** `odi-al` · [HTML page](https://eulogikon.org/works/hero-alexandria-stereometry-odi-al)
-
-The Stereometry is a practical mathematical treatise on measuring three-dimensional solids, written in Koine Greek by the engineer Hero of Alexandria around 60 CE. The work provides formulas and methods for calculating the volumes and surface areas of both regular geometric shapes and irregular objects. Its 265 instructional passages cover shapes ranging from basic geometric solids like spheres, cones, and cylinders to complex architectural forms such as vaults, as well as natural formations including mounds of grain or sand. This focus explicitly connected theoretical geometry to real-world needs in construction, trade, and taxation, where accurate measurement of materials was essential for commerce and public administration under the Roman Empire.
-
-A complete surviving example of Hellenistic applied mathematics, the treatise is preserved within collections of Hero’s works. It is structured as a manual, likely intended for surveyors, architects, and merchants, offering step-by-step computational procedures often illustrated with numerical examples. The work demonstrates a pragmatic approach, synthesizing and applying theoretical results from earlier mathematicians like Archimedes to solve practical problems. Modern scholars view the Stereometry as a significant link between the abstract geometry of classical Greece and the computational needs of engineering and daily life, representing a tradition of practical mathematics that influenced later Byzantine, Islamic, and Renaissance technical writing.
 
 ## Text
 

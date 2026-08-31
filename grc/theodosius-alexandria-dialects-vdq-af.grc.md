@@ -1,10 +1,11 @@
 ---
 title: On Dialects
 title_greek: Περὶ Διαλέκτων
-author: "Theodosius of Alexandria "
+author: Theodosius of Alexandria
 eul_wid: vdq-af
 eul_aid: vdq
 canonical: "https://eulogikon.org/works/theodosius-alexandria-dialects-vdq-af"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Grammar
@@ -16,13 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Περὶ Διαλέκτων*
 
-**Author:** Theodosius of Alexandria 
+**Author:** Theodosius of Alexandria
 
 **eul_wid:** `vdq-af` · [HTML page](https://eulogikon.org/works/theodosius-alexandria-dialects-vdq-af)
-
-On Dialects is a grammatical treatise by Theodosius of Alexandria, a scholar active in the fourth or fifth century CE. Written in Koine Greek, the work is a concise technical manual comprising seventy-six rules, or canons. It systematically details the inflectional patterns—the changes in word endings for case, number, tense, and other grammatical categories—characteristic of the four major literary dialects: Attic, Ionic, Doric, and Aeolic. Theodosius does not trace the historical development of these dialects but instead provides a structured reference guide. His method demonstrates how forms encountered in classical authors, such as Homer, correspond to the standard Koine Greek of his own era.
-
-The treatise survives intact through the Byzantine manuscript tradition, frequently copied alongside other standard grammatical textbooks. It was likely composed for a practical pedagogical purpose: to aid students and teachers in navigating the dialectal variations found in the revered but increasingly archaic literary canon. Modern scholarship views the work as a product of the Alexandrian grammatical tradition, which sought to create precise reference tools to systematize and preserve the study of the Greek language. Its methodical approach ensured its status as a standard textbook in Byzantine education for centuries, significantly shaping how classical Greek literature was read and taught.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Antiphanes the Comic Poet
 eul_wid: fgy-ab
 eul_aid: fgy
 canonical: "https://eulogikon.org/works/antiphanes-comic-food-folly-fgy-ab"
+lang: grc
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Antiphanes the Comic Poet
 
 **eul_wid:** `fgy-ab` · [HTML page](https://eulogikon.org/works/antiphanes-comic-food-folly-fgy-ab)
-
-The comic fragments attributed to Antiphanes, a leading Athenian playwright of the 4th century BCE, represent the scattered remains of a vast and influential body of work. As a central figure in the period known as Middle Comedy, Antiphanes is credited with composing hundreds of plays, though none have survived in their complete form. His legacy endures through approximately 979 fragments, consisting of play titles and quoted passages preserved by later authors. These excerpts provide critical insight into a transitional phase of the comic genre, marking a movement away from the direct political invective and fantastical plots of Old Comedy toward a greater focus on social types, domestic situations, and mythological parody.
-
-The fragments frequently converge on two interrelated subjects: the elaborate preparation and consumption of food, and the satirical observation of human folly. They are populated by a cast of stock characters that would become staples of later comic tradition, including the bombastic professional cook, the insatiable parasite, and the pretentious philosopher. Through their dialogue and monologues, these fragments offer a vivid, if humorous, commentary on Athenian daily life and social customs, particularly the rituals of dining and entertainment. The development of the cook as a loquacious, self-important specialist within these fragments is especially significant, as it prefigures his prominent role in Roman New Comedy.
-
-The preservation of Antiphanes’s work is entirely secondary. His complete plays were lost in antiquity, and the fragments exist today almost solely because they were excerpted by later Greek and Roman writers who found them illustrative of language, custom, or humor. The most substantial source is Athenaeus of Naucratis, who in the 2nd or 3rd century CE included hundreds of these quotations in his sprawling compendium, The Learned Banqueters, often citing them for their descriptions of food, drink, and social types. Modern scholarly editions have systematically collected and numbered these scattered citations, allowing the thematic preoccupations and stylistic flair of this prolific comic poet to be studied despite the loss of his plays as integrated artistic wholes.
 
 ## Text
 

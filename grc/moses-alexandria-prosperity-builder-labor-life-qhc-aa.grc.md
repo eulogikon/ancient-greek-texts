@@ -1,10 +1,11 @@
 ---
 title: Prosperity and Success of the Builder and Success of Labor and Long Life
 title_greek: Εὐποία καὶ εὐτυχία τοῦ κτισαμένου καὶ ἐπιτυχία
-author: "Moses of Alexandria "
+author: Moses of Alexandria
 eul_wid: qhc-aa
 eul_aid: qhc
 canonical: "https://eulogikon.org/works/moses-alexandria-prosperity-builder-labor-life-qhc-aa"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -16,11 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Εὐποία καὶ εὐτυχία τοῦ κτισαμένου καὶ ἐπιτυχία*
 
-**Author:** Moses of Alexandria 
+**Author:** Moses of Alexandria
 
 **eul_wid:** `qhc-aa` · [HTML page](https://eulogikon.org/works/moses-alexandria-prosperity-builder-labor-life-qhc-aa)
-
-The treatise Prosperity and Success of the Builder and Success of Labor and Long Life is a concise astrological work conventionally attributed to Moses of Alexandria. Preserved within the corpus of Greek astrological writings in medieval manuscripts, this text belongs to the tradition of katarchic astrology, which is concerned with determining the most auspicious moments to commence specific undertakings. Its sixteen passages focus on selecting propitious celestial conditions for initiating building projects and other forms of labor, with the aim of securing prosperity, success, and longevity for the builder or worker. The technical content involves correlating favorable outcomes with specific planetary positions, zodiacal signs, lunar phases, and astrological techniques such as identifying the ruling planet of a given hour. Its attribution to Moses of Alexandria, a pseudonymous figure often associated with the transmission of Eastern astrological knowledge into Greek, likely aided its preservation and circulation. The work exemplifies the practical, advisory application of astrology in the Greco-Roman world for both public and private enterprises, and its principles contributed to the broader stream of astrological knowledge that influenced later Arabic and medieval Latin traditions.
 
 ## Text
 

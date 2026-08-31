@@ -5,6 +5,7 @@ author: Crantor of Soli
 eul_wid: hhq-ab
 eul_aid: hhq
 canonical: "https://eulogikon.org/works/crantor-soli-atlantis-commentary-hhq-ab"
+lang: grc
 period: Classical
 dialect: "Attic (phi, frg)"
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Crantor of Soli
 
 **eul_wid:** `hhq-ab` · [HTML page](https://eulogikon.org/works/crantor-soli-atlantis-commentary-hhq-ab)
-
-Crantor of Soli’s Commentary on Plato's Atlantis stands as the earliest known commentary on any of Plato’s works. Composed around 300 BCE, this philosophical treatise from the Hellenistic period provided an exegesis of Plato’s Timaeus, with particular focus on the narrative of Atlantis. The work itself is now lost, surviving only in approximately twelve fragmentary passages preserved by later authors, most notably the Neoplatonist philosopher Proclus. According to Proclus’s report, Crantor advanced a literal, historical interpretation of the Atlantis myth, rejecting allegorical readings. He maintained that the story was based on genuine records, asserting that Egyptian priests had shown Plato’s ancestor Solon inscribed pillars which documented the history of Atlantis and its conflict with ancient Athens. Crantor presented this as external validation for Plato’s account, framing it not as invention but as recovered history. Modern scholarship regards his commentary as a foundational work of scholarly exegesis, intended to defend and clarify Plato’s text for contemporaries within the Early Academy. His insistence on the literal reality of Atlantis established a precedent that profoundly influenced subsequent traditions, providing the cornerstone for all later literal interpretations of the lost civilization.
 
 ## Text
 

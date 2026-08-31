@@ -5,6 +5,7 @@ author: Oribasius of Pergamon
 eul_wid: soi-ad
 eul_aid: soi
 canonical: "https://eulogikon.org/works/oribasius-pergamon-medicinal-selections-soi-ad"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Oribasius of Pergamon
 
 **eul_wid:** `soi-ad` · [HTML page](https://eulogikon.org/works/oribasius-pergamon-medicinal-selections-soi-ad)
-
-The Selections of Medicines is a fourth-century CE pharmacological compendium by the physician Oribasius of Pergamon. Written as a practical handbook for students and practitioners, it systematically presents approximately 900 drug recipes and prescriptions. The work is a curated anthology, synthesizing and preserving therapeutic knowledge from earlier authorities such as Galen and Dioscorides. Oribasius, who served as personal physician to Emperor Julian, organized the material into clear chapters focused on applied remedies for specific ailments, prioritizing practical preparation and use over theoretical discourse. As part of a broader late antique project to systematize classical learning, the compendium was highly valued within the Byzantine medical tradition. Its survival through medieval manuscripts facilitated the transmission of Greek pharmacological knowledge, influencing later Byzantine and Arabic medical compilers.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Archigenes of Apamea
 eul_wid: owe-aa
 eul_aid: owe
 canonical: "https://eulogikon.org/works/archigenes-apamea-unpublished-fragments-owe-aa"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Archigenes of Apamea
 
 **eul_wid:** `owe-aa` · [HTML page](https://eulogikon.org/works/archigenes-apamea-unpublished-fragments-owe-aa)
-
-The Unpublished Fragments attributed to Archigenes of Apamea represent a modern collection of excerpts from the lost works of a significant physician of the Pneumatist school, who practiced in Rome during the reign of the emperor Trajan. None of his treatises survive intact; his medical legacy is known solely through citations preserved by later authors. The fragments indicate that Archigenes made notable contributions to several areas of medicine. He developed a sophisticated and influential system of pulse diagnosis for assessing a patient's condition. His work in pharmacology was extensive, with a focus on the preparation and use of compound drugs. He also wrote on surgical procedures and classified diseases according to the principles of Pneumatist physiology, which explained health and illness through the balance of the vital spirit, or pneuma, and the elemental qualities within the body. His ideas were transmitted and critically engaged with by subsequent medical authorities, most prominently Galen, with further citations appearing in the works of Aëtius of Amida and Paul of Aegina. Through this later reception, Archigenes's concepts concerning the pulse, pharmacology, and disease theory remained a part of medical discourse for centuries, indirectly influencing the development of both medieval Islamic and Western medical traditions.
 
 ## Text
 

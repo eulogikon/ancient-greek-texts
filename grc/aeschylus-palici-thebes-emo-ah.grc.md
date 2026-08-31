@@ -5,6 +5,7 @@ author: Aeschylus the Tragedian
 eul_wid: emo-ah
 eul_aid: emo
 canonical: "https://eulogikon.org/works/aeschylus-palici-thebes-emo-ah"
+lang: grc
 period: Classical
 dialect: Attic Drama
 domain: Drama
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aeschylus the Tragedian
 
 **eul_wid:** `emo-ah` · [HTML page](https://eulogikon.org/works/aeschylus-palici-thebes-emo-ah)
-
-The Fragments on the Palici and Thebes is a modern scholarly designation for a collection of 1240 fragmentary passages attributed to the lost plays of Aeschylus. These fragments, drawn from approximately eighty lost tragedies in addition to his seven surviving works, are compiled in modern critical editions such as Stefan Radt’s Tragicorum Graecorum Fragmenta. The title references two distinct mythological cycles treated by Aeschylus: the Sicilian chthonic deities known as the Palici, and the stories of the Theban cycle. The fragments are preserved indirectly through quotations by later Greek authors such as Strabo and Athenaeus, through papyrus discoveries, and via ancient plot summaries.
-
-Collectively, these fragments illustrate the vast thematic and geographical scope of Aeschylean drama. Inferred subjects from play titles and the fragmentary content include divine justice and retribution, the nature of chthonic powers and associated cult practices, foundational city myths and civic strife as seen in Theban narratives, and profound familial conflicts. The material is particularly significant for demonstrating the interplay between Athenian tragedy and the wider Greek world, especially in its engagement with Sicilian religious cult. These remnants are crucial for understanding the breadth of classical Athenian tragedy, the development and treatment of major mythological cycles, and the extensive influence of Aeschylus on subsequent literature.
 
 ## Text
 

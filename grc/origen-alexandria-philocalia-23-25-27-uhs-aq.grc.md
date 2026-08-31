@@ -5,6 +5,7 @@ author: Origen of Alexandria
 eul_wid: uhs-aq
 eul_aid: uhs
 canonical: "https://eulogikon.org/works/origen-alexandria-philocalia-23-25-27-uhs-aq"
+lang: grc
 period: Late Antique
 dialect: Christian Koine
 domain: Theology
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Origen of Alexandria
 
 **eul_wid:** `uhs-aq` · [HTML page](https://eulogikon.org/works/origen-alexandria-philocalia-23-25-27-uhs-aq)
-
-The Philocalia is a theological anthology compiled in the late fourth century by Basil of Caesarea and Gregory of Nazianzus. Its full title, Philocalia or Selection of the Useful Passages from the Works of Origen, indicates its purpose: to preserve the most valuable exegetical and theological insights of the earlier scholar Origen of Alexandria while implicitly distancing the compilers from his more controversial speculative doctrines. The work comprises 27 chapters of excerpts, with chapters 23, 25, 26, and 27 forming a significant unit addressing the interpretation of scripture and the relationship between divine foreknowledge and human free will. These chapters, drawn from Origen’s commentary on Genesis, argue against astrological determinism, asserting that celestial bodies are signs established by divine power rather than causes of human affairs. The compilers systematically present Origen’s hermeneutical principles, particularly his method of distinguishing between the literal and spiritual senses of biblical texts to resolve apparent contradictions. Modern scholarship views this compilation as a deliberate and strategic effort by Basil and Gregory to rehabilitate Origen’s brilliant exegetical methodology for orthodox use during a period of intense doctrinal controversy. The entire anthology survives in Greek manuscripts, the oldest of which dates to the eleventh century. Its curated, orthodox-friendly character is considered instrumental to its preservation and its enduring influence on biblical interpretation and ascetic spirituality within the Eastern Christian tradition.
 
 ## Text
 

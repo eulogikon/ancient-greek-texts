@@ -5,6 +5,7 @@ author: Lollianus the Erotic Writer
 eul_wid: qek-aa
 eul_aid: qek
 canonical: "https://eulogikon.org/works/lollianus-phoenician-matters-qek-aa"
+lang: grc
 period: Roman
 dialect: Koine
 domain: Fiction
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Lollianus the Erotic Writer
 
 **eul_wid:** `qek-aa` · [HTML page](https://eulogikon.org/works/lollianus-phoenician-matters-qek-aa)
-
-Phoenician Matters, also known as the Phoenician Story, is a fragmentary ancient Greek novel attributed to an author named Lollianus, who is identified in the surviving manuscript as Lollianus the erotic writer. Likely composed during the 2nd century CE, the work belongs to the broader genre of ancient Greek prose fiction. Its transmission depends entirely on papyrus fragments discovered in Egypt, with only a small portion of the narrative extant. The surviving text narrates a sensational episode in which the protagonist witnesses a band of outlaws performing a gruesome human sacrifice, swearing an oath over the victim’s heart, and engaging in ritualized sexual acts. The protagonist is subsequently compelled to participate and is initiated into the group. This graphic content, which combines extreme violence, explicit sexuality, and elements of horror, corresponds with the ancient reputation of Lollianus as a writer of erotic and sensational fiction. Modern scholarship regards the work as a significant example of a popular subgenre within the ancient novel, one characterized by explicit and violent themes that stand in contrast to the more idealistic romantic tales of the period. While the title suggests a narrative connection to the Phoenician region, the fragmentary state of the text provides no clear geographical setting, and the full plot and structure of the novel remain lost.
 
 ## Text
 

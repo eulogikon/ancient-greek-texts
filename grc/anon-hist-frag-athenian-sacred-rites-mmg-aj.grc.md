@@ -5,6 +5,7 @@ author: Historical Fragments  Anonymous
 eul_wid: mmg-aj
 eul_aid: mmg
 canonical: "https://eulogikon.org/works/anon-hist-frag-athenian-sacred-rites-mmg-aj"
+lang: grc
 period: Hellenistic
 dialect: Mixed Dialects (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Historical Fragments  Anonymous
 
 **eul_wid:** `mmg-aj` · [HTML page](https://eulogikon.org/works/anon-hist-frag-athenian-sacred-rites-mmg-aj)
-
-_On Athenian Sacred Rites_ is an anonymous collection of nine fragmentary passages concerning Athenian religious practices and sanctuaries. It survives as part of a larger antiquarian compilation known as the _Historical Fragments_, transmitted within the medieval manuscript tradition. The work is presented in the format of excerpted notes rather than a continuous treatise, and the original scope of the source material from which these excerpts were drawn remains unknown. The passages address specific elements of Athenian cultic life, including details of various cults and rituals, descriptions of sanctuaries and sacred spaces, and points of religious antiquities and local history, placing it within the tradition of Atthidography. Its significance lies in its contribution to the corpus of Atthidographic fragments, providing specific data points that supplement evidence from more extensive literary authors and epigraphic sources, thereby aiding the modern reconstruction of Athenian religious history and sacred topography.
 
 ## Text
 

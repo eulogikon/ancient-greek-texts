@@ -5,6 +5,7 @@ author: Tatian the Assyrian
 eul_wid: pci-aa
 eul_aid: pci
 canonical: "https://eulogikon.org/works/tatian-assyrian-oration-greeks-pci-aa"
+lang: grc
 period: Roman
 dialect: Christian Koine
 domain: Theology
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Tatian the Assyrian
 
 **eul_wid:** `pci-aa` · [HTML page](https://eulogikon.org/works/tatian-assyrian-oration-greeks-pci-aa)
-
-The Oration to the Greeks is an apologetic treatise composed in Koine Greek around 170 CE by Tatian the Assyrian, a Christian theologian and student of Justin Martyr. This polemical work, comprising 109 chapters, presents a sustained argument for the superiority of ancient non-Greek, or "barbarian," wisdom—with Christian doctrine as its ultimate expression—over every facet of Greek civilization. Tatian systematically critiques Greek religion, philosophy, historiography, and social customs such as theater and athletics, depicting them as recent, derivative, and morally decadent inventions. He counters this by portraying the teachings of the Bible as the most ancient, coherent, and authoritative source of truth.
-
-A product of the second-century Christian endeavor to establish a distinct identity against the prevailing Hellenistic culture, Tatian's approach is distinguished by its thoroughgoing hostility. Scholars view the oration both as a defense addressed to educated Greek audiences and as an internal exhortation for Christians to renounce Greco-Roman culture entirely. Tatian's self-proclaimed Assyrian heritage informs this "barbarian" standpoint and anticipates his later ascetic teachings. The work survives in its entirety through numerous Greek manuscripts, preserved for its forceful apologetic value despite Tatian's subsequent condemnation for heresy. It remains an essential document of the radical, rejectionist stance within early Christianity toward the surrounding Greco-Roman world.
 
 ## Text
 

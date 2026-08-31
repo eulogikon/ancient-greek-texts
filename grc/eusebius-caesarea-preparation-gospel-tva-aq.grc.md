@@ -5,6 +5,7 @@ author: Eusebius of Caesarea
 eul_wid: tva-aq
 eul_aid: tva
 canonical: "https://eulogikon.org/works/eusebius-caesarea-preparation-gospel-tva-aq"
+lang: grc
 period: Late Antique
 dialect: Christian Koine
 domain: Theology
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Eusebius of Caesarea
 
 **eul_wid:** `tva-aq` · [HTML page](https://eulogikon.org/works/eusebius-caesarea-preparation-gospel-tva-aq)
-
-The Praeparatio Evangelica, or "Preparation for the Gospel," is a major apologetic treatise in fifteen books by Eusebius of Caesarea, the early Christian bishop and historian. Composed in Koine Greek between approximately 313 and 324 CE, it constitutes the first part of a systematic two-part defense of Christianity, its companion being the Demonstratio Evangelica, or "Proof of the Gospel." The work is addressed to educated pagans and Hellenized Jews, aiming first to refute pagan religions and philosophies before establishing the antiquity and superiority of Hebrew scripture as the true precursor to the Christian faith. The text survives largely intact in numerous Greek manuscripts. Its argument is constructed as an extensive scholarly compilation, featuring thousands of verbatim excerpts from a vast array of Greek, Phoenician, Egyptian, and Jewish sources. This method of citation preserves fragments from many ancient authors whose works are otherwise lost, rendering the Praeparatio Evangelica an invaluable resource for classical philosophy and historiography. Modern scholarship interprets the treatise as a product of its specific historical context, written after the end of the Great Persecution and during the reign of Constantine the Great. It was designed to furnish Christianity with a robust intellectual foundation appropriate for its new public role within the Roman Empire. Eusebius's vision of a Christian empire under divine providence, alongside his technique of employing pagan sources to argue for Christian truth, proved highly influential on subsequent theologians and historians.
 
 ## Text
 

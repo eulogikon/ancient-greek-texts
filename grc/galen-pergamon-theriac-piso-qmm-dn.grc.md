@@ -5,6 +5,7 @@ author: Galen of Pergamon
 eul_wid: qmm-dn
 eul_aid: qmm
 canonical: "https://eulogikon.org/works/galen-pergamon-theriac-piso-qmm-dn"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Galen of Pergamon
 
 **eul_wid:** `qmm-dn` · [HTML page](https://eulogikon.org/works/galen-pergamon-theriac-piso-qmm-dn)
-
-On Theriac to Piso is a medical treatise composed in Greek by the physician Galen of Pergamon around 204 CE. Addressed to a Roman aristocrat named Piso, the work provides a comprehensive exposition on theriac, a celebrated compound antidote and panacea believed to neutralize poisons and treat a wide spectrum of ailments. Galen presents his own authoritative recipe in meticulous detail across eighty-five sections, enumerating over seventy ingredients such as opium, viper flesh, and a vast array of herbs and spices. He offers precise instructions for the compound’s preparation, which required lengthy aging to achieve its purported potency. The treatise advocates for theriac’s use both as a curative and a prophylactic agent, while simultaneously critiquing the formulas and therapeutic claims of rival medical practitioners.
-
-The text survives in full through a substantial manuscript tradition dating from the Byzantine period. For modern scholarship, it stands as a prime example of Galen’s strategy to consolidate his professional authority by combining empirical pharmacological description with the cultivation of elite patronage, illustrating the significant social and intellectual prestige attached to pharmacy in the Roman imperial world. The treatise proved to be one of the most influential pharmacological texts in history, effectively standardizing the formula for "Galen’s theriac" for more than a millennium and profoundly shaping pharmaceutical practice in Byzantine, Arabic, and later European medical traditions.
 
 ## Text
 

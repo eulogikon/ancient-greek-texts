@@ -5,6 +5,7 @@ author: Alexander of Aetolia
 eul_wid: iuc-aa
 eul_aid: iuc
 canonical: "https://eulogikon.org/works/alexander-aetolia-helios-heroes-iuc-aa"
+lang: grc
 period: Hellenistic
 dialect: Attic (frg)
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alexander of Aetolia
 
 **eul_wid:** `iuc-aa` · [HTML page](https://eulogikon.org/works/alexander-aetolia-helios-heroes-iuc-aa)
-
-The Fragments on Helios and Heroes is a lost poetic work by the Hellenistic poet Alexander of Aetolia. Its existence is recorded solely in a tenth-century CE entry in the Suda, a Byzantine encyclopedia, which lists it as a single book of forty-eight lines. The title, which translates to Fragments on Helios and Heroes, suggests the work was a collection of thematic excerpts or epigrams. No direct quotations from it survive in any other ancient or medieval source, making the bibliographic note in the Suda the sole evidence for the collection. Based on its title and the scholarly, Alexandrian context of its author, the collection likely treated interconnected mythological themes, exploring the nature and myths of the sun god Helios, the deeds and cults of Greek heroes, and the relationship between divine power and human excellence. Its mention contributes to the record of Hellenistic literary production, exemplifying the specialized, minor poetic works from the period that were not transmitted to later eras.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Sophistical Refutations Anonymous
 eul_wid: vls-af
 eul_aid: vls
 canonical: "https://eulogikon.org/works/anon-soph-ref-commentary-aristotle-vls-af"
+lang: grc
 period: Late Antique
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,22 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Sophistical Refutations Anonymous
 
 **eul_wid:** `vls-af` · [HTML page](https://eulogikon.org/works/anon-soph-ref-commentary-aristotle-vls-af)
-
-Overview The work is an anonymous Greek commentary, titled Ὑπόμνημα εἰς τὸν Ἀριστοτέλη Ἑλληνιστί, on Aristotle’s Sophistical Refutations (De Sophisticis Elenchis). It consists of 140 discrete passages or notes (ὑπομνήματα) and belongs to the corpus of late antique exegetical literature on Aristotle's logical works produced within Aristotelian and Neoplatonic scholastic traditions.
-
-Content As a commentary on the Sophistical Refutations—a treatise analyzing fallacious arguments—its themes logically involve:
-
-The analysis and classification of logical fallacies, such as equivocation or begging the question.
-
-The distinction between sophistical and genuine refutations in dialectic.
-
-Methods for resolving fallacious arguments.
-
-The relationship between logic, language, and ontology.
-
-Transmission The commentary is known only from its catalog entry. Like many anonymous works, its transmission history is obscure, though such texts were often preserved through Byzantine manuscript traditions, sometimes as compilations from lecture notes.
-
-Significance While the specific influence of this anonymous text is unassessed, it represents a witness to the pedagogical and interpretive practices of late antique Aristotelianism. Such commentaries were essential vehicles for transmitting Aristotelian logic through Byzantine, Arabic, and Latin scholastic traditions.
 
 ## Text
 

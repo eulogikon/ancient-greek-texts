@@ -5,6 +5,7 @@ author: Galen of Pergamon
 eul_wid: qmm-bf
 eul_aid: qmm
 canonical: "https://eulogikon.org/works/galen-pergamon-drugs-by-places-qmm-bf"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Galen of Pergamon
 
 **eul_wid:** `qmm-bf` · [HTML page](https://eulogikon.org/works/galen-pergamon-drugs-by-places-qmm-bf)
-
-On the Composition of Drugs by Places is a major medical treatise by the physician Galen of Pergamon, composed in Greek around 170–180 CE. This ten-book work serves as a comprehensive and systematic guide to formulating compound medicines, organized methodically according to the specific part of the body requiring treatment, beginning with the head and proceeding downwards. It contains hundreds of detailed recipes for ointments, plasters, pills, and other remedies, each specifying ingredients, methods of preparation, and applications for particular ailments. Galen wrote the treatise during his service as a physician to the Roman imperial court, intending it as a practical manual for fellow doctors and students. The work represents a key part of his broader project to systematize medical knowledge, blending his extensive clinical experience with a critical synthesis of earlier pharmacological authorities. It is also interpreted as a deliberate effort to counter the secretive and often obscure drug practices of some contemporary healers by providing a rational, transparent, and empirically tested pharmacological compendium. The complete text of the treatise survives, and its influence was profound and enduring. Transmitted through Greek, Arabic, and Latin scholarly traditions, it remained a foundational text for pharmacological theory and practice for well over a millennium.
 
 ## Text
 

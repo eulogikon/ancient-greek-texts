@@ -5,6 +5,7 @@ author: Sappho and Alcaeus of Lesbos
 eul_wid: aqe-aa
 eul_aid: aqe
 canonical: "https://eulogikon.org/works/sappho-alcaeus-lesbos-fragments-aqe-aa"
+lang: grc
 period: Archaic
 dialect: Aeolic
 domain: Poetry
@@ -19,12 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Sappho and Alcaeus of Lesbos
 
 **eul_wid:** `aqe-aa` · [HTML page](https://eulogikon.org/works/sappho-alcaeus-lesbos-fragments-aqe-aa)
-
-The Fragments of Sappho and Alcaeus constitute the extant corpus of two foundational lyric poets from the island of Lesbos. Sappho and Alcaeus were near contemporaries active in the late seventh and early sixth centuries BCE, composing monodic lyric poetry for solo performance, typically accompanied by the lyre, in the Aeolic dialect. Their original works, which in antiquity were collected into several books, survive only in a fragmentary state. These remnants are preserved through three primary channels: citations by later Greek and Roman authors, fragments of papyrus scrolls recovered from Egyptian sites such as Oxyrhynchus, and palimpsests where their texts were overwritten on reused parchment.
-
-The recovered fragments delineate two distinct poetic spheres. Sappho’s verse is characterized by its intense focus on the personal and emotional realms of love, longing, friendship, and the rituals of a female community. In contrast, the poetry of Alcaeus frequently engages with the political tumult and exile he endured in his native Mytilene, alongside compositions for symposia and hymns to the gods. Modern scholarship regards Sappho’s fragments as invaluable evidence for the social and ritual lives of women in Archaic Greece, while Alcaeus is viewed as a quintessential political poet whose work later influenced Roman lyricists, most notably Horace.
-
-The transmission of their complete works was severely disrupted after antiquity, as their poetry was not incorporated into the standard Byzantine educational canon. Consequently, the surviving corpus consists of fragments—often mere phrases, isolated lines, or partial stanzas—that provide poignant, though incomplete, insights into their artistic achievement. Despite their fragmentary nature, their influence has been profound, from their inclusion among the canonical Nine Lyric Poets in the Hellenistic period to the resurgence of scholarly and literary interest spurred by major papyrus discoveries in the nineteenth and twentieth centuries.
 
 ## Text
 

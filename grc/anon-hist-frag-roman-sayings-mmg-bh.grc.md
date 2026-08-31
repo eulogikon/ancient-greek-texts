@@ -5,6 +5,7 @@ author: Historical Fragments  Anonymous
 eul_wid: mmg-bh
 eul_aid: mmg
 canonical: "https://eulogikon.org/works/anon-hist-frag-roman-sayings-mmg-bh"
+lang: grc
 period: Hellenistic
 dialect: Mixed Dialects (frg)
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Historical Fragments  Anonymous
 
 **eul_wid:** `mmg-bh` · [HTML page](https://eulogikon.org/works/anon-hist-frag-roman-sayings-mmg-bh)
-
-The Roman Sayings is a minor collection of apophthegms attributed in its manuscript tradition to either Plutarch or Caecilius. The work survives in a single 14th-century codex, which presents a brief prefatory reflection on the nature of Roman wisdom in contrast to the Greek tradition. This introduction argues that the ancient Romans deliberately avoided the appearance of sophistry, seeking renown not through clever or persuasive maxims—such as the famous Greek pronouncements "nothing in excess" or "know thyself"—but through the practice of virtuous deeds. The text cites the Peripatetic philosopher Dicaearchus to support the view that true philosophy in earlier times was an exercise in noble action rather than a skill in popular oratory. The collection itself, implied by the title, would presumably consist of terse, practical sayings exemplifying this Roman ideal of wisdom embodied in conduct rather than elaborate speech. Its transmission is extremely limited, and its scholarly significance lies primarily as a late attestation to enduring ancient discourses comparing Greek and Roman cultural values, though the authenticity of its attribution remains uncertain.
 
 ## Text
 

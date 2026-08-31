@@ -5,6 +5,7 @@ author: Libanius of Antioch
 eul_wid: swk-ag
 eul_aid: swk
 canonical: "https://eulogikon.org/works/libanius-antioch-declamations-swk-ag"
+lang: grc
 period: Late Antique
 dialect: Atticizing
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Libanius of Antioch
 
 **eul_wid:** `swk-ag` · [HTML page](https://eulogikon.org/works/libanius-antioch-declamations-swk-ag)
-
-The Declamations 1–51 is a collection of fifty-one model rhetorical speeches composed by Libanius of Antioch, a preeminent teacher of rhetoric in the fourth century CE. Written in refined Attic Greek, the work consists of 537 individual passages and functioned as a core textbook for advanced students of oratory. The exercises encompass standard rhetorical forms, including anecdotes, narratives, and arguments for or against a specific person or law. They are broadly categorized into two types: historical declamations set within the framework of classical Greek history and fictitious declamations that employ generic characters and scenarios.
-
-The complete collection has been preserved through centuries of Byzantine manuscript transmission, a testament to its enduring role in rhetorical education. Libanius crafted these speeches both as demonstrations of his own rhetorical artistry and as practical models for his students in Antioch, a major center of Hellenic learning. Modern scholarship interprets the work as a deliberate project to sustain Greek cultural identity and the classical tradition of paideia, or education, during an era of increasing Christian influence within the Roman Empire. By practicing sophisticated argumentation on themes drawn from the Greek past, students were trained for public life while simultaneously reinforcing their connection to a shared classical heritage.
 
 ## Text
 

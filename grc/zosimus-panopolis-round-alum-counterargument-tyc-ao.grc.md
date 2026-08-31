@@ -5,6 +5,7 @@ author: Zosimus of Panopolis
 eul_wid: tyc-ao
 eul_aid: tyc
 canonical: "https://eulogikon.org/works/zosimus-panopolis-round-alum-counterargument-tyc-ao"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Zosimus of Panopolis
 
 **eul_wid:** `tyc-ao` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-round-alum-counterargument-tyc-ao)
-
-On the Use of Round Alum, Counterargument is a short technical treatise by the Greco-Egyptian alchemist Zosimus of Panopolis, composed in Koine Greek around 300 CE. Structured as a focused corrective argument, the work directly refutes a prior discussion on the properties and laboratory use of a specific substance called "round alum." It exemplifies the practical, recipe-based dimension of ancient alchemy, emphasizing precise material knowledge and correct procedure. The brief text survives complete within the larger corpus of Greek alchemical writings, preserved notably in Byzantine compilations such as the 10th- or 11th-century manuscript known as Marcianus graecus 299. Modern scholars interpret the treatise as evidence of active debate and the refinement of techniques within a specialist community of practitioners in late Roman Egypt. Likely written for fellow alchemists or students engaged in hands-on experimental work, it combines craft knowledge from metallurgy or dyeing with the philosophical aims of alchemy. As part of Zosimus's influential body of work, this technical argument helped transmit Greco-Egyptian chemical knowledge into later Byzantine and Arabic alchemical traditions.
 
 ## Text
 

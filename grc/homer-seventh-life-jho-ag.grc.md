@@ -5,6 +5,7 @@ author: Homer Life-anonymous
 eul_wid: jho-ag
 eul_aid: jho
 canonical: "https://eulogikon.org/works/homer-seventh-life-jho-ag"
+lang: grc
 period: Hellenistic
 dialect: Mixed Dialects
 domain: Biography
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Homer Life-anonymous
 
 **eul_wid:** `jho-ag` · [HTML page](https://eulogikon.org/works/homer-seventh-life-jho-ag)
-
-The Seventh Life is a pseudepigraphical prose biography spuriously attributed to Homer. It belongs to a late antique or Byzantine tradition of fictional Lives of Homer, which contain largely legendary material about the poet’s origins. The title suggests it was one among several such accounts. The work is a legendary biography that fits within the established genre of Homeric pseudepigrapha. It is obscure and not mentioned in standard sources for Homeric studies; its description as a single passage indicates it is either a very short text or a fragment, possibly preserved in a later manuscript compilation. While the text itself had no discernible influence, it exemplifies the enduring cultural practice of crafting fictional narratives around the iconic figure of Homer, reflecting later audiences’ interests in the poet’s lore rather than historical fact.
 
 ## Text
 

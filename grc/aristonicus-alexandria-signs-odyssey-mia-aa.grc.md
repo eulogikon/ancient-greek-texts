@@ -5,6 +5,7 @@ author: Aristonicus of Alexandria
 eul_wid: mia-aa
 eul_aid: mia
 canonical: "https://eulogikon.org/works/aristonicus-alexandria-signs-odyssey-mia-aa"
+lang: grc
 period: Hellenistic
 dialect: Technical Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristonicus of Alexandria
 
 **eul_wid:** `mia-aa` · [HTML page](https://eulogikon.org/works/aristonicus-alexandria-signs-odyssey-mia-aa)
-
-On Signs in the Odyssey was a prose commentary by the Alexandrian grammarian Aristonicus, written in the 1st century BCE. The work served as a detailed scholarly guide to the system of critical marks, known as sēmeia, found in texts of Homer's Odyssey. These editorial symbols, such as the asterisk and obelus, were originally employed by earlier scholars like Aristarchus of Samothrace to annotate lines considered spurious, linguistically problematic, or repetitious. Aristonicus systematically compiled and explained the reasoning behind these textual judgments across thousands of specific passages, with ancient sources recording his commentary on 4,645 lines. The original treatise is now lost, surviving only in fragments and quotations preserved within the medieval collections of Homeric commentary known as the scholia vetera. Modern scholarship interprets the work as a crucial effort to systematize and transmit the influential textual criticism of the Alexandrian school, particularly the methods of Aristarchus. Written for fellow scholars and students engaged in the preservation of authoritative Homeric texts, Aristonicus's explanations became a foundational source for later compilers of Homeric commentaries, ensuring the principles of Alexandrian scholarship endured through the Byzantine period and beyond.
 
 ## Text
 

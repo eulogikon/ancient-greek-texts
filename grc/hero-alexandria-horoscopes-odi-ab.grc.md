@@ -1,10 +1,11 @@
 ---
 title: Fragments-Horoscopes
 title_greek: Ἀποσπάσματα περὶ Ὡροσκοπίων
-author: "Hero of Alexandria "
+author: Hero of Alexandria
 eul_wid: odi-ab
 eul_aid: odi
 canonical: "https://eulogikon.org/works/hero-alexandria-horoscopes-odi-ab"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Science
@@ -16,13 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀποσπάσματα περὶ Ὡροσκοπίων*
 
-**Author:** Hero of Alexandria 
+**Author:** Hero of Alexandria
 
 **eul_wid:** `odi-ab` · [HTML page](https://eulogikon.org/works/hero-alexandria-horoscopes-odi-ab)
-
-The Fragments-Horoscopes is a collection of 41 astrological passages in verse, attributed to Hero of Alexandria. Preserved within the 12th-century Byzantine anthology of Joannes Camaterus, the Introductorius, these fragments provide interpretations based on celestial positions at birth. This poetic, didactic astrological content contrasts with Hero's renowned prose works on mechanics. The verses expound on astrological determinism and the prediction of life events from celestial configurations, detailing the influence of specific planets and zodiac signs on human character and fate while offering technical guidelines for constructing and interpreting horoscopes.
-
-The work survives exclusively as excerpts in Camaterus's compilation, with no independent manuscript tradition. The attribution to Hero originates with Camaterus and is unsupported by earlier biographical or bibliographical records, placing it within the pseudepigraphical material associated with Hero's name. These fragments are significant for understanding the reception and expansion of Hero's corpus beyond engineering, illustrating the common practice of ascribing occult texts to authoritative ancient names. They contributed to the Byzantine astrological tradition and are of interest to historians studying the intersection of technical and divinatory knowledge in antiquity.
 
 ## Text
 

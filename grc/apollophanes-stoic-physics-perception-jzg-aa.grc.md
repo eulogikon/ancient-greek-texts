@@ -5,6 +5,7 @@ author: Apollophanes the Stoic
 eul_wid: jzg-aa
 eul_aid: jzg
 canonical: "https://eulogikon.org/works/apollophanes-stoic-physics-perception-jzg-aa"
+lang: grc
 period: Hellenistic
 dialect: "Koine (phi, frg)"
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Apollophanes the Stoic
 
 **eul_wid:** `jzg-aa` · [HTML page](https://eulogikon.org/works/apollophanes-stoic-physics-perception-jzg-aa)
-
-The work conventionally titled Fragments on Physics and Perception is a modern assemblage attributed to Apollophanes, a Stoic philosopher known primarily through doxographical reports. No ancient source references a single work by this title; instead, the collection consists of disparate testimonia concerning Apollophanes’s doctrines, extracted from later authors. These fragments suggest he engaged with core Stoic physical and epistemological debates. He is reported to have posited nine parts of the soul, in contrast to other Stoic divisions, and to have identified prudence or practical wisdom as the sole virtue. On perception, a fragment from Herculaneum papyri indicates he argued that sensory impressions require the accompaniment of memory and involve a process of analogy to achieve clarity and to render an account of things no longer present. Other references place him in discussions on the void and note his association with the Stoic philosopher Ariston of Chios. The value of these fragments lies in their preservation of minor Stoic perspectives otherwise lost, though the composite nature of the collection and the lack of an original, coherent manuscript tradition mean the work serves primarily as a scholarly convenience for studying post-Chrysippean Stoic thought.
 
 ## Text
 

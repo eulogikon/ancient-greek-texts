@@ -5,6 +5,7 @@ author: Sack of Ilium
 eul_wid: afk-aa
 eul_aid: afk
 canonical: "https://eulogikon.org/works/sack-ili-fragments-afk-aa"
+lang: grc
 period: Archaic
 dialect: Epic (Homeric) (frg)
 domain: Epic
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Sack of Ilium
 
 **eul_wid:** `afk-aa` · [HTML page](https://eulogikon.org/works/sack-ili-fragments-afk-aa)
-
-The Sack of Ilium is a lost epic poem from the Archaic period of ancient Greece, forming a crucial part of the Epic Cycle, a collection of poems that narrated the complete story of the Trojan War. Traditionally ascribed to Arctinus of Miletus, its authorship remains uncertain among modern scholars. The poem chronicled the final, catastrophic chapter of the war, detailing the deception of the Wooden Horse, the subsequent sack and burning of the city of Troy, and the immediate aftermath for both the victorious Greek warriors and the defeated Trojans. Composed in the dactylic hexameter characteristic of Greek epic, the work functioned within a broader narrative tradition, elaborating upon and connecting events surrounding the core Homeric accounts.
-
-The complete text has not survived antiquity. Our understanding of the poem derives from approximately seventeen brief fragments and a prose summary written by the 5th-century CE scholar Proclus, supplemented by scattered quotations in later authors such as Pausanias. These sources reveal a narrative of decisive action and divine intervention, featuring episodes like the debate over the fate of the Trojan hero Aeneas and the tragic death of the Trojan prince Astyanax. The poem’s version of Troy’s fall established the canonical account that profoundly influenced subsequent Greco-Roman literature, most notably providing foundational material for Virgil’s Aeneid. As such, despite its fragmentary preservation, the Sack of Ilium represents a vital link in the transmission and evolution of the Trojan War mythos.
 
 ## Text
 

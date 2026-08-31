@@ -5,6 +5,7 @@ author: Xenophon Letters
 eul_wid: dqq-aa
 eul_aid: dqq
 canonical: "https://eulogikon.org/works/xenophon-socrates-fragments-dqq-aa"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Xenophon Letters
 
 **eul_wid:** `dqq-aa` · [HTML page](https://eulogikon.org/works/xenophon-socrates-fragments-dqq-aa)
-
-The work known as Fragments on Socrates is not part of Xenophon’s authentic surviving corpus. His genuine Socratic writings consist of the Memorabilia, the Apology of Socrates, the Symposium, and the Oeconomicus. This collection of six epistolary passages likely represents either a modern compilation of excerpts from those genuine works or fragments from the later pseudepigraphical tradition of Socratic letters, a genre that includes spurious epistles attributed to various figures, including Xenophon and Plato. If the fragments are derived from Xenophon’s authentic texts, they would reflect his characteristic portrayal of Socrates, emphasizing a defense of the philosopher’s piety and moral character, the practical application of ethics through self-discipline and self-knowledge, and the Socratic method of dialogue concerning household and social duties. While Xenophon’s major Socratic texts are preserved through medieval manuscripts, the transmission of these specific fragments is less certain; they may be antiquarian excerpts or derive from lost pseudonymous letters preserved through quotation in later authors such as Diogenes Laertius. Xenophon’s Socratic works provided an influential, practical portrait of Socrates in antiquity. Although this particular fragmentary collection lacks an independently attested historical influence, it participates in the broader pseudepigraphical letter tradition that contributed to later perceptions of philosophical correspondence and education.
 
 ## Text
 

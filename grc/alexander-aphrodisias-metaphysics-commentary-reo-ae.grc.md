@@ -5,6 +5,7 @@ author: Alexander of Aphrodisias
 eul_wid: reo-ae
 eul_aid: reo
 canonical: "https://eulogikon.org/works/alexander-aphrodisias-metaphysics-commentary-reo-ae"
+lang: grc
 period: Roman
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alexander of Aphrodisias
 
 **eul_wid:** `reo-ae` · [HTML page](https://eulogikon.org/works/alexander-aphrodisias-metaphysics-commentary-reo-ae)
-
-Alexander of Aphrodisias’s On Aristotle's Metaphysics is a comprehensive philosophical commentary composed in Attic Greek around 200 CE. As the publicly appointed professor of Aristotelian philosophy in Athens, Alexander produced this line-by-line exegesis to elucidate Aristotle's complex arguments and to defend them against competing schools of thought, particularly the Stoics. The work systematically addresses the central themes of Aristotle's Metaphysics, including substance, causality, potentiality and actuality, and the nature of the prime mover. Its original structure followed Aristotle's text across fourteen books, offering paraphrase, resolving textual and philosophical difficulties, and establishing what Alexander considered the orthodox interpretation of Aristotelian doctrine.
-
-The complete and continuous commentary has not survived. The extant text consists of 837 excerpts compiled by later Byzantine scholars, which correspond to specific passages in Aristotle's work. Despite its fragmentary transmission, this compilation served for centuries as the most authoritative ancient guide to Aristotle's Metaphysics. Its influence was profound, especially following its translation into Arabic in the 9th century and later into Latin. These translations significantly shaped metaphysical discourse in Islamic philosophy and medieval Scholasticism, securing Alexander's enduring reputation as the foremost ancient commentator on Aristotle.
 
 ## Text
 

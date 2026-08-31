@@ -1,11 +1,12 @@
 ---
 title: Allegories Or Homeric Questions
 title_greek: Ἀλληγορίαι ἢ Ὁμηρικαὶ Ζητήσεις
-author: Heraclitus of Ephesus II
+author: Heraclitus the Allegorist
 eul_wid: bko-aa
 eul_aid: bko
 canonical: "https://eulogikon.org/works/heraclitus-ephesus-allegories-homeric-bko-aa"
-period: Archaic
+lang: grc
+period: Roman
 dialect: Koine
 domain: Philosophy
 format: Treatise
@@ -16,13 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Ἀλληγορίαι ἢ Ὁμηρικαὶ Ζητήσεις*
 
-**Author:** Heraclitus of Ephesus II
+**Author:** Heraclitus the Allegorist
 
 **eul_wid:** `bko-aa` · [HTML page](https://eulogikon.org/works/heraclitus-ephesus-allegories-homeric-bko-aa)
-
-Allegories or Homeric Questions is a treatise from the Roman Imperial period, traditionally dated to the 1st century CE, composed by the scholar Heraclitus. This author is distinct from the earlier pre-Socratic philosopher of Ephesus who shared his name. The work is a comprehensive apology for the poet Homer, methodically defending the Iliad and the Odyssey against accusations of impiety and theological impropriety. Heraclitus contends that episodes depicting gods in unseemly or morally questionable scenarios must not be understood literally. Instead, he systematically interprets them as deliberate allegories encoding profound truths about the natural world, ethical conduct, and the dynamics of the human soul.
-
-Organized into 307 concise chapters, the treatise first addresses problematic passages from the Iliad before turning to the Odyssey. Each chapter focuses on a specific Homeric line or episode, reinterpreting it through an allegorical lens. Heraclitus positions Homer not merely as a poet but as a venerable sage who intentionally veiled philosophical and scientific wisdom within his epic narratives. The work is a significant artifact of the long-standing tradition of allegorical exegesis, which sought to reconcile Homer's canonical cultural authority with evolving philosophical conceptions of divinity and morality. Its intended readership was the educated Greco-Roman elite engaged in literary and philosophical study. The treatise survives in its entirety, preserved mainly in a manuscript from the 15th century, and stands as a complete and representative example of early imperial literary criticism and allegorical interpretation.
 
 ## Text
 

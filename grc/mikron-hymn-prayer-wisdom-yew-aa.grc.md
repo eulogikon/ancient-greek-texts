@@ -5,6 +5,7 @@ author: Little Song of the Disciples
 eul_wid: yew-aa
 eul_aid: yew
 canonical: "https://eulogikon.org/works/mikron-hymn-prayer-wisdom-yew-aa"
+lang: grc
 period: Byzantine
 dialect: Byzantine Christian
 domain: Poetry
@@ -19,18 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Little Song of the Disciples
 
 **eul_wid:** `yew-aa` · [HTML page](https://eulogikon.org/works/mikron-hymn-prayer-wisdom-yew-aa)
-
-Overview The work “A Disciple’s Prayer for Wisdom” (Ἀπόσπασμα) is attributed to a source titled “Little Song of the Disciples.” The Greek title indicates it is a short excerpt or fragment. Based on available metadata, it is a single passage composed in verse.
-
-Content
-
-The specific thematic content of the fragment is not detailed in extant sources.
-
-The authorial name “Little Song of the Disciples” implies a potential connection to early Christian or monastic poetic traditions.
-
-Transmission The work is identified as a fragment (Ἀπόσπασμα). No details concerning its manuscript tradition or preservation history are recorded.
-
-Significance As a fragment of uncertain provenance, its primary significance lies in its titular suggestion of a devotional or pedagogical context within early Christian literary practice.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Suda
 eul_wid: wus-au
 eul_aid: wus
 canonical: "https://eulogikon.org/works/suda-phi-wus-au"
+lang: grc
 period: Byzantine
 domain: Grammar
 format: Collection
@@ -18,12 +19,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Suda
 
 **eul_wid:** `wus-au` · [HTML page](https://eulogikon.org/works/suda-phi-wus-au)
-
-The phi section of the Suda spans 879 entries ranging from biographical notices to brief glosses. Early entries treat Roman and Carthaginian figures: Fabius Pictor (φ 2), the annalist cited on Roman public-property law; Fabius Maximus (φ 3), whose defeat against the Samnites is recounted in detail; and Fabricius (φ 5), remembered for his dealings with Pyrrhus. Favorinus of Arles (φ 4) receives an extended notice on his hermaphroditic constitution, philosophical training, and rhetorical career.
-
-Among Greek subjects, Philochorus (φ 441) is identified as an Athenian seer and Atthidographer, with chronological notes linking him to Eratosthenes. Shorter entries include lexical glosses such as φαγανθρώπων (φ 6, 'unclean') and φιλοφροσύνη (φ 440, 'cordiality'), alongside Aristotelian philosophical terminology: φ 878 explains the three φυτικαί δυνάμεις of the soul (nutritive, augmentative, generative).
-
-The letter is useful for prosopography of Roman Republican figures as transmitted through Byzantine sources, for fragments of lost Hellenistic scholarship, and for the lexicographical treatment of philosophical and biological vocabulary derived from the Peripatetic tradition.
 
 ## Text
 

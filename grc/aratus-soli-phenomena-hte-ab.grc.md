@@ -5,6 +5,7 @@ author: Aratus of Soli
 eul_wid: hte-ab
 eul_aid: hte
 canonical: "https://eulogikon.org/works/aratus-soli-phenomena-hte-ab"
+lang: grc
 period: Hellenistic
 dialect: Epic (Homeric)
 domain: Science
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aratus of Soli
 
 **eul_wid:** `hte-ab` · [HTML page](https://eulogikon.org/works/aratus-soli-phenomena-hte-ab)
-
-The Phenomena is a didactic poem composed in Homeric Greek hexameters by Aratus of Soli, written around 276–274 BCE at the Macedonian court of King Antigonus II Gonatas. Spanning over 1,150 lines, the work systematically describes the constellations and weather signs, blending scientific instruction with poetic artistry. It opens with a celebrated hymn to Zeus, presenting the orderly cosmos as a manifestation of divine providence. The first major section catalogs the fixed stars, their positions, and their celestial movements, drawing extensively from the earlier astronomical writings of Eudoxus of Cnidus. The second part, known as the Diosemeia, compiles traditional weather lore, offering guidance on forecasting through observation of animals, birds, and atmospheric phenomena.
-
-Intended for a broad, educated audience, the Phenomena represents a Hellenistic endeavor to popularize technical knowledge, transforming astronomy and meteorology into accessible and prestigious poetry. It served both as a practical handbook for activities like navigation and agriculture and as a significant literary achievement. The text survives in its entirety and enjoyed exceptional popularity in antiquity, evidenced by a rich manuscript tradition and its adoption as a standard reference on constellations for centuries. Its influence was extended through several Latin translations and engagements by ancient astronomers such as Hipparchus; its opening lines are notably quoted in the New Testament, attesting to its widespread cultural resonance.
 
 ## Text
 

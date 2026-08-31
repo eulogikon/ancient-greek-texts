@@ -5,6 +5,7 @@ author: Galen of Pergamon
 eul_wid: qmm-by
 eul_aid: qmm
 canonical: "https://eulogikon.org/works/galen-pergamon-usefulness-breathing-qmm-by"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Galen of Pergamon
 
 **eul_wid:** `qmm-by` · [HTML page](https://eulogikon.org/works/galen-pergamon-usefulness-breathing-qmm-by)
-
-_On the Usefulness of Breathing_ is a medical treatise by the 2nd-century CE physician Galen of Pergamon. The work presents a systematic argument that the primary purpose of respiration is to cool the innate heat of the heart and the vital pneuma contained within the arteries, thereby preventing the body from being consumed by its own internal fire. Structured as a logical demonstration, the treatise begins by establishing the absolute necessity of breathing for life. Galen then methodically examines and refutes competing theories from earlier medical schools, including the ideas that respiration generates the soul, provides nourishment, or merely serves to fill the arteries or enable speech. Having dismissed these alternatives, he establishes his own teleological view through an analysis of relevant anatomy, describing how inhaled air is drawn into the lungs and then cools the heart and arterial system. This explanation integrated the function of respiration into his broader physiological model, where it served as a critical regulatory mechanism for the body's vital heat. The treatise survives intact within the Galenic corpus, transmitted through Greek manuscripts and standard scholarly editions. It became a cornerstone of physiological theory for over a millennium; its explanation of respiration as a cooling mechanism dominated both Islamic and Western medicine until the 17th century. The work remains a crucial source for understanding Galen's rigorous teleological methodology and the principles of ancient medical theory.
 
 ## Text
 

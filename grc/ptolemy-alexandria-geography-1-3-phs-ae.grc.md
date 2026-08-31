@@ -5,6 +5,7 @@ author: Ptolemy of Alexandria
 eul_wid: phs-ae
 eul_aid: phs
 canonical: "https://eulogikon.org/works/ptolemy-alexandria-geography-1-3-phs-ae"
+lang: grc
 period: Roman
 dialect: Technical Koine
 domain: Mathematics
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Ptolemy of Alexandria
 
 **eul_wid:** `phs-ae` · [HTML page](https://eulogikon.org/works/ptolemy-alexandria-geography-1-3-phs-ae)
-
-The Geography is an eight-book scientific treatise composed in Greek by Claudius Ptolemy around 150 CE in Roman Alexandria. The first three books establish the work's foundational theoretical and methodological framework. Book One introduces the science of geography as distinct from mere regional description, argues for a spherical Earth, and explains the principles for constructing world maps using two innovative flat projections. Book Two provides detailed instructions for mapping the Roman provinces and the entire known world, emphasizing the use of astronomical observations to fix locations by precise latitude and longitude. Book Three commences the core geographical catalogue, listing coordinates for localities in Europe, beginning with the British Isles and proceeding through Iberia and Italy.
-
-Unlike a descriptive travelogue, Ptolemy's work is a technical manual for creating accurate, reproducible maps based on mathematical and astronomical principles. It was composed for a scholarly audience, synthesizing and critically correcting geographical data drawn from Roman imperial surveys and the work of earlier scholars, most notably Marinus of Tyre. The original manuscript and its accompanying maps are lost; the treatise survives through later Byzantine manuscript copies dating from the 13th century onward. The maps contained in these manuscripts are medieval reconstructions based on Ptolemy's coordinate lists. Despite this complex textual transmission, the Geography endured as the most influential work of scientific cartography from antiquity, fundamentally revolutionizing the practice of mapmaking during the Renaissance and the subsequent Age of Discovery.
 
 ## Text
 

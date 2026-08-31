@@ -5,6 +5,7 @@ author: Alexander of Aphrodisias
 eul_wid: reo-ad
 eul_aid: reo
 canonical: "https://eulogikon.org/works/alexander-aphrodisias-meteorology-commentary-reo-ad"
+lang: grc
 period: Roman
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alexander of Aphrodisias
 
 **eul_wid:** `reo-ad` · [HTML page](https://eulogikon.org/works/alexander-aphrodisias-meteorology-commentary-reo-ad)
-
-Alexander of Aphrodisias’s Commentary on Aristotle’s Meteorology is a systematic, line-by-line exegesis of Aristotle’s scientific treatise, composed in Greek circa 200 CE. While serving as the publicly appointed professor of Aristotelian philosophy in Athens, Alexander authored this work to elucidate the frequently dense arguments of Aristotle concerning sublunary natural phenomena. The commentary adheres to the four-book structure of the original, which examines a range of topics including comets, weather patterns, rivers, the sea, and the formation of minerals. Alexander proceeds methodically through each section, striving to present a coherent interpretation of Aristotelian doctrine, to defend it against rival philosophical schools, and to explicate the causal functions of the four classical elements. The complete text has been preserved through medieval Greek manuscripts, establishing it as the definitive reference for understanding Aristotle’s Meteorology within the later Greek philosophical tradition and exerting significant influence on subsequent commentators such as John Philoponus. Modern scholarship regards the commentary as a paramount example of the scholarly exegetical practice of the Roman Imperial period and as an essential resource for the study of ancient natural science. It was composed for an audience of advanced students and fellow philosophers engaged in the technical debates of contemporary natural philosophy.
 
 ## Text
 

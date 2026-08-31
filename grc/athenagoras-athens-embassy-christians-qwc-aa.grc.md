@@ -5,6 +5,7 @@ author: Athenagoras of Athens
 eul_wid: qwc-aa
 eul_aid: qwc
 canonical: "https://eulogikon.org/works/athenagoras-athens-embassy-christians-qwc-aa"
+lang: grc
 period: Roman
 dialect: Christian Koine
 domain: Theology
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Athenagoras of Athens
 
 **eul_wid:** `qwc-aa` · [HTML page](https://eulogikon.org/works/athenagoras-athens-embassy-christians-qwc-aa)
-
-The Embassy for the Christians, also known as A Plea for the Christians, is a formal apology composed in Attic Greek by the philosopher Athenagoras of Athens around 177 CE. Addressed to the co-emperors Marcus Aurelius and Commodus, the treatise is a sophisticated legal and philosophical defense crafted to counter three prevalent accusations against Christians: atheism, ritual cannibalism, and incest. Structured in thirty-seven chapters, it opens with an appeal for a fair hearing before systematically refuting each charge. Athenagoras dedicates the core of his argument to demonstrating that Christian monotheism is both rational and philosophically respectable, skillfully employing concepts drawn from contemporary Middle Platonism. He concludes by championing Christian morality, contending that their elevated ethical doctrines render the scandalous rumors about them logically impossible.
-
-Composed during a period of localized persecution, the work adopts the classical genre of a petition to the ruling authority. Modern scholars regard it as one of the most philosophically polished early Christian apologies, notable for containing one of the earliest extant philosophical explanations of the Trinity. The complete text survives in a single eleventh-century manuscript, providing a crucial window into how early Christian intellectuals engaged with Greco-Roman philosophy to articulate and defend their faith.
 
 ## Text
 

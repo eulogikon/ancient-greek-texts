@@ -5,6 +5,7 @@ author: Aristides the Orator
 eul_wid: qwm-ad
 eul_aid: qwm
 canonical: "https://eulogikon.org/works/aristides-orator-festival-speech-cyzicus-qwm-ad"
+lang: grc
 period: Roman
 dialect: Atticizing
 domain: Oratory
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristides the Orator
 
 **eul_wid:** `qwm-ad` · [HTML page](https://eulogikon.org/works/aristides-orator-festival-speech-cyzicus-qwm-ad)
-
-The Festival Speech in Cyzicus concerning the Temple is a ceremonial panegyric by the orator Aelius Aristides. Composed around 165 CE and delivered in Attic Greek at a public festival in Cyzicus, the oration is a formal work of praise structured in twelve sections. It extols the city for its beauty, historical significance, and piety, with its central focus being the recently completed Temple of Hadrian, the Hadrianeion. Aristides presents this magnificent temple as a symbolic link between the city's esteemed Hellenic culture and the beneficent rule of the Roman emperors. The speech survives in full through medieval manuscripts dating primarily from the 10th century CE onward and is cataloged as Oration 27 in his collected works. Performed during the joint reign of Marcus Aurelius and Lucius Verus, it is considered a key document of the Second Sophistic, a cultural movement that celebrated Greek heritage under Roman authority. The oration functioned to affirm civic pride, express loyalty to the imperial order, and demonstrate the author's refined rhetorical artistry for the local elite and the wider Greek-speaking world.
 
 ## Text
 

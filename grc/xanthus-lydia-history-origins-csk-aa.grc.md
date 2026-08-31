@@ -5,6 +5,7 @@ author: Xanthus the Lydian Historian
 eul_wid: csk-aa
 eul_aid: csk
 canonical: "https://eulogikon.org/works/xanthus-lydia-history-origins-csk-aa"
+lang: grc
 period: Classical
 dialect: Ionic
 domain: History
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Xanthus the Lydian Historian
 
 **eul_wid:** `csk-aa` · [HTML page](https://eulogikon.org/works/xanthus-lydia-history-origins-csk-aa)
-
-The Lydian History and Origins is a fragmentary prose work by the 5th-century BCE historian Xanthus the Lydian. Composed in Ionic Greek, it represents an early ethnography and national history dedicated to the myths, ancient kings, customs, and historical events of the Lydian people. The scope of the work ranged from foundational origin stories to accounts of cultural practices and a chronology of the Lydian monarchy. Notably, Xanthus addressed and contradicted the Greek tradition of a Tyrrhenian migration from Lydia to Italy, instead asserting that the sons of Atys, Lydus and Torrhebus, remained in Asia and gave their names to the Lydian and Torrhebian peoples. The original text does not survive intact and is known only through approximately thirty-five passages quoted by later Greek and Roman authors such as Strabo, Athenaeus, and Dionysius of Halicarnassus; this fragmentary transmission is why the work is sometimes referenced under the title Apospasmata, or "Excerpts." As a Lydian writing in Greek shortly after Lydia's incorporation into the Persian Empire, Xanthus provided an invaluable insider’s perspective for a Hellenic audience. Modern scholarship interprets his project as a significant effort to document and assert the cultural and historical importance of Lydian civilization within the burgeoning Greek intellectual tradition, positioning him as an important precursor to historians like Herodotus.
 
 ## Text
 

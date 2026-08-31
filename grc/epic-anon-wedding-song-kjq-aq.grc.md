@@ -5,6 +5,7 @@ author: Epic Work  Anonymous
 eul_wid: kjq-aq
 eul_aid: kjq
 canonical: "https://eulogikon.org/works/epic-anon-wedding-song-kjq-aq"
+lang: grc
 period: Hellenistic
 dialect: Epic (Homeric) (frg)
 domain: Epic
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Epic Work  Anonymous
 
 **eul_wid:** `kjq-aq` · [HTML page](https://eulogikon.org/works/epic-anon-wedding-song-kjq-aq)
-
-The Wedding Song, as suggested by its title, belongs to the genre of ancient Greek epithalamia, or wedding hymns. These poems were typically performed chorally during wedding festivities and are characterized by their celebratory tone, invocations to deities associated with marriage such as Hera, Aphrodite, and Hymenaios, and blessings for the couple's future happiness, fertility, and prosperity. Conventional themes include the praise of the bride and groom, the celebration of erotic union, and references to mythological exempla of divine or heroic marriages. No specific, standalone epic poem by this exact title is attested in the surviving corpus of Greek literature, and it is not listed among the fragmentary works of known epic poets. It may therefore represent a lost work, a misattributed text, or a modern descriptive title for an anonymous piece. Regardless of the fate of this particular composition, the epithalamion genre itself was highly influential, providing a model for later Hellenistic poetry, Roman works such as Catullus's Carmen 62, and subsequent European literary traditions.
 
 ## Text
 

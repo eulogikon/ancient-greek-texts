@@ -5,6 +5,7 @@ author: "Epic: Meropis  Anonymous"
 eul_wid: euq-aa
 eul_aid: euq
 canonical: "https://eulogikon.org/works/epic-meropis-anon-fragments-euq-aa"
+lang: grc
 period: Classical
 dialect: Ionic (frg)
 domain: Epic
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Epic: Meropis  Anonymous
 
 **eul_wid:** `euq-aa` · [HTML page](https://eulogikon.org/works/epic-meropis-anon-fragments-euq-aa)
-
-The Meropis is a lost Greek epic poem known only through fifteen brief fragments preserved by the 2nd-century CE author Athenaeus in his work Deipnosophistae. Its title suggests a connection to the mythical Meropes, a people often associated with the island of Kos or a paradisiacal land. The extant fragments focus overwhelmingly on descriptions of extravagant food, drink, and banqueting, including an episode where a character drinks from a cup so large it requires a chain to lift. This singular thematic concentration, along with its exaggerated style, has led scholars to classify the Meropis as a parodic or burlesque epic, one that humorously amplifies the conventional feast scenes found in canonical heroic poetry. The poem absurdly inflates traditional epic motifs, emphasizing impossibly lavish quantities of sustenance and implying a comic treatment of mythological subjects. It survives solely through the quotations of Athenaeus, with its fragments cataloged in modern collections of Greek epic poetry. The Meropis exemplifies the diversity of the ancient epic tradition, which encompassed humorous and satirical works, and it provides valuable evidence for literary parody and intertextual play in the post-classical period.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Isocrates of Athens
 eul_wid: ffu-ab
 eul_aid: ffu
 canonical: "https://eulogikon.org/works/isocrates-athens-rulers-mytilene-ffu-ab"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Isocrates of Athens
 
 **eul_wid:** `ffu-ab` · [HTML page](https://eulogikon.org/works/isocrates-athens-rulers-mytilene-ffu-ab)
-
-To the Rulers of Mytilene is a political letter composed by the Athenian orator Isocrates around 350 BCE. Addressed to the governing authorities of Mytilene on the island of Lesbos, this brief discourse functions as a piece of advisory rhetoric, urging the city's leaders to govern with justice and for the common good. Isocrates frames his appeal through a personal pretext, mentioning his grandsons' connection to a Mytilenean exile, but swiftly moves to his central argument: the safety and freedom of a city depend entirely on the virtue of its rulers. He warns that self-interested or factional governance inevitably leads to civil strife and the eventual loss of political autonomy. The work, structured as a complete oration in eleven sections, is composed in the refined Attic Greek characteristic of Isocrates' school.
-
-Written during a period of widespread instability among Greek city-states, the letter exemplifies Isocrates' lifelong project of employing reasoned rhetoric to promote prudent and moderate leadership. Modern scholars classify it among his "epistolary orations," texts designed to circulate among and influence the oligarchic and aristocratic ruling classes through moral persuasion rather than detailed policy prescription. The work survives intact through medieval manuscript traditions as part of the canonical corpus of Isocrates' writings, and its authenticity is not in serious doubt. It stands as a concise testament to Isocrates' belief in the power of logos—reasoned discourse—to shape political conduct.
 
 ## Text
 

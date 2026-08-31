@@ -5,6 +5,7 @@ author: Leontius the Mechanic
 eul_wid: toc-aa
 eul_aid: toc
 canonical: "https://eulogikon.org/works/leontius-mechanic-aratus-sphere-toc-aa"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Leontius the Mechanic
 
 **eul_wid:** `toc-aa` · [HTML page](https://eulogikon.org/works/leontius-mechanic-aratus-sphere-toc-aa)
-
-On the Construction of Aratus' Sphere is a technical treatise by Leontius the Mechanic, a Byzantine author of uncertain date, detailing the assembly of a celestial globe that accurately illustrates the constellations as described in the didactic poem Phaenomena by Aratus of Soli. The work opens as a letter to a certain Theodorus, explaining that the author was prompted to write it due to the common discrepancy between available celestial spheres and the descriptions in Aratus's text. Leontius states that his instructions will be particularly useful for those first studying Aratus's work, enabling them to grasp the poetic descriptions through a tangible model. The treatise provides systematic, step-by-step instructions for constructing this solid sphere, representing a practical fusion of poetry, astronomy, and mechanics. It functions as a mechanical commentary on Aratus, translating poetic imagery into a precise three-dimensional pedagogical instrument. The text is a significant surviving example of ancient sphaeropoeia, or sphere-making. It is preserved in a single ninth-century manuscript, Vaticanus Graecus 1087, a major astronomical collection that includes Aratus's Phaenomena and related scholia. Its transmission within the Aratean corpus underscores the enduring practical and educational role of astronomical poetry in the Byzantine period, highlighting how the mechanical arts were employed to support and elucidate theoretical learning.
 
 ## Text
 

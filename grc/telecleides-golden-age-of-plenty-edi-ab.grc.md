@@ -5,6 +5,7 @@ author: Telecleides Comicus
 eul_wid: edi-ab
 eul_aid: edi
 canonical: "https://eulogikon.org/works/telecleides-golden-age-of-plenty-edi-ab"
+lang: grc
 period: Classical
 dialect: "Attic (com, frg)"
 domain: Comedy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Telecleides Comicus
 
 **eul_wid:** `edi-ab` · [HTML page](https://eulogikon.org/works/telecleides-golden-age-of-plenty-edi-ab)
-
-The Golden Age of Plenty is the conventional modern title for a collection of fragments attributed to the lost comedies of Telecleides, an Athenian playwright of Old Comedy active in the fifth century BCE. The title derives from the most famous of these fragments, a passage that humorously depicts a mythical utopia of spontaneous abundance. In this comic vision, peace flows like water, the earth produces without fear of disease, rivers of wine and warm broth run alongside dining couches, and baked fish present themselves willingly to be eaten. This fantastical description parodies older poetic traditions concerning a primordial golden age.
-
-The surviving corpus consists of fifty-nine excerpts preserved not in a continuous text but through quotation by later authors, most notably the gastronomic writer Athenaeus in the second or third century CE. These fragments suggest Telecleides employed the contrast between a carefree, mythical past and the contemporary realities of Athenian life as a vehicle for political satire. Scholars frequently interpret the central utopian passage as a critique of the hardships and leadership during the Peloponnesian War era, with Pericles often proposed as a likely target. The humor operates through comic inversion and hyperbole, transforming traditional golden age tropes into scenes of absurd culinary luxury. As no complete play by Telecleides survives, these fragments, authoritatively compiled in the modern edition Poetae Comici Graeci, constitute the primary source for understanding his work and his place within the competitive landscape of fifth-century Athenian comedy.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Suda
 eul_wid: wus-ar
 eul_aid: wus
 canonical: "https://eulogikon.org/works/suda-sigma-wus-ar"
+lang: grc
 period: Byzantine
 domain: Grammar
 format: Collection
@@ -18,12 +19,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Suda
 
 **eul_wid:** `wus-ar` · [HTML page](https://eulogikon.org/works/suda-sigma-wus-ar)
-
-The sigma section of the Suda comprises 1,815 entries spanning divine names, geographical terms, grammatical observations, and lexical glosses drawn from classical and late antique sources. Early entries include Σαβάζιος, equating the Phrygian deity with Dionysus and explaining the name through the Barbarian equivalent of εὐάζειν, and two entries on Σάββατον exploring its Hebrew origins, its Roman association with rest, and technical distinctions such as the δευτερόπρωτον σάββατον.
-
-The letter proceeds through a wide range of material: toponyms such as Σαβά and ethnographic labels like Σπαρτιάτης, as well as botanical and metrological glosses. Near the end, σχοῖνος appears twice—once as an agricultural measure cited from Herodotus, Book II, and once as a plant with a sharp tip, illustrated by a line from Aristophanes' Ἀχαρνεῖς.
-
-This section is particularly useful for tracing how the Suda incorporates and compresses earlier lexicographic and historical sources, including Herodotus and Aristophanes, while adding Byzantine theological and calendrical commentary to entries otherwise rooted in classical Greek usage.
 
 ## Text
 

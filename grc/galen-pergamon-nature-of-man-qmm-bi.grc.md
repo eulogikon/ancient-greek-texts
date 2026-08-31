@@ -5,6 +5,7 @@ author: Galen of Pergamon
 eul_wid: qmm-bi
 eul_aid: qmm
 canonical: "https://eulogikon.org/works/galen-pergamon-nature-of-man-qmm-bi"
+lang: grc
 period: Roman
 dialect: Atticizing Technical
 domain: Medicine
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Galen of Pergamon
 
 **eul_wid:** `qmm-bi` · [HTML page](https://eulogikon.org/works/galen-pergamon-nature-of-man-qmm-bi)
-
-Galen's On Hippocrates' The Nature of Man is a comprehensive medical commentary composed in Greek during the late second century CE. In this treatise, the physician Galen provides a meticulous, line-by-line exegesis of an earlier Hippocratic work, which posits that human health is governed by the equilibrium of four bodily humors: blood, phlegm, yellow bile, and black bile. Structured as a series of 173 distinct sections, Galen's commentary serves as a vigorous defense and systematic elaboration of this humoral theory, integrating it into the foundation of his own medical philosophy. Composed during his residence in Rome, the work functions as a strategic effort to consolidate Galen's professional authority by presenting himself as the legitimate interpreter and successor to the revered Hippocratic tradition. Modern scholarship interprets the text as a polemical instrument, directed at an audience of educated physicians with the aim of discrediting rival medical sects while promoting Galen's vision of Hippocrates as a paragon of rational and scientific inquiry. The complete text has been preserved through medieval Greek manuscripts and was subsequently translated into Arabic, Syriac, and Latin. Its widespread transmission was instrumental in establishing Galen's interpretation of the four-humor system as the dominant framework for both Western and Islamic medicine for more than a millennium.
 
 ## Text
 

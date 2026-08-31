@@ -5,6 +5,7 @@ author: Aristonymus the Comic Poet
 eul_wid: dts-aa
 eul_aid: dts
 canonical: "https://eulogikon.org/works/aristonymus-fish-seafood-dts-aa"
+lang: grc
 period: Classical
 dialect: Attic Comedy
 domain: Comedy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristonymus the Comic Poet
 
 **eul_wid:** `dts-aa` · [HTML page](https://eulogikon.org/works/aristonymus-fish-seafood-dts-aa)
-
-Fragments on Fish and Seafood is a lost work by the Athenian comic poet Aristonymus, a contemporary of Aristophanes active during the period of Old Comedy. The work is known solely from its title and ten surviving fragments, which indicate its thematic focus on marine life. Such references to fish and seafood were a common staple of Greek comedy, serving as vehicles for humor, social satire, and metaphorical expression. The extant snippets suggest the fragments likely engaged with typical comic tropes, including critiques of gastronomic excess and gluttony, satire aimed at the commerce and inflated prices of the fish market, and the use of seafood consumption as a marker of social status and wealth. As was conventional in the genre, the terminology of fish and fishing could also have been employed for sexual innuendo or other figurative purposes.
-
-The work survives only in fragmentary form, most probably preserved through quotation by later antiquarian or lexicographical authors such as Athenaeus of Naucratis in his Deipnosophistae. The ten identified passages represent the total extant remains. Aristonymus himself is a minor figure in the comic tradition; the Byzantine encyclopedia Suda records that he was an Athenian poet of the Peloponnesian War era and the author of seven plays, none of which survive intact. While the fragments exert no discernible influence on later literature, their preservation contributes to a more complete understanding of the thematic range and popular subjects of Old Comedy beyond the works of its major surviving exponents.
 
 ## Text
 

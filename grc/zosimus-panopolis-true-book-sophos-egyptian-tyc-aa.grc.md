@@ -5,6 +5,7 @@ author: Zosimus of Panopolis
 eul_wid: tyc-aa
 eul_aid: tyc
 canonical: "https://eulogikon.org/works/zosimus-panopolis-true-book-sophos-egyptian-tyc-aa"
+lang: grc
 period: Late Antique
 dialect: Technical Koine
 domain: Science
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Zosimus of Panopolis
 
 **eul_wid:** `tyc-aa` · [HTML page](https://eulogikon.org/works/zosimus-panopolis-true-book-sophos-egyptian-tyc-aa)
-
-The True Book of Sophos the Egyptian and the Divine Lord of the Hebrews Sabaoth is an alchemical treatise composed in Greek by Zosimus of Panopolis around 300 CE. Structured as a revelatory dialogue, the work presents sacred alchemical knowledge through the figures referenced in its title: Sophos the Egyptian, likely a pseudonym for an ancient sage, and the Divine Lord of the Hebrews Sabaoth, a name for the God of the Hebrew Bible. The text characteristically blends practical instructions for metallic transformation with philosophical and theological speculation, framing laboratory processes as allegories for spiritual purification and salvation.
-
-Written in Roman Egypt, a major center for the synthesis of Greek, Egyptian, and emerging Judeo-Christian traditions, the treatise employs its dual invocation as a strategy to claim deep, primordial authority for the alchemical arts. Its intended audience was likely fellow practitioners in workshop or scholarly settings who valued texts that integrated technical craft with spiritual revelation. The work survives as part of Zosimus's corpus within later Byzantine manuscripts that collected Greek alchemical writings. These manuscripts are often compilations containing fragmentary texts, which complicates the reconstruction of an original, authoritative version.
 
 ## Text
 

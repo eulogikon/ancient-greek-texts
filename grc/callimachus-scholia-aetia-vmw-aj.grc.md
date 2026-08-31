@@ -5,6 +5,7 @@ author: Callimachus Scholia
 eul_wid: vmw-aj
 eul_aid: vmw
 canonical: "https://eulogikon.org/works/callimachus-scholia-aetia-vmw-aj"
+lang: grc
 period: Late Antique
 dialect: Koine
 domain: Grammar
@@ -19,24 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Callimachus Scholia
 
 **eul_wid:** `vmw-aj` · [HTML page](https://eulogikon.org/works/callimachus-scholia-aetia-vmw-aj)
-
-Overview This anonymous scholiast’s work is a set of ancient explanatory notes, or scholia, on the first book of Callimachus's Aetia. Scholia are annotations compiling earlier grammatical, historical, and literary criticism. This collection comments on six passages from Aetia I, providing explanations of obscure words, mythological references, historical context, textual variants, and interpretations of the poet's meaning.
-
-Content The commentary engages in:
-
-Textual criticism of manuscript readings.
-
-Exegesis of myths and legends.
-
-Historical and geographical identification.
-
-Literary analysis of poetic technique.
-
-Lexicography for rare or archaic terms.
-
-Transmission The scholia are preserved in the margins of medieval manuscripts, primarily the Laurentianus Conventi soppressi 627 (11th century CE). These notes derive from earlier, lost Hellenistic commentaries and survive only where the corresponding lines of Callimachus's poem have been transmitted.
-
-Significance These scholia are crucial for modern interpretation of the Aetia and for understanding Hellenistic scholarship. They provide essential context for the poem's dense content, aid in its reconstruction, and illustrate the methods of Alexandrian grammarians. Modern critical editions rely heavily on this evidence.
 
 ## Text
 

@@ -5,6 +5,7 @@ author: Philon of Byblos
 eul_wid: oow-af
 eul_aid: oow
 canonical: "https://eulogikon.org/works/philon-byblos-testimonies-oow-af"
+lang: grc
 period: Roman
 dialect: Koine (frg)
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philon of Byblos
 
 **eul_wid:** `oow-af` · [HTML page](https://eulogikon.org/works/philon-byblos-testimonies-oow-af)
-
-The Testimonies is a grammatical and philological work by the scholar Philon of Byblos, composed in Koine Greek around 100 CE. Only a fragment of the text survives, known through six passages preserved in later Byzantine reference works. The content of these fragments suggests the original was a scholarly collection providing explanations, definitions, and authoritative citations regarding word usage, etymology, and literary references. Its original full structure and scope are now unknown. Philon was a grammarian and historian active during the Roman Imperial period, a time of revived interest in linguistic purity and cultural heritage. Modern scholars interpret this work as a technical reference, likely intended for fellow scholars and students engaged in the sophisticated literary culture of the era. It reflects Philon’s broader role as a bridge between Greek and Near Eastern intellectual traditions. The work survives only through quotations in later grammatical compilations, with no independent manuscript tradition.
 
 ## Text
 

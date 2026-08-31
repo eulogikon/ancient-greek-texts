@@ -5,6 +5,7 @@ author: Alexander of Aphrodisias
 eul_wid: reo-ac
 eul_aid: reo
 canonical: "https://eulogikon.org/works/alexander-aphrodisias-topics-commentary-reo-ac"
+lang: grc
 period: Roman
 dialect: Philosophical Koine
 domain: Philosophy
@@ -19,10 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Alexander of Aphrodisias
 
 **eul_wid:** `reo-ac` · [HTML page](https://eulogikon.org/works/alexander-aphrodisias-topics-commentary-reo-ac)
-
-On Aristotle's Topics Book Eight is a philosophical commentary by Alexander of Aphrodisias, composed around 200 CE during his tenure as the publicly appointed professor of Aristotelian philosophy in Athens. Written in Attic Greek, the work provides a meticulous, line-by-line exegesis of the final book of Aristotle’s Topics, a foundational treatise on dialectical method and structured debate. Alexander’s commentary adheres to the conventional ancient format, comprising 591 individual sections. Each section begins by quoting a short phrase, or lemma, from Aristotle’s text, followed by Alexander’s own detailed explanatory analysis. His primary objective is to elucidate Aristotle’s often dense and technical arguments, with particular focus on the practical rules for conducting dialectical encounters, the distinct strategies employed by questioners and answerers, and the logical construction of dialectical syllogisms.
-
-This commentary forms part of Alexander’s broader project to explicate Aristotle’s entire logical corpus, and scholars generally interpret these works as advanced pedagogical materials designed for philosophy students. The text survives in its complete form through medieval Greek manuscripts and serves as a crucial source for understanding the development of later Peripatetic thought. Alexander’s lucid and authoritative explanations of Aristotelian doctrine were so highly regarded in subsequent centuries that he became known simply as "the Commentator" on Aristotle, a testament to his enduring influence on the philosophical tradition.
 
 ## Text
 

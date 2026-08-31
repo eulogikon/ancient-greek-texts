@@ -5,6 +5,7 @@ author: Theophrastus of Eresus
 eul_wid: ljk-ae
 eul_aid: ljk
 canonical: "https://eulogikon.org/works/theophrastus-eresus-sense-sensibles-ljk-ae"
+lang: grc
 period: Hellenistic
 dialect: Attic Philosophical
 domain: Philosophy
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Theophrastus of Eresus
 
 **eul_wid:** `ljk-ae` · [HTML page](https://eulogikon.org/works/theophrastus-eresus-sense-sensibles-ljk-ae)
-
-On Sense and Sensibles is a philosophical treatise by Theophrastus of Eresus, the successor to Aristotle as head of the Peripatetic school. Written in the late fourth or early third century BCE, the work provides a critical doxographical survey of pre-Aristotelian theories concerning perception and the nature of sensible qualities. Theophrastus systematically outlines and then analyzes the doctrines of major thinkers, including Parmenides, Empedocles, Anaxagoras, Heraclitus, Democritus, and Plato. He organizes the theories into two principal camps: those who explain perception through the principle of like acting upon like, and those who rely on the interaction of opposites. The treatise is structured as a series of passages, each dedicated to a specific philosopher, where Theophrastus first presents their arguments before subjecting them to pointed logical critique, often highlighting internal inconsistencies or empirical shortcomings. This method reflects the Peripatetic practice of evaluating past thought as a foundation for establishing sound doctrine. The text as preserved is incomplete, breaking off abruptly, and is thought to represent only a portion of the original work. Despite its fragmentary state, transmitted through medieval manuscripts, it remains an indispensable historical source, preserving details of philosophical and scientific theories whose original texts are now lost and offering crucial insight into the development of ancient Greek psychology and epistemology.
 
 ## Text
 

@@ -1,10 +1,11 @@
 ---
 title: Tetralogy A
 title_greek: Τετραλογία Α΄
-author: "Antiphon of Athens "
+author: Antiphon of Athens
 eul_wid: bqs-ad
 eul_aid: bqs
 canonical: "https://eulogikon.org/works/antiphon-athens-tetralogy-a-bqs-ad"
+lang: grc
 period: Classical
 dialect: Attic
 domain: Oratory
@@ -16,13 +17,9 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 
 *Τετραλογία Α΄*
 
-**Author:** Antiphon of Athens 
+**Author:** Antiphon of Athens
 
 **eul_wid:** `bqs-ad` · [HTML page](https://eulogikon.org/works/antiphon-athens-tetralogy-a-bqs-ad)
-
-_Tetralogy A_ is a model forensic oration composed by the Athenian speechwriter Antiphon in the late fifth century BCE. It forms the first of three surviving sets known collectively as the _Tetralogies_, each of which outlines a hypothetical homicide case for instructional purposes. This work presents a complete, albeit fictional, legal dispute structured as four paired speeches: two for the prosecution and two for the defense. The case centers on an accidental killing, in which a youth is struck and killed by a javelin thrown during athletic training. The speeches methodically argue both sides of the accusation, focusing on key legal and rhetorical concepts such as probability, criminal intent, direct causation, and the polluting religious stain of unavenged bloodshed. As a self-contained exercise, it systematically demonstrates how to construct and counter arguments concerning culpability under Athenian homicide law.
-
-The text survives within the corpus of Antiphon’s works, though in a fragmentary state. Scholars generally regard the _Tetralogies_ as sophisticated rhetorical handbooks, likely used for advanced training in forensic oratory. They exemplify the techniques of the sophistic movement, emphasizing the ability to argue persuasively from opposing positions based on likelihood and reasoned inference. Attributed to Antiphon the Orator—a prominent logographer and intellectual figure—these structured speeches provide invaluable evidence for the development of legal rhetoric and pedagogical method in classical Athens, illustrating how abstract principles of argument were applied to concrete, if hypothetical, judicial scenarios.
 
 ## Text
 

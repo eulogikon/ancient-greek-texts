@@ -5,6 +5,7 @@ author: Aristophanes Scholia
 eul_wid: mlw-ar
 eul_aid: mlw
 canonical: "https://eulogikon.org/works/aristophanes-scholia-clouds-mlw-ar"
+lang: grc
 period: Hellenistic
 dialect: Technical Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Aristophanes Scholia
 
 **eul_wid:** `mlw-ar` · [HTML page](https://eulogikon.org/works/aristophanes-scholia-clouds-mlw-ar)
-
-The Scholia to Aristophanes' Clouds is a corpus of ancient and Byzantine explanatory annotations on the Athenian comic playwright's work. Compiled over many centuries, from the Hellenistic period to the Middle Ages, these notes represent a layered tradition of scholarship rather than a unified composition by a single author. Transmitted in the margins and between the lines of medieval manuscripts of the play, the scholia comprise thousands of individual glosses that address the linguistic, historical, and cultural challenges posed by Old Comedy. Their content is diverse, encompassing lexical explanations of obscure terms, commentary on Athenian legal and social institutions, identifications of contemporary figures such as Socrates, notes on mythological references, and records of variant readings from different textual traditions. This compilation served a fundamentally pedagogical function, aiming to elucidate a complex and historically distant literary work for students and readers in later periods. The scholia survive in a fragmentary state, having been copied, abbreviated, and sometimes corrupted through successive generations of scribes. The most significant witness to the tradition is the 10th-century Codex Ravennas. As a repository of ancient exegetical activity, the scholia provide modern scholars with an invaluable resource for understanding classical Athenian society, the history of textual criticism, and the reception of Aristophanes' comedy across antiquity.
 
 ## Text
 

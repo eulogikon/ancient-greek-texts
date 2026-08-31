@@ -5,6 +5,7 @@ author: Philoxenus of Alexandria
 eul_wid: nca-aa
 eul_aid: nca
 canonical: "https://eulogikon.org/works/philoxenus-alexandria-monosyllabic-verbs-nca-aa"
+lang: grc
 period: Hellenistic
 dialect: Koine
 domain: Grammar
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philoxenus of Alexandria
 
 **eul_wid:** `nca-aa` · [HTML page](https://eulogikon.org/works/philoxenus-alexandria-monosyllabic-verbs-nca-aa)
-
-The grammatical treatise On Monosyllabic Verbs, also known by the title Excerpts, is attributed to the Alexandrian grammarian Philoxenus. Composed during the early Imperial Roman period, it systematically catalogs and explains 690 Greek monosyllabic verbs, providing definitions, dialectal variations, and usage notes for forms such as the verb meaning "he went." The work functions as a specialized lexicographical and morphological resource, offering a systematic listing and analysis of these verbs. It pays particular attention to variations in verb forms across different Greek dialects and includes explanations of conjugation and syntactic usage, serving as a tool for interpreting classical literature. The text is preserved through medieval manuscripts alongside other grammatical works, though its exact original integrity remains uncertain, as is typical for such technical treatises. It appears in modern critical editions such as the Grammatici Graeci. Philoxenus’s work was cited by later grammarians and lexicographers, contributing to the standardized understanding of Greek grammar transmitted through Byzantine scholarship. It remains a valuable source for the history of linguistics and the study of ancient Greek dialectology.
 
 ## Text
 

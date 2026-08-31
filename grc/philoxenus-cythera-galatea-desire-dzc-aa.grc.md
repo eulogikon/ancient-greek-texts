@@ -5,6 +5,7 @@ author: Philoxenus of Cythera
 eul_wid: dzc-aa
 eul_aid: dzc
 canonical: "https://eulogikon.org/works/philoxenus-cythera-galatea-desire-dzc-aa"
+lang: grc
 period: Classical
 dialect: Doric (frg)
 domain: Poetry
@@ -19,8 +20,6 @@ license: "https://creativecommons.org/publicdomain/mark/1.0/"
 **Author:** Philoxenus of Cythera
 
 **eul_wid:** `dzc-aa` · [HTML page](https://eulogikon.org/works/philoxenus-cythera-galatea-desire-dzc-aa)
-
-The Fragments on Galatea and Desire comprises 22 surviving passages from a dithyramb by the late 5th or early 4th century BCE poet Philoxenus of Cythera. Written in Doric Greek, these fragments are believed to originate from his celebrated poem Cyclops or Galatea. The work presents a humorous and innovative recasting of the Homeric myth, shifting focus from the monstrous Cyclops Polyphemus to his comic and unrequited passion for the sea-nymph Galatea. In Philoxenus's version, Polyphemus is transformed from a brutish antagonist into a singing, lovesick figure, a parody that explores the absurd and transformative power of desire. The text survives through quotations by later authors such as Athenaeus and from papyrus discoveries. Philoxenus was a pivotal figure in the "New Music" movement, and these fragments are considered a seminal example of that style, characterized by its emphasis on emotional expression and musical experimentation. The dithyramb was likely composed for festival performance in Athens, where it subverted epic tradition for comic and thematic effect. Its treatment of pastoral love and the figure of the enamored Cyclops exerted a direct and lasting influence on the subsequent development of pastoral poetry, most notably seen in Theocritus's Idyll 11.
 
 ## Text
 
