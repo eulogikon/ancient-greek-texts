@@ -4,7 +4,7 @@
   "@id": "https://github.com/eulogikon/ancient-greek-texts",
   "name": "Ancient Greek Texts",
   "alternateName": "Eulogikon Ancient Greek Texts Corpus",
-  "description": "The surviving literary works of ancient Greece: 1,353 authors and 4,055 works (≈47 million words) spanning Homer through late antiquity. Philosophy, history, drama, lyric, medicine, mathematics, rhetoric, and the fragmentary traditions, all in clean Unicode Greek. Public Domain Mark 1.0.",
+  "description": "The surviving literary works of ancient Greece: 1,358 authors and 4,060 works (≈44 million words) spanning Homer through late antiquity. Philosophy, history, drama, lyric, medicine, mathematics, rhetoric, and the fragmentary traditions, all in clean Unicode Greek. Public Domain Mark 1.0.",
   "url": "https://github.com/eulogikon/ancient-greek-texts",
   "sameAs": [
     "https://eulogikon.org",
@@ -54,23 +54,23 @@
   "size": {
     "@type": "QuantitativeValue",
     "unitText": "words",
-    "value": 47347849
+    "value": 44071155
   },
   "variableMeasured": [
     {
       "@type": "PropertyValue",
       "name": "authors",
-      "value": 1353
+      "value": 1358
     },
     {
       "@type": "PropertyValue",
       "name": "works",
-      "value": 4055
+      "value": 4060
     },
     {
       "@type": "PropertyValue",
       "name": "greek words",
-      "value": 47347849
+      "value": 44071155
     }
   ],
   "distribution": [
