@@ -1,6 +1,6 @@
 ---
 name: eulogikon-ancient-greek-texts
-description: Access the Eulogikon ancient Greek text archive via the GitHub Pages catalog and the eulogikon/ancient-greek-texts data store — 1,353 authors and 4,055 works, Homer through late antiquity, all public domain (Public Domain Mark 1.0). Resolve works by stable eul_wid in manifest indexes, then fetch Greek text as Markdown or plain text from raw GitHub URLs.
+description: Access the Eulogikon ancient Greek text archive via the GitHub Pages catalog and the eulogikon/ancient-greek-texts data store — 1,358 authors and 4,060 works, Homer through late antiquity, all public domain (Public Domain Mark 1.0). Resolve works by stable eul_wid in manifest indexes, then fetch Greek text as Markdown or plain text from raw GitHub URLs.
 ---
 
 # Eulogikon ancient Greek texts (catalog + data store)

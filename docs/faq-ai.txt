@@ -1,5 +1,5 @@
 # faq-ai.txt for Eulogikon catalog site
-# Last updated: 2026-08-30
+# Last updated: 2026-08-31
 
 [About Eulogikon]
 
@@ -11,7 +11,7 @@ Q: Where should AI assistants start?
 A: Read https://eulogikon.github.io/ancient-greek-texts/llms.txt, then https://eulogikon.github.io/ancient-greek-texts/.well-known/agent-skills/eulogikon-ancient-greek-texts/SKILL.md for full instructions. Resolve works via https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.authors.json and https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.works.min.csv on raw GitHub.
 
 Q: How many works are in the corpus?
-A: 4,055 works by 1,353 authors. Resolve exact rows via manifest.authors.json and manifest.works.min.csv on raw GitHub.
+A: 4,060 works by 1,358 authors. Resolve exact rows via manifest.authors.json and manifest.works.min.csv on raw GitHub.
 
 [Rights and Reuse]
 
