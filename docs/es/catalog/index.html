@@ -54,7 +54,7 @@
   "@context": "https://schema.org/",
   "@graph": [
     {
-      "@context": "https://schema.org/",
+      "@context": "https://schema.org",
       "@id": "https://github.com/eulogikon/ancient-greek-texts#dataset",
       "@type": "Dataset",
       "creator": {
@@ -66,15 +66,17 @@
       "distribution": [
         {
           "@type": "DataDownload",
-          "contentUrl": "https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.json",
-          "encodingFormat": "application/json",
-          "name": "Manifiesto legible por máquina (JSON)"
+          "contentUrl": "https://eulogikon.github.io/ancient-greek-texts/llms.txt",
+          "description": "Punto de entrada seleccionado para asistentes de IA; remite a los archivos de consulta compactos.",
+          "encodingFormat": "text/plain",
+          "name": "Punto de entrada LLM (llms.txt)"
         },
         {
           "@type": "DataDownload",
-          "contentUrl": "https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.csv",
-          "encodingFormat": "text/csv",
-          "name": "Manifest (CSV)"
+          "contentUrl": "https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.json",
+          "description": "Manifiesto completo legible por máquina.",
+          "encodingFormat": "application/json",
+          "name": "Manifiesto legible por máquina (JSON)"
         },
         {
           "@type": "DataDownload",
@@ -89,6 +91,11 @@
           "name": "Hugging Face dataset"
         }
       ],
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.5281/zenodo.20335421"
+      },
       "inLanguage": "grc",
       "isAccessibleForFree": true,
       "license": "https://creativecommons.org/publicdomain/mark/1.0/",
@@ -98,6 +105,11 @@
         "name": "Eulogikon",
         "url": "https://eulogikon.org"
       },
+      "sameAs": [
+        "https://eulogikon.org",
+        "https://doi.org/10.5281/zenodo.20335421",
+        "https://huggingface.co/datasets/eulogikon/ancient-greek-texts"
+      ],
       "size": {
         "@type": "QuantitativeValue",
         "unitText": "works",

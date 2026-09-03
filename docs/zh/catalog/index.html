@@ -54,7 +54,7 @@
   "@context": "https://schema.org/",
   "@graph": [
     {
-      "@context": "https://schema.org/",
+      "@context": "https://schema.org",
       "@id": "https://github.com/eulogikon/ancient-greek-texts#dataset",
       "@type": "Dataset",
       "creator": {
@@ -66,15 +66,17 @@
       "distribution": [
         {
           "@type": "DataDownload",
-          "contentUrl": "https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.json",
-          "encodingFormat": "application/json",
-          "name": "机器可读清单 (JSON)"
+          "contentUrl": "https://eulogikon.github.io/ancient-greek-texts/llms.txt",
+          "description": "面向 AI 助手的精选入口；指向各个精简查询文件。",
+          "encodingFormat": "text/plain",
+          "name": "LLM 入口 (llms.txt)"
         },
         {
           "@type": "DataDownload",
-          "contentUrl": "https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.csv",
-          "encodingFormat": "text/csv",
-          "name": "Manifest (CSV)"
+          "contentUrl": "https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.json",
+          "description": "完整的机器可读清单。",
+          "encodingFormat": "application/json",
+          "name": "机器可读清单 (JSON)"
         },
         {
           "@type": "DataDownload",
@@ -89,6 +91,11 @@
           "name": "Hugging Face dataset"
         }
       ],
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.5281/zenodo.20335421"
+      },
       "inLanguage": "grc",
       "isAccessibleForFree": true,
       "license": "https://creativecommons.org/publicdomain/mark/1.0/",
@@ -98,6 +105,11 @@
         "name": "Eulogikon",
         "url": "https://eulogikon.org"
       },
+      "sameAs": [
+        "https://eulogikon.org",
+        "https://doi.org/10.5281/zenodo.20335421",
+        "https://huggingface.co/datasets/eulogikon/ancient-greek-texts"
+      ],
       "size": {
         "@type": "QuantitativeValue",
         "unitText": "works",
