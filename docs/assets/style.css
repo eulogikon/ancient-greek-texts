@@ -10,20 +10,34 @@
   src: url("fonts/source-sans-3.woff2") format("woff2");
 }
 
+/* Theme resolution (auto + manual toggle), same four-block contract as
+   eulogikon.org tokens.css:
+     1. Base :root              — light values (default).
+     2. @media dark             — dark values when OS prefers dark and the
+                                  user has not forced light.
+     3. [data-theme="light"]    — light values re-asserted to defeat the
+                                  media query when the user forces light.
+     4. [data-theme="dark"]     — dark values when the user forces dark.
+   Navbar and footer slate gradients stay literal (not mode-dependent). */
 :root {
-  --bg:       #F7F7F5;  /* warm off-white page */
-  --card:     #FFFFFF;
-  --ink:      #2D3748;  /* body text / headings */
-  --muted:    #718096;
-  --dark:     #3D4852;  /* navbar + footer */
-  --dark-2:   #4A5568;  /* slate controls */
+  color-scheme: light;
+
+  --bg:        #F7F7F5;  /* warm off-white page */
+  --card:      #FFFFFF;
+  --card-wash: #FAFAF8;
+  --ink:       #2D3748;  /* body text / headings */
+  --ink-2:     #4A5568;  /* secondary body text */
+  --muted:     #718096;
+  --dark:      #3D4852;  /* navbar + footer (chrome, stays) */
+  --dark-2:    #4A5568;  /* slate controls */
   --dark-hover:#5A6A78;
-  --light:    #E2E8F0;  /* text on dark */
-  --lighter:  #CBD5E0;
-  --gold:     #9A8555;  /* signature accent */
-  --gold-dark:#7A6A45;
-  --hairline: #EDF2F7;
+  --light:     #E2E8F0;  /* text on dark chrome */
+  --lighter:   #CBD5E0;
+  --gold:      #9A8555;  /* signature accent */
+  --gold-dark: #7A6A45;
+  --hairline:  #EDF2F7;
   --hairline-2:#E2E8F0;
+  --lang-bar:  #EFEFEC;
   --maxw: 1040px;
 
   /* Self-hosted Source Sans 3 covers Latin + Greek + Cyrillic. System Noto
@@ -32,6 +46,59 @@
           "Segoe UI", Arial, "Noto Sans", "Noto Sans CJK SC", "Noto Sans CJK JP",
           "Hiragino Sans", "Microsoft YaHei", "Noto Sans Devanagari", sans-serif;
   --mono: 'Courier New', ui-monospace, Menlo, Consolas, monospace;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+
+    --bg:        #000000;
+    --card:      #000000;
+    --card-wash: #0B0C0E;
+    --ink:       #E8EAED;
+    --ink-2:     #B7BDC6;
+    --muted:     #8B93A1;
+    --lighter:   #3D4552;
+    --gold:      #C4B07A;
+    --gold-dark: #D4C08A;
+    --hairline:  #171A1F;
+    --hairline-2:#262B33;
+    --lang-bar:  #0B0C0E;
+  }
+}
+
+:root[data-theme="light"] {
+  color-scheme: light;
+
+  --bg:        #F7F7F5;
+  --card:      #FFFFFF;
+  --card-wash: #FAFAF8;
+  --ink:       #2D3748;
+  --ink-2:     #4A5568;
+  --muted:     #718096;
+  --lighter:   #CBD5E0;
+  --gold:      #9A8555;
+  --gold-dark: #7A6A45;
+  --hairline:  #EDF2F7;
+  --hairline-2:#E2E8F0;
+  --lang-bar:  #EFEFEC;
+}
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+
+  --bg:        #000000;
+  --card:      #000000;
+  --card-wash: #0B0C0E;
+  --ink:       #E8EAED;
+  --ink-2:     #B7BDC6;
+  --muted:     #8B93A1;
+  --lighter:   #3D4552;
+  --gold:      #C4B07A;
+  --gold-dark: #D4C08A;
+  --hairline:  #171A1F;
+  --hairline-2:#262B33;
+  --lang-bar:  #0B0C0E;
 }
 
 * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -134,9 +201,47 @@ body {
 }
 .nav-tab:hover { color: #fff; border-bottom-color: var(--gold); }
 
+.theme-toggle {
+  position: absolute;
+  right: 20px;
+  top: 14px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 38px;
+  height: 38px;
+  padding: 0;
+  background: transparent;
+  border: 1px solid transparent;
+  border-radius: 6px;
+  color: var(--gold);
+  cursor: pointer;
+  transition: color 0.2s ease, border-color 0.2s ease;
+  z-index: 120;
+}
+.theme-toggle:hover,
+.theme-toggle:focus-visible {
+  color: #fff;
+  border-color: var(--gold);
+  outline: none;
+}
+.theme-toggle svg {
+  width: 20px;
+  height: 20px;
+  display: block;
+}
+.theme-toggle .icon-sun { display: none; }
+.theme-toggle .icon-moon { display: block; }
+:root[data-theme="dark"] .theme-toggle .icon-sun { display: block; }
+:root[data-theme="dark"] .theme-toggle .icon-moon { display: none; }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .theme-toggle .icon-sun { display: block; }
+  :root:not([data-theme="light"]) .theme-toggle .icon-moon { display: none; }
+}
+
 /* ---------- Language bar (slim strip under navbar) ---------- */
 .lang-bar {
-  background: #EFEFEC;
+  background: var(--lang-bar);
   border-bottom: 1px solid var(--hairline-2);
 }
 .lang-switcher {
@@ -260,7 +365,7 @@ code {
   background: var(--bg);
   padding: 0.1em 0.35em;
   border-radius: 4px;
-  color: var(--dark-2);
+  color: var(--ink-2);
 }
 .naming {
   background: var(--bg);
@@ -302,7 +407,7 @@ code {
 .faq dt:first-child { margin-top: 0; }
 .faq dd {
   margin: 0.35rem 0 0;
-  color: var(--dark-2);
+  color: var(--ink-2);
 }
 
 /* ---------- Citation ---------- */
@@ -318,7 +423,7 @@ code {
   overflow-x: auto;
   white-space: pre-wrap;
   word-break: break-word;
-  color: var(--dark-2);
+  color: var(--ink-2);
 }
 
 /* ---------- Footer (dark slate, full-bleed) ---------- */
@@ -367,12 +472,12 @@ table.agent-urls {
 }
 table.agent-urls th,
 table.agent-urls td {
-  border: 1px solid var(--border, #ddd);
+  border: 1px solid var(--hairline-2);
   padding: 0.5rem 0.75rem;
   text-align: left;
   vertical-align: top;
 }
-table.agent-urls th { background: var(--bg-alt, #f5f5f5); }
+table.agent-urls th { background: var(--bg); }
 pre code { font-size: 0.9em; }
 
 /* ---------- Catalog browse cards (pilot landing pages) ---------- */
@@ -425,7 +530,7 @@ pre code { font-size: 0.9em; }
   padding-bottom: 0;
   border-bottom: none;
   font-size: 1.05em;
-  color: var(--dark-2);
+  color: var(--ink-2);
 }
 .sitemap-list {
   list-style: none;
@@ -502,7 +607,7 @@ pre code { font-size: 0.9em; }
   border-radius: 8px;
   text-decoration: none;
   color: inherit;
-  background: linear-gradient(180deg, #ffffff 0%, #fafaf8 100%);
+  background: linear-gradient(180deg, var(--card) 0%, var(--card-wash) 100%);
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
   transition: border-color 0.2s, box-shadow 0.2s, transform 0.2s;
 }
@@ -574,7 +679,7 @@ pre code { font-size: 0.9em; }
 .taxonomy-row-blurb {
   font-size: 0.95em;
   line-height: 1.5;
-  color: var(--dark-2);
+  color: var(--ink-2);
 }
 
 .taxonomy-row-meta {
@@ -603,7 +708,7 @@ pre code { font-size: 0.9em; }
   margin: 0 auto;
   text-align: start;
   line-height: 1.6;
-  color: var(--dark-2);
+  color: var(--ink-2);
 }
 
 .alpha-strip {
@@ -871,7 +976,7 @@ pre code { font-size: 0.9em; }
 /* ---------- Corpus scale comparison ---------- */
 .corpus-compare .compare-intro {
   max-width: 42rem;
-  color: var(--dark-2);
+  color: var(--ink-2);
 }
 
 .compare-metrics {
@@ -964,6 +1069,12 @@ pre code { font-size: 0.9em; }
   .hero h1 { font-size: 1.7em; }
   .lang-list { font-size: 0.82em; gap: 1px 2px; }
   .lang-list a { padding: 2px 6px; }
+  .theme-toggle {
+    right: 12px;
+    top: 10px;
+    width: 34px;
+    height: 34px;
+  }
 }
 
 @media (max-width: 768px) {
@@ -973,5 +1084,14 @@ pre code { font-size: 0.9em; }
   .compare-row-name {
     grid-column: 1 / -1;
     margin-bottom: -0.2rem;
+  }
+}
+
+@media print {
+  .navbar,
+  .lang-bar,
+  .theme-toggle,
+  .site-footer {
+    display: none !important;
   }
 }

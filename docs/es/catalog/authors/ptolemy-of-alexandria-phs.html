@@ -11,6 +11,8 @@
   gtag('config', 'G-ZW6ER238TX');
 </script>
 
+    <!-- eulogikon:theme-bootstrap -->
+    <script>try{var t=localStorage.getItem('eulogikon-theme');if(t==='light'||t==='dark'){document.documentElement.setAttribute('data-theme',t)}}catch(e){}</script>
 
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -54,7 +56,7 @@
 <link rel="preload" as="font" type="font/woff2"
       href="../../../assets/fonts/source-sans-3.woff2">
 
-<link rel="stylesheet" href="../../../assets/style.css?v=071ff22a">
+<link rel="stylesheet" href="../../../assets/style.css?v=a186d020">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org/",
@@ -192,6 +194,10 @@
 
 <nav class="navbar">
   <div class="navbar-content">
+    <button class="theme-toggle" type="button" onclick="toggleTheme()" aria-label="Alternar modo oscuro" aria-pressed="false">
+      <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+      <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41"/></svg>
+    </button>
     <a href="https://eulogikon.github.io/ancient-greek-texts/es/" class="home-link">Eulogikon</a>
     <div class="navbar-subtitle">Textos griegos antiguos — Dominio público</div>
     <div class="nav-tabs">
@@ -566,5 +572,29 @@
     <a href="https://github.com/eulogikon/ancient-greek-texts">Contacto</a>
   </nav>
 </footer>
+    <!-- eulogikon:theme-script -->
+    <script>
+        function eulogikonResolvedTheme() {
+            var explicit = document.documentElement.getAttribute('data-theme');
+            if (explicit === 'light' || explicit === 'dark') return explicit;
+            return window.matchMedia('(prefers-color-scheme: dark').matches ? 'dark' : 'light';
+        }
+        function updateThemeToggle() {
+            var button = document.querySelector('.theme-toggle');
+            if (!button) return;
+            button.setAttribute('aria-pressed',
+                eulogikonResolvedTheme() === 'dark' ? 'true' : 'false');
+        }
+        function toggleTheme() {
+            var next = eulogikonResolvedTheme() === 'dark' ? 'light' : 'dark';
+            document.documentElement.setAttribute('data-theme', next);
+            try { localStorage.setItem('eulogikon-theme', next); } catch (e) {}
+            updateThemeToggle();
+        }
+        document.addEventListener('DOMContentLoaded', updateThemeToggle);
+        window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function () {
+            if (!document.documentElement.getAttribute('data-theme')) updateThemeToggle();
+        });
+    </script>
 </body>
 </html>
