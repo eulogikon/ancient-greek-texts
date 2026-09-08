@@ -1,6 +1,14 @@
 /* Eulogikon — Ancient Greek Texts · discovery landing site
-   Styled to match the live eulogikon.org chrome: Source Sans Pro on a warm
+   Styled to match the live eulogikon.org chrome: Source Sans 3 on a warm
    off-white ground, dark slate navbar/footer, gold accent, white content card. */
+
+@font-face {
+  font-family: "Source Sans 3";
+  font-style: normal;
+  font-weight: 300 600;
+  font-display: swap;
+  src: url("fonts/source-sans-3.woff2") format("woff2");
+}
 
 :root {
   --bg:       #F7F7F5;  /* warm off-white page */
@@ -18,11 +26,11 @@
   --hairline-2:#E2E8F0;
   --maxw: 1040px;
 
-  /* Source Sans Pro covers Latin + Greek + Cyrillic; Noto fallbacks carry
-     CJK (zh/ja) and Devanagari (hi) where Source Sans Pro has no glyphs. */
-  --sans: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial,
-          'Noto Sans', 'Noto Sans CJK SC', 'Noto Sans CJK JP', 'Hiragino Sans',
-          'Microsoft YaHei', 'Noto Sans Devanagari', sans-serif;
+  /* Self-hosted Source Sans 3 covers Latin + Greek + Cyrillic. System Noto
+     fallbacks carry CJK (zh/ja) and Devanagari (hi). */
+  --sans: "Source Sans 3", "Source Sans Pro", -apple-system, BlinkMacSystemFont,
+          "Segoe UI", Arial, "Noto Sans", "Noto Sans CJK SC", "Noto Sans CJK JP",
+          "Hiragino Sans", "Microsoft YaHei", "Noto Sans Devanagari", sans-serif;
   --mono: 'Courier New', ui-monospace, Menlo, Consolas, monospace;
 }
 
