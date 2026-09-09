@@ -20,6 +20,7 @@ headers or Accept: text/markdown content negotiation.
 - /llms.txt — Agent entry point on this origin
 - /el/catalog/ — Full catalog browse (el UI)
 - /es/catalog/ — Full catalog browse (es UI)
+- /pt/catalog/ — Full catalog browse (pt UI)
 - /zh/catalog/ — Full catalog browse (zh UI)
 
 - /ai.txt, /ai.json, /identity.json, /brand.txt, /faq-ai.txt, /developer-ai.txt
