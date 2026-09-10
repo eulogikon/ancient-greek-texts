@@ -17,8 +17,11 @@ work-reports/
 CLAUDE.md
 AGENTS.md
 cache/
+scripts/
 .claude/
 .codex/
+.zcode/
+.zed/
 .githooks/
 _docs-staging/
 # Submission-metadata drafts (Zenodo/HF/Kaggle): staged locally, deployed by
