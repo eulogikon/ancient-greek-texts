@@ -17,7 +17,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="google" content="notranslate">
-<title>Catalog — Ancient Greek Texts — Public Domain</title>
+<title>Catalog — Ancient Greek Texts</title>
 <meta name="description" content="Browse the public-domain corpus of ancient Greek texts by author, domain, period, or school.">
 <link rel="canonical" href="https://eulogikon.github.io/ancient-greek-texts/catalog/">
 <link rel="sitemap" type="application/xml" href="https://eulogikon.github.io/ancient-greek-texts/sitemap.xml">
@@ -36,18 +36,18 @@
 <link rel="alternate" hreflang="x-default" href="https://eulogikon.github.io/ancient-greek-texts/">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Eulogikon">
-<meta property="og:title" content="Catalog — Ancient Greek Texts — Public Domain">
+<meta property="og:title" content="Catalog — Ancient Greek Texts">
 <meta property="og:description" content="Browse the public-domain corpus of ancient Greek texts by author, domain, period, or school.">
 <meta property="og:url" content="https://eulogikon.github.io/ancient-greek-texts/catalog/">
 <meta property="og:image" content="https://eulogikon.github.io/ancient-greek-texts/assets/og-image.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta property="og:image:alt" content="Catalog">
-<meta property="og:locale" content="en_US">
+<meta property="og:image:alt" content="Catalog — Ancient Greek Texts">
+<meta property="og:locale" content="en">
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:image" content="https://eulogikon.github.io/ancient-greek-texts/assets/og-image.png">
-<meta name="twitter:image:alt" content="Catalog">
+<meta name="twitter:image:alt" content="Catalog — Ancient Greek Texts">
 <meta name="author" content="Eulogikon">
 <meta name="ai-train" content="yes">
 <link rel="agent-skills" type="application/json" href="https://eulogikon.github.io/ancient-greek-texts/.well-known/agent-skills/index.json">
@@ -57,7 +57,104 @@
       href="../assets/fonts/source-sans-3.woff2">
 
 <link rel="stylesheet" href="../assets/style.css?v=acafc0f7">
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@graph": [
+    {
+      "@context": "https://schema.org",
+      "@id": "https://github.com/eulogikon/ancient-greek-texts#dataset",
+      "@type": "Dataset",
+      "creator": {
+        "@type": "Organization",
+        "name": "Eulogikon",
+        "url": "https://eulogikon.org"
+      },
+      "description": "Open public-domain archive of ancient Greek literature — 1358 authors and 4060 works spanning Homer through late antiquity — published as PDF, Markdown, and plain-text files with machine-readable indexes.",
+      "distribution": [
+        {
+          "@type": "DataDownload",
+          "contentUrl": "https://eulogikon.github.io/ancient-greek-texts/llms.txt",
+          "description": "Catalog-site agent entry on this origin.",
+          "encodingFormat": "text/plain",
+          "name": "LLM entry point (llms.txt)"
+        },
+        {
+          "@type": "DataDownload",
+          "contentUrl": "https://raw.githubusercontent.com/eulogikon/ancient-greek-texts/main/manifest.json",
+          "description": "Full machine-readable manifest on raw GitHub.",
+          "encodingFormat": "application/json",
+          "name": "Machine-readable manifest (JSON)"
+        },
+        {
+          "@type": "DataDownload",
+          "contentUrl": "https://zenodo.org/records/20335421",
+          "encodingFormat": "application/zip",
+          "name": "Zenodo archival snapshot"
+        },
+        {
+          "@type": "DataDownload",
+          "contentUrl": "https://huggingface.co/datasets/eulogikon/ancient-greek-texts",
+          "encodingFormat": "application/x-parquet",
+          "name": "Hugging Face dataset"
+        }
+      ],
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.5281/zenodo.20335421"
+      },
+      "inLanguage": "grc",
+      "isAccessibleForFree": true,
+      "license": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "name": "Ancient Greek Texts",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Eulogikon",
+        "url": "https://eulogikon.org"
+      },
+      "sameAs": [
+        "https://eulogikon.org",
+        "https://doi.org/10.5281/zenodo.20335421",
+        "https://huggingface.co/datasets/eulogikon/ancient-greek-texts"
+      ],
+      "size": {
+        "@type": "QuantitativeValue",
+        "unitText": "works",
+        "value": 4060
+      },
+      "url": "https://github.com/eulogikon/ancient-greek-texts",
+      "variableMeasured": [
+        {
+          "@type": "PropertyValue",
+          "name": "authors",
+          "value": 1358
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "works",
+          "value": 4060
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org/",
+      "@id": "https://eulogikon.github.io/ancient-greek-texts/catalog/",
+      "@type": "CollectionPage",
+      "about": {
+        "@id": "https://github.com/eulogikon/ancient-greek-texts#dataset"
+      },
+      "description": "Browse the public-domain corpus of ancient Greek texts by author, domain, period, or school.",
+      "inLanguage": "en",
+      "isPartOf": {
+        "@id": "https://eulogikon.github.io/ancient-greek-texts/#website"
+      },
+      "name": "Catalog — Ancient Greek Texts",
+      "url": "https://eulogikon.github.io/ancient-greek-texts/catalog/"
+    }
+  ]
+}
+</script>
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to content</a>
@@ -109,29 +206,464 @@
 </section>
 
 <section>
-  <div class="browse-grid">
+  <h2>By author</h2>
+  <nav class="alpha-strip" aria-label="By author">
     
-    <a class="browse-card" href="https://eulogikon.github.io/ancient-greek-texts/el/catalog/">
-      <strong>Κατάλογος</strong>
-      <span>EL</span>
+    <a class="alpha-chip" href="https://eulogikon.github.io/ancient-greek-texts/catalog/authors/A.html">
+      <span class="alpha-chip-letter">A</span>
+      
+      <span class="alpha-chip-count">8</span>
+      
     </a>
     
-    <a class="browse-card" href="https://eulogikon.github.io/ancient-greek-texts/es/catalog/">
-      <strong>Catálogo</strong>
-      <span>ES</span>
+    <a class="alpha-chip" href="https://eulogikon.github.io/ancient-greek-texts/catalog/authors/C.html">
+      <span class="alpha-chip-letter">C</span>
+      
+      <span class="alpha-chip-count">4</span>
+      
     </a>
     
-    <a class="browse-card" href="https://eulogikon.github.io/ancient-greek-texts/pt/catalog/">
-      <strong>Catálogo</strong>
-      <span>PT</span>
+    <a class="alpha-chip" href="https://eulogikon.github.io/ancient-greek-texts/catalog/authors/D.html">
+      <span class="alpha-chip-letter">D</span>
+      
+      <span class="alpha-chip-count">4</span>
+      
     </a>
     
-    <a class="browse-card" href="https://eulogikon.github.io/ancient-greek-texts/zh/catalog/">
-      <strong>目录</strong>
-      <span>ZH</span>
+    <a class="alpha-chip" href="https://eulogikon.github.io/ancient-greek-texts/catalog/authors/E.html">
+      <span class="alpha-chip-letter">E</span>
+      
+      <span class="alpha-chip-count">5</span>
+      
     </a>
     
-  </div>
+    <a class="alpha-chip" href="https://eulogikon.github.io/ancient-greek-texts/catalog/authors/G.html">
+      <span class="alpha-chip-letter">G</span>
+      
+      <span class="alpha-chip-count">2</span>
+      
+    </a>
+    
+    <a class="alpha-chip" href="https://eulogikon.github.io/ancient-greek-texts/catalog/authors/H.html">
+      <span class="alpha-chip-letter">H</span>
+      
+      <span class="alpha-chip-count">4</span>
+      
+    </a>
+    
+    <a class="alpha-chip" href="https://eulogikon.github.io/ancient-greek-texts/catalog/authors/I.html">
+      <span class="alpha-chip-letter">I</span>
+      
+      <span class="alpha-chip-count">1</span>
+      
+    </a>
+    
+    <a class="alpha-chip" href="https://eulogikon.github.io/ancient-greek-texts/catalog/authors/L.html">
+      <span class="alpha-chip-letter">L</span>
+      
+      <span class="alpha-chip-count">2</span>
+      
+    </a>
+    
+    <a class="alpha-chip" href="https://eulogikon.github.io/ancient-greek-texts/catalog/authors/M.html">
+      <span class="alpha-chip-letter">M</span>
+      
+      <span class="alpha-chip-count">2</span>
+      
+    </a>
+    
+    <a class="alpha-chip" href="https://eulogikon.github.io/ancient-greek-texts/catalog/authors/P.html">
+      <span class="alpha-chip-letter">P</span>
+      
+      <span class="alpha-chip-count">9</span>
+      
+    </a>
+    
+    <a class="alpha-chip" href="https://eulogikon.github.io/ancient-greek-texts/catalog/authors/S.html">
+      <span class="alpha-chip-letter">S</span>
+      
+      <span class="alpha-chip-count">4</span>
+      
+    </a>
+    
+    <a class="alpha-chip" href="https://eulogikon.github.io/ancient-greek-texts/catalog/authors/T.html">
+      <span class="alpha-chip-letter">T</span>
+      
+      <span class="alpha-chip-count">2</span>
+      
+    </a>
+    
+    <a class="alpha-chip" href="https://eulogikon.github.io/ancient-greek-texts/catalog/authors/X.html">
+      <span class="alpha-chip-letter">X</span>
+      
+      <span class="alpha-chip-count">2</span>
+      
+    </a>
+    
+    <a class="alpha-chip" href="https://eulogikon.github.io/ancient-greek-texts/catalog/authors/Z.html">
+      <span class="alpha-chip-letter">Z</span>
+      
+      <span class="alpha-chip-count">1</span>
+      
+    </a>
+    
+  </nav>
+  <p class="section-cta">
+    <a href="https://eulogikon.github.io/ancient-greek-texts/catalog/authors/">Browse all authors A–Z</a>
+  </p>
+</section>
+
+<section>
+  <h2>By period</h2>
+  <ul class="taxonomy-list taxonomy-list--compact">
+    
+    <li>
+      <a class="taxonomy-row" href="https://eulogikon.github.io/ancient-greek-texts/catalog/periods/archaic.html">
+        <span class="taxonomy-row-head">
+          <strong class="taxonomy-row-title">Archaic</strong>
+          
+          <span class="taxonomy-row-date">800–480 BCE</span>
+          
+        </span>
+        <span class="taxonomy-row-blurb">The Archaic period runs from the adoption of the Greek alphabet to the Persian Wars.</span>
+        <span class="taxonomy-row-meta">
+          <span>3 authors</span>
+          <span aria-hidden="true">·</span>
+          <span>15 works</span>
+        </span>
+      </a>
+    </li>
+    
+    <li>
+      <a class="taxonomy-row" href="https://eulogikon.github.io/ancient-greek-texts/catalog/periods/classical.html">
+        <span class="taxonomy-row-head">
+          <strong class="taxonomy-row-title">Classical</strong>
+          
+          <span class="taxonomy-row-date">480–323 BCE</span>
+          
+        </span>
+        <span class="taxonomy-row-blurb">From the Persian Wars to the death of Alexander, the Classical period is the golden age of Athenian democracy and pan-Hellenic culture.</span>
+        <span class="taxonomy-row-meta">
+          <span>14 authors</span>
+          <span aria-hidden="true">·</span>
+          <span>357 works</span>
+        </span>
+      </a>
+    </li>
+    
+    <li>
+      <a class="taxonomy-row" href="https://eulogikon.github.io/ancient-greek-texts/catalog/periods/hellenistic.html">
+        <span class="taxonomy-row-head">
+          <strong class="taxonomy-row-title">Hellenistic</strong>
+          
+          <span class="taxonomy-row-date">323–31 BCE</span>
+          
+        </span>
+        <span class="taxonomy-row-blurb">After Alexander&#39;s death, Greek culture spreads across the eastern Mediterranean and Near East while new royal courts patronise scholarship.</span>
+        <span class="taxonomy-row-meta">
+          <span>15 authors</span>
+          <span aria-hidden="true">·</span>
+          <span>128 works</span>
+        </span>
+      </a>
+    </li>
+    
+    <li>
+      <a class="taxonomy-row" href="https://eulogikon.github.io/ancient-greek-texts/catalog/periods/late-antique.html">
+        <span class="taxonomy-row-head">
+          <strong class="taxonomy-row-title">Late Antique</strong>
+          
+          <span class="taxonomy-row-date">330–600 CE</span>
+          
+        </span>
+        <span class="taxonomy-row-blurb">Late antiquity bridges the Roman Empire&#39;s Christianisation and the early Byzantine world.</span>
+        <span class="taxonomy-row-meta">
+          <span>9 authors</span>
+          <span aria-hidden="true">·</span>
+          <span>113 works</span>
+        </span>
+      </a>
+    </li>
+    
+    <li>
+      <a class="taxonomy-row" href="https://eulogikon.github.io/ancient-greek-texts/catalog/periods/roman.html">
+        <span class="taxonomy-row-head">
+          <strong class="taxonomy-row-title">Roman</strong>
+          
+          <span class="taxonomy-row-date">31 BCE–330 CE</span>
+          
+        </span>
+        <span class="taxonomy-row-blurb">Under Roman rule, Greek remains the language of education and elite culture across the eastern Empire.</span>
+        <span class="taxonomy-row-meta">
+          <span>9 authors</span>
+          <span aria-hidden="true">·</span>
+          <span>353 works</span>
+        </span>
+      </a>
+    </li>
+    
+  </ul>
+  <p class="section-cta">
+    <a href="https://eulogikon.github.io/ancient-greek-texts/catalog/periods/">All periods</a>
+  </p>
+</section>
+
+<section>
+  <h2>By domain</h2>
+  <ul class="taxonomy-list taxonomy-list--compact">
+    
+    <li>
+      <a class="taxonomy-row" href="https://eulogikon.github.io/ancient-greek-texts/catalog/domains/comedy.html">
+        <span class="taxonomy-row-head">
+          <strong class="taxonomy-row-title">Comedy</strong>
+        </span>
+        <span class="taxonomy-row-blurb">Old, Middle, and New Comedy—satirical drama from Aristophanes to Menander, mocking politics, philosophy, and everyday life.</span>
+        <span class="taxonomy-row-meta">
+          <span>2 authors</span>
+          <span aria-hidden="true">·</span>
+          <span>61 works</span>
+        </span>
+      </a>
+    </li>
+    
+    <li>
+      <a class="taxonomy-row" href="https://eulogikon.github.io/ancient-greek-texts/catalog/domains/drama.html">
+        <span class="taxonomy-row-head">
+          <strong class="taxonomy-row-title">Drama</strong>
+        </span>
+        <span class="taxonomy-row-blurb">Tragedy and dramatic poetry performed in the theatre—Aeschylus, Sophocles, Euripides, and the tragic tradition they established.</span>
+        <span class="taxonomy-row-meta">
+          <span>3 authors</span>
+          <span aria-hidden="true">·</span>
+          <span>52 works</span>
+        </span>
+      </a>
+    </li>
+    
+    <li>
+      <a class="taxonomy-row" href="https://eulogikon.github.io/ancient-greek-texts/catalog/domains/epic.html">
+        <span class="taxonomy-row-head">
+          <strong class="taxonomy-row-title">Epic</strong>
+        </span>
+        <span class="taxonomy-row-blurb">Long narrative verse in the epic tradition—Homeric and Hesiodic poetry and the learned epic of the Hellenistic age.</span>
+        <span class="taxonomy-row-meta">
+          <span>3 authors</span>
+          <span aria-hidden="true">·</span>
+          <span>12 works</span>
+        </span>
+      </a>
+    </li>
+    
+    <li>
+      <a class="taxonomy-row" href="https://eulogikon.github.io/ancient-greek-texts/catalog/domains/geography.html">
+        <span class="taxonomy-row-head">
+          <strong class="taxonomy-row-title">Geography</strong>
+        </span>
+        <span class="taxonomy-row-blurb">Descriptions of lands, peoples, and journeys—periploi, ethnography, and the geographic books of historians.</span>
+        <span class="taxonomy-row-meta">
+          <span>1 authors</span>
+          <span aria-hidden="true">·</span>
+          <span>4 works</span>
+        </span>
+      </a>
+    </li>
+    
+    <li>
+      <a class="taxonomy-row" href="https://eulogikon.github.io/ancient-greek-texts/catalog/domains/grammar.html">
+        <span class="taxonomy-row-head">
+          <strong class="taxonomy-row-title">Grammar</strong>
+        </span>
+        <span class="taxonomy-row-blurb">Technical writing on language—grammar, orthography, etymology, and the scholarly tools of Alexandrian philology.</span>
+        <span class="taxonomy-row-meta">
+          <span>1 authors</span>
+          <span aria-hidden="true">·</span>
+          <span>2 works</span>
+        </span>
+      </a>
+    </li>
+    
+    <li>
+      <a class="taxonomy-row" href="https://eulogikon.github.io/ancient-greek-texts/catalog/domains/history.html">
+        <span class="taxonomy-row-head">
+          <strong class="taxonomy-row-title">History</strong>
+        </span>
+        <span class="taxonomy-row-blurb">Historical narrative and inquiry—from Herodotus and Thucydides through Hellenistic and Roman historians to Byzantine chronicles.</span>
+        <span class="taxonomy-row-meta">
+          <span>6 authors</span>
+          <span aria-hidden="true">·</span>
+          <span>25 works</span>
+        </span>
+      </a>
+    </li>
+    
+    <li>
+      <a class="taxonomy-row" href="https://eulogikon.github.io/ancient-greek-texts/catalog/domains/mathematics.html">
+        <span class="taxonomy-row-head">
+          <strong class="taxonomy-row-title">Mathematics</strong>
+        </span>
+        <span class="taxonomy-row-blurb">Mathematical treatises in the Greek tradition—geometry, arithmetic, astronomy, and mechanics from Euclid to Ptolemy.</span>
+        <span class="taxonomy-row-meta">
+          <span>4 authors</span>
+          <span aria-hidden="true">·</span>
+          <span>45 works</span>
+        </span>
+      </a>
+    </li>
+    
+    <li>
+      <a class="taxonomy-row" href="https://eulogikon.github.io/ancient-greek-texts/catalog/domains/medicine.html">
+        <span class="taxonomy-row-head">
+          <strong class="taxonomy-row-title">Medicine</strong>
+        </span>
+        <span class="taxonomy-row-blurb">Medical and anatomical writing in the Hippocratic and Galenic traditions—clinical cases, theory, and pharmacology.</span>
+        <span class="taxonomy-row-meta">
+          <span>3 authors</span>
+          <span aria-hidden="true">·</span>
+          <span>199 works</span>
+        </span>
+      </a>
+    </li>
+    
+    <li>
+      <a class="taxonomy-row" href="https://eulogikon.github.io/ancient-greek-texts/catalog/domains/oratory.html">
+        <span class="taxonomy-row-head">
+          <strong class="taxonomy-row-title">Oratory</strong>
+        </span>
+        <span class="taxonomy-row-blurb">Forensic, deliberative, and epideictic speeches—Demosthenes, Lysias, Isocrates, and the art of persuasion in the assembly and courts.</span>
+        <span class="taxonomy-row-meta">
+          <span>4 authors</span>
+          <span aria-hidden="true">·</span>
+          <span>168 works</span>
+        </span>
+      </a>
+    </li>
+    
+    <li>
+      <a class="taxonomy-row" href="https://eulogikon.github.io/ancient-greek-texts/catalog/domains/philosophy.html">
+        <span class="taxonomy-row-head">
+          <strong class="taxonomy-row-title">Philosophy</strong>
+        </span>
+        <span class="taxonomy-row-blurb">Philosophical treatises, dialogues, and commentaries—from the Presocratics through Plato, Aristotle, and the Hellenistic schools.</span>
+        <span class="taxonomy-row-meta">
+          <span>19 authors</span>
+          <span aria-hidden="true">·</span>
+          <span>354 works</span>
+        </span>
+      </a>
+    </li>
+    
+    <li>
+      <a class="taxonomy-row" href="https://eulogikon.github.io/ancient-greek-texts/catalog/domains/poetry.html">
+        <span class="taxonomy-row-head">
+          <strong class="taxonomy-row-title">Poetry</strong>
+        </span>
+        <span class="taxonomy-row-blurb">Lyric, elegiac, and hymnic verse outside epic and drama—personal song, choral poetry, and imperial panegyric.</span>
+        <span class="taxonomy-row-meta">
+          <span>2 authors</span>
+          <span aria-hidden="true">·</span>
+          <span>10 works</span>
+        </span>
+      </a>
+    </li>
+    
+    <li>
+      <a class="taxonomy-row" href="https://eulogikon.github.io/ancient-greek-texts/catalog/domains/scholia.html">
+        <span class="taxonomy-row-head">
+          <strong class="taxonomy-row-title">Scholia</strong>
+        </span>
+        <span class="taxonomy-row-blurb">Marginal and standalone commentaries on canonical authors—scholia preserving ancient exegesis and textual variants.</span>
+        <span class="taxonomy-row-meta">
+          <span>2 authors</span>
+          <span aria-hidden="true">·</span>
+          <span>34 works</span>
+        </span>
+      </a>
+    </li>
+    
+  </ul>
+  <p class="section-cta">
+    <a href="https://eulogikon.github.io/ancient-greek-texts/catalog/domains/">All domains</a>
+  </p>
+</section>
+
+<section>
+  <h2>By school</h2>
+  <ul class="taxonomy-list taxonomy-list--compact">
+    
+    <li>
+      <a class="taxonomy-row" href="https://eulogikon.github.io/ancient-greek-texts/catalog/affiliations/aristotelian.html">
+        <span class="taxonomy-row-head">
+          <strong class="taxonomy-row-title">Aristotelian</strong>
+        </span>
+        <span class="taxonomy-row-blurb">Followers of Aristotle and the Peripatetic tradition—logic, ethics, natural philosophy, and commentary.</span>
+        <span class="taxonomy-row-meta">
+          <span>2 authors</span>
+          <span aria-hidden="true">·</span>
+          <span>57 works</span>
+        </span>
+      </a>
+    </li>
+    
+    <li>
+      <a class="taxonomy-row" href="https://eulogikon.github.io/ancient-greek-texts/catalog/affiliations/epicurean.html">
+        <span class="taxonomy-row-head">
+          <strong class="taxonomy-row-title">Epicurean</strong>
+        </span>
+        <span class="taxonomy-row-blurb">Epicurus and his followers—atomist physics, hedonist ethics, and the ideal of tranquil pleasure.</span>
+        <span class="taxonomy-row-meta">
+          <span>1 authors</span>
+          <span aria-hidden="true">·</span>
+          <span>8 works</span>
+        </span>
+      </a>
+    </li>
+    
+    <li>
+      <a class="taxonomy-row" href="https://eulogikon.github.io/ancient-greek-texts/catalog/affiliations/neoplatonist.html">
+        <span class="taxonomy-row-head">
+          <strong class="taxonomy-row-title">Neoplatonist</strong>
+        </span>
+        <span class="taxonomy-row-blurb">Late antique Platonists from Plotinus to Proclus—hierarchical metaphysics, commentary, and religious philosophy.</span>
+        <span class="taxonomy-row-meta">
+          <span>7 authors</span>
+          <span aria-hidden="true">·</span>
+          <span>66 works</span>
+        </span>
+      </a>
+    </li>
+    
+    <li>
+      <a class="taxonomy-row" href="https://eulogikon.github.io/ancient-greek-texts/catalog/affiliations/platonist.html">
+        <span class="taxonomy-row-head">
+          <strong class="taxonomy-row-title">Platonist</strong>
+        </span>
+        <span class="taxonomy-row-blurb">Plato and the Platonic tradition—dialogue, Forms, and the Academy&#39;s heirs before Neoplatonism.</span>
+        <span class="taxonomy-row-meta">
+          <span>4 authors</span>
+          <span aria-hidden="true">·</span>
+          <span>190 works</span>
+        </span>
+      </a>
+    </li>
+    
+    <li>
+      <a class="taxonomy-row" href="https://eulogikon.github.io/ancient-greek-texts/catalog/affiliations/stoic.html">
+        <span class="taxonomy-row-head">
+          <strong class="taxonomy-row-title">Stoic</strong>
+        </span>
+        <span class="taxonomy-row-blurb">The Stoic school from Zeno to Roman Stoics—logic, physics, and ethics unified in a rational cosmos.</span>
+        <span class="taxonomy-row-meta">
+          <span>5 authors</span>
+          <span aria-hidden="true">·</span>
+          <span>16 works</span>
+        </span>
+      </a>
+    </li>
+    
+  </ul>
+  <p class="section-cta">
+    <a href="https://eulogikon.github.io/ancient-greek-texts/catalog/affiliations/">All schools</a>
+  </p>
 </section>
 
     </main>
